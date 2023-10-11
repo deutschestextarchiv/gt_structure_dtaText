@@ -1,0 +1,1043 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><g><b>Einleitung</b>
+in die
+<b>statische Baukunst</b>
+von
+<b>Franz Gerstner,</b></g>
+der freyen Künste und Weltwei&sr;heit Doktor, Adjunkt an der k.
+k. Sternwarte, provisorisch angestellten öffentlichen Lehrer der hö-
+heren Mathematik und Astronomie an der Karlferdinandischen
+Universität zu Prag, ordentlichen Mitglied der höhmischen
+Gesellschaft der Wissenschaften.
+<abb>
+<hr>
+<g>Prag</g>,
+mit Schriften der k. k. Normalschul-Buchdruckerey.
+<g>1789</g>.</front>
+<pb>
+<front><g>Au&sr;getheilt
+al&sr;
+<b>unter dem Vorsitze</b></g>
+de&sr; Hochwürdigen und Hochgelehrten Herrn
+<b>Johann Nepomucen Die&sr;bach,</b>
+der Weltwei&sr;heit und Gotte&sr;gelehrtheit Doktor, k. k. Rath,
+Domherr zu Dynaburg in Liefland, der Weltwei&sr;heit im
+physischen und mathematischen Fache
+<g><b>Präse&sr; und Direktor;</b>
+in Gegenwart</g>
+de&sr; Hochwürdigen und Hochgelehrten Herrn
+<b><g>Stani&sr;lau&sr; Wydra</g>,</b>
+der Weltwei&sr;heit Doktor, der reinen und angewandten Mathema-
+tik k. k ordentlichen Professor, und kön. Examinator, an der
+Universität zu Prag, der philosophischen Fakultät
+<g>Dekan.
+Und in Beyseyn
+der ganzen philosophischen Fakultät
+seine Zuhörer</g>
+Joseph Ritter, von Brünn au&sr; Mähren,
+Franz Nedbal, von Wallischbürken au&sr; Böhmen,
+Joseph Hantschl, von Zwickau au&sr; Böhmen,
+Hörer der philosophischen Wissenschaften in&sr; dritte Jahr.
+<g>Au&sr; den</g>
+angehängten Lehrgegenständen der höheren Analysi&sr;
+<g>im großen karolinischen Hörsale</g>
+den 7. Heumonat vormittag&sr; von 10 bi&sr; 12 Uhr
+<g>öffentlich geprüfet wurden</g>.</front>
+<pb>
+<hr>
+<d1></d1>
+<p><in>B</in>ey den Fortschritten, welche die mechani-
+schen Künste seit einem Jahrhundert mit
+Hilfe der höheren Mathematik machten, traf
+die Baukunst da&sr; unverdiente Schicksal ziem-
+lich weit hinter den übrigen zurückzubleiben.</p>
+<p><fr>Leibnitz</fr> und die <fr>Bernoullyen</fr> hatten zwar
+auch einigen Saamen zu ihrer Vervollkommnung
+gestreuet, indem sie die Kettenlinie für die
+schicklichste zu Gewölben erklärten. Allein außer
+dem, daß sich diese Linie mit dem guten Ge-
+schmack der Alten nicht vertragen wollte, konn-
+ten, oder wußten die Baumeister von derselben
+keinen vortheilhaften Gebrauch zu machen, weil
+sie mehr die Schwerpunkte der Gewolbsteine
+al&sr; die Lehrbögen anzugehen schien. <fr>Belidor</fr>
+hielt sich daher an die gemeinen Zirkelgewölbe.
+Seine Sätze au&sr; denen er die Widerlagen be-
+rechnet, gründen sich jedoch in Rücksicht de&sr;
+Drucke&sr; sowohl al&sr; de&sr; Widerstande&sr; auf so
+willkührliche Hypothesen, daß er bey der Au&sr;-
+übung selbst gegen sie mi&sr;trauisch wird, und
+Sicherheit&sr; halber den Widerlagen an Dicke
+zuzugeben anräth. <fr>Frist</fr>, der alle&sr; prüfte,
+wa&sr; hierüber bi&sr; zu seiner Zeit gesagt wor-
+den, ändert <fr>Belidor&sr;</fr> Zerlegung der Kräfte
+unrecht, und bleibt übrigen&sr; bey allen mangelba-
+ren Vorau&sr;setzungen, worauf dieser gebauet
+hatte.</p>
+<bs>a 2</bs><cw>Unsere</cw>
+<pb>
+<p>Unsere öffentlichen Gebäude, sie mögen
+zum Bedürfniß oder zur Pracht dienen, werden
+demnach entweder nach den Originalen der Al-
+ten oder nach praktischen Urtheilen von erfahr-
+nen Baumeistern au&sr;geführet, ohne jedoch mit
+völliger Sicherheit (wenigsten&sr; im Durchschnit-
+te genommen) ihre Dauer verbürgen zu können;
+zumal da nach dem Zeugniße der berühmtesten
+Architekten noch kein große&sr; Gewölbe durch
+Menschenhände entstanden, in dem sich nicht
+früh oder spät einige Nisse, au&sr; wa&sr; immer für
+Ursachen, geäußert hätten; wozu statt allen
+andern die einzige Kuppel der Peter&sr;kirche in Rom
+al&sr; Beispiel dienen kann.</p>
+<p>Nur eine gründliche und au&sr; der Natur de&sr;
+Bauen&sr; selbst hergeleitete Mechanik kann diesen
+Gebrechen steuern &2014; kann allein unsern Woh-
+nungen beruhigende Sicherheit und Staat&sr;ge-
+bäuden eine Haltung geben, die wenigsten&sr; nicht
+selbst die Ursache ihrer Auflösung in sich trägt,
+und sohin nur dem unau&sr;weichlichen Zahn der
+Zeit zu trotzen hat. Schade! daß die großen
+Männer dieser Kunst, vom <fr>Vitruv</fr> anzufan-
+gen, da&sr; Meisterstück der Baukunde nur in gu-
+ten Verhältnissen der Säulenordnungen und
+Bogenstellungen gesetzt, von der Bewunderung,
+die man selbst den Ruinen alter Prachtgebäude
+nicht versagen kann, hingerissen, sich blo&sr; zur
+Nachahmung gestimmt, und schon dadurch in
+den Besitz der besten Bauregeln zu kommen ver-
+muthet haben. Seit dem ward die Festigkeit,
+die doch da&sr; Wesentliche großer Bauwerke ist,
+durch den Hang nach Schönheit so sehr über-
+gangen, daß die Frage: ob ihre Pracht auch ih-
+rer Dauer angemessen seye, beinahe immer die
+letzte war. Der Grund davon wird begreiflich,
+<cw>wenn</cw>
+<pb>
+wenn wir bedenken, daß, wo nicht alle, doch
+der aufgeklärtere Theil der Menschen immer
+Geschmack an dem Schönen hat: jede&sr; Zeital-
+ter, selbst da&sr; Mittlere der Barbarey nicht au&sr;-
+genommen, hatte seine schönen Geister. Allein
+de&sr; Glück in die Geheimnisse der natürlichen
+Mechanik einzudringen, ward bi&sr;her nur wenigen
+zu Theil, die von der Natur mit besondern
+Scharfsinn nnd unbiegsamen Eifer in gleichem
+Maße begabt, in die glücklichen Umstände gesetzt
+wurden, Anlaß und Unterstützung bei ihrem Kunst-
+fache zu finden. Hätte Italien den unsterbli-
+chen <fr>Newton</fr> hervorgebracht, so würden wir,
+vielleicht für alle Fälle der Baukunst, sichere,
+brauchbare und faßliche Regeln haben, und bei
+der Betrachtung majestätischer Gebäude die Be-
+sorgniß unterdrücken dürfen, daß sie höchsten&sr;
+nur Erscheinungen für ein oder da&sr; andere Jahr-
+hundert seyn werden.</p>
+<p>Diese Gedanken haben mich schon im Jahre
+1776 da ich al&sr; Schüler der höheren Mathema-
+tik, mich mit den Schriften diese&sr; Fache&sr; be-
+kannt machte, aufgemuntert, alle&sr;, wa&sr; ich
+hierüber au&sr;findig machen konnte, zu durchfor-
+schen, und den schwersten Theil der höheren
+Baukunst, die Wölbung&sr;theorie, so viel al&sr;
+möglich, auf die einfachsten statischen Grundsä-
+tze zurückzuführen. E&sr; gelang mir damal&sr;, zu
+den Wahrheiten, wozu meine Vorgänger <fr>Jakob</fr>
+und <fr>Johann Bernoully, Leibnitz, Gregory, de la
+Hire, Couplet, Clairaut</fr>, und <fr>Elviu&sr;</fr> gekom-
+men waren, bequemere Wege zu finden, und
+eine größere Au&sr;sicht zu gewinnen. Vorzüg-
+lich freute mich da&sr; Glück, nicht blo&sr; für die
+Schwerpunkte der Gewölbsteine, wie <fr>Lambert</fr>,
+sondern für die ganze Maße der Gewölbe da&sr;
+<bs>a 3</bs><cw>Gleich-</cw>
+<pb>
+Gleichgewicht entdeckt zu haben. Ich gieng
+hierauf weiter, und fand Mittel, einer jeden
+gegebenen krummen Linie die nämliche Eigen-
+schaft de&sr; Gleichgewicht&sr; zu verschaffen. Die
+Resultate meiner Rechnungen über die Kup-
+pelgewölbe fielen mit den Angaben der ersten
+Baumeister übereinstimmend au&sr;. Ich kam
+auf eine gründlichere und leichtere Methode die
+Stärke der Widerlagen zu berechnen; und en-
+digte mit einigen Betrachtungen über die Fe-
+stigkeit wirklich bestehender Gewölbe, mit Rück-
+sicht auf die Bindung und den Zusammenhang
+ihrer Materie.</p>
+<p>Gegenwärtiger Aufsatz enthält ungefähr
+den vierten Theil dieser Arbeit. Ob er für da&sr;,
+wofür ich ihn bestimmt habe, nämlich für eine
+Einleitung in die statische Baukunst dienen
+könne, überlasse ich meinen Lesern zu entschei-
+den. Wird e&sr; meine Lage erlauben, mich fer-
+ner diesem Gegenstande zu widmen, so werden
+die weiteren Aufsätze in ähnlicher Gestalt von
+Zeit zu Zeit folgen.</p>
+<hr>
+<pb>
+<hr>
+<d1></d1>
+<d2>1.</d2>
+<p><in>W</in>enn ein Balken oder Stein, von der Gestalt ei-
+ne&sr; Pri&sr;ma, <aq><i>A B</i> (1 <i>Fig.</i>)</aq> bey seinen Enden <i><aq>A</aq></i> und <i><aq>B</aq></i>
+auf zwo Unterlagen <i><aq>C</aq></i> und <i><aq>D</aq></i> gelegt wird, so ist offen-
+bar, daß jede Unterlage die Hälfte seiner Last tragen
+müsse:</p>
+<p>Werden beyde Ende diese&sr; Balken&sr; (2. und 3.
+Fig.) an Seile gebunden, diese über Rollen gezogen,
+und zwey Gewichte daran gehängt, deren jede&sr; halb
+so schwer ist, al&sr; der Balken, so bleibt alle&sr; im Gleich-
+gewicht, der Balken mag wagerecht (2. <aq>Fig.</aq>) oder schief
+(3. <aq>Fig.</aq>) aufgehängt werden; vorau&sr;geseßt, daß der
+Balken frey hängt, daß die Seile parallel ziehen, und
+daß ihre eigene Schwere nicht in Betrachtung komme.</p>
+<d2>2.</d2>
+<p>Lehnen wir diesen Balken an eine senkrechte Flä-
+che <aq><i>X Z</i> (4. Fig.)</aq> z. B. an eine glatte Mauer, so müs-
+sen seine Ende <i><aq>A</aq></i> und <i><aq>B</aq></i> durch zwo eben so grosse Kräf-
+te al&sr; die Seile zu ziehen hatten, unterstützt werden.
+Wir wollen diese Kräfte, oder die halben Lasten de&sr;
+Balken&sr; durch zwo gleiche Linien <i><aq>A E</aq></i> und <i><aq>B F</aq></i> au&sr;-
+drücken. Die Richtung der Last <i><aq>A E</aq></i> ist zur Mauer
+parallel, sie kann also von derselben nicht erhalten wer-
+den; ziehen wir aber <i><aq>E C</aq></i> senkrecht auf <i><aq>X Z</aq></i>, und er-
+gänzen da&sr; Parallelogramm <i><aq>A C E D</aq></i>, so wird die
+Last <i><aq>A E</aq></i> in <i><aq>A C</aq></i> und <i><aq>A D</aq></i> aufgelöset. Die erste <i><aq>A D</aq></i>
+wirkt senkrecht auf die Mauer, und wird von derselben
+<bs>a 4</bs><cw>ganz</cw>
+<pb="8"/>
+ganz erhalten: die zweite <i><aq>A C</aq></i> muß vom Balken selbst
+erhalten werden; sie geht nach seiner Richtung in dem-
+selben fort, und äussert sich bey <i><aq>B</aq></i>. Wir haben daher
+bey dem unteren Ende <i><aq>B</aq></i> zwo Kräfte, <aq><i>B I</i> (= <i>A C</i>)</aq> und
+<aq><i>B F</i> (= <i>A E</i>)</aq> zu betrachten, welche durch da&sr; Parallelo-
+gramm <i><aq>B I K F</aq></i> zusammengesetzt, die Kraft <i><aq>B K</aq></i> geben,
+womit der angelehnte Balken bey <i><aq>B</aq></i> gegen seine Wi-
+derlage drückt, und die unterstützt werden muß, wenn
+der Balken nicht weichen oder fallen soll.</p>
+<d2>3.</d2>
+<p>Wenn wir statt der Fläche <i><aq>X Z</aq></i> von der andern
+Seite einen gleichen Balken <i><aq>a b</aq></i> unter dem Winkel
+<i><aq>Z a b</aq></i> entgegenlehnen, und die Last <aq><i>a e</i> (= <i>A E</i>)</aq> durch
+da&sr; Parallelogramm <i><aq>a c e d</aq></i> in <i><aq>a d</aq></i> und <i><aq>a c</aq></i> zerlegen, so
+sind die Kräfte <i><aq>A D</aq></i> und <i><aq>a d</aq></i> einander gleich, und ent-
+gegengesetzt; sie heben daher einander auf, und am Ende
+de&sr; Balken&sr; <i><aq>b</aq></i> äussert sich die Kraft <aq><i>b k</i> (= <i>B K</i>)</aq> u. s. w.
+Daher gilt alle&sr;, wa&sr; immer für eine Seite angefüh-
+ret wird, auch für die andere.</p>
+<d2>4.</d2>
+<p>Weil die Kraft <aq><i>B I</i> (= <i>A C</i>)</aq> au&sr; <aq><i>B G</i> (= <i>C E</i>)</aq> und
+<aq><i>G I (= A E = B F = F H</i>)</aq> zusammengesetzt ist, so zerfällt
+<i><aq>B K</aq></i> in <i><aq>B G</aq></i> und <aq><i>B H</i> (= <i>B F + F H = B F + A E</i>)</aq>.
+Die letztere <i><aq>B H</aq></i> wirkt senkrecht auf den Horizont, und
+ist der ganzen Last de&sr; Balken&sr; gleich: die erstere <i><aq>B G</aq></i>
+aber wird durch den Winkel <aq><i>C A E</i>,</aq> und durch die hal-
+be Last de&sr; Balken&sr; <i><aq>A E</aq></i> bestimmt; denn wenn wir die
+ganze Last de&sr; Balken&sr; <i><aq>p</aq></i> nennen, so ist <i><aq>C E = A E</aq></i>.
+Tang. <aq><i>B A Z</i> = &frac12; <i>p</i></aq>. Tang. &frac12; <i><aq>B A b</aq></i>.</p>
+<p>Hierau&sr; läßt sich leicht der <fr>Druck</fr> berechnen,
+<fr>womit die gemeinen Dächer auf ihre Widerlagen
+drücken</fr>. Denn derselbe ist <fr>immer au&sr; zween zu-
+sammengesetzt, wovon einer</fr> (<i><aq>B H</aq></i>) <fr>senkrecht wirkt</fr>,
+<cw><fr>und</fr></cw>
+<pb="9"/>
+<fr>und der Last von einer Seite de&sr; Dache&sr; gleich ist:
+der andere</fr> (<i><aq>B G</aq></i>) <fr>wirkt wagerecht, und ist gleich
+dem Produkte au&sr; der halben Last der Dachseite in
+die Tangente de&sr; halben Winkel&sr;, den die Sparren
+miteinander machen</fr>.</p>
+<d2>5.</d2>
+<p>Auch die Frage, ob die höheren teutschen, oder
+niedern wälschen Dächer ihre Widerlagen mehr be-
+schweren, läßt sich hierau&sr; leicht beantworten. Denn
+der senkrechte Druck <i><aq>B H</aq></i> wächst offenbar mit der
+Grösse de&sr; Dache&sr;; er fällt aber ganz in die Rich-
+tung der Seitenmauern, und trägt oft noch zur Festig-
+keit de&sr; Gebäude&sr; bey, wie wir in der Folge sehen
+werden. Der wagerechte Druck <i><aq>B G</aq></i> verhält sich bey
+zwo Dachseiten <aq><i>A B</i>, <i>C B</i>, (5. Fig.)</aq> wie &frac12; <i><aq>A B</aq></i> Tang.
+<aq><i>B A Z</i> : &frac12; <i>C B</i></aq> Tang. <i><aq>B C Z</aq></i> = (weil im Dreyeck <aq><i>B A C</i>,
+<i>B A</i> : <i>B C</i></aq> = Sin. <i><aq>B C Z</aq></i> : Sin. <i><aq>B A Z</aq></i>) <formel>:
+<formel> = Cosec. <i><aq>A B Z</aq></i> : Cosec. <aq><i>C B Z</i>;</aq> und ist da-
+her um so grösser, je niedriger da&sr; Dach ist.</p>
+<p>Der au&sr; beyden zusammengesetzte Druck <aq><i>B K</i> (4.
+Fig.)</aq> ist = <formel> = <formel>
+= <formel> = (wegen <aq><i>p</i> = <i>B A</i></aq> =
+<formel>.
+Dieser Au&sr;druck wird unendlich, sowohl wenn die Hö-
+he de&sr; Dache&sr; <aq><i>A Z = o</i>,</aq> al&sr; auch wenn sie unendlich
+groß ist; er hat daher ein Kleinste&sr;, welche&sr; erhalten wird
+wenn da&sr; Differenziale der letzteren Formel (in wel-
+cher die halbe Breite de&sr; Gebäude&sr; <i><aq>B Z = b</aq></i>, und die
+veränderliche Höhe de&sr; Dache&sr; <i><aq>A Z = x</aq></i> gesetzet wird)
+<bs>a 5</bs><cw>ver-</cw>
+<pb="10"/>
+verschwindet. Hierau&sr; ist 2 <aq><i>A Z</i><up>2</up> = <i>B Z</i><up>2</up>;</aq> und <i><aq>A B Z</aq></i> =
+35° 16<up>1</up>.</p>
+<d2>6.</d2>
+<p>Wollen wir den Sparren <aq><i>A B</i> (6. Fig.)</aq> noch mit
+einem anderen <i><aq>B M</aq></i> unterstützen, so hat dieser bey <i><aq>B</aq></i>,
+nebst der Last <i><aq>B K</aq></i> noch die Hälfte seiner eigenen Schwe-
+re (= <i><aq>H L</aq></i>) zu tragen; die Diagonale de&sr; Parallelo-
+gramm&sr; <i><aq>B G N L</aq></i> giebt daher die Richtung, nach wel-
+cher dieser untere Sparren <i><aq>B M</aq></i> gestellet werden muß,
+damit die Richtung de&sr; ganzen Drucke&sr; nicht ausser
+der Basi&sr; <i><aq>M</aq></i> falle. Bey <i><aq>M</aq></i> kömmt wieder die Kraft
+<aq><i>M O</i> (= <i>B N</i>)</aq> mit der andern Hälfte seiner eigenen
+Schwere (<i><aq>P R</aq></i>) zusammen; diese geben mit einander
+die Kraft <i><aq>M Q</aq></i>, womit beede Sparren bey <i><aq>M</aq></i> auf die
+Widerlage drücken.</p>
+<p>Wollte man unter diese zween noch einen dritten
+<i><aq>M S</aq></i> setzen, so müßte wieder <i><aq>M Q</aq></i> mit der Hälfte seiner
+Last (= <i><aq>R T</aq></i>) zusammengesetzt werden: die Diagonale
+<i><aq>M S</aq></i> gäbe die Richtung, nach welcher derselbe gestellet
+werden müßte, und zugleich die Kraft, mit der er bey
+seinem unteren Ende <i><aq>U</aq></i> drückte u. s. w.</p>
+<d2>7.</d2>
+<p>Hierau&sr; ergeben sich folgende Sätze:</p>
+<p><aq>I.</aq> Weil <i><aq>C E = G B = N L = V M = S T</aq></i> u. s.
+w., so ist offenbar, daß <fr>der wagerechte Druck einer-
+ley Grösse behalte, wir mögen so viel Balken un-
+tereinander setzen, al&sr; wir wollen</fr>.</p>
+<p><aq>II. <i>A E</i></aq> war (§. 2) die halbe Last de&sr; obersten
+Sparren&sr;; <i><aq>B L</aq></i> war (§. 4 und §. 6) die ganze Last de&sr;
+oberen, mehr der halben Last de&sr; zweiten<i><aq>; M T</aq></i> war (§.
+6) die ganze Last der ersten zween, mehr der halben
+Last de&sr; dritten u. s. w.; <fr>wenn</fr> daher alle <fr>Sparren
+gleich schwer sind, so steigt der senkrechte Druck</fr>
+<cw><fr>an</fr></cw>
+<pb="11"/>
+<fr>an den Winkeln</fr> <aq><i>A</i>, <i>B</i>, <i>M</i></aq> &2026; = &frac12; : 1&frac12; : 2&frac12; . . . . =
+1 : 3 : 5 &2026; d. i. <fr>wie die ungeraden Zahlen</fr>.</p>
+<p><aq>III.</aq> Weil endlich Tang. <i><aq>A B Z</aq></i> = Tang. <aq><i>A C E =
+<formel></i>;</aq> Tang. <aq><i>B M &03D2; = <formel></i>;</aq> Tang. <i><aq>M U X = <formel></aq></i> &2026;
+so ist (wegen <i><aq>C E = L N = S T</aq></i> &2026;) Tang. <i><aq>A B Z</aq></i> :
+Tang. <i><aq>B M &03D2;</aq></i>: Tang. <aq><i>M U X &2026; = A E</i> : <i>B L</i> : <i>M T</i></aq> &2026;
+d. i. <fr>die Tangenten der Winkel, welche die Spar-
+ren mit dem Horizonte machen, verhalten sich wie
+die Lasten an den Punkten</fr> <aq><i>A</i>, <i>B</i>, <i>M</i></aq> &2026;, <fr>oder wenn
+die Sparren einander gleich sind, wie die ungeraden
+Zahlen</fr> 1 : 3 : 5 &2026;</p>
+<d2>8.</d2>
+<p>Der letzte Satz gieht un&sr; eine leichte Methode
+die Lage der Sparren durch eine Zeichnung zu finden.
+Wenn der Winkel <aq><i>A B C</i> (7. Fig.)</aq> den der obere Dach-
+sparren mit dem Horizonte macht, mit Rücksicht auf
+da&sr; Clima bestimmt worden, und beede Sparren ein-
+ander gleich seyn sollen, so mache man <i><aq>A C = A D =
+D E</aq></i> oder <aq><i>C E</i> = 3 <i>A C</i></aq>, so giebt die gerade Linie <i><aq>E B M</aq></i>
+die Lage de&sr; unteren Sparren&sr; <i><aq>B M</aq></i>.</p>
+<p>Soll die Höhe de&sr; Dache&sr; <i><aq>A G</aq></i> (8. u. 9. <aq>Fig.</aq>) der
+halben Breite <i><aq>C G</aq></i> gleich seyn, so nehme man die ganze
+Breite de&sr; Gebäude&sr; <aq><i>C c</i> (8 Fig.)</aq> zum Radiu&sr;, und
+mache mit demselben ersten&sr; au&sr; <i><aq>C</aq></i> und <i><aq>c</aq></i> bey <aq>D</aq>, und
+hernach au&sr; <i><aq>A</aq></i> in der verlängerten Breite <i><aq>C c</aq></i> bey <i><aq>E</aq></i>
+und <i><aq>e</aq></i> Durchschnitte. Werden endlich die Linien <aq><i>A E</i>,
+<i>A e</i>, <i>C D</i></aq> und <i><aq>c D</aq></i> gezogen, so ist <i><aq>C B A b c</aq></i> die Zeichnung
+de&sr; gebrochenen Dache&sr;. &2014; Denn wir haben Tang.
+<formel>
+<pb="12"/>
+<formel>
+<formel>.</p>
+<p>Oder man beschreibe über der gegebenen Breite <aq><i>C c</i>
+(9. Fig.)</aq> den halben Krei&sr; <i><aq>C A c</aq></i>, und theile jeden Vier-
+telkrei&sr; in drey gleiche Theile, welche&sr; geschieht, wenn
+die Sehnen <i><aq>A D</aq></i>, <i><aq>C E</aq></i>, <i><aq>A d</aq></i>, und <i><aq>c e</aq></i>, dem Halbmesser
+<i><aq>A G</aq></i> gleich gemacht werden; so geben die Linien <i><aq>C B</aq></i>
+und <i><aq>B A</aq></i>, <i><aq>c b</aq></i> und <i><aq>b A</aq></i> die Lage der Sparren. &2014; Denn
+der Winkel <aq><i>A B b</i> (= <i>A D d</i>)</aq> hat zu seinem Maße &frac12; <i><aq>A d</aq></i>
+= 30°, und der Winkel <i><aq>E C c</aq></i> hat zu seinem Maße
+&frac12; <i><aq>E e c</aq></i> = 60°; daher ist Tang. <i><aq>A B b</aq></i>: Tang. <i><aq>B C G</aq></i>
+= Tang. 30°: Tang. 60° = 1 : 3</p>
+<d2>9.</d2>
+<p>In diesem Falle ist der horizontale Druck de&sr;
+gebrochenen Dache&sr; = &frac12; <i><aq>A B</aq></i>. Tang. <aq><i>B A F</i> = &frac12; <i>A B</i>.
+<formel>;</aq> und der wagerechte Druck de&sr; einfachen Dache&sr;
+<i><aq>A C</aq></i> ist = &frac12; <i><aq>A C</aq></i> Tang. <aq><i>C A G</i> = &frac12; <i>A C</i></aq>. Weil aber
+im Dreyeck <i><aq>C B A</aq></i>, <aq><i>A B</i> : <i>A C</i></aq> = Sin. <i><aq>A C B</aq></i>: Sin. <i><aq>A B C</aq></i>
+= Sin. 15° : Sin. 30° = 1 : 2 Cos. 15° = 1 :
+1,9218; so verhält sich der wagerechte Druck de&sr; ge-
+brochenen zum wagerechten Druck de&sr; einfachen Dache&sr;
+wie <formel> beynahe. Die gebrochenen
+Dächer gewähren daher, nebst dem, daß sie mehr in-
+neren Raum verschaffen, und daß sie sich mit kürzerem
+Holze au&sr;führen lassen, auch noch den Vortheil, daß
+der wagerechte Druck, der in jedem Gebäude der ge-
+fährlichste ist, kleiner wird.</p>
+<d2>10.</d2>
+<p>Die Linie <aq><i>B K</i> (4. Fig.)</aq> zeigt die Richtung, nach
+welcher der obere Sparren auf den unteren wirkt.
+<cw>Wird</cw>
+<pb="13"/>
+Wird hierauf die senkrechte Linie <i><aq>m n</aq></i> gezogen, und
+werden die Sparren <i><aq>A B</aq></i> und <aq><i>B M</i> (6. Fig.)</aq> nach eben dieser
+Linie zusammengefüget, so steht die Richtung ihre&sr; wech-
+selseitigen Drucke&sr; auf einander senkrecht, und am
+sichersten.</p>
+<d2>11.</d2>
+<p>Wa&sr; bi&sr;her von der Zusammensetzung der Dach-
+sparren gesagt worden, gilt auch von der Stellung der
+Gewölbsteine, wenn sie selbst einander da&sr; Gleichge-
+wicht halten sollen: die Tangente de&sr; Winkel&sr; den je-
+der Gewölbstein mit dem Horizonte macht, muß hier
+ebenfall&sr; der Hälfte seiner eigenen Schwere sammt der
+Last aller darüber liegenden Gewölbsteine bi&sr; an den
+Schlußpunkt de&sr; Gewölbe&sr; proportional seyn. Die
+Zeichnung (§. 8.) läßt sich hier allgemein anwenden.</p>
+<p>Sind die Gewölbsteine von einerley Dicke, so
+trage man ihre Längen auf die Senkellinie <aq><i>A X</i> (10.
+Fig.)</aq> nach der Ordnung auf, so daß <i><aq>A B = A b</aq></i>, <i><aq>B C
+= b c</aq></i>, <i><aq>C D = c d</aq></i> u. s. w., und theile eine jede davon
+in zween gleiche Theile, <aq><i>A</i> 1 = 1 <i>b</i></aq>, <aq><i>b</i> 2 = 2 <i>c</i></aq> u. s. w.;
+wird endlich der Winkel <aq><i>A</i> 1 <i>O</i></aq>, den der obere Gewölb-
+stein mit dem Horizonte macht, oder die Normallinie
+<i><aq>A O</aq></i> angenommen, so geben die Linien 1 <i><aq>O</aq></i>, 2 <i><aq>O</aq></i>, 3 <i><aq>O</aq></i>,
+u. s. w. die Richtungen für alle Gewölbsteine; näm-
+lich: der erste <i><aq>A B</aq></i> ist parallel mit 1 <i><aq>O</aq></i>, der zweite <i><aq>B C</aq></i>
+ist parallel mit 2 <i><aq>O</aq></i>, der dritte <i><aq>C D</aq></i> mit 3 <i><aq>O</aq></i> u. s. w.</p>
+<p>Sind aber die Gewölbsteine von ungleicher Dicke
+und Schwere, so muß (11. <aq>Fig.</aq>) die Linie <i><aq>A b</aq></i> dem
+Gewicht de&sr; ersten, <i><aq>b c</aq></i> dem Gewicht de&sr; zweiten, <i><aq>c d</aq></i>
+dem Gewicht de&sr; dritten u. s. w. proportional gemacht,
+und jede davon nach der Entfernung de&sr; Schwerpunkte&sr;
+von einem Ende desselben, in &03B1;, &03B2;, &03B3;, . . . . getheilt
+werden; dann wird wieder die Lage eine&sr; jeden durch
+die zugehörige Linie &03B1; <i><aq>M</aq></i>, &03B2; <i><aq>M</aq></i>, &03B3; <i><aq>M</aq></i> . . . . bestimmt.</p>
+<cw>12.</cw>
+<pb="14"/>
+<d2>12.</d2>
+<p>Je kleiner die Gewölbsteine angenommen wer-
+den, desto mehr nähert sich da&sr; erhaltene Polygon ei-
+ner regulären Krümme. Ziehen wir für einen belie-
+bigen Gewölbstein <aq><i>E F</i> (10. <i>Fig.</i>)</aq> die wagerechten Li-
+nien <i><aq>E K</aq></i>, <i><aq>F N</aq></i>, die Senkrechte <i><aq>E I</aq></i>, und setzen
+<i><aq>A C E = &sr;</aq></i>, <i><aq>E F = d &sr;</aq></i>, <i><aq>E I = d y</aq></i>, <i><aq>F I = d x</aq></i>, so
+ist Tang. <formel>; und wenn endlich da&sr;
+beständige Verhältniß, in welchem die Tangente de&sr;
+Winkel&sr; <i><aq>E F I</aq></i> mit der zugehörigen Last stehet, durch
+1 : <i><aq>m</aq></i> au&sr;gedrücket wird, so ist <formel>.
+Dieß ist die bekannte Gleichung für die Kettenlinie;
+daher giebt un&sr; jede Kette oder lockere Schnur, die
+an beyden Enden festgemacht, und in der Mitte so
+tief hinabgelassen worden, al&sr; die Höhe de&sr; Gewöl-
+be&sr; werden soll, die vortheilhafteste Zeichung der Lehr-
+linie für ein Gewölb, da&sr; durchau&sr; einerley Dicke
+hat.</p>
+<p>Geometrisch läßt sich die Kettenlinie zeichnen,
+wenn wir die endliche Gleichung für ihre Coordinaten
+<i><aq>x</aq></i> und <i><aq>y</aq></i> suchen. Wir haben vorhin erhalten <formel>,
+daher <i><aq>m d y = &sr; d x;</aq></i> werden hievon beyde Theile qua-
+driret, und <aq><i>&sr;</i><up>2</up> <i>d y</i><up>2</up></aq> zu beyden addiret, so ist <aq>(<i>m</i><up>2</up> + <i>&sr;</i><up>2</up>) <i>d y</i><up>2</up></aq>
+<formel>.</p>
+<p>Im Scheitelpunkte ist <i><aq>&sr; = o</aq></i>, daher <i><aq>y = m</aq></i>.
+Hiedurch wird (12 <i><aq>Fig.</aq></i>) die Ordinate <i><aq>A N</aq></i> im Schei-
+telpunkte, oder die Entfernung der Abscissenlinie <i><aq>N P</aq></i>
+vom Scheitelpunkt der Kettenlinie <i><aq>A</aq></i> bestimmt.</p>
+<cw>Wenn</cw>
+<pb="15"/>
+<p>Wenn wir den Werth von <i><aq>&sr;</aq></i> au&sr; der letzteren
+Gleichung in die erste setzen, so ist <formel>;
+daher <formel>; und <i><aq>x = m. k.</aq></i> Logar.
+<formel>, wo <i><aq>k</aq></i> den natürlichen Loga-
+rithmu&sr; der Grundzahl 10 (= 2, 302585) bedeutet,
+wenn wir un&sr; der brighischen Logarithmen bedienen
+wollen: oder wenn wir die Grundzahl der natürlichen
+Logarithmen (= 2, 718282) <i><aq>e</aq></i> nennen, so ist <formel>
+<formel> In
+dieser Gleichung erhält offenbar <i><aq>y</aq></i> einerley Werth, wir
+mögen <i><aq>x</aq></i> positiv oder negativ nehmen; die Kettenlinie
+<i><aq>S R A r &sr;</aq></i> wird daher durch die gerade Linie <i><aq>N M</aq></i>
+in zwo gleiche Hälften getheilet, und wir brauchen
+nur die Coordinaten für die positiven Abscissen zu be-
+rechnen, womit wir schon die ganze Kettenlinie kon-
+struiren können.</p>
+<p>Wenn wir zur leichteren Rechnung <i><aq>m</aq></i> = 10 se-
+tzen, so erhalten die zusammengehörigen Coordinaten
+folgende Werthe:</p>
+<tab>
+<cw>Wir</cw>
+<pb="16"/>
+<p>Wir können nun wa&sr; immer für einen Maß-
+stab zur Hand nehmen, und von demselben die Ab-
+scissen <i><aq>N</aq></i> 1 = 1, <i><aq>N</aq></i> 2 = 2, u. s. w. von beyden
+Seiten de&sr; Anfang&sr;punkte&sr; <i><aq>N</aq></i> auftragen. Ziehen wir
+durch alle Punkte 0, 1, 2, 3 &2026; senkrechte Linien,
+und tragen auf jede derselben die zugehörige Ordinate
+<i><aq>y</aq></i> au&sr; der vorhergehenden Tafel auf, so liegen alle ge-
+fundenen Punkte in der Kettenlinie, wodurch eine
+fortlaufende krumme Linie ohne Schwierigkeit gezogen
+werden kann.</p>
+<d2>13.</d2>
+<p>Die bi&sr;her vorgetragene Theorie setzt vorau&sr;,
+daß da&sr; Gewölb durchau&sr; einerley Dicke, und nicht&sr;
+weiter zu tragen habe, al&sr; seine eigene Schwere. Weil
+aber dieser Fall selten ist, und meisten&sr; die Gewölbe
+zu dem Ende erbauet werden, daß sie noch eine Last
+tragen, so wollen wir den gewöhnlichsten Fall, wenn
+die darüber liegende Last sich oben mit einer wagrech-
+ten Linie endiget, z. B. bey Brücken, Gewölben in
+Wohngebäuden u. dgl. näher untersuchen. <aq><i>H N C</i>
+(13 <i>Fig.</i>)</aq> sey die oberste Fläche einer Brücke, <i><aq>A E e</aq></i>
+sey die erfoderliche Wölbung, und <i><aq>E e</aq></i> ein beliebige&sr;
+Element derselben; <i><aq>H E</aq></i>, <i><aq>h e</aq></i> zwo senkrechte Linien auf
+<i><aq>N H</aq></i>, und <i><aq>e f</aq></i> senkrecht auf <aq><i>H E f; A</i> N = <i>b</i></aq>, <i><aq>N H
+= x</aq></i>, <i><aq>H E = y</aq></i>, <i><aq>E f = d y</aq></i>, <i><aq>e f = h H = d x</aq></i>.
+Weil die Tangente de&sr; Winkel&sr; <aq><i>E e f</i> (= <formel>)</aq>
+mit der Last <aq><i>N A E H</i> (= <i>s y d x</i>)</aq> in einem bestän-
+digen Verhältniß (= 1 : <i><aq>m</aq></i><up>2</up>) stehen muß, so haben
+wir die Gleichung <formel>. Lassen wir <i><aq>d x</aq></i>
+beständig, so ist <formel>, oder
+<pb="17"/>
+<formel>.</p>
+<p>Hierau&sr; sehen wir, daß für den Fall <i><aq>b = m</aq></i>,
+die verlangte Lehrlinie wieder die nämliche Kettenlinie
+ist, die wir oben (§. 12) gefunden haben; wenn aber
+<i><aq>b</aq></i> grösser oder kleiner ist al&sr; <i><aq>m</aq></i>, so stehen die Ordina-
+ten unserer Lehrlinie mit den Ordinaten der Kettenli-
+nie, für einerley Abscissen, in dem beständigen Ver-
+hältniß <aq><i>b</i> : <i>m</i></aq>. Wir können also die Ordinaten der
+Kettenlinie <aq><i>A R S</i> (14. <i>Fig.</i>)</aq> in jedem bestimmten Ver-
+hältniß theilen (<aq><i>O r</i> : <i>O</i> R = <i>N a</i>: <i>N A</i></aq>), oder ver-
+längern (<aq>O</aq> R: <i><aq>O R = N</aq></i> A : <i><aq>N A</aq></i>), und durch al-
+le erhaltenen Punkte <i><aq>r r a r r</aq></i>, oder R R A R R
+eine krumme Linie ziehen, so erhalten wir immer eine
+Wölbung&sr;linie, welche die darüber liegende Last bi&sr;
+an die Abscissenlinie <i><aq>O O N O O</aq></i> trägt, und im Gleich-
+gewicht erhält. Auch folgt noch ferner, daß in jeder
+Fläche <i><aq>&sr; r a a' r' &sr;'</aq></i>, die zwischen zwo Wölbung&sr;linien
+<i><aq>&sr; r a</aq></i>, <i><aq>&sr;' r' a'</aq></i> liegt, sich gleichfall&sr; alle&sr; im Gleich-
+gewicht erhalte. Weil aber durch jede Ordinate <i><aq>N n</aq></i>,
+<fr>oder</fr> <i><aq>O r</aq></i> <fr>unendlich</fr> viel Wölbung&sr;linien gezogen wer-
+den können, so ist hiedurch nicht blo&sr; die Wölbung&sr;-
+linie, sondern die ganze Masse de&sr; Gewölbe&sr; in&sr; Gleich-
+gewicht gebracht.</p>
+<bs>b</bs><cw>14.</cw>
+<pb="18"/>
+<d2>14.</d2>
+<p>Hierau&sr; fließen folgende allgemeine Anmer-
+kungen:</p>
+<p><aq>I.</aq> Für Gewölbe, welche durchau&sr; einerley
+Dicke, und nicht&sr; al&sr; ihre eigene Last zu tragen haben,
+gehöret die gemeine Kettenlinie.</p>
+<p><aq>II.</aq> Gewölbe, welche wagerecht au&sr;gefüllet
+werden, müssen nach einer Krümme au&sr; der Ver-
+wandtschaft der Kettenlinien erbauet werden, wovon
+die oberste wagrechte Linie immer die Abscissenli-
+nie ist.</p>
+<p><aq>III.</aq> Je kleiner <i><aq>N a</aq></i>, oder je schwächer da&sr;
+Gewölb beym Schlußpunkt ist, desto flächer wird
+die Lehrlinie <i><aq>&sr; r r a</aq></i>, und je grösser <i><aq>N</aq></i> A, oder je
+stärker da&sr; Gewölbe, desto gebogener ist die Wölbung,
+für einerley Breite</p>
+<p><aq>IV.</aq> Die Längen der Gewölbsteine sollen von
+einer Wölbung&sr;linie <i><aq>&sr;' r' r'</aq></i> bi&sr; an die andere <i><aq>&sr; r r</aq></i>
+reichen (15. <i><aq>Fig.</aq></i>)</p>
+<p><aq>V.</aq> Ihre Seitenflächen <i><aq>r r'</aq></i> sollen auf alle
+Wölbung&sr;linien, die durch ihre Dicke hindurchgehen,
+senkrecht seyn. Hiezu wäre zwar nöthig, daß diese
+Seitenflächen selbst nach einer krummen Linie gehauen
+würden, ihre Länge ist aber selten so beträchtlich, daß
+diese Krümmung von einer geraden Linie merklich un-
+terschieden wäre.</p>
+<p><aq>VI.</aq> Die Länge der Gewölbsteine richtet sich
+nach ihrer Güte, und nach der Last, welche getragen
+werden soll. Diese Umstände müssen die Wahl be-
+stimmen, die ein Baumeister unter der unendlichen
+<cw>An-</cw>
+<pb="19"/>
+Anzahl der angezeigten Lehrlinien (14. <i><aq>Fig.</aq></i>) zu ma-
+chen hat.</p>
+<p><aq>VII.</aq> Die Lehrlinien sind um so weniger von
+einem Zirkelbogen unterschieden, je flächer sie sind.
+Nur wird e&sr; darauf ankommen, daß der Baumeister
+für jeden Fall denjenigen Halbmesser angeben möge,
+welcher von der zugehörigen Wölbung&sr;linie am wenig-
+sten abweicht.</p>
+<p><aq>VIII.</aq> Bey dem Schlußpunkt <aq><i>A</i> (16. <i>Fig.</i>)</aq> wird
+die Fläche <aq><i>N A E H</i> (= <i>s. y d x</i>) = <i>o</i></aq>, daher ist auch
+daselbst Tang# <formel>, folglich der Winkel
+<i><aq>E A F</aq></i> ein rechter Winkel. Eben so ist auch <i><aq>e A F</aq></i> ein
+rechter Winkel. Die gothischen Gewölbe sind demnach
+der Natur nicht angemessen. E&sr; giebt jedoch Fälle,
+wo selbst unsere Grundsätze ein Eck in der Lehrlinie
+erfodern: an dem Orte nämlich, wo eine besondere
+Last auf da&sr; Gewölb gesetzt werden sollte; da aber die-
+ser Fall wider die <fr>scheinbare Festigkeit</fr> und wider den
+<fr>guten Geschmack in der Baukunst</fr> ist, so wäre e&sr;
+überflüßig, eine besondere Berechnung hierüber an-
+zuführen.</p>
+<hr>
+<bs>b 2</bs>
+<pb>
+<hr>
+<d1><b>Lehrsätze und Aufgaben</b>
+au&sr; der
+<b>Analysi&sr; der höheren Gleichungen.</b></d1>
+<p>1. <in>W</in>enn in einer ganzen Funktion an die Stelle der
+veränderlichen Grösse ein solcher Werth gesetzt wird, wo-
+durch ein Faktor der Funktion verschwindet, so heben alle
+Glieder einander auf; und umgekehrt: alle Glieder kön-
+nen einander nicht aufheben, wenn nicht wenigsten&sr; ein
+Faktor verschwindet.</p>
+<p>2. Jede ganze Funktion kann in so viel einfache Fakto-
+ren aufgelöset werden, al&sr; der größte Exponent der verän-
+derlichen Grösse Einheiten hat. <fr>Daher hat jede Gleichung
+eben so viel Wurzeln</fr>.</p>
+<p>3. In jeder geordneten Gleichung ist der Coefficient
+de&sr; zweiten Gliede&sr; die Summe aller Wurzeln, der Coeffi-
+cient de&sr; dritten ist die Summe der Produkte au&sr; je zwoen,
+der Coefficient de&sr; vierten ist die Summe der Produkte
+au&sr; je dreyen u. s. f. da&sr; letzte Glied endlich ist da&sr; Pro-
+dukt au&sr; allen Wurzeln; die Wurzeln erscheinen aber alle
+mit entgegengesetzten Zeichen.</p>
+<p>4. Methode au&sr; den Faktoren de&sr; letzten Gliede&sr;
+die rationalen Wurzeln aller Gleichungen zu finden.</p>
+<p>5. Wenn in einer Gleichung alle Glieder da&sr; näm-
+liche Zeichen haben, so sind alle Wurzeln negativ: wenn
+sich aber die Zeichen von einem Gliede zum andern wechsel-
+weise ändern, so sind alle Wurzeln positiv. Ueberhaupt
+hat jede Gleichung so viel positive Wurzeln al&sr; Verände-
+rungen, und so viel negative al&sr; Folgen der Zeichen. Die-
+se Regel de&sr; De&sr;karte&sr; gilt jedoch nur für jene Gleichun-
+gen, in welchen alle Wurzeln möglich sind.</p>
+<p>6. Ist da&sr; letzte Glied positiv, so ist die Anzahl
+der positiven Wurzeln eine gerade Zahl: ist e&sr; aber ne-
+gativ, so ist sie ungerade; und umgekehrt.</p>
+<p>7. Irrationale Wurzeln, wenn sie in der Gleichung
+selbst nicht sichtbar sind, sie mögen übrigen&sr; möglich (<aq>possi-</aq>
+<cw><aq>bile&sr;,</aq></cw>
+<pb="21"/>
+<aq>bile&sr;, reale&sr;</aq>) oder unmöglich (<aq>impossibile&sr;, imaginari&00E6;</aq>) seyn,
+sind immer parweise vorhanden; ein jede&sr; Par hat vor
+und hinter dem Wurzelzeichen die nämlichen Grössen, und
+seine zween Theile unterscheiden sich nur durch + und &2014;
+vor den Wurzelzeichen.</p>
+<p>8. Jede Gleichung, in welcher der größte Exponent
+der Unbekannten eine ungerade Zahl ist, hat wenigsten&sr;
+eine mögliche Wurzel: ist aber der größte Exponent eine
+gerade Zahl, und da&sr; letzte Glied der Gleichung negativ,
+so sind wenigsten&sr; zwo Wurzeln möglich.</p>
+<p>9. Wenn der Coefficient de&sr; ersten Gliede&sr; die Ein-
+heit ist, und die übrigen Glieder keine Brüche enthalten,
+so kann kein Bruch eine Wurzel seyn.</p>
+<p>10. Alle Wurzeln einer Gleichuug um eine gegebene
+Größe vermehren oder vermindern; oder ein beliebige&sr; Glied
+der Gleichung tilgen.</p>
+<p>11. Alle Wurzeln mit einer gegebenen Größe mul-
+tipliciren oder dividiren; oder die Brüche und steigenden
+Potenzen au&sr; den Coefficienten wegschaffen.</p>
+<p>12. Methode, die Quadrat und Cubikwurzeln au&sr;
+zusammengesetzten Irrationalgrössen au&sr;zuziehen.</p>
+<p>13. Auflösung der reinen kubischen Gleichungen.</p>
+<p>14. Cardanische Methode, die Gleichungen de&sr; drit-
+ten Grade&sr; aufzulösen. Kennzeichen ob nur eine oder alle
+drey Wurzeln möglich sind. <fr>Für den ersteren Fall gilt die
+Cardanische Methode, für den andern kömmt die Auflö-
+sung Nr. 32. vor</fr>.</p>
+<p>15. Methode die Gleichungen de&sr; vierten Grade&sr;
+in zween mögliche Faktoren de&sr; zweiten aufzulösen.</p>
+<p>16. Allgemeine Methode, die Wurzeln aller Glei-
+chungen durch die Annäherung zu finden.</p>
+<p>17. Die Grenzen der größten möglichen positiven
+und negativen Wurzeln zu bestimmen.</p>
+<d2><b>Von Logarithmen und Exponentialgrössen.</b></d2>
+<p>18. Die Logarithmen aller Systeme haben folgende
+Eigenschaften gemein, daß sie die Multiplication und Divi-
+sion zwoer Zahlen in die Addition und Subtraction ihrer
+Logarithmen, die Erhebung auf Potenzen, oder Au&sr;ziehung
+der Wurzeln in die Multiplication oder Division de&sr; Lo-
+garithmen mit der gegebenen Potenzzahl verwandeln.</p>
+<p>19. Die Logarithmen zwoer Zahlen in zwey verschie-
+denen Systemen stehen mit einander in einem beständigen
+<bs>b 3</bs><cw>Ver-</cw>
+<pb="22"/>
+Verhältniß. <fr>Hierau&sr; lassen sich die Logarithmen aller
+übrigen Systeme berechnen, wenn sie für ein System
+bekannt sind</fr>.</p>
+<p>20. Vortheile de&sr; gemeinen oder brighischen System&sr;.</p>
+<p>21. Erklärung der hypothetischen Logarithmen, <fr>der-
+gleichen in den trigonometrischen Tafeln gebraucht wer-
+den</fr>: Regeln, welche bey der Multiplikation, Division, Er-
+hebung auf Potenzen, oder Au&sr;ziehung der Wurzeln mit
+diesen Logarithmen zu beobachten sind.</p>
+<p>22. Den Logarithmu&sr; einer jeden Zahl durch eine
+unendliche Reihe au&sr;drücken.</p>
+<p>23. Für jede Zahl den natürlichen Logarithmu&sr;
+durch die Annäherung finden.</p>
+<p>24. Die gefundenen natürlichen Logarithmen in ge-
+meine für die Grundzahl 10, oder für jede beliebige Grund-
+zahl verwandeln</p>
+<p>25. Jede Exponentialgrösse in eine unendliche Reihe
+auflösen, oder au&sr; dem gegebenen Logarithmen und der
+Grundzahl de&sr; System&sr; die zugehörige Zahl bestimmen.</p>
+<p>26. Die Grundzahl der natürlichen Logarithmen fin-
+den.</p>
+<d2><b>Von trigonometrischen Linien.</b></d2>
+<p>27. Allgemeine Au&sr;drücke für alle Bögen, die einer-
+ley Sinu&sr; und Cosinu&sr; haben.</p>
+<p>28. Formeln für den Sinu&sr; und Cosinu&sr;, für die
+Tangente und Cotangente der Summe und de&sr; Unterschied&sr;
+zweener Bögen.</p>
+<p>29. Formeln, wodurch die Produkte der ersteren in
+Summen oder Unterschiede einzelner Sinusse und Cosinusse
+aufgelöset werden.</p>
+<p>30. Den Sinu&sr; und Cosinu&sr; eine&sr; jeden Bogen&sr;
+durch eine unendliche Reihe au&sr;drücken.</p>
+<p>31. Anwendung der trigonometrischen Linien zur
+Erfindung aller möglichen einfachen und doppelten Fakto-
+ren von folgenden Gleichungen: + <aq><i>x<up>m</up> &00B1; a<up>m</up> = o</i>; <i>x</i><up>2<i>m</i></up> &00B1;
+2<i>a<up>m</up> x<up>m</up> Co&sr;. g + a</i><up>2<i>m</i></up> = <i>o</i></aq>.</p>
+<p>32. Eine <fr>neue Methode</fr> die Gleichungen de&sr; dritten
+Grade&sr; in jenem Falle aufzulösen, wenn alle drey Wur-
+zeln möglich sind, oder wenn die Auflösung nach der Car-
+danischen Methode unmöglich wird.</p>
+<p>33. Jede Zahl hat nebst einem möglichen noch un-
+endlich viel unmögliche Logarithmen, die alle in der For-
+<cw>mel</cw>
+<pb="23"/>
+mel Log. <formel> enthalten sind, in welcher Log.
+<i><aq>z</aq></i> den möglichen Logarithmu&sr; der Zahl <i><aq>z</aq></i>, 2<i>&03C0;</i> die Peri-
+pherie de&sr; Kreise&sr; für den Halbmesser 1, <i><aq>k</aq></i> den natürli-
+chen Logarithmu&sr; der Grundzahl, und <i><aq>m</aq></i> eine jede beliebi-
+ge ganze Zahl bedeutet.</p>
+<d2><b>Von unendlichen Reihen.</b></d2>
+<p>34. Methode, alle gebrochenen rationalen Funktionen
+in wiederkehrende Reihen <fr>aufzulösen</fr>, d. i. für jeden Fall
+<i><aq>a</aq></i>) die Potenz de&sr; ersten Gliede&sr;, <i><aq>b</aq></i>) die gemeinschaftliche
+Differenz der Exponentenfolge, und <i><aq>c</aq></i>) da&sr; Gesetz zu fin-
+den, nach welchem alle folgenden Coefficienten au&sr; den Vor-
+hergehenden bestimmt werden.</p>
+<p>35. Die Aufgabe de&sr; Newtonischen Parallelogram-
+me&sr;: oder wenn in einer Gleichung zwo Unbekannte vor-
+handen sind, eine durch eine unendliche Reihe der andern
+au&sr;zudrücken.</p>
+<p>36. Jede Reihe <fr>umzukehren</fr>. Vorsicht dabey, wenn
+da&sr; erste Glied eine beständige Grösse ist.</p>
+<p>37. Die Länge de&sr; Krei&sr;bogen&sr; durch seinen Sinu&sr;
+oder Cosinu&sr; au&sr;zudrücken.</p>
+<p>38. Die Reihen in andere zu <fr>verwandeln</fr>, wo die
+Coefficienten au&sr; den Differenzen der Coefficienten der ge-
+gebenen Reihe genommen werden.</p>
+<p>39. Reihen, für welche die <i><aq>n</aq></i>te Differenz der Coeffi-
+cienten beständig ist, <fr>summiren</fr>.</p>
+<p>40. Jede Reihe, in der sich die Zeichen der Glieder
+wechselweise ändern, in eine <fr>fallende</fr> verwandeln.</p>
+<d2><b>Au&sr; der geometrischen Analysi&sr;.</b></d2>
+<p>41. Jede gegebene Gleichung mit zwo Unbekannten
+durch eine geometrische Linie konstruiren.</p>
+<p>42. Die Gestalt der geometrischen Linie, vorzüglich
+im unendlichen Raum, erklären, wenn die Funktion der
+Ordinate rational, und 1, 2, 3. oder <i><aq>n</aq></i> förmig ist.</p>
+<p>43. Die Gestalt der geometrischen Linie, vorzüglich
+im endlichen Raum, au&sr; den gegebenen Faktoren hinter
+den Wurzelzeichen erklären, wenn die Funktion der Ordi-
+nate irrational ist. Anzeige der konjugirten Ovalen, Kno-
+ten, Spitzen, u. d. gl.</p>
+<p>44. Für jede geometrische Linie lassen sich unendlich
+viele Gleichungen angeben, wenn entweder der Anfang&sr;-
+<bs>b 4</bs><cw>punkt</cw>
+<pb="24"/>
+punkt der Abscissen, oder die Abscissenlinie, oder auch der
+Coordinatenwinkel verändert werden.</p>
+<p>45. Die algebraischen Linien werden am schicklichsten
+nach dem Grad der Potenz, welche die zwo Unbekann en
+miteinander in der Gleichung haben, geordnet.</p>
+<p>46. Jede Linie de&sr; ersten Grade&sr; wird durch 2, de&sr;
+zweiten durch 5, de&sr; dritten durch 9, und de&sr; <i><aq>n</aq></i>ten Grade&sr;
+durch <formel> Punkte bestimmt.</p>
+<p>47. Jede Linie der <i><aq>n</aq></i>ten Ordnung kann von einer ge-
+raden Linie höchsten&sr; nur in <i><aq>n</aq></i> Punkten durchschnitten wer-
+den.</p>
+<p>48. Methode die Tangenten, Subtangenten, Nor-
+malen, und Subnormalen für jeden Punkt der geometri-
+schen Linien zu finden.</p>
+<d2><b><fr>Von den Linien der zweiten Ordnung in&sr;besondere.</fr></b></d2>
+<p>49. Jede Linie der zweiten Ordnung geht entweder
+in sich selbst zurück, und ist in diesem Fall eine <fr>Ellipse</fr>,
+oder sie hat zween unendliche Zweige von einer Seite, und
+ist eine <fr>Parabel</fr>, oder sie hat zween unendliche Zweige von
+beeden Seiten, und ist eine <fr>Hyperbel</fr>. Alle drey werden
+unter dem allgemeinen Namen Kegelschnitte verstanden.</p>
+<p>50. Die Produkte au&sr; den Ordinaten auf wa&sr; im-
+mer für einer Sehne sind mit den Produkten au&sr; den Ab-
+scissen, die von beeden Durchschnitt&sr;punkten ber gerechnet
+werden, in einem beständigen Verhältniß, Die Quadrate
+der Tangenten verhalten sich gleichfall&sr; wie die Produkte
+der Secanten.</p>
+<p>51. Jede gegebene Gleichung de&sr; zweiten Grade&sr; in
+eine andere für zween konjugirte Diameter verwandeln.</p>
+<p>52. Den Mittelpunkt de&sr; Kegelschnitt&sr;, die Grösse
+beeder konjugirten Diameter, ihre Lage in Rücksicht der
+gegebenen Coordinaten, und den Winkel bestimmen, unter
+welchem sie einander durchschneiden.</p>
+<p>53. Die einfachste Gleichung für jeden Kegelschnitt
+angeben, in welcher die Abscissen vom Mittelpunkte an ge-
+rechnet werden, und wo nur die zween konjugirten Dia-
+meter al&sr; bekannte Grössen vorkommen.</p>
+<p>54. Wenn zween konjugirte Diameter gegeben sind,
+die Lage und Grösse der Axen bestimmen.</p>
+<p>55. Die Entfernung de&sr; Durchschnitt&sr;punkte&sr; der
+Tangente und eine&sr; Diameter&sr; ist die dritte Proportional-
+linie zur zugehörigen Abscisse und zum halben Diameter.</p>
+<cw>56.</cw>
+<pb="25"/>
+<p>56. Wenn au&sr; den Endpunkten zweener zusammen-
+gehörigen Diameter Ordinaten auf die grössere oder klei-
+nere Axe gezogen werden, so ist die Summe der Quadrate
+der Abscissen dem Quadrate derselben Axe gleich.</p>
+<p>57. Die Summe der Quadrate zweener Diameter
+ist so groß, al&sr; die Summe der Quadrate der Axen.</p>
+<p>58. Da&sr; Rechteck au&sr; den Axen ist dem Parallelo-
+gramm au&sr; den Diametern gleich.</p>
+<p>59. Sowohl in der Ellipse al&sr; Hyperbel giebt e&sr;
+zween Punkte, wovon die Vektoren rational sind.</p>
+<p>60. In der Ellipse ist die Summe, und in der Hy-
+perbel ist der Unterschied dieser Vektoren so groß al&sr; die
+grössere Axe.</p>
+<p>61. Die Winkel, welche die zween Vektoren mit der
+Tangente machen, sind einander gleich.</p>
+<p>62. Wenn au&sr; jedem Brennpunkte senkrechte Linien
+auf die Tangente gezogen werden, so begegnet jede dersel-
+ben dem Vektor au&sr; dem andern Brennpunkte in einer
+Entfernung, welche so groß ist, al&sr; die rechte Axe.</p>
+<p>63. Alle Punkte wo diese senkrechte Linien in die
+Tangente einfallen, liegen in der Peripherie eine&sr; Kreise&sr;,
+der au&sr; dem Mittelpunkt de&sr; Kegelschnitte&sr; mit dem Halb-
+messer der halben rechten Axe beschrieben wird.</p>
+<p>64. Die Ordinate im Brennpunkte (Parameter) ist
+die dritte Proportionallinie zur rechten und konjugirten
+Axe.</p>
+<p>65. Eine Gleichung für die Ellipse und Hyperbel
+zu finden, in welcher die Abscissen vom Scheitelpunkte an
+gerechnet werden, und wo nur die rechte Axe und der Pa-
+rameter al&sr; beständige Größen zum Vorscheine kommen.</p>
+<p>66. Sowohl die Ellipse al&sr; Hyperbel werden zur
+Parabel, wenn die rechte Axe unendlich groß wird.</p>
+<p>67. Die Entfernung de&sr; Brennpunkte&sr; vom Schei-
+telpunkte der Parabel ist dem vierten Theile de&sr; Parame-
+ter&sr; gleich.</p>
+<p>68. Jeder Vektor der Parabel ist so groß, al&sr; die
+Summe au&sr; der Abscisse und der Entfernung de&sr; Brenn-
+punkte&sr; vom Scheitelpunkte.</p>
+<p>69. Alle Diameter der Parabeln sind einander pa-
+rallel.</p>
+<p>70. Die Subtangente der Parabel ist zweimal so
+groß, al&sr; die Abscisse.</p>
+<p>71. Die Winkel, welche die Vektoren und Diameter
+mit den Tangenten machen, sind einander gleich.</p>
+<bs>b 5</bs><cw>72.</cw>
+<pb="26"/>
+<p>72. Wenn eine Linie au&sr; dem Brennpunkt senkrecht
+auf die Tangente gezogen wird, so theilet sie selbe in zween
+gleiche Theile; und eine Linie au&sr; diesem Durch chnitt&sr;punkte
+senkrecht auf die Axe gezogen, fällt immer in den Schei-
+telpunkt der Parabel.</p>
+<p>73. Die Gleichung für jeden Diameter der Parabel
+ist der Gleichung für die Axe ähnlich.</p>
+<p>74. Der Parameter eine&sr; jeden Diameter&sr; ist sei-
+nem vierfachen Vektor gleich.</p>
+<p>75. Die Asymtoten der Hyperbel au&sr; der Gleichung
+für die Axen herleiten, sie konstruiren, und den Asymtoten-
+winkel bestimmen.</p>
+<p>76. Eine Gleichung für die Hyperbel finden, wenn
+die Abscissen auf einer Asymtote, und die Ordinaten der
+andern Asymtote parallel, oder auch nicht parallel genom-
+men werden.</p>
+<p>77. Von jeder Sehne sind die Abschnitte, welche
+beederseit&sr; zwischen den Asymtoten und der Hyperbel lie-
+gen, einander gleich.</p>
+<p>78. Die Produkte der zwo Ordinaten für jede Ab-
+scisse sind alle gleich groß.</p>
+<d2><b>Construktion der bestimmten Gleichungen.</b></d2>
+<p>79. Jede Gleichung de&sr; ersten oder zweiten Grade&sr;
+mit dem Zirkel und Lineal construlren.</p>
+<p>80. Jede Gleichung de&sr; dritten oder vierten Grade&sr;
+mit dem Zirkel und mit einer gegebenen Parabel construi-
+ren.</p>
+<p>81. Einen gegebenen Winkel in drey gleiche Theile
+zertheilen, und die Construktion mit einer Hyperbel zwi-
+schen den Asymtoten, oder mit einer gegebenen Parabel
+verrichten.</p>
+<d2><b>Von endlichen Differenzen, und dersel-
+ben Summen.</b></d2>
+<p>82. Au&sr; der gegebenen Differenz der Wurzel, die
+Differenz einer jeden algebraischen Funktion bestimmen.</p>
+<p>83. Weiter&sr; die 2te, 3te, 4te &2026; <i><aq>n</aq></i>te Differenz der-
+selben Funktion finden.</p>
+<p>84. Da&sr; Gesetz für die höheren Differenzen bleibt
+unbestimmt, wenn da&sr; Gesetz für die Stuffen, um welche
+die Wurzel zunimmt, unbestimmt ist.</p>
+<p>85. Jede Funktion der <i><aq>n</aq></i>ten Potenz hat zur <i><aq>n</aq></i>ten
+Differenz eine beständige Größe.</p>
+<cw>86.</cw>
+<pb="27"/>
+<p>86. Au&sr; der gegebenen Differenz zwoer Zahlen die
+Differenz ihrer Logarithmen finden; und umgekehrt au&sr; der
+gegebenen Differenz de&sr; Exponenten oder Logarithmen die
+Differenz der zugehörigen Exponentialgrösse finden.</p>
+<p>87. Au&sr; der gegebenen Differenz eine&sr; Winkel&sr; die
+Differenz de&sr; zugehörigen Sinu&sr; und Cosinu&sr; bestimmen.</p>
+<p>88. Au&sr; den gegebenen Differenzen einer Reihe ihr
+allgemeine&sr; Glied finden, und hiedurch die Reihe interpo-
+liren.</p>
+<p>89. Die Summen für jede ganze Potenz bestimmen,
+wenn die Differenz der Wurzel gegeben ist.</p>
+<p>90. Anwendung davon zur Summirung der Reihen,
+wenn da&sr; allgemeine Glied bekannt ist.</p>
+<d2><b>Differenzialrechnung.</b></d2>
+<p>91. Die endlichen Differenzen werden zu Differen-
+zialien, wenn die gegebene Differenz der Wurzel = <i><aq>o</aq></i> ist.
+Ungeachtet alle Differenzialien hiedurch zu nicht&sr; werden,
+so haben sie doch endliche Coefficienten, nnd unter einander
+endliche Verhältnisse, mit deren Bestimmung sich die Diffe-
+renzialrechnung beschäftiget.</p>
+<p>92. Jede&sr; Differenzial der <i><aq>n</aq></i>ten Ordnung steht mit
+der <i><aq>n</aq></i>ten Potenz de&sr; Differenzial&sr; der Wurzel in einem
+bestimmten Verhältniß, und verschwindet de&sr;wegen gegen
+alle Differenzialien der vorhergehenden Ordnungen.</p>
+<p>93. Von jeder ganzen Funktion der <i><aq>n</aq></i>ten Ordnung
+wird der Coeffcient de&sr; Differenzial&sr; der (<i><aq>n</aq></i> + 1) ten Ord-
+nung = <aq><i>o</i>;</aq> diese&sr; Differenzial verschwindet daher auch
+gegen alle höhere Differenzialien.</p>
+<p>94. Methode, da&sr; Differenzial einer jeden rationa-
+len und irrationalen Potenz der veränderlichen Grösse zu
+finden, ohne dabey die newtonische Binomialformel vorau&sr;-
+zusetzen.</p>
+<p>95. Unter eben dieser Bedingniß die Differenzialen
+der Logarithmen und Exponentialgrössen zu finden.</p>
+<p>96. Au&sr; dem gegebenen Differenzial de&sr; Sinu&sr; oder
+Cosinu&sr;, der Tangente oder Cotangente, da&sr; Differenzial
+de&sr; zugehörigen Bogen&sr; finden; und umgekehrt, au&sr; dem
+gegebenen Differenzial de&sr; Bogen&sr; da&sr; Differenzial der
+zugehörigen trigonometrischen Linie bestimmen.</p>
+<p>97. Da&sr; Differenzial einer jeden Funktion von ver-
+änderlichen Grössen ist der Summe aller einzelnen Diffe-
+renzialien gleich, welche erhalten werden, wenn von derselben
+ein Theil nach dem andern al&sr; veränderlich, alle übrigen
+aber al&sr; beständig betrachtet werden.</p>
+<cw>98.</cw>
+<pb="28"/>
+<p>98. Anwendung dieser Regel, um zu erfahren, ob
+ein gegebene&sr; au&sr; mehreren veränderlichen Grössen zusam-
+mengesetzte&sr; Differenzial, in der vorgegebenen Gestalt au&sr;
+der Differenzirung einer endlichen Funktion habe entstehen
+können.</p>
+<p>99. <fr>Anwendung der Differenzialrechnung</fr> zur Auf-
+lösung der Funktionen in unendliche Reihen.</p>
+<p>100. Bewei&sr; der newtonischen Binomialformel für
+alle ganze und gebrochene Exponenten.</p>
+<p>101. Erhebung einer unendlichen Reihe auf jede ge-
+gebene Potenz.</p>
+<p>102. Taylor&sr; Formel, die endlichen Differenzen mit-
+telst der Differenzialrechnung zu finden.</p>
+<p>103. Erfindung de&sr; Größten und Kleinsten; nöthige
+Vorsichten dabey, und Kennzeichen eine&sr; von dem andern
+zu unterscheiden.</p>
+<p>104. Formeln zur Erfindung der Tangenten, Sub-
+tangenten, Normalen, und Subnormalen.</p>
+<p>105. Entdeckung der vielfachen, conjugirten, und
+Umkehrung&sr;punkte.</p>
+<p>106. Die Krümmung der geometrischen Linien durch
+eine allgemeine parabolische Gleichung erklären.</p>
+<p>107. Erfindung de&sr; Krümmung&sr;halbmesser&sr;, der
+Schlangenpunkte, u. s. w.</p>
+<p>108. Bestimmung de&sr; unbestimmten Werthe&sr; <formel> den
+manche Funktionen in gewissen Fällen annehmen.</p>
+<p>109. Zerlegung der rationalen gebrochenen Funktionen.</p>
+<d2><b>Integralrechnung.</b></d2>
+<p>110. Integrirung&sr;methode für die rationalen ganzen
+Funktionen.</p>
+<p>111. Integrirung&sr;methode für die rationalen gebro-
+chenen Funktionen <i><aq>a</aq></i>) wenn der Nenner in mögliche einfa-
+che Faktoren <i><aq>b</aq></i>) wenn er nur in mögliche doppelte Fakto-
+ren zerlegt werden kann.</p>
+<p>112. Methoden die irrationalen Funktionen rational
+zu machen <i><aq>a</aq></i>) wenn die irrationale Funktion de&sr; ersten
+Grade&sr; ist, <i><aq>b</aq></i>) wenn sie de&sr; zweiten Grade&sr; und der Expo-
+nent derselben = &frac12; ist.</p>
+<p>113. Die Fälle anzugeben, in welchen die Formel
+<formel> rational gemacht werden kann.</p>
+<cw>114.</cw>
+<pb="29"/>
+<p>114. Zwo Methoden, die irrationalen binomischen For-
+meln auf die einfachsten ihrer Art zurückzuführen.</p>
+<p>115. Integrirung&sr;methode für Differenzialformeln,
+in welchen Logarithmen oder Exponentialgrössen vorkommen.</p>
+<p>116. Integrirung&sr;methode, wenn trigonometrische Li-
+nien vorkommen.</p>
+<p>117. <fr>Anwendung der Integralrechnung</fr> zur Berech-
+nung de&sr; Flächeninhalte&sr; und zur Rectification der krum-
+men Linien.</p>
+<p>118. Berechnung de&sr; Cubikinhalt&sr; und der Ober-
+fläche der Körper.</p>
+<p>119. Umgekehrte Methode der Tangenten.</p>
+<d2><b>Beyspiele
+zur Uibung in den vorgetragenen Rechnung&sr;-
+arten.</b></d2>
+<p>120. Ein Wech&sr;ler kauft einen Schuldbrief von (<i><aq>a</aq></i> fl.),
+der aber erst nach (<i><aq>n</aq></i>) Jahren zahlbar ist, für (<i><aq>c</aq></i> fl.); wie
+viel Prozente (<i><aq>z</aq></i>) gewinnet er bey diesem Kaufe?</p>
+<p><fr>Diese Aufgabe kann noch auf dreyerley Art ver-
+ändert vorkommen, nämlich</fr>:</p>
+<p>Ein Schuldbrief (<i><aq>a</aq></i>), der nach (<i><aq>n</aq></i>) Jahren zahlbar ist,
+wird zum Verkaufe angebothen, wie viel (<i><aq>c</aq></i>) kann ich für
+denselben geben, ohne bey meinem Kaufe die gewöhnlichen
+Prozente (<i><aq>z</aq></i>) zu verlieren? &2014; Ein Kaufmann nützt ein
+Capital (<i><aq>c</aq></i>) auf (<i><aq>z</aq></i>) Prozente, und legt die au&sr;fallenden
+Zinse jährlich wieder zum Capital; wie groß ist der Be-
+trag desselben (<i><aq>a</aq></i>) nach (<i><aq>n</aq></i>) Jahren? oder &2014; wie viel Jahre
+(<i><aq>n</aq></i>) sind nöthig, damit dasselbe bi&sr; auf die Summe (<i><aq>a</aq></i>)
+steige.</p>
+<p><fr>Für alle diese Fälle gilt die allgemeine Frage</fr>: wenn
+von den genannten vier Zahlen <i><aq>a</aq></i>, <aq><i>c</i>, <i>n</i>, <i>z</i>,</aq> drey gegeben
+sind, die vierte zu finden? <fr>Diese allgemeine Auflösung
+zu geben, wird sowohl hier al&sr; auch in folgenden Auf-
+gaben verstanden</fr>.</p>
+<p>121. Nach der Sündflut ist da&sr; Menschengeschlecht
+von 6 Menschen fortgepflanzet worden; wenn wir anneh-
+men, daß ihre Anzahl nach 200 Jahren auf 1000000 an-
+gewachsen, wie groß mußte ihre jährliche Vermehrung seyn?</p>
+<p>122. Die Einwohner eine&sr; Lande&sr; sind ein Capital
+(<i><aq>a</aq></i>) mit (<i><aq>z</aq></i>) von hundert jährlich zu verzinsen schuldig, zah-
+len aber hierauf alle Jahre <aq>(<i>b</i>);</aq> nach wie viel Jahren (<i><aq>n</aq></i>)
+wird die ganze Schuld getilget seyn?</p>
+<cw>123.</cw>
+<pb="30"/>
+<p>123. E&sr; soll eine geometrische Linie für alle jene
+Punkte gefunden werden, deren Entfernungen von zween
+gegebenen Punkten zu einander ein gegebene&sr; Verhältniß
+haben, oder</p>
+<p>124 &2014;. Deren Entfernungen &2014; mit einander eine
+gegebene Summe machen, oder</p>
+<p>125 &2014;. Deren Entfernungen &2014; mit einander einen
+gegebenen Winkel einschließen.</p>
+<p>126. Die vortheilhafreste Stellung der Streben,
+Sturmbänder u. d. gl. zu bestimmen.</p>
+<p>127. Den Winkel zu bestimmen, unter welchem ein
+Anker am stärksten in den Grund greift.</p>
+<p>128. Die vortheilhafteste Höhe de&sr; Lichte&sr; über ei-
+nem Tisch zu finden, damit ein Gegenstand, der in einer
+gegebenen Entfernung vom Leuchter liegt, am hellsten be-
+leuchtet werde.</p>
+<p>129. Den Winkel zu bestimmen, unter welchem die
+Pferde einen Schlitten am leichtesten ziehen.</p>
+<p>130. Bestimmung der Quadratur, der Oberfläche
+und de&sr; Cubikinhalte&sr; aller drey Kegelschnitte, mit Hülfe
+der logarithmischen und trigonometrischen Tafeln.</p>
+<hr>
+<pb>
+<abb>
+<pb>
+<pb>
+<abb>
+<pb>
+<pb>
+<pb>
+<pb>

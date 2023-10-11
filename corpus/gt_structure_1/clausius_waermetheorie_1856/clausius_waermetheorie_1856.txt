@@ -1,0 +1,2661 @@
+<pb="441"/>
+<d1>V. <i>Ueber die Anwendung der mechanischen Wärme-
+theorie auf die Dampfmaschine;
+von R. <g>Clausius</g>.</i></d1>
+<hr>
+<p>1. <in>D</in>a die veränderten Ansichten über das Wesen
+und das Verhalten der Wärme, welche unter dem Namen
+der &00BB;mechanischen Wärmetheorie&00AB; zusammengefaßt wer-
+den, in der bekannten Thatsache, daß sich die Wärme
+zur Hervorbringung von mechanischer Arbeit anwenden
+läßt, ihre erste Anregung gefunden haben, so durfte man
+im Voraus erwarten, daß die so entstandene Theorie auch
+umgekehrt wieder dazu beitragen müsse, diese Anwendung
+der Wärme in ein helleres Licht zu stellen. Besonders
+mußten die durch sie gewonnenen allgemeineren Gesichts-
+punkte es möglich machen, ein sichreres Urtheil über die
+<pb="442"/>
+einzelnen zu dieser Anwendung dienenden Maschinen zu
+fällen, ob sie schon vollkommen ihren Zweck erfüllen,
+oder ob und inwiefern sie noch der Vervollkommnung fä-
+hig sind.</p>
+<p>Zu diesen für alle thermodynamischen Maschinen gel-
+tenden Gründen kommen für die wichtigste unter ihnen,
+die <i>Dampfmaschine</i>, noch einige besondere Gründe hinzu,
+welche dazu auffordern, sie einer erneuerten, von der me-
+chanischen Wärmetheorie geleiteten Untersuchung zu un-
+terwerfen. Es haben sich nämlich gerade für den Dampf
+im Maximum der Dichte aus dieser Theorie einige wesent-
+liche Abweichungen von den früher als richtig angenom-
+menen oder wenigstens in den Rechnungen angewandten
+Gesetzen ergeben.</p>
+<p>2. Ich glaube in dieser Beziehung zunächst daran er-
+innern zu dürfen, daß von <g>Rankine</g> und mir nachgewie-
+sen ist, daß, wenn in einer für Wärme undurchdringli-
+chen Hülle eine ursprünglich im Maximum der Dichte be-
+findliche Quantität Wasserdampf sich ausdehnt, indem sie
+einen beweglichen Theil der Hülle, z. B. einen Stempel,
+unter Anwendung ihrer vollen Expansivkraft zurückschiebt,
+dabei ein Theil des Dampfes sich niederschlagen muß, wäh-
+rend in den meisten früheren Schriften über die Dampf-
+maschine, unter andern in dem vortrefflichen Werke von
+<g>de Pambour</g><fn="1)"><i>Théorie des Machines à <g>Vapeur</g>, par le Comte F. M. G.
+<g>de Pambour</g>. Paris</i> 1844.</fn> der <g>Watt&2019;s</g>che Satz, daß der Dampf
+unter diesen Umständen gerade im Maximum der Dichte
+bleibe, zu Grunde gelegt ist.</p>
+<p>Ferner nahm man früher zur Bestimmung des Volumens
+einer Gewichtseinheit gesättigten Dampfes bei verschiede-
+nen Temperaturen in Ermangelung genauerer Kenntnisse
+an, daß der Dampf selbst im Maximum seiner Dichte noch
+dem <g>Mariotte&2019;s</g>chen und <g>Gay-Lussac&2019;s</g>chen Gesetze
+folge. Dem gegenüber habe ich schon in meiner ersten
+Abhandlung über diesen Gegenstand <fn="2)">Diese Ann. Bd. LXXIX, S. 368.</fn> gezeigt, daß man
+<pb="443"/>
+aus den Grundsätzen der mechanischen Wärmetheorie un-
+ter Zuziehung der Nebenannahme, <i>daß ein permanentes
+Gas, wenn es sich bei constanter Temperatur ausdehnt, nur
+so viel Wärme verschluckt, wie zu der dabei gethanen äußeren
+Arbeit verbraucht wird</i>, die Volumina, welche eine Gewichts-
+einheit Wasserdampf im Maximum der Dichte bei verschie-
+denen Temperaturen einnimmt, berechnen kann, und daß
+man dabei Werthe findet, welche wenigstens bei höheren
+Temperaturen von dem <g>Mariotte&2019;s</g>chen und <g>Gay-Lus-
+sac&2019;s</g>chen Gesetze beträchtlich abweichen.</p>
+<p>Diese Ansicht über das Verhalten des Dampfes wurde
+damals selbst von den Autoren, welche sich speciell mit
+der mechanischen Wärmetheorie beschäftigten, nicht ge-
+theilt. Besonders W. <g>Thomson</g> bestritt sie. Er sah noch
+in einer ein Jahr später, im März 1851, der Edinburger
+<i>R. Soc.</i> vorgelegten Abhandlung <fn="1)"><i>Transactions of the R. Soc. of Ed. Vol. XX, Part II, p.</i> 261.</fn> in diesem Resultate nur
+einen Beweis für die Unwahrscheinlichkeit der von mir zu-
+gezogenen Nebenannahme.</p>
+<p>In neuerer Zeit aber hat er selbst in Verbindung mit
+J. P. <g>Joule</g> es unternommen, die Richtigkeit dieser An-
+nahme experimentell zu prüfen <fn="2)"><i>Phil. Transact. of the R. Soc. of London Vol. CXLIII, Part III,
+p.</i> 357 und <i>Vol. CXLIV, Part II, p.</i> 321.</fn>. Durch eine Reihe zweck-
+mäßig ersonnener und im großartigen Maaßstabe ausge-
+führter Versuche haben sie in der That für die von ihnen
+untersuchten <i>permanenten</i> Gase, nämlich atmosphärische
+Luft und Wasserstoff, die Annahme so nahe richtig ge-
+funden, daß die Abweichungen in den meisten Rechnungen
+vernachlässigt werden können. Für das nicht permanente
+Gas dagegen, welches sie auch untersuchten, die Kohlen-
+säure, fanden sie größere Abweichungen. Dieses stimmt
+ganz mit der Bemerkung überein, welche ich gleich bei
+der ersten Erwähnung der Annahme hinzufügte, daß sie
+wahrscheinlich für jedes Gas in eben dem Grade genau
+sey, in welchem das <g>Mariotte&2019;s</g>che und <g>Gay-Lussac&2019;</g>-
+sche Gesetz auf dasselbe Anwendung findet. In Folge die-
+<pb="444"/>
+ser Versuche hat nun auch <g>Thomson</g> das Volumen des
+gesättigten Dampfes in derselben Weise berechnet, wie
+ich. Ich glaube daher, daß die Richtigkeit dieser Berech-
+nungsart auch von den übrigen Physikern allmählich mehr
+und mehr anerkannt werden wird.</p>
+<p>3. Diese beiden Beispiele werden genügen, um zu er-
+kennen, daß die Grundlagen der früheren Dampfmaschi-
+nenlehre durch die mechanische Wärmetheorie so wesent-
+liche Aenderungen erlitten haben, daß eine erneuerte Un-
+tersuchung dieses Gegenstandes nothwendig ist.</p>
+<p>In der vorliegenden Abhandlung habe ich nun den Ver-
+such gemacht, die Grundzüge einer mit der mechanischen
+Wärmetheorie übereinstimmenden Berechnung der Arbeit
+der Dampfmaschine zu entwickeln, wobei ich mich aber
+auf die bisjetzt gebräuchlichen Arten von Dampfmaschinen
+beschränkt habe, ohne auf die neueren, allerdings sehr
+beachtenswerthen Bestrebungen, den Dampf im überhitzten
+Zustande anzuwenden, für jetzt einzugehen.</p>
+<p>Ich werde bei der Darstellung dieser Untersuchungen
+nur die zuletzt von mir veröffentlichte Abhandlung &00BB;über
+eine veränderte Form des zweiten Hauptsatzes der mecha-
+nischen Wärmetheorie&00AB; <fn="1)">Diese Ann. Bd. XCIII, S. 481.</fn> als bekannt voraussetzen. Da-
+durch wird es allerdings nothwendig, einige Resultate,
+welche nicht mehr neu, sondern schon früher von anderen
+Autoren oder von mir selbst gefunden sind, in etwas an-
+derer Weise noch einmal abzuleiten; ich glaube aber, daß
+diese Wiederholung in der durch sie gewonnenen größe-
+ren Einheit und Uebersichtlichkeit des Ganzen ihre Recht-
+fertigung finden wird. Ich werde an den betreffenden
+Stellen die Arbeiten, in welchen diese Resultate zuerst
+mitgetheilt wurden, soweit sie mir bekannt sind, anführen.</p>
+<p>4. Der Ausdruck, daß <i>die Wärme eine Maschine treibt</i>,
+ist natürlich nicht auf die Wärme unmittelbar zu beziehen,
+sondern ist so zu verstehen, daß irgend ein in der Ma-
+schine vorhandener Stoff in Folge der Veränderungen,
+welche er durch die Wärme erleidet, die Maschinentheile
+<pb="445"/>
+in Bewegung setzt. Wir wollen diesen Stoff den <i>die Wir-
+kung der Wärme vermittelnden</i> Stoff nennen.</p>
+<p>Wenn nun eine fortwährend wirkende Maschine in
+gleichmäßigem Gange ist, so finden alle dabei vorkom-
+menden Veränderungen periodisch statt, so daß derselbe
+Zustand, in welchem sich zu einer gewissen Zeit die Ma-
+schine mit allen ihren einzelnen Theilen befindet, in glei-
+chen Intervallen regelmäßig wiederkehrt. Demnach muß
+auch der die Wirkung der Wärme vermittelnde Stoff in
+solchen regelmäßig wiederkehrenden Momenten in gleicher
+Menge in der Maschine vorhanden seyn, und sich in glei-
+chem Zustande befinden. Diese Bedingung kann auf zwei
+verschiedene Arten erfüllt werden.</p>
+<p>Erstens kann ein und dasselbe ursprünglich in der Ma-
+schine befindliche Quantum dieses Stoffes immer in ihr
+bleiben, wobei dann die Zustandsänderungen, welche die-
+ser Stoff während des Ganges erleidet, so stattfinden müs-
+sen, daß er mit dem Ende jeder Periode wieder in seinen
+Anfangszustand zurückkehrt, und dann denselben Cyclus
+von Veränderungen von Neuem beginnt.</p>
+<p>Zweitens kann die Maschine jedesmal den Stoff, wel-
+cher während einer Periode zur Hervorbringung der Wir-
+kung gedient hat, nach außen abgeben, und dafür eben-
+soviel Stoff von derselben Art von außen wieder auf-
+nehmen.</p>
+<p>5. Dieses letztere Verfahren ist bei den in der Praxis
+angewandten Maschinen das gewöhnlichere. Es findet z. B.
+bei den calorischen Luftmaschinen, wie sie bis jetzt construirt
+sind, Anwendung, indem nach jedem Hube die Luft, welche
+im Treibcylinder den Stempel bewegt hat, in die Atmo-
+sphäre ausgetrieben, und dafür vom Speisecylinder eine
+gleiche Quantität Luft aus der Atmosphäre geschöpft wird.
+Ebenso bei den Dampfmaschinen ohne Condensator, bei
+welchen auch der Dampf aus dem Cylinder in die Atmo-
+sphäre tritt, und dafür aus einem Reservoir neues Wasser
+in den Kessel gepumpt wird.</p>
+<p>Ferner findet es wenigstens eine theilweise Anwendung
+<pb="446"/>
+auch bei den Dampfmaschinen mit Condensator von ge-
+wöhnlicher Einrichtung. Bei diesen wird das aus dem
+Dampfe niedergeschlagene Wasser zwar zum Theil in den
+Kessel zurückgepumpft, aber nicht alles, weil es mit dem
+Kühlwasser gemischt ist, und von diesem daher auch ein
+Theil in den Kessel kommt. Der nicht wieder angewandte
+Theil des niedergeschlagenen Wassers muß mit dem übrigen
+Theile des Kühlwassers zusammen fortgeschafft werden.</p>
+<p>Das erstere Verfahren hat in neuerer Zeit in denjenigen
+Dampfmaschinen Anwendung gefunden, welche durch zwei
+verschiedene Dämpfe, z. B. Wasser- und Aetherdampf, ge-
+trieben werden. In diesen wird der Wasserdampf nur
+durch die Berührung mit Metallröhren, welche inwendig
+mit flüssigem Aether gefüllt sind, niedergeschlagen, und
+dann vollständig wieder in den Kessel zurückgepumpt.
+Ebenso wird der Aetherdampf in Metallröhren, die nur
+auswendig von kaltem Wasser umspült sind, niedergeschla-
+gen, und dann in den ersten Raum, der zur Verdampfung
+des Aethers dient, zurückgepumpt. Es braucht daher, um
+den gleichmäßigen Gang zu erhalten, nur so viel Wasser
+und Aether neu zugeführt zu werden, wie etwa wegen
+Unvollkommenheit der Construction durch die Fugen ent-
+weicht.</p>
+<p>6. In einer Maschine dieser Art, in welcher dieselbe
+Masse immer wieder von Neuem angewandt wird, müssen,
+wie oben gesagt, die verschiedenen Veränderungen, welche
+die Masse während einer Periode erleidet, einen in sich
+geschlossenen Cyclus oder nach der Bezeichnung, welche
+ich in meiner vorigen Abhandlung gewählt habe, einen
+<i>Kreisproceß</i> bilden.</p>
+<p>Solche Maschinen dagegen, bei denen ein periodisches
+Aufnehmen und Wiederausscheiden von Massen stattfin-
+det, sind dieser Bedingung nicht nothwendig unterworfen.
+Dessen ungeachtet können auch sie dieselbe erfüllen, in-
+dem sie die Massen in demselben Zustande wieder aus-
+scheiden, in welchem sie sie aufgenommen haben. Dieses
+ist der Fall bei den Dampfmaschinen mit Condensator, bei
+denen das Wasser im flüssigen Zustande und mit dersel-
+<pb="447"/>
+ben Temperatur, mit der es aus dem Condensator in den
+Kessel getreten war, später aus dem Condensator fortge-
+schafft wird <fn="1)">Das Kühlwasser, welches kalt in den Condensator ein- und warm
+wieder austritt, ist hierbei nicht berücksichtigt, da es nicht zu dem die
+Wirkung der Wärme vermittelnden Stoffe gehört, sondern nur als eine
+negative Wärmequelle dient.</fn>.</p>
+<p>Bei anderen Maschinen ist der Zustand beim Austritte
+von demjenigen beim Eintritte verschieden. Die calorischen
+Luftmaschinen z. B., selbst wenn sie mit einem Regenerator
+versehen sind, treiben die Luft mit höherer Temperatur in
+die Atmosphäre zurück, als sie vorher hatte, und die Dampf-
+maschinen ohne Condensator nehmen das Wasser tropfbar
+flüssig auf, und lassen es dampfförmig wieder ausströmen.
+In diesen Fällen findet zwar kein vollständiger Kreisproceß
+statt, indessen kann man sich immer zu der wirklich vor-
+handenen Maschine noch eine zweite hinzudenken, welche
+die Masse aus der ersten Maschine aufnimmt, sie auf irgend
+eine Weise in den Anfangszustand zurückbringt, und dann
+erst entweichen läßt. Beide Maschinen zusammen können
+dann als Eine Maschine betrachtet werden, welche wieder
+der obigen Bedingung genügt. In manchen Fällen kann
+diese Vervollständigung geschehen, ohne daß dadurch eine
+größere Complication für die Untersuchungen eintritt. So
+kann man sich z. B. eine Dampfmaschine ohne Condensator,
+wenn man nur annimmt, daß sie mit Wasser von 100&00B0;
+gespeist werde, ohne Weiteres durch eine Maschine mit
+einem Condensator, dessen Temperatur 100&00B0; ist, ersetzt
+denken.</p>
+<p>Demnach kann man unter der Voraussetzung, daß die
+Maschinen, welche jene Bedingung nicht schon von selbst
+erfüllen, in dieser Weise für die Betrachtung vervollstän-
+digt seyen, auf alle thermodynamischen Maschinen die für
+die Kreisprocesse geltenden Sätze anwenden, und dadurch
+gelangt man zu einigen Schlüssen, welche von der beson-
+deren Natur der in den einzelnen Maschinen stattfindenden
+Vorgänge ganz unabhängig sind.</p>
+<p>7. Die beiden Hauptsätze, welche für jeden Kreispro-
+<pb="448"/>
+ceß gelten, habe ich in meiner vorigen Abhandlung durch
+folgende Gleichungen dargestellt:
+(I) <formel>
+(II) <formel>
+worin die Buchstaben dieselbe Bedeutung haben wie dort,
+nämlich:</p>
+<p><i>A</i> ist das Wärmeaequivalent für die Einheit der Arbeit.</p>
+<p><i>W</i> stellt die während des Kreisprocesses gethane äußere
+Arbeit dar.</p>
+<p><i>Q</i> bedeutet die dem veränderlichen Körper während des
+Kreisprocesses mitgetheilte Wärme und <i>d Q</i> ein Element
+derselben, wobei eine dem Körper entzogene Wärmemenge
+als mitgetheilte negative Wärmemenge gerechnet wird. Das
+Integral der zweiten Gleichung erstreckt sich über die ganze
+Menge <i>Q</i>.</p>
+<p><i>T</i> ist eine Function derjenigen Temperatur, welche der
+veränderliche Körper in dem Momente hat, in welchem er
+das Wärmeelement <i>d Q</i> aufnimmt, oder, falls der Körper in
+seinen verschiedenen Theilen verschiedene Temperaturen
+haben sollte, der Temperatur des Theiles, welcher <i>d Q</i> auf-
+nimmt. Was die Form der Function <i>T</i> anbetrifft, so habe
+ich in meiner vorigen Abhandlung gezeigt, daß sie wahr-
+scheinlich weiter nichts ist, als die Temperatur selbst, wenn
+diese von dem Punkte an gezählt wird, welcher durch
+den umgekehrten Werth des Ausdehnungscoëfficienten ei-
+nes ideellen Gases bestimmt wird, und in der Nähe von
+&2014;273&00B0; C. liegen muß, so daß also, wenn die vom Gefrier-
+punkte an gezählte Temperatur mit <i>t</i> bezeichnet wird,
+(1) <formel>
+zu setzen ist. Ich werde im Folgenden die Größe <i>T</i> immer
+in dieser Bedeutung anwenden, und sie kurz die <i>absolute
+Temperatur</i> nennen, bemerke aber dabei, daß die Schlüsse
+ihrem wesentlichen Inhalte nach davon nicht abhängen, son-
+dern auch gültig bleiben, wenn man <i>T</i> als eine noch un-
+bestimmte Function der Temperatur betrachtet.</p>
+<p><i>N</i> endlich bedeutet den Aequivalenzwerth aller in dem
+<pb="449"/>
+Kreisprocesse vorkommenden uncompensirten Verwandlun-
+gen <fn="1)">Eine Art von uncompensirten Verwandlungen bedarf hierbei noch einer
+besonderen Bemerkung. Die Wärmequellen, welche dem veränderlichen
+Körper Wärme mittheilen sollen, müssen höhere Temperaturen haben, als
+er, und umgekehrt diejenigen, welche ihm negative Wärmemengen mit-
+theilen oder ihm Wärme entziehen sollen, niedrigere Temperaturen.
+Bei jedem Wärmeaustausch zwischen dem veränderlichen Körper und
+einer Wärmequelle findet also ein unmittelbarer Uebergang von Wärme
+aus einem Körper von höherer Temperatur in einen solchen von niederer
+Temperatur statt, und darin liegt eine uncompensirte Verwandlung, welche
+um so größer ist, je verschiedener die beiden Temperaturen sind. Ob
+diese uncompensirten Verwandlungen, bei deren Bestimmung nicht bloß
+die Zustandsänderungen des veränderlichen Körpers, sondern auch die
+Temperaturen der angewandten Wärmequellen in Betracht kommen, in
+<i>N</i> mit einbegriffen sind oder nicht, hängt davon ab, welche Bedeutung
+man der in der Gleichung (II) vorkommenden Temperatur beilegt. Ver-
+steht man darunter die Temperatur der zu dem Elemente <i>d Q</i> gehörigen
+<i>Wärmequelle</i>, so sind jene Verwandlungen in <i>N</i> mit einbegriffen.
+Versteht man aber, wie es oben festgestellt ist, und in dieser ganzen
+Abhandlung auch beibehalten werden soll, die Temperatur des <i>verän-
+derlichen Körpers</i> darunter, so sind jene Verwandlungen von <i>N</i> aus-
+geschlossen. &2014; Ferner muß noch eine Bemerkung über das vor <i>N</i> ste-
+hende Minuszeichen gemacht werden, welches in meiner vorigen Abhand-
+lung in derselben Gleichung nicht vorkommt. Dieser Unterschied beruht
+nur darauf, daß dort der positive und negative Sinn der Wärmemengen
+anders gewählt ist, als hier. Dort wurde eine von dem veränderlichen
+Körper aufgenommene Wärmemenge, weil sie für die Wärmequelle ver-
+loren ist, als negativ gerechnet, hier dagegen gilt sie als positiv. Dadurch
+ändern alle in dem Integrale enthaltenen Wärmeelemente, und mit ihnen
+zugleich auch das ganze Integral ihr Vorzeichen, und es mußte daher,
+damit die Gleichung dessen ungeachtet richtig bliebe, auch auf der anderen
+Seite das Vorzeichen umgekehrt werden.</fn>.</p>
+<p>8. Hat der Proceß so stattgefunden, daß er sich in
+derselben Weise auch umgekehrt ausführen läßt, so ist
+<i>N</i>=0. Kommen dagegen in dem Kreisprocesse eine oder
+mehrere Zustandsänderungen vor, welche in nicht umkehr-
+barer Weise geschehen sind, so sind dabei auch nothwen-
+dig uncompensirte Verwandlungen eingetreten, und die
+Größe <i>N</i> hat daher einen angebbaren Werth, welcher
+aber nur positiv seyn kann.</p>
+<bs>Poggendorff&2019;s Annal. Bd. XCVII. 29</bs>
+<pb="450"/>
+<p>Unter den Vorgängen, auf welche dieses Letztere An-
+wendung findet, wird im Folgenden besonders einer mehr-
+fach zur Sprache kommen. Wenn ein Quantum Gas oder
+Dampf sich ausdehnt, und dabei einen seiner ganzen Expan-
+sivkraft entsprechenden Druck überwindet, so läßt es sich
+unter Anwendung derselben Kraft auch wieder zusammen-
+drücken, wobei dann alle Erscheinungen, von denen die
+Ausdehnung begleitet war, in umgekehrter Weise eintreten.
+Dieses ist aber nicht mehr der Fall, wenn das Gas (oder
+der Dampf) bei der Ausdehnung nicht den vollen Wider-
+stand findet, welchen es überwinden könnte, wenn es also
+z. B. aus einem Gefäße, in welchem es unter größerem
+Drucke stand, in ein anderes, in welchem ein geringerer
+Druck herrscht, überströmt. Alsdann ist eine Zusammen-
+drückung unter denselben Umständen, unter welchen die
+Ausdehnung stattfand, nicht möglich.</p>
+<p>Die Gleichung (II) giebt uns ein Mittel, die Summe
+aller in einem Kreisprocesse vorkommenden uncompensirten
+Verwandlungen zu bestimmen. Da aber ein Kreisproceß
+aus vielen einzelnen Zustandsänderungen einer gegebenen
+Masse bestehen kann, von denen einige in umkehrbarer
+Weise, andere in nicht umkehrbarer Weise geschehen sind,
+so ist es in manchen Fällen von Interesse, zu wissen, wie-
+viel jede einzelne der letzteren zur Entstehung der ganzen
+Summe von uncompensirten Verwandlungen beigetragen
+hat. Dazu denke man sich nach der Zustandsänderung,
+welche man in dieser Weise untersuchen will, die Masse
+durch irgend ein umkehrbares Verfahren in den vorigen
+Zustand zurückgeführt. Dadurch erhält man einen kleinen
+Kreisproceß, auf welchen sich die Gleichung (II) ebenso
+gut anwenden läßt, wie auf den ganzen. Kennt man also
+die Wärmemengen, welche die Masse während desselben
+aufgenommen hat, und die dazu gehörigen Temperaturen,
+so giebt das negative Integral &2014; <formel> die in ihm entstan-
+dene uncompensirte Verwandlung. Da nun die Zurück-
+führung, welche in umkehrbarer Weise stattgefunden hat,
+<pb="451"/>
+zur Vermehrung derselben nichts beigetragen haben kann,
+so stellt jener Ausdruck die gesuchte, durch die gege-
+bene Zustandsänderung veranlaßte uncompensirte Verwand-
+lung dar.</p>
+<p>Hat man auf diese Weise alle die Theile des ganzen
+Kreisprocesses, welche nicht umkehrbar sind, untersucht,
+und dabei die Werthe <i>N</i><do>1</do>, <i>N</i><do>2</do> etc. gefunden, welche alle
+einzeln positiv seyn müssen, so giebt ihre Summe die auf
+den ganzen Kreisproceß bezügliche Größe <i>N</i>, ohne daß
+man die Theile, von welchen man weiß, daß sie umkehr-
+bar sind, mit in die Untersuchung zu ziehen braucht.</p>
+<p>9. Wenden wir nun die Gleichungen (I) und (II)
+auf denjenigen Kreisproceß an, welcher in der thermo-
+dynamischen Maschine während einer Periode stattfindet,
+so sieht man zunächst, daß, wenn die ganze Wärmemenge,
+welche der vermittelnde Stoff während dieser Zeit aufge-
+nommen hat, gegeben ist, dann durch die erste Gleichung
+unmittelbar auch die Arbeit bestimmt ist, ohne daß die
+Natur der Vorgänge selbst, aus denen der Kreisproceß
+besteht, bekannt zu seyn braucht.</p>
+<p>In ähnlicher Allgemeinheit kann man durch die Verbin-
+dung beider Gleichungen die Arbeit auch noch aus anderen
+Daten bestimmen.</p>
+<p>Wir wollen annehmen, es seyen die Wärmemengen,
+welche der veränderliche Körper nach einander empfängt,
+sowie die Temperaturen, welche er bei der Aufnahme einer
+jeden hat, gegeben, und nur Eine Temperatur <i>T</i><do>0</do> sey übrig,
+bei welcher dem Körper noch eine Wärmemenge mitge-
+theilt, oder wenn sie negativ ist, entzogen wird, deren
+Größe nicht im Voraus bekannt ist. Die Summe aller
+bekannten Wärmemengen heiße <i>Q</i><do>1</do>, und die unbekannte
+Wärmemenge <i>Q</i><do>0</do>.</p>
+<p>Dann zerlege man das in der Gleichung (II) vorkom-
+mende Integral in zwei Theile, von denen der eine sich
+nur über die bekannte Wärmemenge <i>Q</i><do>1</do> und der andere
+über die unbekannte <i>Q</i><do>0</do> erstreckt. Im letzten Theile läßt
+<bs>29*</bs>
+<pb="452"/>
+sich, da in ihm <i>T</i> einen constanten Werth <i>T</i><do>0</do> hat, die
+Integration sogleich ausführen, und giebt den Ausdruck:
+<formel>
+Dadurch geht die Gleichung (II) über in:
+<formel>
+woraus folgt:
+<formel>
+Ferner hat man nach der Gleichung (I), da für unseren
+Fall <i>Q</i> = <i>Q</i><do>1</do> + <i>Q</i><do>0</do> ist:
+<formel>
+Substituirt man in dieser Gleichung für <i>Q</i><do>0</do> den eben ge-
+fundenen Werth, so kommt:
+(2) <formel></p>
+<p>Wird insbesondere angenommen, daß der ganze Kreis-
+proceß umkehrbar sey, so ist dem Obigen nach <i>N</i>=0, und
+dadurch geht die vorige Gleichung über in:
+(3) <formel>
+Dieser Ausdruck unterscheidet sich von dem vorigen nur
+durch das Glied &2014; <formel> <i>N</i>. Da nun <i>N</i> nur positiv seyn
+kann, so kann dieses Glied nur negativ seyn, und man
+sieht daraus, was sich auch durch unmittelbare Betrachtung
+leicht ergiebt, daß man unter den oben in Bezug auf die
+Wärmemittheilung festgestellten Bedingungen die größt-
+mögliche Arbeit erhält, wenn der ganze Kreisproceß um-
+kehrbar ist, und daß durch jeden Umstand, welcher bewirkt,
+daß einer der in dem Kreisprocesse stattfindenden Vorgänge
+nicht umkehrbar ist, die Größe der Arbeit abnimmt.</p>
+<pb="453"/>
+<p>Die Gleichung (2) führt hiernach zu dem gesuchten
+Werthe der Arbeit auf einem Wege, welcher dem gewöhn-
+lichen gerade entgegengesetzt ist, indem man nicht wie
+sonst die während der verschiedenen Vorgänge gethanen
+Arbeitsgrößen einzeln bestimmt und dann addirt, sondern
+von dem Maximum der Arbeit ausgeht, und die durch die
+einzelnen Unvollkommenheiten des Processes entstandenen
+Arbeitsverluste davon abzieht.</p>
+<p>Machen wir in Bezug auf die Mittheilung der Wärme
+die beschränkende Bedingung, daß auch die ganze Wärme-
+menge <i>Q</i><do>1</do> dem Körper bei einer bestimmten Temperatur <i>T</i><do>1</do>
+mitgetheilt werde, so läßt sich der diese Wärmemenge um-
+fassende Theil des Integrals ebenfalls ohne Weiteres aus-
+führen, und giebt:
+<formel>
+wodurch die für das Maximum der Arbeit geltende Glei-
+chung (3) folgende Form annimmt:
+(4) <formel>
+In dieser speciellen Form ist die Gleichung schon früher
+von W. <g>Thomson</g> und <g>Rankine</g> aus der Verbindung
+des von mir modificirten <g>Carnot&2019;s</g>chen Satzes mit dem
+Satze von der Aequivalenz von Wärme und Arbeit ab-
+geleitet <fn="1)">S. <i>Phil. Mag. Juli</i> 1851.</fn>.</p>
+<p>10. Bevor wir von diesen Betrachtungen, welche für
+alle thermodynamischen Maschinen gelten, zur Behandlung
+der Dampfmaschine übergehen können, muß noch erst
+einiges über das Verhalten der Dämpfe im Maximum der
+Dichte voraufgeschickt werden.</p>
+<p>Die Gleichungen, welche die beiden Hauptsätze der
+mechanischen Wärmetheorie in ihrer Anwendung auf die
+Dämpfe im Maximum der Dichte darstellen, habe ich schon
+in meiner älteren Abhandlung v. J. 1850 &00BB;über die bewe-
+gende Kraft der Wärme etc.&00AB; entwickelt, und zu verschie-
+denen Folgerungen angewandt. Da ich indessen in meiner
+<pb="454"/>
+letzten Abhandlung &00BB;über eine veränderte Form des zweiten
+Hauptsatzes der mechanischen Wärmetheorie&00AB; für den gan-
+zen Gegenstand einen etwas anderen Gang der Darstellung
+eingeschlagen habe, so halte ich es, wie schon erwähnt,
+der größeren Einheit und Uebersichtlichkeit wegen für
+zweckmäßiger, nur diese letzte Abhandlung als bekannt
+vorauszusetzen. Ich werde daher aus den in ihr gewon-
+nenen Resultaten jene Gleichungen hier auf einem anderen
+Wege noch einmal ableiten.</p>
+<p>Es wurde in dieser Abhandlung, um die zuerst aufge-
+stellten allgemeinen Gleichungen auf einen etwas specielle-
+ren Fall anzuwenden, angenommen, daß die einzige auf
+den veränderlichen Körper wirkende fremde Kraft, welche
+bei der Bestimmung der äußeren Arbeit Berücksichtigung
+verdient, ein äußerer Druck sey, dessen Stärke an allen
+Punkten der Oberfläche gleich, und dessen Richtung überall
+auf dieselbe senkrecht sey, und daß ferner dieser, Druck
+sich immer nur so langsam ändere, und daher in jedem
+Augenblicke von der ihm entgegenwirkenden Ausdehnungs-
+kraft des Körpers um so wenig verschieden sey, daß beide
+in der Rechnung als gleich betrachtet werden können.
+Bezeichnen wir dann mit <i>p</i> den Druck, mit <i>v</i> das Volumen
+und mit <i>T</i> die absolute Temperatur des Körpers, welche
+letztere wir statt der vom Gefrierpunkte an gezählten Tem-
+peratur <i>t</i> in die Formeln einführen wollen, weil diese da-
+durch eine einfachere Gestalt annehmen, so lauten die
+Gleichungen, welche sich für diesen Fall ergeben haben,
+folgendermaßen:
+(III) <formel>
+(IV) <formel></p>
+<p>Diese Gleichungen sollen nun auf den noch specielle-
+ren Fall der Dämpfe im Maximum der Dichte angewandt
+werden.</p>
+<p>11. Es sey von dem Stoffe, dessen Dampf betrachtet
+werden soll, die Masse <i>M</i> gegeben, welche sich in einem
+<pb="455"/>
+ganz geschlossenen, ausdehnsamen Gefäße befinde, und
+zwar der Theil <i>m</i> im dampfförmigen und der übrige Theil
+<i>M &2014; m</i> im tropfbar flüssigen Zustande. Diese gemischte
+Masse soll nun den veränderlichen Körper bilden, auf wel-
+chen die vorigen Gleichungen zu beziehen sind.</p>
+<p>Wenn die Temperatur <i>T</i> der Masse und ihr Volumen <i>v</i>,
+d. h. der Rauminhalt des Gefäßes, gegeben sind, so ist da-
+durch der Zustand der Masse, soweit er hier in Betracht
+kommt, vollkommen bestimmt. Da nämlich der Dampf der
+Voraussetzung nach immer in Berührung mit tropfbarer
+Flüssigkeit, und daher im Maximum der Dichte bleibt, so
+hängt sein Zustand, ebenso wie der der Flüssigkeit, nur
+von der Temperatur <i>T</i> ab. Es kommt also nur noch dar-
+auf an, ob auch die Größe der beiden in verschiedenen
+Zuständen befindlichen Theile bestimmt ist. Dazu ist die
+Bedingung gegeben, daß diese beiden Theile zusammen
+gerade den Rauminhalt des Gefäßes ausfüllen müssen. Be-
+zeichnet man also das Volumen einer Gewichtseinheit Dampf
+im Maximum der Dichte bei der Temperatur <i>T</i> mit <i>s</i>, und
+das einer Gewichtseinheit Flüssigkeit mit &03C3;, so muß seyn:
+<formel>
+Die Größe <i>s</i> kommt im Folgenden immer nur in der Ver-
+bindung <i>s</i> &2014; &03C3; vor, und wir wollen daher für diese Diffe-
+renz einen besonderen Buchstaben einführen, indem wir
+setzen:
+(5) <formel>
+wodurch die vorige Gleichung in
+(6) <formel>
+übergeht, und daraus ergiebt sich:
+(7) <formel></p>
+<p>Durch diese Gleichung ist, da <i>u</i> und &03C3; Functionen von
+<i>T</i> sind, <i>m</i> als Function von <i>T</i> und <i>v</i> bestimmt.</p>
+<p>12. Um nun die Gleichungen (III) und (IV) auf
+unseren Fall anwenden zu können, müssen wir zunächst
+die Größen <formel> und <formel> bestimmen.</p>
+<pb="456"/>
+<p>Nehmen wir erstens an, das Gefäß dehne sich soviel
+aus, daß sein Rauminhalt um <i>d v</i> zunehme, so muß dabei
+der Masse, um ihre Temperatur constant zu erhalten, eine
+Wärmemenge mitgetheilt werden, welche allgemein durch
+<formel>
+dargestellt wird. Da nun diese Wärmemenge nur zu der
+während der Ausdehnung stattfindenden Dampfbildung ver-
+braucht wird, so läßt sie sich, wenn die Verdampfungs-
+wärme für die Masseneinheit mit <i>r</i> bezeichnet wird, auch
+durch
+<formel>
+darstellen, und man kann also setzen:
+<formel>
+woraus sich, da nach (7)
+<formel>
+ist, ergiebt:
+(8) <formel></p>
+<p>Nehmen wir zweitens an, die Temperatur der Masse
+solle, während der Rauminhalt des Gefäßes constant bleibt,
+um <i>d T</i> erhöht werden, so wird die dazu nöthige Wärme-
+menge allgemein durch
+<formel>
+dargestellt. Diese Wärmemenge besteht aus drei Theilen.</p>
+<p>1) Der tropfbar flüssige Theil <i>M &2014; m</i> der ganzen Masse
+muß um <i>d T</i> erwärmt werden, wozu, wenn <i>c</i> die specifische
+Wärme der Flüssigkeit bedeutet, die Wärmemenge
+<formel>
+nöthig ist.</p>
+<p>2) Der dampfförmige Theil <i>m</i> muß ebenfalls um <i>d T</i> er-
+wärmt werden, wird dabei aber zugleich so viel zusammen-
+gedrückt, daß er sich für die erhöhte Temperatur <i>T + d T</i>
+<pb="457"/>
+wieder im Maximum der Dichte befindet. Die Wärme-
+menge, welche einer Masseneinheit Dampf während ihrer
+Zusammendrückung mitgetheilt werden muß, damit sie bei
+jeder Dichte gerade die Temperatur hat, für welche diese
+Dichte das Maximum ist, wollen wir für eine Temperatur-
+erhöhung um <i>d T</i> allgemein mit <i>h d T</i> bezeichnen, worin <i>h</i>
+eine Größe ist, welche vorläufig ihrem Werthe und selbst
+ihrem Vorzeichen nach unbekaunt ist. Danach wird die
+für unseren Fall nöthige Wärmemenge durch
+<i>m h d T</i>
+dargestellt.</p>
+<p>3) Es geht bei der Erwärmung noch eine kleine Menge
+des vorher flüssigen Theils in den dampfförmigen Zustand
+über, welche allgemein durch <formel> <i>d T</i> dargestellt wird, und
+die Wärmemenge
+<formel>
+gebraucht. Hierin ist nach Gleichung (7):
+<formel>
+wodurch der vorige Ausdruck in
+<formel>
+übergeht.</p>
+<p>Faßt man diese drei Wärmemengen zusammen, und
+setzt ihre Summe gleich <formel> <i>d T</i>, so erhält man:
+(9) <formel></p>
+<p>13. Von diesen für <formel> und <formel> gefundenen Ausdrücken
+muß nun noch, wie es in der Gleichung (III) angedeutet
+ist, der erstere nach <i>T</i> und der letztere nach <i>v</i> differentiirt
+werden. Bedenkt man dabei, daß die Größe <i>M</i> constant
+ist, die Größen <i>u</i>, &03C3;, <i>r, c</i> und <i>h</i> sämmtlich nur Functionen
+<pb="458"/>
+von <i>T</i> sind, und allein die Größe <i>m</i> eine Function von
+<i>T</i> und <i>v</i> ist, so erhält man:
+(10) <formel>
+oder wenn man für <formel> seinen Werth <formel> setzt:
+(11) <formel></p>
+<p>Durch Einsetzung der in (10), (11) und (8) gegebenen
+Ausdrücke in (III) und (IV) ergeben sich die gesuchten
+Gleichungen, welche die beiden Hauptsätze der mechani-
+schen Wärmetheorie für Dämpfe im Maximum der Dichte
+darstellen, nämlich:
+(V) <formel>
+(VI) <formel>
+und aus der Combination beider erhält man noch:
+(12) <formel></p>
+<p>14. Mit Hülfe dieser Gleichungen wollen wir nun ei-
+nen Fall behandeln, welcher im Folgenden so oft vorkom-
+men wird, daß es zweckmäßig ist, die darauf bezüglichen
+Resultate im Voraus festzustellen.</p>
+<p>Es sey nämlich angenommen, das vorher betrachtete
+Gefäß mit der darin befindlichen theils flüssigen theils
+dampfförmigen Masse ändere sein Volumen, <i>ohne daß der
+Masse Wärme mitgetheilt oder entzogen werde</i>. Dann wird
+zugleich mit dem Volumen auch die Temperatur und die
+Größe des im dampfförmigen Zustande befindlichen Theiles
+der Masse sich ändern, und außerdem wird, da bei der
+Volumenänderung der Druck des eingeschlossenen Dampfes
+wirksam ist, welcher bei der Ausdehnung eine äußere
+Kraft überwindet, und bei der Zusammendrückung von
+einer äußeren Kraft überwunden wird, von der Wärme,
+<pb="459"/>
+welche den Dampfdruck hervorbringt, eine positive oder
+negative äußere Arbeit gethan.</p>
+<p><i>Es sollen nun unter diesen Umständen die Größe des
+dampfförmigen Theiles m, das Volumen v und die Arbeit W
+als Functionen der Temperatur T bestimmt werden</i>.</p>
+<p>15. Wenn das Volumen und die Temperatur um die
+beliebigen unendlich kleinen Größen <i>d v</i> und <i>d T</i> geändert
+werden sollen, so wird die Wärmemenge, welche dazu
+der Masse mitgetheilt werden muß, dem Vorigen nach
+durch die Summe
+<formel>
+ausgedrückt. Diese Summe muß in Folge der jetzt ge-
+stellten Bedingung, daß der Masse weder Wärme mitge-
+theilt noch entzogen werden soll, gleich Null gesetzt wer-
+den. Dadurch erhalten wir, wenn wir zugleich für
+<formel>
+einfach <i>d m</i> schreiben, die Gleichung:
+(13) <formel>
+Setzen wir hierin nach (12):
+<formel>
+und schreiben wieder für <formel> <i>d T</i>, da <i>r</i> nur eine Function
+von <i>T</i> ist, einfach <i>d r</i>, so kommt:
+<formel>
+oder:
+(14) <formel>
+Dividirt man diese Gleichung durch <i>T</i>, und bedenkt, daß
+<formel>
+ist, so erhält man:
+(15) <formel></p>
+<pb="460"/>
+<p>Da die specifische Wärme einer Flüssigkeit sich mit
+der Temperatur nur langsam ändert, so wollen wir die
+Größe <i>c</i> im Folgenden immer als constant betrachten. Dann
+läßt sich die vorige Gleichung ohne Weiteres integriren,
+und giebt:
+<formel>
+oder, wenn die anfänglichen Werthe von <i>T, r</i> und <i>m</i> mit
+<i>T</i><do>1</do>, <i>r</i><do>1</do> und <i>m</i><do>1</do> bezeichnet werden:
+(VII) <formel></p>
+<p>Durch diese Gleichung ist, wenn <i>r</i> als Function der
+Temperatur als bekannt vorausgesetzt werden kann, wie
+es beim Wasserdampfe nach den Versuchen von <g>Reg-
+nault</g> der Fall ist, auch <i>m</i> als Function der Temperatur
+bestimmt.</p>
+<p>Um von dem Verhalten dieser Function eine ungefähre
+Anschauung zu geben, habe ich einige für einen besonde-
+ren F#ll berechnete Werthe in der folgenden Tabelle zu-
+sammengestellt. Es ist nämlich angenommen, das Gefäß
+enthalte zu Anfange kein tropfbar flüssiges Wasser, son-
+dern sey gerade mit Wasserdampf vom Maximum der
+Dichte angefüllt, so daß also in der vorigen Gleichung
+<i>m</i><do>1</do> = <i>M</i> zu setzen ist, und es finde nun eine Ausdehnung
+des Gefäßes statt. Wenn das Gefäß zusammengedrückt
+werden sollte, so dürfte man die Annahme, daß zu An-
+fange kein flüssiges Wasser vorhanden sey, nicht machen,
+weil dann der Dampf nicht im Maximum der Dichte blei-
+ben, sondern durch die bei der Zusammendrückung er-
+zeugte Wärme überhitzt werden würde. Bei der Ausdeh-
+nung dagegen bleibt der Dampf nicht nur im Maximum
+der Dichte, sondern es schlägt sich sogar ein Theil des-
+selben nieder, und die dadurch entstehende Verminderung
+von <i>m</i> ist es eben, um welche es sich in der Tabelle han-
+delt. Die anfängliche Temperatur ist zu 150&00B0;C. angenom-
+men, und es sind für die Zeitpunkte, wo die Temperatur
+durch die Ausdehnung auf 125&00B0;, 100&00B0; etc. gesunken ist,
+<pb="461"/>
+die entsprechenden Werthe von <formel> angegeben. Die vom
+Gefrierpunkte ab gezählte Temperatur ist, wie schon frü-
+her, zum Unterschiede von der durch <i>T</i> dargestellten ab-
+soluten Temperatur, mit <i>t</i> bezeichnet:
+<tab></p>
+<p>16. Um die zwischen dem Volumen <i>v</i> und der Tem-
+peratur stattfindende Beziehung auszudrücken, hat man zu-
+nächst die Gleichung (6), nämlich:
+<formel>
+Die hierin vorkommende Größe &03C3;, welche das Volumen
+einer Gewichtseinheit Flüssigkeit bedeutet, ändert sich mit
+der Temperatur sehr wenig, und da außerdem der ganze
+Werth von &03C3; gegen <i>u</i> sehr klein ist, so können wir die
+kleinen Aenderungen, welche er erleidet, um so mehr ver-
+nachlässigen, und wir wollen daher &03C3; und somit auch das
+Product <i>M</i> &03C3; als constant betrachten. Es kommt also nur
+noch darauf an, das Product <i>m u</i> zu bestimmen. Dazu
+braucht man nur in der Gleichung (VII) für <i>r</i> den in (VI)
+gegebenen Ausdruck zu substituiren, wodurch man er-
+hält:
+(VIII) <formel>
+Der hierin vorkommende Differentialcoëfficient <formel> ist als
+bekannt anzusehen, wenn <i>p</i> selbst als Funktion der Tem-
+peratur bekannt ist, und somit ist durch diese Gleichung
+das Product <i>m u</i> bestimmt, und aus ihm erhält man durch
+Addition von <i>M</i> &03C3; die gesuchte Größe <i>v</i>.</p>
+<p>In der folgenden Tabelle ist wieder eine Reihe von
+Werthen des Bruches <formel> zusammengestellt, welche sich für
+denselben Fall, auf den sich die vorige Tabelle bezieht,
+aus dieser Gleichung ergeben. Außerdem sind zur Ver-
+<pb="462"/>
+gleichung noch diejenigen Werthe von <formel> hinzugefügt, wel-
+che man erhalten würde, wenn die beiden bisher in der
+Dampfmaschinentheorie gewöhnlich gemachten Annahmen
+richtig wären, 1) daß der Dampf bei der Ausdehnung ohne
+sich theilweise niederzuschlagen gerade im Maximum der
+Dichte bleibe, 2) daß er dem <g>Mariotte&2019;s</g>chen und <g>Gay-
+Lussac&2019;s</g>chen Gesetze folge. Nach diesen Annahmen
+würde
+<formel>
+seyn.</p>
+<tab>
+<p>17. Es bleibt endlich noch die bei der Volumenände-
+rung gethane Arbeit zu bestimmen. Dazu haben wir all-
+gemein die Gleichung:
+(16) <formel>
+Nun ist nach Gleichung (6), wenn darin &03C3; als constant
+betrachtet wird:
+<c><i>d v = d</i> (<i>m u</i>)</c>
+also
+<c><i>p d v = p d</i> (<i>m u</i>),</c>
+wofür man auch schreiben kann:
+(17) <formel></p>
+<p>Hierin könnte man für <i>m u</i> <formel> den durch die Glei-
+chung (VIII) gegebenen Ausdruck setzen, und dann die
+Integration ausführen. Indessen erhält man das Resultat
+gleich in einer etwas bequemeren Form durch folgende
+Substitution. Nach (VI) ist:
+<pb="463"/>
+<formel>
+und hieraus ergiebt sich unter Anwendung der Glei-
+chung (14):
+<formel>
+Dadurch geht (17) über in:
+<formel>
+und durch Integration dieser Gleichung erhält man:
+(IX) <formel>
+woraus sich, da die Größen <i>m r</i> und <i>m u</i> schon durch die
+vorigen Gleichungen bekannt sind, <i>W</i> berechnen läßt.</p>
+<p>Auch diese Rechnung habe ich für den obigen speciel-
+len Fall ausgeführt, wobei sich für <formel>, d. h. für die von
+der Masseneinheit bei der Ausdehnung gethane Arbeit, die
+in der Tabelle angeführten Werthe ergeben haben. Als
+Masseneinheit ist ein Kilogramm und als Arbeitseinheit ein
+Kilogramm-Meter gewählt. Für <formel> ist der von <g>Joule</g>
+gefundene Werth 423,55 angewandt <fn="1)"><formel> ist das Arbeitsaequivalent für die Einheit der Wärme, und die
+obige Zahl bedeutet also, daß die Wärmemenge, welche 1 Kilogrm,
+Wasser von 0&00B0; auf 1&00B0; zu erwärmen vermag, wenn sie in mechanisch
+Arbeit verwandelt wird, eine Arbeitsgröße von 423,55 Kgr.-M. giebt.</fn>.</p>
+<p>Zur Vergleichung mit den Zahlen der Tabelle will ich
+noch anführen, daß man für diejenige Arbeit, welche wäh-
+rend der Verdampfung selbst dadurch gethan wird, daß
+der sich bildende Dampf den äußeren Gegendruck über-
+windet, in dem Falle, wo 1 Kilogrm. Wasser bei der
+Temperatur 150&00B0; und unter dem entsprechenden Drucke
+verdampft, den Werth 18700 erhält.</p>
+<tab>
+<pb="464"/>
+<p>18. Wir wenden uns nun zur Betrachtung der Dampf-
+maschine selbst.</p>
+<p>In der nebenstehenden schematischen Figur, welche nur
+<abb>
+dazu dienen soll, den Ueberblick über die ganze zum Gange
+einer gewöhnlichen Dampfmaschine gehörige Reihe von
+Vorgängen zu erleichtern, stelle <i>A</i> den Dampfkessel vor,
+dessen Inhalt durch die Wärmequelle auf der constanten
+Temperatur <i>T</i><do>1</do> erhalten wird. Aus diesem tritt ein Theil
+des Dampfes in den Cylinder <i>B</i>, und treibt den Stempel
+ein gewisses Stück in die Höhe. Dann wird der Cylinder
+vom Dampfkessel abgeschlossen, und der in ihm enthaltene
+Dampf treibt den Stempel durch Expansion noch höher.
+Darauf wird der Cylinder mit dem Raume <i>C</i> in Verbindung
+gesetzt, welcher den Condensator vorstellen soll.
+Von diesem soll angenommen werden, daß er nicht durch
+eingespritztes Wasser, sondern durch Abkühlung von au-
+ßen kalt erhalten werde, was, wie schon oben bemerkt,
+keinen wesentlichen Unterschied in den Resultaten hervorbringt,
+aber die Betrachtung vereinfacht. Die constante
+Temperatur des Condensators möge <i>T</i><do>0</do> heißen. Während
+der Verbindung des Cylinders mit dem Condensator geht
+der Stempel den ganzen vorher durchlaufenen Weg wie-
+der zurück, und dadurch wird aller Dampf, welcher nicht
+gleich von selbst in den Condensator strömte, in diesen
+<pb="465"/>
+hineingetrieben, und schlägt sich hier nieder. Es kommt
+nun noch, um den Cyclus von Operationen zu vollenden,
+darauf an, die durch den Dampfniederschlag entstandene
+Flüssigkeit in den Kessel zurückzuschaffen. Dazu dient
+die kleine Pumpe <i>D</i>, deren Gang so regulirt wird, daß
+sie beim Aufgange des Stempels gerade so viel Flüssigkeit
+aus dem Condensator aufsaugt, wie durch den oben er-
+wähnten Dampfniederschlag in ihn hineingekommen ist, und
+diese Flüssigkeitsmenge wird dann beim Niedergange des
+Stempels in den Kessel zurückgepreßt. Wenn sie sich
+hier wieder bis zur Temperatur <i>T</i><do>1</do> erwärmt hat, so befin-
+det sich Alles wieder im Anfangszustande, und dieselbe
+Reihe von Vorgängen kann von Neuem beginnen. Wir
+baben es also hier mit einem vollständigen Kreisprocesse
+zu thun.</p>
+<p>Bei den gewöhnlichen Dampfmaschinen tritt der Dampf
+nicht bloß von Einer, sondern abwechselnd von beiden
+Seiten in den Cylinder. Dadurch entsteht aber nur der
+Unterschied, daß während eines Auf- und Niederganges
+des Stempels statt Eines Kreisprocesses zwei stattfinden,
+und es genügt auch in diesem Falle, für Einen derselben
+die Arbeit zu bestimmen, um daraus die während irgend
+einer Zeit im Ganzen gethane Arbeit ableiten zu können <fn="1)">Der geringe Unterschied, daß an der einen Seite des Stempels der
+Raum durch die Stempelstange etwas verengt ist, kann dabei leicht be-
+rücksichtigt werden.</fn>.</p>
+<p>19. Zu dieser Bestimmung wollen wir, wie es auch
+sonst zu geschehen pflegt, den Cylinder als eine für Wärme
+undurchdringliche Hülle betrachten, indem wir den während
+eines Hubes stattfindenden Wärmeaustausch zwischen den
+Cylinderwänden und dem Dampfe vernachlässigen.</p>
+<p>Die im Cylinder befindliche Masse kann immer nur
+aus Dampf <i>im Maximum der Dichte</i> mit etwas beigemischter
+Flüssigkeit bestehen. Es ist nämlich aus dem Vorigen er-
+sichtlich, daß der Dampf bei der nach dem Abschlusse
+vom Kessel im Cylinder stattfindenden Ausdehnung, wenn
+ihm dabei von außen keine Wärme zugeführt wird, nicht
+<bs>Poggendorff&2019;s Annal. Bd. XCVII. 30</bs>
+<pb="466"/>
+in den überhitzten Zustand übergehen kann, sondern sich
+vielmehr zum Theil niederschlagen muß, und bei anderen
+weiter unten zu erwähnenden Vorgängen, welche allerdings
+eine geringe Ueberhitzung zur Folge haben könnten, wird
+sie dadurch verhindert, daß der Dampf beim Einströmen
+immer etwas tropfbare Flüssigkeit mit in den Cylinder
+reißt, und mit dieser in Berübrung bleibt.</p>
+<p>Die Menge dieser dem Dampfe beigemischten Flüssig-
+keit ist nicht bedeutend, und da sie größtentheils in feinen
+Tröpfchen durch den Dampf verbreitet ist, und daher schnell
+an den Temperaturänderungen, welche der Dampf während
+der Ausdehnung erleidet, theilnehmen kann, so wird man
+keine erhebliche Ungenauigkeit begehen, wenn man in der
+Rechnung für jeden bestimmten Zeitpunkt die Temperatur
+der ganzen im Cylinder befindlichen Masse als gleich be-
+trachtet.</p>
+<p>Ferner wollen wir, um die Formeln nicht von vorn
+herein zu complicirt zu machen, zunächst die ganze Arbeit
+bestimmen, welche von dem Dampfdrucke gethan wird, ohne
+darauf Rücksicht zu nehmen, wieviel von dieser Arbeit wirk-
+lich nutzbar wird, und wieviel dagegen in der Maschine
+selbst zur Ueberwindung der Reibungen, und zur Bewe-
+gung der Pumpen, welche außer der in der Figur ange-
+deuteten zum Betriebe der Maschine noch nöthig sind,
+wieder verbraucht wird. Dieser Theil der Arbeit läßt sich
+auch nächträglich noch bestimmen und in Abzug bringen,
+wie weiter unten gezeigt werden soll.</p>
+<p>In Bezug auf die Reibung des Stempels im Cylinder
+ist übrigens zu bemerken, daß die zu ihrer Ueberwindung
+verbrauchte Arbeit nicht ganz als verloren zu betrachten
+ist. Durch diese Reibung wird nämlich Wärme erzeugt,
+und dadurch wird das Innere des Cylinders wärmer er-
+halten, als es sonst seyn würde, und somit die Kraft des
+Dampfes vermehrt.</p>
+<p>Endlich wollen wir, da es zweckmäßig ist, zunächst die
+Wirkungen einer möglichst vollkommenen Maschine kennen
+zu lernen, bevor der Einfluß der einzelnen in der Wirklich-
+keit vorkommenden Unvollkommenheiten untersucht wird,
+<pb="467"/>
+zu dieser vorläufigen Betrachtung noch zwei Voraussetzun-
+gen hinzufügen, welche weiterhin wieder aufgegeben wer-
+den sollen. Nämlich <i>erstens</i>, daß der Zuleitungskanal vom
+Dampfkessel zum Cylinder und der Ableitungskanal vom
+Cylinder zum Condensator oder zur Atmosphäre so weit
+seyen, oder der Gang der Dampfmaschine so langsam sey,
+daß der Druck in dem mit dem Kessel in Verbindung
+stehenden Theile des Cylinders gleich dem im Kessel selbst,
+und ebenso der Druck auf der anderen Seite des Stempels
+gleich dem Drucke im Condensator oder dem atmosphäri-
+schen Drucke zu setzen ist, und <i>zweiteus</i>, daß kein schäd-
+licher Raum vorhanden sey.</p>
+<p>20. Unter diesen Umständen lassen sich die während
+eines Kreisprocesses gethanen Arbeitsgrößen mit Hülfe der
+oben gewonnenen Resultate ohne weitere Rechnung hin-
+schreiben, und geben als Summe einen einfachen Ausdruck.</p>
+<p>Die ganze bei einem Aufgange des Stempels aus dem
+Kessel in den Cylinder tretende Masse heiße <i>M</i>, und davon
+sey der Theil <i>m</i><do>1</do> dampfförmig und der Theil <i>M</i> &2014; <i>m</i><do>1</do> tropf-
+bar flüssig. Der Raum, welchen diese Masse einnimmt, ist,
+wenn <i>u</i><do>1</do> den zu <i>T</i><do>1</do> gehörigen Werth von <i>u</i> bedeutet:
+<formel>
+Der Stempel wird also so weit gehoben, daß dieser Raum
+unter ihm frei wird, und da dieses unter der Wirkung des
+zu <i>T</i><do>1</do> gehörigen Druckes <i>p</i><do>1</do> geschieht, so ist die während
+dieses ersten Vorganges gethane Arbeit, welche <i>W</i><do>1</do> heiße:
+(18) <formel></p>
+<p>Die nun folgende Expansion werde so weit fortgesetzt,
+bis die Temperatur der im Cylinder eingeschlossenen Masse
+von dem Werthe <i>T</i><do>1</do> bis zu einem zweiten gegebenen
+Werthe <i>T</i><do>2</do> herabgesunken ist. Die hierbei gethane Arbeit,
+welche <i>W</i><do>2</do> heiße, ergiebt sich unmittelbar aus der Glei-
+chung (IX), wenn darin als Endtemperatur <i>T</i><do>2</do> genommen,
+und auch für die anderen in der Gleichung vorkommen-
+den Größen die entsprechenden Werthe gesetzt werden,
+nämlich:
+<bs>30 *</bs>
+<pb="468"/>
+(19) <formel></p>
+<p>Bei der hierauf beginnenden Herabdrückung des Stem-
+pels wird die Masse, welche zu Ende der Ausdehnung
+den Raum
+<formel>
+einnahm, aus dem Cylinder in den Condensator getrieben,
+wobei der constante Gegendruck <i>p</i><do>0</do> zu überwinden ist.
+Die dabei von diesem Drucke gethane negative Arbeit ist:
+(20) <formel></p>
+<p>Während nun der Stempel der kleinen Pumpe so weit
+in die Höhe geht, daß unter ihm der Raum <i>M</i> &03C3; frei wird,
+wirkt der im Condensator stattfindende Druck <i>p</i><do>0</do> fördernd,
+und thut die Arbeit:
+(21) <formel></p>
+<p>Beim Heruntergange dieses Stempels endlich muß der
+im Kessel stattfindende Druck <i>p</i><do>1</do> überwunden werden, und
+thut daher die negative Arbeit:
+(22) <formel></p>
+<p>Durch Addition dieser fünf Größen erhält man für die
+ganze während des Kreisprocesses von dem Dampfdrucke,
+oder, wie man auch sagen kann, von der Wärme gethane
+Arbeit, welche <i>W</i>&2032; heiße, den Ausdruck:
+(X) <formel></p>
+<p>Aus dieser Gleichung muß noch die Größe <i>m</i><do>2</do> eliminirt
+werden. Diese Größe kommt, wenn man für <i>u</i><do>2</do> den aus
+(VI) hervorgehenden Werth
+<formel>
+setzt, nur in der Verbindung <i>m</i><do>2</do><i>r</i><do>2</do> vor, und für dieses
+Product giebt die Gleichung (VII) den Ausdruck:
+<formel>
+Durch Einsetzung dieses Ausdruckes erhält man eine Glei-
+<pb="469"/>
+chung, in welcher auf der rechten Seite nur noch bekannte
+Größen vorkommen, denn die Massen <i>m</i><do>1</do> und <i>M</i> und die
+Temperaturen <i>T</i><do>1</do>, <i>T</i><do>2</do> und <i>T</i><do>0</do> werden als unmittelbar ge-
+geben angenommen, und die Größen <i>r, p</i> und <formel> werden
+als Functionen der Temperatur als bekannt vorausgesetzt.</p>
+<p>21. Wenn man in der Gleichung (X) <i>T</i><do>2</do> = <i>T</i><do>1</do> setzt,
+so erhält man die Arbeit für den Fall, daß die Maschine
+ohne Expansion arbeitet, nämlich:
+(23) <formel></p>
+<p>Will man dagegen die Annahme machen, daß die Ex-
+pansion so weit getrieben werde, bis der Dampf sich durch
+die Ausdehnung von der Temperatur des Kessels bis zu
+der des Condensators abgekühlt hat, was freilich vollständig
+nicht ausführbar ist, aber doch den Gränzfall bildet, dem
+man sich so weit wie möglich nähern muß, so braucht man
+nur <i>T</i><do>2</do> = <i>T</i><do>0</do> zu setzen, wodurch man erhält:
+(24) <formel></p>
+<p>Wenn man hieraus noch <i>m</i><do>0</do><i>r</i><do>0</do> mittelst der vorher an-
+geführten Gleichung, in welcher auch <i>T</i><do>2</do> = <i>T</i><do>0</do> zu setzen ist,
+eliminirt, so kommt:
+(XI) <formel>#<fn="1)">Die vorstehenden Gleichungen, welche die Arbeit unter den beiden am
+Schlusse des §. 19 angeführten vereinfachenden Voraussetzungen darstellen,
+hatte ich schon vor längerer Zeit entwickelt, und auch schon im Sommer
+1854 in meinen Vorlesungen an der Berliner Universität öffentlich vor
+getragen. Als später im Anfange des Jahres 1855 die <i>Phil. Trans. of
+the R. Soc. of London for the year</i> 1854 erschienen, fand ich darin
+eine Abhandlung von <g>Rankine</g> &00BB;<i>On the Geometrical Representation
+of the Expansive Action of Heat and the Theory of Thermo-
+dynamic Engines</i>,&00AB; und war erstaunt zu sehen, daß <g>Rankine</g> fast zu
+derselben Zeit ganz unabhängig und auf einem anderen Wege zu Glei-
+chungen gelangt war, welche nicht nur ihrem wesentlichen Inhalte nach,
+sondern auch ihrer Form nach fast vollständig mit den meinigen über-
+einstimmten, nur daß <g>Rankine</g> den Umstand, daß dem Dampfe beim
+Einströmen in den Cylinder eine Quantität topfbarer Flüssigkeit beige-
+mischt ist, nicht berücksichtigt hat. Durch die frühere Veröffentlichung</fn></p>
+<pb="470"/>
+<p>22. Schreibt man die vorige Gleichung in folgender
+Gestalt:
+(25) <formel>
+so stellen die beiden hierin vorkommenden Producte
+<i>M c</i> (<i>T</i><do>1</do> &2014; <i>T</i><do>0</do>) und <i>m</i><do>1</do><i>r</i><do>1</do> zusammen die während eines
+Kreisprocesses von der Wärmequelle abgegebene Wärme-
+menge dar. Das erstere ist nämlich die Wärmemenge,
+welche nöthig ist, um die aus dem Condensator mit der
+Temperatur <i>T</i><do>0</do> kommende Masse <i>M</i> im flüssigen Zustande
+bis <i>T</i><do>1</do> zu erwärmen, und das letztere die Wärmemenge,
+welche dazu verbraucht wird, den Theil <i>m</i><do>1</do> bei der Tem-
+peratur <i>T</i><do>1</do> in Dampf zu verwandeln Da <i>m</i><do>1</do> wenig kleiner
+ist als <i>M</i>, so ist die letztere Wärmemenge bei Weitem
+größer als die erstere.</p>
+<p>Um die beiden Factoren, mit welchen diese beiden
+Wärmemengen in der Gleichung (25) multiplicirt sind,
+bequemer mit einander vergleichen zu können, wollen wir
+den zu <i>M c</i> (<i>T</i><do>1</do> &2014; <i>T</i><do>0</do>) gehörigen Factor in eine etwas andere
+Form bringen. Führen wir nämlich zur Abkürzung den
+Buchstaben <i>z</i> mit der Bedeutung
+(26) <formel>
+ein, so ist:
+<formel>
+und wir erhalten daher:
+<formel>
+<fnf>dieser Abhandlung war mir freilich für diesen Theil meiner Entwick-
+lungen die Priorität verloren gegangen, indessen war mir diese Ueber-
+einstimmung doch in sofern erfreulich, als sie mir eine Garantie dafür bot,
+daß die angewandte Betrachtungsweise wirklich naturgemäß sey.</fnf>
+<pb="471"/>
+Dadurch geht die Gleichung (25) oder (XI) über in:
+(27) <formel>
+Der Werth der in Klammer geschlossenen unendlichen
+Reihe, welche den Factor der Wärmemenge <i>M c</i> (<i>T</i><do>1</do> &2014; <i>T</i><do>0</do>)
+von dem der Wärmemenge <i>m</i><do>1</do><i>r</i><do>1</do> unterscheidet, variirt,
+wie man sich leicht überzeugt, während <i>z</i> von 0 bis 1 wächst,
+zwischen &frac12; und 1.</p>
+<p>23. Für diesen zuletzt betrachteten Fall, wo der Dampf
+sich durch Expansion bis zur Temperatur des Condensators
+abkühlt, kann man den Ausdruck für die Arbeit auch sehr
+leicht auf einem anderen Wege erhalten, ohne die verschie-
+denen Vorgänge, aus welchen der Kreisproceß besteht,
+einzeln zu verfolgen.</p>
+<p>In diesem Falle ist nämlich der Kreisproceß in allen
+seinen Theilen umkehrbar. Man kann sich denken, daß
+im Condensator bei der Temperatur <i>T</i><do>0</do> die Verdampfung
+stattfinde, und die Masse <i>M</i>, wovon der Theil <i>m</i><do>0</do> dampf-
+förmig und der Theil <i>M</i> &2014; <i>m</i><do>0</do> tropfbar flüssig sey, in den
+Cylinder trete, und den Stempel in die Höhe treibe, daß
+dann beim Niedergange des Stempels der Dampf zuerst
+soweit comprimirt werde, bis seine Temperatur auf <i>T</i><do>1</do> ge-
+stiegen sey, und darauf in den Kessel gepreßt werde, und
+daß endlich mittelst der kleinen Pumpe die Masse <i>M</i> wieder
+als tropfbare Flüssigkeit aus dem Kessel in den Conden-
+sator geschafft werde, und sich bis zur Anfangstempera-
+tur <i>T</i><do>0</do> abkühle. Hierbei durchläuft der Stoff dieselben
+Zustände, wie früher, nur in umgekehrter Reihenfolge.
+Die Wärmemittheilungen oder -entziehungen finden in ent-
+gegengesetztem Sinne, aber in derselben Größe und bei
+denselben Temperaturen der Masse statt, und alle Arbeits-
+größen haben entgegengesetzte Vorzeichen, aber dieselben
+numerischen Werthe.</p>
+<p>Daraus folgt, daß in diesem Falle in dem Kreisprocesse
+keine uncompensirte Verwandlung vorkommt. Man hat
+daher in der Gleichung (2) <i>N</i> = 0 zu setzen, und bekommt
+dadurch die schon unter (3) angeführte Gleichung, in wel-
+<pb="472"/>
+cher nur der Uebereinstimmung wegen <i>W</i>&2032; statt <i>W</i> zu
+schreiben ist:
+<formel>
+Hierin bedeutet <i>Q</i><do>1</do> für unseren Fall die der Masse <i>M</i> im
+Dampfkessel mitgetheilte Wärme, und es ist daher:
+<formel></p>
+<p>Bei der Bestimmung des Integrales <formel> müssen die
+beiden einzelnen in <i>Q</i><do>1</do> enhaltenen Wärmemengen <i>M c</i> (<i>T</i><do>1</do>&2014;<i>T</i><do>0</do>)
+und <i>m</i><do>1</do><i>r</i><do>1</do> besonders betrachtet werden. Um für die erstere
+die Integration auszuführen, schreibe man das Wärmeele-
+ment <i>d Q</i> in der Form <i>M c d T</i>, dann lautet dieser Theil des
+Integrales
+<formel>
+Während der Mittheilung der letzteren Wärmemenge ist
+die Temperatur constant gleich <i>T</i><do>1</do>, und der auf diese
+Wärmemenge bezügliche Theil des Integrales ist daher
+einfach:
+<formel></p>
+<p>Durch Einsetzung dieser Werthe geht der vorige Aus-
+druck von <i>W</i>&2032; in den folgenden über:
+<formel>
+und dieses ist derselbe in Gleichung (XI) enthaltene Aus-
+druck, welchen wir vorher durch die successive Bestimmung
+der einzelnen während des Kreisprocesses gethanen Arbeits-
+größen gefunden haben.</p>
+<p>24. Es folgt hieraus, daß, <i>wenn die Temperaturen, bei
+welchen der die Wirkung der Wärme vermittelnde Stoff
+die von der Wärmequelle gelieferte Wärme aufnimmt, oder</i>
+<pb="473"/>
+<i>Wärme nach außen abgiebt, als im Voraus gegeben be-
+trachtet werden</i>, dann die Dampfmaschine unter den bei
+der Ableitung der Gleichung (XI) gemachten Voraussetzun-
+gen, eine <i>vollkommene</i> Maschine ist, indem sie für eine be-
+stimmte ihr mitgetheilte Wärmemenge eine so große Arbeit
+liefert, wie nach der mechanischen Wärmetheorie bei den-
+selben Temperaturen überhaupt möglich ist.</p>
+<p>Anders verhält es sich aber, <i>wenn man auch jene Tem-
+peraturen nicht als im Voraus gegeben, sondern als ein
+veränderliches Element betrachtet, welches bei der Beurthei-
+lung der Maschine mit berücksichtigt werden muß</i>.</p>
+<p>Dadurch, daß die Flüssigkeit während ihrer Erwärmung
+und Verdampfung viel niedrigere Temperaturen als das
+Feuer hat, und also die Wärme, welche ihr mitgetheilt
+wird, dabei von einer höheren zu niederen Temperatu-
+ren übergehen muß, liegt eine in <i>N</i> nicht mit einbegriffene
+uncompensirte Verwandlung, welche in Bezug auf die Nutz-
+barmachung der Wärme einen großen Verlust zur Folge
+hat. Die Arbeit, welche bei der Dampfmaschine aus der
+Wärmemenge <i>m</i><do>1</do><i>r</i><do>1</do> + <i>M c</i> (<i>T</i><do>1</do> &2014; <i>T</i><do>0</do>) = <i>Q</i><do>1</do> gewonnen werden
+kann, ist, wie man aus Gleichung (27) ersieht, etwas
+kleiner als
+<formel>
+Könnte man dagegen dieselbe Wärmemenge <i>Q</i><do>1</do> einem ver-
+änderlichen Körper bei der Temperatur des Feuers, welche
+<i>T</i>&2032; heißen möge, mittheilen, während die Temperatur der
+Wärmeentziehung, wie vorher, <i>T</i><do>0</do> wäre, so würde die in
+diesem Falle möglicherweise zu gewinnende Arbeit nach
+Gleichung (4) durch
+<formel>
+dargestellt werden.</p>
+<p>Um die Werthe dieser Ausdrücke in einigen Beispielen
+vergleichen zu können, sey die Temperatur <i>t</i><do>0</do> des Con-
+densators zu 50&00B0; C. festgesetzt, und für den Kessel seyen
+die Temperaturen 110&00B0;, 150&00B0; und 180&00B0; C. angenommen,
+<pb="474"/>
+von denen die beiden ersten ungefähr der Niederdruck-
+maschine und der gewöhnlichen Hochdruckmaschine ent-
+sprechen, und die letzte etwa als die Gränze der bisjetzt
+in der Praxis bei den Dampfmaschinen angewandten Tem-
+peraturen zu betrachten ist. Für diese Fälle hat der von
+den Temperaturen abhängige Bruch folgende Werthe:
+<tab>
+Wogegen der entsprechende Werth für die Temperatur <i>t&2032;</i>
+des Feuers, wenn wir diese nur zu 1000° C. annehmen,
+0,746 ist.</p>
+<p>25. Es ist somit leicht zu erkennen, was schon S. <g>Car-
+not</g>, und nach ihm viele andere Autoren ausgesprochen
+haben, daß man, um die durch Wärme getriebenen Ma-
+schinen vortheilhafter einzurichten, hauptsächlich darauf be-
+dacht seyn muß, das Temperaturintervall <i>T</i><do>1</do>&2014;<i>T</i><do>0</do> zu er-
+weitern.</p>
+<p>So ist z. B. von den calorischen Luftmaschinen nur dann
+zu erwarten, daß sie einen wesentlichen Vortheil vor den
+Dampfmaschinen erlangen, wenn es gelingt, sie bei bedeu-
+tend höheren Temperaturen arbeiten zu lassen, als die
+Dampfmaschinen, bei welchen die Gefahr der Explosion
+die Anwendung zu hoher Temperaturen verbietet. Derselbe
+Vortheil läßt sich aber auch mit überhitztem Dampfe er-
+reichen, denn sobald der Dampf von der Flüssigkeit ge-
+trennt ist, kann man ihn ebenso gefahrlos noch weiter
+erhitzen, wie ein permanentes Gas. Maschinen, welche den
+Dampf in diesem Zustande anwenden, können manche Vor-
+theile der Dampfmaschinen mit denen der Luftmaschinen
+vereinigen, und es ist daher von ihnen wohl eher ein prac-
+tischer Erfolg zu erwarten, als von den Luftmaschinen.</p>
+<p>Bei den oben erwähnten Maschinen, in welchen außer
+dem Wasser noch eine zweite flüchtigere Substanz ange-
+<pb="475"/>
+wandt wird, ist das Intervall <i>T</i><do>1</do>&2014;<i>T</i><do>0</do> dadurch erweitert,
+daß <i>T</i><do>0</do> erniedrigt ist. Man hat auch schon daran gedacht,
+auf dieselbe Weise das Intervall auch nach der oberen
+Seite hin zu erweitern, indem man noch eine dritte Flüs-
+sigkeit hinzufügte, welche weniger flüchtig wäre, als das
+Wasser. Dann würde also das Feuer unmittelbar die am
+wenigsten flüchtige der drei Substanzen verdampfen, diese
+durch ihren Niederschlag die zweite, und diese die dritte.
+Dem Principe nach ist nicht daran zu zweifeln, daß diese
+Verbindung vortheilhaft seyn würde; wie groß aber die
+practischen Schwierigkeiten seyn werden, welche sich der
+Ausführung entgegen stellen, läßt sich natürlich im Voraus
+nicht übersehen.</p>
+<p>26. Außer der eben besprochenen Unvollkommenheit
+der gewöhnlichen Dampfmaschinen, welche in ihrem Wesen
+selbst begründet ist, leiden diese Maschinen noch an mehre-
+ren anderen Unvollkommenheiten, welche mehr der practi-
+schen Ausführung zuzuschreiben sind.</p>
+<p>Eine davon ist schon in den obigen Entwicklungen
+berücksichtigt, und in der Gleichung (X) mit einbegriffen,
+nämlich die, daß man die Expansion lange nicht so weit
+treiben kann, bis der Dampf im Cylinder die Temperatur
+des Condensators erreicht hat. Nimmt man z. B. die Tem-
+peratur des Kessels zu 150° und die des Condensators zu
+50° an, so ergiebt sich aus der Tabelle des §. 16, daß
+zu jenem Zwecke die Expansion bis zum 26 fachen des
+ursprünglichen Volumens fortschreiten müßte, während man
+sie in der Wirklichkeit wegen mancher bei großer Expan-
+sion eintretender Uebelstände gewöhnlich nur bis zum 3
+oder 4 fachen, und höchstens bis zum 10 fachen Volumen
+geschehen läßt.</p>
+<p>Zwei andere Unvollkommenheiten dagegen sind im Vori-
+gen ausdrücklich ausgeschlossen, nämlich erstens die, <i>daß
+der Druck des Dampfes im einen Theile des Cylinders ge-
+ringer als im Kessel, und im anderen Theile größer als im
+Condensator ist</i>, und zweitens <i>das Vorhandenseyn des schäd-
+lichen Raumes</i>.</p>
+<pb="476"/>
+<p>Wir müssen daher die früheren Betrachtungen jetzt in
+der Weise erweitern, daß auch diese Unvollkommenheiten
+mit berücksichtigt werden.</p>
+<p><c>(<g>Schluß im nächsten Heft</g>.)</c></p>
+<hr>
+<pb>
+<d1>I. <i>Ueber die Anwendung der mechanischen Wärme-
+theorie auf die Dampfmaschine;
+von R. <g>Clausius</g>.</i>
+(<g>Schluß von</g> S. 476.)</d1>
+<hr>
+<p>27. <in>D</in>er Einfluß, welchen die Verschiedenheit des
+Druckes im Kessel und im Cylinder auf die Arbeit aus-
+übt, ist bisher wohl am vollständigsten in dem Werke von
+<g>de Pambour</g> &00BB;<i>Théorie des Machines à <g>Vapeur</g></i>&00AB; behan-
+delt, und es sey mir gestattet, bevor ich selbst auf die-
+sen Gegenstand eingehe, das Wesentlichste jener Behand-
+lungsweise, nur mit etwas anderer Bezeichnung und unter
+Fortlassung der Größen, welche sich auf die Reibung be-
+ziehen, hier vorauszuschicken, um leichter nachweisen zu
+können, inwiefern sie den neueren Kenntnissen über die
+Wärme nicht mehr entspricht, und zugleich die neue Be-
+handlungsweise, welche meiner Meinung nach an ihre Stelle
+treten muß, daran anzuknüpfen.</p>
+<p>28. Die Grundlage der <g>Pambour&2019;s</g>chen Theorie bil-
+den die beiden schon eingangs erwähnten Gesetze, welche
+damals ziemlich allgemein auf den Wasserdampf angewandt
+wurden. Erstens das <g>Watt&2019;s</g>che Gesetz, daß die Summe
+der latenten und freien Wärme constant sey. Aus diesem
+Gesetze zog man den Schluß, daß, wenn ein Quantum
+Wasserdampf im Maximum der Dichte in einer für Wärme
+undurchdringlichen Hülle eingeschlossen sey, und der Raum-
+inhalt dieser Hülle vergrößert oder verkleinert werde, dabei
+der Dampf weder überhitzt werde, noch sich theilweise nie-
+derschlage, sondern gerade im Maximum der Dichte bleibe;
+und dieses sollte stattfinden, ganz unabhängig davon, in
+<bs>Poggendorff&2019;s Annal. Bd. XCVII. 33</bs>
+<pb="514"/>
+welcher Weise die Volumenänderung geschehe, ob der
+Dampf dabei einen seiner Expansivkraft entsprechenden
+Druck zu überwinden habe, oder nicht. Dasselbe Verhalten
+des Dampfes setzte <g>Pambour</g> im Cylinder der Dampf-
+maschine voraus, indem er auch von den Wassertheilchen,
+welche in diesem Falle dem Dampfe beigemengt sind, nicht
+annahm, daß sie einen merklichen ändernden Einfluß aus-
+üben könnten.</p>
+<p>Um nun den Zusammenhang, welcher für Dampf im
+Maximum der Dichte zwischen Volumen und Temperatur
+oder Volumen und Druck besteht, näher angeben zu können,
+wandte <g>Pambour</g> zweitens das <g>Mariotte&2019;s</g>che und <g>Gay-
+Lussac&2019;s</g>che Gesetz auf den Dampf an. Daraus erhält
+man, wenn man das Volumen eines Kilogramm Dampf
+bei 100° im Maximum der Dichte nach <g>Gay-Lussac</g> zu
+1,696 Cubikmeter annimmt, und bedenkt, daß der dabei
+stattfindende Druck von einer Atmosphäre 10333 Kilogrm.
+auf ein Quadratmeter beträgt, und man für irgend eine
+andere Temperatur <i>t</i> das Volumen und den Druck unter
+Zugrundelegung derselben Einheiten mit <i>v</i> und <i>p</i> bezeichnet,
+die Gleichung:
+(28) <formel>
+Hierin braucht man nur noch für <i>p</i> die aus der Spannungs-
+reihe bekannten Werthe zu setzen, um für jede Tempe-
+ratur das unter jenen Voraussetzungen richtige Volumen
+berechnen zu können.</p>
+<p>29. Da nun aber in den Formeln für die Arbeit der
+Dampfmaschine das Integral &222B; <i>p d v</i> eine Hauptrolle spielt,
+so war es, um dieses auf bequeme Weise berechnen zu
+können, nothwendig, eine möglichst einfache Formel zwi-
+schen <i>v</i> und <i>p</i> allein zu haben.</p>
+<p>Die Gleichungen, welche man erhalten würde, wenn
+man mittelst einer der gebräuchlichen empirischen Formeln
+für <i>p</i> die Temperatur <i>t</i> aus der vorigen Gleichung elimi-
+niren wollte, würden zu complicirt ausfallen, und <g>Pambour</g>
+<pb="515"/>
+zog es daher vor, eine besondere empirische Formel für
+diesen Zweck zu bilden, welcher er nach dem Vorgange
+von <g>Navier</g> folgende allgemeine Gestalt gab:
+(29) <formel>
+worin <i>B</i> und <i>b</i> Constante sind. Diese Constanten suchte
+er nun so zu bestimmen, daß die aus dieser Formel be-
+rechneten Volumina möglichst genau mit den aus der vori-
+gen Formel berechneten übereinstimmten. Da dieses aber
+für alle bei den Dampfmaschinen vorkommende Druckgrö-
+ßen nicht mit hinlänglicher Genauigkeit möglich ist, so
+berechnete er zwei verschiedene Formeln, für Maschinen
+<i>mit</i> und <i>ohne</i> Condensator.</p>
+<p>Die erstere lautet:
+(29<do><i>a</i></do>) <formel>
+und schließt sich der obigen Formel (28) am besten zwi-
+schen &frac23; und 3&frac12; Atmosphären an, ist aber auch noch in
+einem etwas weiteren Intervall, etwa zwischen &frac12; und 5 At-
+mosphären anwendbar.</p>
+<p>Die zweite, für Maschinen ohne Condensator bestimmte,
+dagegen lautet:
+(29<do><i>b</i></do>) <formel>
+Sie ist zwischen 2 und 5 Atmosphären am genausten, und
+das ganze Intervall ihrer Anwendbarkeit reicht etwa von
+1&frac13; bis 10 Atm.</p>
+<p>30. Die von den Dimensionen der Dampfmaschine ab-
+hängigen Größen, welche bei der Bestimmung der Arbeit
+in Betracht kommen, sollen hier, etwas abweichend von
+<g>Pambour</g>, folgendermaßen bezeichnet werden. Der ganze
+Raum, welcher während eines Hubes im Cylinder für den
+Dampf frei wird, mit Einschluß des schädlichen Raumes,
+heiße <i>v&2032;</i>. Der schädliche Raum soll von dem ganzen
+Raume den Bruchtheil &03B5; bilden, so daß also der schäd-
+liche Raum durch &03B5; <i>v&2032;</i> und der von der Stempelfläche be-
+schriebene Raum durch (1&2014;&03B5;)<i>v&2032;</i> dargestellt wird. Ferner
+<bs>33*</bs>
+<pb="516"/>
+sey der Theil des ganzen Raumes, welcher bis zum Momente
+des Abschlusses des Cylinders vom Dampfkessel für den
+Dampf frei geworden ist, ebenfalls mit Einschluß des schäd-
+lichen Raumes, mit <i>e v&2032;</i> bezeichnet. Demnach wird der von
+der Stempelfläche während des Dampfzutrittes beschriebene
+Raum durch (<i>e&2014;&03B5;</i>)<i>v&2032;</i> und der während der Expansion
+beschriebene Raum durch (1&2014;<i>e</i>)<i>v&2032;</i> ausgedrückt.</p>
+<p>Um nun zunächst die während des Dampfzutrittes ge-
+thane Arbeit zu bestimmen, muß der während dieser Zeit
+im Cylinder wirksame Druck bekannt seyn. Dieser ist
+jedenfalls kleiner, als der Druck im Kessel, weil sonst
+kein Strömen des Dampfes stattfinden würde; wie groß
+aber diese Differenz ist, läßt sich nicht allgemein angeben,
+da sie nicht nur von der Einrichtung der Maschine abhängt,
+sondern auch davon, wie weit der Maschinist die im Dampf-
+zuleitungsrohre befindliche Klappe geöffnet hat, und mit
+welcher Geschwindigkeit sich die Maschine bewegt. Durch
+Aenderung dieser Umstände kann jene Differenz innerhalb
+weiter Gränzen variiren. Auch braucht der Druck im
+Cylinder nicht während der ganzen Zeit des Zuströmens
+constant zu seyn, weil sowohl die Stempelgeschwindigkeit,
+als auch die von dem Ventil oder dem Schieber frei ge-
+lassene Zuströmungsöffnung veränderlich ist.</p>
+<p>In Bezug auf den letzteren Umstand nimmt <g>Pambour</g>
+an, daß der mittlere Druck, welcher bei der Bestimmung
+der Arbeit in Rechnung zu bringen ist, mit hinlänglicher
+Genauigkeit gleich demjenigen Drucke gesetzt werden könne,
+welcher zu Ende des Einströmens im Momente des Abschlus-
+ses vom Kessel im Cylinder stattfindet. Obwohl ich es nicht
+für zweckmäßig halte, eine solche Annahme, welche nur
+für die numerische Berechnung in Ermangelung sichrerer
+Data zu Hülfe genommen ist, gleich in die allgemeinen
+Formeln mit einzuführen, so muß ich doch hier bei der Aus-
+einandersetzung seiner Theorie seinem Verfahren folgen.</p>
+<p>Den im Momente des Abschlusses im Cylinder statt-
+findenden Druck bestimmt <g>Pambour</g> mittelst der von ihm
+festgestellten Beziehung zwischen Volumen und Druck, in-
+<pb="517"/>
+dem er dabei voraussetzt, daß die während der Zeiteinheit
+und somit auch die wärend eines Hubes aus dem Kessel
+in den Cylinder tretende Dampfmenge durch besondere
+Beobachtungen bekannt ist. Wir wollen dem Früheren
+entsprechend die ganze während eines Hubes in den Cy-
+linder tretende Masse mit <i>M</i>, und den dampfförmigen Theil
+derselben mit <i>m</i> bezeichnen. Da dieser Masse, von welcher
+<g>Pambour</g> nur den dampfförmigen Theil berücksichtigt, im
+Momente des Abschlusses den Raum <i>e v&2032;</i> ausfüllt, so hat
+man, wenn man den in diesem Momente stattfindenden
+Druck mit <i>p</i><do>2</do> bezeichnet, nach Gleichung (29):
+<formel>
+woraus folgt:
+(30) <formel></p>
+<p>Multiplicirt man diese Größe mit dem bis zu demsel-
+ben Momente von der Stempelfläche beschriebenen Raume
+(<i>e&2014;&03B5;</i>) <i>v&2032;</i>, so erhält man für den ersten Theil der Arbeit
+den Ausdruck:
+(31) <formel></p>
+<p>Das Gesetz, nach welchem sich der Druck während der
+nun folgenden Expansion ändert, ergiebt sich ebenfalls aus
+der Gleichung (29). Sey das veränderliche Volumen in
+irgend einem Momente mit <i>v</i> und der dazugehörige Druck
+mit <i>p</i> bezeichnet, so hat man:
+<formel>
+Diesen Ausdruck muß man in das Integral &222B; <i>p d v</i> einsetzen,
+und dann die Integration von <i>v</i> = <i>ev&2032;</i> bis <i>v</i> = <i>v&2032;</i> ausführen,
+wodurch man als zweiten Theil der Arbeit erhält:
+(32) <formel></p>
+<p>Um die bei dem Rückgange des Stempels von dem
+Gegendrucke gethane negative Arbeit zu bestimmen, muß
+der Gegendruck selbst bekannt seyn. Wir wollen, ohne
+<pb="518"/>
+für jetzt darauf einzugehen, wie sich dieser Gegendruck
+zu dem im Condensator stattfindenden Drucke verhält, den
+mittleren Gegendruck mit <i>p</i><do>0</do> bezeichnen, so daß die von
+ihm gethane Arbeit durch
+(33) <formel>
+dargestellt wird.</p>
+<p>Endlich bleibt noch die Arbeit übrig, welche dazu ver-
+wandt werden muß, um die Flüssigkeitsmenge <i>M</i> wieder
+in den Kessel zurückzupressen. <g>Pamhour</g> hat diese Arbeit
+nicht besonders berücksichtigt, sondern hat sie in die Rei-
+bung der Maschine mit eingeschlossen. Da ich sie indessen
+in meine Formeln, um den Cyclus der Operationen voll-
+ständig zu haben, mit aufgenommen habe, so will ich sie
+zur leichteren Vergleichung auch hier hinzufügen. Wie
+sich aus den bei dem früher betrachteten Beispiele aufge-
+stellten Gleichungen (21) und (22) ergiebt, wird diese
+Arbeit, wenn <i>p</i><do>1</do> den Druck im Kessel und <i>p</i><do>0</do> den im
+Condensator bedeutet, im Ganzen durch
+(34) <formel>
+dargestellt. Für unseren jetzigen Fall, wo wir unter <i>p</i><do>0</do>
+nicht den Druck im Condensator selbst, sondern in dem
+mit dem Condensator in Verbindung stehenden Theile des
+Cylinders verstehen, ist dieser Ausdruck freilich nicht ganz
+genau; da aber wegen der Kleinheit der Größe &03C3; der ganze
+Ausdruck einen so geringen Werth hat, daß er kaum der
+Berücksichtigung verdient, so können wir eine im Verhält-
+nisse zu dem schon kleinen Werthe wiederum kleine Un-
+genauigkeit um so mehr vernachlässigen, und wollen daher
+den Ausdruck in derselben Form auch hier beibehalten.</p>
+<p>Durch Addition dieser vier einzelnen Arbeitsgrößen
+erhält man die ganze während des Kreisprocesses gethane
+Arbeit, nämlich:
+(35) <formel></p>
+<p>31. Will man die Arbeit endlich noch, statt auf einen
+einzelnen Hub, während dessen die Dampfmenge <i>m</i> wirk-
+<pb="519"/>
+sam ist, lieber auf die Gewichtseinheit Dampf beziehen, so
+braucht man den vorigen Werth nur durch <i>m</i> zu dividiren.
+Wir wollen dabei den Bruch <formel>, welcher das Verhältniß
+der ganzen in den Cylinder tretenden Masse zu dem dampf-
+förmigen Theile derselben darstellt, und somit etwas größer
+als 1 ist, mit <i>l</i>, ferner den Bruch <formel> d. h. den Raum, wel-
+cher der Gewichtseinheit Dampf im Cylinder im Ganzen
+geboten wird, mit <i>V</i>, und den Bruch <formel>, oder die der
+Gewichtseinheit Dampf entsprechende Arbeit, mit <i>W</i> be-
+zeichnen. Dann kommt:
+(XII) <formel></p>
+<p>In dieser Gleichung kommt nur ein Glied vor, welches
+von dem Volumen <i>V</i> abhängt, und zwar enthält es <i>V</i> als
+Factor. Da dieses Glied negativ ist, so folgt daraus, daß
+die Arbeit, welche man mittelst einer Gewichtseinheit Dampf
+erhalten kann, unter sonst gleichen Umständen am größten
+ist, wenn das Volumen, welches dem Dampfe im Cylinder
+geboten wird, möglichst klein ist. Der kleinste Werth des
+Volumens, welchem man sich, wenn man ihn auch nie ganz
+erreicht, doch mehr und mehr nähern kann, ist derjenige,
+welchen man findet, wenn man annimmt, daß die Maschine
+so langsam gehe, oder der Zuströmungskanal so weit sey,
+daß im Cylinder derselbe Druck <i>p</i><do>1</do> stattfinde wie im Kessel.
+Dieser Fall giebt also das Maximum der Arbeit. Ist bei
+gleichem Dampfzustrome die Ganggeschwindigkeit größer,
+oder bei gleicher Ganggeschwindigkeit der Dampfzustrom
+geringer, so erhält man in beiden Fällen mittelst derselben
+Dampfmenge eine kleinere Arbeit.</p>
+<p>32. Bevor wir von hier aus dazu übergehen, nach der
+mechanischen Wärmetheorie dieselbe Reihe von Vorgängen
+in ihrem Zusammenhange zu betrachten, wird es zweck-
+mäßig seyn, einen derselben, welcher noch einer speciellen
+Untersuchung bedarf, vorher einzeln zu behandeln, um die
+darauf bezüglichen Resultate im Voraus festzustellen, näm-
+<pb="520"/>
+lich <i>das Einströmen des Dampfes in den schädlichen Raum
+und in den Cylinder, wenn er hier einen geringeren Druck
+zu überwinden hat, als den, mit welchem er aus dem Kessel
+getrieben wird</i>. Ich kann bei dieser Untersuchung ganz
+nach denselben Principien verfahren, welche ich schon in
+einem früheren Aufsatze <fn="1)">&00BB;Ueber das Verhalten des Dampfes bei der Ausdehnung unter verschie-
+denen Umständen;&00AB; diese Ann. Bd. 82, S. 263. Ueber diesen Aufsatz
+und eine damit zusammenhängende im <i>Phil. Mag.</i> mitgetheilte Notiz
+sagt <g>Helmholtz</g> bei seiner Berichterstattung in den von der <i>Physika-
+lischen Gesellschaft</i> zu Berlin herausgegebenen &00BB;Fortschritten der Physik&00AB;
+Jahrg. 1850 und 51 S. 582, daß dieselben seiner Meinung nach in meh-
+reren Punkten principiell unrichtig seyen. Die Gründe, welche er dafür
+anführt, sind mir aber nicht verständlich geworden. Es werden mir
+Ansichten zugeschrieben, die ich nie gehabt habe, und ihnen gegenüber
+Sätze ausgesprochen, die ich nie bestritten habe, und die sogar zum Theil
+die Grundlage meiner eigenen Arbeiten über die mechanische Wärme-
+theorie bilden, und dabei ist das Ganze so allgemein gehalten, daß es
+mir unmöglich gewesen ist, zu erkennen, in wiefern jene Ansichten aus
+meinen Worten folgen, oder diese Sätze meine Schlüsse widerlegen sollen.
+Ich sehe mich daher zu einer Vertheidigung meiner früheren Arbeiten
+gegen diesen Tadel nicht veranlaßt. Da indessen die hier folgende Ent-
+wicklung, wie oben gesagt, ganz auf denselben Ansichten beruht, von
+welchen ich damals geleitet wurde, so wird <g>Helmholtz</g> vielleicht auch
+in ihr dieselben principiellen Fehler wiederfinden. Für diesen Fall sehe
+ich seinen Einwendungen entgegen, nur möchte ich ihn dann ersuchen,
+etwas specieller auf die Sache einzugehen.</fn> zur Behandlung einiger ähnlicher
+Fälle angewandt habe.</p>
+<p>Der aus dem Kessel kommende Dampf tritt zuerst in
+den schädlichen Raum, comprimirt hier den vom vorigen
+Hube noch vorhandenen Dampf von geringer Dichte, und
+füllt den dadurch frei werdenden Raum aus, und wirkt
+dann drückend gegen den Stempel, welcher der Annahme
+nach wegen verhältnißmäßig geringer Belastung so schnell
+zurückweicht, daß der Dampf nicht schnell genug folgen
+kann, um im Cylinder dieselbe Dichte zu erreichen, wie
+im Kessel.</p>
+<p>Unter solchen Umständen müßte, wenn aus dem Kessel
+gerade nur gesättigter Dampf austräte, dieser im Cylinder
+überhitzt werden, indem die lebendige Kraft der Einströ-
+<pb="521"/>
+mungsbewegung sich hier in Wärme verwandelt; da aber
+der Dampf etwas fein vertheiltes Wasser mit sich führt,
+so wird von diesem ein Theil durch die überschüssige
+Wärme verdampfen, und dadurch der übrige Dampf im
+gesättigten Zustande erhalten werden</p>
+<p>Wir müssen uns nun die Aufgabe stellen: <i>wenn erstens
+der Anfangszustand der ganzen in Betracht kommenden Masse,
+sowohl der schon vorher im schädlichen Raume befindlichen,
+als auch der aus dem Kessel neu hinzukommenden, ferner
+die Größe der Arbeit, welche während des Einströmens von
+dem auf den Stempel wirkenden Drucke gethan wird, und
+endlich der Druck, welcher im Momente des Abschlusses vom
+Kessel im Cylinder stattfindet, gegeben sind, dann zu be-
+stimmen, wieviel von der im Cylinder befindlichen Masse in
+diesem Momente dampfförmig ist</i>.</p>
+<p>33. Die vor dem Einströmen im schädlichen Raume
+befindliche Masse, von welcher der Allgemeinheit wegen
+angenommen werden soll, daß sie theils flüssig theils dampf-
+förmig sey, heiße &03BC; und der davon dampfförmige Theil &03BC;<do>0</do>.
+Der Druck dieses Dampfes und die dazugehörige absolute
+Temperatur mögen vorläufig mit <i>p</i><do>0</do> und <i>T</i><do>0</do> bezeichnet
+werden, ohne daß damit gesagt seyn soll, daß dieses genan
+dieselben Werthe seyen, welche auch für den Condensator
+gelten. Der Druck und die Temperatur im Kessel sollen
+wie früher <i>p</i><do>1</do> und <i>T</i><do>1</do>, die ans dem Kessel in den Cylinder
+strömende Masse <i>M</i> und der davon dampfförmige Theil <i>m</i><do>1</do>
+heißen. Der während des Einströmens auf den Stempel
+ausgeübte Druck braucht, wie schon erwähnt, nicht constant
+zu seyn. Wir wollen denjenigen Druck den <i>mittleren</i> nen-
+nen und mit <i>p&2032;</i><do>1</do> bezeichnen, mit welchem der von der
+Stempelfläche während der Zeit des Einströmens beschrie-
+bene Raum multiplicirt werden muß, um dieselbe Arbeit
+zu erhalten, welche von dem veränderlichen Drucke gethan
+wird. Der im Momente des Abschlusses im Cylinder wirk-
+lich stattfindende Druck und die dazugehörige Temperatur
+seyen durch <i>p</i><do>2</do> und <i>T</i><do>2</do> und endlich die Größe, um deren
+Bestimmung es sich handelt, nämlich der von der ganzen
+<pb="522"/>
+jetzt im Cylinder vorhandenen Masse <i>M</i> + &03BC; dampfförmige
+Theil durch <i>m</i><do>2</do> dargestellt.</p>
+<p>Zur Bestimmung dieser Größe denken wir uns die
+Masse <i>M</i> + &03BC; auf irgend einem Wege in ihren Anfangs-
+zustand zurückgeführt, z. B. folgendermaßen. Der dampf-
+förmige Theil <i>m</i><do>2</do> wird im Cylinder durch Herabdrücken
+des Stempels condensirt, wobei vorausgesetzt wird, daß
+der Stempel auch in den schädlichen Raum eindringen
+könne. Zugleich wird der Masse in irgend einer Weise
+fortwährend soviel Wärme entzogen, daß ihre Temperatur
+constant <i>T</i><do>2</do> bleibt. Dann wird von der ganzen flüssigen
+Masse der Theil <i>M</i> in den Kessel zurückgepreßt, wo er
+wieder die ursprüngliche Temperatur <i>T</i><do>1</do> annimmt. Dadurch
+ist im Kessel derselbe Zustand wie vor dem Einströmen
+wieder hergestellt, indem es nicht darauf ankommt, ob
+gerade <i>dieselbe</i> Masse <i>m</i><do>1</do>, welche vorher dampfförmig war,
+es auch jetzt wieder ist, oder ob eine <i>gleich große andere</i>
+Masse an ihre Stelle getreten ist. Der übrige Theil &03BC; wird
+zuerst im flüssigen Zustande von <i>T</i><do>2</do> bis <i>T</i><do>0</do> abgekühlt, und
+bei dieser Temperatur verwandelt sich der Theil &03BC;<do>0</do> in
+Dampf, wobei der Stempel soweit zurückweicht, daß dieser
+Dampf wieder seinen ursprünglichen Raum einnehmen kann.</p>
+<p>34. Hiermit hat die Masse <i>M</i> + &03BC; einen vollständigen
+Kreisproceß durchgemacht, auf welchen wir nun den Satz
+anwenden können, daß die Summe aller während eines
+Kreisprocesses von der Masse aufgenommenen Wärme-
+mengen der ganzen dabei gethanen äußeren Arbeit aequi-
+valent seyn muß.</p>
+<p>Es sind nach einander folgende Wärmemengen aufge-
+nommen:</p>
+<p>1) Im Kessel, wo die Masse <i>M</i> von der Temperatur
+<i>T</i><do>2</do> bis <i>T</i><do>1</do> erwärmt und bei der letzteren Temperatur der
+Theil <i>m</i><do>1</do> in Dampf verwandelt werden mußte:
+<formel></p>
+<p>2) Bei der Condensation des Theiles <i>m</i><do>2</do> bei der Tem-
+peratur <i>T</i><do>2</do>:
+<formel></p>
+<pb="523"/>
+<p>3) Bei der Abkühlung des Theiles &03BC; von <i>T</i><do>2</do> bis <i>T</i><do>0</do>:
+<formel></p>
+<p>4) Bei der Verdampfung des Theiles &03BC;<do>0</do> bei der Tem-
+peratur <i>T</i><do>0</do>:
+<formel>
+Die im Ganzen aufgenommene Wärmemenge, welche <i>Q</i>
+heiße, ist also:
+(36) <formel></p>
+<p>Die Arbeitsgrößen ergeben sich folgendermaßen:</p>
+<p>1) Um den von der Stempelfläche während des Ein-
+strömens beschriebenen Raum zu bestimmen, weiß man,
+daß der ganze zu Ende dieser Zeit von der Masse <i>M</i> + &03BC;
+eingenommene Raum
+<formel>
+ist. Hiervon muß der schädliche Raum abgezogen werden.
+Da dieser zu Anfange bei der Temperatur <i>T</i><do>0</do> von der
+Masse &03BC; ausgefüllt wurde, wovon der Theil &03BC;<do>0</do> dampf-
+förmig war, so läßt er sich durch
+<formel>
+darstellen. Zieht man diese Größe von der vorigen ab,
+und multiplicirt den Rest mit dem mittleren Drucke <i>p&2032;</i><do>1</do>,
+so erhält man als erste Arbeit:
+<formel></p>
+<p>2) Die Arbeit bei der Condensation der Masse <i>m</i><do>2</do> ist:
+<formel></p>
+<p>3) Beim Zurückpressen der Masse <i>M</i> in den Kessel:
+<formel></p>
+<p>4) Bei der Verdampfung des Theiles &03BC;<do>0</do>:
+<formel></p>
+<p>Durch Addition dieser vier Größen erhält man für die
+ganze Arbeit <i>W</i> den Ausdruck:
+(37) <formel></p>
+<p>Setzt man diese für <i>Q</i> und <i>W</i> gefundenen Werthe in
+die Gleichung (I) nämlich
+<formel>
+<pb="524"/>
+ein, und bringt die mit <i>m</i><do>2</do> behafteten Glieder auf Eine
+Seite zusammen, so kommt:
+(XIII) <i>m</i><do>2</do> [<i>r</i><do>2</do> + <i>A u</i><do>2</do> (<i>p&2032;</i><do>1</do> &2014; <i>p</i><do>2</do>)] = <i>m</i><do>1</do><i>r</i><do>1</do> + <i>M c</i> (<i>T</i><do>1</do> &2014; <i>T</i><do>2</do>)
++ &03BC;<do>0</do><i>r</i><do>0</do> &2014; &03BC; <i>c</i> (<i>T</i><do>2</do> &2014; <i>T</i><do>0</do>) + <i>A</i> &03BC;<do>0</do><i>u</i><do>0</do> (<i>p&2032;</i><do>1</do> &2014; <i>p</i><do>0</do>) + <i>A M</i> &03C3; (<i>p</i><do>1</do> &2014; <i>p&2032;</i><do>1</do>).
+Mittelst dieser Gleichung kann man aus den als bekannt
+vorausgesetzten Größen die Größe <i>m</i><do>2</do> berechnen.</p>
+<p>35. In solchen Fällen, wo der mittlere Druck <i>p</i>&2032;<do>1</do> be-
+trächtlich größer ist, als der Enddruck <i>p</i><do>2</do>, z. B. wenn
+man annimmt, daß während des größeren Theiles der Ein-
+strömungszeit im Cylinder nahe derselbe Druck stattgefun-
+den habe, wie im Kessel, und erst zuletzt durch Ausdeh-
+nung des schon im Cylinder befindlichen Dampfes der
+Druck auf den geringeren Werth <i>p</i><do>2</do> herabgesunken sey,
+kann es vorkommen, daß man für <i>m</i><do>2</do> einen Werth findet,
+der kleiner als <i>m</i><do>1</do> + &03BC;<do>0</do> ist, daß also ein Theil des ursprüng-
+lich vorhandenen Dampfes sich niedergeschlagen hat. Ist
+dagegen <i>p&2032;</i><do>1</do> nur wenig größer oder gar kleiner als <i>p</i><do>2</do>, so
+findet man für <i>m</i><do>2</do> einen Werth, der größer als <i>m</i><do>1</do> + &03BC;<do>0</do>
+ist. Dieses letztere ist bei der Dampfmaschine als Regel
+zu betrachten, und gilt insbesondere auch für den von
+<g>Pambour</g> angenommenen speciellen Fall, daß <i>p&2032;</i><do>1</do> = <i>p</i><do>2</do> ist.</p>
+<p>Wir sind somit zu Resultaten gelangt, welche von den
+<g>Pambour&2019;s</g>chen Ansichten wesentlich abweichen. Wäh-
+rend dieser für die beiden verschiedenen Arten der Aus-
+dehnung, welche in der Dampfmaschine nach einander vor-
+kommen, ein und dasselbe Gesetz annimmt, nach welchem
+der ursprünglich vorhandene Dampf sich weder vermehren
+noch vermindern, sondern immer nur gerade im Maximum
+der Dichte bleiben soll, haben wir zwei verschiedene Glei-
+chungen gefunden, welche ein entgegengesetztes Verhalten
+erkennen lassen. Bei der ersten Ausdehnung während des
+Einströmens muß nach der eben gefundenen Gleichung (XIII)
+noch neuer Dampf entstehen, und bei der weiteren Ausdeh-
+nung nach dem Abschlusse vom Kessel, wobei der Dampf
+die volle seiner Expansivkraft entsprechende Arbeit thut,
+muß nach der früher schon entwickelten Gleichung (VII)
+ein Theil des vorhandenen Dampfes sich niederschlagen.</p>
+<pb="525"/>
+<p>Da diese beiden entgegengesetzten Wirkungen der
+Dampfvermehrung und -verminderung, welche auch auf
+die Größe der von der Maschine geleisteten Arbeit einen
+entgegengesetzten Einfluß ausüben müssen, zum Theil ein-
+ander aufheben, so kann dadurch unter Umständen ange-
+nähert dasselbe Endresultat entstehen, wie nach der ein-
+facheren <g>Pambour&2019;s</g>chen Annahme. Deshalb darf man
+jedoch nicht darauf verzichten, die einmal gefundene Ver-
+schiedenheit auch zu berücksichtigen, besonders wenn es
+sich darum handelt zu bestimmen, in welcher Weise eine
+Aenderung in der Einrichtung oder im Gange der Dampf-
+maschine auf die Größe ihrer Arbeit einwirkt.</p>
+<p>36. Mit Hülfe der in §. 34 einzeln angeführten Wärme-
+mengen kann man nach dem, was in §. 8 gesagt ist, leicht
+auch die bei der Ausdehnung eintretende uncompensirte
+Verwandlung bestimmen, indem man das in der Gleichung
+<formel>
+vorkommende Integral auf diese Wärmemengen bezieht.</p>
+<p>Die Mittheilung der Wärmemengen <i>m</i><do>1</do><i>r</i><do>1</do>, &2014; <i>m</i><do>2</do><i>r</i><do>2</do> und
+&03BC;<do>0</do><i>r</i><do>0</do> geschieht bei constanten Temperaturen, nämlich <i>T</i><do>1</do>,
+<i>T</i><do>2</do> und <i>T</i><do>0</do>, und diese Theile des Integrals sind daher:
+<formel>
+Für die von den Wärmemengen <i>M c</i> (<i>T</i><do>1</do>&2014;<i>T</i><do>2</do>) und &2014; &03BC; <i>c</i> (<i>T</i><do>2</do>&2014;<i>T</i><do>0</do>)
+herrührenden Theile des Integrals findet man nach dem schon
+in §. 23 angewandten Verfahren die Ausdrücke:
+<formel>
+Indem man die Summe dieser Größen an die Stelle des
+obigen Integrals setzt, erhält man für die uncompensirte
+Verwandlung den Werth:
+(38) <formel></p>
+<p>37. Wir können uns nun wieder zu dem vollständigen
+beim Gange der Dampfmaschine stattfindenden Kreispro-
+<pb="526"/>
+cesse wenden, und die einzelnen Theile desselben in ähn-
+licher Weise wie früher nach einander betrachten.</p>
+<p>Aus dem Dampfkessel, in welchem der Druck <i>p</i><do>1</do> an-
+genommen wird, strömt die Masse <i>M</i> in den Cylinder, und
+zwar der Theil <i>m</i><do>1</do> dampfförmig, und der übrige Theil
+tropfbar flüssig. Der während dieser Zeit im Cylinder
+wirksame mittlere Druck werde wie oben mit <i>p&2032;</i><do>1</do> und der
+Enddruck mit <i>p</i><do>2</do> bezeichnet.</p>
+<p>Nun dehnt sich der Dampf aus, bis sein Druck von <i>p</i><do>2</do>
+bis zu einem gegebenen Werthe <i>p</i><do>3</do>, und demgemäß seine
+Temperatur von <i>T</i><do>2</do> bis <i>T</i><do>3</do> gesunken ist.</p>
+<p>Darauf wird der Cylinder mit dem Condensator, in
+welchem der Druck <i>p</i><do>0</do> stattfindet, in Verbindung gesetzt,
+und der Stempel macht die ganze eben vollendete Bewe-
+gung wieder zurück. Der Gegendruck, welchen er dabei
+erfährt, ist bei etwas schneller Bewegung größer als <i>p</i><do>0</do>,
+und wir wollen daher zum Unterschiede von diesem Werthe
+den mittleren Gegendruck mit <i>p&2032;</i><do>0</do> bezeichnen.</p>
+<p>Der zu Ende der Stempelbewegung im schädlichen
+Raume bleibende Dampf, welcher für den nächsten Hub
+in Betracht kommt, steht unter einem Drucke, welcher
+ebenfalls weder gleich <i>p</i><do>0</do> noch gleich <i>p&2032;</i><do>0</do> zu seyn braucht,
+und daher mit <i>p&2033;</i><do>0</do> bezeichnet werde. Er kann größer
+oder kleiner als <i>p&2032;</i><do>0</do> seyn, jenachdem der Abschluß von
+dem Condensator etwas vor oder nach dem Ende der
+Stempelbewegung eintritt, indem der Dampf im ersteren
+Falle noch etwas weiter comprimirt wird, im letzteren
+Falle dagegen Zeit hat, sich durch theilweises Ausströmen
+in den Condensator noch etwas weiter auszudehnen.</p>
+<p>Endlich muß die Masse <i>M</i> noch aus dem Condensator
+in den Kessel zurückgeschafft werden, wobei wie früher
+der Druck <i>p</i><do>0</do> befördernd wirkt, und der Druck <i>p</i><do>1</do> über-
+wunden werden muß.</p>
+<p>38. Die bei diesen Vorgängen gethanen Arbeitsgrö-
+ßen werden durch ganz ähnliche Ausdrücke dargestellt,
+wie in dem früher betrachteten einfacheren Falle, nur daß
+die Indices der Buchstaben in leicht ersichtlicher Weise
+<pb="527"/>
+geändert, und die auf den schädlichen Raum bezüglichen
+Größen hinzugefügt werden müssen. Man erhält dadurch
+folgende Gleichungen.</p>
+<p>Für die Zeit des Einströmens nach §. 34, wobei nur
+noch <i>u&2033;</i><do>0</do> statt <i>u</i><do>0</do> geschrieben werden muß:
+(39) <formel>
+Für die Expansion von dem Drucke <i>p</i><do>2</do> bis zum Drucke <i>p</i><do>3</do>
+nach der Gleichung (IX), wenn darin <i>M</i> + &03BC; an die Stelle
+von <i>M</i> gesetzt wird:
+(40) <formel>
+Für den Rückgang des Stempels, wobei der von der Stem-
+pelfläche durchlaufene Raum gleich dem ganzen von der
+Masse <i>M</i> + &03BC; unter dem Drucke <i>p</i><do>3</do> eingenommenen Raume
+weniger dem durch &03BC;<do>0</do><i>u&2033;</i><do>0</do> + &03BC;&03C3; dargestellten schädlichen
+Raume ist:
+(41) <formel>
+Für die Zurückschaffung der Masse <i>M</i> in den Kessel:
+(42) <formel></p>
+<p>Die ganze Arbeit ist demnach:
+(43) <formel></p>
+<p>Die hierin vorkommenden Massen <i>m</i><do>2</do> und <i>m</i><do>3</do> ergeben
+sich aus den Gleichungen (XIII) und (VII), wobei man
+nur in der ersteren an die Stelle von <i>p</i><do>0</do> den Werth <i>p&2033;</i><do>0</do>
+setzen, und in entsprechender Weise die Größen <i>T</i><do>0</do>, <i>r</i><do>0</do>
+und <i>u</i><do>0</do> ändern, und in der letzteren an die Stelle von <i>M</i>
+die Summe <i>M</i> + &03BC; einführen muß. Ich will indessen die
+durch diese Gleichungen mögliche Elimination der beiden
+Größen <i>m</i><do>2</do> und <i>m</i><do>3</do> hier nicht vollständig ausführen, son-
+dern nur für eine derselben <i>m</i><do>2</do> ihren Werth einsetzen,
+weil es für die Rechnung zweckmäßiger ist, die so erhal-
+<pb="528"/>
+tene Gleichung mit den beiden früher gewonnenen zusam-
+men zu betrachten. Das zur Bestimmung der Arbeit der
+Dampfmaschine dienende System von Gleichungen lautet
+also in seiner allgemeinsten Form:
+(XIV) <formel></p>
+<p>39. Ich glaube, daß es nicht ohne Interesse seyn wird,
+wenn ich, bevor ich versuche, diese Gleichungen für die
+Anwendung geschickter zu machen, zeige, wie man auch
+für eine unvollkommene Dampfmaschine auf dem früher
+angedeuteten umgekehrten Wege zu denselben Ausdrücken
+gelangt, wie auf dem vorher verfolgten. Ich werde aber,
+um bei dieser Abschweifung nicht zu weitläufig zu wer-
+den, nur zwei der Unvollkommenheiten, welche in den
+vorigen Gleichungen berücksichtigt sind, in Betracht zie-
+hen, nämlich das Vorhandenseyn des schädlichen Raumes,
+und den geringeren Druck des Dampfes im Cylinder als
+im Kessel während des Einströmens. Dagegen werde ich
+annehmen, daß die Expansion vollständig sey, in welchem
+Falle <i>T</i><do>3</do> = <i>T</i><do>0</do> zu setzen ist, und daß auch die Größen
+<i>T</i><do>0</do>, <i>T&2032;</i><do>0</do> und <i>T&2033;</i><do>0</do> unter einander gleich seyen.</p>
+<p>Wir haben bei dieser Bestimmung die Gleichung (2)
+anzuwenden, welche wir hier in folgender Form schrei-
+ben wollen:
+<formel></p>
+<p>Das erste Glied auf der rechten Seite bedeutet die Ar-
+beit, welche man mittelst der angewandten Wärmemenge <i>Q</i><do>1</do>,
+<pb="529"/>
+welche für unseren Fall durch <i>m</i><do>1</do><i>r</i><do>1</do> + <i>M c</i>(<i>T</i><do>1</do> &2014;<i>T</i><do>0</do>) dar-
+gestellt wird, erhalten würde, wenn jene Unvollkommenhei-
+ten nicht stattfänden. Dieses Glied ist schon in §. 23
+berechnet, wo folgender Ausdruck gefunden wurde:
+<formel></p>
+<p>Das zweite Glied bedeutet den Arbeitsverlust, welcher
+durch jene beiden Unvollkommenheiten veranlaßt wird.
+Die darin vorkommende Größe <i>N</i> ist ebenfalls schon be-
+rechnet, nämlich in §. 36, und ist durch den in der Glei-
+chung (38) angeführten Ausdruck dargestellt.</p>
+<p>Setzt man diese beiden Ausdrücke in die vorige Glei-
+chung ein, so kommt:
+(44) <formel>
+Daß diese Gleichung in der That mit den Gleichungen (XIV)
+übereinstimmt, sieht man leicht, wenn man in die erste der-
+selben für die Masse <i>m</i><do>3</do> die Masse <i>m</i><do>2</do> einführt, was mit-
+telst der dritten Gleichung geschehen kann, und dann noch
+<formel> setzt.</p>
+<p>Auf dieselbe Weise kann man auch den durch die un-
+vollständige Expansion entstandenen Arbeitsverlust in Ab-
+zug bringen, indem man die beim Ueberströmen des Dam-
+pfes aus dem Cylinder in den Condensator entstehende
+uncompensirte Verwandlung berechnet, und diese in <i>N</i> mit
+einbegreift. Durch diese Rechnung, welche ich hier nicht
+wirklich ausführen will, gelangt man ganz zu dem in (XIV)
+gegebenen Ausdrucke der Arbeit.</p>
+<p>40. Um nun die Gleichungen (XIV) zu einer numeri-
+schen Rechnung anwenden zu können, ist es zunächst nö-
+thig, die Größen <i>p&2032;</i><do>1</do>, <i>p&2032;</i><do>0</do> und <i>p&2033;</i><do>0</do> näher zu bestimmen.</p>
+<p>Ueber die Art, wie sich der Druck im Cylinder wäh-
+rend des Einströmens ändert, läßt sich kein allgemein gül-
+tiges Gesetz aufstellen, weil die Oeffnung und Schließung
+<bs>Poggendorff&2019;s Annal. Bd. XCVII. 34</bs>
+<pb="530"/>
+des Zuströmungskanales bei verschiedenen Maschinen in
+zu verschiedenen Weisen geschieht. Demnach läßt sich
+auch für das Verhältniß zwischen dem mittleren Drucke <i>p</i>&2032;<do>1</do>
+und dem Enddrucke <i>p</i><do>2</do>, bei ganz strenger Auffassung des
+letzteren, nicht ein bestimmter, ein für allemal geltender
+Werth angeben. Dagegen wird dieses möglich, wenn man
+mit der Bedeutung von <i>p</i><do>2</do> eine geringe Aenderung vor-
+nimmt.</p>
+<p>Der Abschluß des Cylinders vom Kessel kann natür-
+lich nicht momentan geschehen, sondern die dazu nöthige
+Bewegung des Ventiles oder Schiebers erfordert je nach
+den verschiedenen Steuerungseinrichtungen eine größere
+oder kleinere Zeit, während welcher der im Cylinder be-
+findliche Dampf sich etwas ausdehnt, weil wegen der Ver-
+engung der Oeffnung weniger neuer Dampf zuströmen
+kann, als der Stempelgeschwindigkeit entspricht. Man kann
+daher im Allgemeinen annehmen, daß zu Ende dieser Zeit
+der Druck schon etwas kleiner ist, als der mit <i>p</i>&2032;<do>1</do> bezeich-
+nete mittlere Druck.</p>
+<p>Wenn man sich aber nicht daran bindet, gerade das
+<i>Ende</i> der zum Schließen nöthigen Zeit als den Moment
+des Abschlusses in Rechnung zu bringen, sondern sich in
+der Feststellung dieses Momentes einige Freiheit verstattet,
+so kann man dadurch auch für <i>p</i><do>2</do> andere Werthe erhalten.
+Man kann sich dann den Zeitpunkt so gewählt denken,
+daß, wenn bis dahin schon die ganze Masse <i>M</i> eingeströmt
+wäre, dann in diesem Augenblicke ein Druck stattfinden
+würde, welcher dem bis zu diesem Augenblicke gerechne-
+ten mittleren Drucke gerade gleich wäre. Indem man den
+auf diese Weise näher bestimmten momentanen Abschluß
+an die Stelle des in der Wirklichkeit stattfindenden all-
+mählichen Abschlusses setzt, begeht man in Bezug auf die
+daraus berechnete Arbeit nur einen unbedeutenden Fehler.
+Man kann sich daher mit dieser Modification der <g>Pam-
+bour&2019;s</g>chen Annahme anschließen, daß <i>p</i>&2032;<do>1</do> = <i>p</i><do>2</do> sey, wo-
+bei es dann aber noch für jeden einzelnen Fall einer be-
+sonderen Betrachtung vorbehalten bleibt, unter Berücksich-
+<pb="531"/>
+tigung der obwaltenden Umstände den Zeitpunkt des Ab-
+schlusses richtig zu bestimmen.</p>
+<p>41. Was ferner den beim Rückgange des Stempels
+stattfindenden Gegendruck <i>p</i>&2032;<do>0</do> betrifft, so ist die Differenz
+<i>p</i>&2032;<do>0</do> &2014; <i>p</i><do>0</do> unter sonst gleichen Umständen offenbar um so
+kleiner, je kleiner <i>p</i><do>0</do> ist. Sie wird daher bei Maschinen
+mit Condensator kleiner seyn, als bei Maschinen ohne Con-
+densator, bei denen <i>p</i><do>0</do> gleich einer Atmosphäre ist. Bei
+den wichtigsten Maschinen ohne Condensator, den Loco-
+motiven, kommt gewöhnlich noch ein besonderer Umstand
+hinzu, welcher dazu beiträgt, die Differenz zu vergrößern,
+nämlich der, daß man dem Dampfe nicht einen möglichst
+kurzen und weiten Kanal zum Abfluß in die Atmosphäre
+darbietet, sondern ihn in den Schornstein leitet und dort
+durch ein etwas verengtes Blaserohr ausströmen läßt, um
+auf diese Weise einen künstlichen Luftzug zu erzeugen.</p>
+<p>In diesem Falle ist eine genaue Bestimmung der Diffe-
+renz für die Zuverlässigkeit des Resultates von Bedeutung.
+Man muß dabei auch berücksichtigen, daß die Differenz
+bei einer und derselben Maschine nicht constant, sondern
+von der Ganggeschwindigkeit abhängig ist, und muß das
+Gesetz, nach welchem diese Abhängigkeit stattfindet, fest-
+stellen. Auf diese Betrachtungen und die Untersuchungen,
+welche über diesen Gegenstand schon angestellt sind, will
+ich aber hier nicht eingehen, weil sie nichts mit der me-
+chanischen Wärmetheorie zu thun haben.</p>
+<p>Bei Maschinen, in denen jene Anwendung des aus dem
+Cylinder austretenden Dampfes nicht vorkommt, und be-
+sonders bei den Maschinen mit Condensator ist <i>p</i>&2032;<do>0</do> so we-
+nig von <i>p</i><do>0</do> verschieden, und kann sich daher auch mit
+der Ganggeschwindigkeit nur so wenig ändern, daß es
+für die meisten Untersuchungen genügt, einen mittleren
+Werth für <i>p</i>&2032;<do>0</do> anzunehmen.</p>
+<p>Da ferner die Größe <i>p</i><do>0</do> in den Gleichungen (XIV)
+nur in einem mit dem Factor &03C3; behafteten Gliede vor-
+kommt, und daher auf den Werth der Arbeit einen sehr
+geringen Einfluß hat, so kann man ohne Bedenken auch
+<bs>34 *</bs>
+<pb="532"/>
+für <i>p</i><do>0</do> den Werth setzen, welcher für <i>p</i>&2032;<do>0</do> der wahrschein-
+lichste ist.</p>
+<p>Der im schädlichen Raume stattfindende Druck <i>p</i>&2033;<do>0</do>
+hängt, wie schon erwähnt, davon ab, ob der Abschluß
+vom Condensator vor oder nach dem Ende der Stempel-
+bewegung eintritt, und kann dadurch sehr verschieden
+ausfallen. Aber auch dieser Druck und die davon abhän-
+gigen Größen kommen in den Gleichungen (XIV) nur in
+solchen Gliedern vor, welche mit kleinen Factoren behaf-
+tet sind, nämlich mit &03BC; und &03BC;<do>0</do>, so daß man von einer
+genauen Bestimmung dieses Druckes absehen, und sich mit
+einer ungefähren Schätzung begnügen kann. In solchen
+Fällen, wo nicht besondere Umstände dafür sprechen, daß
+<i>p</i>&2033;<do>0</do> bedeutend von <i>p</i>&2032;<do>0</do> abweicht, kann man diesen Unter-
+schied, ebenso wie den zwischen <i>p</i><do>0</do> und <i>p</i>&2032;<do>0</do>, vernachläs-
+sigen, und den Werth, welcher den mittleren Gegendruck
+im Cylinder mit der größten Wahrscheinlichkeit darstellt,
+als gemeinsamen Werth für alle drei Größen annehmen.
+Dieser Werth möge dann einfach mit <i>p</i><do>0</do> bezeichnet werden.</p>
+<p>Durch Einführung dieser Vereinfachungen gehen die
+Gleichungen (XIV) über in:
+(XV) <formel></p>
+<p>42. In diesen Gleichungen ist vorausgesetzt, daß au-
+ßer den Massen <i>M</i>, <i>m</i><do>1</do>, &03BC; und <i>m</i><do>0</do>, von denen die beiden
+ersten durch directe Beobachtung bekannt seyn müssen,
+und die beiden letzten aus der Größe des schädlichen
+Raumes angenähert bestimmt werden können, auch noch
+die vier Druckkräfte <i>p</i><do>1</do>, <i>p</i><do>2</do>, <i>p</i><do>3</do> und <i>p</i><do>0</do>, oder, was das-
+selbe ist, die vier Temperaturen <i>T</i><do>1</do>, <i>T</i><do>2</do>, <i>T</i><do>3</do> und <i>T</i><do>0</do> ge-
+geben seyen. Diese Bedingung ist aber in den in der
+<pb="533"/>
+Praxis vorkommenden Fällen nur theilweise erfüllt, und
+man muß daher andere Data für die Rechnung zu Hülfe
+nehmen.</p>
+<p>Von jenen vier Druckkräften sind nur zwei als be-
+kannt vorauszusetzen, nämlich <i>p</i><do>1</do> und <i>p</i><do>0</do>, deren erstere
+durch das Kesselmanometer unmittelbar angegeben wird,
+und letztere aus der Angabe des Condensatormanometers
+wenigstens angenähert geschlossen werden kann. Die bei-
+den anderen <i>p</i><do>2</do> und <i>p</i><do>3</do> sind nicht gegeben, aber dafür
+kennt man die Dimensionen des Cylinders, und weiß, bei
+welcher Stellung des Stempels der Abschluß vom Kessel
+erfolgt. Daraus kann man die Volumina, welche der Dampf
+im Cylinder im Momente des Abschlusses und zu Ende der
+Expansion einnimmt, ableiten, und diese beiden Volu-
+mina können daher als Data an die Stelle der Druckkräfte
+<i>p</i><do>2</do> und <i>p</i><do>3</do> treten.</p>
+<p>Es kommt nun darauf an, die Gleichungen in solche
+Form zu bringen, daß man mittelst dieser Data die Rech-
+nung ausführen kann.</p>
+<p>43. Es sey wieder, wie bei der Auseinandersetzung
+der <g>Pambour&2019;s</g>chen Theorie, der ganze Raum, welcher
+während eines Hubes im Cylinder frei wird, mit Einschluß
+des schädlichen Raumes, mit <i>v</i>&2032;, der bis zum Abschluß vom
+Kessel frei werdende Raum mit e<i>v</i>&2032; und der schädliche
+Raum mit &03B5;<i>v</i>&2032; bezeichnet. Dann hat man nach dem, was
+früher gesagt ist, die Gleichungen:
+<formel>
+Die Größen &03BC; und &03C3; sind beide so klein, daß man ihr
+Product ohne Weiteres vernachlässigen kann, wodurch
+kommt:
+(45) <formel></p>
+<pb="534"/>
+<p>Ferner ist nach Gleichung (VI), wenn wir für den
+darin enthaltenen Differentialcoëfficienten <formel>, welcher im
+Folgenden so oft vorkommen wird, daß eine einfachere
+Bezeichnung zweckmäßig ist, den Buchstaben <i>g</i> einführen:
+<formel>
+Hiernach kann man in den obigen Gleichungssystemen die
+Größen <i>r</i><do>2</do> und <i>r</i><do>3</do> durch <i>u</i><do>2</do> und <i>u</i><do>3</do> ersetzen. Dann kommen
+die Massen <i>m</i><do>2</do> und <i>m</i><do>3</do> nur noch in den Producten <i>m</i><do>2</do> <i>u</i><do>2</do>
+und <i>m</i><do>3</do> <i>u</i><do>3</do> vor, und für diese kann man die in den beiden
+ersten der Gleichungen (45) gegebenen Werthe einsetzen.</p>
+<p>Ebenso kann man mittelst der letzten dieser Gleichun-
+gen zunächst die Masse &03BC;<do>0</do> eliminiren, und was die andere
+Masse &03BC; anbetrifft, so kann diese zwar etwas größer als
+&03BC;<do>0</do> seyn, da aber die Glieder, welche &03BC; als Factor ent-
+halten, überhaupt sehr unbedeutend sind, so kann man
+unbedenklich auch für &03BC; denselben Werth einsetzen, wel-
+cher für &03BC;<do>0</do> gefunden ist, d. h. man kann jene der Allge-
+meinheit wegen gemachte Annahme, daß die ursprünglich
+im schädlichen Raume befindliche Masse theils flüssig theils
+dampfförmig war, für die numerische Rechnung fallen lassen,
+und jene Masse als ganz dampfförmig voraussetzen.</p>
+<p>Die eben angedeuteten Substitutionen können sowohl
+in den allgemeineren Gleichungen (XIV) als auch in den
+vereinfachten Gleichungen (XV) geschehen. Da indessen
+die Ausführung gar keine Schwierigkeit hat, so wollen wir
+uns hier auf die letzteren beschränken, um die Gleichungen
+sofort in einer für die numerische Berechnung geeigneten
+Form zu erhalten.</p>
+<p>Sie lauten nach dieser Aenderung folgendermaßen:
+<pb="535"/>
+(XVI) <formel></p>
+<p>44. Um diese Gleichungen, welche die Arbeit eines
+Hubes oder der Dampfmenge <i>m</i><do>1</do> bestimmen, endlich noch
+auf die Gewichtseinheit Dampf zu beziehen, ist dasselbe
+Verfahren anzuwenden, mittelst dessen früher die Glei-
+chungen (35) in (XII) verwandelt wurden. Wir dividiren
+nämlich die drei Gleichungen durch <i>m</i><do>1</do> und setzen dann:
+<formel>
+Dadurch gehen die Gleichungen über in:
+(XVII) <formel></p>
+<p>45. Die Anwendung dieser Gleichungen zur Berech-
+nung der Arbeit kann in folgender Weise geschehen. Aus
+der als bekannt vorausgesetzten Verdampfungsstärke und
+aus der Ganggeschwindigkeit, welche die Maschine dabei
+annimmt, bestimmt man das Volumen <i>V</i>, welches auf eine
+Gewichtseinheit Dampf kommt. Mit Hülfe dieses Werthes
+berechnet man zunächst aus der zweiten Gleichung die Tem-
+peratur <i>T</i><do>2</do>, sodann aus der dritten die Temperatur <i>T</i><do>3</do>, und
+<pb="536"/>
+diese endlich wendet man in der ersten Gleichung zur Be-
+stimmung der Arbeit an.</p>
+<p>Dabei stößt man aber noch auf eine eigenthümliche
+Schwierigkeit. Um aus den beiden letzten Gleichungen
+die Temperaturen <i>T</i><do>2</do> und <i>T</i><do>3</do> zu berechnen, müßten die-
+selben eigentlich nach den Temperaturen aufgelöst werden.
+Sie enthalten aber diese Temperaturen nicht nur explicite,
+sondern auch implicite, indem <i>p</i> und <i>g</i> Functionen der
+Temperatur sind. Wollte man zur Elimination dieser Grö-
+ßen eine der gebräuchlichen empirischen Formeln, welche
+den Dampfdruck als Function der Temperatur darstellen,
+für <i>p</i>, und ihren Differentialcoëfficienten für <i>g</i> einsetzen,
+so würden die Gleichungen für die weitere Behandlung zu
+complicirt werden. Man könnte sich nun vielleicht in ähn-
+licher Weise wie <g>Pambour</g> dadurch helfen, daß man neue
+empirische Formeln aufstellte, welche für den vorliegenden
+Zweck bequemer, und wenn auch nicht für alle Tempera-
+turen, so doch innerhalb gewisser Intervalle hinlänglich
+genau wären. Auf solche Versuche will ich jedoch hier
+nicht eingehen, sondern statt dessen auf ein anderes Ver-
+fahren aufmerksam machen, bei welchem die Rechnung zwar
+etwas weitläufig, aber in ihren einzelnen Theilen leicht
+ausführbar ist.</p>
+<p>46. Wenn die Spannungsreihe des Dampfes für irgend
+eine Flüssigkeit mit hinlänglicher Genauigkeit bekannt ist,
+so kann man daraus auch die Werthe der Größen <i>g</i> und
+<i>T.g</i> für verschiedene Temperaturen berechnen, und ebenso,
+wie es mit den Werthen von <i>p</i> zu geschehen pflegt, in
+Tabellen vereinigen.</p>
+<p>Für den Wasserdampf, welcher bis jetzt bei den Dampf-
+maschinen fast allein angewandt wird, und für das Tempe-
+raturintervall, innerhalb dessen die Anwendung stattfindet,
+nämlich von 40&00B0; bis 200&00B0; C. habe ich eine solche Rech-
+nung mit Hülfe der <g>Regnault&2019;s</g>chen Spannungsreihe aus-
+geführt.</p>
+<p>Ich hätte dabei eigentlich die Formeln, welche <g>Regnault</g>
+zur Berechnung der einzelnen Werthe von <i>p</i> unter und über
+<pb="537"/>
+100&00B0; benutzt hat, nach <i>t</i> differentiiren, und mittelst der da-
+durch erhaltenen neuen Formeln <i>g</i> berechnen müssen. Da
+aber jene Formeln doch nicht so vollkommen ihrem Zwecke
+entsprechen, daß mir diese mühsame Arbeit lohnend schien,
+und die Aufstellung und Berechnung einer anderen geeig-
+neteren Formel noch weitläufiger gewesen wäre, so habe
+ich mich damit begnügt, die schon für den Druck berech-
+neten Zahlen auch zu einer angenäherten Bestimmung des
+Differentialcoëfficienten des Druckes zu benutzen. Sey z. B.
+der Druck für die Temperaturen 146&00B0; und 148&00B0; mit <i>p</i><do>1 4 6</do>
+und <i>p</i><do>1 4 8</do> bezeichnet, so habe ich angenommen, daß die
+Größe
+<formel>
+den für die mittlere Temperatur 147&00B0; geltenden Werth
+des Differentialcoëfficienten hinlänglich genau darstelle.</p>
+<p>Dabei habe ich über 100&00B0; die von <g>Regnault</g> selbst
+angeführten Zahlen benutzt <fn="1)"><i>Mém. de l&2019;Acad. des Sciences T. XXI, p.</i> 625.</fn>. In Bezug auf die Werthe
+unter 100&00B0; hat in neuerer Zeit <g>Moritz</g> <fn="2)"><i>Bulletin de la Classe physico-mathématique de l&2019;Acad. de St.
+Pétersbourg T. XIII, p.</i> 41.</fn> darauf aufmerk-
+sam gemacht, daß die Formel, welche <g>Regnault</g> zwischen
+0&00B0; und 100&00B0; angewandt hat, dadurch, daß er sich zur
+Berechnung der Constanten siebenstelliger Logarithmen be-
+dient hat, etwas ungenau geworden ist, besonders in der
+Nähe von 100&00B0;. <g>Moritz</g> hat daher jene Constanten unter
+Zugrundelegung derselben Beobachtungswerthe mit zehn-
+stelligen Logarithmen berechnet, und die aus dieser verbes-
+serten Formel abgeleiteten Werthe von <i>p</i>, soweit sie von
+den <g>Regnault&2019;s</g>chen abweichen, was erst über 40&00B0; ein-
+tritt, mitgetheilt. Diese Werthe habe ich benutzt.</p>
+<p>Nachdem die Größe <i>g</i> für die einzelnen Temperatur-
+grade berechnet ist, hat auch die Berechnung des Pro-
+ductes <i>T.g</i> keine Schwierigkeit mehr, da <i>T</i> durch die ein-
+fache Gleichung
+<formel>
+bestimmt ist.</p>
+<pb="538"/>
+<p>Die so gefundenen Werthe von <i>g</i> und <i>T.g</i> habe ich
+in einer am Ende dieser Abhandlung mitgetheilte Tabelle
+zusammengestellt. Der Vollständigkeit wegen habe ich auch
+die dazugehörigen Werthe von <i>p</i> hinzugefügt, und zwar
+über 100&00B0; die von <g>Regnault</g>, unter 100&00B0; die von <g>Moritz</g>
+berechneten. Bei jeder dieser drei Zahlenreihen sind die
+Differenzen je zweier aufeinander folgender Zahlen mit an-
+geführt, so daß man aus dieser Tabelle für jede gegebene
+Temperatur die Werthe jener drei Größen, und umgekehrt
+für jeden gegebenen Werth einer jener drei Größen die
+entsprechende Temperatur finden kann.</p>
+<p>Nach dem, was vorher über die Berechnung von <i>g</i>
+gesagt ist, brauche ich wohl kaum hinzuzufügen, daß ich
+die Zahlen dieser Tabelle nicht als genau betrachte, sondern
+sie nur in Ermangelung besserer mittheile. Da jedoch die
+bei der Dampfmaschine vorkommenden Rechnungen immer
+auf ziemlich unsicheren Daten beruhen, so kann man hierzu
+die Zahlen unbedenklich anwenden, ohne fürchten zu müs-
+sen, daß dadurch die Unsicherheit des Resultates erheblich
+vermehrt werde.</p>
+<p>Ueber die Art der Anwendung ist jedoch noch eine
+Bemerkung nöthig. In den Gleichungen (XVII) ist voraus-
+gesetzt, daß der Druck <i>p</i> und sein Differentialcoëfficient <i>g</i>
+in Kilogrammen auf ein Quadratmeter ausgedrückt seyen;
+in den Tabellen dagegen ist dieselbe Druckeinheit beibe-
+halten, auf welche sich die <g>Regnault&2019;s</g>che Spannungsreihe
+bezieht, nämlich Millimeter Quecksilber. Um dessenungeach-
+tet die Tabelle anwenden zu können, braucht man nur in
+jenen Gleichungen alle Glieder, welche nicht entweder <i>p</i>
+oder <i>g</i> als Factor enthalten, durch die Zahl 13,596 zu
+dividiren. Ich werde diese Zahl, welche nichts weiter ist,
+als das specifische Gewicht des Quecksilbers von 0&00B0; ver-
+glichen mit Wasser vom Maximum der Dichte, der Kürze
+wegen mit <i>k</i> bezeichnen.</p>
+<p>Diese Aenderung der Formeln hat übrigens fast gar
+keine Vermehrung der Rechnungen zur Folge, indem sie
+<pb="539"/>
+darauf hinauskommt, daß statt des constanten Factors <formel>,
+welcher nach <g>Joule</g> den schon früher angeführten Werth
+423,55 hat, überall die andere Constante
+(46) <formel>
+zu setzen ist, und außerdem statt der Arbeit <i>W</i> zunächst
+die Größe <formel> gefunden wird, welche dann noch mit <i>k</i>
+multiplicirt werden muß.</p>
+<p>47. Kehren wir nun zu den Gleichungen (XVII) zurück,
+und betrachten zuerst die zweite derselben.</p>
+<p>Diese Gleichung läßt sich in folgender Form schreiben:
+(47) <formel>
+worin die Größen <i>C</i>, <i>a</i> und <i>b</i> von <i>t</i><do>2</do> unabhängig sind,
+nämlich:
+(47<do><i>a</i></do>) <formel></p>
+<p>Von den drei auf der rechten Seite von (47) stehenden
+Gliedern ist das erste bei Weitem überwiegend, und da-
+durch wird es möglich das Product <i>T</i><do>2</do><i>g</i><do>2</do> und damit zu-
+gleich auch die Temperatur <i>t</i><do>2</do> durch successive Näherung
+zu bestimmen.</p>
+<p>Um den ersten Näherungswerth des Productes, welcher
+<i>T</i>&2032;<i>g</i>&2032; heißen möge, zu erhalten, setze man auf der rechten
+Seite <i>t</i><do>1</do> an die Stelle von <i>t</i><do>2</do> und entsprechend <i>p</i><do>1</do> statt <i>p</i><do>2</do>,
+dann kommt:
+(48) <formel>
+Die zu diesem Werthe des Productes gehörige Tempe-
+ratur <i>t</i>&2032; schlage man in der Tabelle auf. Um nun den
+zweiten Näherungswerth des Productes zu bekommen, setze
+man den eben gefundenen Werth <i>t</i>&2032; und den entsprechenden
+<pb="540"/>
+Werth <i>p</i>&2032; des Druckes auf der rechten Seite von (47) für
+<i>t</i><do>2</do> und <i>p</i><do>2</do>, wodurch man unter Berücksichtigung der vori-
+gen Gleichung erhält:
+(48<do><i>a</i></do>) <formel>
+Die zu diesem Werthe des Productes gehörige Tempera-
+tur <i>t</i>&2033; ergiebt sich wie vorher aus der Tabelle. Stellt diese
+die gesuchte Temperatur <i>t</i><do>2</do> noch nicht genau genug dar,
+so wiederhole man dasselbe Verfahren. Man setze auf der
+rechten Seite von (47) <i>t</i>&2033; und <i>p</i>&2033; an die Stelle von <i>t</i><do>2</do>
+und <i>p</i><do>2</do>, wodurch man unter Berücksichtigung der beiden
+vorigen Gleichungen erhält:
+(48<do><i>b</i></do>) <formel>
+und den neuen Temperaturwerth <i>t</i>&2034; in der Tabelle finden
+kann.</p>
+<p>In dieser Weise könnte man beliebig lange fortfahren,
+aber schon der dritte Näherungswerth weicht nur noch etwa
+um <formel> Grad, und der vierte um weniger als <formel> Grad
+von dem wahren Werthe der Temperatur <i>t</i><do>2</do> ab.</p>
+<p>48. Ganz ähnlich ist die Behandlung der dritten der
+Gleichungen (XVII). Dividirt man diese durch <i>V &2014; l &03C3;</i>,
+und führt der leichteren Rechnung wegen statt der durch
+das Zeichen log angedeuteten natürlichen Logarithmen
+<g>Briggs&2019;s</g>che Logarithmen ein, welche durch das Zeichen
+Log angedeutet werden mögen, wobei man nur den Mo-
+dulus <i>M</i> dieses Systems als Divisor hinzufügen muß, so
+nimmt die Gleichung die Form
+(49) <formel>
+an, worin <i>Ç</i> und <i>a</i> folgende von <i>T</i><do>3</do> unabhängige Werthe
+haben.
+(49<do><i>a</i></do>) <formel></p>
+<p>In der Gleichung (49) ist wieder auf der rechten Seite
+das erste Glied überwiegend, so daß man das Verfahren
+<pb="541"/>
+der successiven Näherung anwenden kann. Man setze zu-
+nächst <i>T</i><do>2</do> an die Stelle von <i>T</i><do>3</do>, dann erhält man als ersten
+Näherungswerth von <i>g</i><do>3</do>:
+(50) <formel>
+und kann die dazu gehörige Temperatur <i>t&2032;</i> in der Tabelle
+finden, und daraus leicht die absolute Temperatur <i>T&2032;</i> bilden.
+Diese setze man nun in (49) für <i>T</i><do>3</do> ein, dann kommt:
+(50<do><i>a</i></do>) <formel>
+woraus sich <i>T&2033;</i> ergiebt. Ebenso erhält man weiter:
+(50<do><i>b</i></do>) <formel>
+u. s. f.</p>
+<p>49. Es bleibt nun, um zur numerischen Anwendung
+der Gleichungen (XVII) schreiten zu können, nur noch
+die Bestimmung der Größen <i>c</i> und <i>r</i> übrig.</p>
+<p>Die Größe <i>c</i> d. h. die specifische Wärme der Flüssig-
+keit ist in der bisherigen Entwickelung als constant be-
+handelt. Das ist freilich nicht ganz richtig, da die speci-
+fische Wärme mit wachsender Temperatur etwas zunimmt.
+Wenn man aber den Werth, welcher etwa für die Mitte
+des Intervalles, welches die in der Untersuchung vorkom-
+menden Temperaturen umfaßt, richtig ist, als gemeinsamen
+Werth auswählt, so können die Abweichungen nicht be-
+deutend werden. Bei den durch Wasserdampf getriebenen
+Dampfmaschinen kann als solche mittlere Temperatur etwa
+100&00B0; gelten, welche bei einer gewöhnlichen Hochdruck-
+maschine mit Condensator ungefähr gleich weit von der
+Kessel- und Condensatortemperatur entfernt ist. Wir wol-
+len also beim Wasser den Werth anwenden, welcher nach
+<g>Regnault</g> die specifische Wärme bei 100&00B0; darstellt, in-
+dem wir setzen:
+<c>(51) <i>c</i> = 1,0130.</c></p>
+<p>Zur Bestimmung der Größe <i>r</i> gehen wir von der Glei-
+chung aus, welche <g>Regnault</g> für die ganze Wärmemenge,
+welche dazu nöthig ist, um eine Gewichtseinheit Wasser
+von 0&00B0; bis zur Temperatur <i>t</i> zu erwärmen und bei die-
+<pb="542"/>
+ser Temperatur in Dampf zu verwandeln, aufgestellt hat,
+nämlich:
+<formel>
+Setzt man hierin für &03BB; die der vorigen Definition entspre-
+chende Summe <formel>, so kommt:
+<formel></p>
+<p>In dem Integrale muß man, um genau die Werthe von
+<i>r</i> zu erhalten, welche <g>Regnault</g> angiebt, für <i>c</i> die von
+<g>Regnault</g> näher bestimmte Temperaturfunction anwenden.
+Ich glaube aber, daß es für den vorliegenden Zweck ge-
+nügt, wenn wir auch hierbei für <i>c</i> die vorher angeführte
+Constante in Anwendung bringen. Dadurch erhalten wir:
+<formel>
+und können nun die beiden von <i>t</i> abhängigen Glieder
+der vorigen Gleichung in Eines zusammenziehen, welches
+&2014; 0,708. <i>t</i> lautet.</p>
+<p>Zugleich müssen wir nun auch das constante Glied der
+Gleichung etwas ändern, und wir wollen es so bestimmen,
+daß derjenige Beobachtungswerth von <i>r</i>, welcher wahr-
+scheinlich unter allen der genauste ist, auch durch die
+Formel richtig dargestellt wird. Bei 100&00B0; hat <g>Regnault</g>
+für die Größe &03BB; als Mittel aus 38 Beobachtungszahlen den
+Werth 636,67 gefunden. Ziehen wir hiervon die Wärme-
+menge ab, welche zur Erwärmung der Gewichtseinheit
+Wasser von 0&00B0; bis 100&00B0; erforderlich ist, und welche nach
+<g>Regnault</g> 100,5 Wärmeeinheiten beträgt, so bleibt, wenn
+wir uns mit Einer Decimale begnügen,
+<formel>#<fn="1)"><g>Regnault</g> selbst führt in seiner Tabelle nicht genau die obige Zahl,
+sondern 536,5 an; das liegt aber nur daran, daß er für &03BB; bei 100&00B0; in
+der Rechnung statt des vorher erwähnten Werthes 636,67 in runder
+Zahl 637 gesetzt hat.</fn>.
+<pb="543"/>
+Unter Anwendung dieses Werthes erhält man für <i>r</i> die
+Formel:
+(52) <formel></p>
+<p>Eine Vergleichung einiger hieraus berechneter Werthe
+mit den von <g>Regnault</g> in seiner Tabelle <fn="1)"><i>Mém. de l&2019; Acad. des Sciences T. XXI, p.</i> 748.</fn> angeführten,
+wird zeigen, daß diese vereinfachte Formel sich der vorher
+angedeuteten strengeren Berechnungsart hinlänglich genau
+anschließt:
+<tab></p>
+<p>50. Um die beiden verschiedenen Arten der Ausdeh-
+nung, auf welche sich die beiden letzten der Gleichun-
+gen (XVII) beziehen, in ihren Wirkungen unterscheiden
+zu können, scheint es mir zweckmäßig, zunächst eine solche
+Dampfmaschine zu betrachten, in welcher nur eine derselben
+vorkommt. Wir wollen daher mit einer Maschine beginnen,
+welche <i>ohne Expansion</i> arbeitet.</p>
+<p>In diesem Falle ist für die Größe <i>e</i>, welche das Ver-
+hältniß der Volumina vor und nach der Expansion bezeich-
+net, der Werth 1 und zugleich <i>T</i><do>3</do> = <i>T</i><do>2</do> zu setzen, wo-
+durch die Gleichungen (XVII) eine einfachere Gestalt an-
+nehmen.</p>
+<p>Die letzte dieser Gleichungen wird identisch und fällt
+also fort. Ferner werden mehrere Glieder der ersten, welche
+sich von den entsprechenden Gliedern der zweiten nur da-
+durch unterscheiden, daß die einen <i>T</i><do>3</do> und die anderen
+<i>T</i><do>2</do> enthalten, jetzt ihnen gleich, und lassen sich daher
+eliminiren. Dadurch erhält man, wenn man zugleich die
+oben erwähnte Größe <i>k</i> einführt:
+(XVIII) <formel></p>
+<pb="544"/>
+<p>Die erste dieser beiden Gleichungen ist genau dieselbe,
+welche man auch nach der <g>Pambour&2019;s</g>chen Theorie erhält,
+wenn man in (XII) <i>e</i> = 1 setzt, und statt der Größe <i>B</i>
+das Volumen <i>V</i> einführt. Der Unterschied liegt also nur
+in der zweiten Gleichung, welche an die Stelle der von
+<g>Pambour</g> angenommenen einfachen Beziehung zwischen
+Volumen und Druck getreten ist.</p>
+<p>51. Die in diesen Gleichungen vorkommende Größe &03B5;,
+welche den schädlichen Raum als Bruchtheil des ganzen
+für den Dampf frei werdenden Raumes darstellt, sey zu
+0,05 angenommen. Die Menge der tropfbaren Flüssigkeit,
+welche der Dampf beim Eintritt in den Cylinder mit sich
+führt, ist bei verschiedenen Maschinen verschieden. <g>Pam-
+bour</g> sagt, daß sie bei Locomotiven durchschnittlich 0,25,
+bei stehenden Dampfmaschinen aber viel weniger, vielleicht
+0,05 der ganzen in den Cylinder tretenden Masse betrage.
+Wir wollen für unser Beispiel die letztere Angabe be-
+nutzen, wonach das Verhältniß der ganzen in den Cylinder
+tretenden Masse zu dem dampfförmigen Theile derselben
+1 : 0,95 ist. Ferner sey der Druck im Kessel zu 5 Atmo-
+sphären angenommen, wozu die Temperatur 152&00B0;,22 gehört,
+und vorausgesetzt, daß die Maschine keinen Condensator,
+oder, was dasselbe ist, einen Condensator mit dem Drucke
+von 1 Atmosphäre habe. Der mittlere Gegendruck im
+Cylinder ist dann größer als 1 Atmosphäre. Bei Loco-
+motiven kann dieser Unterschied, wie oben erwähnt, durch
+einen besonderen Umstand beträchtlich werden, bei stehen-
+den Dampfmaschinen dagegen ist er geringer. <g>Pambour</g>
+hat in seinen numerischen Rechnungen für stehende Ma-
+schinen ohne Condensator diesen Unterschied ganz vernach-
+lässigt, und da es sich hier nur um ein Beispiel zur Ver-
+gleichung der neuen Formeln mit den <g>Pambour&2019;s</g>chen
+handelt, so wollen wir uns auch hierin ihm anschließen
+und <i>p</i><do>0</do> = 1 Atmosphäre setzen.</p>
+<p>Es kommen also in die Gleichungen (XVIII) für dieses
+Beispiel folgende Werthe zur Anwendung:
+<pb="545"/>
+(53) <formel>
+Nehmen wir hierzu noch die ein für allemal feststehenden
+Werthe:
+<formel>
+so bleiben in der ersten der Gleichungen (XVIII) außer
+der gesuchten Größe <i>W</i> nur noch die Größen <i>V</i> und <i>p</i><do>2</do>
+unbestimmt.</p>
+<p>52. Wir müssen nun zuerst untersuchen, welches der
+<i>kleinstmögliche</i> Werth von <i>V</i> ist.</p>
+<p>Dieser Werth entspricht dem Falle, wo im Cylinder
+derselbe Druck, wie im Kessel stattfindet, und wir brauchen
+daher nur in der letzten der Gleichungen (XVIII) <i>p</i><do>1</do> an
+die Stelle von <i>p</i><do>2</do> zu setzen. Dadurch kommt:
+(54) <formel></p>
+<p>Um hierbei gleich von dem Einflusse des schädlichen
+Raumes ein Beispiel zu geben, habe ich von diesem Aus-
+drucke zwei Werthe berechnet, den, welcher entstehen
+würde, wenn kein schädlicher Raum vorhanden, und also
+&03B5; = 0 wäre, und den, welcher unter der von uns gemachten
+Voraussetzung, daß &03B5; = 0,05 ist, entstehen muß. Diese
+beiden Werthe sind für 1 Kilogrm. aus dem Kessel treten-
+den Dampfes als Bruchtheil eines Cubikmeter ausgedrückt:
+<c>0,3637 und 0,3690.</c>
+Daß der letzte dieser Werthe größer ist, als der erste,
+kommt daher, daß erstens der Dampf in den schädlichen
+Raum mit großer Geschwindigkeit eindringt, die lebendige
+Kraft dieser Bewegung sich dann in Wärme verwandelt,
+und diese wiederum einen Theil der mitgerissenen Flüssig-
+<bs>Poggendorff&2019;s Annal. Bd. XCVII. 35</bs>
+<pb="546"/>
+keit verdampfen läßt, und daß zweitens der schon vor
+dem Einströmen im schädlichen Raume befindliche Dampf
+ebenfalls dazu beiträgt, die ganze nachher vorhandene
+Dampfmenge zu vermehren.</p>
+<p>Setzt man die beiden für <i>V</i> gefundenen Werthe in die
+erste der Gleichungen (XVIII) ein, wobei wieder &03B5; das
+eine Mal = 0 und das andere Mal = 0,05 gesetzt wird,
+so erhielt man als entsprechende Arbeitsgrößen in Kilo-
+gramm-Meter ausgedrückt:
+<c>14990 und 14450.</c></p>
+<p>Nach der <g>Pambour&2019;s</g>chen Theorie macht es in Bezug
+auf das Volumen keinen Unterschied, ob ein Theil des-
+selben schädlicher Raum ist, oder nicht, es wird in beiden
+Fällen durch dieselbe Gleichung (29<do><i>b</i></do>) bestimmt, wenn man
+darin für <i>p</i> den besonderen Werth <i>p</i><do>1</do> setzt. Dadurch er-
+hält man:
+<c>0,3883.</c>
+Daß dieser Werth größer ist, als der vorher für dieselbe
+Dampfmenge gefundene 0,3637, erklärt sich daraus, daß
+man überhaupt bisher das Volumen des Dampfes im Maxi-
+mum der Dichte für größer gehalten hat, als es der me-
+chanischen Wärmetheorie nach seyn kann, und diese frü-
+here Ansicht auch in der Gleichung (29<do><i>b</i></do>) ihren Ausdruck
+findet.</p>
+<p>Bestimmt man mittelst dieses Volumens die Arbeit un-
+ter den beiden Voraussetzungen, daß &03B5; = 0 oder = 0,05
+sey, so kommt:
+<c>16000 und 15200.</c>
+Diese Arbeitsgrößen sind, wie es auch als unmittelbare
+Folge des größeren Volumens vorauszusehen war, beide
+größer, als die vorher gefundenen, aber nicht in gleichem
+Verhältnisse, indem der durch den schädlichen Raum ver-
+anlaßte Arbeitsverlust nach den von uns entwickelten Glei-
+chungen geringer ist, als er nach der <g>Pambour&2019;s</g>chen
+Theorie seyn müßte.</p>
+<p>53. Bei einer Maschine der hier betrachteten Art,
+welche <g>Pambour</g> in ihrer Wirksamkeit untersuchte, ver-
+<pb="547"/>
+hielt sich die Geschwindigkeit, welche die Maschine wirk-
+lich annahm, zu derjenigen, welche sich für dieselbe Ver-
+dampfungsstärke und denselben Druck im Kessel aus sei-
+ner Theorie als Minimum der Geschwindigkeit berechnen
+läßt, bei einem Versuche wie 1,275 : 1 und bei einem an-
+deren unter geringerer Belastung wie 1,70 : 1. Diesen Ge-
+schwindigkeiten würden für unseren Fall die Volumina
+0,495 und 0,660 entsprechen. Wir wollen nun als ein
+Beispiel zur Bestimmung der Arbeit eine Geschwindigkeit
+wählen, welche zwischen diesen beiden liegt, indem wir
+in runder Zahl setzen:
+<c><i>V</i> = 0,6.</c></p>
+<p>Es kommt nun zunächst darauf an, für diesen Werth
+von <i>V</i> die Temperatur <i>t</i><do>2</do> zu finden. Dazu dient die Glei-
+chung (47), welche folgende specielle Form annimmt:
+<c>(55) <i>T</i><do>2</do><i>g</i><do>2</do> = 26577 + 56,42. (<i>t</i><do>1</do> &2014; <i>t</i><do>2</do>) &2014; 0,0483. (<i>p</i><do>1</do> &2014; <i>p</i><do>2</do>).</c>
+Führt man mittelst dieser Gleichung die in §. 47 beschrie-
+bene successive Bestimmung von <i>t</i><do>2</do> aus, so erhält man
+der Reihe nach folgende Näherungswerthe:
+<c><i>t</i>&2032; = 133&00B0;,01
+<i>t</i>&2033; = 134 ,43
+<i>t</i>&2034; = 134 ,32
+<i>t</i>&2057; = 133 ,33.</c>
+Noch weitere Näherungswerthe würden sich nur noch in
+höheren Decimalen unterscheiden, und wir haben also, so-
+fern wir uns mit zwei Decimalen begnügen wollen, die
+letzte Zahl als den wahren Werth von <i>t</i><do>2</do> zu betrachten.
+Der dazu gehörige Druck ist:
+<c><i>p</i><do>2</do> = 2308,30.</c></p>
+<p>Wendet man diese Werthe von <i>V</i> und <i>p</i><do>2</do> zugleich mit
+den übrigen in §. 51 näher festgestellten Werthen auf die
+erste der Gleichungen (XVIII) an, so erhält man:
+<c><i>W</i> = 11960.</c>
+Die <g>Pambour&2019;s</g>che Gleichung (XII) giebt für dasselbe Vo-
+lumen 0,6 die Arbeit:
+<c><i>W</i> = 12520.</c></p>
+<bs>35 *</bs>
+<pb="548"/>
+<p>54. Um die Abhängigkeit der Arbeit vom Volumen,
+und zugleich den Unterschied, welcher in dieser Beziehung
+zwischen <g>Pambour&2019;s</g> und meiner Theorie herrscht, noch
+deutlicher erkennen zu lassen, habe ich dieselbe Rechnung,
+wie für das Volumen 0,6 auch für eine Reihe anderer in
+gleichen Abständen wachsender Volumina ausgeführt. Die
+Resultate sind in nachstehender Tabelle zusammengefaßt.
+Die erste horizontale Zahlenreihe, welche durch einen Strich
+von den anderen getrennt ist, enthält die für eine Maschine
+ohne schädlichen Raum gefundenen Werthe. Im Uebri-
+gen ist die Einrichtung der Tabelle leicht ersichtlich.</p>
+<tab>
+<p>Man sieht, daß die nach der <g>Pambour&2019;s</g>chen Theo-
+rie berechneten Arbeitsgrößen mit wachsendem Volumen
+schneller abnehmen, als die nach unseren Gleichungen be-
+rechneten, so daß sie, während sie anfangs beträchtlich
+größer sind, als diese, ihnen allmählich näher kommen,
+und zuletzt sogar kleiner werden. Dieses erklärt sich dar-
+aus, daß nach der <g>Pambour&2019;s</g>chen Theorie bei der wäh-
+rend des Einströmens stattfindenden Ausdehnung immer
+nur dieselbe Masse dampfförmig bleibt, welche es schon
+anfangs war; nach der unsrigen dagegen ein Theil der im
+flüssigen Zustande mitgerissenen Masse noch nachträglich
+verdampft, und zwar um so mehr, je größer die Ausdeh-
+nung ist.</p>
+<p>55. Wir wollen nun in ähnlicher Weise eine Ma-
+schine betrachten, welche <i>mit Expansion</i> arbeitet, und zwar
+wollen wir dazu eine Maschine mit Condensator wählen.</p>
+<pb="549"/>
+<p>In Bezug auf die Größe der Expansion wollen wir an-
+nehmen, daß der Abschluß vom Kessel erfolge, wenn der
+Stempel &frac13; seines Weges zurückgelegt hat. Dann haben
+wir zur Bestimmung von <i>e</i> die Gleichung:
+<formel>
+und daraus ergiebt sich, wenn wir für &03B5; den Werth 0,05
+beibehalten:
+<formel></p>
+<p>Der Druck im Kessel sey wie vorher zu 5 Atmosphären
+angenommen. Der Druck im Condensator kann bei guter
+Einrichtung unter 1/10 Atm. erhalten werden. Da er aber
+nicht immer so klein ist, und außerdem der Gegendruck
+im Cylinder den im Condensator stattfindenden Druck noch
+etwas übertrifft, so wollen wir für den mittleren Gegen-
+druck <i>p</i><do>0</do> in runder Zahl &frac15; Atm. oder 152<up>mm</up> annehmen,
+wozu die Temperatur <i>t</i><do>0</do> = 60&00B0;,46 gehört. Behalten wir
+endlich für <i>l</i> den vorher angenommenen Werth bei, so
+sind die in diesem Beispiele zur Anwendung kommenden
+Größen folgende:
+(56) <formel></p>
+<p>Es braucht nun, um die Arbeit berechnen zu können,
+nur noch der Werth von <i>V</i> gegeben zu werden. Um bei
+der Wahl desselben einen Anhalt zu haben, müssen wir
+zuerst den kleinstmöglichen Werth von <i>V</i> kennen. Dieser
+ergiebt sich ganz wie bei den Maschinen ohne Expansion
+dadurch, daß man in der zweiten der Gleichungen (XVII)
+<i>p</i><do>1</do> an die Stelle von <i>p</i><do>2</do> setzt, und ebenso die übrigen
+mit <i>p</i> zusammenhängenden Größen ändert. Man findet auf
+diese Weise für unseren Fall den Werth:
+<c>1,010.</c>
+Hiervon ausgehend wollen wir als erstes Beispiel anneh-
+<pb="550"/>
+men, die wirkliche Ganggeschwindigkeit der Maschine über-
+treffe die kleinstmögliche etwa im Verhältnisse von 3 : 2,
+indem wir in runder Zahl
+<c><i>V</i> = 1,5</c>
+setzen, und für diese Geschwindigkeit wollen wir die Ar-
+beit bestimmen.</p>
+<p>56. Zunächst müssen durch Einsetzung dieses Werthes
+von <i>V</i> in die beiden letzten der Gleichungen (XVII) die
+beiden Temperaturen <i>t</i><do>2</do> und <i>t</i><do>3</do> bestimmt werden. Die
+Bestimmung von <i>t</i><do>2</do> ist schon bei der Maschine ohne Con-
+densator etwas näher besprochen, und da sich der vorlie-
+gende Fall von jenem nur dadurch unterscheidet, daß die
+Größe <i>e</i>, welche dort gleich 1 gesetzt war, hier einen an-
+deren Werth hat, so will ich darauf nicht noch einmal
+eingehen, sondern nur das Endresultat anführen. Man
+findet nämlich:
+<c><i>t</i><do>2</do> = 137&00B0;,43.</c></p>
+<p>Die zur Bestimmung von <i>t</i><do>3</do> dienende Gleichung (49)
+nimmt für diesen Fall folgende Gestalt an:
+(57) <formel>
+Hieraus erhält man nach einander folgende Näherungs-
+werthe:
+<c><i>t</i>&2032; = 99&00B0;,24
+<i>t</i>&2033; = 101 ,93
+<i>t</i>&2034; = 101 ,74
+<i>t</i>&2057; = 101 ,76.</c>
+Den letzten dieser Werthe, von welchem die späteren nur
+noch in höheren Decimalen abweichen würden, betrachten
+wir als den richtigen Werth von <i>t</i><do>3</do>, und wenden ihn zu-
+sammen mit den bekannten Werthen von <i>t</i><do>1</do> und <i>t</i><do>0</do> auf
+die erste der Gleichungen (XVII) an. Dadurch kommt:
+<c><i>W</i> = 31080.</c></p>
+<p>Berechnet man unter Voraussetzung desselben Werthes
+von <i>V</i> die Abeit nach der <g>Pambour&2019;s</g>chen Gleichung (XII),
+wobei man aber die Werthe von <i>B</i> und <i>b</i> nicht, wie bei
+<pb="551"/>
+der Maschine ohne Condensator, aus der Gleichung (29<do><i>b</i></do>),
+sondern aus der für Maschinen mit Condensator bestimmten
+Gleichung (29<do><i>a</i></do>) entnehmen muß, so findet man:
+<c><i>W</i> = 32640.</c></p>
+<p>57. In derselben Weise, wie es für das Volumen 1,5
+hier angedeutet ist, habe ich auch für die Volumina 1,2,
+1,8 und 2,1 die Arbeit berechnet. Außerdem habe ich, um
+den Einfluß, welchen die verschiedenen Unvollkommen-
+heiten der Maschine auf die Größe der Arbeit ausüben,
+an einem Beispiele übersichtlich zusammenstellen zu können,
+noch folgende Fälle hinzugefügt.</p>
+<p>1) Den Fall einer Maschine, welche keinen schädlichen
+Raum hat, und bei welcher außerdem der Druck im Cy-
+linder während des Einströmens gleich dem im Kessel ist,
+und die Expansion so weit getrieben wird, bis der Druck
+von seinem ursprünglichen Werthe <i>p</i><do>1</do> bis <i>p</i><do>0</do> abgenommen
+hat. Dieses ist, wenn wir nur noch annehmen, daß <i>p</i><do>0</do>
+genau den Druck im Condensator darstelle, der Fall, auf
+welchen sich die Gleichung (XI) bezieht, und welcher für
+eine gegebene Wärmemenge, wenn auch die Temperaturen
+der Wärmeaufnahme und Wärmeabgabe als gegeben be-
+trachtet werden, die größtmögliche Arbeit liefert.</p>
+<p>2) Den Fall einer Maschine, bei welcher wieder kein
+schädlicher Raum vorkommt, und der Druck im Cylinder
+gleich dem im Kessel ist, aber die Expansion nicht wie
+vorher vollständig, sondern nur im Verhältnisse von <i>e</i> : 1
+stattfindet. Dieses ist der Fall, auf welchen sich die Glei-
+chung (X) bezieht, nur daß dort, um die Größe der Ex-
+pansion zu bestimmen, die durch die Expansion bewirkte
+Temperaturänderung des Dampfes als bekannt vorausgesetzt
+wurde, während hier die Expansion dem Volumen nach
+bestimmt ist, und die Temperaturänderung daraus erst be-
+rechnet werden muß.</p>
+<p>3) Den Fall einer Maschine mit schädlichem Raume
+und unvollständiger Expansion, bei welcher von den vori-
+gen günstigen Bedingungen nur noch die besteht, daß der
+Dampf im Cylinder während des Einströmens denselben
+<pb="552"/>
+Druck ausübt, wie im Kessel, so daß also das Volumen
+den kleinstmöglichen Werth hat.</p>
+<p>An diesen Fall schließen sich endlich die schon erwähn-
+ten an, in welchen auch die letzte günstige Bedingung fort-
+gefallen ist, indem das Volumen statt des kleinstmöglichen
+Werthes andere gegebene Werthe hat.</p>
+<p>Alle diese Fälle sind zur Vergleichung auch nach der
+<g>Pambour&2019;s</g>chen Theorie berechnet, mit Ausnahme des
+ersten, für welchen die Gleichungen (29<do><i>a</i></do>) und (29<do><i>b</i></do>) nicht
+ausreichen, indem selbst diejenige unter ihnen, welche für
+geringeren Druck bestimmt ist, doch nur bis zu &frac12; oder
+höchstens &frac13; Atm. abwärts angewandt werden darf, während
+hier der Druck bis zu &frac15; Atm. abnehmen soll.</p>
+<p>Die für diesen ersten Fall aus unseren Gleichungen
+hervorgehenden Zahlen sind folgende:
+<tab></p>
+<p>Für alle übrigen Fälle sind die Resultate in der nach-
+stehenden Tabelle zusammengefaßt, wobei wieder die auf
+die Maschine ohne schädlichen Raum bezüglichen Zahlen
+von den anderen durch einen Strich getrennt sind. Für
+das Volumen sind nur die nach der Expansion gültigen
+Zahlen angeführt, weil die Werthe vor der Expansion sich
+daraus von selbst ergeben, indem sie in allen Fällen in
+dem Verhältnisse von <i>e</i> : 1 kleiner sind.</p>
+<tab>
+<pb="553"/>
+<p>58. Die in dieser Tabelle angeführten Arbeitsgrößen,
+ebenso wie diejenigen der früheren Tabelle für die Ma-
+schine ohne Condensator, beziehen sich auf ein Kilogramm
+aus dem Kessel tretenden Dampfes. Man kann aber hier-
+nach die Arbeit auch leicht auf eine von der Wärmequelle
+gelieferte <i>Wärmeeinheit</i> beziehen, wenn man bedenkt, daß
+für jedes Kilogramm Dampf soviel Wärme geliefert werden
+muß, wie nöthig ist, um die Masse <i>l</i>, welche etwas größer
+als 1 Kilogrm. ist, von ihrer Anfangstemperatur, mit wel-
+cher sie in den Kessel tritt, bis zu der im Kessel selbst
+herrschenden Temperatur zu erwärmen, und bei dieser letz-
+teren ein Kilogramm in Dampf zu verwandeln, welche
+Wärmemenge sich aus den bisherigen Daten berechnen
+läßt.</p>
+<p>59. Zum Schluß muß ich noch einige Worte über
+die <i>Reibung</i> hinzufügen, wobei ich mich aber darauf be-
+schränken will, mein Verfahren, daß ich die Reibung in
+den bisher entwickelten Gleichungen ganz unberücksichtigt
+gelassen habe, zu rechtfertigen, indem ich zeige, daß man
+die Reibung, anstatt sie, wie es <g>Pambour</g> gethan hat,
+gleich in die ersten allgemeinen Ausdrücke der Arbeit mit
+einzuflechten, nach denselben Principien auch nachträglich
+in Rechnung bringen kann, was übrigens in gleicher Weise
+auch von anderen Autoren geschehen ist.</p>
+<p>Die Kräfte, welche die Maschine bei ihrem Gange zu
+überwinden hat, lassen sich folgendermaßen unterscheiden.
+1) Der Widerstand, welcher ihr von außen entgegengestellt
+wird, und dessen Ueberwindung die von ihr verlangte <i>nütz-
+liche</i> Arbeit bildet. <g>Pambour</g> nennt diesen Widerstand
+die <i>Belastung</i> (<i>charge</i>) der Maschine. 2) Die Widerstände,
+welche in der Maschine selbst ihren Grund haben, so daß
+die zu ihrer Ueberwindung verbrauchte Arbeit nicht äußer-
+lich nutzbar wird. Diese letzteren Widerstände fassen wir
+alle unter dem Namen der <i>Reibung</i> zusammen, obwohl
+außer der Reibung im engeren Sinne auch noch andere
+Kräfte unter ihnen vorkommen, besonders die Widerstände
+der zur Dampfmaschine gehörigen Pumpen, mit Ausnahme
+<pb="554"/>
+derjenigen, welche den Kessel speist, und welche im Frühe-
+ren schon mit betrachtet ist.</p>
+<p>Beide Arten von Widerständen bringt <g>Pambour</g> als
+Kräfte, welche sich der Bewegung des Stempels wider-
+setzen, in Rechnung, und um sie mit den Druckkräften
+des an beiden Seiten der Stempels befindlichen Dampfes
+bequem vereinigen zu können, wählt er auch die Bezeich-
+nung ähnlich, wie es beim Dampfdrucke geschieht, nämlich
+so, daß das Zeichen nicht die ganze Kraft, sondern den
+auf eine Flächeneinheit des Stempels kommenden Theil der-
+selben bedeutet. In diesem Sinne stelle der Buchstabe <i>R</i>
+die Belastung dar.</p>
+<p>Bei der Reibung muß noch ein weiterer Unterschied
+gemacht werden. Die Reibung hat nämlich nicht für jede
+Maschine einen constanten Werth, sondern wächst mit der
+Belastung. <g>Pambour</g> zerlegt sie daher in zwei Theile,
+den, welcher schon vorhanden ist, wenn die Maschine ohne
+Belastung geht, und den, welcher erst durch die Belastung
+hinzukommt. Von letzterem nimmt er an, daß er der Be-
+lastung proportional sey. Demgemäß drückt er die Rei-
+bung auf die Flächeneinheit bezogen durch
+<c><i>f</i> + <i>&03B4;</i> . <i>R</i></c>
+aus, worin <i>f</i> und <i>&03B4;</i> Größen sind, die zwar von der Ein-
+richtung und den Dimensionen der Maschine abhängen, aber
+für eine bestimmte Maschine nach <g>Pambour</g> als constant
+zu betrachten sind.</p>
+<p>Wir können nun die Arbeit der Maschine statt wie
+bisher auf die <i>treibende</i> Kraft des Dampfes, auch auf diese
+<i>widerstehenden</i> Kräfte beziehen, denn die von diesen gethane
+negative Arbeit muß gleich der von jener gethanen posi-
+tiven seyn, weil sonst eine Beschleunigung oder Verzöge-
+rung des Ganges eintreten würde, was der gemachten Vor-
+aussetzung, nach welcher der Gang gleichmäßig seyn soll,
+widerspricht. Die Stempelfläche beschreibt, während eine
+Gewichtseinheit Dampf in den Cylinder tritt, den Raum
+(1 &2014; &03B5;) <i>V</i>, und man erhält daher für die Arbeit <i>W</i> den
+Ausdruck:
+<pb="555"/>
+<formel>
+Der <i>nutzbare</i> Theil dieser Arbeit dagegen, welcher zum
+Unterschiede von der ganzen Arbeit mit (<i>W</i>) bezeichnet
+werden möge, wird durch den Ausdruck:
+<formel>
+dargestellt. Eliminirt man aus dieser Gleichung vermittelst
+der vorigen die Größe <i>R</i>, so kommt:
+(58) <formel>
+Mit Hülfe dieser Gleichung kann man, da die Größe <i>V</i> als
+bekannt vorauszusetzen ist, aus der ganzen Arbeit <i>W</i> die
+nützliche Arbeit (<i>W</i>) ableiten, sobald die Größen <i>f</i> und <i>&03B4;</i>
+gegeben sind.</p>
+<p>Auf die Art, wie <g>Pambour</g> diese letzteren bestimmt,
+will ich hier nicht eingehen, da diese Bestimmung noch
+auf zu unsicheren Grundlagen beruht, und die Reibung
+überhaupt dem eigentlichen Gegenstande dieser Abhandlung
+fremd ist.</p>
+<p>Tabelle enthaltend die für den Wasserdampf geltenden Werthe des
+Druckes <i>p</i>, seines Differentialcoëfficienten <formel> und des Pro-
+ductes <i>T.g</i> in Millimetern Quecksilber ausgedrückt.</p>
+<tab>
+<pb="556"/>
+<tab>
+<pb="557"/>
+<tab>
+<pb="558"/>
+<tab>
+<hr>

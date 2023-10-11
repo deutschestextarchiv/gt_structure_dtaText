@@ -1,0 +1,2490 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><aq><g><k>Johanni&sr; Angeli</k></g></aq>
+und
+<aq><g><k>Georgii Josephi</k></g></aq>
+Vierdter Theil
+Der Heistlichen
+<b><in>H</in>irten-<in>L</in>ieder/
+zu der verliebten</b> <aq>Psyche</aq>
+gehörig.
+<fr>Bestehende in allerhand
+Schönen Anmutungen und neuen
+Melodeyen.</fr>
+<hr>
+Breßlaw/ drukt&sr; Gottfried Gründer
+Baumannischer <aq>Factor.</aq></front>
+<pb>
+<ded><c><b><g>MARJE</g></b>
+Der glorwürdigsten Königin deß Reich&sr;
+der Himmel/
+Der außerwehlten Gebärerin
+der ewigen Liebe/
+Der allertreuesten Liebhaber in und groß-
+mächtigsten Beförderin derer in jhren
+Sohn verliebten Hertzen/
+Seiner ersten und höchsten zuversichtigen
+Patronin beym hi&tm;lischen
+Hofe/
+überreichet
+auß schuldiger Pflicht und Ehrerbitigkeit gegen
+seine grosse und gütigste Frau/
+<fr>Diesen Vierdten Theil seiner
+Hirten-Lieder/</fr>
+Der/
+wie jhrem Sohne/ also auch jhr dessen allerwürdigsten
+Jungfrauen Mutter
+mit ewiger Liebe verbundener und zugethaner
+unwürdigster
+<aq>Johanne&sr; Angelu&sr;.</aq></c></ded>
+<pb="1"/>
+<d1><aq>J. Angeli Silesii</aq>
+<fr>Vierdte&sr; Buch</fr>
+<b>der geistlichen Hirten-Lieder.</b></d1>
+<d2>Da&sr; Erste.
+<b>Lob der H. Jungfrauen Marie.</b></d2>
+<abb>
+@<p>Dich Mutter GOtte&sr; loben wir/
+dich ehrn wir Jungfraw für und für: dir al&sr;
+<bs>A</bs><cw>deß</cw>
+<pb="2"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+deß Heilgen Gei ste&sr; Braut/ wird al le Welt
+voll Ruhm&sr; geschaut: Dir dienen alle Himmel&sr;-
+Helden/ die Thronen stehn für deinem Thror/
+<cw>von</cw>
+<pb="3"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+von deiner Pracht und deiner Kron/ die Fürsten mit Ver-
+wundrung melden.</p>
+<pt>1.</pt>
+<pv><in>D</in>Jch Mutter Gotte&sr; loben wir/
+Dich ehrn wir Jungfrau für und für:
+Dir al&sr; deß Heilgen Geiste&sr; Braut
+Wird alle Welt voll Ruhm&sr; geschaut:
+Dir dienen alle Himmel&sr;-Helden/
+Die Thronen stehn für deinem Thron/
+Von deiner Pracht und deiner Kron
+Die Fürsten mit Verwundrung melden.</pv>
+<bs>A ij</bs><cw>2. Auff</cw>
+<pb="4"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>2.</pt>
+<pv>Auff dich schaun alle Cherubin/
+Dir singen alle Seraphin:
+Sie schreyen sämptlich/ heilig ist
+Die Gott zur Mutter hat erkiest:
+Deß Himmel&sr; Hof/ der Kreiß der Erden/
+Sind beyde voller Her&rr;ligkeit
+Der Edlen Frucht/ die in der Zeit
+Auß dir hat wolln geboren werden.</pv>
+<pt>3.</pt>
+<pv>Dich lobet der Apostel Chor/
+Dich hebt der Märtrer Schaar empor:
+Dich rühmet der Propheten Mund/
+Und der Bekenner offner Grund:
+Dich preisen selig die Jungfrauen/
+Dir sind die Heilgen all&2019; in Freud:
+Dich bitt die gantze Christenheit
+Und hat zu dir ein groß Vertrauen.</pv>
+<pt>4.</pt>
+<pv>Du bist die Himmel&sr;-Königin/
+Der Majestät Gebärerin:
+Du bist deß Schöpffer&sr; Ruhm und Zier/
+Du bist deß Paradise&sr; Thür:
+<cw>Du</cw>
+<pb="5"/>
+<kt>Vierdte&sr; Buch.</kt>
+Du bist deß Höchsten Lust und Leben/
+Ein Tempel der Dreyfaltigkeit;
+Durch dich wird un&sr; Barmhertzigkeit
+Von Gott erzeiget und gegeben.</pv>
+<pt>5.</pt>
+<pv>Du bist deß ewgen Gott&sr; Gezelt/
+Bist die Beher&rr;scherin der Welt:
+Du bist der ewgen Sonnen Both&2019;
+Und aller Seelen Trost nach Gott:
+Du bist der Teuffel Furcht und Schrekken/
+Du stehst den Kranken heilsam bey/
+Du machst gewaltig quit und frey
+Die in Gefahr deß Tode&sr; stekken.</pv>
+<pt>6.</pt>
+<pv>Du hochgebenedeyte&sr; Weib
+Empfingest Gott in deinem Leib/
+Daß unser menschliche&sr; Geschlecht
+Zur Himmel&sr;-Erbschafft hätte Recht:
+Durch dich ist un&sr; der Himmel offen/
+Du stehst nächst deinem lieben Sohn
+Zur Rechten bey deß Vater&sr; Thron/
+Von dannen wir jhn wieder hoffen.</pv>
+<pt>7.</pt>
+<pv>Drumb bitten wir dich grosse Frau
+Ko&tm; un&sr; zu Hülff von&sr; Himmel&sr; Bau;
+<bs>A iij</bs><cw>Hilff</cw>
+<pb="6"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Hilff un&sr; die durch dein&sr; Sohne&sr; Blut
+Erkauffet seynd zu seinem Gut:
+Hilff un&sr; in&sr; ewge Leben reisen/
+Mach un&sr; durch dein Kind Jesum heil/
+Daß wir an jhme haben Theil/
+Und jhn mit dir ohn Ende preisen.</pv>
+<d2>Da&sr; Andre.
+<b>Lob deß Heilgen Johanne&sr;</b>
+deß Evangelisten.</d2>
+<abb>
+@<p>Du Ed ler Jüngling mein Patron/
+Johanne&sr; welchen Gotte&sr; Sohn so zärtlich hat
+<cw>geliebet:</cw>
+<pb="7"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+ge liebet: Dich zu verehrn soll jetzt mein Mund
+die grosse Gütte machen kund/ die GOtt an dir
+ver- ü- bet.</p>
+<bs>A j@</bs><cw>1. Du</cw>
+<pb="8"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>1.</pt>
+<pv><in>D</in>U Edler Jüngling mein Patron
+Johanne&sr; welchen Gotte&sr; Sohn
+So zärtlich hat geliebet:
+Dich zu verehrn soll jetzt mein Mund
+Die grosse Gütte machen kund/
+Die Gott an dir geübet.</pv>
+<pt>2.</pt>
+<pv>Mein Heiland der Bethlemer Held
+Rieff dich gantz kräfftig von der Welt;
+Jn deiner Jahren Blüte:
+Du folgtest auch bald wie ein La&tm;/
+Wie eine Braut dem Bräutigam/
+Und tratst in seine Tritte.</pv>
+<pt>3.</pt>
+<pv>Die Jungfräuliche Reinigkeit/
+Und&sr; unbeflekte Seiden-Kleid
+Mit dem du warst umbgeben/
+Hat jhm so wol an dir gefalln/
+Daß er dich lieb gehabt für alln
+Jn seinem gantzen Leben.</pv>
+<pt>4.</pt>
+<pv>Du lagest offt mit seelger Lust
+An deine&sr; Meister&sr; süssen Brust/
+<cw>Und</cw>
+<pb="9"/>
+<kt>Vierdte&sr; Buch.</kt>
+Und warst von jhm umbfangen;
+Dein Hertz zerfloß ob dieser Gunst/
+Der Geist verbrandt&2019; in keuscher Brunst/
+Ein End hätt&2019; all&sr; verlangen.</pv>
+<pt>5.</pt>
+<pv>Daher bist du auch so geschwind
+Ein Feuer-flammend&sr; Donner-Kind
+Der ewgen Liebe worden:
+Dein Hertze war von Jesu reich/
+Von jhm war&sr; noch auff Erden gleich
+Dem Seraphiner Orden.</pv>
+<pt>6.</pt>
+<pv>Dich nahm er mit sich auff die Höhn
+Da er verkläret wolte stehn/
+Und seine Wonne zeigen:
+Du sahst sein Antlitz wie den Blitz/
+Sein Kleid wie Schnee/ wenn Carmel&sr; Spitz
+Der Sonnen Strahln besteigen.</pv>
+<pt>7.</pt>
+<pv>Du hast&sr; auch al&sr; ein treuer Freind
+Hinwiederumb mit jhm gemeint/
+Und jhn nicht schlecht wolln lieben:
+Du bist in allem Hohn und Spott/
+Jn allem Leiden biß in Tod/
+Bey jhme stehen blieben.</pv>
+<bs>A v</bs><cw>8. Dich</cw>
+<pb="10"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>8.</pt>
+<pv>Dich hat er so vertraut geliebt
+Daß er dir seine Mutter gibt/
+Da er am Creutz muß sterben;
+Dich hat er jhr al&sr; einen Sohn
+Da er für un&sr; gemust darvon/
+Verlassen wolln zum Erben.</pv>
+<pt>9.</pt>
+<pv>Drauff hast du deinen feurgen Mut
+Gleich wie ein schneller Adler thut/
+Durch da&sr; Gewölk geschwungen:
+Du hast dich über Zeit und Ort
+Jn Gott&sr; Geburt/ in&sr; ewge Wort/
+Jn&sr; tunkel eingedrungen.</pv>
+<pt>10.</pt>
+<pv>Du hast mit dir herab gebracht/
+Da&sr; alle&sr; ist durch&sr; Wort gemacht/
+Und all&sr; vonjhm herrühret:
+Du hast gelüklich angeschaut
+Die neue Stadt deß Lamme&sr; Braut/
+Wit sie ist außstaffieret.</pv>
+<pt>11.</pt>
+<pv>Jetzt lebst du drinn und bist darzu
+Jn ewger Lust und ewger Ruh
+<cw>Von</cw>
+<pb="11"/>
+<kt>Vierdte&sr; Buch.</kt>
+Von Jesu Lieb ertrunken:
+Du schwimmst im Meere seiner Freud&2019;
+Und bist im Strom der Her&rr;ligkeit
+Gantz seliglich versunken.</pv>
+<pt>12.</pt>
+<pv>O Edler Jüngling schau auch an
+Die dir in Gott seynd zugethan/
+Die dich und Jesum lieben:
+Denk auch an un&sr;/ hilff un&sr; behend/
+Daß wir beständig biß an&sr; End
+Die Liebe Gotte&sr; üben.</pv>
+<d2>Da&sr; Dritte.
+<b>Lob der Heiligen Marie</b>
+Magdalene.</d2>
+<abb>
+@<p>Du Welt-berühmte Büsserin Maria
+<cw>Magda-</cw>
+<pb="12"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+Magdalene/ dir ist jetzund mein Geist und Sinn
+bedacht auff ein Gethöne: Du süsse Freundin
+mei ne&sr; HEr&rr;n/ dich wil ich jetzt be sin gen/
+<cw>und</cw>
+<pb="13"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+und dir zu Ehren weit und fern ein Lobe-
+Lied er klin gen.</p>
+<pt>1.</pt>
+<pv><in>D</in>U Welt-berühmte Büsserin
+Maria Magdalene/
+Dir ist jetzund mein Geist und Sinn
+Bedacht auff ein Gethöne:
+Du süsse Freundin meine&sr; HEr&rr;n/
+Dich wil ich jetzt besingen/
+Und dir zu Ehren weit und fern/
+Ein Lobe-Lied erklingen.</pv>
+<cw>2. Die</cw>
+<pb="14"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>2.</pt>
+<pv>Die Christenheit verwundert sich
+Ob deiner tieffen Busse/
+Daß du so frey und offentlich
+Dem HErren fielst zu Fusse;
+Du kamst mit einem Helden-Mut
+Erlassung deiner Sünden/
+Für allem Volk beym höchsten Gut
+Zu suchen und zu finden.</pv>
+<pt>3.</pt>
+<pv>Wie wol ist&sr; deiner Thränen Fluß
+Und deinen Haarn gelungen!
+Wie wol hat dein zerknirschter Kuß
+Die ewge Lieb bezwungen!
+Du hörtest bald da&sr; süsse Wort
+Dir ist die Sünd vergeben/
+Steh auff und geh im Frieden fort
+Zu einem neuen Leben.</pv>
+<pt>4.</pt>
+<pv>So lange Christu&sr; bleibt bekand/
+So lang wird man auch preisen
+Die Kosten die du angewand
+Jhm deine Lieb zu weisen.
+<cw>Der</cw>
+<pb="15"/>
+<kt>Vierdte&sr; Buch.</kt>
+Der Balsam den du auff sein Haar
+So reichlich hast gegossen/
+Ko&tm;t durch die werthe Christen-Schaar
+Mit höchstem Ruhm geflossen.</pv>
+<pt>5.</pt>
+<pv>Du hast erwehlt den besten Theil
+Bist still bey jhm gesessen/
+Und in gantz seelger muß und weil
+Da&sr; Wort deß Leben&sr; gessen:
+Du lieffst jhm nach da er mit Spott
+Zur Stadt ward auß getrieben/
+Und bist beständig biß in Tod
+Bey seinem Creutz geblieben.</pv>
+<pt>6.</pt>
+<pv>Drumb hat er auch dein Angesicht
+Zum ersten wolln erquikken;
+Und dir sein aufferstandne&sr; Licht
+Verliehen anzublikken;
+Du hast (O grosse Gnad und Gunst!)
+Den liebsten HEr&rr;n gefunden/
+Da du vermeynst e&sr; wär umbsonst/
+Er wär in Tod verschwunden.</pv>
+<cw>7. Drauff</cw>
+<pb="16"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>7.</pt>
+<pv>Drauff hat er dich ohn Spei&sr; und Trank
+Durch dreissig Jahr ernähret/
+Und offt mit Englischem Gesang
+Deß anschaun&sr; Gott&sr; gewehret:
+Er ist auch selbst voll Freundligkeit
+Persönlich zu dir kommen;
+Biß er dich in die ewge Freud
+Auß deinem Leib genommen.</pv>
+<pt>8.</pt>
+<pv>O werthe Freundin sih mich an
+Und laß auch mich&sr; geniessen;
+Hilff mir daß ich auch Jesum kan
+Mit meinen Zährn begiessen:
+Erwirb mir wahre Lieb und Treu/
+Und Buss&2019; ob meinen Sünden/
+Auff daß ich möge quitt und frey
+Den ewgen Frieden finden.</pv>
+<cw>Da&sr;</cw>
+<pb="17"/>
+<kt>Vierdte&sr; Buch.</kt>
+<d3>Da&sr; Vierdte.
+<b>Die <aq>Psyche</aq> beweinet jhre Sünden.</b></d3>
+<abb>
+@<p>Ach web/ ach weh wo soll ich hin für meinen
+Wo wird mein Geist und todter Sinn da&sr; Leben
+grossen Sünden! Wer gibt mir ei ne Thränen-Flut/
+wieder finden!
+daß ich mein Leid be- weine? Wer glüt mein Hertz
+<bs>B</bs><cw>mit</cw>
+<pb="18"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+mit Kraft und Glut/ und macht mich wieder reine.</p>
+<pt>1.</pt>
+<pv><in>A</in>Ch weh/ ach weh wo soll ich hin/
+Für meinen grossen Sünden!
+Wo wird mein Geist und todter Sinn
+Da&sr; Leben wieder finden!
+Wer gibt mir eine Thränen-Flut/
+Daß ich mein Leid beweine?
+Wer glüt mein Hertz mit Krafft und Glut/
+Und macht mich wieder reine.</pv>
+<pt>2.</pt>
+<pv>Jch hab deß Schöpffer&sr; schönste&sr; Bild
+Mein&2019; arme Seel beflekket;
+Und seiner Gleichnüß besten Schild
+Jn Koth und Schlam gestekket!
+Jch hab mich von der Her&rr;ligkeit
+Jn Schmach und Spott gefället!
+Ach weh! ach weh! O Hertzeleid/
+Daß ich mich so verstellet!</pv>
+<cw>3. Ach</cw>
+<pb="19"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>3.</pt>
+<pv>Ach weh ich habe mich von Gott
+Dem höchsten Gut gewendet!
+Und zu der Sünd dem höchsten Tod
+Gantz thöricht angelendet!
+Jch hab jhn nicht wie ich gesolt
+Von Hertzen-Grund geliebet/
+Und jhm zu Lob wie er gewolt
+Mich nicht sehr streng geübet.</pv>
+<pt>4.</pt>
+<pv>Jch hab dem HEr&rr;n der Her&rr;ligkeit
+Sehrlau und kalt gedienet!
+Und jhm durch meine gantze Zeit
+Mit schlechter Treu gegrünet!
+Jch hab nicht acht auff jhn gehabt/
+Nicht wie ein Knecht geehret;
+Noch auch mit dem er mich begabt/
+Sein schöne&sr; Pfund vermehret!</pv>
+<pt>5.</pt>
+<pv>Jch hab wie ein verstokte&sr; Kind
+Den Vater (Ach!) verlassen!
+Und bin gerennet wild und blind
+Auff meiner Boßheit Gassen:
+<bs>B ij</bs><cw>Jch</cw>
+<pb="20"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Jch habe meine Pflicht und Schuld
+Jhm (leider!) nicht erzeiget;
+Noch für der väterlichen Huld
+Mich nach Gebühr geneiget!</pv>
+<pt>6.</pt>
+<pv>Jch habe meinem besten Freund
+Die Freundschafft auffgesaget;
+Und jhn wie treu er&sr; auch gemeynt/
+Von mir hinweg gejaget!
+Jch habe mich zum Feind gewendt/
+Und bin sein Schlave worden:
+Zum Feind/ der mich doch hat behend
+Auff ewig wolln ermorden.</pv>
+<pt>7.</pt>
+<pv>Jch habe meinen Bräutigam
+Der mich jhm außerkoren;
+Mein&sr; Hertzen&sr; Schatz da&sr; Gotte&sr; La&tm;/
+Elendiglich verloren!
+Jch hab deß Schönsten Angesicht/
+Deß Liebsten Kuß verschertzet;
+Jch habe meine&sr; Leben&sr; Licht
+(O tausend Weh) verstertzet!</pv>
+<cw>8. Otau-</cw>
+<pb="21"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>8.</pt>
+<pv>O tausend Weh/ O todte Lust/
+Wie hast du mich vernichtet!
+O Eitelkeit/ O Sünden Wust!
+Wie bin ich zugerichtet!
+Du du O Sünd/ O Seelen Tod/
+Hast mich mir selbst genommen!
+Durch dich bin ich umb Vater/ Gott/
+HEr&rr;n/ Freund und Bräutgam kommen!</pv>
+<pt>9.</pt>
+<pv>Ach ist auch jrgend&sr; eine Pein
+Die meiner gleich zu schätzen?
+Kan auch ein eintzig&sr; Ubel seyn/
+Da&sr; neben mein&sr; zu setzen?
+Gott ist für mich auß blosser Huld
+An&sr; Creutze&sr; Sta&tm; gestorben;
+Und ich hab mich auß eigner Schuld
+Doch wiederumb verdorben.</pv>
+<pt>10.</pt>
+<pv>Wem soll ich nu mein Hertzeleid
+Und grossen Jammer klagen?
+Wem soll ich meine Traurigkeit
+Und ewgen Schaden sagen!
+<bs>B iij</bs><cw>Jch/</cw>
+<pb="22"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Jch/ ich bin selbst mein Seelen-Gifft/
+Mein Tod und Feind gewesen;
+Jch hab mir selbst wa&sr; mich jetzt trifft
+Da&sr; Ubel außerlesen.</pv>
+<pt>11.</pt>
+<pv>O ewge Güt/ O grosser Gott/
+Zu dir wend&2019; ich mich wieder;
+Dir klag ich meine&sr; Hertzen&sr; Noth/
+Für dir werff&2019; ich mich nieder:
+Dir ruff ich zu/ dich schrey ich an/
+Umb Ablaß meiner Sünden;
+Du bist allein der helffen kan/
+Und mich vom Tod entbinden.</pv>
+<pt>12.</pt>
+<pv>E&sr; ist mir leid wa&sr; ich gethan/
+Und wa&sr; ich miß gehandelt:
+E&sr; reut mich daß ich auff der Bahn
+Der Sünder hab gewandelt:
+Ach daß ich doch mein Angesicht
+Von dir je abgewendet!
+Und auff die Creatur mein Licht
+So sündig angelendet!</pv>
+<cw>13. E&sr;</cw>
+<pb="23"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>13.</pt>
+<pv>E&sr; ist mir leid/ ich bin nicht werth
+Dein Antlitz zu erblikken;
+Jch bin nicht werth daß mich die Erd
+Erduldt auff jhrem Rükken:
+Jedoch vergib/ schrey ich zu dir/
+Vergib O grosse Gütte/
+Vergib/ vergib/ vergib e&sr; mir
+O gnädige&sr; Gemütte.</pv>
+<pt>14.</pt>
+<pv>Du bist ja huldreich/ gut und mild/
+Barmhertzig und gelinde;
+Du wirst ja deiner Gottheit Bild
+Nicht lassen in der Sünde!
+Wer wird dich loben in dem Pful?
+Wer in dem Abgrund preisen?
+Wer Opffer bringen deinem Stul
+Und eingen Dienst erweisen?</pv>
+<pt>15.</pt>
+<pv>So du wilst in&sr; Gerichte gehn/
+Und nach den Thaten sprechen;
+Wer ist der für dir wird bestehn/
+Und sich dem Zorn entbrechen?
+<bs>B j@</bs><cw>Die</cw>
+<pb="24"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Die Himmel sind nicht rein für dir/
+Und deine Heilgen alle:
+Vielmehr der Mensch da&sr; Sünden-Thier/
+Der so geneigt zum Falle.</pv>
+<pt>16.</pt>
+<pv>Schauan schau deinen eingen Sohn/
+Der meine Schwachheit träget:
+Der meine Pein und Sünden Lohn
+Jhm selbst hat auffgeleget:
+Schau wie er an deß Creutze&sr; Sta&tm;
+Für mich ist angeschlagen;
+Und al&sr; ein treuer Bräutigam/
+So liebreich sich läst plagen.</pv>
+<pt>17.</pt>
+<pv>Wa&sr; wilt du mehr die Sünd&2019; ist hin
+Die Schulden seynd bezahlet;
+Verändert ist mein Hertz und Sinn/
+Sein Blut hat mich bemahlet:
+Jch bin nun Freund/ ich bin nun Kind/
+Jch bin nun neugeboren;
+E&sr; sauset nun sein&sr; Geiste&sr; Wind
+Jn meine&sr; Hertzen&sr; Ohren.</pv>
+<cw>18. Hin-</cw>
+<pb="25"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>18.</pt>
+<pv>Hinfüro werd&2019; ich nimmermehr
+Auß deinen Wegen schreiten;
+Jch werde deine&sr; Nahmen&sr; Ehr
+Durch alle Welt außbreiten:
+Jch wil dich lieben über mich;
+Jch wil mein Leib und Leben
+Zu deinem Lobe williglich
+So offt du wilt auffgeben.</pv>
+<d2>Da&sr; Fünffte.
+<b>Sie weiset die Seele in die</b>
+Wunden Christi.</d2>
+<abb>
+@<p>Ach wa&sr; lauffst du hin und her/
+<aq>tard&00E8;.</aq>
+<bs>B r</bs><cw>über</cw>
+<pb="26"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+über Land und über Meer? Geh doch ein O arme
+Seele/ in dein&sr; Hirten&sr; offne Höle/ nihm in
+Christi Wunden Ruh/ du verjr&rr;te&sr; Schäflein du.</p>
+<cw>1. Ach</cw>
+<pb="27"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>1.</pt>
+<pv><in>A</in>Ch wa&sr; lauffst du hin und her;
+Uber Land und über Meer?
+Geh doch ein O arme Seele
+Jn dein&sr; Hirten&sr; offne Höle;
+Nihm in Christi Wunden Ruh/
+Du verjr&rr;te&sr; Schäflein du.</pv>
+<pt>2.</pt>
+<pv>Seine Wunden sind die Stadt/
+Da man Schutz und Freyheit hat;
+Seine Wunden sind die Graben/
+Die wir für die Wölffe haben:
+Seine Wunden sind der Port/
+Da kein Unfall wird erhort.</pv>
+<pt>3.</pt>
+<pv>Seine Wunden sind allzeit
+Voller Trost und Süssigkeit;
+Seine Wunden sind die Bronnen
+Da da&sr; Heil ko&tm;t rauß geronnen:
+Seine Wunden sind der Fluß
+Der un&sr; tränkt mit ewgem Kuß.</pv>
+<pt>4.</pt>
+<pv>Seine Wunden sind da&sr; Feld/
+Da&sr; am besten ist bestellt;
+Seine Wunden sind die Matten/
+Die für andren haben Schatten:
+<cw>Seine</cw>
+<pb="28"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Seine Wunden geben Lust/
+Und erquikken Hertz und Brust.</pv>
+<pt>5.</pt>
+<pv>Seine Wunden sind die Au
+Voll vombesten Himmel&sr;-Thau/
+Seine Wunden sind die Weide
+Voller Blumen/ voller Freude:
+Sie erfülln und machen satt
+Wer nur ko&tm;t und Hunger hat.</pv>
+<pt>6.</pt>
+<pv>Ey so gehe doch hinein
+Du verarmte&sr; Schäfelein:
+Laß die Welt und jhren Hauffen
+Jmmer in der jrre lauffen;
+Eile Christi Wunden zu/
+Und begib dich da zur Ruh.</pv>
+<d2>Da&sr; Sechste.
+<b>Die <aq>Psyche</aq> verlässet die Begier aller</b>
+Dinge/ daß sie sich mit Jesu <aq>A</aq>llein ergetzen
+möge.</d2>
+<abb>
+@<p><aq>Psyche</aq> die verliebte Seele weil sie ket ner
+Noch im Feld noch in der Höle jhr ohn JEsu
+<pb="29"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+wahren Lust Nahm von ol lem Urlaub
+war be wust:
+frey/ und ver ließ die Schäfferey.</p>
+<pt>1.</pt>
+<pv><aq><in>P</in>Syche</aq> die verliebte Seele
+Weil sit keiner wahren Lust
+Noch im Feld noch in der Höle/
+Jhr ohn Jesu war bewust:
+<cw>Nahm</cw>
+<pb="30"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Nahm von allem Urlaub frey/
+Und verließ die Schäfferey.</pv>
+<pt>2.</pt>
+<pv>Gute Nacht jhr grüne Matten/
+Gute Nacht du bundte&sr; Feld:
+Gute Nacht jhr kühle Schatten/
+Sprach sie/ und du gantze Welt:
+Gute Nacht du süsser Bach
+Denn ich folge Jesu nach.</pv>
+<pt>3.</pt>
+<pv>Gute Nacht jhr Schäfferinnen
+Meine Nachbarn liebe Schaar:
+Lebet wol/ ich muß von hinnen/
+Und euch lassen gantz und gar:
+Gute Nacht jhr Schäffelein/
+Und wa&sr; mich gekönt erfreun.</pv>
+<pt>4.</pt>
+<pv>Keine Noth ist zwar verhanden/
+Keine Mißgunst jagt mich fort:
+So ist auch kein Krieg entstanden
+Zwischen un&sr; ob diesem Ort:
+Bloß allein mein Bräutigam
+Macht mich lassen alle&sr;sam.</pv>
+<cw>5. Denn</cw>
+<pb="31"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>5.</pt>
+<pv>Denn ich kan nicht mehr so leben/
+Biß ich mein Gemüt und Sinn
+Jesu gantz hab übergeben/
+Und nur sein alleine bin:
+Gute Nacht/ gehabt euch wol/
+Jch bin Lieb&2019; und Freyheit voll.</pv>
+<pt>6.</pt>
+<pv>Folgt mir nach jhr Schäfferinnen
+Wo jhr gantz wolt Gotte&sr; seyn:
+Opffert euer Hertz und Sinnen
+Eurem Bräutigam allein:
+Folgt mir/ schrye sie/ folgt mir nach/
+Biß sie jhnen gantz entbrach.</pv>
+<d2>Da&sr; Siebende.
+<b>Sie gibt Bericht wo JEsu&sr;</b>
+anzutreffen sey.</d2>
+<abb>
+@<p><aq>presto.</aq>
+Wolt jhr den HErren finden/ so sucht jhn weil e&sr; Zeit:
+Wolt jhr den Bräutgam bind&te;/ so thut&sr; weil er&sr; verleiht:
+<cw>Wolt</cw>
+<pb="32"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Wolt jhr die Kron empfan gen/ so rennet
+nach dem Ziel: Wer viel meynt zu erlangen/ der sucht
+und müht sich viel.</p>
+<cw>1. Wolt</cw>
+<pb="33"/>
+<kt>Vierdte&sr; Buch</kt>
+<pt>1.</pt>
+<pv><in>W</in>Olt jhr den HErren finden/
+So sucht jhn weil e&sr; Zeit:
+Wolt jhr den Bräutgam binden/
+So thut&sr; weil er&sr; verleiht:
+Wolt jhr die Kron empfangen
+So rennet nach dem Ziel:
+Wer viel meint zu erlangen/
+Der sucht und müht sich viel.</pv>
+<pt>2.</pt>
+<pv>Sucht jhn mit Kind&sr;-Geberden
+Jm Kriplein auff dem Heu:
+Denn wer kein Kind wil werden/
+Der geht jhn strak&sr; vorbey:
+Sucht jhn den reinen Knaben/
+Jn der Jungfrauen Schoß:
+Denn wer diß Gold wil haben
+Muß seyn von Keuschheit groß.</pv>
+<pt>3.</pt>
+<pv>Sucht jhn soll er sich zeigen/
+Jm Straß-Weg der Geduld/
+Wer meyden kan und schweigen/
+Der findet seine Huld:
+<bs>C</bs><cw>Sucht</cw>
+<pb="34"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Sucht jhn in Wüsteneyen
+Und Abgeschiedenheit:
+Die mit der Welt sich freuen/
+Die fehlen seiner weit.</pv>
+<pt>4.</pt>
+<pv>Sucht jhn in Creutz und Leiden/
+Jn Trübsal und Elend:
+Denn durch der Wollust Freuden
+Wird man von jhm getrennt;
+Sucht jhn wo er im Grabe
+Der Welt gestorben ist:
+Denn wer nicht allm stirbt abe
+Wird nicht von jhm erkiest.</pv>
+<pt>5.</pt>
+<pv>Sucht jhn im Himmel droben
+Jm Chor der Seraphim;
+Denn die jhn liebend loben
+Sind nicht sehr weit von jhm:
+Sucht jhn in eurem Hertzen
+Mit tieffer Jnnigkeit:
+So werdt jhr quitt von Schmertzen
+Jetzt und in Ewigkeit.</pv>
+<cw>Da&sr;</cw>
+<pb="35"/>
+<kt>Vierdte&sr; Buch.</kt>
+<d2>Da&sr; Achte.
+<b>Sie erzehlet wie jhr Freund</b>
+gestalt ist.</d2>
+<abb>
+@<p>Jhr Schäfferinnen die jhr bald wolt wissen
+wie mein Freund gestalt/ ko&tm;t trättet her in
+einem Rei- den/ ich wil&sr; euch sag&te; und erfreuen.</p>
+<bs>C ij</bs><cw>1. Jhr</cw>
+<pb="36"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>1.</pt>
+<pv><in>J</in>Hr Schäfferinnen die jhr bald
+Wolt wissen wie mein Freund gestalt/
+Ko&tm;t trättet her in einem Reihen/
+Jch wil&sr; euch sagen und erfreuen.</pv>
+<pt>2.</pt>
+<pv>Mein Freund ist wie ein Röselein/
+Wolriechend/ schön/ außbündig fein;
+Jst mit deß Himmel&sr; Thau begossen/
+Viel Dornen haben jhn umbschlossen.</pv>
+<pt>3.</pt>
+<pv>Mein Freund ist wie ein Täubelein
+Sanfftmütig/ liebreich/ weiß und rein;
+Betrübt niemand/ erfreuet alle/
+Jst ohne Falsch/ hat keine Galle.</pv>
+<pt>4.</pt>
+<pv>Mein Freund ist wie ein Lämmelein
+Da&sr; nie kan ungeduldig seyn:
+Huldseelig/ sittsam an Geberden/
+Jst er für allen auff der Erden.</pv>
+<pt>5.</pt>
+<pv>Mein Freund ist wie der Morgen-Stern/
+Der sehr erfreulich leucht von fern:
+<cw>Ergö-</cw>
+<pb="37"/>
+<kt>Vierdte&sr; Buch.</kt>
+Ergötzend ist sein Angesichte/
+Für aller andern Sternen Lichte.</pv>
+<pt>6.</pt>
+<pv>Mein Freund ist wie der Sonnen Glantz/
+Wenn sie die Welt bescheinet gantz:
+Er kan mit seiner Augen Strahlen
+Ein Licht in Leib und Seele mahlen.</pv>
+<pt>7.</pt>
+<pv>Mein Freund ist wie da&sr; Firmament/
+Beständig/ aber doch behend:
+Bald steigt er auff/ bald steigt er nieder/
+Bald geht er hin/ bald ko&tm;t er wieder!</pv>
+<pt>8.</pt>
+<pv>Mein Freund ist wie der ewge Blitz
+Jn deß durchlauchsten Gotte&sr; Sitz:
+Jn jhm zerschmeltzen alle Hertzen
+Von sich und jhren Liebe&sr;-Schmertzen.</pv>
+<pt>9.</pt>
+<pv>Also jhr Mägdlein jung und alt/
+Jst mein geliebter Freund gestalt:
+Wolt jhr jhn sehn und auch geniessen/
+So sucht jhn und fallt jhm zu Füssen.</pv>
+<bs>C iij</bs><cw>Da&sr;</cw>
+<pb="38"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Neunde.
+<b><g>JESUS</g> der treue Hirte suchet die</b>
+<aq>Psyche</aq> vnd verlobet sich mit jhr.</d2>
+<abb>
+@<p>Hört Wunder hört deß König-Sohn/ der sprang
+herab von sei nem Thron/ und ließ sich Schäf-
+fer grüssen: Damit er nur die Hirten-Magd die <aq>Psyche</aq>
+<cw>die</cw>
+<pb="39"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+die der Feind verjagt; liebkosen möcht und küssen.</p>
+<pt>1.</pt>
+<pv><in>H</in>ört Wunder hört deß König&sr; Sohn
+Der sprang herab von seinem Thron/
+Und ließ sich Schäffer grüssen:
+Damit er nur die Hirten-Magd
+Die <aq>Psyche</aq> die der Feind verjagt;
+Liebkosen möcht und küssen.</pv>
+<pt>2.</pt>
+<pv>Er suchte sie durch Feld und Wald/
+Er schrye und rufft&2019; jhr mannigfalt
+Mit hertzlichem verlangen:
+Er lieff durch Berg und auch durch Thal
+Jnbrünstig/ und schrye überall:
+O <aq>Psyche</aq> ko&tm; gegangen.</pv>
+<pt>3.</pt>
+<pv>Biß endlich fand er sie allein
+Verjrrt in einer Wüsten seyn/
+<bs>C j@</bs><cw>Jm</cw>
+<pb="40"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Jm Schlaf darzu versunken:
+Da trat er liebreich zu jhr hin
+Berührend jhren Geist und Sinn
+Mit seinen Liebe&sr;-Funken.</pv>
+<pt>4.</pt>
+<pv>Ach/ ach sprach er du arme&sr; Kind
+Wie sehmertzt&sr; mich daß ich dich so blind
+Und voller Schlaf hier finde;
+Steh auff/ steh auff ich ko&tm; zu dir
+Daß ich dich in mein Reich einführ/
+Und dich mit mir verbinde.</pv>
+<pt>5.</pt>
+<pv>Jch suche dich und bin verliebt/
+Verliebt bin ich und sehr betrübt
+Umb dich mein ander Leben:
+Gib mir dein Hertz sey meine Braut/
+Und bleibe mir allein vertraut/
+So wil ich dich erheben.</pv>
+<pt>6.</pt>
+<pv>Da sprach die <aq>Psyche,</aq> Jesu Christ/
+Der du in mich verliebet bist/
+Bi&sr; tausendmal willkommen:
+Jch kenne dich schon weil dein Brand/
+Jm Schlaf dich mir gemacht bekand/
+Und mir mein Hertz genommen.</pv>
+<cw>7. Jch</cw>
+<pb="41"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>7.</pt>
+<pv>Jch liebe dich und danke dir
+Du meine&sr; Leben&sr; ewge Zier/
+Daß du mich hast erwekket:
+Jch würde sonst gleich wie ein Schaf
+Jn meinem Jr&rr;thum meinem Schlaf
+Noch jmmer seyn gestekket.</pv>
+<pt>8.</pt>
+<pv>Jch liebe dich du liebster Freund
+Jch such zu seyn mit dir vereint/
+Und mich dir einzuleiben:
+Hier ist mein Hertz/ hier ist die Braut/
+Nihm mich/ ich bin dir schon vertraut/
+Und wil&sr; auch ewig bleiben.</pv>
+<d2>Da&sr; Zehnde.
+<b>Sie wird getröstet von jhrem JEsu.</b></d2>
+<abb>
+@<p>Al&sr; ich nechst im Wald spatzirte und viel grosse
+<bs>C v</bs><cw>Klagen</cw>
+<pb="42"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+Klagen führte/ daß ich arme&sr; Wä@ selein
+must&2019; ohn meinen Bräntgam seyn: Kam mein Jesu&sr;
+selbst zu mir/ und versprach mit süssen Worten/
+<cw>daß</cw>
+<pb="43"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+daß er wolt an al len Orten bey mir
+bleiben für und für.</p>
+<pt>1.</pt>
+<pv><in>A</in>L&sr; ich nechst im Wald spatzirte
+Und viel grosse Klagen führte/
+Daß ich arme&sr; Wäyselein
+Müst&2019; ohn meinen Bräutgam seyn:
+Kam mein JEsu&sr; selbst zu mir/
+Und versprach mit süssen Worten/
+Daß er wolt&2019; an allen Orten
+Bey mir bleiben für und für.</pv>
+<cw>2. Schan</cw>
+<pb="44"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>2.</pt>
+<pv>Schau ich habe dich vom Bösen/
+Sprach er/ gerne wolln erlösen/
+Und mit meinem Blut und Tod
+Dich erretten auß der Noth:
+Bin auch stet&sr; bey dir mein Kind/
+Ob zwar deine blöde Sinnen
+Meiner selten werden innen/
+Und umb mich betrübet sind.</pv>
+<pt>3.</pt>
+<pv>Solt&2019; ich denn dich nu verlassen
+Und dein lieblich&sr; seuffzen hassen?
+Solt&2019; ich nicht zu jeder Zeit
+Bey dir seyn in Traurigkeit?
+Zweiffle nicht mein Täubelein;
+Denn daß ich für deiner Seele
+Mich verberg&2019; und lang verhöle/
+Jst dir gut und muß so seyn.</pv>
+<pt>4.</pt>
+<pv>Wart du wirst mich schon geniessen
+Und nach deinem Wuntsche küssen/
+Wenn ich dich auß dieser Qual
+Führen werd&2019; in meinen Saal:
+<cw>Wenn</cw>
+<pb="45"/>
+<kt>Vierdte&sr; Buch.</kt>
+Wenn ich deine Lieb und Treu
+Werde mit mir selbst belohnen/
+Und du ewig bey mir wohnen
+Aller Seuffzer quit und frey.</pv>
+<pt>5.</pt>
+<pv>Al&sr; ich diesen Trost gehöret/
+Ward mein klagen bald zerstöret:
+Voller Freude war mein Sinn/
+Und der Jammer gantz dahin:
+Alle Vöglein dauchten mich
+Lieblicher al&sr; vor zu singen/
+Und der West-Wind mir zu bringen
+Kühlre Lüfftlein/ kühlern Strsich.</pv>
+<pt>6.</pt>
+<pv>JEsu/ sprach ich/ nu soll eben
+Dir mein Sinn seyn auffgegeben;
+Alle&sr; seuffzen soll fortan
+Seyn nach deinem Willn gethan:
+Denn ich weiß daß du mein Licht/
+Ob du mir zwar bleibst verborgen
+Manchen Abend/ manchen Morgen/
+Den noch wirst verlassen nicht.</pv>
+<cw>Da&sr;</cw>
+<pb="46"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Eilffte.
+<b>Sie ruffet jhm daß er soll zu jhr kom-</b>
+men/ weil sie sonst nicht&sr; ergetzen kan.</d2>
+<abb>
+@<p>Liebster Schäffer mein verlangen/ unsrer Wälder
+Schönster Jesu ko&tm; gegangen/ ko&tm; mein eintzt-
+höch ste Zier/ Ko&tm; herab von Li banon
+ge Begier:
+meine Perle meine Kron.</p>
+<pb="47"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>1.</pt>
+<pv><in>L</in>Jebster Schäffer mein verlangen/
+Unsrer Wälder höchste Zier/
+Schönster JEsu ko&tm; gegangen/
+Ko&tm; mein&2019; eintzige Begier:
+Ko&tm; herab von Libanonn
+Meine Perle meine Kron.</pv>
+<pt>2.</pt>
+<pv>Ko&tm; herab du goldne Sonne/
+Ko&tm; herab/ denn von den Höhn
+Soll mein Heil und meine Wonne/
+Und Erlösung mir entstehn:
+Ko&tm; du edler Schäffer du/
+Ko&tm; sprich deiner <aq>Psyche</aq> zu.</pv>
+<pt>3.</pt>
+<pv>Meine Seuffzer/ meine Zehren/
+Mein Betrübnüß/ meine Qual/
+Die umb dich so lange wehren/
+Füllen an da&sr; gantze Thal:
+Schau O Jesu du allein
+Bist die Ursach meiner Pein.</pv>
+<pt>4.</pt>
+<pv>Andre können sich ergetzen
+Auff dem bundten Wiesen-Plan;
+Andere mit Gold und Schätzen/
+Andren liegt wa&sr; ander&sr; an:
+<cw>Mir</cw>
+<pb="48"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Mir behaget nicht&sr; al&sr; du/
+Du mein&2019; einge Lust und Ruh.</pv>
+<pt>5.</pt>
+<pv>Drumb werd&2019; ich so lange schreyen/
+Meine Perle meine Kron
+Ko&tm; herab mich zu erfreuen/
+Ko&tm; herab von Libanon:
+Biß du mich hast angeblikt/
+Und mit deinem Kuß erquikt.</pv>
+<d2>Da&sr; Zwölffte.
+<b>JEsu&sr; ist da&sr; schönste Bild.</b></d2>
+<abb>
+@<p>JE su&sr; ist da&sr; schönste Bild/ da&sr; die Weißheit
+Da&sr; so reine zart und mild von der ew gen
+auß gesonnen; da&sr; die höchste Hi&tm;el&sr;-Macht
+Lieb besponnen;
+<pb="49"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+jemal&sr; hat hervor gebracht.</p>
+<pt>1.</pt>
+<pv><in>J</in>Esu&sr; ist da&sr; schönste Bild/
+Da&sr; die Weißheit außgesonnen;
+Da&sr; so reine zart und mild
+Von der ewgen Lieb besponnen;
+Da&sr; die höchste Himmel&sr;-Macht
+Jemal&sr; hat hervor gebracht.</pv>
+<pt>2.</pt>
+<pv>E&sr; ist voller Kunst und Schmuk/
+Daß e&sr; Sinn und Hertz verzukket;
+Jst der Gottheit Meisterstuk/
+Drein sie sich selbst abgedrukkete
+Wilt du sehn wie Gott gestalt/
+Schau Jesum so sihstu&2019;&sr; bald.</pv>
+<pt>3.</pt>
+<pv>Denn der Strahl der Her&rr;ligkeit
+Pralt auß seinem Angesichte;
+Und der Blitz der Ewigkeit
+Macht sein Leib und Seele lichte:
+<bs>D</bs><cw>Und</cw>
+<pb="50"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Und der ersten Schönheit Glantz
+Wird in jhm gesehen gantz.</pv>
+<pt>4.</pt>
+<pv>Aller Engel Huld und Schein/
+Aller Heilgen Pracht und prangen/
+Ko&tm;t in diesem Bild allein
+Tausendfältig hergegangen:
+Wa&sr; man nur gedenken kan/
+Trifft man all&sr; in Jesu an.</pv>
+<pt>5.</pt>
+<pv>Ja Gott selbst da&sr; ewge Licht/
+Hat nicht&sr; schöner&sr; je gesehen;
+Kan auch drumb sein Angesicht
+Nimmermehr von jhm abdrehen:
+Sage wa&sr; du jmmer wilt
+Jesu&sr; ist da&sr; schönste Bild.</pv>
+<d2>Da&sr; Dreyzehnde.
+<b>Sie hält jhn daß er soll bey jhr</b>
+bleiben.</d2>
+<abb>
+@<p>Bleib hier/ bleib hier du Trost der Schäfferinnen:
+Jch las se dich mein Schatz ja nicht von hinnen;
+<pb="51"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+Bleib hier mein Bräutigam/ mein Liebster
+weiß und roth/ ach bleib doch hier mein Licht/ mein
+En gel und mein Gott.</p>
+<pt>1.</pt>
+<pv><in>B</in>Leib hier/ bleib hier du Trost der Schäfferinnen:
+Jch lasse dich mein Schatz ja nicht von hinnen;
+<bs>D ij</bs><cw>Bleib</cw>
+<pb="52"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Bleib hier mein Bräutigam/ mein Liebster weiß und
+<c>roth:</c>
+Ach bleib doch hier mein Licht/ mein Engel und mein
+<c><g>GOTT.</g></c></pv>
+<pt>2.</pt>
+<pv>Wa&sr; Trost&sr; hab ich auff dieser dürren Erden/
+Wann du mein Lieb auch soltest mir entwerden?
+Bleib hier/ ich lasse dich auß meinen Armen nicht/
+Biß daß der grosse Tag der Ewigkeit anbricht.</pv>
+<pt>3.</pt>
+<pv>Bist du mein Trost/ so tröst auch meine Seele;
+Bist du mein Schatz so bleib in meiner Höle:
+Bist du mein Bräutigam so liebkos&2019; auch die Braut/
+Die du durch deine Lieb dir einmal hast vertraut.</pv>
+<pt>4.</pt>
+<pv>Denk doch wa&sr; ist die Welt ohn eine Sonne
+Die Höl&2019; ohn Schatz/ da&sr; Leben ohne Wonne!
+Der Himmel ohne Gott/ die Braut ohn Bräutigam!
+Drumb bleib doch hier mein Lieb/ mein Täublein und
+<c>mein La&tm;.</c></pv>
+<pt>5.</pt>
+<pv>Jedoch wilt du daß ich soll einsam leben/
+So wil ich mich auß Liebe drein ergeben:
+Vergieß nur meiner nicht/ kehr wieder bald zu mir/
+Du Leben meine&sr; Geist&sr;/ und meiner Seelen Zier.</pv>
+<cw>Da&sr;</cw>
+<pb="53"/>
+<kt>Vierdte&sr; Buch.</kt>
+<d2>Da&sr; Vierzehnde.
+<b>Sie begehret den Braut-Schmuk</b>
+von jhrem Bräungam.</d2>
+<abb>
+<bs>D iij</bs><cw>wa&sr;</cw>
+<pb="54"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>D</in>U Edler Bräutigam der du mich neu geborn/
+Und für viel tausenden zu deiner Braut erkorn/
+Ach laß mich doch empfangen
+Wa&sr; meine Seele ziert!
+Ach laß mich doch erlangen
+Wa&sr; deiner Braut gebührt.</pv>
+<pt>2.</pt>
+<pv>Gib mir dein Eigenthum der weissen Unschuld
+<et>Kleid/</et>
+Gib mir daß ich stet&sr; grün in deiner G&2019;rechtigkeit:
+Laß mich auff Erden leben/
+Wie du gelebet hast;
+Und williglich ergeben
+Zu tragen deine Last.</pv>
+<pt>3.</pt>
+<pv>Pflantz deine Tugenden in meine&sr; Hertzen Schrein/
+Trag deiner Demut Bild und deine Lieb hinein:
+<cw>Die</cw>
+<pb="55"/>
+<kt>Vierdte&sr; Buch.</kt>
+Die Keuschheit deiner Seele
+Geb jhrn Geruch in mir/
+Und deiner Sanfftmut Oele
+Flüss&2019; auß mein&sr; Munde&sr; Thür.</pv>
+<pt>4.</pt>
+<pv>Streich meine Wangen an mit deinem Rosen-
+<et>Blut/</et>
+Thu meine Lippen auff mit deiner Reden-Flut.
+Leg deine Hulde-Strahlen
+Jn meiner Augen Rund/
+Und laß mein Haupt umbmahlen
+Mit deinem Dornen-Bund.</pv>
+<pt>5.</pt>
+<pv>Der Speer der durch dein Herr und Seite hat
+<et>gemust/</et>
+Sey meine&sr; Hertzen&sr; Trost/ u&tn; Kleinod meiner Brust:
+Die Nägel laß mich haben/
+Die deine Füss@ und Händ
+Am Creutz für mich durchgraben/
+Und Mark und Bein zertrennt.</pv>
+<pt>6.</pt>
+<pv>Dein gäntzlicher Verdienst sey umb mich in gemein/
+Mein Gold/ mein Perle-Schmuk/ und Edele&sr; Gestein:
+Auff daß ich kan bestehen
+Wann du erscheinen wirst/
+Und mich zu dir erhöhen
+Du ewger Himmel&sr;-Fürst.</pv>
+<bs>D jv</bs><cw>Da&sr;</cw>
+<pb="56"/>
+<kt>Beistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Funffzehnde.
+<b>Sie freuet sich über der Geburt</b>
+<g>CHRJSTJ.</g>
+<fr>Nach eine&sr; andren Melodey.</fr></d2>
+<abb>
+<cw>O grosse</cw>
+<pb="57"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>F</in>Reut euch jhr Hirten all&2019;
+Und jauchtzt mit grossem Schall!
+Gott ist ein Kind geborn
+Hat Mensch zu seyn erkorn:
+O grosse Freude!</pv>
+<pt>2.</pt>
+<pv>Der Glantz der Her&rr;ligkeit
+Hat sich in un&sr; verkleidt:
+Die ewge Gott&sr; Gewalt
+Erscheint in Knecht&sr;-Gestalt:
+O grosse Freude!</pv>
+<pt>3.</pt>
+<pv>Der hohe Wunder-Held/
+Der Her&rr;scher aller Welt
+<bs>D v</bs><cw>Jst</cw>
+<pb="58"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Jst unser Brüderlein/
+Wil un&sr; vom Tod befreyn:
+O grosse Freude!</pv>
+<pt>4.</pt>
+<pv>Die allerhöchste Lust
+Trinkt unsrer Jungfrau Brust:
+Der jmmer grüne May
+Legt sich für un&sr; in&sr; Heu/
+O grosse Freude!</pv>
+<pt>5.</pt>
+<pv>Da&sr; liebe Jesulein
+Liegt in dem Krippelein/
+Verkürtzt un&sr; alle Pein
+Mit seinen Aeugelein:
+O grosse Freude!</pv>
+<pt>6.</pt>
+<pv>Viel tausend Engelein
+Hört man in Lüfften schreyn/
+Und un&sr; zu Trost allda
+Erhalln da&sr; <aq>Gloria:</aq>
+O grosse Freude!</pv>
+<cw>Da&sr;</cw>
+<pb="59"/>
+<kt>Vierdte&sr; Buch.</kt>
+<d2>Da&sr; Sech&sr;zehnde.
+<b>Sie ergötzet sich mit dem Kinde JEsu.</b></d2>
+<abb>
+<cw>mich</cw>
+<pb="60"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>D</in>U tausend-schöne&sr; Kind/
+Du Knabe bund wie Rosen/
+Du Mündlein da&sr; geschwind
+Mein Hertze lieb muß kosen:
+Du Blume zu Saron/
+Du zarter Jungfraun Sohn/
+Du süsse Frucht der Liebe
+Ohn die ich mich betrübe/
+Ach sey doch meine Lust
+Und Rast&2019; an meiner Brust!</pv>
+<cw>2. Ach</cw>
+<pb="61"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>2.</pt>
+<pv>Ach sey doch meine Lust
+Und laß dich freundlich küssen;
+Laß mich mit Mund und Brust
+Dich anrührn und geniessen:
+Du liebe&sr; Aeugelein/
+Du edle&sr; Blümelein/
+Du alle meine Freude/
+Du ewge Seelen-Weyde/
+Ach mein/ ach daß dein Thau
+Fall&2019; auff mein&sr; Hertzen&sr; Au!</pv>
+<pt>3.</pt>
+<pv>Ach mein/ ach daß dein Thau
+Du Kind der Morgen-Röthe
+Fall auff mein&sr; Hertzen&sr; Au!
+Und alle&sr; Unheil tödte;
+Daß deiner Kehle Wein
+Jn meinen Mund flüss&2019; ein/
+Daß dein Geschmak mich labe
+Für aller andrer Gabe/
+So küsse mich geschwind
+Du tausend-schöne&sr; Kind.</pv>
+<cw>Da&sr;</cw>
+<pb="62"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Siebzehnde.
+<b>Sie findet jhre Liebe am Creutze.</b></d2>
+<abb>
+<cw>1. Ach</cw>
+<pb="63"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>1.</pt>
+<pv><in>A</in>Ch wa&sr; hast du gethan/ ach wa&sr; hast du verschulde
+Du Brunn der Freundligkeit/ du Ursprung aller
+<et>Huld!</et>
+Daß du gecreutzigt bist!</pv>
+<pt>2.</pt>
+<pv>Du unbeflekte&sr; Kind/ du reiner Jungfraun Sohn/
+Dn Sanfftmut-volle&sr; La&tm;/ du weisser Keuschheit
+<et>Thron/</et>
+Ach wa&sr; hast du gethan!</pv>
+<pt>3.</pt>
+<pv>Du himmelische Lieb/ du kleiner grosser Gott/
+Ach warumb hängst du dar! Ach warumb bist du tod!
+Ach warumb ist&sr; geschehn!</pv>
+<pt>4.</pt>
+<pv>Jst&2019;&sr;/ daß du mir mein Hertz mit deinem Pfeil ver-
+<et>wundt</et>
+So hast du wol gethan: Denn schau ich bin gesund/
+Jch bin gefund darvon!</pv>
+<pt>5.</pt>
+<pv>Wa&sr; leidest du dann diß? Weil du mir nicht&sr;
+<et>gethan?</et>
+Weil ich dich O mein Kind auch wie geklaget an/
+Und stet&sr; gepriesen hab.</pv>
+<cw>6. Ach</cw>
+<pb="64"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>6.</pt>
+<pv>Ach ja/ ach du vergeust dein Rosen-farbne&sr; Blut
+Gleich wie ein Pelican für seine Käuchlein thut/
+Daß ich&sr; geniessen soll!</pv>
+<pt>7.</pt>
+<pv>Jst&sr; diß du süsser Gott? Jst&sr; diß mein Pelican?
+So fülle doch mein Hertz und Seel darmit gantz an/
+Und wandle mich in dich.</pv>
+<pt>8.</pt>
+<pv>Denn schau ich wüntsche mir mit grosser Jnnigkeit
+Dein Ebenbild zu seyn/ und so zur Dankbarkeit
+Für dich gecreutzigt stehn.</pv>
+<pt>9.</pt>
+<pv>Drumb werd ich dich mein Kind anruffen für und
+<et>für</et>
+Und warten mit Geduld bey deiner Gnaden-Thür
+Biß ich gecreutziget bin.</pv>
+<d2>Da&sr; Achtzehnde.
+<b>Sie beweinet die gecreutzigte Liebe.</b></d2>
+<abb>
+<cw>da&sr;</cw>
+<pb="65"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>K</in>O&tm;t her und schauet an mein Leben/
+Da&sr; unbeflekte Jungfraun-Kind!
+Schaut wie e&sr; ist an&sr; Creutz gegeben/
+Für unsre Schuld und unsre Sünd!
+E&sr; ist so übel zugericht/
+Daß mir da&sr; Hertze bricht!</pv>
+<bs>E</bs><cw>2. Schaut</cw>
+<pb="66"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>2.</pt>
+<pv>Schaut wie man hat den zarten Knaben
+So gar zerschmissen und zerwundt!
+Wie man jhm Händ&2019; und Füss&2019; durchgraben
+Wie man belohnt den hulden Mund;
+Wie ist die ewge Freundligkeit
+Beworffen und bespeyt.</pv>
+<pt>3.</pt>
+<pv>Der Leib ist voller Beuln und Schrunden/
+Voll Angst und Schmertzen ist sein Geist;
+Da&sr; Fleisch und Mark ist all&sr; verschwunden/
+Da&sr; Blut vergossen allermeist:
+Wie muß da&sr; lieblich&2019; Aeugelein
+Ein solcher Scheusal seyn?</pv>
+<pt>4.</pt>
+<pv>Er hat vom Himmel auff die Erden
+Auß lauter Liebe sich gesenkt/
+Daß wir erledigt sollen werden/
+Von allem Ubel da&sr; un&sr; kränkt:
+Und sih&2019; er stekket selbst in Noth
+Der treue Liebe&sr;-Gott!</pv>
+<pt>5.</pt>
+<pv>Wer ist nu der jhm bey kan springen/
+Wer wil jhm seine Treu bezahln?
+Wer Oele seinen Wunden bringen?
+Wer stillet seine Pein und Qualn?
+<cw>Wer</cw>
+<pb="67"/>
+<kt>Vierdte&sr; Buch.</kt>
+Wer ist der da&sr; geplagte Kind
+(Ach! Ach!) vom Creutz gewinnt!</pv>
+<pt>6.</pt>
+<pv>Soll dann die Lieb am Creutze sterben?
+Soll dann die Unschuld länger stehn?
+Soll dann da&sr; Heil der Welt verderben?
+Und unser Leben untergehn?
+Ach ja e&sr; weicht schon Geist und Sinn!
+Ach ja die Lieb ist hin!</pv>
+<pt>7.</pt>
+<pv>Die Lieb ist hin O arme Seele@
+Die Lieb ist tod/ lauff doch hinzu:
+Eröffne deine&sr; Hertzen&sr; Höle/
+Und gib sie jhm noch jetzt zur Ruh:
+Steig auff da&sr; Creutz/ nihm jhn herab/
+Und sey der Liebe Grab.</pv>
+<pt>8.</pt>
+<pv>Du biß die Schuld daß er gestorben/
+Du bist die Ursach seiner Pein/
+Weil er umb deine Lieb geworben/
+Hat er deß Tode&sr; müssen seyn:
+Diß Lä&tm;lein ist für dich geschlacht/
+Für dich in Tod gebracht!</pv>
+<bs>E ij</bs><cw>9. Entzieht</cw>
+<pb="68"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>9.</pt>
+<pv>Entzieht euch mir jhr meine Sinnen/
+Jhr Augen schliest euch beyde zu/
+Mein Geist begebe sich von hinnen/
+Mein Leben da&sr; ersterb&2019; auch nu/
+Jch kan für Leid nicht mehr bestehn/
+Jch muß mit jhm vergehn!</pv>
+<d2>Da&sr; Neunzehnde.
+<b>Sie vergleicht jhren JEsum</b>
+einer Nachtigall.</d2>
+<abb>
+<cw>ich</cw>
+<pb="69"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>N</in>Achtigall wann dein Gesang
+Mit so angenehmem Klang
+Durch den Wald erschallet:
+So gedenk ich an&sr; Gethön
+Da&sr; auß Jesu Mund so schön
+Mir zu Trost erhallet.</pv>
+<pt>2.</pt>
+<pv>Jch gedenke wie er sich
+So verliebt und inniglich
+<bs>E iij</bs><cw>Auff</cw>
+<pb="70"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Auff da&sr; Creutz geschwungen;
+Und mir sieben Liedelein
+Jn der grösten Hitz und Pein
+Lieblich hat gesungen.</pv>
+<pt>3.</pt>
+<pv>Erstlich sang er daß mir Gott
+Solte seine Pein und Tod
+Ewiglich verzeihen;
+Und weil ich auß Unverstand
+Jhm diß Leiden zugewand
+Mir Genad verleihen.</pv>
+<pt>4.</pt>
+<pv>Drauff fing er gantz lieblich an:
+Heute werd&2019; ich dir die Bahn
+Voller Rosen streuen:
+Heut wirst du im Paradei&sr;
+Gott und mir zu ewgem Prei&sr;
+Dich mit mir erfreuen.</pv>
+<pt>5.</pt>
+<pv>Dritten&sr; sanger daß die Brust/
+Seiner Mutter mir die Kost
+Solt&2019; al&sr; Sohne geben:
+Und ich solt&2019; auch al&sr; ein Sohn
+Diesem seiner Weißheit Thron
+Stet&sr; gehorsam leben.</pv>
+<cw>6. Drauff</cw>
+<pb="71"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>6.</pt>
+<pv>Drauff schrye er sehr klägelich
+Gott mein Gott wie läst du mich
+So verlassen leiden:
+Daß mir solte kundbar seyn
+Wie er alle diese Pein
+Lidt&2019; ohn Trost und Freuden.</pv>
+<pt>7.</pt>
+<pv>Weiter sang er tröstlich fort
+Und ließ mich da&sr; guldne Wort/
+Daß jhn dürste hören:
+Daß jhn dürstete nach mir
+Für so inniger Begier/
+Wolt&2019; er mich da lehren.</pv>
+<pt>8.</pt>
+<pv>Dann sang er/ e&sr; ist vollbracht/
+Satan ist mit seiner Macht
+Endlich überwunden:
+Deine Schulden meine Braut
+Sind bezahlt mit meiner Haut/
+Du bist loß gebunden.</pv>
+<pt>9.</pt>
+<pv>Drauff gab er matt und verwundt
+Seinen Geist mit süssem Mund
+<bs>E jv</bs><cw>Jn</cw>
+<pb="72"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Jn deß Vater&sr; Hände:
+Daß auch ich so solte thun
+(Wann ich seelig wolte ruhn)
+An dem letzten Ende.</pv>
+<pt>10.</pt>
+<pv>Diese&sr; hat mit werthem Schall
+Meine liebste Nachtigall
+JEsu&sr; mir gesungen:
+Und auß diesem seinem Lied/
+Jst mir Trost/ Freud/ Ruh und Fried/
+Ewiglich entsprungen.</pv>
+<pt>11.</pt>
+<pv>Drumb erfreuet e&sr; mich bald
+Wann ich höre durch den Wald
+Nachtigall dich singen:
+Sing du schöne Sängerin/
+Dann du machst mir Hertz und Sinn
+Jn dem HEr&rr;n auffspringen.</pv>
+<cw>Da&sr;</cw>
+<pb="73"/>
+<kt>Vierdke&sr; Buch.</kt>
+<d2>Da&sr; Zwantzigste.
+<b>Die <aq>Psyche</aq> muntert sich mit dem</b>
+Frühling zu einem neuen Leben auff.</d2>
+<abb>
+<bs>E v</bs><cw>und</cw>
+<pb="74"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>D</in>Er Frühling ko&tm;e heran/
+Der hulde Blumen-Mann/
+E&sr; geht schon Feld und Anger/
+Mit seiner Schönheit schwanger&sr;
+Der Blüte-Feind der Nord
+Steht auff und macht sich fort;
+Da&sr; Turtel-Täubelein
+Läst hörn die Schäuffzerlein.</pv>
+<cw>2. Die</cw>
+<pb="75"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>2.</pt>
+<pv>Die Lerch&2019; ist auß der Grufft
+Und zieret Feld und Lufft
+Mit jhrem direliren/
+Da&sr; sie so schön kan führen:
+Die Künstlern Nachtigall
+Lokt und zikt überall:
+Die Vöglein jung und alt
+Sind munter in dem Wald.</pv>
+<pt>3.</pt>
+<pv>Die Sonne führet schon
+Jhrn freudenreichen Thron
+Durch jhre guldne Pferde
+Viel näher zu der Erde:
+Die Wäl der ziehn sich an/
+Und stekken auff jhr Fahn:
+Der West-Wind küst da&sr; Laub/
+Und reucht nach Blumen-Raub.</pv>
+<pt>4.</pt>
+<pv>Da&sr; Wild laufft hin und her
+Die Läng&2019; und auch die Quer;
+E&sr; tantzen alle Wälder/
+E&sr; hüpffen alle Felder:
+<cw>Da&sr;</cw>
+<pb="76"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Da&sr; liebe Wollen-Vieh
+Da&sr; weidet sich nu früh:
+Die stumme Schuppen-Schaar/
+Schwimmt wieder offenbar.</pv>
+<pt>5.</pt>
+<pv>Die gantze Creatur
+Wird anderer Natur:
+Die Erde wird verneuet/
+Da&sr; Wasser wird erfreuet:
+Die Lufft ist lind und weich/
+Warm Thau- und Regen-reich:
+Der Himmel lacht un&sr; an
+So schön er jmmer kan.</pv>
+<pt>6.</pt>
+<pv>Drumb kreuch auch meine Seel
+Herfür auß deiner Hol;
+Laß deine&sr; Hertzen&sr; Erden
+Zu einem Frühling werden:
+Zertrit Gefröst und Eiß/
+Und werd&2019; ein grüner Reiß;
+Sey eine neue Welt
+Und Tugend-volle&sr; Feld.</pv>
+<pt>7.</pt>
+<pv>Laß deine Seuffzer gehn
+Mit lieblichem Gethön:
+<cw>Laß</cw>
+<pb="77"/>
+<kt>Vierdte&sr; Buch.</kt>
+Laß hören dein verlangen
+Den Bräutgam zu empfangen:
+Sey eine Nachtigall/
+Und lok mit Liebe&sr;-Schall
+Der Himmel höchste Zier
+Den süssen Gott zu dir.</pv>
+<pt>8.</pt>
+<pv>Schwing dich behend und fein
+Gleich wie ein Lerchelein
+Vom jr&rr;dischen Getümmel
+Und schwebe frey im Himmel:
+Bereite dich mit Klang/
+Und stetem Lob-Gesang/
+Den Schöpffer zu verehrn/
+Und seinen Ruhm zu mehrn.</pv>
+<pt>9.</pt>
+<pv>E&sr; fähret schon herein
+Sein gnädger Sonnenschein;
+Erläst schon seine Strahlen
+Dein gantze&sr; Hertz bemahlen:
+Sein Geist der süsse Wind
+Weht schon dich an sein Kind:
+Drumb blüh in seiner Lieb
+Und folge diesem Trieb.</pv>
+<cw>Da&sr;</cw>
+<pb="78"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Ein und Zwantzigste.
+<b>Sie beruffet alle Creaturen</b>
+<g>GOTT</g> zu loben.</d2>
+<abb>
+<cw>weite</cw>
+<pb="79"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<cw>1. Auff/</cw>
+<pb="80"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>1.</pt>
+<pv><in>A</in>Uff/ auff mein Hertz ermuntre dich
+Laß durch die Lufft dich hören;
+Jch sehne mich gantz inniglich
+Den Bräutigam zu ehren:
+All&sr; wa&sr; die gantze weite Welt
+Jn jhrem Kreiß beschlossen hält/
+Wil ich zusammen ruffen hier
+Daß e&sr; jhn loben soll mit mir.</pv>
+<pt>2.</pt>
+<pv>Ko&tm;t her jhr kleinen Vögelein;
+So viel jhr seyd zerstreuet,
+Und mit den süssen Stimmelein/
+Wald/ Berg und Thal erfreuet/
+Ko&tm;t singt und schreyet allzumal/
+Lob/ Ehr und Prei&sr; sey ohne Zahl
+JEsu dem Heiland aller Welt/
+Der unser Hertz zu frieden stellt.</pv>
+<pt>3.</pt>
+<pv>Heb an du werthe Nachtigall
+Dein künstlich figuriren/
+Und hilff mit deinem süssen Schall
+Mein Braut-Lied musiciren:
+<cw>Die</cw>
+<pb="81"/>
+<kt>Vierdte&sr; Buch.</kt>
+Die Lerche soll jhr dir/ dir/ dir
+Dir HEr&rr; sey Lob/ auch für und für
+Erzwingen in dem besten Thon/
+Und mit un&sr; loben Gotte&sr; Sohn</pv>
+<pt>4.</pt>
+<pv>Der West-Wind mache sich herbey
+Mit seinem linden brausen/
+Die frischen Lüfftlein mancherley
+Und alle&sr; sanffte&sr; sausen/
+Jhr süssen Bächlein rinnt zu mir/
+Jhr kühlen Brünnlein quällt allhier;
+Jhr grossen Flüsse ströhmt hier an/
+Daß ich mit euch jhn loben kan.</pv>
+<pt>5.</pt>
+<pv>Jhr Blumen in der gantzen Welt
+Jn Sümpffen und in Flüssen/
+Jn Gärten und auff offnem Feld
+Helfft meinen Bräutgam grüssen:
+Jhr Lilgen und jhr Röselein/
+Jhr Tulpen/ Veilken in gemein/
+Lobt JEsum mein&2019; und eure Kron/
+Die schönste Blume zu Saron.</pv>
+<bs>F</bs><cw>6. Jhr</cw>
+<pb="82"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>6.</pt>
+<pv>Jhr Grä&sr;lein alle kriecht herfür/
+Jhr Kräuter/ Stauden/ Stekken;
+Jhr Wiesen selber ko&tm;t zu mir/
+Jhr Dornen und jhr Hekken:
+Jhr Sträuch&2019; und Püsche groß und klein
+Ko&tm;t stimmet alle mit mir ein:
+Jhr Bäume beyde wild und zahm/
+Ko&tm;t lobet meinen Bräutigam.</pv>
+<pt>7.</pt>
+<pv>Jhr Wurtzeln (daß ich eurer nicht
+Bey meinem Lied vergesse/)
+Ko&tm;t lobt bey hellem Tage-Licht
+Die werthe Wurtzel Jesse:
+Jhr Furchen und du grüne Saat
+Lobt meinen Lieben früh und spat;
+Der Regen/ Schnee/ der Reiff und Thau/
+Lob jhn mit Macht auff jeder Au.</pv>
+<pt>8.</pt>
+<pv>Jhr auch jhr meine Schäffelein
+Die jhr im grünen weidet/
+Lobt jhn da&sr; liebe Lämmelein/
+Er ist&sr; der euch bekleidet;
+<cw>Er</cw>
+<pb="83"/>
+<kt>Vierdte&sr; Buch.</kt>
+Er ist&sr; der mich und euch bewacht/
+Die List deß Molff&sr; zu nichte macht,
+Er ist&sr; der ewig wird regirn
+Und mich zum Brunn deß Leben&sr; führn.</pv>
+<pt>9.</pt>
+<pv>Herbey jhr Hirten-Mägdelein/
+Herbey/ herbey mit Freude:
+Tantzt jhm zu Ehren einen Reihn
+Auff dieser grünen Weyde:
+Versa&tm;let euch hier jung und alt/
+Lobt meinen Bräutgam mannigfalt/
+Erzehlet manche grosse That
+Die er für un&sr; verrichtet hat.</pv>
+<pt>10.</pt>
+<pv>E&sr; lob jhn jede&sr; Element/
+Lufft/ Feuer/ Wasser/ Erde;
+Da&sr; hochgewölbte Firmament
+Darzu erreget werde/
+Die Morgen-Röthe nahe sich/
+Und lob jhn unveränderlich:
+Der angenehme frühe Stern/
+Sey wegen seine&sr; Lob&sr; nicht fern.</pv>
+<bs>F ij</bs><cw>11. Die</cw>
+<pb="84"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>11.</pt>
+<pv>Die Sternen all&2019; in&sr; Himmel&sr; Feld
+Solln jhn gantz her&rr;lich preisen;
+Und für den Augen aller Welt/
+Gross&2019; Ehr und Dienst erweisen:
+Die Sonne sampt der Cynthia
+Solln jhn mit mir erheben da;
+Er ist und bleibet allezeit
+Die Sonne der Gerechtigkeit.</pv>
+<pt>12.</pt>
+<pv>Jhr auch jhr werthen Geisterlein/
+Die jhr un&sr; stet&sr; begleitet;
+Jhr Englichen/ jhr Flämmelein
+Die jhr un&sr; auffwart&sr; leitet:
+Versa&tm;let euch in grosser Schaar/
+Ko&tm;t mit den andren allen gar;
+Jhr must auff dieser Wiese da
+Erschalln da&sr; schöne <aq>Gloria.</aq></pv>
+<pt>13.</pt>
+<pv>Jnsonderheit jhr Seraphin&2019;
+Erhebet eure Flammen/
+Und schreyt da&sr; <aq>Sanctu&sr;</aq> über jhn/
+Den Heiligsten zusammen:
+<cw>Ach</cw>
+<pb="85"/>
+<kt>Vierdte&sr; Buch.</kt>
+Ach daß ich brennte lichter Loh/
+Jn heisser Liebe wie ein Stroh/
+Ach zündet doch mein Hertz gantz an
+Daß ich wie jhr jhn loben kan.</pv>
+<pt>14.</pt>
+<pv>Jch suche nicht&sr; al&sr; seinen Ruhm/
+Wil auch nicht&sr; andre&sr; singen:
+Jhn loben ist mein Eigenthum
+Mein&2019; Ehr jhm Ehre bringen:
+Mein Leib/ mein Hertze/ Seel und Geist/
+Und alle&sr; wa&sr; man meine heist/
+Soll jhn durch Zeit und Ewigkeit
+Zu loben jmmer seyn bereit.</pv>
+<pt>15.</pt>
+<pv>Du aber liebster JEsu Christ
+Gib daß ich dir gefalle;
+Daß ich dein Lob zu jeder Frist
+Mit reinem Mund&2019; erschalle:
+Nihm mich mein Lieb wann ich dich prei&sr;/
+Auß dieser Welt in&sr; Paradei&sr;;
+Daß ich vergeh mit diesem Wort/
+JEsu sey Lob an allem Ort.</pv>
+<bs>F iij</bs><cw>Da&sr;</cw>
+<pb="86"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Zwey und Zwantzigste.
+<b>Die <aq>Psyche</aq> ladet die Wald-Vögelein</b>
+zum Lobe Gotte&sr; ein.</d2>
+<abb>
+<cw>sen:</cw>
+<pb="87"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>J</in>Hr kleinen Vögelein
+Jhr Wald-Ergötzerlein
+Jhr süssen Sängerlein
+Stimmt mit mir überein:
+Jch wil den HErren preisen
+Mit meinen Liebe&sr;-Weisen:
+Jch wil von Hertzen-Grund/
+Jhm auffthun meinen Mund.</pv>
+<pt>2.</pt>
+<pv>Spitzt eure Schnäbelein/
+Zwingt eure Stimmelein/
+<bs>F jv</bs><cw>Und</cw>
+<pb="88"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Und fangt an gross&2019; und klein
+Auff&sr; lieblichste zu schreyn:
+Jch wil durch euer singen
+Mich zu dem Schöpffer schwingen/
+Jch wil durch euren Thon;
+Hinauff zu Gotte&sr; Sohn.</pv>
+<pt>3.</pt>
+<pv>Er ziert euch Feld und Wald
+So schön und mannigfalt/
+Er kleidt euch jung und alt
+Mit Federn wolgestalt;
+Er schafft euch kühle Sitze
+Für Unfall und für Hitze:
+Er gibt euch Spei&sr; und Trank/
+Und Mut zum Lust-Gesang.</pv>
+<pt>4.</pt>
+<pv>Drumb stimmet mit mir ein
+Jhr süssen Schreyerlein/
+Jhr kleinen Pfeifferlein/
+Jhr Wunder-Sängerlein:
+Gott Lob ist mein erschallen/
+Gott Lob sey eur erhallen;
+Gott ist mein Gesang/
+Gott sey euer Klang.</pv>
+<cw>Da&sr;</cw>
+<pb="89"/>
+<kt>Vierdte&sr; Buch.</kt>
+<d2>Da&sr; Drey und Zwantzigste.
+<b>Sie krönet jhren Jesum mit Blumen.</b></d2>
+<abb>
+<bs>F v</bs><cw>mit</cw>
+<pb="90"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+<cw>1. Ko&tm;t</cw>
+<pb="91"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>1.</pt>
+<pv><in>K</in>O&tm;t last un&sr; JEsum krönen/
+Den Schäffer voller Hold/
+Den lieblichen/ den schönen/
+Den feinen über Gold:
+Ko&tm;t helfft mir mein Leben
+Mit Blumen umbgeben/
+Ko&tm;t windet jhm Kräntze/
+Ko&tm;t heget jhm Täntze/
+Ko&tm;t singet jhm ein Ehren-Lied.</pv>
+<pt>2.</pt>
+<pv>Ko&tm;t helffet mir jhn grüssen
+Den Bräutgam weiß und roth;
+Ko&tm;t fallet jhm zu Füssen
+Dem werthen unsrem Gott:
+Ko&tm;t leget jhm munter/
+Die Achselen unter/
+Ko&tm;t tragt jhn mit Freuden
+Durch alle die Heiden/
+Und jauchzet jhm so viel jhr könt.</pv>
+<pt>3.</pt>
+<pv>Setzt jhn die Lust der Sinnen/
+Den zarten Jungfraun Sohn/
+Den Prei&sr; der Schäfferinnen
+Auff einen Blumen-Thron:
+<cw>Umb</cw>
+<pb="92"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Umbgebt jhn mit Myrten
+Den König der Hirten/
+Belegt jhn mit Palmen/
+Verehrt jhn mit Psalmen/
+Und bettet jhn demütig an.</pv>
+<pt>4.</pt>
+<pv>Auff daß er un&sr; anblikke
+Mit Liebe&sr;-Aeugelein:
+Und unsre Seeln erquikke/
+Mit seiner Brüste Wein/
+Auff daß er un&sr; schenke/
+Die hi&tm;lischen Tränke;
+Auff daß er un&sr; ziere/
+Und wonniglich führe/
+Mit sich in&sr; Schloß der Seligkeit.</pv>
+<d2>Da&sr; Vier und Zwantzigste.
+<b>Sie bittet daß Jesu&sr; alleine möge</b>
+jhre Freude seyn.</d2>
+<abb>
+<cw>gib</cw>
+<pb="93"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>J</in>Esu unsre Freude/
+Unser Trost im Leide/
+Gib daß wir un&sr; für und für
+Eintzig freuen über dir.</pv>
+<pt>2.</pt>
+<pv>Treib auß unsrem Hertzen
+Traurigkeit und Schmertzen/
+Eitle Lust und Fröligkeit
+Sey von un&sr; auch fern und weit.</pv>
+<pt>3.</pt>
+<pv>Laß un&sr; nicht&sr; belieben/
+Wa&sr; un&sr; kan betrüben:
+Unsre Liebe laß allein
+Deine Mensch- und Gottheit seyn.</pv>
+<cw>4. Hilff</cw>
+<pb="94"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>4.</pt>
+<pv>Hilff un&sr; selig sterben/
+Und die Kron erwerben;
+Daß wir in der Ewigkeit
+Sehen deine Her&rr;ligkeit.</pv>
+<d2>Da&sr; Fünff und Zwantzigste.
+<b>Sie versa&tm;let alle jhre Kräfften und</b>
+Sinnen zu seinem Lobe.</d2>
+<abb>
+<cw>versa&tm;let</cw>
+<pb="95"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<cw>1. Auff/</cw>
+<pb="96"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>1.</pt>
+<pv><in>A</in>Uff/ auff mein Geist und du O mein Ge-
+<et>müte/</et>
+Auff meine Seel&2019;/ auff/ auff mein Sinn:
+Auff/ auff mein Leib/ mein Hertz/ und mein Ge-
+<et>blüte/</et>
+Auff alle Kräfft&2019; und wa&sr; ich bin:
+Vereinigt euch und lobt mit mir
+Der Menschen Trost/ der Engel Zier/
+Stimmt all&2019; in heissen Liebe&sr;-Flammen/
+Zu Lobe meine&sr; HEr&rr;n zusammen.</pv>
+<pt>2.</pt>
+<pv>Erhebt euch wie die Adler von der Erden/
+Schwingt euch hinauff für seinen Thron/
+Erscheint für jhm mit dankbaren Geberden;
+Und singet jhm im höchsten Thon:
+Seyd frölich/ munter/ jauchtzt und klingt/
+Frolokt mit Händen/ tantzt und springt;
+Erzeigt euch voller heilger Freuden/
+Zu Lob und Ehren seiner Leiden.</pv>
+<pt>3.</pt>
+<pv>E&sr; müssen dir zu Ehren deiner Wunden
+Stet&sr; wachend meine Sinnen seyn:
+Zu deinen Ehrn werd&2019; jmmerdar gefunden
+Jn meinem fühlen deine Pein:
+<cw>Mein</cw>
+<pb="97"/>
+<kt>Vierdte&sr; Buch.</kt>
+Mein&2019; Auge sehe dir zu Ehrn/
+Mein Ohr merk auff dein Wort und lehrn;
+E&sr; müsse mein Geschmak dir schmekken;
+Nach dich nur mein Geruch sich strekken.</pv>
+<pt>4.</pt>
+<pv>E&sr; lobe dich <g>HERR</g> mein Verstand und
+<et>Wille/</et>
+Gott mein Gedächtnüß lobe dich:
+Zu deinem Lob sey meine Bildung stille/
+Mein Geist erheb sich über sich:
+Mein Athem lob dich für und für/
+Mein Pul&sr; schlag stet&sr; da&sr; <aq>Sanctu&sr;</aq> dir:
+E&sr; singen alle meine Glieder
+Zu deinen Ehren tausend Lieder.</pv>
+<pt>5.</pt>
+<pv>Mein Hertze müss&2019; in deiner Lieb zerflüssen/
+Die Seel in deinem Ruhm vergehn:
+Mein Mund dich stet&sr; mit neuem Lobe küssen
+Und Tag und Nacht dir offen stehn:
+E&sr; müssen dienen dir zur Lust
+Die tieffen Seuffzer meiner Brust:
+E&sr; müsse dich mit Lob umbgeben
+Mein warten und mein sehnlich&sr; Leben.</pv>
+<bs>G</bs><cw>6. Weil</cw>
+<pb="98"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>6.</pt>
+<pv>Weil aber all&sr; nicht gnug ist dich zu preisen/
+So wollst du selbst dein Lob vollführn:
+Und dir für mich Dank/ Ehr nnd Prei&sr; er-
+<et>weisen/</et>
+Wie deiner Hochheit wil gebührn:
+Du wollst ersetzen O mein Licht
+Wa&sr; mir an deinem Lob gebricht;
+Biß du mich wirst in dich erheben/
+Zu einem Glantz und einem Leben.</pv>
+<d2>Da&sr; Sech&sr; und Zwantzigste.
+<b>Sie vermahnet jhre Seele zu der</b>
+wahren Jnnigkeit deß Geiste&sr;.</d2>
+<abb>
+<cw>Fleug</cw>
+<pb="99"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>S</in>Chwing dich auff mein Täubelein behende/
+Und verfleug dich in dein letzte&sr; Ende:
+Fleug hinweg vom jr&rr;dischen Getümmel/
+Und begib dich in den stillen Himmel.</pv>
+<pt>2.</pt>
+<pv>Dein Gemahl mit dem du dich verbunden/
+Wird in keiner Unruh je gefunden:
+<bs>G ij</bs><cw>Drumb</cw>
+<pb="100"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Drumb so du mit jhm wilt seelig nisten/
+Schwenk dich in die ungeschaffne Wüsten.</pv>
+<pt>3.</pt>
+<pv>Tödt&2019; in dir all eitele verlangen/
+Und wa&sr; sonsten dich noch hält gefangen:
+Halt dein Hertz und deine Kräfft&2019; und Sinnen
+Ledig und mit wahrer Andacht innen.</pv>
+<pt>4.</pt>
+<pv>Steig hinauff mit Englischen Geberden/
+Und vergieß der Dinge die auff Erden;
+Halte dich dem eingen abgescheiden/
+Der dich ewig trösten kan und weiden.</pv>
+<pt>5.</pt>
+<pv>Also wird der König dich begehren/
+Und sein gnädge&sr; Antlitz dir gewehren:
+Also wird der Bräutigam dich küssen/
+Und du seiner wonniglich geniessen.</pv>
+<pt>6.</pt>
+<pv>Drumb fleug auff mein Täublein meine
+<et>Seele/</et>
+Schwing dich auß dem Schranken deiner Höle:
+<cw>Fleug</cw>
+<pb="101"/>
+<kt>Vierdte&sr; Buch.</kt>
+Fleug zu Gott mit innigem Gemüte/
+Und empfah sein&2019; ewge Lieb und Güte.</pv>
+<d2>Da&sr; Sieben uud Zwantzigste.
+<b>Die <aq>Psyche</aq> begehret gantz und gar</b>
+zu <g>GOTT.</g></d2>
+<abb>
+<bs>G iij</bs><cw>nihm</cw>
+<pb="102"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>D</in>Utausend-liebster Gott/ mein innigste&sr; verlang&te;/
+Mein ewge&sr; Freuden-Licht/ da&sr; mir mein Hertz
+<et>gefangen;</et>
+Nihm mich doch gantz zu dir
+Mein&2019; eintzige Begier/
+Nihm mich doch gantz zu dir.</pv>
+<pt>2.</pt>
+<pv>Du Abgrund meine&sr; Geist&sr;/ du Rauber meiner
+<et>Sinnen/</et>
+Du Zukker-süsser Tod/ der mich nur führt von hinnen:
+Nihm mich doch gantz zu dir/
+Mein&2019; eintzige Begier
+Nihm mich doch gantz zu dir.</pv>
+<pt>3.</pt>
+<pv>Du höchst gesuchter Schatz/ du Liebe lichste&sr; Leben/
+Du gantz begierlich&sr; Gut/ dem ich mich muß ergeben/
+Nihm mich doch gantz zu dir
+Mein eintzige Begier/
+Nihm mich doch gantz zu dir.</pv>
+<cw>Da&sr;</cw>
+<pb="103"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>Da&sr; Acht und Zwantzigste.
+<b>Die <aq>Psyche</aq> erfreuet sich auffgelöst</b>
+zu werden.
+<fr>Nach eine&sr; andren Melodey.</fr></pt>
+<abb>
+<bs>G jv</bs><cw>dem</cw>
+<pb="104"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>D</in>Je Zeit geht an die Jesu&sr; hat besti&tm;t/
+Da alle&sr; Leid bey mir ein Ende ni&tm;t:
+Gehab dich wol mein Kärker böse Welt/
+Mit allem dem wa&sr; deinem Geist gefällt.</pv>
+<pt>2.</pt>
+<pv>Ko&tm; meine Seel wir wollen numehr gehn/
+Wo Gotte&sr; Sohn und seine Diener stehn:
+Wir wollen un&sr; gesellen zu der Schaar/
+Die unverrukt frolokket jmmerdar.</pv>
+<pt>3.</pt>
+<pv>Gebenedeyt sey ewig dieser Tag
+Jn welchem ich durch Gott verlassen mag/
+Wa&sr; sterblich ist und blendt mein Augen-Licht/
+Daß ich nicht seh deß Liebsten Angesicht.</pv>
+<cw>4. Ach</cw>
+<pb="105"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>4.</pt>
+<pv>Ach Jesu Christ mein Leben in dem Tod/
+Mein Trost in Pein/ mein Freund in Angst und
+<et>Noth/</et>
+Jch wende mich mit aller Krafft zu dir/
+Ach thu mir auff die süsse Leben&sr;-Thür.</pv>
+<pt>5.</pt>
+<pv>Jch gebe dir von gantzem Hertzen hin/
+Wa&sr; du erlöst/ und wa&sr; ich durch dich bin;
+Nihm meine Seel wann sie vom Leib ist loß/
+Jn deine Hand und väterliche Schoß.</pv>
+<pt>6.</pt>
+<pv>Du bist mein Ziel/ mein Ende/ Ruhm und
+<et>Prei&sr;/</et>
+Mein Mittel-Punkt/ mein süsse&sr; Paradej&sr;/
+Jn dir allein findt meine Seele Ruh/
+Drumb seufftz ich auch dir unauffhörlich zu.</pv>
+<pt>7.</pt>
+<pv>Ach/ ach wie sehr verlangt mich doch nach dir/
+Ko&tm; doch mein Trost/ mein Leben ko&tm; zu nur:
+Verzeuch doch nicht auß dieser finstern Höl
+Jn deinen Hof zu holen meine Seel.</pv>
+<pt>8.</pt>
+<pv>Jch warte schon mit sehnlichem Verdruß/
+Auff dich mein Lieb und deinen ewgen Kuß;
+<bs>G v</bs><cw>Jch</cw>
+<pb="106"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+Jch bin fast krank und mein verlirbter Geist/
+Jst gleichsam weg von mir nach dir gereist.</pv>
+<pt>9.</pt>
+<pv>Jedoch damit ich dir nicht&sr; schreibe für/
+So wil ich gern und willig bleiben hier;
+Biß ko&tm;t die Zeit in welcher ich al&sr; Braut
+Dir meinem Gott u&tn; Bräutgam werd getraut.</pv>
+<d2>Da&sr; Neun und Zwantzigste.
+<b>Sie freuet sich daß sie in&sr; Hau&sr;</b>
+deß HErren wird eingehen.</d2>
+<abb>
+<cw>und</cw>
+<pb="107"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>F</in>Reud über Freud wa&sr; hab ich gehört!
+Wa&sr; hat vor Trost mein Hertze bethört!
+Wir werden in&sr; Hau&sr; deß HErren eingehn/
+Und jmmer und ewiglich wol mit jhm stehn.</pv>
+<pt>2.</pt>
+<pv>Er wird un&sr; zeigen alle&sr; sein Gut/
+Sein Angesicht und freundlichen Mut:
+Wir werden jhn schauen gleich wie er ist/
+Und wie er so wunderlich un&sr; hat erkiest.</pv>
+<pt>3.</pt>
+<pv>Wir werden jhm mit jauchzendem Mund
+Lobsingen für den ewigen Bund:
+Wir werden jhn mit den Englischen Ehörn
+Ohn alle&sr; ersättigen loben und ehrn.</pv>
+<cw>4. Wir</cw>
+<pb="108"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>4.</pt>
+<pv>Wir werden da (O seelige Lust!)
+Frey dürffen zu der Göttlichen Brust:
+Wir werden Gott kussen/ und allen Genuß
+Empfangen von seiner Dreyfaltigkeit Kuß.</pv>
+<pt>5.</pt>
+<pv>E&sr; wird da schmekken unsere Kehl
+Wie suss&2019; er ist/ ohn alle&sr; Gefehl:
+E&sr; werden Gemüt/ Hertz/ Leben und Sinn
+Für inniger Liebe zerfliessen in jhn.</pv>
+<pt>6.</pt>
+<pv>Wir werden gleich mit jhme regirn/
+Den Scepter/ dener selber hält/ führn:
+Wir werden mit jhm besitzen zugleich
+Ein&2019; einige Glory und einige&sr; Reich.</pv>
+<pt>7.</pt>
+<pv>Freud über Freud ich hab e&sr; gehört/
+Mein Trost und Hoffnung ist mir vermehrt!
+Wir werden in&sr; Hau&sr; deß HErren hinein/
+Und ewiglich da&sr;/ wa&sr; er selber ist/ seyn.</pv>
+<cw>Da&sr;</cw>
+<pb="109"/>
+<kt>Vierdte&sr; Buch.</kt>
+<d2>Da&sr; Dreissigste.
+<b>Sie sehnet sich nach der ewigen</b>
+Her&rr;ligkeit.</d2>
+<abb>
+<cw>1. Wie</cw>
+<pb="110"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>1.</pt>
+<pv><in>W</in>Je schön bist du mein Leben und mein Licht;
+Wie lieblich ist dein hulde&sr; Angesicht!
+Wie hoch-begierlich ist die grosse Freud&2019; und Wonne/
+Die man in dir geneust du ungeschaffne Sonne.</pv>
+<pt>2.</pt>
+<pv>Mein Hertze seufftzt und sehnet sich nach dir/
+Den Geist verlangt mit schmertzlicher Begier;
+Wer wird mir endlich doch/ daß ich dich schaue/ geben/
+Und meine Blödigkeit in deinen Glantz erheben.</pv>
+<pt>3.</pt>
+<pv>Wie her&rr;lich ist dein Göttliche&sr; Pallast/
+Da&sr; du in dir zu deiner Wohnung hast!
+Wann werd&2019; ich dermaleinst in deinen Tempel gehen.
+Und deiner Majestät allda zu Diensten stehen?</pv>
+<pt>4.</pt>
+<pv>Wann werd ich dir mit Englischem Gesang
+Für deine Treu erzeigen Lob und Dank?
+O meine&sr; Hertzen&sr; Gott/ wa&tn; werd ich dich dort oben!
+Mit deinen Heiligen in ewgem Jubel loben!</pv>
+<pt>5.</pt>
+<pv>Ach daß ich doch mich noch nicht soll erfreun/
+Und dir daselbst da&sr; Halleluja schreyn!
+Wann werd&2019; ich dann für dich mein&2019; arme Seele
+<et>bringen/</et>
+Und deiner Würdigkeit da&sr; ewge <aq>Sanctu&sr;</aq> singen?</pv>
+<cw>6. O wah-</cw>
+<pb="111"/>
+<kt>Vierdte&sr; Buch.</kt>
+<pt>6.</pt>
+<pv>O wahrer Trost/ wann wird e&sr; dann geschehn/
+Daß ich dich werd&2019; ohn alle&sr; Mittel sehn?
+Wann werd&2019; ich wie du bist dich schauen und empfind&te;/
+Und in dich süsse Flut zerflüssen und verschwinden?</pv>
+<pt>7.</pt>
+<pv>Wer ist dir gleich/ wer ist so groß al&sr; du?
+Wer sitzt so stoltz in ewger Freud und Ruh?
+Wer weiß den Uberfluß der Reichthümer zu schätzen/
+Mit welchen du mich wirst in Ewigkeit ergötzen?</pv>
+<pt>8.</pt>
+<pv>Du bist allein mein ewge&sr; Freuden-Meer/
+Bist all mein Gut/ und wa&sr; ich nur begehr:
+Jch werde mich an dir nicht satt genugsam sehen/
+Wann deiner Her&rr;ligkeit Eröffnung wird geschehen.</pv>
+<pt>9.</pt>
+<pv>Wird auch mein Geist in jhm seyn zu der Zeit/
+Wann ich O Gott werd&2019; eingehn in die Frend?
+Werd&2019; ich auch von mir selbst für grosser Wollust
+<et>wissen</et>
+Wann deiner Gottheit Strohm in mich sich wird
+<et>ergiessen?</et></pv>
+<pt>10.</pt>
+<pv>Ach&2019; e&sr; vergeht mir jetzt schon Krafft und Sinn/
+Und mein Gemüt ist auß mir nach dir hin:
+O wonnigliche&sr; Gut zeuch doch mein gantze&sr; Wesen/
+Jn deinen Abgrund ein/ so bin ich wol genesen.</pv>
+<cw>Da&sr;</cw>
+<pb="112"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<d2>Da&sr; Ein und Dreissigste.
+<b>Sie bittet vor die Freunde jhre&sr;</b>
+Geliebten.
+<fr>Auß dem Lateinischen eine&sr; unbekandten.</fr></d2>
+<abb>
+<cw>zu Gott</cw>
+<pb="113"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<pt>1.</pt>
+<pv><in>J</in>Hr treuen Seelen die jhr seyd
+Jn Christo abgeleibet;
+Und von der ewgen Fröligkeit
+Noch außgeschlossen bleibet:
+Wie gerne wolt&2019; ich eurer Noth
+Zu statt und Hülffe kommen;
+Daß jhr in&sr; Freuden-Reich zu <g>GOTT</g>
+Möcht werden auffgenommen.</pv>
+<pt>2.</pt>
+<pv>O Vater der Barmhertzigkeit/
+O Gott voll Trost und Güte/
+Schau sie doch an mit Freundligkeit
+Wend ab da&sr; Zorn-Gemüte:
+Sie haben zwar verdient die Pein
+Dich aber doch bekennet;
+Drumb schon und laß vergeben seyn
+Daß sie so blind gerennet.</pv>
+<bs>H</bs><cw>3. O Je-</cw>
+<pb="114"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>3.</pt>
+<pv>O JEsu voller Mildigkeit/
+O Heiland außerlesen/
+Erlöse doch auß allem Leid
+Wa&sr; durch dein Blut genesen/
+Verzeih/ laß spüren deine Huld/
+Die dich inbrünstig lieben;
+Erlaß die Straff/ lesch auß die Schuld/
+Weil sie getreu geblieben.</pv>
+<pt>4.</pt>
+<pv>O Heilger Geist du süsser Trost
+Du Advocat der Armen/
+Laß sie doch nicht ohn Lieb gekost
+Und würkliche&sr; erbarmen:
+Führ sie auß jhrer Hitz und Glut
+Daß sie sich sanfft erkühlen/
+Und laß sie ewig all dein Gut
+Und deinen Frieden fühlen.</pv>
+<pt>5.</pt>
+<pv>Maria süsser Gnaden-Fluß
+Du Trösterin im Leiden/
+Halt auff deß Urtheil&sr; strengen Schluß
+Und wa&sr; so scharff thut schneiden:
+<cw>Vermeng</cw>
+<pb="115"/>
+<kt>Vierdte&sr; Buch.</kt>
+Vermeng die Fla&tm; mit deiner Gunst/
+Und lindere die Schmertzen;
+Lösch auß da&sr; Feur/ kühl ab die Brunst
+Und still die Angst im Hertzen.</pv>
+<pt>6.</pt>
+<pv>Jhr Engel die jhr un&sr; bewacht/
+Und diese Seeln geführet/
+Nehmt doch die ärmsten jetzt in acht/
+Und thut wa&sr; euch gebühret:
+Treibt alle frome Hertzen an/
+Daß sie an sie gedenken/
+Und jhnen wa&sr; sie gut&sr; gethan
+Zu Hülff und Beysteur schenken.</pv>
+<pt>7.</pt>
+<pv>Jhr all&2019; auch die jhr schon bey Gott
+Jn ewgen Freuden lebet/
+Erbarmet euch doch jhrer Noth/
+Schaut daß jhr sie erhebet:
+Weil sie die Trübsal und Elend
+Mit euch geschmekt auff Erden/
+So macht auch daß sie nu behend
+Der Ruhe würdig werden.</pv>
+<bs>H ij</bs><cw>8. O Ur-</cw>
+<pb="116"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>8.</pt>
+<pv>O Ursprung aller Gütigkeit/
+O Brunquell deß erbarmen/
+Laß doch der Fromen Hertzeleid
+Verhelffen diesen Armen:
+Der Richt-Platz deiner G&2019;rechtigkeit
+Jst in dem höllschen Leiden;
+Da&sr; Dank-Lied deiner Mildigkeit
+Singt man in&sr; Himmel&sr; Freuden.</pv>
+<d2>Zur Zugabe ist hinzu gesetzt
+Da&sr; Zwey und Dreissigste.
+<b>Betrachtung der Ewigkeit.</b></d2>
+<abb>
+<pb="117"/>
+<kt>Vierdte&sr; Buch.</kt>
+<abb>
+<bs>H iij</bs><cw>1. O</cw>
+<pb="118"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>1.</pt>
+<pv><in>O</in>Ewigkeit! O Ewigkeit!
+Mein Hertz muß in mir weinen/
+Wann e&sr; da&sr; Unend deiner Zeit
+Bedenkt/ und deine Peinen:
+Jch werde blaß und ungestalt
+Ob deiner Jahre Länge;
+Jch bin erstaunt und sterbe bald
+Für deiner Qualen Menge!
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>2.</pt>
+<pv>Miß alle Tropffen die im Meer/
+Jn Flüssen und in Brünnen;
+Zehl alle die von oben her
+Gefalln und fallen können:
+Rechn&2019; alle Flokken noch darzu
+Die je der Schnee gegeben;
+So ist doch diese Zahl ein Nu
+Zum ewgen Jammer-Leben.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>3.</pt>
+<pv>Zehi alle&sr; Laub mit welchem je
+Die Wälder un&sr; erfreuet;
+Und alle&sr; Gra&sr; da&sr; spat und früh
+Die Zeit hat abgemeyet:
+<cw>Auch</cw>
+<pb="119"/>
+<kt>Vierdte&sr; Buch.</kt>
+Auch noch die Stäublein allzumal
+Die in der Sonnen streichen/
+So wirst du doch noch nicht die Zahl
+Der Ewigkeit erreichen.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>4.</pt>
+<pv>Setz einen Berg der mit der Spitz
+Deß Himmel&sr; Burg berühre/
+Und seiner starken Wurtzeln Sitz
+So weit die Welt geht führe;
+Trag dann ein eintzig&sr; Gränelein
+Jn Tausend Jahrn herunter/
+So bleibt doch noch die ewge Pein/
+Wann er gantz weg ist/ munter.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>5.</pt>
+<pv>Beschreib da&sr; gantze Firmament
+So dicht du kanst mit Zahlen;
+Laß drauff die Erd biß an jhr End
+Mit Ziffern übermahlen:
+Sprich&sr; auß so&2019;&sr; dein Verstand vermag/
+So wirst du doch nicht sprechen
+Da&sr; Jahr in dem der erste Tag
+Der Ewigkeit wird brechen.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<bs>H jv</bs><cw>6. Die</cw>
+<pb="120"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>6.</pt>
+<pv>Die Ewigkeit ist wie ein Kreiß
+Der in sich selber gehet;
+Wie eine Schlange die mit Fleiß
+Auff sich gewunden stehet:
+Jst wie ein Rad da&sr; fort und fort/
+Umb seine Well sich schwinget;
+Und doch nicht einen Ruk zum Port/
+So lang sie wehret bringet.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>7.</pt>
+<pv>Sie ist ein Feuer dessen Brunst
+Von seinem eignem zehret;
+Ein Brand der sich durch sondre Kunst
+Von seinem Dampff ernähret:
+Sie ist ein Rachen und ein Schlund
+Der sich stet&sr; selbst verschlukket;
+Sie ist ein Abgrund ohne Grund
+Der jmmer tieffer rukket.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>8.</pt>
+<pv>Wann du vermeynst sie sey nun auß
+Nach Hundert Tausend Zeiten/
+So thut sie erst jhr Trauer-Hau&sr;
+Da&sr; erste wal beschreiten:
+<cw>Wann</cw>
+<pb="121"/>
+<kt>Vierdte&sr; Buch.</kt>
+Wann sie sich endt so fängt sie an
+Jhr Anfang der ist jmmer;
+Jhr Mittel schaut sie niemal&sr; an
+Wie auch jhr Ende nimmer.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>9.</pt>
+<pv>Sie ist ein&2019; ungeheure Glut
+Die unerleidlich brennet;
+Ein schneidend Schwerdt da&sr; Mut und Blut/
+Da&sr; Leib und Seel zertrennet:
+Sie ist ein Wurm der Tag und Nacht
+Jn dem Gewissen naget;
+Sie ist ein Stachel der mit Macht
+Die Hertzen sticht und plaget.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>10.</pt>
+<pv>Sie ist ein Donner und ein Blitz
+Der ohne Trost erschrekket;
+Ein Strahl der mit subtiler Hitz
+Durchdringet und erstekket:
+Ein Sturm der all&sr; wa&sr; Hoffnung heist
+Jm Gri&tm; zu Boden schläget;
+Ein Ungewitter da&sr; im Geist
+Ein ewge&sr; Weh erreget.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<bs>H v</bs><cw>11. Sie</cw>
+<pb="122"/>
+<kt>Geistlicher Hirten-Lieder</kt>
+<pt>11.</pt>
+<pv>Sie ist ein Abscheu/ eine Klufft
+Die da&sr; Gesicht bestürtzet;
+Ein tieffe&sr; Loch und finstre Grufft
+Die alle Bahn abkürtzet:
+Sie ist ein Kärker den der Schein
+Der Sonnen nicht begrüsset;
+Ein Fässel welche&sr; Mark und Bein
+Ohn Außlaß in sich schleisset.
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>12.</pt>
+<pv>Sie ist ein Wüttrich und Tyrann/
+Ein ewger Hertzen-Brecher;
+Ein grausam Thier und zornger Mann/
+Ein strenger Sünden-Rächer:
+Sie ist ein heulen und ein schreyn/
+Ein ewger Seelen-Jammer;
+Ein ewige&sr; vermaledeyn/
+Ein ewiger Verdammer!
+Ach/ ach wa&sr; ist die Ewigkeit!</pv>
+<pt>13.</pt>
+<pv>Sag wa&sr; du wilt/ die Ewigkeit
+Wird nie genug beschrieben;
+Wer weiß die Höh der Grausamkeit/
+Die sie pflegt zu verüben:
+<cw>Kein</cw>
+<pb="123"/>
+<kt>Vierdte&sr; Buch.</kt>
+Kein Auge hat jhrn Schlund gesehn/
+Kein Ohr jhr brülln vernommen;
+E&sr; ist auch jhre Qual und drehn
+Noch in kein Hertze kommen.
+So grimmig ist die Ewigkeit!</pv>
+<p><g>ENDE.</g></p>
+<hr>
+<cw>Register</cw>
+<pb>
+<back><d1><fr>Register</fr>
+<b>Der Gesänge nach dem anfahenden</b>
+Buchstaben.</d1>
+<li><in>A</in>Ch weh/ ach weh wo soll ich hin _ _ <aq>Pag.</aq> <ref>17</ref></li>
+<li>Ach wa&sr; lauffst du hin und her _ _ <ref>25</ref></li>
+<li>Ach wa&sr; hast du gethan _ _ <ref>62</ref></li>
+<li>Al&sr; ich nechst im Wald spatzirte _ _ <ref>41</ref></li>
+<li>Auff/ auff mein Hertz _ _ <ref>78</ref></li>
+<li>Auff/ auff mein Geist _ _ <ref>94</ref>
+<li>Bleib hier/ bleib hier du Trost _ _ <ref>50</ref></li>
+<li>Der Frühling ko&tm;t heran _ _ <ref>73</ref></li></li>
+<li>Die Zeit geht an die Jesu&sr; hat besti&tm;&sr; _ _ <ref>103</ref></li>
+<li>Dich Mutter Gotte&sr; loben wir _ _ <ref>1</ref></li>
+<li>Du Edler Jüngling mein Patron _ _ <ref>6</ref></li>
+<li>Du Welt-berühmte Büsserin _ _ <ref>11</ref></li>
+<li>Du Edler Bräutigam _ _ <ref>53</ref></li>
+<li>Du tausend-schöne&sr; Kind _ _ <ref>59</ref></li>
+<li>Du tausend-liebster Gott _ _ <ref>101</ref>
+<li>Freut euch jhr Hirten all&2019; _ _ <ref>56</ref></li></li>
+<li>Freud über Freud wa&sr; hab ich gehört _ _ <ref>106</ref>
+<li>Hört Wunder/ hört deß König&sr; Sohn _ _ <ref>38</ref></li>
+<li>JEsu unsre Freude _ _ <ref>92</ref></li></li>
+<li>JEsu&sr; ist da&sr; schönste Bild _ _ <ref>48</ref></li>
+<li>Jhr treuen Seelen die jhr seyd _ _ <ref>112</ref></li>
+<li>Jhr Schäfferinnen die jhr bald _ _ <ref>35</ref></li>
+<li>Jhr kleinen Bögelein _ _ <ref>86</ref>
+<li>Ko&tm;t last un&sr; JEsum krönen _ _ <ref>89</ref></li></li>
+<li>Ko&tm;t her und schauet an mein Leben _ _ <ref>64</ref>
+<li>Liebster Schäffer mein verlangen _ _ <ref>46</ref></li>
+<li>Nachtigall wann dein Gesang _ _ <ref>68</ref></li>
+<li>O Ewigkeit! O Ewigkeit _ _ <ref>116</ref></li>
+<li><aq>Psyche</aq> die verliebte Seele _ _ <ref>28</ref></li>
+<li>Schwing dich auff mein Täubelein _ _ <ref>98</ref></li>
+<li>Wie schön bist du mein Leben _ _ <ref>109</ref></li></li>
+<li>Wolt jhr den HErren finden _ _ <ref>31</ref></li>
+<hr></back>
+<pb>
+<pb>
+<pb>

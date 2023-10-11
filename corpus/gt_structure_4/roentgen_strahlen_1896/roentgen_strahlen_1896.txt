@@ -1,0 +1,424 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b><g>EINE NEUE ART</g></b>
+<g>VON</g>
+<b>STRAHLEN.</b>
+<hr>
+<g><k>Von</k></g>
+<b><k>Dr#.</k> W. <g>RÖNTGEN,</g></b>
+Ö. O. PROFESSOR AN DER K. UNIVERSITÄT WÜRZBURG.
+<hr>
+<b>WÜRZBURG.</b>
+VERLAG UND DRUCK DER <g>STAHEL</g>&2019;SCHEN K. HOF- UND UNIVERSITÄTS-
+BUCH- UND KUNSTHANDLUNG.
+Ende 1895.
+<u>60 &20B0;.</u></front>
+<pb>
+<pb>
+<front><b><g>EINE NEUE ART</g></b>
+<g>VON</g>
+<b>STRAHLEN.</b>
+<hr>
+<g><k>Von</k></g>
+<b><k>Dr#. Wilhelm Konrad Röntgen</k></b>
+Ö. O. PROFESSOR AN DER K. UNIVERSITÄT WÜRZBURG.
+<b>2. Auflage.</b>
+<hr>
+<b><g>WÜRZBURG</g>.</b>
+VERLAG UND DRUCK DER <g>STAHEL</g>&2019;SCHEN K. B. HOF- UND UNIVERSITÄTS-
+BUCH- UND KUNSTHANDLUNG.
+1896.</front>
+<pb>
+<pb>
+<kt>Aus den &201E;Sitzungsberichten der Würzburger Physik.-medic. Gesellschaft&201C; 1895. (Beitrag.)</kt>
+<d1><b>W. C. <g>Röntgen</g>: Ueber eine neue Art von Strahlen.</b></d1>
+<p><c>(Vorläufige Mittheilung.)</c></p>
+<p>1. Lässt man durch eine <i>Hittorf</i>&2019;sche Vacuumröhre, oder
+einen genügend evacuirten <i>Lenard</i>&2019;schen, <i>Crookes</i>&2019;schen oder ähn-
+lichen Apparat die Entladungen eines grösseren <i>Ruhmkorff</i>&2019;s gehen
+und bedeckt die Röhre mit einem ziemlich eng anliegenden Mantel
+aus dünnem, schwarzem Carton, so sieht man in dem vollständig
+verdunkelten Zimmer einen in die Nähe des Apparates gebrachten,
+mit Bariumplatincyanür angestrichenen Papierschirm bei jeder
+Entladung hell aufleuchten, fluoresciren, gleichgültig ob die an-
+gestrichene oder die andere Seite des Schirmes dem Entladungs-
+apparat zugewendet ist. Die Fluorescenz ist noch in 2 m Ent-
+fernung vom Apparat bemerkbar.</p>
+<p>Man überzeugt sich leicht, dass die Ursache der Fluores-
+cenz vom Entladungsapparat und von keiner anderen Stelle der
+Leitung ausgeht.</p>
+<p>2. Das an dieser Erscheinung zunächst Auffallende ist,
+dass durch die schwarze Cartonhülse, welche keine sichtbaren
+oder ultravioletten Strahlen des Sonnen- oder des elektrischen
+Bogenlichtes durchlässt, ein Agens hindurchgeht, das im Stande
+ist, lebhafte Fluorescenz zu erzeugen, und man wird deshalb wohl
+zuerst untersuchen, ob auch andere Körper diese Eigenschaft
+besitzen.</p>
+<p>Man findet bald, dass alle Körper für dasselbe durchlässig
+sind, aber in sehr verschiedenem Grade. Einige Beispiele führe
+ich an. Papier ist sehr durchlässig:<fn="1)">Mit &201E;Durchlässigkeit&201C; eines Körpers bezeichne ich das Verhältniss der
+Helligkeit eines dicht hinter dem Körper gehaltenen Fluorescenzschirmes zu der-
+jenigen Helligkeit des Schirmes, welcher dieser unter denselben Verhältnissen aber
+ohne Zwischenschaltung des Körpers zeigt.</fn> hinter einem eingebun-
+denen Buch von ca. 1000 Seiten sah ich den Fluorescenzschirm
+noch deutlich leuchten; die Druckerschwärze bietet kein merk-
+liches Hinderniss. Ebenso zeigte sich Fluorescenz hinter einem
+doppelten Whistspiel; eine einzelne Karte zwischen Apparat
+<pb="4"/>
+und Schirm gehalten macht sich dem Auge fast gar nicht be-
+merkbar. &2014; Auch ein einfaches Blatt Stanniol ist kaum wahr-
+zunehmen; erst nachdem mehrere Lagen über einander gelegt
+sind, sieht man ihren Schatten deutlich auf dem Schirm. &2014;
+Dicke Holzblöcke sind noch durchlässig; zwei bis drei cm dicke
+Bretter aus Tannenholz absorbiren nur sehr wenig. &2014; Eine ca.
+15 mm dicke Aluminiumschicht schwächte die Wirkung recht
+beträchtlich, war aber nicht im Stande, die Fluorescenz ganz
+zum Verschwinden zu bringen. &2014; Mehrere cm dicke Hartgummi-
+scheiben lassen noch Strahlen<fn="1)">Der Kürze halber möchte ich den Ausdruck &201E;Strahlen&201C; und zwar zur
+Unterscheidung von anderen den Namen &201E;X-Strahlen&201C; gebrauchen. Vergl. u. pag. 9.</fn> hindurch. &2014; Glasplatten gleicher
+Dicke verhalten sich verschieden, je nachdem sie bleihaltig sind
+(Flintglas) oder nicht; erstere sind viel weniger durchlässig als
+letztere. &2014; Hält man die Hand zwischen den Entladungsapparat
+und den Schirm, so sieht man die dunkleren Schatten der Hand-
+knochen in dem nur wenig dunklen Schattenbild der Hand. &2014;
+Wasser, Schwefelkohlenstoff und verschiedene andere Flüssig-
+keiten erweisen sich in Glimmergefässen untersucht als sehr
+durchlässig. &2014; Dass Wasserstoff wesentlich durchlässiger wäre
+als Luft habe ich nicht finden können. &2014; Hinter Platten aus
+Kupfer, resp. Silber, Blei, Gold, Platin ist die Fluorescenz noch
+deutlich zu erkennen, doch nur dann, wenn die Plattendicke
+nicht zu bedeutend ist. Platin von 0,2 mm Dicke ist noch durch-
+lässig; die Silber- und Kupferplatten können schon stärker sein.
+Blei in 1.5 mm Dicke ist so gut wie undurchlässig und wurde des-
+halb häufig wegen dieser Eigenschaft verwendet. &2014; Ein Holzstab
+mit quadratischem Querschnitt (20 &00D7; 20 mm), dessen eine Seite
+mit Bleifarbe weiss angestrichen ist, verhält sich verschieden,
+je nachdem er zwischen Apparat und Schirm gehalten wird;
+fast vollständig wirkungslos, wenn die X-Strahlen parallel der
+angestrichenen Seite durchgehen, entwirft der Stab einen dunklen
+Schatten, wenn die Strahlen die Anstrichfarbe durchsetzen
+müssen. &2014; In eine ähnliche |Reihe, wie die| Metalle, lassen
+sich ihre Salze, fest oder in Lösung, in Bezug auf ihre Durch-
+lässigkeit ordnen.</p>
+<p>3. Die angeführten Versuchsergebnisse und andere führen
+zu der Folgerung, dass die Durchlässigkeit der verschiedenen
+<pb="5"/>
+Substanzen, gleiche Schichtendicke vorausgesetzt, wesentlich be-
+dingt ist durch ihre Dichte: keine andere Eigenschaft macht
+sich wenigstens in so hohem Grade bemerkbar als diese.</p>
+<p>Dass aber die Dichte doch nicht ganz allein massgebend
+ist, das beweisen folgende Versuche. Ich untersuchte auf ihre
+Durchlässigkeit nahezu gleichdicke Platten aus Glas, Aluminium,
+Kalkspath und Quarz; die Dichte dieser Substanzen stellte sich
+als ungefähr gleich heraus, und doch zeigte sich ganz evident,
+dass der Kalkspath beträchtlich weniger durchlässig ist als die
+übrigen Körper, die sich untereinander ziemlich gleich verhielten.
+Eine besonders starke Fluorescenz des Kalkspathes (vergl. u.
+pag. 4.) namentlich im Vergleich zum Glas habe ich nicht be-
+merkt.</p>
+<p>4. Mit zunehmender Dicke werden alle Körper weniger
+durchlässig. Um vielleicht eine Beziehung zwischen Durchlässig-
+keit und Schichtendicke finden zu können, habe ich photogra-
+phische Aufnahmen (vergl. u. pag. 4) gemacht, bei denen die
+photographische Platte zum Theil bedeckt war mit Stanniol-
+schichten von stufenweise zunehmender Blätterzahl; eine photo-
+metrische Messung soll vorgenommen werden, wenn ich im Be-
+sitz eines geeigneten Photometers bin.</p>
+<p>5. Aus Platin, Blei, Zink und Aluminium wurden durch
+Auswalzen Bleche von einer solchen Dicke hergestellt, dass alle
+nahezu gleich durchlässig erschienen. Die folgende Tabelle ent-
+hält die gemessene Dicke in mm, die relative Dicke bezogen auf
+die des Platinbleches und die Dichte.</p>
+<tab>
+<p>Aus diesen Werthen ist zu entnehmen, dass keineswegs
+gleiche Durchlässigkeit verschiedener Metalle vorhanden ist,
+wenn das Produkt aus Dicke und Dichte gleich ist. Die Durch-
+lässigkeit nimmt in viel stärkerem Masse zu, als jenes Product
+abnimmt.</p>
+<p>6. Die Fluorescenz des Bariumplatincyanürs ist nicht die
+einzige erkennbare Wirkung der X-Strahlen. Zunächst ist zu
+erwähnen, dass auch andere Körper fluoresciren; so z. B. die
+<pb="6"/>
+als Phosphore bekannten Calciumverbindungen, dann Uranglas,
+gewöhnliches Glas, Kalkspath, Steinsalz etc.</p>
+<p>Von besondererer Bedeutung in mancher Hinsicht ist die
+Thatsache, dass photographische Trockenplatten sich als em-
+pfindlich für die X-Strahlen erwiesen haben. Man ist im Stande
+manche Erscheinung zu fixiren, wodurch Täuschungen leichter
+ausgeschlossen werden; und ich habe, wo es irgend anging, jede
+wichtigere Beobachtung, die ich mit dem Auge am Fluorescenz-
+schirm machte, durch eine photographische Aufnahme controllirt.</p>
+<p>Dabei kommt die Eigenschaft der Strahlen, fast ungehindert
+durch dünnere Holz-, Papier- und Stanniolschichten hindurchgehen
+zu können, sehr zu Statten; man kann die Aufnahmen mit der
+in der Cassette, oder in einer Papierumhüllung eingeschlossenen
+photographischen Platte im beleuchteten Zimmer machen. An-
+dererseits hat diese Eigenschaft auch zur Folge, dass man un-
+entwickelte Platten nicht bloss durch die gebräuchliche Hülle
+aus Pappendeckel und Papier geschützt längere Zeit in der Nähe
+des Entladungsapparates liegen lassen darf.</p>
+<p>Fraglich erscheint es noch, ob die chemische Wirkung auf
+die Silbersalze der photographischen Platte direct von den
+X-Strahlen ausgeübt wird. Möglich ist es, dass diese Wirkung
+herrührt von dem Fluorescenzlicht, das, wie oben angegeben, in
+der Glasplatte, oder vielleicht in der Gelatineschicht erzeugt
+wird. &201E;Films&201C; können übrigens ebenso gut wie Glasplatten ver-
+wendet werden.</p>
+<p>Dass die X-Strahlen auch eine Wärmewirkung auszuüben
+im Stande sind, habe ich noch nicht experimentell nachgewiesen;
+doch darf man wohl diese Eigenschaft als vorhanden annehmen,
+nachdem durch die Fluorescenzerscheinungen die Fähigkeit der
+X-Strahlen, verwandelt zu werden, nachgewiesen ist, und es
+sicher ist, dass nicht alle auffallenden X-Strahlen den Körper
+als solche wieder verlassen.</p>
+<p>Die Retina des Auges ist für unsere Strahlen unempfind-
+lich; das dicht an den Entladungsapparat herangebrachte Auge
+bemerkt nichts, wiewohl nach den gemachten Erfahrungen die
+im Auge enthaltenen Medien für die Strahlen durchlässig genug
+sein müssen.</p>
+<p>7. Nachdem ich die Durchlässigkeit verschiedener Körper
+von relativ grosser Dicke erkannt hatte, beeilte ich mich, zu
+erfahren, wie sich die X-Strahlen beim Durchgang durch ein
+<pb="7"/>
+Prisma verhalten, ob sie darin abgelenkt werden oder nicht.
+Versuche mit Wasser und Schwefelkohlenstoff in Glimmerprismen
+von ca. 30° brechendem Winkel haben gar keine Ablenkung er-
+kennen lassen weder am Fluorescenzschirm, noch an der photo-
+graphischen Platte. Zum Vergleich wurde unter denselben Ver-
+hältnissen die Ablenkung von Lichtstrahlen beobachtet; die ab-
+gelenkten Bilder lagen auf der Platte um ca. 10 mm resp.
+ca. 20 mm von dem nicht abgelenkten entfernt. &2014; Mit einem
+Hartgummi- und einem Aluminiumprisma von ebenfalls ca. 30°
+brechendem Winkel habe ich auf der photographischen Platte
+Bilder bekommen, an denen man vielleicht eine Ablenkung er-
+kennen kann. Doch ist die Sache sehr unsicher, und die Ab-
+lenkung ist. wenn überhaupt vorhanden, jedenfalls so klein, dass
+der Brechungsexponent der X-Strahlen in den genannten Sub-
+stanzen höchstens 1.05 sein könnte. Mit dem Fluorescenzschirm
+habe ich auch in diesem Fall keine Ablenkung beobachten
+können.</p>
+<p>Versuche mit Prismen aus dichteren Metallen lieferten bis
+jetzt wegen der geringen Durchlässigkeit und der in Folge
+dessen geringen Intensität der durchgelassenen Strahlen kein
+sicheres Resultat.</p>
+<p>In Anbetracht dieser Sachlage einerseits und andererseits
+der Wichtigkeit der Frage, ob die X-Strahlen beim Uebergang
+von einem Medium zum anderen gebrochen werden können oder
+nicht, ist es sehr erfreulich, dass diese Frage noch in anderer
+Weise untersucht werden kann, als mit Hülfe von Prismen. Fein
+pulverisirte Körper lassen in genügender Schichtendicke das
+auffallende Licht nur wenig und zerstreut hindurch in Folge
+von Brechung und Reflexion: erweisen sich nun die Pulver für
+die X-Strahlen gleich durchlässig, wie die cohärente Substanz &2014;
+gleiche Massen vorausgesetzt &2014; so ist damit nachgewiesen, dass
+sowohl eine Brechung als auch eine regelmässige Reflexion nicht
+in merklichem Betrage vorhanden ist. Die Versuche wurden mit
+fein pulverisirtem Steinsalz, mit feinem, auf electrolytischem
+Wege gewonnenem Silberpulver und dem zu chemischen Unter-
+suchungen vielfach verwandten Zinkstaub angestellt; es ergab
+sich in allen Fällen kein Unterschied in der Durchlässigkeit der
+Pulver und der cohärenten Substanz, sowohl bei der Beobachtung
+am Fluorenscenzschirm, als auch auf der photographischen Platte.</p>
+<pb="8"/>
+<p>Dass man mit Linsen die X-Strahlen nicht concentriren
+kann, ist nach dem Mitgetheilten selbstverständlich; eine grosse
+Hartgummilinse und eine Glaslinse erwiesen sich in der That
+als wirkungslos. Das Schattenbild eines runden Stabes ist in
+der Mitte dunkler als am Rande; dasjenige einer Röhre, die mit
+einer Substanz gefüllt ist, die durchlässiger ist als das Material
+der Röhre, ist in der Mitte heller als am Rande.</p>
+<p>8. Die Frage nach der Reflexion der X-Strahlen ist durch
+die Versuche des vorigen Paragraphen als in dem Sinne erledigt
+zu betrachten, dass eine merkliche regelmässige Zurückwerfung
+der Strahlen an keiner der untersuchten Substanzen stattfindet.
+Andere Versuche, die ich hier übergehen will, führen zu dem-
+selben Resultat.</p>
+<p>Indessen ist eine Beobachtung zu erwähnen, die auf den
+ersten Blick das Gegentheil zu ergeben scheint. Ich exponirte
+eine durch schwarzes Papier gegen Lichtstrahlen geschützte
+photographische Platte, mit der Glasseite dem Entladungsapparat
+zugewendet, den X-Strahlen; die empfindliche Schicht war bis auf
+einen frei bleibenden Theil mit blanken Platten aus Platin, Blei,
+Zink und Aluminium in sternförmiger Anordnung bedeckt. Auf
+dem entwickelten Negativ ist deutlich zu erkennen, dass die
+Schwärzung unter dem Platin, dem Blei und besonders unter dem
+Zink stärker ist als an den anderen Stellen; das Aluminium hatte
+gar keine Wirkung ausgeübt. Es scheint somit, dass die drei ge-
+nannten Metalle die Strahlen reflectiren; indessen wären noch
+andere Ursachen für die stärkere Schwärzung denkbar, und um
+sicher zu gehen, legte ich bei einem zweiten Versuch zwischen die
+empfindliche Schicht und die Metallplatten ein Stück dünnes Blatt-
+aluminium, welches für ultraviolette Strahlen undurchlässig, da-
+gegen für die X-Strahlen sehr durchlässig ist. Da auch jetzt wieder
+im Wesentlichen dasselbe Resultat erhalten wurde, so ist eine Re-
+flexion von X-Strahlen an den genannten Metallen nachgewiesen.</p>
+<p>Hält man diese Thatsache zusammen mit der Beobachtung, dass
+Pulver ebenso durchlässig sind, wie cohärente Körper, dass weiter
+Körper mit rauher Oberfläche sich beim Durchgang der X-Strahlen,
+wie auch bei dem zuletzt beschriebenen Versuch ganz gleich wie
+polirte Körper verhalten, so kommt man zu der Anschauung,
+dass zwar eine regelmässige Reflexion, wie gesagt, nicht statt-
+findet, dass aber die Körper sich den X-Strahlen gegenüber
+ähnlich verhalten, wie die trüben Medien dem Licht gegenüber.</p>
+<pb="9"/>
+<p>Da ich auch keine Brechung beim Uebergang von einem Medium
+zum anderen nachweisen konnte, so hat es den Anschein, als ob
+die X-Strahlen sich mit gleicher Geschwindigkeit in allen Körpern
+bewegen, und zwar in einem Medium, das überall vorhanden ist,
+und in welchem die Körpertheilchen eingebettet sind. Die letz-
+teren bilden für die Ausbreitung der X-Strahlen ein Hinderniss
+und zwar im Allgemeinen ein desto grösseres, je dichter der
+betreffende Körper ist.</p>
+<p>9. Demnach wäre es möglich, dass auch die Anordnung der
+Theilchen im Körper auf die Durchlässigkeit desselben einen
+Einfluss ausübte, dass z. B. ein Stück Kalkspath bei gleicher
+Dicke verschieden durchlässig wäre, wenn dasselbe in der Richtung
+der Axe oder senkrecht dazu durchstrahlt wird. Versuche mit
+Kalkspath und Quarz haben aber ein negatives Resultat ergeben.</p>
+<p>10. Bekanntlich ist <i>Lenard</i> bei seinen schönen Versuchen
+über die von einem dünnen Aluminiumblättchen hindurchgelassenen
+<i>Hittorf</i>&2019;schen Kathodenstrahlen zu dem Resultat gekommen, dass
+diese Strahlen Vorgänge im Aether sind, und dass sie in allen
+Körpern diffus verlaufen. Von unseren Strahlen haben wir
+Aehnliches aussagen können.</p>
+<p>In seiner letzten Arbeit hat <i>Lenard</i> das Absorptionsvermögen
+verschiedener Körper für die Kathodenstrahlen bestimmt und
+dasselbe u. a. für Luft von Atmosphärendruck zu 4,10, 3,40,
+3,10 auf 1 cm bezogen gefunden, je nach der Verdünnung des
+im Entladungsapparat enthaltenen Gases. Nach der aus der
+Funkenstrecke geschätzten Entladungsspannung zu urtheilen,
+habe ich es bei meinen Versuchen meistens mit ungefähr gleich-
+grossen und nur selten mit geringeren und grösseren Verdünnungen
+zu thun gehabt. Es gelang mir mit dem <i>L. Weber</i>&2019;schen Photo-
+meter &2014; ein besseres besitze ich nicht &2014; in atmosphärischer
+Luft die Intensitäten des Fluorescenzlichtes meines Schirmes in
+zwei Abständen &2014; ca. 100 resp. 200 mm &2014; vom Entladungs-
+apparat mit einander zu vergleichen, und ich fand aus drei recht
+gut mit einander übereinstimmenden Versuchen, dass dieselben
+sich umgekehrt wie die Quadrate der resp. Entfernungen des
+Schirmes vom Entladungsapparat verhalten. Demnach hält die
+Luft von den hindurchgehenden X-Strahlen einen viel kleineren
+Bruchtheil zurück als von den Kathodenstrahlen. Dieses Resultat
+<pb="10"/>
+ist auch ganz in Uebereinstimmung mit der oben erwähnten
+Beobachtung, dass das Fluorescenzlicht noch in 2 m Distanz
+vom Entladungsapparat wahrzunehmen ist.</p>
+<p>Aehnlich wie Luft verhalten sich im Allgemeinen die
+anderen Körper: sie sind für die X-Strahlen durchlässiger als
+für die Kathodenstrahlen.</p>
+<p>11. Eine weitere sehr bemerkenswerthe Verschiedenheit in
+dem Verhalten der Kathodenstrahlen und der X-Strahlen liegt
+in der Thatsache, dass es mir trotz vieler Bemühungen nicht
+gelungen ist, auch in sehr kräftigen magnetischen Feldern eine
+Ablenkung der X-Strahlen durch den Magnet zu erhalten.</p>
+<p>Die Ablenkbarkeit durch den Magnet gilt aber bis jetzt
+als ein characteristisches Merkmal der Kathodenstrahlen; wohl
+ward von <i>Hertz</i> und <i>Lenard</i> beobachtet, dass es verschiedene
+Arten von Kathodenstrahlen gibt, die sich durch &201E;ihre Phos-
+phorescenzerzeugung, Absorbirbarkeit und Ablenkbarkeit durch
+den Magnet von einander unterscheiden&201C;, aber eine beträchtliche
+Ablenkung wurde doch in allen von ihnen untersuchten Fällen
+wahrgenommen, und ich glaube nicht, dass man dieses Charac-
+teristicum ohne zwingenden Grund aufgeben wird.</p>
+<p>12. Nach besonders zu diesem Zweck angestellten Versuchen
+ist es sicher, dass die Stelle der Wand des Entladungsapparates,
+die am stärksten fluorescirt, als Hauptausgangspunkt der nach allen
+Richtungen sich ausbreitenden X-Strahlen zu betrachten ist. Die
+X-Strahlen gehen somit von der Stelle aus, wo nach den An-
+gaben verschiedener Forscher die Kathodenstrahlen die Glas-
+wand treffen. Lenkt man die Kathodenstrahlen innerhalb des
+Entladungsapparates durch einen Magnet ab, so sieht man, dass
+auch die X-Strahlen von einer anderen Stelle, d. h. wieder von
+dem Endpunkte der Kathodenstrahlen ausgehen.</p>
+<p>Auch aus diesem Grund können die X-Strahlen, die nicht
+ablenkbar sind, nicht einfach unverändert von der Glaswand
+hindurchgelassene resp. reflectirte Kathodenstrahlen sein. Die
+grössere Dichte des Glases ausserhalb des Entladungsgefässes
+kann ja nach <i>Lenard</i> für die grosse Verschiedenheit der Ablenk-
+barkeit nicht verantwortlich gemacht werden.</p>
+<p>Ich komme deshalb zu dem Resultat, dass die X-Strahlen
+nicht identisch sind mit den Kathodenstrahlen, dass sie aber
+von den Kathodenstrahlen in der Glaswand des Entladungs-
+apparates erzeugt werden.</p>
+<pb="11"/>
+<p>13. Diese Erzeugung findet nicht nur in Glas statt, sondern,
+wie ich an einem mit 2 mm starkem Aluminiumblech abgeschlos-
+senen Apparat beobachten konnte, auch in diesem Metall. An-
+dere Substanzen sollen später untersucht werden.</p>
+<p>14. Die Berechtigung, für das von der Wand des Entlad-
+ungsapparates ausgehende Agens den Namen &201E;Strahlen&201C; zu ver-
+wenden, leite ich zum Theil von der ganz regelmässigen Schatten-
+bildung her, die sich zeigt, wenn man zwischen den Apparat
+und den fluorescirenden Schirm (oder die photographische Platte)
+mehr oder weniger durchlässige Körper bringt.</p>
+<p>Viele derartige Schattenbilder, deren Erzeugung mitunter
+einen ganz besonderen Reiz bietet, habe ich beobachtet und
+theilweise auch photographisch aufgenommen; so besitze ich z. B.
+Photographien von den Schatten der Profile einer Thüre, welche
+die Zimmer trennt, in welchen einerseits der Entladungsapparat,
+andererseits die photographische Platte aufgestellt waren; von den
+Schatten der Handknochen; von dem Schatten eines auf einer
+Holzspule versteckt aufgewickelten Drahtes; eines in einem
+Kästchen eingeschlossenen Gewichtssatzes; einer Bussole, bei
+welcher die Magnetnadel ganz von Metall eingeschlossen ist;
+eines Metallstückes, dessen Inhomogenität durch die X-Strahlen
+bemerkbar wird; etc.</p>
+<p>Für die geradlinige Ausbreitung der X-Strahlen beweisend
+ist weiter eine Lochphotographie, die ich von dem mit schwarzem
+Papier eingehüllten Entladungsapparat habe machen können;
+das Bild ist schwach aber unverkennbar richtig.</p>
+<p>15. Nach Interferenzerscheinungen der X-Strahlen habe ich
+viel gesucht, aber leider, vielleicht nur in Folge der geringen
+Intensität derselben, ohne Erfolg.</p>
+<p>16. Versuche, um zu constatiren, ob elektrostatische Kräfte
+in irgend einer Weise die X-Strahlen beeinflussen können, sind
+zwar angefangen aber noch nicht abgeschlossen.</p>
+<p>17. Legt man sich die Frage vor, was denn die X-Strahlen,
+&2014; die keine Kathodenstrahlen sein können &2014; eigentlich sind, so
+wird man vielleicht im ersten Augenblick, verleitet durch ihre
+lebhaften Fluorescenz- und chemischen Wirkungen, an ultra-
+violettes Licht denken. Indessen stösst man doch sofort auf
+schwerwiegende Bedenken. Wenn nämlich die X-Strahlen ultra-
+<pb="12"/>
+violettes Licht sein sollten, so müsste dieses Licht die Eigen-
+schaft haben:</p>
+<li>a) dass es beim Uebergang aus Luft in Wasser, Schwefel-
+kohlenstoff, Aluminium, Steinsalz, Glas, Zink etc. keine
+merkliche Brechung erleiden kann;</li>
+<li>b) dass es von den genannten Körpern nicht merklich
+regelmässig reflectirt werden kann;</li>
+<li>c) dass es somit durch die sonst gebräuchlichen Mittel
+nicht polarisirt werden kann;</li>
+<li>d) dass die Absorption desselben von keiner anderen Eigen-
+schaft der Körper so beeinflusst wird als von ihrer
+Dichte.</li>
+<p>Das heisst, man müsste annehmen, dass sich diese ultra-
+violetten Strahlen ganz anders verhalten, als die bisher bekann-
+ten ultrarothen, sichtbaren und ultravioletten Strahlen.</p>
+<p>Dazu habe ich mich nicht entschliessen können und nach
+einer anderen Erklärung gesucht.</p>
+<p>Eine Art von Verwandtschaft zwischen den neuen Strahlen
+und den Lichtstrahlen scheint zu bestehen, wenigstens deutet die
+Schattenbildung, die Fluorescenz und die chemische Wirkung,
+welche bei beiden Strahlenarten vorkommen, darauf hin. Nun
+weiss man schon seit langer Zeit, dass ausser den transversalen
+Lichtschwingungen auch longitudinale Schwingungen im Aether
+vorkommen können und nach Ansicht verschiedener Physiker
+vorkommen müssen. Freilich ist ihre Existenz bis jetzt noch
+nicht evident nachgewiesen, und sind deshalb ihre Eigenschaften
+noch nicht experimentell untersucht.</p>
+<p>Sollten nun die neuen Strahlen nicht longitudinalen Schwing-
+ungen im Aether zuzuschreiben sein?</p>
+<p>Ich muss bekennen, dass ich mich im Laufe der Unter-
+suchung immer mehr mit diesem Gedanken vertraut gemacht
+habe und gestatte mir dann auch diese Vermuthung hier aus-
+zusprechen, wiewohl ich mir sehr wohl bewusst bin, dass die
+gegebene Erklärung einer weiteren Begründung noch bedarf.</p>
+<p>Würzburg. Physikal. Institut der Universität. Dec. 1895.</p>
+<pb>
+<pb>
+<pb>

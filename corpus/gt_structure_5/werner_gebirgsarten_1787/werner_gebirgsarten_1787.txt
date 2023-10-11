@@ -1,0 +1,785 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b>Kurze
+Klassifikation und Beschreibung</b>
+der
+<b>verschiedenen Gebirg&sr;arten,</b>
+von
+<b>A. G. <g>Werner</g>,</b>
+Bergakademie-Inspektor und Lehrer der Bergbaukunst und Mineralogie
+zu Freyberg.
+<abb>
+<hr>
+<b>Dre&sr;den, 1787.</b>
+In der Waltherischen Hofbuchhandlung.</front>
+<pb>
+<pb>
+<sp_b><abb></sp_b>
+<d1><b>Kurze Klassifikation und Beschreibung</b>
+der
+<b><g>verschiedenen Gebirg&sr;arten</g>.</b> <fn="a)">Gegenwärtige Abhandlung ist eigentlich eine bloße Skizze; wie denn die-
+se wichtige Materie nächsten&sr; in einem eigenen Werke von dem gelehr-
+ten Verfasser au&sr;führlicher behandelt werden wird. <fr>A. d. H.</fr></fn></d1>
+<hr>
+<d2>§. 1.
+<fr>Von den verschiedenen Gebirg&sr;arten überhaupt.</fr></d2>
+<p><in>S</in>o äußerst mannigfaltig diejenigen Steinarten, welche die Gebirge,
+oder überhaupt die Masse unser&sr; festen Erdkörper&sr; au&sr;machen,
+(Bergarten, Gebirg&sr;arten,) dem ersten Ansehen nach zu seyn scheinen;
+so findet man doch bey näherer Untersuchung, daß ihre Verschiedenheit
+nicht&sr; weniger, al&sr; bi&sr; in&sr; Unendliche geht, und daß die meisten dersel-
+ben, in Ansehung ihrer Natur, sehr au&sr;gezeichnet und bestimmbar sind.
+E&sr; ist sogar wahrscheinlich, daß wir den größten Theil derselben bereit&sr;
+kennen: weil, nach den Beobachtungen reisender Naturforscher, die Ge-
+birg&sr;arten, auch der entferntesten Länder, in&sr;gemein mit unsern bekann-
+ten Gebirg&sr;arten übereinkommen.</p>
+<bs>A 2</bs><cw>§. 2.</cw>
+<pb="4"/>
+<kt>Kurze Klassification und Beschreibung</kt>
+<d3>§. 2.</d3>
+<p>Inzwischen herrscht in den mineralogischen Schriften eine erstaunliche
+Verwirrung in der Bestimmung dieser Gesteinarten, und in dem Ge-
+brauche ihrer Benennungen. Eine deutliche Bestimmung und schickliche
+Klassifikation derselben, wird also um so mehr Bedürfniß für die Minera-
+logie seyn, al&sr; jezt außerordentlich viel in und über die Geognosie und
+mineralogische Geographie geschrieben wird, und die vorhandenen Be-
+stimmungen und Klassifikationen dieser Körper von ältern Mineralogen <fn="b)">Von <fr>Linne&2019;, Walleriu&sr;, Kronstedt.</fr> Ganz neuerlich haben wir von
+Hrn. <fr>Voigt</fr> in Weimar, und Hrn. <fr>Haidinger</fr> in Wien dergleichen Klas-
+sifikationen erhalten. Lezterer wird seine Arbeit, die eigentlich eine Preiß-
+schrift war, wohl nächsten&sr; dem Publikum mittheilen, da&sr; sie mit Un-
+geduld erwartet.</fn>,
+vermöge der in diesem Fache gemachten häufigen neuen Bemerkungen,
+ganz unzulänglich geworden sind.</p>
+<d3>§. 3.</d3>
+<p>Eine dergleichen kurze Bestimmung und Klassifikation dieser Gestein-
+arten will ich hier liefern. Ich werde übrigen&sr; auch hier dem von mir
+angenommenen Grundsatze getreu bleiben: keine andere Gesteinarten,
+al&sr; von deren wirklichen Existenz ich überzeugt bin, aufzuführen. Denn
+ich halte e&sr; für ganz unschicklich und falsch, wenn man in der Naturge-
+schichte Körper, die von andern, nur noch sehr unbestimmt, al&sr; neue und
+besondere Gattungen genennt und angegeben worden sind, ohne weitere
+Untersuchung und Abwartung mehrerer Bestätigung, sogleich in den Sy-
+stemen al&sr; wirklich neue Gattungen aufführet. <fn="c)">Wenn man dergleichen noch ungewisse Körper mit bemerken will, so
+kann e&sr; ja in einer Anmerkung, oder in einem hierzu besonder&sr; bestimm-
+ten zulezt angehängten §. geschehen.</fn> Man häuft dadurch
+die naturhistorischen Undinge außerordentlich, statt dem, daß man sie im-
+mer mehr und mehr au&sr;zumärzen, und die Natursysteme davon zu reini-
+<cw>gen</cw>
+<pb="5"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+gen beflissen seyn sollte. Inzwischen läßt sich dieser Vorwurf den Bota-
+nikern und Zoologen bey weitem nicht in dem Maaße, al&sr; den Minera-
+logen machen: weil erstere beyde bey Entwerfung ihrer Systeme und ih-
+rer Klassifikationen mit ungleich mehr philosophischen Scharfsinn und lo-
+gikalischer Genauigkeit zu Werke gehen, al&sr; leztere. <fn="d)">Wie wird man im 19ten Jahrhunderte unter andern darüber lächeln,
+daß man im 18ten mögliche Foßilien zugleich mit den wirklichen in den
+<cw>Mine-</cw></fn></p>
+<d3>§. 4.</d3>
+<p>Alle Gebirg&sr;arten lassen sich, in Rücksicht auf die Natur und Ent-
+stehung der Gebirge, die sie au&sr;machen, unter 4 Hauptabtheilungen brin-
+gen. Diese sind: uranfängliche- Flötz- vulkanische- und aufgeschwemmte-
+Gebirg&sr;arten. Die uranfänglichen- Flötz- und aufgeschwemmten Ge-
+birg&sr;arten, gehen in einander über, und man hat uranfängliche Gebirg&sr;-
+arten, die beynahe mit eben dem Rechte auch Flötzgebirg&sr;arten genennt
+werden können; und wiederum Flötzgebirg&sr;arten, wo man zweifelhaft
+wird, ob man sie nicht schon zu den aufgeschwemmten zählen soll. Einige
+der erstern, nämlich der uranfänglichen, gehen auch ganz allmählig in
+Flötzgebirg&sr;arten über. Nach den Entstehung&sr;arten dieser Gebirg&sr;ar-
+ten, die sich in dem ungeheuren Zeitraume der Existenz unserer Erde wohl
+meist unmerklich eine in die andere umänderten, ist e&sr; auch nicht ander&sr; mög-
+lich, al&sr; daß solche Uebergänge bey diesen Gesteinarten statt finden müssen.</p>
+<d2>§. 5.
+Von den uranfänglichen Gebirg&sr;arten.</d2>
+<d3><aq>I.</aq> <fr>Von ihnen überhaupt.</fr></d3>
+<p>Die Gebirge, welche au&sr; den hieher gehörigen Bergarten bestehen,
+sind von der ältesten Entstehung, und tragen alle Merkmale einer Erzeu-
+gung auf dem nassen Wege an sich.</p>
+<cw>Die</cw>
+<bs>A 3</bs>
+<pb="6"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+<p>Die uranfänglichen sind unter allen 4 Hauptarten die au&sr;gezeichne-
+testen und bestimmbarsten. Der größte Theil derselben ist gemengt, und
+wenige sind einfach. Bey den gemengten sind bey einigen alle Theile
+de&sr; Gemenge&sr; in und mit einander verwachsen, bey andern hingegen,
+macht ein Theil die Hauptmasse au&sr;, und in dieser liegen die übrigen Thei-
+le fast immer einzeln zerstreut und isolirt. Erstere, wo alle Theile mit
+einander verwachsen sind, sind wieder entweder von körnichen oder schiefri-
+chen Gefüge.</p>
+<p>E&sr; wechseln ferner in ein und dem nämlichen Stücke uranfänglich
+Gebirge, selten ein oder mehrere Lager verschiedener Gestein- oder Berg-
+arten mit einander ab. So bestehet ein Stück Granit-Gebirge in&sr;ge-
+mein durchau&sr; au&sr; Granit, ein Stück Porphyr-Gebirge durchau&sr; au&sr;
+Porphyr, und so auch die übrigen. Die wenigen gegentheiligen Fälle,
+sind al&sr; Au&sr;nahmen von der Regel zu betrachten. Daher werden diese
+Gebirge auch einfache Gebirge genannt. Ich habe aber diese Benennung,
+weil sie zweydeutig ist, und oft, statt auf da&sr; Ganze eine&sr; Gebirge&sr; ge-
+zogen zu werden, irrig von der Gebirg&sr;art verstanden wird, gegen da&sr;
+bestimmtere Wort <fr>uranfänglich</fr> vertauschet; welche&sr; auch noch den Vor-
+zug hat, daß e&sr; eben so, wie die Benennungen der übrigen 3 Hauptarten,
+sich auf die Entstehung dieser Hauptart bezieht.</p>
+<p>Die uranfänglichen Gebirge haben endlich auch noch da&sr; Karakteri-
+stische, daß man nicht&sr; von Versteinerungen in ihnen antrifft.</p>
+<p>Die bi&sr; jezt bekannten Bergarten dieser Gebirge sind: Granit,
+Gneiß, Glimmerschiefer, Thonschiefer, Porphyrschiefer, Porphyr, Ba-
+<cw>salt,</cw>
+<fnf>Mineral-Systemen aufführte und Bestandtheilte der Fossilien in die Zahl
+der Fossilien sezte. Häufige Beyspiele von ersteren findet man in
+<aq><i>Bergmanni</i> Sciagraphia regni minerali&sr;,</aq> und <aq><i>Kirwan&2019;&sr;</i> Element&sr; of Mi-
+neralogy,</aq> und vom leztern auch in <fr>Kronstedt&sr;</fr> Mineralogie.</fnf>
+<pb="7"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+salt, Mandelstein, Serpentinstein, uranfänglicher Kalkstein, Quarz-Gebir-
+ge, und Topa&sr;fel&sr;.</p>
+<p>Von diesen sind der Thonschiefer, Serpentinstein, uranfängliche;
+Kalkstein und Quarz einfache; alle übrigen aber gemengte Bergarten.
+Und von den leztern sind wieder Granit, Gneiß, Glimmerschiefer, To-
+pa&sr;fel&sr;, gemengte, mit unter einander verwachsenen Theilen; und Por-
+phyrschiefer, Porphyr, Basalt und Mandelstein, gemengte mit einer
+Hauptmasse.</p>
+<d3>§. 6.
+<aq>II.</aq> <fr>Von den verschiedenen uranfänglichen Gebirg&sr;arten
+insonderheit.</fr></d3>
+<d4>1.) <g>Granit</g>.</d4>
+<p>Granit ist eine gemengte Gebirg&sr;art, die au&sr; Feldspath, Quarz und
+Glimmer bestehet, welche in einem körnichten Gewebe so mit einander ver-
+bunden sind, daß ein jeder Theil de&sr; Gemenge&sr; in und mit dem andern
+verwachsen ist; und zwar sind die drey eben genannten Gemengtheile bey
+weiten am gewöhnlichsten <fr>derb,</fr> und <fr>eingesprengt</fr> mit einander verwach-
+sen, und nur selten einer oder der andere krystallisirt: doch werde ich in
+der Folge eine besondere Abänderung von Granit mit eingemengten Feld-
+spathkrystallen anführen. Der Feldspath macht übrigen&sr; unter diesen
+dreyen fast jederzeit bey weiten de# größten, so wie der Glimmer fast stet&sr;
+den mindesten Theil au&sr;. Außer diesen drey gewöhnlichen und fast we-
+sentlichen Gemengtheilen de&sr; Granit&sr;, findet sich aber auch bi&sr;weilen al&sr;
+ein ungewöhnlicher Theil, in selbigen schwarzer Stangenschörl ein, äußerst
+selten aber Granat. Auch ist der in dem Granit enthaltene Feldspath zu-
+weilen mehr oder weniger verwittert, auch wohl gar in Porzellanerde auf-
+gelößt, und ein Theil de&sr; Glimmer&sr; auch wohl in Speckstein verwandelt.
+<cw>Ein</cw>
+<pb="8"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+Ein Theil de&sr; Granit&sr; scheint da&sr; Grundgebirge au&sr;zumachen. Der
+Granit führt Metalle, besonder&sr; Zinn und Eisen.</p>
+<d5>§. 7.
+Eine Granitart, die eine besondere Gebirg&sr;art zu seyn
+scheinet.</d5>
+<p>Derjenige Granit, welcher theil&sr; mit dem Glimmer zugleich, theil&sr;
+statt de&sr; Glimmer&sr; Hornblende in seinem Gemenge enthält, scheint von
+weit neuerer Erzeugung, al&sr; der eigentliche Granit zu seyn, und eine eige-
+ne Gebirg&sr;art au&sr;zumachen. Sollte sich die&sr; noch mehr bestätigen, so
+müßte man dieser Gebirg&sr;art auch einen eigenen Namen geben, und
+könnte sie füglich <fr>Grünstein</fr> nennen. Ich habe noch keinen Stangen-
+schörl in ihr gefunden; im übrigen kömmt sie mit dem eigentlichen Gra-
+nite (§. 6.) ziemlich überein. Diese Bergart führt gleichfall&sr; Metalle.
+Sie kömmt mit wenigen Glimmer zu Scharfenberg, Meißen und Alten-
+berg, ganz ohne Glimmer aber zu Miltitz, unweit Meißen, und beson-
+der&sr; im Plauischen Grunde und zu Prie&sr;nitz, unweit Dre&sr;den, de&sr;glei-
+chen auch in der Oberlausitz vor.</p>
+<d4>§. 8.
+2.) Gneiß.</d4>
+<p>Der Gneiß besteht ebenfall&sr; au&sr; Feldspath, <fn="e)">Alle Mineralogen übergiengen bi&sr; zum Jahre 1776. den Feldspath in
+den Erklärungen, die sie von dem Gneiße gaben; auch nicht einer er-
+wähnt derselben. Dafür sezten aber einige Steinmark, andere Speck-
+stein, und noch andere verhärteten Thon in da&sr; Verzeichniß der Theile
+seine&sr; Gemenge&sr;, so wie auch die meisten Neuern noch eine&sr; der drey
+leztern beybehalten, und also 4 Theile seine&sr; Gemenge&sr; angeben. Ich,
+al&sr; ich im Jahre 1775. bey hiesiger Bergakademie da&sr; erste mal Vor-
+<cw>lesun-</cw></fn> Quarz und Glimmer,
+die aber in einem dickschiefrigen oder faserigen Gewebe mit einander ver-
+<cw>verbun-</cw>
+<pb="9"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+verbunden sind. Der Glimmer macht auch hier den mindesten Theil au&sr;,
+kömmt aber doch in etwa&sr; größerer Quantität, al&sr; im Granite vor. Feld-
+spath und Quarz finden sich meist zu gleichen Theilen im Gneiße, doch
+waltet der erstere vor, sobald sich der Gneiß dem Granite nähert, und der
+leztere, wenn er in den Glimmerschiefer übergehet. Der Feldspath de&sr;
+Gneiße&sr; ist zwar in einigen seltenen Fällen mehr oder weniger verwittert,
+auch wohl gar in Porzellanerde aufgelößt, so wie der Glimmer zum Theil
+in Speckstein verwandelt ist; aber, eben weil die&sr; nur selten vorkömmt,
+und von besondern Ursachen veranlaßt wird, so kann e&sr; nicht al&sr; etwa&sr;
+Wesentliche&sr; in der Beschreibung dieser Gebirg&sr;art angegeben, sondern
+muß al&sr; eine zufällige Beschaffenheit derselben betrachtet und bemerkt wer-
+den. Der Gneiß wird von vielen Mineralogen, obschon sehr unrichtig,
+zu dem Granite gerechnet, andere hingegen zählen den Glimmerschiefer zum
+Gneiße; obige Beschreibung aber, nebst denen beyden von dem Granite
+und Glimmerschiefer, werden, wie mich dünkt, die Gränzen dieser drey
+Gebirg&sr;arten hinlänglich genau bestimmen. Da&sr; Gneißgebirge zeichnet
+sich von dem Granitgebirge auch noch dadurch au&sr;: daß in ihm zuweilen,
+in jenem aber äußerst selten, Granat vorkömmt, und daß in den Gneiß-
+gebirge sich oft Kalklager finden, die in den Granitgebirgen, so viel itzt
+bekannt ist, nie vorkommen. Ich besitze ein groß Stück wahren Granit
+<cw>vom</cw>
+<fnf>lesungen über die Geognosie hielt, machte dazumal zuerst obige neue
+Bestimmung de&sr; Gneiße&sr; bekannt, worinnen ich den Speckstein, da&sr;
+Steinmark, oder den verhärteten Thon au&sr; der Angabe der Gemeng-
+theile dieser Gebirg&sr;art herau&sr;warf, und den Feldspath, der so deut-
+lich darinnen liegt, daß ich mich wundern muß, wie man ihn hat über-
+sehen können, hinein aufnahm. So sonderbar vielen diese neue Be-
+stimmung gleich anfänglich vorkam, so fand man sie doch bald der Na-
+tur gemäß, und in kurzer Zeit wurde sie allgemein bekannt und ange-
+nommen.</fnf>
+<bs>B</bs>
+<pb="10"/>
+<kt>Kurze Klassification und Beschreibung</kt>
+vom Greiffensteine unweit Ehrenfrieder&sr;dorf, in welchem sehr deutliche und
+zum Theil ziemlich große Gneißgeschiebe liegen. Die&sr; beweißt, daß e&sr;
+Gneiß giebt, der älter ist al&sr; ein Theil wahrer Granit. Spuren, daß
+e&sr; Gneiß gebe, der jünger wäre, al&sr; Thonschiefer und Porphyr, habe ich,
+alle&sr; sorgfältigen Nachsuchen&sr; unerachtet, nie gefunden. Der Gneiß ist
+sehr metallführend. Fast alle Metalle kommen in ihm vor. Der größte
+Theil de&sr; Gla&sr;hüttner, Freyberger, Marienberger, Ehrenfrieder&sr;dorfer
+und Annaberger Bergamt&sr; Refier, so wie auch ein Theil de&sr; Böhmischen
+Erzgebirge&sr; bey Graupen, Nikla&sr;berg und Klostergrab, besteht au&sr; Gneiß-
+gebirge. Auch da&sr; Kuttenberger und Iglauer Gebirge in Böhmen, de&sr;-
+gleichen der Theil de&sr; Taurifkischen Gebirge&sr;, bey Gastein und Rauri&sr;,
+im Salzburgischen, ist Gneiß.</p>
+<d4>§. 9.
+3.) Glimmerschiefer.</d4>
+<p>Dieser ist au&sr; Quarz und Glimmer gemengt, welche in einem schie-
+frigen Gewebe mit einander verbunden sind. Er enthält mehr Glimmer,
+al&sr; der Gneiß, und sehr häufig eingesprengte Granaten, so, daß man den
+Granat beynahe al&sr; einen wesentlichen Theil seine&sr; Gemenge&sr; betrachten
+sollte. Kalklager und allerley Arten von Erzlagern kommen sehr häufig
+in Glimmerschiefergebirgen vor.</p>
+<d3>§. 10.
+4) Thonschiefer.</d3>
+<p>Dieser ist al&sr; eine einfache oder ungemengte Gebirg&sr;art, und die ihm
+bi&sr;weilen beygemengten Steinarten, al&sr; zufällig beygemengte, zu betrach-
+ten. Er besteht au&sr; derjenigen einfachen Steinart, die man auch in der
+Oryktognosie Thonschiefer nennt, und welche wieder sehr mannigfaltig ab-
+<cw>geändert</cw>
+<pb="11"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+geändert ist. Bi&sr;weilen ist er mit Quarz, weit seltener aber mit Feld-
+spath, schwarzen Stangenschörl, oder auch Hornblende gemengt. Diese
+Gebirg&sr;art besteht zuweilen aber auch, statt Thonschiefer, au&sr; Hornschie-
+fer, Wetzschiefer, Alaunschiefer; welche Steinarten also, al&sr; dem Thon-
+schiefer untergeordnete Bergarten, betrachtet werden müssen.</p>
+<p>Der uranfängliche Thonschiefer geht zuweilen in flötzartigen Thonschie-
+fer über. Ersterer ist reich an Metallen, die, theil&sr; auf Gängen, theil&sr;
+auf Erzlagern, in ihm brechen.</p>
+<d4>§. 11.
+5.) Porphyrschiefer.</d4>
+<p>Der Porphyrschiefer ist eine gemengte Steinart, die au&sr; einer Haupt-
+masse bestehet, welche noch nicht hinlänglich bestimmt ist, und ein Mit-
+telding zwischen Hornschiefer und Pechstein zu seyn scheinet, und in welche
+Feldspath und Hornblende hier und da zerstreut eingemengt sind. Die
+Hauptmasse dieser Gebirg&sr;art ist fast jederzeit von grauer, zuweilen ein
+wenig in&sr; grüne fallender Farbe, von dichtem grobsplittrigen Bruch, im
+Großen hingegen schon ziemlich schieferartig, übrigen&sr; an den Kanten
+durchscheinend, und in einem hohen Grade halbhart.</p>
+<p>Diese Gebirg&sr;art zeichnet sich noch dadurch au&sr;, daß sie in&sr;gemein
+einzelne spitzige, kegelförmige, oder sonst grote&sr;k au&sr;gezackte Berge au&sr;-
+macht, in welchen sie nach verschiedenen Richtungen vertikal gespalten,
+und daher von einem unordentlich säulenförmigen Ansehen vorkömmt. Die
+Porphyrschiefer-Gebirge haben hierinnen mit den Basaltgebirgen große
+Aehnlichkeit. Sie sind ganz leer von Metallen.</p>
+<p>Da&sr; Mittelgebirge in Böhmen hat mehrere dergleichen Porphyrschie-
+ferberge, auch kommen einige in der Gegend von Zittau in der Oberlausiz,
+und dann auch im Fuldaischen und dem Rhöngebirge, vor.</p>
+<bs>B 2</bs><cw>Ver-</cw>
+<pb="12"/>
+<kt>Kurze Klassification und Beschreibung</kt>
+<p>Verschiedene Schriftsteller nennen diese Gesteinart Hornschiefer. Die-
+sen Namen besizt aber schon seit langen Zeiten eine in den Thonschieferge-
+birgen vorkommende harte schiefrige Steinart, die sich auch ziemlich häu-
+fig in dem platten Lande, und besonder&sr; in den Flußbetten, in schwarzen
+und grauen mit Quarz geaderten Kieseln findet, zu der auch der Lydische
+Stein gehöret, und deren ich schon im 10ten §. bey dem Thonschiefer mit
+Erwähnung gethan habe. Zum Unterschied von dieser von ihr ganz ver-
+schiedenen Gesteinart habe ich sie Porphyrschiefer genennet.</p>
+<d4>§. 12.
+6. Porphyr.</d4>
+<p>Die&sr; ist ebenfall&sr; eine gemengte Gebirg&sr;art, die in der Art de&sr; Ge-
+menge&sr; viel Aehnlichkeit mit der vorhergehenden hat. Sie besteht näm-
+lich au&sr; einer Hauptmasse, die entweder verhärteter Thon, Jaspi&sr;, Horn-
+stein, oder auch Pechstein ist, und in welcher Feldspath, Quarz und Horn-
+blende, zuweilen auch Glimmer fleckweise eingemengt und zerstreut vor-
+kommen. Diese eingemengten Theile liegen in der Hauptmasse de&sr; Por-
+phyr&sr; in&sr;gemein krystallisirt. Von den eingemengten Theilen ist der
+Feldspath der gewöhnlichste und wesentlichste; von den übrigen aber fehlt
+bald der eine, bald der andere. Zu dieser Bergart gehört auch da&sr;
+<aq>Saxum metalliferum Bornianum.</aq> <fn="f)">Sowohl hierüber, al&sr; auch über den Porphyr überhaupt, wird man ein
+mehrere&sr; in meiner mineralogischen Betrachtung über den Niederunga-
+<cw>rischen</cw></fn> Der Porphyr ist zuweilen metall-
+führend, auch scheint er bi&sr;weilen in Flötzgebirg&sr;arten überzugehen.</p>
+<d4>§. 13.
+7. <g>Basalt</g>.</d4>
+<p>Auch der Basalt ist eine gemengte Bergart. Zur Hauptmasse hat er
+diejenige Steinart, welche die Oryktognosten insonderheit Basalt nennen,
+<cw>und</cw>
+<pb="13"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+und in diese sind gewöhnlich Hornblende-Krystalle und Krisolithkörner,
+selten Zeolith eingemengt. Er zeichnet sich durch die kegelförmige Ge-
+stalt, die seine Berge in&sr;gemein haben, ferner durch die säulenförmigen
+abgesonderten Stücke, in die er gewöhnlich abgetheilet ist, au&sr;. Sonder-
+bar ist e&sr;, daß er oft magnetisch, und zuweilen so stark ist, daß er die
+Nadel im Kompaß irre macht und aufhält. Er führt nie Lagerstätte der
+Metalle; er enthält aber selbst etwa&sr; Eisen in seiner Mischung. Wa&sr;
+die vorgebliche Vulkanität desselben betrifft, so werde ich mich darüber in
+der Folge im 32. §. erklären.</p>
+<d4>§. 14.
+8. Mandelstein.</d4>
+<p>Dieser ist eine gemengte Gebirg&sr;art, die eine eigene Steinart, welche
+ein verhärteter Thon zu seyn scheint, und mit derjenigen Steinart, welche
+man in Sachsen in&sr;besondere Wakke nennt, ziemlich übereinkömmt, zur
+Hauptmasse hat, in welcher bald Kalzedon, bald Agath, Zeolith, Kalk-
+spath, Steinmark und grüne Erde, in mehr oder weniger runden, und grös-
+sern oder kleinern Stücken eingemengt, vorkommen. Zuweilen sind auch
+noch Hornblende-Krystalle in sie eingesprengt. Die Hauptmasse hat in&sr;-
+gemein eine dunkelgraue, auch braune Farbe, und ist mehrentheil&sr; weich,
+seltener halbhart. Zu dieser Bergart gehört auch der <fr>Toadstone</fr> (Krö-
+tenstein) au&sr; Derbyshire, und die sogenannte Lava, au&sr; der Gegend von
+Schlakkewerth in Böhmen. Der Mandelstein scheint selten metallfüh-
+rend zu seyn. Er scheint ferner zuweilen den uranfänglichen, zuweilen den
+Flötzgebirgen zuzugehören; wo er nicht etwa, wie ich stark muthmaße,
+ganz zu leztern gehört. Sollte wohl etwa da&sr; Bohnenerz in einer Art
+Mandelstein brechen?</p>
+<cw>§. 15.</cw>
+<fnf>rischen Porphyr finden, welche nächsten&sr; in einer periodischen Schrift
+an da&sr; Licht treten wird.</fnf>
+<pb="14"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+<d4>§. 15.
+9. Serpentinstein.</d4>
+<p>Die&sr; ist diejenige einfache Steinart, welche auch in der Oryktognosie
+diesen Namen führet. Inzwischen kommen in derselben noch mancherley
+Steinarten eingemengt vor, die aber al&sr; zufällige betrachtet werden müs-
+sen: weil sie da seyn, und auch fehlen können, ohne daß der geognostische
+Begriff vom Serpentinsteine dadurch geändert würde, so wie sie sich auch
+nie mit demselben in einer bestimmten Art de&sr; Gemenge&sr; befinden. Der-
+gleichen Steinarten sind: der A&sr;best, Amianth, Talk, Speckstein, Stein-
+mark, Glimmer, Granat, u. a. m. Der Serpentinstein ist ganz metallleer.</p>
+<d4>§. 16.
+10.) Uranfänglicher Kalkstein.</d4>
+<p>Der Kalkstein, welcher uranfängliche Gebirge mit au&sr;macht, ist der
+blättrich-körnige, welcher zuweilen aber auch so feinkörnig ist, daß er schon
+dichte zu seyn scheint, und in den dichten Kalkstein übergeht. Er zeich-
+net sich noch dadurch au&sr;, daß er nicht selten mit Quarz und Glimmer,
+zuweilen auch mit Hornblende und Strahlschörl gemengt ist. Man könn-
+te ihn gewissermaßen al&sr; eine dem Gneiß, Glimmerschiefer und Thonschie-
+fer untergeordnete Steinart betrachten, insofern er in&sr;gemein in diesen Ge-
+birg&sr;arten, und abwechselnd mit selbigen vorkömmt. E&sr; scheint aber im
+Gegentheil wieder au&sr; einigen Nachrichten, daß er in einigen Gebirgen
+ganze sich weit erstreckende Refiere, oder Gebirg&sr;gegenden au&sr;macht, und
+sich also dadurch zu einer eigenen Gebirg&sr;art qualificiret. <fn="g)">Man sehe hierüber meine Uebersetzung der Kronstedtischen Mineralogie,
+1. Bande&sr; 1. Th. Seite 22. bi&sr; 25. nach.</fn></p>
+<p>Er ist ganz versteinerung&sr;frey, und führt hie und da Metallarten.</p>
+<cw>Zu</cw>
+<pb="15"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+<p>Zu Eisenerz in Steyermark soll da&sr; Kalksteingebirge so mit Glimmer
+gemengt seyn, daß e&sr; viele Aehnlichkeit mit Gneiß und Glimmerschiefer
+haben soll. <fn="h)">Diese Nachricht haben mir die Herren <fr>Ilemann</fr> und <fr>Roscheschnikov,</fr>
+zwey vor einigen Jahren in Freyberg studirende Russen, die von hier
+au&sr; die dortigen Gebirge bereißten, mitgetheilt.</fn></p>
+<d4>§. 17.
+11.) <g>Quarz</g>.</d4>
+<p>Auch dieser muß, wenn er al&sr; Gebirg&sr;art vorkömmt, eigentlich al&sr;
+einfache Gebirg&sr;art betrachtet werden, ob er schon zuweilen zufällig mit
+mehr oder weniger Glimmer gemengt ist. Er kömmt nie in sich sehr weit
+erstreckenden Refieren vor; wo er aber vorkömmt, steht er gemeiniglich in
+steilen Felsen zur Oberfläche de&sr; Gebirg&sr; herau&sr;. Man sollte ihn fast
+al&sr; eine dem Gneiß und Glimmerschiefer untergeordnete Gebirg&sr;art anse-
+hen: da er in&sr;gemein, wo nicht jederzeit, in Lagern, mit und zwischen La-
+gern dieser Gebirg&sr;arten, vorkömmt. So viel bekannt ist, ist er al&sr; Berg-
+art ganz metallleer.</p>
+<d4>§. 18.
+12. Topa&sr;fel&sr;.</d4>
+<p>Der Topa&sr;fel&sr; ist eine gemengte, übrigen&sr; aber äußerst seltene Ge-
+birg&sr;art. Sie besteht au&sr; Topa&sr;, Quarz, schwarzen Stangenschörl und
+Steinmark, die sich mit einander in einem sehr verworrenen, meist körni-
+gem Gemenge befinden. Noch ist nicht&sr; von ihr bekannt, daß sie Metall
+führte. Bey dem Schnekkensteine, unweit dem Städtchen Auerbach,
+im Sächsischen Erzgebirge, macht diese Gesteinart ein ganze&sr; Stück Ge-
+birge au&sr;. <fn="i)">Nach den Beobachtungen, die ich im Jahre 1776. über den Topa&sr;felsen
+anstellte, habe ich solchen al&sr; ein wahre&sr; Stück Gebirg&sr;masse, und da&sr;
+<cw>Gestein</cw></fn></p>
+<cw>§. 19.</cw>
+<pb="16"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+<d2>§. 19.
+<b><g>Von den Flötzgebirg&sr;arten</g>.</b></d2>
+<d3><aq>I.</aq> <fr>Von selbigen überhaupt.</fr></d3>
+<p>Die Flötzgebirg&sr;arten sind alle von neuerer Erzeugung, al&sr; die Ge-
+birg&sr;arten der uranfänglichen Gebirge, und e&sr; ist höchst wahrscheinlich,
+daß sich die Erzeugung der leztern allmählig in die der erstern, nämlich
+der Flötzarten, umgeändert hat. Sehr karakteristisch für die Flötzge-
+birg&sr;arten sind die fast in allen, und in einigen außerordentlich häufig ent-
+haltenen Versteinerungen. Auch sind diese Gebirg&sr;arten mehr kalk- und
+thonartig, da die Bergarten der uranfänglichen hingegen mehr kiesel- und
+thonartig sind. Und endlich haben sie noch da&sr; Eigenthümliche, daß sie
+zwar an und für sich nur selten gemengt, in&sr;gemein einfach sind: dagegen
+aber in einem und dem nämlichen Gebirge gemeiniglich mehrerley Gestein-
+arten, in Lagern oder Flötzen, mit einander abwechseln. Von diesen Ge-
+steinarten ist immer eine die wesentlichste und karakterisirende, von wel-
+cher ich auch die Gattung allemal benennt habe.</p>
+<p>Inzwischen habe ich bey der au&sr;führlichen Bestimmung jeder besondern
+Gattung Flötzgebirge, nächst der Hauptflötzart, auch allemal die übrigen
+damit abwechselnden Flötzarten angegeben.</p>
+<p>Die Flötzgebirg&sr;arten sind lange nicht so au&sr;gezeichnet und bestimm-
+bar, al&sr; die Bergarten der uranfänglichen Gebirge. Doch zeichnen sich ei-
+nige schon hinlänglich genug al&sr; besondere Gattungen au&sr;. Die&sr; sind: die
+Flötzkalkarten, die Sandsteinarten, die Steinkohlen-Flötzarten, die Krei-
+<cw>deflötzarten,</cw>
+<fnf>Gestein, worau&sr; er besteht, al&sr; eine wahre und besondere Gebirg&sr;art
+befunden. Vorher betrachtete man ihn al&sr; Gang. Auch der in dieser
+Gebirg&sr;art vorkommende derbe Topa&sr; ist eine Bemerkung von mir.</fnf>
+<pb="17"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+deflötzarten, die Steinsalzflötzarten, die Gyp&sr;flötzarten, und die Eisen-
+thon-Flötzarten. Daß einige Bergarten der uranfänglichen Gebirge zu-
+weilen mit zu den Flötzgebirg&sr;arten gerechnet werden können, oder wenig-
+sten&sr; in selbige übergehen, ist sowohl bey der Erklärung der Gebirg&sr;arten
+überhaupt, (§. 4.) al&sr; auch bey der Erklärung jeder dieser übergehenden
+uranfänglichen Bergarten in&sr;besondere (§. 10. 12. 13. und 14.) gesagt
+worden.</p>
+<d3>§. 20.
+<aq>II.</aq> <fr>Von den verschiedenen Flötzgebirg&sr;arten insonderheit.</fr></d3>
+<d4>1.) Flötz-Kalkart.</d4>
+<p>Der Flötzkalk unterscheidet sich von dem uranfänglichen Kalksteine vor-
+züglich dadurch, daß er in&sr;gemein grau von Farbe, öfter&sr; aber auch mit
+verschiedenen bunten Farben versehen ist, einen dichten meist splittrigen
+Bruch hat, und fast jederzeit verschiedene Arten von Seeversteinerungen
+enthält. Er wechselt gemeiniglich mit Mergel und Stinksteinflötzen ab.
+Er führt nicht selten Metalle, sowohl auf Flötzen, al&sr; auf Gängen. Hie-
+her gehört unter andern auch da&sr; sogenannte Kupferschiefergebirge in
+Thüringen und den angränzenden Ländern, de&sr;gleichen der Peak in
+Derbyshire.</p>
+<d4>§. 21.
+2.) Sandsteinarten.</d4>
+<p>Die Sandsteinarten können füglich in gemeinen Sandstein, Grau-
+Wakke und Puddingstein abgetheilet werden.</p>
+<li><aq>A</aq>) Der gemeine Sandstein hat zum Haupttheile seine&sr; Gemenge&sr;
+Quarzkörner von verschiedener Größe, unter denen sich zuweilen
+auch Körner von Feldspath, Hornschiefer und Feuerstein finden.
+Diese Körner sind durch ein Bindemittel gleichsam zusammengeleimt;
+<bs>C</bs><cw>wel-</cw>
+<pb="18"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+welche&sr; wiederum am gewöhnlichsten bloße Thonerde, zuweilen aber
+auch Eisenocker, Mergelerde oder Quarz ist. Er ist selten Metall-
+führend.</li>
+<li><aq>B</aq>) Die Grau-Wakke besteht au&sr; Quarz und vielem Hornschiefer, ja zu-
+weilen selbst Thonschieferkörnern, die überhaupt von sehr verschiede-
+ner, in ein und demselbigen Lager aber in&sr;gemein von ziemlich einer-
+ley Größe, und durch Thon, zuweilen auch Thonschiefermasse sehr
+fest mit einander verbunden sind. Diese Gebirg&sr;art geht in Thon-
+schiefer über, und man findet in den Gebirgen, die diese Gesteinart
+au&sr;machen, ziemlich oft einen wahren und ununterbrochenen Ueber-
+gang von der groß- und grobkörnigen Grau-Wakke an, durch die
+klein- und feinkörnigen durch, bi&sr; in den deutlichsten Thonschiefer;
+wie denn auch in diesen Gebirgen Thonschiefer und Grauwakke häu-
+fig mit einander abwechseln, al&sr; welche&sr; zugleich sehr bezeichnend
+für sie ist. Sie enthält hie und da Versteinerungen, und führt auf
+dem Harze sehr ansehnliche und reiche Metallgänge. Der Ober-
+harz ist lange die einzige Gegend, wo diese Sandsteinart vorkömmt,
+gewesen; itzt habe ich solche aber auch bey Bräun&sr;dorf unweit Frey-
+berg entdeckt. Auch die Gebirg&sr;art von Abrudbanja scheint mir
+Grauwakke zu seyn.</li>
+<li><aq>C</aq>) Der Puddingstein besteht au&sr; kleinen abgerundeten, theil&sr; Quarz-
+theil&sr; Hornschiefer- theil&sr; Feuerstein-Kieseln, die bald durch Thon-
+masse, bald durch Eisenokker, bald durch Jaspi&sr;, oder auch wohl
+Quarzmasse, ja selbst zuweilen durch Sandstein verbunden oder zu-
+sammengeleimt sind. Hieher gehört der Schweizer Nagel-Fluhe.
+Der Puddingstein ist ganz metallleer.</li>
+<cw>§. 22.</cw>
+<pb="19"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+<d4>§. 22.
+3. Steinkohlen-Flötzarten.</d4>
+<p>Die Steinkohlen sind hier die karakterisirende Flötzart, und wech-
+seln in&sr;gemein mit Flötzen von Mergel, Schieferthon mit Kräuterabdrü-
+cken, und zuweilen auch Kalkstein und Sandstein ab. Die Pechkohlen,
+(eine besondere Kohlenart,) brechen auch nicht selten mit basaltartigen
+Steinarten. Von leztern geben un&sr; der Meißner in Hessen und die Fä-
+roer Inseln Beyspiele. Außer Thonartigen Eisenstein, der in England
+an einigen Orten, und auf den Färoer-Inseln in Steinkohlengebirgen ge-
+funden wird, ist mir nicht&sr; von Metallen bekannt, die diese Gebirge führ-
+ten; denn geringe unbedeutende Spuren von Kupferkie&sr;, Bleyglanz,
+u. d. gl. verdienen hier keiner Erwähnung.</p>
+<d4>§. 23.
+4.) Kreide-Flötzarten.</d4>
+<p>Diese bestehen au&sr; mächtigen Kreide- und schwächern damit abwech-
+selnden Feuerstein-Flötzen. Die Kreideflötze sind mit mehr oder weniger
+darinnen zerstreueten Feuersteine angefüllt. Dergleichen Gebirge kommen
+in&sr;gemein an der Seeküste vor; sie sind ganz ohne Metalle.</p>
+<d4>§. 24.
+5.) Steinsalz-Flötzarten.</d4>
+<p>Da&sr; Steinsalz, welche&sr; in&sr;gemein ganze mehr und minder große Stü-
+cke au&sr;macht, wird gemeiniglich von verschiedenerley Thonflötzen, die mehr
+und weniger mit Salz durchdrungen, auch wohl mit Erdpech geschwän-
+gert, oder auch mit Gip&sr;theilen gemengt sind, de&sr;gleichen allerley Gip&sr;-
+und zuweilen selbst Sandstein- und Kieselflötzen begleitet. Selten wech-
+selt e&sr; flötzweise mit ihnen ab. Diese Gebirg&sr;art ist ganz metallleer.</p>
+<bs>C 2</bs><cw>§. 25.</cw>
+<pb="20"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+<d4>§. 25.
+6.) Gip&sr;-Flötzarten.</d4>
+<p>Sie bestehen au&sr; Flötzen von verschiedenerley Gip&sr;arten, al&sr; dichten,
+blättrigen und faserigen Gip&sr;, und Fraueneiß, die hier die karakterisirende
+Gebirg&sr;art au&sr;machen, und zuweilen mit Kalk, auch Sandstein, Mergel,
+und schwachen Thonflötzen abwechseln. Sie sind fast ganz frey von Ver-
+steinerungen, <fn="k)">Die Abwesenheit der Versteinerungen im Gip&sr;steine rührt daher: daß
+sich in dem Wasser, worau&sr; er sich niederschlug, keine Thiere und Pflan-
+zen, wegen der ihnen ganz zuwiderseyenden darinnen enthaltenen Vi-
+triolsäure, aufhalten konnten. Man sehe hierüber meine Uebersetzung
+der Kronstedtischen Mineralogie, 1. <fr>B&sr;.</fr> 1 <fr>Th.</fr> Seite 86. nach.</fn> und auch von Metallen.</p>
+<d4>§. 26.
+7.) Eisenthon-Flötzarten.</d4>
+<p>Die Thonartige-Eisenstein-Flötze wechseln in&sr;gemein mit Thon- und
+Brandschiefer-Flötzen ab. Diese Art Flötzgebirge kömmt zu Wehrau in
+der Oberlausiz, bey Tarnowitz in Oberschlesien, bey Kon&sr;kie, Samsonow
+und andern Orten in Pohlen, in verschiedenen Gegenden der Kaiserlichen
+Niederlande und angränzenden Länder, und zu Colbroockdale und mehrern
+Orten in England vor.</p>
+<d4>§. 27.</d4>
+<p>E&sr; scheint fast, daß auch die Galmei-Flötze, in welchen der Galmei mit
+Bleyglanz bricht, eine eigene Gattung Flötzgebirge au&sr;machen, wo sie nicht
+etwa zu einer der vorhergehenden Gattungen gehören. Dergleichen Flötz-
+gebirge kommen in dem Crakauer Gebirge in Pohlen bey Olkusz, Bole&sr;-
+law, Ligota, u. a. Orten, de&sr;gleichen in dem Gebirge de&sr; Ardennerwalde&sr;
+<cw>bey</cw>
+<pb="21"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+bey Achen und mehrern Orten vor. Sollten nicht auch die Mendiphill&sr;
+in England dergleichen Gallmei-Flötzgebirge enthalten?</p>
+<d4>§. 28.</d4>
+<p>Außer den bi&sr; jezt genannten bekanntern und bestimmtern Flötzgebirg&sr;-
+Gattungen kommen aber auch nicht selten verschiedene Arten Flötzgebirge vor,
+die sich nicht füglich unter eine der vorhergehenden bringen lassen, und also al&sr;
+eigene, aber ungewöhnliche Arten von Flötzgebirgen, betrachtet werden müssen.</p>
+<d4>§. 29.</d4>
+<p>Daß Thonschiefer, Mandelstein und Basalt zuweilen den Flötzgebir-
+gen zugehören, und dann auch al&sr; solche zu betrachten sind, ist bereit&sr;
+bey der Erklärung dieser Gebirg&sr;arten gesagt worden.</p>
+<d2>§. 30.
+<b>Von den Vulkanischen Gebirg&sr;arten.</b></d2>
+<d3><aq>I.</aq> <fr>Von ihnen überhaupt.</fr></d3>
+<p>Vulkanische Gebirge haben entweder ihr ganze&sr; Daseyn, oder doch
+wenigsten&sr; ihre Umänderung dem Feuer zu danken. Die erstern, die
+nämlich ihr ganze&sr; Daseyn dem Feuer schuldig, und durch wirkliche vul-
+kanische Au&sr;brüche aufgehäuft worden sind, nenne ich: <fr>Aechtvulkanische,</fr>
+die hingegen, welche blo&sr; durch&sr; Feuer umgeändert worden sind, und sich
+bey und durch Erdbrände erzeugt haben: <fr>Pseudovulkanische Gebirge;</fr>
+und nach der Verschiedenheit dieser beyden Gebirge nehme ich auch blo&sr;
+zwey Gattungen vulkanischer Gebirg&sr;arten an. Ein theil&sr; trockene&sr;, au&sr;-
+gedorrte&sr; und aufgerissene&sr;, theil&sr; aber blasige&sr; und schlackenähnliche&sr;
+Ansehn zeichnet in&sr;gemein die vulkanischen Gebirg&sr;arten, (die auch einige
+vulkanische Produkte <fn="l)">Da&sr; unschickliche Wort: Produkt, &2014; welche&sr; man eigentlich nur zu Be-
+zeichnung künstlich erzeugter Körper braucht, &2014; führte man zu der Zeit
+<cw>hier</cw></fn> nennen,) au&sr;. Sie scheinen meist thonartig zu seyn.</p>
+<bs>C 3</bs><cw>§. 31.</cw>
+<pb="22"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+<d3>§. 31.
+<aq>II.</aq> <fr>Von den verschiedenen Vulkanischen Gebirg&sr;arten
+insonderheit.</fr></d3>
+<d4>1.) Aechtvulkanische Gebirg&sr;arten.</d4>
+<p>Die ächtvulkanischen Gebirg&sr;arten bestehen: theil&sr; au&sr; wahren La-
+ven von grauer, rother und schwarzer Farbe, mehr oder weniger blasigen
+Ansehn, halbhart oder weich, und oft mit eingemengten kleinen achtseitig-
+säulenförmigen Steinkrystallen, die fast von allen Mineralogen Schörl-
+kristalle genennet werden, wohl aber eine Art Hornblende-Krystalle sind;
+theil&sr; au&sr; Bim&sr;steinen von bald lichtgrauer, bald schwarzer Farbe, und
+mehr oder weniger an die Laven gränzenden Ansehn; und theil&sr; au&sr; vul-
+kanischen Aschen, die von erdigen Ansehn, mit kleinen Lava- und Bim&sr;-
+steinstücken vermengt, und wohl größtentheil&sr; nicht&sr; ander&sr; al&sr; zerriebe-
+ner Bim&sr;stein und Lava sind. Die vulkanischen Aschen, wenn sie einen
+langen Zeitraum über gelegen haben, und zusammen gebacken sind, erhal-
+ten dann die Namen: <fr>Vulkanischer Tuf, Traß.</fr> Der Bim&sr;stein ist
+unter den drey ächtvulkanischen Gebirg&sr;arten die untrüglichste.</p>
+<p>Diese Bergarten haben in ihren Gebirgen eine sehr unordentliche, doch
+aber dem Lagerartigen ziemlich nahe kommende Lage, je nachdem sie au&sr;-
+bruch&sr;weise eine über die andere hingeworfen worden, oder hingeflossen
+sind. Natürlicher Schwefel und Salmiak sind oft in ihnen vorhanden.</p>
+<p>Auch sind gern heiße Quellen und Dampflöcher in ihrer Nachbarschaft.
+Von Versteinerungen, so wie von Metallen, sind sie ganz frey. Auch
+da&sr; Aeußere der ächtvulkanischen Gebirge hat ein sich sehr au&sr;zeichnende&sr;
+<cw>unor-</cw>
+<fnf>hier ein, da man die vulkanischen Steinarten nicht gern für natürliche Kör-
+per, für Fossilien, wollte gelten lassen. Glaubte man dazumal etwa,
+daß Typhon und seine Kameraden diese Steinarten geschmiedet, oder
+vielmehr geschmolzen hätten? &2014;</fnf>
+<pb="23"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+unordentliche&sr; Ansehn, und die meisten ihrer Berge eine kegelförmige, zu-
+weilen in der Mitte wieder eingesunkene Gestalt. Besonder&sr; karakteri-
+stisch für sie aber sind die ganz, oder doch zum Theil noch auf ihnen vor-
+handenen trichterförmigen Schlünde (Krater&sr;). Wenn sie noch gangbar
+sind, so giebt sie der au&sr; ihnen beständig herau&sr;gehende Rauch oder Flam-
+me bald zu erkennen. Wenn sie hingegen kalt stehen, und wohl gar ver-
+altet sind, so kann man sie, &2014; die allemal der Ursprung&sr;ort der um sie her-
+umliegenden vulkanischen Gebirg&sr;massen sind, &2014; doch bald finden, wenn
+man auf die Lage und Verflächung der vulkanischen Gebirg&sr;arten achtet,
+die einem allemal nach diesen immer höher gelegenen Oertern hinweißt.
+Die zusammengefallenen Vulkane enthalten oft innerhalb de&sr; Umkreise&sr;
+ihre&sr; Einsturze&sr; kleine Seen.</p>
+<d4>§. 32.
+2.) Pseudovulkanische Gebirg&sr;arten.</d4>
+<p>Pseudovulkanische Gebirg&sr;arten sind, ersten&sr; Lavaähnliche Erdschlacken,
+meist von schwarzer, auch wohl rother Farbe und großblasigem Ansehn, dann
+der Porzellan-Jaspi&sr;, von mancherley Farben, und (von der Au&sr;trocknung
+oder Brennung her,) von aufgerissenen oder geborstenen Ansehn, und allerley
+halbgebrannte Thone. Da diese Gebirge, durch Erdbrände umgewandel-
+te Flötz- und zwar wohl jederzeit Steinkohlen-Flötzgebirge sind, in soferne
+Steinkohlenlager die Materie zu solchen Bränden hergegeben haben: so ha-
+ben solche auch noch ziemlich die regelmäßige Flötz- oder Lagerartige Struktur,
+die diesen Flötzgebirgen vorher eigen war. Man findet sogar in einigen
+Porzellan-Jaspissen noch Kräuter-Abdrücke, die da beweisen: daß selbige
+vor ihrer Umwandlung Schieferthon waren, der, wie bekannt, äußerst
+gewöhnlich dergleichen Kräuter-Abdrücke enthält. <fn="ll)">Ich selbst besitze ein dergleichen Stück Porzellan-Jaspi&sr;, mit sehr deutlichen
+Abdrücken von Schafgarbe u. Schilf, da&sr; von Planitz bey Zwickau seyn soll.</fn> Ein den Pseudovulka-
+<cw>nischen</cw>
+<pb="24"/>
+<kt>Kurze Klassifikation und Beschreibung</kt>
+nischen Gebirgen, wie e&sr; scheint, ganz eigenthümliche&sr; Fossil ist auch der stäng-
+liche thonartige Eisenstein. Ich habe dergleichen Gebirge in Böhmen <g>in</g>
+der Gegend von Lessa und Hohdorf, ohnweit Karl&sr;bad, und Strakka und
+Swinschütz, ohnweit Oßegg und Bilin, gefunden. Bey Dutlingen, ohnweit
+Saarbrück, ist noch jezt eine&sr; im Entstehen, und schon sind der Porzellan-
+Jaspi&sr; und der stängliche thonartige Eisenstein daselbst zu Hause.</p>
+<d4>§. 33.</d4>
+<p>Man wird die Anzahl der bi&sr;her angenommenen vulkanischen Ge-
+birg&sr;arten hier sehr reduzirt finden; vielleicht zu nicht geringem Mi&sr;beha-
+gen vieler feuersüchtigen Mineralogen und Geognosten.</p>
+<p>Der Basalt und ein Theil de&sr; Porphyrschiefer&sr;, Porphyr&sr; und Man-
+delstein&sr;, <fn="m)">Für Lava wird der Mandelstein au&sr;gegeben, wenn die in ihm liegenden
+elliptischen und mandelförmigen Stein- und Erdarten ganz aufgelößt,
+und also blo&sr; die von ihnen übrigen runden leeren Räume in ihm vor-
+handen sind. Dergleichen Mandelstein kommt am Harze, bey Land&sr;-
+hut in Schlesien, und selbst ohnweit Karl&sr;bad vor.</fn> (lezterer in&sr;gemein unter dem Namen: <fr>vulkanischer Tuf,</fr>)
+sind bi&sr;her von italiänischen, französischen, deutschen und englischen Mine-
+ralogen wirklich mit unter die Laven gesezt worden; al&sr; wovon mich nicht
+allein die Beschreibungen dieser Schriftsteller, sondern auch die Besichtigung
+ganzer Sammlungen von sogenannten vulkanischen Produkten au&sr; diesen
+Ländern überzeugt haben. Ich bin aber durch mehrere, mit vieler Sorg-
+falt über diese Gesteinarten, in und auf ihren Lagerstätten, in den Gebir-
+gen, sowohl Sachsen&sr; al&sr; anderer angränzenden Länder, angestellte eige-
+ne Beobachtungen, und durch Nachrichten, die ich von Sachverständigen
+Beobachtern über diese Gebirg&sr;arten au&sr; andern Ländern eingezogen ha-
+be, überzeugt worden: daß die nämlichen Gebirg&sr;arten daselbst unter eben
+den Umständen, al&sr; andere uranfängliche- und Flötzgebirg&sr;arten, vorkom-
+<cw>men,</cw>
+<pb="25"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+men, und nicht&sr; zeigen, wa&sr; eine Entstehung durch&sr; Feuer errathen
+ließe. <fn="n)">Al&sr; ich im Jahr 1775. wieder nach Freyberg kam, fand ich da&sr; System
+der Vulkanisten, und in solchem unter andern den vulkanischen Ursprung
+de&sr; Basalte&sr;, allgemein angenommen. Sowohl die Neuheit und da&sr;
+Interessante dieser Lehre, al&sr; vorzüglich auch die Ueberredung&sr;kunst
+ihrer Vertheidiger, und in gewißer Maße da&sr; Ueberredende oder der
+Schein der Sache selbst, hatten selbiger bald ungemein viel Anhänger
+verschaft. Ob mir nun solche schon gleich anfänglich sehr paradox vor-
+kam, so hatte ich doch zu viel Achtung für da&sr; Ansehn der meisten Mi-
+neralogen, die selbiger zugethan waren, al&sr; daß ich mich sogleich dar-
+wider hätte erklären sollen. Ich ließ also die Richtigkeit derselben einst-
+weilen, und bi&sr; ich selbst Beobachtungen über diese Materie anstellen
+könnte, dahin gestellt seyn. Die&sr; nun fügte sich im Sommer de&sr; dar-
+auf folgenden 1776sten Jahre&sr;, da ich den berühmtesten Sächsischen
+Basaltberg, den bey Stolpen, besuchte und beobachtete. Hier fand ich
+nun auch nicht eine Spur von vulkanischer Wirkung, auch nicht da&sr;
+geringste Merkmal einer vulkanischen Erzeugung. Vielmehr bewie&sr; die
+ganze innere Struktur de&sr; Berge&sr; ganz da&sr; Gegentheil. Nun wagte ich
+e&sr; zuerst, öffentlich zu behaupten und zu beweisen: daß wenigsten&sr; nicht
+aller Basalt vulkanischen Ursprung&sr; seyn könnte, und zu leztern unter
+andern der Stolpener unbezweifelt gehöre. So vielen und großen Wi-
+derspruch ich auch anfang&sr; hierinnen fand, so traten doch bald mehrere mei-
+ner Meynung bey. Ein vorzügliche&sr; Gewicht aber erhielt meine Mey-
+nung, durch die Bemerkungen über die ehemaligen Erdbrände in dem
+um die Basalt- und Porphyrschieferberge de&sr; Böhmischen Mittelgebir-
+ge&sr; herumgelegenen Steinkohlengebirge, und die darau&sr; entstandenen
+Pseudovulkanischen Gebirge, die ich in dem 1777sten Jahre machte.
+Da ich künftig meine Gründe wider den vulkanischen Ursprung de&sr; Ba-
+salt&sr; und noch einiger andern Gebirg&sr;arten au&sr;führlich vortragen wer-
+de; so breche ich für jezt davon ab, und will hier nur soviel noch ganz
+kurz sagen, daß ich, nach weiterer reiflicher Untersuchung und Ueberlegung,
+dafür halte, daß kein Basalt vulkanischen, sondern aller, so wie alle übri-
+gen uranfänglichen- und Flötz-Gebirg&sr;arten, nassen Ursprung&sr; sey.</fn> Eben so haben mich auch genaue Nachrichten, die ich von dem
+Vorkommen de&sr; Obsidian&sr; (I&sr;ländischer Agath, Lavagla&sr;,) in I&sr;land er-
+<cw>halten,</cw>
+<bs>D</bs>
+<pb="26"/>
+<kt>Kurze Klassification und Beschreibung</kt>
+halten, und Stücke von ähnlichem, ja fast dem nämlichen Gesteine, die ich
+au&sr; der Gegend von Tokai in Oberungarn, und von Madaga&sr;kar bekom-
+men habe, sehr zweifelhaft gemacht, ob diese Steinart vulkanischen Ur-
+sprung&sr; ist; ja ich bin fast ganz von dem Gegentheile überzeugt.</p>
+<d2>§. 34.
+<b>Von den aufgeschwemmten Gebirg&sr;arten.</b></d2>
+<d3><aq>I.</aq> <fr>Von selbigen überhaupt.</fr></d3>
+<p>Da&sr; Alter der Erzeugung der drey lezten Hauptgebirg&sr;arten fällt
+beynahe in einerley Zeitraum, doch kann man die ganz leztere, nämlich
+die aufgeschwemmten Gebirge, ziemlich al&sr; die neueste annehmen. Die
+aufgeschwemmten Gebirg&sr;arten bestehen fast ganz au&sr; Theilen zerstörter
+uranfänglicher- und Flötz- ja selbst zuweilen vulkanischer Gebirge, die mei-
+sten&sr; in söhligen Lagern von äußerst verschiedener Mächtigkeit übereinan-
+der liegen.</p>
+<p>Man kann sie in zwey Gattungen abtheilen: in <fr>Seiffengebirge und
+niedrige&sr; Land.</fr></p>
+<d3>§. 35.
+<aq>II.</aq> <fr>Von den aufgeschwemmten Gebirgen insonderheit.</fr></d3>
+<d4>1.) Seiffengebirg&sr;arten.</d4>
+<p>Die Seiffengebirge bestehen au&sr; Kieseln, (großen oder kleinen Stein-
+Geschieben,) Gruß und Sand, und zuweilen auch Thon oder Laim, bald
+alle&sr; unter einander gemengt, bald in abgesonderten Lagen. Sie kom-
+men in&sr;gemein in den tiefen und weiten Thälern der Hochgebirge vor, und
+füllen sie öfter&sr; zu einer Höhe von vielen Lachtern an.</p>
+<p>Sie enthalten oft Zinn- und Goldsand, Eisensteingeschiebe und Edel-
+steine. Von Versteinerungen sind sie frey.</p>
+<cw>§. 36.</cw>
+<pb="27"/>
+<kt>der verschiedenen Gebirg&sr;arten.</kt>
+<d4>§. 36.
+2.) Gebirg&sr;arten de&sr; niedrigen Lande&sr;.</d4>
+<p>Da&sr; niedrige Land ist äußerlich entweder ganz platt, oder wellich
+und hüglich. Nach den Fossilien-Massen, au&sr; denen e&sr; besteht, und die,
+bald die eine, bald die andere darinne vorwalten, läßt e&sr; sich wieder in
+<fr>Sand-Land, Laim-Land,</fr> und <fr>Moor-Land</fr> abtheilen.</p>
+<p>Rasen-Eisenstein ist fast die einzige Metallart, so die verschiedenen Ar-
+ten de&sr; niedrigen Lande&sr; führen, und ziemlich allen gleich gemein.</p>
+<p>Einige Versteinerungen enthalten sie auch: doch sind sie oft au&sr; Flötz-
+gebirgen dahin geführt. Versteinerte&sr; Holz und Theile von vierfüßigen
+Thieren hingegen sind in ihm zu Hause.</p>
+<li><aq>A</aq>) <fr>Sandland.</fr> Die&sr; besteht vorzüglich au&sr; allerley Sand- Gruß- und
+Kieselschichten. Thon- und Laimschichten kommen nur zuweilen mit
+unter vor. Die Sandlager sind bi&sr;weilen schon in wahren Sand-
+stein verwandelt. In einigen Gegenden führt da&sr; Sandland auch
+inliegende See-Konchilien. Man findet bi&sr;weilen abwechselnde
+Lager von Alaunerde (sogenannten erdigen Alaunerz,) in ihm; z. B.
+bey Mu&sr;ka, Schwemsal, u. a. O.</li>
+<li><aq>B</aq>) Da&sr; <fr>Laimland</fr> besteht fast blo&sr; au&sr; verschiedenerley Laim- und
+Thonlagern, die mehr und weniger sandig sind, und zuweilen selbst
+mit schwachen Sandlagern abwechseln. In den Laimlagern kom-
+men zuweilen Eisen-Nieren vor.</li>
+<li><aq>C</aq>) Allerley Arten Turf und bituminöse Erde (Turf-Erde,) machen
+da&sr; <fr>Moorland</fr> au&sr;, und wechseln zuweilen mit schwachen Sand-,
+seltener Thonschichten darinnen ab.</li>
+<bs>D 2</bs><cw>§. 37.</cw>
+<pb="28"/>
+<kt>Kurze Klassifikation und Beschreibung &204A;c.</kt>
+<d2>§. 37.
+<fr>Schluß.</fr> Bemerkung über diese kurze Beschreibung der ver-
+schiedenen Gebirg&sr;arten.</d2>
+<p>Ich habe in dieser kurzen Beschreibung der verschiedenen Gebirg&sr;ar-
+ten, mich aller weitern Detaillirung jeder einzelnen Gebirg&sr;art in Anse-
+hung ihrer verschiedenen Abänderungen, &2014; aller au&sr;führlichen Betrach-
+tungen über ihre Entstehungen und Verhältnisse gegen einander, &2014; der
+au&sr;führlichen Angabe der Geburt&sr;örter dieser Gebirg&sr;arten, außer wo ich
+e&sr; der Deutlichkeit wegen nicht Umgang nehmen konnte, &2014; und der An-
+führungen anderer sie beschreibenden Schriftsteller, mit Vorsatz enthalten:
+da ich eine&sr; Theil&sr; diese Abhandlung mit Fleiß nicht weitläuftig werden
+lassen, und andern Theil&sr; mir eine weitere und vollständige Au&sr;führung
+dieser Materie für&sr; künftige vorbehalten wollte.</p>
+<hr>
+<pb>
+<pb>

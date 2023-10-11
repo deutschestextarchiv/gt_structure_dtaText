@@ -1,0 +1,551 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b>Jahresbericht</b>
+über das
+Königl. Katholische Gymnasium
+zu
+BRAUNSBERG
+<b><g>in dem Schuljahre 1848/49</g></b>
+mit welchem zu der
+<b><g>Oeffentlichen Prüfung am 2. August</g></b>
+und zu den
+<b><g>Schlussfeierlichkeiten am 3. August</g></b>
+ergebenst einladet
+<g>der Direktor der Anstalt</g>
+<b>Dr. Ferd. Schultz.</b>
+<hr>
+Vorangeht die Abhandlung: <g>Beitrag zur Theorie der Abel&2019;</g>schen <g>Inte-
+grale</g>, von dem Lehrer der Mathematik und Physik Herrn <g>Weierstrass</g>.
+<hr>
+<b>Braunsberg</b>,
+<g>gedruckt bei C. A. Heyne</g>.</front>
+<pb>
+<pb>
+<d1><b>Beitrag zur Theorie der Abel&2019;schen Integrale.</b></d1>
+<hr>
+<p><in>U</in>nter den sogenannten vollständigen elliptischen Integralen der ersten und zweiten
+Gattung (den Modular- und elliptischen Quadranten nach <g>Gudermann&2019;</g>s Benennung)
+welche zu zwei conjungirten Moduln gehören, findet bekanntlich ein einfacher, zuerst
+von <g>Legendre</g> aufgefundener Zusammenhang statt, welcher in den jetzt gebräuch-
+lichen Zeichen durch die Gleichung
+<c><formel></c>
+dargestellt wird. In der vorliegenden Abhandlung beabsichtige ich, für die <g>Abel&2019;</g>schen
+<g>Integrale</g> aller Ordnungen eine Reihe analoger Relationen zu entwickeln, welche,
+wie ich glaube, nicht bekannt sind. Es findet sich zwar (<g>Crelle</g>&2019;s <g>Journal</g>, Bd.
+19, S. 312) eine gelegentliche Bemerkung von <g>Jacobi</g>, eine von ihm aufgefundene
+Verallgemeinerung des Legendre&2019;schen Satzes betreffend; allein nach den Andeutungen,
+die derselbe a. a. O. giebt, glaube ich annehmen zu dürfen, dass die Relation, welche
+er im Sinne hat, mit derjenigen übereinstimme, die später <g>Hädenkamp</g> (Crelle&2019;s
+Journal, Bd. 22, S. 184) auf dem von Jacobi angegebenen Wege hergeleitet hat. Die
+Resultate indess, zu welchen ich gelangt bin, sind nicht nur von dem Hädenkamp&2019;-
+schen verschieden, sondern auch weit einfacher und mit der Legendre&2019;schen Formel
+übereinstimmender.</p>
+<p>Die von mir entwickelten Relationen sind für die Theorie der Abel&2019;schen Tran-
+scendenten von besonderer Bedeutung. Ich beschäftige mich seit längerer Zeit mit
+dieser Theorie und namentlich mit der Hauptaufgabe, die von Jacobi eingeführten
+umgekehrten Functionen der Abel&2019;schen Integrale erster Gattung wirklich darzustellen.
+Es ist mir gelungen, diese Aufgabe vollständig zu lösen, auf einem Wege, welcher
+von dem bisher von <g>Göpel</g> u. A. betretenen gänzlich verschieden ist. Ich gehe näm-
+lich unmittelbar von den Integral-Gleichungen aus, durch welche jene Functionen
+definirt werden, und zeige zunächst, mit Hülfe des Abel&2019;schen Theorems, dass sie
+sämmtlich Wurzeln ein und derselben algebraischen Gleichung sind, deren Coefficienten
+ich sodann durch eine Anzahl von Hülfsfunctionen ausdrücke, welche den sogenannten
+<i>&0398;</i> Functionen, auf welche Jacobi die elliptischen Functionen zurückgeführt hat, voll-
+kommen analog sind, und gleich diesen durch unendliche, nach einem einfachen Gesetze
+gebildete und beständig convergirende Reihen dargestellt werden können. Diese Reihen-
+<bs>1</bs>
+<pb="4"/>
+Entwickelungen gewinne ich, indem ich für die genannten Hülfsfunctionen mehrere
+charakteristische Eigenschaften nachweise, durch welche sie vollständig bestimmt
+werden. Dazu aber ist die Kenntniss der Relationen, welche der Gegenstand des ge-
+genwärtigen Aufsatzes sind, ein wesentliches Erforderniss. Nun hat zwar der Weg,
+den ich bei Behandlung der Abel&2019;schen Transcendenten eingeschlagen, das Eigen-
+thümliche, dass man auf ihm selbst in ungesuchter Weise zu jenen Relationen geführt
+wird, wie ich sie denn in der That auch so zuerst gefunden habe. Es ist aber
+diese Art der Herleitung einigermassen umständlich, indem namentlich die Bestimmung
+einiger Constanten Weitläufigkeiten macht. Um so erwünschter war es mir, in einem
+von Abel in der Abhandlung: Sur une propriété remarquable d&2019;une classe trés étendue
+de fonctions transcendentes (Oeuvres complètes, Tome II, pag. 54) begründeten Theo-
+reme, durch welches die bekannten Sätze über die Vertauschung von Parameter und
+Argument bei der dritten Gattung der elliptischen Integrale eine sehr bemerkenswerthe
+Verallgemeinerung erhalten, die eigentliche Quelle zu entdecken, aus der die in Rede
+stehenden Relationen, so wie noch andere weit allgemeinere, auf eben so einfachem
+als direktem Wege abgeleitet werden können.</p>
+<d2><b>§. 1.</b></d2>
+<p>Es sei R (<i>x</i>) eine ganze Function von <i>x; a, b</i> seien irgend zwei Wurzeln der
+Gleichung R (<i>x</i>) = 0, und es werde
+<c>1. <formel></c>
+gesetzt, wo R' (<i>x</i>), R' (<i>y</i>) die ersten Differential-Coefficienten von R (<i>x</i>), R (<i>y</i>) bedeu-
+ten, so dass, wie man sich leicht überzeugt, F (<i>x, y</i>) eine <g>ganze</g> Function von <i>x, y</i>
+ist. Alsdann gilt als ein besonderer Fall des angeführten <g>Abel</g>&2019;schen Theorems die
+folgende Gleichung, in welcher <i>&03B1;, &03B2;</i> irgend zwei bestimmte Werthe der Veränderlichen
+<i>x, y</i> bezeichnen:
+2. <formel></p>
+<p>Als nothwendige Bedingung des Bestehens dieser Gleichung ist noch hinzuzufü-
+gen, dass innerhalb der Grenzen der Integration <i>x</i> &2014; <i>y</i> nicht = 0 werden darf.</p>
+<p>Es ist nämlich
+<c><formel>,</c>
+<c><formel>,</c>
+<pb="5"/>
+<c><formel>,</c>
+also
+<formel></p>
+<p>Es sei nun
+<c><formel></c>
+und es werde zunächst angenommen, dass die Zahlen <i>a</i><do>1</do>, <i>a</i><do>2</do> . . . . sämmtlich reell
+und so geordnet seien, dass
+<c><formel></c></p>
+<p>Alsdann hat R (<i>x</i>), wenn <i>x</i> zwischen den Grenzen <i>a<do>&03BC;</do>, a</i><do><i>&03BC;</i> + 1</do> enthalten ist, wo <i>&03BC;</i>
+irgend eine der Zahlen 1, 2, &2026;, 2n bedeutet, dasselbe Zeichen wie (&2014;1)<up><i>&03BC;</i>&2014;1</up>, so
+dass man setzen kann
+<c><formel>,</c>
+wo #[(&2014;1)<up><i>&03BC;</i>&2014;1</up> R (<i>x</i>)] den positiven Werth der Quadratwurzel aus der positiven
+Grösse (&2014; 1)<up><i>&03BC;</i>&2014;1</up> R(<i>x</i>) bezeichnen soll. Liegt <i>x</i> zwischen &2014; &221E; und <i>a</i><do>1</do>, so hat man
+<c><formel>,</c>
+und wenn <i>x</i> zwischen <i>a</i><do>2n+1</do> und + &221E; enthalten ist
+<c><formel></c>
+Um nun einem Integral wie <formel> eine ganz bestimmte Bedeutung zu ge-
+ben, werde für das Folgende festgesetzt, dass bei der Integration von den beiden
+Werthen, welche #R (<i>x</i>) hat, immer derjenige in Anwendung kommen soll, den man
+erhält, wenn man in den vorstehenden Formeln das <g>obere</g> Zeichen nimmt.</p>
+<p>Dies vorausgesetzt setze man in der Gleichung (2) <i>a</i> = <i>a<do>&03BC;</do>, b</i> = <i>a<do>&03BD;</do></i> und nehme
+zunächst an, dass <i>&03BD;</i> &gt; <i>&03BC;</i> + 1 aber &lt; 2n + 1 sei, so darf man <i>a</i> = <i>a</i><do><i>&03BC;</i>+ 1</do>, <i>&03B2;</i> = <i>a</i><do><i>&03BD;</i> + 1</do>
+nehmen, weil in diesem Fall die Differenz <i>x</i>&2014;<i>y</i> innerhalb der Grenzen der Integration
+nicht = 0 wird. Die linke Seite wird alsdann = 0, und man erhält demnach
+<c>3. <formel></c>
+<bs>1*</bs>
+<pb="6"/>
+Wenn aber <i>&03BD;</i> = <i>&03BC;</i> + 1, so kann man den Werth des Doppel-Integrals
+<c><formel>,</c>
+welches durch S bezeichnet werden möge, mit Hülfe der Gleichung (2) nicht di-
+rekt auf dieselbe Weise ermitteln; man gelangt jedoch dazu auf folgendem Wege.</p>
+<p>Es werde <i>a<do>&03BC;</do></i> durch <i>a, a</i><do><i>&03BC;</i> + 1</do> durch <i>c, a</i><do><i>&03BC;</i> + 2</do> durch <i>b</i> bezeichnet, so ist
+<c><formel></c></p>
+<p>Sodann seien <i>s, t</i> zwei <g>positive</g> Zahlen, so gewählt, dass <i>c</i> &2014; <i>s</i> &gt; <i>a</i> und
+<i>c</i> + <i>t</i> &lt; <i>b</i> bleibt, so ist S die Grenze, welcher sich das Doppel-Integral
+<c><formel></c>
+uähert, wenn <i>s, t</i> unendlich klein werden. Für dieses letztere Integral aber darf man
+vermöge der Gleichung (2) setzen
+<c><formel></c>
+Dieser Ausdruck wandelt sich, wenn <i>x</i> = <i>c</i>&2014;<i>u, y</i> = <i>c</i> + <i>v</i> gesetzt wird, in den folgenden um:
+<c><formel></c></p>
+<p>Es mögen jetzt <i>&03C3;, &03C4;</i> zwei bestimmte Werthe von <i>s</i> und <i>t</i> bezeichnen, die nur so
+klein anzunehmen sind, dass sich #R (<i>c</i> &2014; <i>s</i>), #R (<i>c</i> + <i>t</i>) für alle Werthe von <i>s, t</i>,
+welche nicht grösser als <i>&03C3;, &03C4;</i> sind, durch convergirende Reihen, die nach aufsteigenden
+Potenzen dieser Veränderlichen fortschreiten, darstellen lassen. Alsdann hat man
+<formel></p>
+<pb="7"/>
+<p>Die Integrale
+<c><formel></c>
+bleiben für alle Werthe von <i>t, s</i> innerhalb der für diese Veränderlichen bezeichneten
+Grenzen endlich; #R(<i>c</i> + <i>t</i>), #R(<i>c</i>&2014;<i>s</i>) nähern sich aber, wenn <i>t, s</i> unendlich klein
+werden, der Grenze #R (<i>c</i>) = 0. Daraus folgt, dass die Grenze von S' für <i>t</i> = 0,
+<i>s</i> = 0 dieselbe ist wie die, welcher sich die Formel
+<c><formel></c>
+nähert, wenn <i>s, t</i> unendlich klein werden.</p>
+<p>Nach den oben für #R (<i>x</i>) getroffenen Bestimmungen kann man nun, da <i>c</i> &2014; <i>u</i>
+zwischen <i>a<do>&03BC;</do></i> und <i>a</i><do><i>&03BC;</i> + 1</do>, <i>c</i> + <i>v</i> zwischen <i>a</i><do><i>&03BC;</i> + 1</do> und <i>a</i><do><i>&03BC;</i> + 2</do> liegt, setzen
+<c><formel>
+<formel></c>
+wo F (<i>v</i>) in eine convergirende Reihe entwickelt werden kann, die nur ganze, positive
+Potenzen von <i>v</i> enthält, und F (&2014;<i>u</i>) aus F (<i>v</i>) hervorgeht, wenn man &2014; <i>u</i> für <i>v</i> setzt.
+#<i>u</i> und #<i>v</i> sind positiv zu nehmen. Alsdann ist
+<c><formel></c>
+Der zweite Theil auf der rechten Seite dieser Gleichung lässt sich, weil F (<i>t</i>) &2014; F (&2014; <i>u</i>)
+durch <i>t</i> + <i>u</i> dividirbar ist, in eine Reihe von Gliedern entwickeln, welche nur po-
+sitive Potenzen von <i>s, &03C3;, t</i> enthalten und für <i>t</i> = 0 verschwinden. Eben so findet man
+<formel> + eine Reihe von Gliedern, die für
+<i>s</i> = 0 verschwinden.</p>
+<pb="8"/>
+<p>Daraus ergiebt sich denn, dass der Werth von S die Grenze ist, in welcher sich
+die Formel
+<c><formel></c>
+nähert, wenn <i>t, s</i> unendlich klein werden. Diese Formel lässt sich aber, wenn
+man bei dem ersten Integrale die Substitution <formel>, bei dem andern die Sub-
+stitution <formel> anwendet, und <formel> setzt, umwandeln in
+<c><formel>,</c>
+welcher Ausdruck für <i>s</i> = 0, <i>t</i> = 0 übergeht in
+<c><formel></c>
+Es ist demnach <et><formel>,</et>
+oder <et>4. <formel></et></p>
+<d2><b>§. 2.</b></d2>
+<p>Die Doppel-Integrale auf der linken Seite der Gleichungen (3, 4) des vorher-
+gehenden §. können, weil F (<i>x, y</i>) in Beziehung auf <i>x</i> sowohl als <i>y</i> eine ganze
+Function vom (2<i>n</i>&2014;1)ten Grade ist, dargestellt werden als ein Aggregat von Gliedern,
+von denen jedes ein Product zweier Abel&2019;schen Integrale der ersten und zweiten
+Gattung ist; die Gleichungen (3, 4) geben also eine Reihe von Relationen unter
+solchen Integralen, die man in Erweiterung der Legendre&2019;schen Benennung <g>vollstän-
+dige</g> Abel&2019;sche Integrale nennen kann.</p>
+<p>Wenn R (<i>x</i>) vom dritten Grade ist, so ist <formel>, und es reduci-
+ren sich die Gleichungen auf die einzige
+<pb="9"/>
+<et>1. <formel>, oder
+2. <formel>
+Setzt man <formel>, so ist
+<formel>
+<formel>,</et>
+und die Gleichung (2) geht, wenn man
+<et><formel>, <formel>
+<formel>, <formel></et>
+setzt, über in die folgende:
+<c>3. <formel></c>
+Diese Gleichung ist identisch mit der oben angeführten Legendre&2019;schen. Denn es ist
+<c><formel>,</c>
+und wenn man <formel> setzt, so erhält man
+<c><formel>,</c>
+und durch dieselbe Substitution
+<c><formel>,</c>
+<pb="10"/>
+mithin <et><formel>, oder
+4. <formel></et></p>
+<p>Ich werde jetzt zeigen, dass man den Gleichungen (3, 4) des §. 1 eine ganz
+ähnliche Gestalt geben kann, wie der Gleichung (3) dieses §. Zu dem Ende wird es
+aber nöthig sein, einige Bemerkungen über die Form, unter welcher nach meiner An-
+sicht die Abel&2019;schen Transcendenten zu behandeln sind, voraus zu schicken.</p>
+<d2><b>§. 3.</b></d2>
+<p>Dem System der Integral-Gleichungen, von welchem man nach <g>Jacobi</g> in der
+Theorie des Abel&2019;schen Transcendenten ausgehen muss, kann man immer folgende
+Form geben, welche mir die angemessenste zu sein scheint, wenn man die Analogie
+dieser Functionen mit den elliptischen so viel als möglich will hervortreten lassen.</p>
+<p>Es werde die Function R (<i>x</i>) in zwei Factoren P (<i>x</i>), Q (<i>x</i>) zerfällt, und zwar sei
+<et><formel>
+<formel></et>
+Ferner werde
+<et><formel></et>
+gesetzt, wo <fr>a</fr>, wie überhaupt jeder im Folgenden als Index vorkommende deutsche
+Buchstabe, eine der Zahlen 1, 2, 3, &2026;, n bedeutet, und es seien <i>x</i><do>1</do>, <i>x</i><do>2</do>, &2026;, <i>x</i><do>n</do>
+<i>n</i> Veränderliche, welche als Functionen eben so vieler veränderlichen Argumente
+<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;, <i>u</i><do>n</do> durch die Gleichungen
+<c>1. <formel>
+<formel>
+<formel></c>
+<pb="11"/>
+definirt werden, in denen sich das Summenzeichen auf den Index <fr>a</fr> bezieht. Es han-
+delt sich darum, die Functionen <i>x</i><do>1</do>, <i>x</i><do>2</do>, . . . ., <i>x</i><do>n</do> durch ihre Argumente in einer für
+alle Werthe der letztern gültig bleibenden Form wirklich auszudrücken.</p>
+<p>Zunächst erhält man für dieselben unendliche Reihen, die nach ganzen positiven
+Potenzen von <i>u</i><do>1</do>, <i>u</i><do>2</do>, . . . ., <i>u</i><do>n</do> fortschreiten, und zwar ist, wenn man durch
+(<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026; <i>u</i><do>n</do>)<do><i>&03B1;</i></do> eine homogene Function des <i>&03B1;</i>ten Grades von <i>u</i><do>1</do>, <i>u</i><do>2</do> . . . . bezeichnet,
+2. <formel></p>
+<p>Diese Reihen convergiren zwar nicht beständig, aber doch für alle Werthe von
+<i>u</i><do>1</do>, <i>u</i><do>2</do>, . . . ., die ihrer absoluten Grösse nach bestimmte Grenzen nicht überschreiten.
+Sodann kann man mit Hülfe des Abel&2019;schen Theorems nachweisen, das <i>x</i><do>1</do>, <i>x</i><do>2</do>, &2026;<i>x</i><do>n</do>
+Wurzeln ein und derselben Gleichung <i>n</i> ten Grades sind, der man die Form
+<c>3. <formel></c>
+geben kann, wo <i>p</i><do>1</do>, <i>p</i><do>2</do>, &2026; <i>p</i><do>n</do> <g>eindeutige</g> Functionen von <i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026; <i>u</i><do>n</do> sind, die
+ganz den Charakter rationaler Functionen besitzen. In Reihen nach Potenzen von
+<i>u</i><do>1</do>, <i>u</i><do>2</do> &2026; entwickelt hat <i>p</i><do><fr>a</fr></do> genau dieselbe Gestalt wie die Reihe auf der rechten Seite
+der Gleichung (2), woraus erhellt, dass <i>p</i><do><fr>a</fr></do> eine ungrade Function von <i>u</i><do>1</do>, <i>u</i><do>2</do> . . . . ist.
+Ferner hat man
+<c>4. <formel></c>
+Für n = 1 ergiebt sich, wenn man <i>x, u, p</i> für <i>x</i><do>1</do>, <i>u</i><do>1</do>, <i>p</i><do>1</do> schreibt,
+<c><formel>
+<formel></c>
+woraus <et><formel></et>
+folgt, so dass <i>p</i> = sin am <i>u</i>, oder nach <g>Gudermann</g>&2019;s kürzerer Bezeichnung (Theorie
+der Modular-Functionen) <i>p</i> = sn <i>u</i> ist. In Erweiterung dieser letztern Bezeichnung setze ich
+<c><i>p</i><do><fr>a</fr></do> = sn (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;, <i>u</i><do>n</do>)<do><fr>a</fr></do>,</c>
+<bs>2</bs>
+<pb="12"/>
+so wie ferner
+5. <formel>
+6. <formel>
+Auf diese Weise sind in die Theorie der Abel&2019;schen Transcendenten (2<i>n</i> + 1) Func-
+tionen eingeführt, welche mit den drei elliptischen Functionen sin am <i>u</i> = sn u,
+cos am <i>u</i> = cn <i>u, &0394;</i> am <i>u</i> = dn <i>u</i>, in welche sie für <i>n</i> = 1 übergehen, eine grosse
+Aehnlichkeit haben. So z. B. lässt sich sn (<i>u</i> + <i>v</i>) rational durch sn <i>u</i>, <formel>, sn <i>v</i>, <formel>
+ausdrücken vermittelst der Formel
+<c><formel>,</c>
+und ähnliche Formeln gelten für en (<i>u</i> + <i>v</i>) und dn (<i>u</i> + <i>v</i>). Für die angegebenen Func-
+tionen mehrerer Veränderlichen aber findet man, <formel> setzend:
+2. <formel></p>
+<p>Setzt man in dieser Gleichung <fr>b</fr> der Reihe nach = 1, 2, &2026;, <i>n</i>, so erhält man
+<i>n</i> Gleichungen, vermittelst welcher die <i>n</i> Functionen sn (<i>u</i><do>1</do> + <i>v</i><do>1</do>, <i>u</i><do>2</do> + <i>v</i><do>2</do>, &2026;)<do><fr>a</fr></do> rational
+durch sn (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;)<do><fr>a</fr></do>, sn (<i>v</i><do>1</do>, <i>v</i><do>2</do>, &2026;)<do><fr>a</fr></do> und deren partiellen Differential-Coefficienten,
+welche letztere algebraische Functionen jener sind, ausgedrückt werden können. Aehn-
+liches gilt für die durch cn, dn bezeichneten Functionen. Bezeichnet man ferner
+<c>8. <formel> durch K<do><fr>a, b</fr></do>,
+9. <formel> durch <formel></c>
+und setzt 10. <formel>,
+<pb="13"/>
+so haben diese 2. <i>n</i><up>2</up> bestimmten Integrale K<do><fr>a, b</fr></do>, K'<do><fr>a, b</fr></do> für die Theorie der Abel&2019;schen
+Transcendenten eine ganz ähnliche Bedeutung wie die Grössen K, K' für die ellipti-
+schen Functionen. So z. B. findet man, wenn man
+<et>11. <i>&03C9;</i><do><fr>a</fr></do> = <fr>m</fr><do>1</do> K<do><fr>a</fr>, 1</do> + <fr>m</fr><do>2</do> K<do><fr>a</fr>, 2</do> + &2026; + <fr>m</fr><do>n</do> K<do><fr>a</fr>, n</do>
++ (<fr>n</fr><do>1</do> K'<do><fr>a</fr>, 1</do> + <fr>n</fr><do>2</do> K'<do><fr>a</fr>, 2</do> + &2026; + <fr>n</fr><do>n</do> K'<do><fr>a</fr>, n</do>) <i>i</i></et>
+setzt, wo <fr>m</fr><do>1</do>, <fr>n</fr><do>1</do>, <fr>m</fr><do>2</do>, <fr>n</fr><do>2</do> . . . . . ganze (positive oder negative) Zahlen bedeuten, für
+die Functionen sn, cn, dn <g>die</g> charakteristischen Gleichungen
+12. <formel>
+in welchen Formeln, wenn <fr>a</fr> = 1 ist, <fr>n</fr><do>o</do> = 0 zu setzen ist.</p>
+<p>Die Functionen sn, cn, dn stehen übrigens in einem einfachen algebraischen Zu-
+sammenhange, vermöge dessen je (<i>n</i> + 1) derselben durch die übrigen ausgedrückt
+werden können.</p>
+<p>Was nun ferner die Abel&2019;schen Integrale der <g>zweiten</g> Gattung anlangt, so las-
+sen sich dieselben durch <i>n</i> neue Functionen der Argumente <i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026; ausdrücken, von
+denen ich die <fr>a</fr>te durch J (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;, <i>u</i><do>n</do>)<do><fr>a</fr></do> bezeichne und auf folgende Weise defi-
+nire. Man denke sich <i>x</i><do>1</do>, <i>x</i><do>2</do>, &2026; vermittelst der Gleichung (3) durch <i>u</i><do>1</do>, <i>u</i><do>2</do> . . . .
+ausgedrückt und setze
+<c>13. <formel>,</c><fn="*)"><g>Anm</g>. In dieser und in einigen folgenden Formeln habe ich mir erlaubt, die allgemein
+eingeführte Bezeichnung für ein bestimmtes Integral in einem Sinne zu gebrau-
+chen, in welchem sie auch dann noch anwendbar bleibt, wenn die Function unter
+dem Integral-Zeichen an einer der Grenzen der Integration oder an beiden un-
+endlich wird. Es sei nämlich F (<i>x</i>) eine Function von <i>x</i>, die für alle Werthe
+dieser Veränderlichen <g>innerhalb</g> eines gegebenen Intervalls, dessen Grenzen
+<i>a, b</i> sind, endlich bleibt, und es lasse sich dieselbe für alle Werthe von <i>x</i> in
+der Nähe von <i>a</i> durch eine Reihe von der Form
+<c>S A (<i>x</i> &2014; <i>a</i>)<up>m</up>,</c>
+so wie für die Werthe von <i>x</i> in der Nähe von <i>b</i> durch eine Reihe
+<c>S B (<i>x</i> &2014; <i>b</i>)<up>n</up></c>
+darstellen. Sind nun <i>&03B1;, &03B2;</i> zwei bestimmte Werthe von <i>x</i> innerhalb des gegebenen</fn>
+<pb="14"/>
+mit der Bestimmung, dass <i>x</i> und #R (<i>x</i>) bei jeder einzelnen Integration dieselben
+Werthe durchlaufen wie in den Gleichungen (1). Auf diese Weise erklärt ist J(<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;)<do><fr>a</fr></do>
+eine für alle Werthe der Argumente <i>u</i><do>1</do>, <i>u</i><do>2</do> .... völlig bestimmte, eindeutige Function.
+Drückt man <i>dx</i><do>1</do>, <i>dx</i><do>2</do>&2026; durch <i>du</i><do>1</do>, <i>du</i><do>2</do> &2026; aus, so ergiebt sich (14) für J (<i>u</i><do>1</do>, <i>u</i><do>2</do>,&2026;, <i>u</i><do>n</do>)<do><fr>a</fr></do>
+der Ausdruck
+<formel>,
+wo für <fr>b</fr> der Werth <fr>a</fr> auszuschliessen ist. Durch diese Gleichung ist J (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;)<do><fr>a</fr></do>
+vollständig bestimmt, wenn noch hinzugefügt wird, dass in der Entwickelung dieser
+Function nach fallenden Potenzen von <i>u</i><do><fr>a</fr></do> kein von <i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026; u<do>n</do> unabhängiges Glied
+vorkommen darf. Für den Fall der elliptischen Functionen hat man
+<c><formel>,</c>
+während man gewöhnlich die elliptischen Integrale zweiter Gattung auf die Function
+<formel> zurückführt, was keinen wesentlichen Unterschied macht. Für die Abel-
+schen Integrale zweiter Gattung haben aber die hier gewählten Formen den Vorzug,
+dass sich viele Formeln einfacher gestalten, als es der Fall sein würde, wenn man,
+was ohne Schwierigkeit angeht, Functionen von <i>u</i><do>1</do>, <i>u</i><do>2</do>, einführte, welche dem ange-
+führten elliptischen Integral conform sind.</p>
+<fnf>Intervalls, der erste in der Nähe von <i>a</i>, der andere in der Nähe von <i>b</i> angenom-
+men, so kann man, wenn unter den Exponenten <i>m, n</i> keiner = &2014; 1 ist (auf
+welchen Fall ich mich hier beschränke), setzen
+<formel>,
+wo C einen von <i>&03B1;, &03B2;</i> unabhängigen Werth hat. Wenn die Exponenten <i>m</i> + 1,
+<i>n</i> + 1 sämmtlich positiv sind, so ist
+<c><formel></c>
+Weil aber C auch dann noch einen bestimmten endlichen Werth hat, wenn ei-
+nige der Exponenten m + 1, n + 1 negativ sind, so scheint es mir gestattet und
+angemessen zu sein, die Formel <formel> allgemein als das constante Glied in der
+Entwickelung von <formel> nach Potenzen von (<i>&03B1;</i>&2014;<i>a</i>) und (<i>&03B2;</i>&2014;<i>b</i>) zu definiren.
+In diesem Sinne ist im Verlauf der Abhandlung die Bezeichnung <formel> überall aufzufassen.</fnf>
+<pb="15"/>
+<p>Man bezeichne nun
+<et>15. <formel></et>
+und
+<et>16. <formel>,</et>
+so erhält man 2 . n<up>2</up> bestimmte Integrale J<do><fr>a,b</fr></do>, J'<do><fr>a,b</fr></do>, welche man in Erweiterung der
+Legendre&2019;schen Benennung vollständige Abel&2019;sche Jntegrale zweiter Gattung nennen
+kann, und die in der Theorie der Abel&2019;schen Transcendenten dieselbe Bedeutung ha-
+ben wie die Grössen
+<c>K &2014; E, E'</c>
+auf welche sie sich für <i>n</i> = 1 reduciren, für die elliptischen Functionen. Während z. B.
+<formel>,
+und daher, wenn <fr>m</fr>, <fr>n</fr> ganze Zahlen sind,
+<c>J (<i>u</i> + 2<fr>m</fr> K + 2<fr>n</fr> K' <i>i</i>) = J (<i>u</i>) + 2<fr>m</fr> (K &2014; E) + 2<fr>n</fr> E' <i>i</i></c>
+ist, so erhält man, wenn man setzt,
+<c>17. <formel>
+18. <formel></c></p>
+<p>Nach diesen vorläufigen Auseinandersetzungen, deren nähere Begründung einer
+ausführlichen Bearbeitung der Abel&2019;schen Transcendenten vorbehalten bleiben muss,
+werde ich nun nachweisen, dass die Gleichungen (3, 4) des §. 1. eine Reihe ein-
+facher Relationen unter den 4 . n<up>2</up> Grössen K<do><fr>a, b</fr></do>, K'<do><fr>a, b</fr></do>, J<do><fr>a, b</fr></do>, J'<do><fr>a, b</fr></do> enthalten.</p>
+<bs>3</bs>
+<pb="16"/>
+<d2><b>§. 4.</b></d2>
+<p>Es seien <i>a, b, c, d</i> irgend vier Wurzeln der Gleichung R (<i>x</i>) = 0, und es werde
+<c><formel> durch U
+<formel> durch T</c>
+bezeichnet. Substituirt man für F<do><fr>a</fr></do> (<i>x</i>), F<do><fr>a</fr></do> (<i>y</i>) die in §. 3. gegebenen Ausdrücke, so
+erhält man zunächst
+<formel>
+und daraus, indem man
+<c><formel> durch V bezeichnet,</c>
+<c><formel>.</c>
+Es ist aber, nach bekannten Sätzen über die Zerlegung der Brüche
+<c><formel></c>
+Entwickelt man beide Seiten dieser Gleichung nach fallenden Potenzen von <i>t</i> und
+setzt die beiden Coefficienten von <i>t</i><up>&2014;1</up> einander gleich, so ergiebt sich
+<c><formel></c>
+Setzt man daher <formel>, wo dann R (<i>x</i>) = P<up>2</up> (<i>x</i>) . N (<i>x</i>) wird, so ist
+<formel>, und daher
+<c><formel></c>
+Dieser Ausdruck für U lässt sich (s. §. 1 im Anfange) umgestalten in den folgenden:
+<c><formel></c>
+<pb="17"/>
+Es ist aber
+<et><formel>,</et>
+und daher, wenn man <formel> setzt,
+<et><formel></et></p>
+<p>Bezeichnen nun <i>&03B1;, &03B2;</i> zwei bestimmte Werthe von <i>x</i> in dem Intervall <i>a, b</i>, und
+zwar der erste in der Nähe von <i>a</i>, der andere in der Nähe von <i>b</i> gelegen, und eben-
+so <i>&03B3;, &03B4;</i> zwei Werthe von <i>y</i> in dem Intervall <i>c, d</i>, der erste in der Nähe von <i>c</i>, der
+andere in der Nähe von <i>d</i> gelegen, so ergiebt sich aus der vorstehenden Gleichung
+mit Beachtung der im §. 1 bewiesenen Gleichung
+<et><formel>,
+<formel></et></p>
+<p>Denkt man sich jetzt beide Seiten dieser Gleichung nach Potenzen von <i>&03B1;</i> &2014; <i>a</i>,
+<i>&03B2;</i>&2014;<i>b, &03B3;</i>&2014;<i>c, &03B4;</i>&2014;<i>d</i> entwickelt, so ist das constante Glied auf der linken Seite die oben
+<pb="18"/>
+durch T bezeichnete Grösse; auf der rechten Seite aber findet sich als constantes
+Glied das Doppel-Integral <formel></p>
+<p>Mithin
+<c><formel></c></p>
+<p>Nimmt man nun <i>a</i> = <i>a</i><do>2<fr>b</fr> &2014; 1</do>, <i>b</i> = <i>a</i><do>2<fr>b</fr></do>, <i>c</i> = <i>a</i><do>2<fr>c</fr> &2014; 1</do>, <i>d</i> = <i>a</i><do>2<fr>c</fr></do>, so erhält man aus
+der vorstehenden Gleichung (nach §. 1, Gl. 3)
+<c>2. <formel></c><fn="*)">Wenn in einer Formel, wie hier, mehrere deutsche Buchstaben <fr>a, b, c</fr> &2026; vorkom-
+men, welche, wie schon oben bemerkt worden ist, hier ausschliesslich ganze Zahlen,
+aus der Reihe 1, 2, 3, &2026;, n genommen, bezeichnen sollen, so bezieht sich das
+Summenzeichen auf denjenigen von ihnen, der unter dem <i>&03A3;</i> ausdrücklich ange-
+zeigt ist, und der dann sämmtliche in der angegebenen Reihe enthaltenen Wer-
+the durchlaufen muss, während jeder andere einen stehenden Werth hat. Sind
+unter dem Summenzeichen mehrere Buchstaben bezeichnet, so muss jeder dersel-
+ben, unabhängig von den übrigen, dieselben Werthe durchlaufen.</fn>
+Nimmt man <i>a</i> = <i>a</i><do>2<fr>b</fr></do>, <i>b</i> = <i>a</i><do>2<fr>b</fr>+1</do>, <i>c</i> = <i>a</i><do>2<fr>c</fr></do>, <i>d</i> = <i>a</i><do>2<fr>c</fr> + 1</do>, so ergiebt sich
+<c>3. <formel>.</c></p>
+<p>Setzt man in dieser Gleichung <fr>m</fr> für <fr>b</fr>, <fr>n</fr> für <fr>c</fr> und summirt von <fr>m</fr> = <fr>b</fr> bis
+<fr>m</fr> = <fr>n</fr>, und von <fr>n</fr> = <fr>c</fr> bis <fr>n</fr> = <fr>n</fr>, so findet man
+<c>4. <formel></c>
+Nimmt man ferner <i>a</i> = <i>a</i><do>2 <fr>b</fr> &2014; 1</do>, <i>b</i> = <i>a</i><do>2 <fr>b</fr></do>, <i>c</i> = <i>a</i><do>2<fr>b</fr></do>, <i>d</i> = <i>a</i><do>2 <fr>b</fr> + 1</do>, so findet sich (nach
+§. 1, Gl. 4)
+<c>5. <formel>,</c>
+und für <i>a</i> = <i>a</i><do>2 <fr>b</fr> &2014; 2</do>, <i>b</i> = <i>a</i><do>2 <fr>b</fr> &2014; 1</do>, <i>c</i> = <i>a</i><do>2 <fr>b</fr> &2014; 1</do>, <i>d</i> = <i>a</i><do>2<fr>b</fr></do>
+<pb="19"/>
+<et>6. <formel>, oder</et>
+<et>7. <formel></et></p>
+<p>Nimmt man endlich <i>a</i> = <i>a</i><do>2 <fr>b</fr> &2014; 1</do>, <i>b</i> = <i>a</i><do>2 <fr>a</fr></do>, <i>c</i> = <i>a</i><do>2<fr>c</fr></do>, <i>d</i> = <i>a</i><do>2 <fr>c</fr> + 1</do>, und es ist ent-
+weder <fr>c</fr> &gt; <fr>b</fr> oder <fr>c</fr> &lt; <up><fr>b</fr> &2014; 1</up>, so giebt die Gleichung (3) des §. 1
+<c>8. <formel></c>
+Setzt man in dieser Gleichung <fr>m</fr> für <fr>c</fr> und summirt von <fr>m</fr> = <fr>c</fr> bis <fr>m</fr> = <i>n</i>, so erhält
+man, <g>wenn <fr>c</fr> von <fr>b</fr> verschieden ist</g>,
+<c>9. <formel></c>
+Denn wenn <fr>b</fr> &gt; <fr>a</fr> ist, so ist jedes Glied, das bei der Summation in Betracht kommt,
+nach (9) = 0; wenn aber <fr>b</fr> &lt; <fr>a</fr> ist, so sind nur diejenigen Glieder nicht = 0, welche
+man für <fr>m</fr> = <fr>b</fr> &2014; 1 und <fr>m</fr> = <fr>b</fr> erhält; deren Summe aber ist in Folge der Gleichun-
+gen (5, 6, 7) ebenfalls = 0.</p>
+<p>Setzt man in der Gleichung (9) <fr>c</fr> = <fr>b</fr> + 1 und addirt alsdann zu ihr die Gleichung
+(5), und bemerkt, dass <formel> ist, so
+erhält man
+<et>10. <formel></et></p>
+<d2><b>§. 5.</b></d2>
+<p>Die Gleichungen (2, 4, 9, 10) des vorhergehenden §., welche hier noch einmal
+zusammengestellt werden mögen:
+<et>1. <formel>,
+2. <formel>,
+3. <formel>,
+4. <formel>,</et>
+enthalten eine Reihe von (2n<up>2</up> &2014; n) Relationen unter den 4n<up>2</up> Grössen K<do><fr>a, b</fr></do>, J<do><fr>a, b</fr></do>,
+K'<do><fr>a, b</fr></do>, J'<do><fr>a, b</fr></do> . Die erste Gleichung nämlich, deren linke Seite identisch = 0 wird,
+wenn man <fr>c</fr> = <fr>b</fr> nimmt, und nur ihr Zeichen wechselt, wenn diese beiden Indices
+unter einander vertauscht werden, giebt <formel> Relationen; eben so viele die
+zweite; die dritte aber giebt deren n (n &2014; 1), und die vierte n, alle zusammen also
+enthalten <formel> Relationen.</p>
+<bs>4</bs>
+<pb="20"/>
+<p>Ich werde jetzt aus diesen Relationen noch einige andere herleiten, welche bei
+den in der Einleitung angedeuteten Reihen-Entwickelungen der Abel&2019;schen Transcen-
+denten gebraucht werden.</p>
+<p>Es bezeichne G die Determinante des Systems
+<c>K<do>1 , 1</do> K<do>1 , 2</do> . . . . K<do>1 , n</do>
+K<do>2 , 1</do> K<do>2 , 2</do> . . . . K<do>2 , n</do>
+. . . . . . . . . . . . .
+K <do>n , 1</do> K <do>n , 2</do> . . . . K <do>n , n</do>,</c>
+und <formel> den Coefficienten von K<do><fr>a, b</fr></do> in dem Ausdrucke von G, so ist, wenn
+<c>5. <formel></c>
+gesetzt wird,
+<c>6. <formel>,
+7. <formel>.</c>
+Nun hat man (Gl. 1)
+<c><formel> also
+<formel></c></p>
+<p>Summirt man auf beiden Seiten in Bezug auf die einzelnen Indices in der Ord-
+nung, in welcher sie unter dem Summenzeichen geschrieben stehen, so erhält man
+mit Hülfe der Gleichung (7)
+<c>8. <formel></c>
+Setzt man daher
+<c>9. <formel>, so ist</c>
+<c>10. F<do><fr>a, b</fr></do> = F<do><fr>c, b</fr></do></c>
+Multiplicirt man die Formel G<do><fr>c, n</fr></do> J<do><fr>a, n</fr></do> durch K<do><fr>c, b</fr></do> und summirt dann in Bezug auf
+<fr>c, n</fr>, so findet man mit Hülfe der Gleichungen (9, 6)
+<c>11. <formel></c>
+Ferner ist (Gl. 3, 4)
+<c><formel></c>
+<pb="21"/>
+daher <formel>
+Aber <formel>,
+<et><formel></et>
+also <et>12. <formel></et></p>
+<p>Endlich ist (Gl. 2)
+<c><formel>,</c>
+und daher, wenn man J'<do><fr>c, a</fr></do> und J'<do><fr>c, b</fr></do> vermittelst der Formel (12) ausdrückt, indem
+man das einemal <fr>c, a, m</fr> für <fr>a, b, c</fr> und das anderemal <fr>c, b, m</fr> für <fr>a, b, c</fr> schreibt,
+und bemerkt, dass
+<c><formel></c>
+ist, weil man auf der rechten Seite dieser Gleichung <fr>m</fr> und <fr>c</fr> mit einander vertauschen
+und dann wieder F<do><fr>m, c</fr></do> für F<do><fr>c, m</fr></do> setzen darf,
+<c>13. <formel></c>
+Diese Gleichung ist besonders bemerkenswerth, weil in ihr nur Abel&2019;sche Integrale
+der ersten Gattung vorkommen.</p>
+<p>Bezeichnet man den Ausdruck auf der linken Seite dieser Gleichung durch H<do><fr>a, b</fr></do>,
+wo denn
+<c>14. H<do><fr>a, b</fr></do> = H<do><fr>b, a</fr></do></c>
+ist, so erhält man noch
+<c>15. <formel></c></p>
+<p>Durch die hier entwickelten Formeln wird übrigens auch der Beweis gelie-
+fert, dass die (2n<up>2</up> &2014; n) Gleichungen (1, 2, 3, 4) unabhängig von einander sind,
+d. h. dass keine von ihnen eine Folge der übrigen ist. Dies wird der Fall sein, wenn
+sich sämmtliche in denselben vorkommende 4n<up>2</up> Grössen durch (2n<up>2</up> + n) andere, will-
+kührlich angenommene, ausdrücken lassen.</p>
+<p>Nimmt man nun aber die n<up>2</up> Grössen K<do><fr>a, b</fr></do> willkührlich, die durch F<do><fr>a, b</fr></do>, H<do><fr>a, b</fr></do>
+bezeichneten aber so an, dass den Bedingungs-Gleichungen (10, 14) Genüge geschieht,
+und drückt dann durch diese Grössen, deren Anzahl (2n<up>2</up> + n) ist, vermittelst der
+Formeln (11, 12, 15) J<do><fr>a, b</fr></do>, J'<do><fr>a, b</fr></do>, K'<do><fr>a, b</fr></do> aus, und substituirt die so erhaltenen Ausdrücke
+<bs>4*</bs>
+<pb="22"/>
+derselben in die Gleichungen (1, 2, 3, 4), so überzeugt man sich mit Hülfe der Re-
+lationen (6, 7) leicht, dass in jeder dieser Gleichungen die linke Seite identisch = 0
+wird.</p>
+<hr>
+<p>Es ist bei den vorstehenden Entwickelungen ausdrücklich angenommen worden,
+dass die Wurzeln der Gleichung R (<i>x</i>) = 0, <i>a</i><do>1</do>, <i>a</i><do>2</do>, &2026;, <i>a</i><do>2n+1</do> sämmtlich reell und
+ihrer Grösse nach geordnet seien. Gleichwohl behalten die gewonnenen Resultate
+unverändert und ohne Ausnahme ihre Gültigkeit, wenn auch diese Bedingungen nicht
+erfüllt sind; es bedarf alsdann nur einer geeigneten Modification der in §. 1 getroffe-
+nen Bestimmungen hinsichtlich der Festsetzung desjenigen Werthes von #R(<i>x</i>), der
+bei jeder einzelnen Integration genommen werden muss. Ich kann jedoch, des be-
+schränkten Raumes wegen, in nähere Erörterungen über diesen Gegenstand nicht ein-
+gehen. Ebenso muss ich es mir versagen, über den in der Einleitung erwähnten
+Gebrauch der entwickelten Relationen auch nur andeutungsweise etwas Näheres anzu-
+geben. Ich begnüge mich schliesslich &2014; besonders um darauf hinzuweisen, dass
+auch die zuletzt gegebenen Entwickelungen nicht ohne Bedeutung sind &2014; den allge-
+meinen Ausdruck der Hülfsfunctionen hinzustellen, auf welche die Abel&2019;schen Transcen-
+denten zurückgeführt werden können.</p>
+<p>Es seien <i>t</i><do>1</do>, <i>t</i><do>2</do>, &2026;, <i>t</i><do>n</do> unbeschränkt veränderliche Grössen; <i>&03BC;</i><do>1</do>, <i>&03BC;</i><do>2</do>, &2026; <i>&03BC;</i><do>n</do>,
+<i>&03BD;</i><do>1</do>, <i>&03BD;</i><do>2</do>, &2026;, <i>&03BD;</i><do>n</do> ganze Zahlen, von denen jede entweder = 0, oder = 1 zu nehmen
+ist; <i>&03B1;</i><do>1</do>, <i>&03B1;</i><do>2</do>, &2026; <i>&03B1;</i><do>n</do>, veränderliche ganze Zahlen, deren jede unabhängig von den übrigen
+jeden zwischen den Grenzen &2014; &221E; und + &221E; enthaltenen Werth annehmen kann; man
+bezeichne ferner <i>&03C0;</i>H<do><fr>a, b</fr></do> durch <i>&03D1;</i><do><fr>a, b</fr></do>, <formel> durch <i>&03B7;</i><do><fr>a, b</fr></do>, und bilde die unendliche Reihe
+<c><formel>,</c>
+wo sich das Summenzeichen <i>&03A3;</i> auf <fr>a, b</fr> S aber auf <i>&03B1;</i><do>1</do>, <i>&03B1;</i><do>2</do> . . . . bezieht. Be-
+zeichnet man die durch diese Reihe dargestellte Function von <i>t</i><do>1</do>, <i>t</i><do>2</do>, . . . . durch
+H1 (<i>t</i><do>1</do>, <i>t</i><do>2</do>, . . . ., <i>t</i><do>n</do>), so hat dieselbe je nach den verschiedenen Werthen, die
+man den Zahlen <i>&03BC;</i><do><fr>a</fr></do>, <i>&03BD;</i><do><fr>a</fr></do> geben kann, 4<up>n</up> verschiedene Formen, welche den Jacobi&2019;schen
+<i>&039B;</i> Functionen, in welche sie für <i>n</i> = 1 übergehen, durchaus analog sind. Führt man
+nun statt <i>t</i><do>1</do>, <i>t</i><do>2</do>, &2026; die Argumente <i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026; ein, indem man
+<c><i>t</i><do><fr>a</fr></do> = <i>&03B7;</i><do>1,<fr>a</fr></do> <i>u</i><do>1</do> + <i>&03B7;</i><do>2,<fr>a</fr></do> <i>u</i><do>2</do> + . . . . + <i>&03B7;</i><do>n,<fr>a</fr></do> <i>u</i><do>n</do></c>
+setzt, so erhält man die erwähnten Hülfsfunctionen von <i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026; <i>u</i><do>n</do>, durch welche
+<pb="23"/>
+die von mir eingeführten Functionen sn (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;)<do><fr>a</fr></do>, cn (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;)<do><fr>a</fr></do>, dn (<i>u</i><do>1</do>, <i>u</i><do>2</do>, &2026;),
+und noch mehrere andere, mit diesen im Zusammenhange stehende, ausgedrückt wer-
+den können und zwar eine jede als ein Quotient zweier derselben. Das Nähere
+hierüber gedenke ich in der erforderlichen Ausführlichkeit in einem grössern Werke
+zu geben, welches ausser allgemeinen Untersuchungen über die Integrale algebraischer
+Functionen insbesondere die Grundzüge einer umfassenden Theorie der Abel&2019;schen
+Transcendenten enthalten soll.</p>
+<p><g>Braunsberg</g>, 17. Juli 1849.</p>
+<p><et><b>Karl Weierstrass.</b></et></p>
+<hr>
+<pb>
+<pb>

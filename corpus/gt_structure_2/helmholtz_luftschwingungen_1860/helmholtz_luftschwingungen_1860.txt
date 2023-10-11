@@ -1,0 +1,2357 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><g><b>Journal</b>
+für die
+<b>reine und angewandte Mathematik.</b>
+In zwanglosen Heften.</g>
+<hr>
+<g>Als Fortsetzung des von
+<b>A. L. Crelle</b></g>
+gegründeten Journals
+herausgegeben
+<g>unter Mitwirkung der Herren</g>
+<b>Steiner, Schellbach, Kummer, Kronecker, Weierstrass</b>
+von
+<b><g>C. W. Borchardt.</g></b>
+Mit thätiger Beförderung hoher Königlich-Preußischer Behörden.
+<hr>
+<b>Sieben und funfzigster Band.</b>
+<g>In vier Heften.</g>
+<hr>
+<g>Berlin, 1860.</g>
+Druck und Verlag von Georg Reimer.</front>
+<pb>
+<pb>
+<con><c>Inhalts-Verzeichniss des sieben und funfzigsten Bandes.</c>
+<hr>
+<in>T</in>heorie der Luftschwingungen in Röhren mit offenen Enden. Von Herrn
+<b><i>H. Helmholtz</i></b> zu Heidelberg. ............... Seite 1
+Zur Theorie der Trägheitsmomente und der Drehung um einen Punkt. Von Herrn
+<b><i>A. Clebsch</i></b> zu Carlsruhe. ................. &2014; 73
+Note über die Differentialgleichung der hypergeometrischen Reihe. Von Herrn
+<b><i>S. Spitzer</i></b> zu Wien. .................. &2014; 78
+Bemerkung zu vorstehender Note. Vom Herausgeber. ......... &2014; 81
+Ueber die Integration der Differentialgleichung <formel> durch bestimmte
+Integrale. Von Herrn <b><i>S. Spitzer</i></b> zu Wien. .......... &2014; 82
+Ueber einige geometrische Sätze. Von Herrn <b><i>von Staudt</i></b> zu Erlangen. .. &2014; 88
+Zwei Sätze über das größte Product aus ganzen Zahlen von gegebener Summe.
+Von Herrn <b><i>Oettinger</i></b> zu Freiburg i. Br. ............ &2014; 90
+Ueber die Gleichgewichtsfigur eines biegsamen Fadens. Von Herrn <b><i>A. Clebsch</i></b>
+zu Carlsruhe. .................... &2014; 93
+Ueber eine der Interpolation entsprechende Darstellung der Eliminations-Resul-
+tante. (Aus dem Monatsbericht der Akademie der Wissenschaften zu Berlin.)
+Von <b><i>C. W. Borchardt</i></b>. ................. &2014; 111
+Ueber eine mit der Gammafunction verwandte Transcendente und deren Anwen-
+dung auf die Integralrechnung. Von Herrn <b><i>Kinkelin</i></b> früher zu Aarburg
+gegenwärtig zu Bern. .................. &2014; 122
+Sur l&2019;Invariant le plus simple d&2019;une fonction quadratique bi-ternaire, et sur le
+Résultant de trois fonctions quadratiques ternaires. Par M. <b><i>A. Cayley</i></b>. . &2014; 139
+Ueber das Gleichgewicht schwimmender Körper. Von Herrn <b><i>A. Clebsch</i></b> zu
+Carlsruhe. ...................... &2014; 149
+Ueber eine symbolische Formel, die sich auf die Zusammensetzung der binären
+quadratischen Formen bezieht. Von Herrn <b><i>L. Schläfli</i></b> zu Bern. ... &2014; 170
+Neue Eigenschaften der linearen Substitutionen, welche gegebene homogene
+Functionen des zweiten Grades in andere transformiren, die nur die Qua-
+drate der Variabeln enthalten. Von Herrn <b><i>O. Hesse</i></b> zu Heidelberg. .. &2014; 175
+<pb="IV"/>
+<kt><i><g>Inhaltsverzeichniß des sieben und funfzigsten Bandes.</g></i></kt>
+Vergleichung zweier Formen der Eliminations-Resultante. Von <b><i>C. W. Borchardt</i></b>. Seite 183
+Ueber den biquadratischen Character der Zahl &201E;Zwei&201C;. Aus einem Briefe
+<b><i>Dirichlets</i></b> an Herrn <b><i>Stern</i></b> zu Göttingen. ........... &2014; 187
+Allgemeine Theorie der gradlinigen Strahlensysteme. Von Herrn <b><i>E. E. Kummer</i></b>. &2014; 189
+Ueber die Zähler und Nenner der Näherungswerthe von Kettenbrüchen. Von
+Herrn <b><i>E. Heine</i></b> zu Halle. ................. &2014; 231
+Ueber die Anzahl der verschiedenen Classen quadratischer Formen von nega-
+tiver Determinante. Von Herrn <b><i>Kronecker</i></b>. ........... &2014; 248
+Von den Gammafunctionen und einer besonderen Art unendlicher Producte. Von
+Herrn <b><i>G. Bauer</i></b> zu München. ............... &2014; 256
+Démonstration d&2019;un théorème de <b><i>Jacobi</i></b> par rapport au problème de <b><i>Pfaff</i></b>. Par
+M. <b><i>A. Cayley</i></b>. ..................... &2014; 273
+Ueber den Grad der abwickelbaren Fläche, die einer Fläche <b><i>m</i></b><up>ter</up> Ordnung dop-
+pelt umschrieben ist. Von Herrn <b><i>Joh. Nik. Bischoff</i></b> zu München. .. &2014; 278
+Zur Theorie der Elasticität. Von Herrn <b><i>C. Neumann</i></b> zu Halle. ..... &2014; 281
+Theorie der circularpolarisirenden Medien. Von Herrn <b><i>A. Clebsch</i></b> zu Carlsruhe. &2014; 319
+Ueber eine Gattung von Curven vierten Grades, welche mit den elliptischen
+Functionen zusammenhängen. Von Herrn <b><i>Siebeck</i></b> zu Liegnitz. .... &2014; 359
+Sur le résultant de trois formes quadratiques ternaires, extrait d&2019;une lettre à
+M. <b><i>Borchardt</i></b>. Par M. <b><i>Ch. Hermite</i></b> à Paris. .......... &2014; 371
+<hr>
+Zum Gedächtniß <b><i>Gustav Lejeune Dirichlets</i></b>. Vom Herausgeber. .... &2014; 91</con>
+<hr>
+<pb>
+<d1><b>Theorie der Luftschwingungen in Röhren mit
+offenen Enden.</b></d1>
+<d2>(Von Herrn <b><i>H. Helmholtz</i></b> zu Heidelberg.)</d2>
+<hr>
+<p><in>D</in>ie mathematische Theorie der Orgelpfeifen ist von den bedeutend-
+sten mathematischen Physikern vielfältig behandelt worden, aber seit den ersten
+Schritten, welche <b><i>D. Bernoulli</i></b> und <b><i>Euler</i></b> gethan haben, und durch welche
+die Hauptzüge der Erscheinung eine annähernde Erklärung fanden, um keinen
+wesentlichen Schritt vorgerückt. Der Grund davon hat hauptsächlich darin
+gelegen, daß die Mathematiker es nicht wagten, die Annahme aufzugeben,
+daß die Bewegung der Lufttheilchen im Innern der Röhre überall ihrer Axe
+parallel gerichtet, und sowohl die Geschwindigkeit wie der Druck in allen Punk-
+ten desselben Querschnitts der Röhre gleich groß sei. Diese von den ersten
+Bearbeitern der Einfachheit wegen gemachte Annahme ist ganz unbedenklich für
+die von offenen Enden entfernteren Theile einer cylindrischen oder prismati-
+schen Röhre, aber in der Nähe offener Enden, wo die ebenen Wellen der Röhre
+in den freien Raum überzugehen anfangen, um sich dort in Form kugeliger
+Wellen auszubreiten, ist jene Annahme nicht mehr zulässig, da es klar ist,
+daß ein solcher Uebergang nicht sprungweise geschehen kann. <b><i>Bernoulli,
+Euler</i></b> und <b><i>Lagrange</i></b> hatten angenommen, daß die Verdichtung am offenen
+Ende der Röhre stets gleich Null sei. Daß sie sehr viel kleiner sein müsse
+als bei den gleichen Wellenphasen im Innern der Röhre, wo die bewegte
+Luft von den Röhrenwänden gehindert wird, sich seitlich auszudehnen, ist
+leicht einzusehen, da am offenen Ende kein anderes Hinderniß ihrer Aus-
+dehnung besteht als die Trägheit der benachbarten Luftmassen. In so fern
+nähert sich jene Annahme und die darauf basirte Theorie allerdings sehr der
+Wahrheit, aber sie ist nicht vollständig richtig. Denn die Dichtigkeit am
+Ende der Röhre muß allerdings gleich gesetzt werden der Dichtigkeit der
+anstoßenden Luft im freien Raume, aber nicht der constanten Dichtigkeit der
+ruhenden Luft, sondern der veränderten Dichtigkeit dieser selbst in Vibration
+gerathenen Luft. Deshalb widersprechen die Folgerungen aus jener Annahme
+auch in mancher anderen Beziehung der Erfahrung. So folgt daraus, wie
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 1</bs>
+<pb="2"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+schon <b><i>Poisson</i></b> hervorgehoben hat, daß bei gewissen Röhrenlängen die Schwin-
+gungen im Innern, welche eine endliche Kraft oder eine endliche mitgetheilte
+Bewegung erregt, unendlich groß werden, und einmal erregt, nicht wieder
+erlöschen, weil sie nichts von ihrer lebendigen Kraft der äußeren Luft mit-
+theilen. <b><i>Euler</i></b><fn="*)">Novi Commentarii Acad. Petrop. Tom. XVI, p. 347.</fn> selbst hatte diese Abweichungen dadurch erklären wollen,
+daß die Erschütterung sich zum Theil den Wänden der Röhre mittheilte und
+dadurch der Luftmasse verloren ginge. <b><i>Poisson</i></b><fn="**)">Mémoires de l&2019;Académie des Sciences 1817 T. II, p. 305.</fn> suchte den Grund rich-
+tiger in dem Umstande, daß die Verdichtung am offenen Ende der Röhre
+nicht vollständig gleich Null, sondern nur sehr klein sei. Aber er wußte
+ihren wirklichen Werth nicht zu finden, sondern baute seine Theorie auf eine
+neue Hypothese, welche sich in unserer Untersuchung als im Allgemeinen
+unrichtig erweisen wird. Er machte nämlich die Annahme, daß die Verdich-
+tung am Ende der Röhre proportional der Geschwindigkeit sei, wie sie es
+bei ebenen fortschreitenden Wellen ist. Wenn die Geschwindigkeit <b><i>v,</i></b> die
+Verdichtung <b><i>s,</i></b> die Schallgeschwindigkeit <b><i>a</i></b> ist, so setzte er
+<c><b><i>kv = as.</i></b></c>
+Die Constante <b><i>k</i></b> nimmt er an geschlossenen Enden als sehr klein, an offenen
+als sehr groß an; ihr wirklicher Werth bleibt unbestimmt. Dieser Annahme
+gemäß müßten am offenen Ende der Röhre die Maxima der Geschwindigkeit
+mit den Maximis der Verdichtung der Luft der Zeit nach zusammenfallen. Im
+Gegentheil wird die von uns anzustellende vollständigere Analyse zeigen, daß
+beide nahehin um ein Viertel der Schwingungsdauer auseinanderfallen. <b><i>Poisson</i>s</b>
+Annahme beseitigt die genannten Uebelstände der früheren Theorien, indem
+bei seiner Hypothese allerdings Schall in den freien Raum übergeht, und des-
+halb die Schallschwingungen in der Röhre schnell erlöschen, sobald die er-
+regende Kraft aufgehört hat zu wirken. Wie viel Schall aber in den freien
+Raum bei jeder Reflexion der Schallwellen übergeht, hängt von dem unbe-
+kannten Werthe der Constante <b><i>k</i></b> ab, und bleibt deshalb selbst unbekannt.</p>
+<p>Andrerseits folgt aus <b><i>Poisson</i>s</b> wie aus der älteren Annahme, daß
+die Flächen kleinster Bewegung (Knotenflächen) genau um eine Viertelwellen-
+länge vom offenen Ende der Röhre abstehen, was allen älteren und neueren
+Erfahrungen über die Höhe der durch Anblasen erzeugten Töne und der
+<pb="3"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+durch die Resonanz der Röhre verstärkten Töne widerspricht und durch die
+directen Versuche von <b><i>Hopkins</i></b> über die Lage der Knotenflächen widerlegt
+wird. Diese Flächen sind in offenen cylindrischen und prismatischen Röhren
+vom Ende der Röhre etwas weniger entfernt, als die Viertelwellenlänge be-
+trägt. Gegen <b><i>Poisson</i>s</b> Versuch zu erklären, warum beim Anblasen beider-
+seits offener Röhren tiefere Töne entstehen, als seine Theorie erwarten läßt,
+haben schon <b><i>Quet</i></b> und <b><i>Zamminer</i></b> gegründete Bedenken erhoben. <b><i>Poisson</i>s</b>
+Formeln ergeben nämlich, daß, wenn eine Bewegung von bestimmter Ampli-
+tude der Luft der Röhre in einem Knotenpunkte mitgetheilt wird, die Am-
+plitude in den Schwingungsbäuchen sehr groß wird, nämlich von derselben
+Ordnung wie <b><i>Poisson</i>s</b> Constante <b><i>k</i></b>. Daraus schließt er, daß für diesen Fall
+die Amplituden der Schwingung größer würden, als es die bei der Ableitung
+der Bewegungsgleichungen gemachte Annahme unendlich kleiner Vibrationen
+erlaubte. Unter diesen Umständen sei also Schallbewegung unmöglich, und
+es könnten deshalb beim Anblasen der Röhre nur Töne entstehen, die sich
+dieser Grenze der Tonhöhe näherten, wirklich aber immer tiefer bleiben
+müßten. Mathematisch ist dieser Schluß unzulässig, denn wie groß auch die
+übrigens durchaus unbekannt bleibende Größe <b><i>k</i></b> sein mag, so würde doch
+immer die Größe der mitgetheilten Amplituden so klein gewählt werden kön-
+nen, daß die Bewegungsgleichungen der Schallbewegung anwendbar bleiben,
+und auch der Erfahrung widerspricht diese Darstellung. Allerdings tritt in
+den Versuchen von <b><i>Hopkins</i></b> die Schwierigkeit, der Luft der Röhre in einer
+Knotenfläche eine gegebene Bewegung mitzutheilen, deutlich in die Erschei-
+nung, weil nämlich hier der Widerstand der Luft den Schwingungen der von
+<b><i>Hopkins</i></b> angewendeten schwingenden Platten am meisten hinderlich wird.
+Die lebendige Kraft der Bewegung, welche der schwingende Körper an die
+Luft abgeben muß, um die starke Resonanz der Röhre zu unterhalten, wird
+hier am bedeutendsten, und wenn also der schwingende Körper nicht ge-
+nügend viel lebendige Kraft erzeugen und abgeben kann, hört er auf zu
+schwingen. Wendet man dagegen Platten an, die von Stimmgabeln erschüttert
+werden, deren Vibrationen zu kräftig sind, um durch den Luftwiderstand er-
+heblich verändert zu werden, so erhält man gerade in den Fällen die vollste
+und schönste Resonanz, wo die Platte in einer Knotenfläche der Röhre liegt,
+und nach <b><i>Poisson</i></b> die Resonanz unmöglich wäre. Außerdem zeigt sich in
+den Versuchen von <b><i>Hopkins</i></b> die Schwierigkeit des Tönens der Platten gerade
+bei solchen Tönen, wie sie das Anblasen der Röhre giebt, aber nicht bei
+<bs>1 *</bs>
+<pb="4"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+den etwas höheren Tönen, welche <b><i>Poisson</i></b> als unmöglich betrachtet; diese
+kommen ohne Schwierigkeit zu Stande.</p>
+<p>Es hat übrigens <b><i>Quet</i></b><fn="*)"><b><i>Liouville</i></b> Journal, Tom. XX, p. 1.</fn> diese Unzulänglichkeiten von <b><i>Poisson</i>s</b> Theorie,
+die nicht nothwendig aus seiner Fundamentalhypothese fließen, verbessert,
+während er sich übrigens dieser Hypothese anschließt und ihre Richtigkeit
+wahrscheinlich zu machen sucht.</p>
+<p><b><i>Hopkins</i></b><fn="**)">Transactions of the Cambridge Philos. Soc. Vol. V. &2014; <b><i>Poggendorfs</i></b> Annalen
+Bd. XLIV, p. 246.</fn> hat die Beschränkung, welche in <b><i>Poisson</i>s</b> Grenzbedin-
+gung für das offene Ende der Röhre liegt, weggelassen und nur die Be-
+dingung festgehalten, daß der Druck am offenen Ende klein sein müsse, und
+dadurch die Möglichkeit offen behalten, in seinen Formeln die Uebereinstimmung
+mit den Thatsachen vollständig zu bewahren, aber freilich bleiben die Con-
+stanten, von denen die Lage der Knotenflächen und die Phasenunterschiede in
+den einzelnen Theilen der Röhre abhängen, in der Theorie unbekannt. Da-
+gegen hat <b><i>Hopkins</i></b> eine Reihe wichtiger Versuche über die Lage der Knoten-
+punkte und die Tonhöhe ausgeführt, um eine jener Constanten wenigstens
+empirisch zu bestimmen.</p>
+<p><b><i>Duhamel</i></b><fn="†)"><b><i>Liouville</i></b> Journal, Tom. XIV, p. 49.</fn> stellte sich zur Aufgabe, den Einfluß der der Axe nicht
+parallelen Bewegungen in Röhren zu ermitteln. Da er aber für das offene
+Ende sich mit der einfachen Annahme begnügt, daß hier der Druck gleich
+Null sei, verschwindet der Einfluß, den die seitlichen Bewegungen der Luft-
+theile hier haben aus seiner Rechnung, und er kommt zu dem Schlusse, daß
+die Differenz zwischen Theorie und Erfahrung nicht von dem Vorkommen
+solcher Bewegungen abhängt.</p>
+<p><b><i>Masson</i></b><fn="††)">Annales de Chimie et de Physique, Sér. 3, Tom. XL, p. 418.</fn> endlich vertheidigt die Theorie von <b><i>Poisson</i></b> im Ganzen
+und sucht die Uebereinstimmung zwischen ihr und der Erfahrung durch eine
+neue Hypothese über die Bewegungsart der Luft in dem der Anblaseöffnung
+nächsten Abschnitte der Luftsäule herzustellen.</p>
+<p>Uebrigens ist es klar, daß, sobald die Gestalt des ganzen Luftraums,
+sowohl des inneren der Pfeife als des äußeren, gegeben ist &2014; wir nehmen
+ihn im Folgenden immer als von festen Wänden begrenzt an &2014; und wenn
+ferner die den Schall erregenden Kräfte gegeben sind, die Aufgabe mathe-
+<pb="5"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+matisch vollständig bestimmt ist, und keine weitere Hypothese über den Zu-
+stand der Luft am offenen Ende einer Pfeife zu machen ist. Eine richtig
+angestellte Analyse der Aufgabe muß darüber vollständigen Aufschluß geben.</p>
+<p>Akustische Untersuchungen, bei denen ich über die bisher unerledigten
+Punkte der Theorie Auskunft brauchte, waren für mich die Veranlassung, die
+Untersuchung aufzunehmen, in welcher Weise sich ebene Schallwellen, die in
+der Tiefe einer cylindrischen Röhre erregt worden sind, bei ihrem Ueber-
+gange in den freien Raum erhalten, und ich habe gefunden, daß die gegen-
+wärtigen Hülfsmittel der Analysis ausreichen über die wesentlichen hier in
+Betracht kommenden Fragen genügende Auskunft zu geben, ohne daß es
+nöthig ist irgend eine Hypothese zu machen.</p>
+<p>Die Kräfte der Analyse sind in den bisherigen Arbeiten über Theorie
+des Schalles hauptsächlich darauf hin angespannt worden, den Verlauf einer
+ursprünglich vorhandenen Gleichgewichtsstörung in einer Luftmasse, die übri-
+gens keiner Einwirkung fremder Kräfte unterliegt, zu bestimmen. Bei den
+Tönen der Pfeifen ist aber dieses Problem von verhältnißmäßig unterge-
+ordneter Wichtigkeit. Es handelt sich hauptsächlich darum, die Schwingungs-
+form zu ermitteln, welche schließlich sich dauernd herstellt, wenn die die
+Schwingungen erregende Ursache dauernd und gleichmäßig fortwirkt. Es ist
+ferner unnöthig, daß wir die Analyse durch Beibehaltung der willkürlichen
+Functionen verwickelter machen, welche die Form der ursprünglich erregten
+Schwingung ausdrücken. Wir werden vielmehr voraussetzen, daß diese
+Vibrationen denen eines einfachen Tones von <b><i>n</i></b> Schwingungen in der Secunde
+entsprechen, also von der Form cos(2&03C0;<b><i>nt + c</i></b>) sind. Die Willkürlichkeit der
+Form würde sich ja auch nach erfolgter Auflösung des Problems immer leicht
+herstellen lassen durch Zusammensetzung einer größeren Zahl von solchen
+einfachen Tönen.</p>
+<p>Da somit die Form der Aufgabe etwas anders gefaßt wird, als es in
+den akustischen Untersuchungen bisher geschehen war, ist es nöthig, in den
+ersten fünf Paragraphen einige allgemeine Untersuchungen über die Natur der
+hier vorkommenden Functionen vorauszuschicken. Es zeigt sich, daß wir
+es dabei mit Functionen zu thun haben, die, wenn die Wellenlänge unend-
+lich groß wird, übergehen in die Formen der electrischen (oder magnetischen)
+Potentialfunctionen und daß eine ganze Reihe der interessanten Eigenschaf-
+ten, die für diese Functionen bekannt sind, auch für jene gelten. Da ich
+schon in einer früheren Arbeit für die Function, deren Differentialquotienten
+<pb="6"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+nach drei rechtwinkeligen Coordinatenaxen genommen die drei entsprechenden
+Componenten der Geschwindigkeit geben, den Namen des <b><i>Geschwindigkeits-
+potentials</i></b> vorgeschlagen habe, so läßt sich diese Analogie auch weiter in der
+Bezeichnung festhalten. Den electrischen <b><i>Massenpunkten</i></b> entsprechen die
+<b><i>Erregungspunkte</i></b> des Schalls, der <b><i>Masse</i></b> der ersteren die <b><i>Intensität</i></b> der
+letzteren. Sind die letzteren continuirlich im Raume oder auf einer Fläche
+vertheilt, so läßt sich der Begriff der <b><i>Dichtigkeit</i></b> auf sie übertragen, und es
+lassen sich in beiden Fällen Beziehungen ganz analoger Art zwischen ihrer
+Dichtigkeit und den Differentialquotienten des Geschwindigkeitspotentials auf-
+stellen, wie sie für die electrische Dichtigkeit und die Differentialquotienten
+der electrischen Potentialfunctionen gelten.</p>
+<p>Den Hauptnutzen gewährt aber die Uebertragung des Theorems von
+<b><i>Green</i></b><fn="*)">Dieses Journal Bd. XLIV, S. 360.</fn> auf die hier vorliegenden Verhältnisse, welches sich schon für die
+Theorie der Electricität und des Magnetismus so außerordentlich fruchtbar ge-
+zeigt hat. Von allgemeinen Sätzen, die daraus herfließen, sollen nur folgende
+hervorgehoben werden: 1) <b><i>Die Schallbewegung in jedem allseitig begrenz-
+ten Raume, welcher keine Erregungspunkte enthält, kann stets dargestellt
+werden als ausgehend von Erregungspunkten, die nur längs der Ober-
+fläche des Raumes in einer oder zwei einander unendlich nahen Schich-
+ten ausgebreitet sind.</i></b> 2) <b><i>In jedem Raume, dessen sämmtliche Dimensio-
+nen verschwindend klein gegen die Wellenlänge sind, können für das
+Geschwindigkeitspotential der Luftbewegung die analytischen Formen der
+electrischen Potentialfunctionen gesetzt werden, welche von jenem nur
+unendlich wenig unterschieden sind.</i></b> 3) <b><i>Wenn in einem theils von end-
+lich ausgedehnten festen Wänden begrenzten, theils unbegrenzten Raume
+Schall im Punkte a erregt wird, so ist das Geschwindigkeitspotential in
+einem anderen Punkte b so groß, als es in a sein würde, wenn dieselbe
+Schallerregung in b stattfände.</i></b></p>
+<p>Speciell werden in §. 1 die Bewegungsgesetze der Luft für die vor-
+liegende Aufgabe umgeformt, in §. 2 die allgemeinen Formen des Geschwin-
+digkeitspotentials für einen von Erregungspunkten freien Raum untersucht,
+in §. 3 die Beziehungen zwischen der Dichtigkeit continuirlich verbreiteter
+Erregungspunkte und dem Geschwindigkeitspotential festgestellt, in §. 4 die-
+<pb="7"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+selben für Erregungspunkte, die continuirlich über eine Fläche verbreitet sind,
+und das Theorem von <b><i>Green</i></b> auf die Schallbewegung übertragen, in §. 5
+endlich werden die Grenzbedingungen für weit von den Erregungspunkten
+entfernte Flächen aufgestellt, durch welche die Wellen in den unendlichen
+freien Raum hinauslaufen.</p>
+<p>Nachdem so die wichtigsten allgemeinen Gesetze der electrischen Po-
+tentialfunctionen für die Lehre von den Schallwellen anwendbar gemacht
+worden sind, werden die allgemeinen Gesetze der Bewegung der Luft in
+Röhren mit offenen Mündungen durch wiederholte Anwendung des <b><i>Green</i></b>schen
+Satzes in §. 6 abgeleitet. Es wird hier zunächst vorausgesetzt, daß die
+Röhren unendlich lang und cylindrisch von beliebigem Querschnitte seien. Nur
+in einer so kleinen Entfernung von ihrer Mündung, daß deren Größe gegen
+die Wellenlänge vernachlässigt werden kann, darf die Röhre in beliebiger
+Weise von der cylindrischen Form abweichen, und z. B. trompetenförmig er-
+weitert oder verengt sein. Ebenso werden die Dimensionen der Oeffnung als
+sehr klein gegen die Wellenlänge betrachtet. Da auch die Gestalt des äußeren
+Luftraums bestimmt sein muß, wird angenommen, derselbe sei durch eine
+gegen die Axe der Röhre senkrechte Ebene einseitig begrenzt mit welcher
+auch die Ebene der Mündung zusammenfällt. Ueber die Bewegung wird vor-
+ausgesetzt, daß Vibrationen, die einem einfachen Tone von <b><i>n</i></b> Schwingungen
+angehören, irgendwo in der Röhre dauernd erregt werden, und daß zwischen
+der Erregungsstelle und der Mündung ein Abschnitt der Röhre existire, in
+welcher die Bewegung nicht merklich von der ebener Wellen unterschieden
+sei. Mittelst des <b><i>Green</i></b>schen Satzes kann man nun, ohne die specielle Form
+der Mündung und der Luftbewegung in der Mündung zu kennen, gewisse
+Beziehungen herleiten zwischen diesen ebenen Wellen und den sich halb-
+kugelförmig ausbreitenden Wellen in den entfernten Theilen des freien Raumes,
+und dadurch die bisher offen gebliebenen Fragen über den Einfluß des offenen
+Endes auf die ebenen Wellen beantworten, so weit sie allgemein beantwortet
+werden können.</p>
+<p>Nehmen wir die Axe der Röhre als Axe der <b><i>x,</i></b> und die Ebene der
+Mündung als Ebene der <b><i>yz</i></b>, so daß der freie Raum den positiven <b><i>x,</i></b> die
+Röhre den negativen entspricht, so ist bei passender Festsetzung des Anfangs-
+punktes der Zeit <b><i>t</i></b> die allgemeine Form des Geschwindigkeitspotentials in dem
+Theile der Röhre, wo die Wellen eben sind, wenn wir die Wellenlänge
+<pb="8"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+gleich <formel> setzen,
+<formel>
+In den unendlich entfernten Theilen des freien Raumes dagegen, wo <b><i>r</i></b> die
+Entfernung vom Anfangspunkte der Coordinaten bezeichnet, ist
+<formel>
+Nach <b><i>Euler</i></b>s Theorie würde <b><i>B</i></b> = <fr>B</fr> = 0 sein, nach <b><i>Poisson</i>s <i>B</i></b> = 0, <fr>B</fr>
+eine unbestimmte kleine Größe, nach <b><i>Hopkins</i></b> sowohl <b><i>B</i></b> wie <fr>B</fr> unbestimmte
+kleine Größen, <b><i>M</i></b> bleibt in allen dreien unbekannt. Wir finden folgende
+Beziehungen, wenn wir unter <b><i>Q</i></b> die Größe des Querschnitts der Röhre ver-
+stehen, und die Fläche der Oeffnung gegen das Quadral der Wellenlänge als
+verschwindend klein betrachten,
+<formel>
+Zwischen <b><i>A</i></b> und <b><i>B</i></b> läßt sich keine allgemeine, von der Form der Mündung
+unabhängige Beziehung aufstellen. Nur läßt sich nachweisen, daß, wenn der
+Querschnitt der Röhre zur Fläche der Oeffnung ein endliches Verhältniß hat,
+<formel> eine kleine Größe von derselben Ordnung wie die Dimensionen der Oeff-
+nung ist, die aber jeden beliebigen Werth annehmen kann, wenn die Oeffnung
+sehr klein gegen den Querschnitt ist.</p>
+<p>Wir setzen das Verhältniß
+<formel>
+und nennen dann die Größe &03B1; <b><i>&2014; x<do>0</do></i></b> die <b><i>reducirte Länge</i></b> des Stücks der
+Röhre, welches zwischen <b><i>x</i></b> = 0 und <b><i>x</i></b> = &2014; <b><i>x</i></b><do>0</do> liegt, die Größe &03B1; selbst
+die <b><i>Differenz der wahren und reducirten Länge</i></b> der Röhre.</p>
+<p>Nachdem diese Beziehungen zwischen den Coefficienten ermittelt sind,
+wird in §. 7 die Form der Wellen in der Röhre näher bestimmt. <b><i>Knoten-
+flächen,</i></b> d. h. Flächen kleinster Bewegung liegen, wo die reducirte Länge
+der Röhre gleich einem ungeraden Vielfachen der Viertelwellenlänge ist,
+<b><i>Schwingungsbäuche</i></b> oder Maxima der Bewegung, wo die reducirte Länge
+ein gerades Vielfache der Viertelwellenlänge ist. Die <b><i>Phasen</i></b> der Bewegung
+sind am Orte der Maxima um die Zeit einer Viertel-Undulation von denen
+am Orte der Minima verschieden.</p>
+<pb="9"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Die Knotenflächen sind zugleich Stellen des größten Wechsels der
+Dichtigkeit, die Bäuche Stellen des kleinsten Wechsels der Dichtigkeit. In
+nächster Nähe der Knotenflächen und der Flächen stärkster Bewegung fällt
+die stärkste nach der Mündung gerichtete Geschwindigkeit der Zeit nach zu-
+sammen mit der stärksten Verdichtung. In den zwischenliegenden Abtheilun-
+gen der Röhre aber liegen beide um eine Viertel-Schwingungsdauer aus-
+einander.</p>
+<p>Wenn man die Lage des Geschwindigkeitsmaximum und die des Verdich-
+tungsmaximum für einen jeden einzelnen Zeitmoment bestimmt, so findet man
+für die fortschreitenden Wellen in den entfernteren Stellen des freien Raumes
+bekanntlich, daß beide mit der constanten Fortpflanzungsgeschwindigkeit der
+Wellen fortschreiten, und dabei allmälig an Größe abnehmen. Auch in der
+Röhre bewegt sich das Geschwindigkeitsmaximum vorwärts gegen die Mün-
+dung hin, aber so daß sein absoluter Werth am Ort der Bäuche sehr groß,
+in den Knotenflächen sehr klein ist, und ferner so daß die Geschwindigkeit
+seiner Fortbewegung in den Bäuchen sehr klein, in den Knoten sehr groß
+ist, so daß es überall, wo sich ein Bauch befindet, während einer halben
+Schwingungsdauer fast ganz still steht, um zu Ende dieser Zeit schnell auf
+den Ort des nächsten Bauches fortzuschreiten, an dem es dann wieder eben
+so lange fast stillsteht. Ebenso bewegt sich das Verdichtungsmaximum, nur
+daß es in den Knotenflächen anhält und groß ist, während es am Ort der
+Bäuche klein ist und schnell vorwärts eilt.</p>
+<p>Die gewonnenen Resultate können weiter benutzt werden, um die
+Stärke der Resonanz und die Phasen der in der Luft erregten Schwingungen
+bei verschiedenen Erregungsweisen des Schalls genau zu bestimmen.</p>
+<p>Wenn die Röhre in irgend einem Querschnitte durch eine feste Platte
+begrenzt ist, welche durch eine äußere Kraft (z. B. eine aufgesetzte Stimm-
+gabel) in eine schwingende Bewegung versetzt wird, deren Größe durch den
+Widerstand der Luft nicht merklich verändert werden kann, <b><i>so ist die Re-
+sonanz am stärksten, wenn die reducirte Länge der Röhre ein unge-
+rades Vielfache der Viertelwellenlänge ist, am schwächsten, wenn sie ein
+gerades Vielfache ist</i></b>. Im ersteren Falle, also beim Maximum der Resonanz,
+verhalten sich die Amplituden in den Schwingungsbäuchen zur Amplitude der
+schwingenden Schlußplatte der Röhre, wie das durch 2&03C0; cos <i>k&03B1;</i> dividirte Qua-
+drat der Wellenlänge zum Querschnitt der Röhre. Bei Röhren mit wenig
+verengter Mündung ist cos <i>k &03B1;</i> nicht merklich von 1 unterschieden, die Größe
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 2</bs>
+<pb="10"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+des Maximums der Resonanz also von der Form der Mündung ziemlich un-
+abhängig, und die Stärke des Schalls im freien Raume ist bei solchen Röhren
+sowohl vom Querschnitt als von der Form der Mündung unabhängig. Bei stark
+verengter Mündung steigt die Resonanz in der Röhre und auch die Stärke
+des Schalls im freien Raume. Bei stärkster Resonanz ist die Phase der Be-
+wegung in den Schwingungsbäuchen von den entsprechenden Phasen der
+mitgetheilten Bewegung der Zeit nach um eine Viertel-Schwingungsdauer
+verschieden.</p>
+<p>Aehnliche Ergebnisse finden sich, wenn der Schall in der Röhre von
+einem in den entfernteren Theilen des freien Raumes befindlichen tönenden
+Punkte erregt wird, und für eine jede beliebige Lage des tönenden Punktes
+im freien Raume vor der Mündung der Röhre läßt sich durch das unter No. 3
+als Folgerung des <b><i>Green</i></b>schen Theorems oben aufgeführte Reciprocitätsgesetz
+wenigstens das Verhältniß der Stärke der Resonanz für verschiedene Röhren-
+längen angeben. <b><i>Auch in diesem allgemeinsten Falle findet sich, daß die
+Resonanz der einerseits geschlossenen Röhre am stärksten ist, wenn ihre
+reducirte Länge ein ungerades Vielfache der Viertelwellenlänge ist</i></b>.</p>
+<p>Auf offene Röhren, deren beide Mündungen denselben Bedingungen
+unterliegen, wie die eine Mündung der bisher betrachteten Röhren, lassen
+sich die Resultate leicht übertragen. Ihre Resonanz ist am stärksten, wenn
+ihre reducirte Länge gleich einem Vielfachen der halben Wellenlänge ist.</p>
+<p>In §. 8 werden Röhren betrachtet, welche Rotationskörper sind, und
+die Methoden aufgesucht, um Formen der Mündung zu finden, für welche die
+Bewegung der Luft vollständig angegeben werden kann.</p>
+<p>In §. 9 werden die Rechnungen für die einfachsten Formen der
+Functionen, welche die Form der Mündung bestimmen, durchgeführt. Unter
+diesen Formen kommt eine vor, bei welcher die Differenz zwischen reducirter
+und wahrer Länge verschwindet. Ihre Mündung ist schwach trompetenförmig
+erweitert, so daß die Fläche der Mündung doppelt so groß ist als der Quer-
+schnitt des Cylinders. Eine andere dieser Formen, bei welcher die Weite
+der Oeffnung gleich der des Cylinders ist, weicht so außerordentlich wenig
+von einem vollständigen Cylinder ab, daß man für die meisten practischen
+Anwendungen die Differenz wird vernachlässigen dürfen. Der Abstand ihrer
+Wandung von der eines reinen Cylinders ist berechnet und in einer Tabelle
+zusammengestellt; mehr als 1/100 des Radius beträgt diese Abweichung nur auf
+einem Streifen dicht an der Mündung, dessen Breite 0,54 des Radius beträgt,
+<pb="11"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+und die größte Abweichung, die überhaupt vorkommt, ist 1/50 des Radius.
+Die Differenz zwischen der reducirten und wahren Länge dieser Röhre be-
+trägt &03C0;/2 = 0,785 des Radius. Die eines vollständigen Cylinders muß ein
+wenig größer sein. Die neuesten und sorgfältigsten experimentellen Bestim-
+mungen der Größe dieser Differenz von <b><i>Wertheim</i></b> <fn="*)">Annales de Chimie et de Physique, Sér. 3, Tome XXXI, p. 394.</fn> und <b><i>Zamminer</i></b> <fn="**)"><i>Poggendorffs</i> Annalen der Physik XGVII, p. 183.</fn>
+zeigen noch keine sehr große Uebereinstimmung unter einander, was vielleicht
+darin seinen Grund hat, daß die Röhren durch Anblasen zum Tönen gebracht
+sind, wobei man zwar, wie die Erfahrung lehrt, im Allgemeinen Töne der-
+selben Höhe bekommt, wie die Töne der stärksten Resonanz der Röhre, aber
+doch nicht genau weiß, wie weit die Tonhöhe durch kleine Modificationen des
+Anblasens verändert werden kann. Auch ist die Länge der Schallwellen nur
+schwer so genau zu bestimmen, daß auch die verhältnißmäßig kleine Differenz
+der wahren und reducirten Länge der Röhren genau gefunden wird. <b><i>Wert-
+heim</i></b> findet den Werth dieser Differenz, wenn sie in Theilen des Radius aus-
+gedrückt wird, ziemlich unabhängig von dem Verhältniß des Durchmessers
+zur Wellenlänge, und zwar bei beiderseits offenen Röhren für jedes Ende
+zwischen 0,560 und 0,819, Mittel 0,663 <b><i>R,</i></b> für einerseits gedeckte Röhren
+zwischen 0,638 und 0,862, Mittel 0,746 <b><i>R,</i></b> so daß der theoretisch gefundene
+Werth 0,785 <b><i>R</i></b> zwar größer ist als seine Mittelwerthe, aber doch noch inner-
+halb der Grenzen der Beobachtungsdifferenzen liegt. <b><i>Zamminer</i></b> findet da-
+gegen einen stärkeren Einfluß der Tonhöhe. Bei offenen Röhren variirt der
+Werth der Differenz von 0,848 bis 0,493 <b><i>R,</i></b> während die Viertelwellenlänge
+von 20,9 <b><i>R</i></b> auf 3,9 <b><i>R</i></b> sich ändert, und bei geschlossenen Röhren variirt die
+Differenz zwischen 1,304 und 0,376 <b><i>R,</i></b> während die Viertelwellenlänge von
+40,1 <b><i>R</i></b> auf 7,03 <b><i>R</i></b> sinkt. Dies stimmt nicht so gut mit der Theorie, welche
+so starke Aenderungen des Werthes 0,785 <b><i>R,</i></b> der für die tiefsten Töne gilt,
+bei veränderter Tonhöhe nicht erwarten läßt. Indessen sind bei den Röhren,
+deren Länge mehr als 30 <b><i>R</i></b> beträgt, auch hier die Differenzen so gering, daß
+Aenderungen der Schwingungszahl um ein Procent genügen würden, die Ueber-
+einstimmung herzustellen, und bei verschiedener Stärke des Anblasens können
+leicht viel größere Aenderungen eingetreten sein.</p>
+<p>Endlich ist in §. 10 noch eine Aufgabe in ihren allgemeinen Zügen
+hehandelt, welche bisher der theoretischen Bearbeitung unzugänglich gewesen
+<bs>2 *</bs>
+<pb="12"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+war, nämlich die Bestimmung der Luftschwingungen in solchen Hohlräumen,
+deren drei Dimensionen gleichmäßig als verschwindend klein gegen die Wellen-
+länge betrachtet werden können, und die durch eine Oeffnung, deren Fläche
+selbst gegen die Oberfläche des Hohlraums verschwindend klein ist, mit der
+äußeren Luft communiciren. Es läßt sich die Höhe der Töne, für welche
+solche kugel- und flaschenförmige Pfeifen stärkste Resonanz geben, allgemein
+bestimmen. Ist die Oeffnung kreisförmig, und ihr Flächeninhalt <i>s,</i> das Volumen
+des Hohlkörpers <b><i>S,</i></b> die Schallgeschwindigkeit <b><i>a,</i></b> und die Schwingungszahl des
+Tones <b><i>n,</i></b> so ist nach der Theorie
+<formel>
+Wählen wir als Längeneinheit das Millimeter, und setzen <i>a</i> = 332260, so ist
+<formel>
+<b><i>Sondhauß</i></b> <fn="*)"><i>Poggendorffs</i> Annalen LXXXI, S. 235 und 347. Es ist übrigens in diesem Auf-
+satze die Bezeichnungsweise der französischen Physiker gebraucht, wonach die Schwin-
+gungszahlen der Töne doppelt so groß werden als nach der deutschen Bezeichnung.</fn> hat aus Versuchen die Schwingungszahl der durch Anblasen
+solcher Hohlkörper erhaltenen Töne in die Formel gebracht:
+<formel>
+Noch besser stimmt die Theorie mit den Versuchen von <b><i>Wertheim,</i></b>, bei wel-
+chen das Verhältniß der Fläche der Oeffnung zur Oberfläche des Hohlraums
+noch kleiner ist, als bei <b><i>Sondhauß,</i></b> und die Uebereinstimmung ist desto
+größer, je kleiner jenes Verhältniß ist.</p>
+<p>Für elliptische Oeffnungen läßt sich der Werth von <b><i>n</i></b> ebenfalls be-
+stimmen. Er wird etwas kleiner als für kreisförmige.</p>
+<p>Auch für Hohlkörper mit zwei Oeffnungen läßt sich dieselbe Aufgabe
+lösen; das theoretische Gesetz stimmt auch hier mit den empirischen Formeln
+von <b><i>Sondhauß</i></b> und seinen Versuchen überein.</p>
+<d2>§. 1.</d2>
+<p>Es sei innerhalb einer Luftmasse in dem Punkte, der durch die rechtwinkligen
+Coordinaten <b><i>x, y, z</i></b> bestimmt ist, zur Zeit <b><i>t</i></b> der Druck gleich <b><i>p,</i></b>
+die den drei Coordinatenaxen parallelen Componenten der Geschwindigkeit <b><i>u,
+v, w,</i></b> die Dichtigkeit <b><i>h,</i></b> und die Componenten der auf die Einheit der gasigen
+<pb="13"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Masse wirkenden äußeren Kräfte <b><i>X, Y</i></b> und <b><i>Z</i></b> seien auszudrücken als Diffe-
+rentialquotienten einer Potentialfunction <b><i>P,</i></b> so daß
+<formel>
+Die bekannten Bewegungsgleichungen für die inneren Punkte der Luftmasse
+sind demgemäß:
+(1.) <formel>
+Wenn Luft, ohne Wärme abzugeben, ihre Dichtigkeit ändert, ist
+(1<i><up>a</up></i>.) <formel>
+wo <b><i>b</i></b> eine Constante und <b><i>v</i></b> = 1,42 ist. Daraus folgt
+(1<i><up>b</up></i>.) <formel>
+und ähnlich für die Differentialquotienten nach <b><i>y</i></b> und <b><i>z</i></b>.</p>
+<p>Die Schallbewegung gehört zu denjenigen Bewegungen, denen ein Ge-
+schwindigkeitspotential zukommt, welches mit &03A6; bezeichnet werde, so daß wir
+haben:
+(1<i><up>c</up></i>.) <formel>
+Setzt man die Werthe aus (1<i><up>b</up></i>.) und (1<i><up>c</up></i>.) in die Gleichungen (1.), so haben
+die drei ersten derselben eine gemeinschaftliche Integralgleichung, nämlich:
+(1<i><up>d</up></i>.) <formel>
+wo <b><i>h</i></b><do>0</do> eine Function der Zeit sein kann, und die vierte Gleichung läßt sich
+auf die Form bringen:
+(1<i><up>e</up></i>.) <formel>
+<pb="14"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+In dem Folgenden nehmen wir an, daß die Geschwindigkeiten und Aenderun-
+gen der Dichtigkeit verschwindend klein seien. Setzen wir
+<formel>
+so betrachten wir also <b><i>P,</i></b> <fr>h</fr>, sämmtliche Differentialquotienten von <fr>h</fr>, <b><i>P</i></b> und &03A6;
+als unendlich kleine Größen, und vernachlässigen ihre höheren Potenzen. Dann
+werden die beiden Gleichungen (1<i><up>d</up></i>.) und (1<i><up>e</up></i>.), indem man <formel> setzt,
+(1<i><up>f</up></i>.) <formel>
+(1<i><up>g</up></i>.) <formel>
+Indem man die erste Gleichung nach <b><i>t</i></b> differentiirt, kann man <fr>h</fr> aus beiden
+eliminiren <fn="*)">Ich bemerke hier noch, daß diese Elimination von <b><i>h</i></b> auch an den unverkürzten
+Gleichungen (1<i><up>d</up></i>.) und (1<i><up>e</up></i>.) vollzogen werden kann, und daß man die Eliminationsglei-
+chung, welche von der dritten Dimension in Bezug auf &03A6; und seine Differentialquotienten
+ist, ebenfalls mit Hülfe der hier folgenden Theoreme durch eine nach Sinus und Cosinus
+der Zeit fortlaufende Reihe integriren kann, deren Glieder von <b><i>n</i></b><up>ter</up> Dimension der kleinen
+Größen den Combinationstönen <b><i>n</i></b><up>ter</up> Ordnung der primär angegebenen Töne entsprechen.</fn> und erhält
+(2.) <formel></p>
+<p>Wir wollen im Folgenden nur Fälle behandeln, wo wir es mit einem
+einzigen gleichmäßig anhaltenden Tone von <b><i>n</i></b> Schwingungen in der Zeitein-
+heit zu thun haben, und also &03A6; von der Form ist:
+(2<i><up>a</up></i>.) <formel>
+wo &03AB;' und &03AB;? Functionen von <b><i>x, y, z</i></b> sind. Dabei kann die Gleichung (2.)
+nur bestehen, wenn auch <b><i>P</i></b> von der Form ist:
+(2<i><up>b</up></i>.) <formel>
+Es zerfällt dann die Gleichung (2.) in die folgenden beiden:
+(3.) <formel>
+wo
+(3<i><up>a</up></i>.) <formel>
+und &03BB; die Wellenlänge ist.</p>
+<pb="15"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Zunächst werden wir uns mit der Integration dieser Differentialglei-
+chungen zu beschäftigen haben. Aus ihrer Ableitung geht hervor, daß <b><i>q</i></b>'
+und <b><i>q</i></b>? Functionen der Coordinaten sind, welche sich nur an solchen Stellen
+des Raumes von 0 unterscheiden, wo veränderliche Kräfte auf die Luftmasse
+einwirken und Schallschwingungen erregen. In allen anderen Theilen der
+Luftmasse ist <b><i>q</i></b> = 0, und es sind daher die Functionen &03AB; der Bedingung un-
+terworfen
+(3<i><up>b</up></i>.) <formel>
+Ich werde im Folgenden den immer wiederkehrenden Ausdruck
+<formel>
+nach dem Vorgang von <b><i>Green</i></b> mit &2207; <do><i>x</i></do> &03A6;, oder wo es unzweideutig ist, mit
+&2207;&03A6; bezeichnen.</p>
+<d2>§. 2.</d2>
+<p>Wir beginnen mit der Integration der einfacheren Gleichung
+(3<i><up>b</up></i>.) <formel>
+Ein bekanntes particulares Integral derselben ist
+(4.) <formel>
+wenn wir mit <b><i>A</i></b> und <b><i>g</i></b> Constanten bezeichnen, mit <b><i>r</i></b> aber die Entfernung
+des Punktes <i>x, y, z</i> von einem festen Punkte &03B1;, &03B2;, &03B3;, also
+<formel>
+Es ist nämlich
+(4<i><up>a</up></i>.) <formel>
+(4<i><up>b</up></i>.) <formel>
+<pb="16"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Wenn man die drei Gleichungen (4<i><up>b</up></i>.) addirt, so erhält man:
+<formel>
+vorausgesetzt, daß nicht <b><i>r</i></b> = 0 und dabei die Werthe von <formel>
+<formel> und &03AB; unendlich werden. Mit Ausnahme des Punktes &03B1;, &03B2;, &03B3; ist also
+dann die Diffentialgleichung (3<i><up>b</up></i>.) mittelst des in Gleichung (4.) angenommenen
+Werthes von &03A6; durch den ganzen unendlichen Raum erfüllt.</p>
+<p>Indem wir in Gleichung (4.) <b><i>g</i></b> entweder gleich Null oder gleich &2014; &frac12;&03C0;
+machen, erhalten wir zwei verschiedene Formen des particularen Integrals.</p>
+<p>1) Wenn <b><i>g</i></b> = &2014; &frac12;&03C0;, wird
+(4<i><up>c</up></i>.) <formel>
+und erhält für <b><i>r</i></b> = 0 den endlichen Werth <b><i>Ak</i></b>. Auch die Differentialquotien-
+ten bleiben endlich, es wird nämlich für <b><i>r</i></b> = 0
+<formel>
+wie man leicht sieht, wenn man cos <b><i>kr</i></b> und sin <b><i>kr</i></b> nach Potenzen der ver-
+schwindenden Größe <b><i>r</i></b> entwickelt. Daraus ergiebt sich für <b><i>r</i></b> = 0
+<formel>
+Die Function <formel> ist also ein solches particulares Integral der Glei-
+chung (3<i><up>b</up></i>.), welches im ganzen Raume und auch im Punkte &03B1;, &03B2; &03B3; gültig ist.</p>
+<p>2) Wenn wir <b><i>g</i></b> = 0 setzen, wird
+(4<i><up>d</up></i>.) <formel>
+und für <b><i>r</i></b> = 0 unendlich groß, ebenso wie seine Differentialquotienten. Die
+Gleichung (3<i><up>b</up></i>.) wird also im ganzen Raume erfüllt, mit Ausnahme des Punk-
+tes &03B1;, &03B2;, &03B3;.</p>
+<p>Daraus ergiebt sich ferner leicht, daß wenn wir setzen:
+(4<i><up>e</up></i>.) <formel>
+wo bei den einzelnen Gliedern der Summe die Werthe von &03B1;, &03B2;, &03B3; und <b><i>A</i></b>
+verschieden sind, die Gleichung (3<i><up>b</up></i>.) erfüllt ist im ganzen Raume, ohne Aus-
+nahme der Punkte &03B1;, &03B2;, &03B3;.</p>
+<pb="17"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Wenn wir aber setzen
+(4<i><up>f</up></i>.) <formel>
+so ist die Gleichung (3<i><up>b</up></i>.) im ganzen Raume erfüllt mit Ausnahme derjenigen
+Punkte, deren Coordinaten &03B1;, &03B2;, &03B3; in der Summe vorkommen.</p>
+<p>Denken wir uns die Punkte &03B1;, &03B2;, &03B3; continuirlich neben einander im
+Raume vertheilt, so werden aus den Summen Integrale, und wir schließen,
+daß die Function
+(4<i><up>g</up></i>.) <formel>
+im ganzen Raume der Gleichung (3<i><up>b</up></i>.) genügt, dagegen die Function
+(4<i><up>h</up></i>.) <formel>
+nur in denjenigen Theilen des Raumes, für welche <b><i>h</i></b> = 0. In beiden soll
+<b><i>h</i></b> eine willkürliche Function von &03B1;, &03B2; und &03B3; bedeuten.</p>
+<p>Wenn wir in der Gleichung (3<i><up>b</up></i>.) <b><i>k</i></b> = 0 setzen, verwandelt sie sich in
+(3<i><up>c</up></i>.) <formel>
+die bekannte Differentialgleichung für die Potentialfunctionen solcher Massen,
+welche in die Ferne mit anziehenden oder abstoßenden Kräften wirken, deren
+Intensität dem Quadrate der Entfernung umgekehrt proportional ist. Die ver-
+schiedenen Formen für das Integral &03AB; der Gleichung (3<i><up>b</up></i>.), welche wir auf-
+gestellt haben, verwandeln sich, wenn sie <formel> enthalten, in
+<c>&03AB; = Constans,</c>
+welches Integral im ganzen Raume ohne Ausnahme eines Punktes der Glei-
+chung (3<i><up>c</up></i>.) genügt, oder, wenn sie <formel> enthalten, in
+<formel>
+oder
+<formel>
+welche beiden Formen in denjenigen Punkten des Raumes nicht genügen,
+in denen anziehende oder abstoßende Masse vorhanden ist, in denen also <b><i>A</i></b>
+oder <b><i>h</i></b> nicht gleich Null ist.</p>
+<p>Da die Gleichung
+<formel>
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 3</bs>
+<pb="18"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+im ganzen mit Luft gefüllten Raume erfüllt sein muß mit Ausnahme solcher
+Stellen, wo veränderliche Kräfte auf die Luft wirken, schließen wir, daß in
+den Formen des Integrals (4<i><up>d</up></i>.), (4<i><up>f</up></i>.), (4<i><up>h</up></i>.) diejenigen Punkte und Theile des
+Raumes, in denen die Gleichung (3<i><up>b</up></i>.) nicht erfüllt ist, <b><i>Erregungspunkte</i></b>
+des Schalls sind. Wir wollen sie auch als solche bezeichnen. Es mag in
+den Formen des Integrals (4<i><up>d</up></i>.) und (4<i><up>f</up></i>.) die Constante <b><i>A</i></b> die <b><i>Intensität</i></b>
+des betreffenden Erregungspunktes heißen, und in (4<i><up>h</up></i>.), wo die Erregungs-
+punkte continuirlich durch den Raum vertheilt gedacht sind, nennen wir die Con-
+stante <b><i>h</i></b> ihre <b><i>Dichtigkeit</i></b>. Bei electrischen Problemen, wo <b><i>k</i></b> = 0, würden die
+Erregungspunkte den Massenpunkten, die Intensität der Masse, die Dichtigkeit
+der Dichtigkeit entsprechen. Da die Functionen &03AB; die Bedeutung von Geschwindigkeitspotentialen
+haben, wollen wir, entsprechend dem Sprachgebrauch
+in der Lehre von der Electricität und dem Magnetismus, eine solche Summe
+wie (4<i><up>f</up></i>.), welche sich auf eine bestimmte Zahl von Punkten &03B1;, &03B2;, &03B3; bezieht,
+das <b><i>Geschwindigkeitspotential dieser bestimmten Erregungspunkte</i></b> nennen.
+Die Gleichung (3<i><up>b</up></i>.) wird also erfüllt durch die ganze Ausdehnung eines ge-
+gebenen Raumes <b><i>S</i></b>, wenn &03AB; das Geschwindigkeitspotential außerhalb <b><i>S</i></b>
+gelegener Erregungspunkte ist.</p>
+<d2>§. 3.</d2>
+<p>Wenn wir nun zur Betrachtung der Differentialgleichung
+(3.) <formel>
+übergehen, so ist zunächst zu bemerken, daß für <b><i>k</i></b> = 0, diese Gleichung in
+(3<i><up>d</up></i>.) <formel>
+übergeht, deren Integral bekanntlich ist:
+<formel>
+worin &03A6; eine Function bezeichnet, für welche in dem ganzen Theile des
+Raumes, wo die Gleichung (3<i><up>d</up></i>.) erfüllt sein soll, &2207;&03A6; = 0 ist.</p>
+<p>Wir wollen jetzt zeigen, daß in ganz analoger Weise das Integral
+der Gleichung
+(3.) <formel>
+ist:
+(5.) <formel>
+wo &03A6; eine Function bezeichnet, für welche in den Theilen des Raumes, wo
+<pb="19"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+die Gleichung (4.) gültig sein soll,
+<formel></p>
+<p>Um die durch das Zeichen &2207;<do><i>x</i></do>&03AB; vorgeschriebenen Differentiationen
+unter dem Integralzeichen in (5.) vornehmen zu können, denke ich mir den
+ganzen Raum durch eine den Punkt &03B1;, &03B2;, &03B3; in unendlich kleiner Entfernung
+umgebende rings geschlossene Fläche getheilt, und nenne den unendlich klei-
+nen inneren Raum <b><i>S</i></b><do>0</do>, den umgebenden äußeren <b><i>S</i></b><do>1</do>. Das in dem Werthe
+von &03AB; (Gleichung (5.)) enthaltene Integral zerlege ich dem entsprechend in
+zwei Theile, von denen der eine &03AB;<do>0</do> der Integration über <b><i>S</i></b><do>0</do>, der andere &03AB;<do>1</do>
+der über <b><i>S</i></b><do>1</do> entspricht.</p>
+<p>Es ist also
+(5<i><up>a</up></i>.) <formel>
+Da &03AB;<do>1</do> ein Potential von Erregungspunkten, die außerhalb <b><i>S</i></b><do>0</do> liegen, für einen
+innerhalb <b><i>S</i></b><do>0</do> enthaltenen Punkt ist, so ist
+<formel>
+ebenso
+<formel>
+also
+(5<i><up>b</up></i>.) <formel>
+Nun setze ich
+<formel>
+welche Größe <b><i>f</i></b><do><i>r</i></do> für <b><i>r</i></b> = 0 auch gleich Null wird, während aus den Gleichun-
+gen (4<i><up>b</up></i>.) sich ergiebt, daß für sehr kleine Werthe von <b><i>r</i></b> <formel> und
+<formel> sich auf Größen von der Dimension <formel> reduciren, und für <b><i>r</i></b> = 0
+<formel>
+wird. Ferner setze ich
+<formel>
+<formel>
+beide Integrale über den unendlich kleinen Raum <b><i>S</i></b><do>0</do> ausgedehnt, so daß
+(5<i><up>c</up></i>.) <formel>
+Um zu ermitteln, von welcher Größenordnung &03AB;' &03AB;? und &2207;&03AB;' sind, führe
+<bs>3 *</bs>
+<pb="20"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+man statt der rechtwinkligen Coordinaten &03B1;, &03B2; und &03B3; Kugelcoordinaten ein,
+indem man setzt:
+<formel>
+<formel>
+<formel>
+dann wird
+<formel>
+Ist also die mit <b><i>d</i></b>&03B1; <b><i>d</i></b>&03B2; <b><i>d</i></b>&03B3; unter dem Integrationszeichen multiplicirte Größe
+für <b><i>r</i></b> = 0 entweder endlich, wie <b><i>qf</i></b><do><i>r</i></do>, oder von der Ordnung <formel>, wie <formel> und
+&2207;<do><i>x</i></do><b><i>f</i></b><do><i>r</i></do>, welches gleich &2014; <formel> ist, so wird die zu integrirende Größe unendlich
+klein und über einen unendlich kleinen Raum integrirt. Daher werden die
+Größen &03AB;' &03AB;?, &03AB;<do>0</do> (wegen (5<i><up>c</up></i>.)) und &2207;<do><i>x</i></do> &03AB;' unendlich klein. Dagegen ist
+&2207;<do><i>x</i></do>&03AB;? endlich und hat den bekannten Werth
+<formel>
+Folglich wird aus (5<i><up>b</up></i>.) und (5<i><up>c</up></i>.)
+<formel>
+und, indem wir die unendlich kleinen Größen gegen die endliche vernach-
+lässigen,
+(3.) <formel>
+was zu erweisen war.</p>
+<d2>§. 4.</d2>
+<p>Es läßt sich für die hier untersuchten Formen von Geschwindigkeits-
+potentialen ferner dieselbe Relation erweisen, welche für die Potentialfunctionen
+electrischer Massen an solchen Flächen stattfindet, die mit endlichen Massen
+in unendlich dünner Schicht belegt sind.</p>
+<p>Setzen wir
+(6.) <formel>
+wo <b><i>d</i></b>&03C9; das Flächenelement einer beliebigen Fläche &03A9; bezeichnet und <b><i>p</i></b> eine
+Function, die sich in der Fläche continuirlich ändert, und untersuchen die er-
+sten Differentialquotienten von &03AB; für solche Punkte <b><i>x, y, z</i></b> des Raumes,
+welche der Fläche &03A9; unendlich nahe liegen.</p>
+<pb="21"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Wir setzen wieder
+<formel>
+<formel>
+<formel>
+<formel>
+&03A8;' ist jedenfalls endlich, wenn <i>p</i> und die Größe der Fläche &03A9; endlich sind,
+da <i>f<do>r</do></i> immer endlich ist. Daß &03A8;? unter denselben Bedingungen endlich ist,
+ist aus der Theorie der electrischen Potentialfunctionen bekannt, ebenso daß
+&03A8;? auf beiden Seiten dicht an der Fläche dieselben Werthe hat. Daß letz-
+teres auch mit &03A8;' und also auch mit &03A8; der Fall sei, ist leicht zu ersehen,
+da <i>f<do>r</do></i>, auch wenn man durch die Schicht selbst hindurchgeht, sich immer nur
+continuirlich ändern kann. Dagegen wissen wir, daß die Differentialquotienten
+von &03A8;? an der Fläche einen endlichen Sprung ihres Werthes erleiden, wäh-
+rend leicht zu erkennen ist, daß die von &03A8;' an der Fläche continuirlich sein
+müssen. Denken wir uns durch eine geschlossene Linie, die in unendlich
+kleiner Entfernung den Fußpunkt des von <i>x, y, z</i> auf die Fläche &03A9; gefällten
+Lothes umgiebt, ein Stück &03A9;<do>0</do> aus der Fläche herausgeschnitten und das Integral
+&222B;<i>p f<do>r</do> d&03C9;</i> getheilt in <formel>, welches über die Fläche &03A9;<do>0</do>, und <formel>, welches über
+den Rest der Fläche ausgedehnt ist, so daß
+<formel>
+Nun ist die Größe
+<formel>
+für unendlich kleine Werthe von <i>r</i>, bleibt also endlich, macht aber einen
+Sprung, wenn man von positiven Werthen von <i>x &2014; a</i> durch <i>r</i> = 0 nach ne-
+gativen übergeht, ist dagegen continuirlich, wenn man nicht durch <i>r</i> = 0 hin-
+durchgeht. Letzteres geschieht nun keinenfalls, wenn man in <formel> die Werthe
+von <i>x, y, z</i> sich ändern läßt. Dagegen ist <formel>, wo allerdings ein Sprung
+eintreten würde, unendlich klein als das Integral einer endlichen Größe über
+eine unendlich kleine Fläche genommen, und wir können deshalb seinen Werth
+gegen <formel> und <formel> vernachlässigen. Folglich sind die Differentialquotienten
+von &03A8;', welches gleich <formel> ist, continuirlich, und die von &03A8; müssen an
+<pb="22"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+der Fläche &03A9; einen Sprung von derselben Größe wie die von &03A8;? machen.
+Bezeichnen wir die von der Fläche ab nach beiden Seiten hingehenden Nor-
+malen mit <i>n&0375;</i> und <i>n&0375;&0375;</i>, so ist bekanntlich
+<formel>
+und daraus folgt, daß auch
+(6<i><up>a</up></i>.) <formel>
+sei, was zu beweisen war.</p>
+<hr>
+<p>Man kann ferner den für die Lehre von den electrischen und magne-
+tischen Potentialfunctionen so äußerst fruchtbaren Lehrsatz von <b><i>Green</i></b> <fn="*)">Dieses Journal Bd. 44, S. 360.</fn> auch
+auf die hier vorliegenden Functionen mit dem größten Vortheil anwenden.</p>
+<p>Wenn &03A8; und &03A6; zwei Functionen sind, welche innerhalb eines abge-
+grenzten Raumes <b><i>S</i></b> eindeutig und stetig sind, d. h. überall endliche erste
+Differentialquotienten haben, so ist nach jenem Satze von <b><i>Green</i></b>
+<formel>
+wo <i>d&03C9;</i> ein Flächenelement der Oberfläche von <b><i>S, n</i></b> die nach innen gerichtete
+Normale bedeutet, und die Integrationen nach <i>d&03C9;</i> über die ganze Oberfläche
+von <b><i>S</i></b>, die nach <i>dx dy dz</i> durch das ganze Innere von <b><i>S</i></b> auszudehnen sind.
+Wenn wir auf beiden Seiten dieser Gleichung addiren <i>k<up>2</up> &222B;&222B;&222B;&03A8;&03A6;dx dy dz</i>, so
+bringen wir den Satz in die Form, welche wir hier brauchen
+(7.) <formel>
+<formel>
+Sind &03A8; und &03A6; dargestellt als Geschwindigkeitspotentiale von Erregungspunk-
+ten, die theils innerhalb, theils außerhalb des Raumes <b><i>S</i></b> continuirlich mit der
+Dichtigkeit <i>q</i> und <i>p</i> verbreitet sind, so ist nach Gleichung (3.), (5.) und (7.)
+(7<i><up>a</up></i>.)<formel>
+<formel>
+<pb="23"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Sind &03A8; und &03A6; Geschwindigkeitspotentiale von außerhalb <b><i>S</i></b> gelegenen Er-
+regungspunkten, so wird
+(7<i><up>b</up></i>.) <formel>.
+<b><i>Green</i></b> hat bewiesen, daß eine solche Gleichung wie (7<i><up>a</up></i>.) auch richtig bleibt,
+wenn in einem unendlich kleinen Raumelement <i>ds</i> des Raumes <b><i>S</i></b> die Dichtig-
+keit <i>p</i> einen so großen constanten Werth annimmt, daß <i>p ds</i> einer endlichen
+Größe <b><i>A</i></b> gleich wird, obgleich dann &03A6; an dieser Stelle nicht stetig bleibt,
+sondern unstetig wird, wie <formel>. Nehmen wir an, daß &03A6; das Geschwindig-
+keitspotential der in dem unendlich kleinen Raumelemente <i>ds</i>, dessen Coor-
+dinaten &03B1;, &03B2;, &03B3; seien, mit der gleichmäßigen Dichtigkeit <i>p</i> vertheilten Er-
+regungspunkte sei, während <i>p</i> überall sonst gleich Null ist, so daß also &03A6;
+in endlicher Entfernung vom Punkte &03B1;, &03B2;, &03B3; den Werth habe:
+<formel>
+so reducirt sich das dreifache Integral der linken Seite der Gleichung (7<i><up>a</up></i>.),
+indem wir den Werth, welchen &03A8; im Punkte &03B1;, &03B2;, &03B3; hat, mit &03A8;<i><do>a</do></i> bezeich-
+nen, auf
+<formel>
+Die Gleichung (7.) wird also
+(7<i><up>c</up></i>.) <formel>
+<formel>
+Somit ist die Function &03A8;, welche wir nur der Bedingung unterworfen hatten,
+eindeutig und stetig zu sein, die übrigens ganz beliebiger Art sein kann, auf
+die Form unserer Geschwindigkeitspotentiale gebracht. Ist übrigens innerhalb
+des ganzen Raumes <b><i>S</i></b>
+<formel>
+so wird die Gleichung (7<i><up>c</up></i>.):
+(7<i><up>d</up></i>.) <formel>
+Nun ist das Integral <formel> das Potential einer Schicht von Erre-
+gungspunkten, welche an der Oberfläche von <b><i>S</i></b> ausgebreitet ist und die
+Dichtigkeit <formel> hat. Das andere Integral können wir aber betrachten als das
+<pb="24"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Potential einer Doppelschicht von Erregungspunkten, die derselben Fläche an-
+liegen. Denken wir die eine Schicht mit der Dichtigkeit <formel> auf der
+äußeren Seite der Oberfläche von <b><i>S</i></b> in der unendlich kleinen Entfernung &frac12;<i>&03B5;</i>
+von dieser Oberfläche ausgebreitet, die andere mit der Dichtigkeit <formel> auf
+der inneren Seite der Oberfläche von <b><i>S</i></b> auch in der unendlich kleinen Ent-
+fernung &frac12;<i>&03B5;</i> von dieser Oberfläche entfernt, so wird das Potential dieser Schich-
+ten sein: <formel> <b><i>Somit läßt sich jede stetige und eindeutige
+Function &03A8;, welche in allen Theilen des Raumes S der Gleichung genügt:</i></b>
+<formel>
+<b><i>als Geschwindigkeitspotential von Erregungspunkten ausdrücken, die blos
+längs der Oberfläche von S ausgebreitet sind</i>.</b></p>
+<p>Hier aber hört die Aehnlichkeit mit den electrischen Potentialfunctionen
+auf, indem diese letzteren sich stets ausdrücken lassen als Potentialfunctionen
+einer <b><i>einfachen</i></b> Schicht von Electricität an der Oberfläche des Raumes, was
+bei unseren Potentialen zwar im Allgemeinen auch der Fall ist, aber für eine
+unendlich große Zahl von bestimmten Werthen von <i>k</i> für eine jede gegebene
+geschlossene Oberfläche Ausnahmen erleidet. Es sind dies nämlich diejenigen
+Werthe von <i>k</i>, die den eigenen Tönen der eingeschlossenen Luftmasse ent-
+sprechen.</p>
+<p>Man kann sich davon leicht an einem Beispiele überzeugen, indem man
+das Potential für eine gleichmäßig und continuirlich mit Erregungspunkten be-
+legte Kugelschaale berechnet.</p>
+<p>Wenn sämmtliche Dimensionen des Raumes <b><i>S</i></b> sehr klein gegen die
+Wellenlänge sind, kann <b><i>kr</i></b> gegen <b>1</b> vernachlässigt werden, so oft <b><i>r</i></b> die Ent-
+fernung zweier innerhalb <b><i>S</i></b> gelegener Punkte ist. Unter diesen Umständen
+wird die Gleichung (7<i><up>d</up></i>.)
+<formel>
+Bei dieser Weglassung unendlich kleiner Größen wird also &03A8; eine Function,
+welche der Gleichung &2207;&03A8; = 0 im Raume <b><i>S</i></b> genügt, und es folgt daraus,
+daß man in Räumen, deren Dimensionen gegen die Wellenlänge verschwin-
+dend klein sind, statt der Functionen, die der Gleichung &2207;&03A8; + <i>k</i><up>2</up> &03A8; = 0 ge-
+nügen, stets unendlich wenig davon unterschiedene Functionen finden kann,
+die der Gleichung &2207;&03A8; = 0 genügen.</p>
+<pb="25"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Wendet man die Gleichung (7<i><up>d</up></i>.) auf theilweis zusammenstoßende
+Räume <b><i>S&0375;</i></b> und <b><i>S&0375;&0375;</i></b> an, indem man die Elemente ihrer nicht gemeinsamen
+Oberfläche mit <i>d&03C9;&0375;</i> und <i>d&03C9;&0375;&0375;</i>, die des gemeinsamen Stückes ihrer Oberfläche
+mit <i>d&03C9;<do>0</do></i> bezeichnet, unter <b><i>n&0375;</i></b> die nach dem Inneren von <b><i>S&0375;</i></b>, unter <b><i>n&0375;&0375;</i></b> die
+nach dem Inneren von <b><i>S&0375;&0375;</i></b> gerichteten Normalen dieser Flächenelemente ver-
+steht, so hat man,
+wenn innerhalb <b><i>S&0375;</i></b> <formel>
+und innerhalb <b><i>S&0375;&0375;</i></b> <formel>
+der Punkt &03B1;, &03B2;, &03B3;, von dem die Entfernungen <b><i>r</i></b> gerechnet werden, aber
+innerhalb <b><i>S&0375;</i></b> liegt, und wir unter dem Integralzeichen [<i>d&03C9;&0375;</i> + <i>d&03C9;<do>0</do></i>] schreiben,
+wo die Integration über sämmtliche Elemente <i>d&03C9;&0375;</i> und sämmtliche <i>d&03C9;<do>0</do></i> aus-
+gedehnt werden soll,
+<formel>
+<formel>
+Wenn nun an der gemeinsamen Trennungsfläche beider Räume
+<formel>
+ist, so giebt die Addition beider Gleichungen, da <i>dn&0375; = &2014; dn&0375;&0375;</i>,
+<formel>
+<formel>
+Die Function &03A8;&0375; erscheint also hier als Potential von Punkten ausgedrückt, die
+an der nicht gemeinsamen Oberfläche der Räume <b><i>S&0375;</i></b> und <b><i>S&0375;&0375;</i></b> liegen, während
+die Punkte der gemeinsamen Trennungsfläche ganz aus dem Integral ver-
+schwinden. Genau denselben Ausdruck erhält man aber für &03A8;&0375;&0375;, wenn man
+den Punkt &03B1;, &03B2;, &03B3; in den Raum <b><i>S&0375;&0375;</i></b> verlegt. Es sind also in diesem Falle
+&03A8;&0375; und &03A8;&0375;&0375; Potentiale derselben außerhalb des gemeinsamen Raumes <b><i>S&0375;</i></b> und
+<b><i>S&0375;&0375;</i></b> liegenden Erregungspunkte, und beide Functionen müssen continuirlich in
+einander übergehen.</p>
+<p>Wenn wir also im Folgenden für das Geschwindigkeitspotential in ver-
+schiedenen Theilen eines zusammenhängenden Luftraumes verschiedene Aus-
+drücke &03A8;&0375; und &03A8;&0375;&0375; werden wählen müssen, wird die Continuität an der Grenz-
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 4</bs>
+<pb="26"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+fläche hergestellt sein, wenn in allen Punkten derselben
+<formel></p>
+<d2>§. 5.</d2>
+<p>Wir müssen noch die Grenzbedingungen aufstellen für solche unendlich
+entfernt gedachte Oberflächen, durch welche Schallwellen in den unendlichen
+Raum hinauslaufen, und jenseits welcher es keine Erregungspunkte mehr giebt.
+Wenn von einem einzelnen Punkte aus in der vorher unbewegten Luft eine
+Erschütterung ausgeht, so hat das Geschwindigkeitspotential bekanntlich die
+Form <formel>, wo <b><i>F</i></b> eine willkührliche Function, <i>a</i> die Schallgeschwindig-
+keit, <i>r</i> die Entfernung vom Erregungspunkte &03B1;, &03B2;, &03B3; bezeichnet. Soll <b><i>F</i></b>
+einer einfach periodischen Bewegung von <i>n</i> Perioden in der Secunde ent-
+sprechen, so müssen wir ihm die Form geben <formel>, wo
+<i>2&03C0;n = ak</i>, wie in (3<i><up>a</up></i>.) festgesetzt ist. Haben wir nun eine beliebige Anzahl
+Schall erregender Punkte in endlicher Entfernung vom Anfangspunkte der
+Coordinaten, so daß das Geschwindigkeitspotential &03A8; von der Form wird:
+(8.) <formel>
+wo <i>r<do>a</do></i> die Entfernung vom Punkte <fr>a</fr>, <b><i>A<do><fr>a</fr></do></i></b> und <i>g<do><fr>a</fr></do></i> Constanten bezeichnen, die
+für die verschiedenen Punkte verschieden sind, und setzen wir die Coor-
+dinaten <i>x, y, z</i> des Punktes, in dem die Schallbewegung bestimmt werden
+soll, gleich
+<c>&03F1;cos &03C9;, &03F1; sin &03C9; cos &03D1;, &03F1; sin &03C9; sin &03D1;,</c>
+für den Punkt <fr>a</fr> aber gleich
+<c>&03B1;<do><fr>a</fr></do>, &03B2;<do><fr>a</fr></do>, &03B3;<do><fr>a</fr></do>,</c>
+so ist
+<formel>
+und für unendlich große Werthe von &03F1; wird
+<formel>
+indem wir die weiteren Glieder vernachlässigen, welche &03F1; im Nenner ent-
+halten und deshalb unendlich klein werden. Danach wird nun der Werth
+von &03A8;, wenn wir nur die Glieder von der Ordnung <formel> beibehalten,
+<pb="27"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+(8<i><up>a</up></i>.) <formel>
+<formel>
+Die beiden Summen in diesem Ausdruck sind von &03F1; unabhängig, dagegen
+Functionen von &03C9; und &03D1;. Wir können also schließlich für unendlich große
+Werthe von &03F1; &03A8; auf die Form bringen:
+(8<i><up>b</up></i>.) <formel>
+wo <fr>A</fr> und <fr>c</fr> Functionen von &03C9; und &03D1; sind.</p>
+<p>Dieselbe Betrachtung läßt sich auch anwenden, wenn in der Nähe der
+Schall erregenden Punkte begrenzte feste Körper vorhanden sind in endlicher
+Entfernung vom Anfangspunkte der Coordinaten, insofern man an der Ober-
+fläche dieser Körper periodisch wirkende Kräfte annehmen kann, welche die
+Bewegung der Lufttheilchen senkrecht gegen ihre Oberfläche zu vernichten
+im Stande sind. Ist der Raum durch irgend eine unendlich ausgedehnte
+Fläche nach einer Richtung begrenzt, so ist diese Betrachtung nicht unmittel-
+bar anwendbar, weil man dann periodisch wirkende Kräfte an dieser Fläche
+bis in unendliche Entfernung hinaus haben würde. Wohl aber läßt sich ein-
+fach der Fall behandeln, wo der Raum durch eine unendliche Ebene begrenzt
+ist, die durch den Anfangspunkt der Coordinaten geht. Man braucht sich zu
+den Erregungspunkten nur noch ihre Spiegelbilder hinter der Ebene hinzu zu
+denken, von beiden zusammen das Geschwindigkeitspotential zu nehmen, so
+erfüllt dies die Bedingung, daß an der Ebene <formel> sei, und es lassen
+sich auf ein solches Geschwindigkeitspotential dieselben Betrachtungen an-
+wenden, als wenn nur endliche feste Körper in der Nähe wären.</p>
+<p>Unter diesen Umständen ist also die Grenzbedingung, welche für die
+unendlich entfernten Theile des freien Raumes aufzustellen ist, die, daß das
+Bewegungspotential &03A8; dort die in Gleichung (8<i><up>b</up></i>.) angegebene Form habe.</p>
+<p>Setzen wir jetzt voraus, daß &03A8; das Geschwindigkeitspotential eines
+Schallwellenzuges sei, der in dem Punkte <i>a</i> erregt wird, in dessen Nachbar-
+schaft sich eine beliebige Anzahl fester begrenzter Körper befinden möge, so
+daß nur an dieser Stelle &03A8; unendlich werde, wie
+<formel>
+sonst überall endlich und stetig bleibe, und in der unendlich großen Entfernung &03F1;
+<bs>4 *</bs>
+<pb="28"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+von derselben Form wie in Gleichung (8<i><up>b</up></i>.) sei. Außerdem möge an der Ober-
+fläche der festen Körper die Gleichung <formel> stattfinden. Es sei ferner &03A6;
+das Geschwindigkeitspotential einer Schallbewegung, die im Punkte <i>b</i> erregt wor-
+den ist, so daß in unendlich kleiner Entfernung von <i>b</i> &03A6; unendlich wird, wie
+<formel>
+in unendlicher Entfernung &03F1; dagegen
+<formel>
+sei, wo <fr>B</fr> und <fr>d</fr> nach verschiedenen Richtungen vom Anfangspunkte der Coor-
+dinaten aus verschiedene Werthe haben; übrigens muß &03A6; wie &03A8; überall
+sonst endlich sein, und an der Oberfläche der festen Körper <formel>.</p>
+<p>Wir wenden nun die Gleichung (7.) auf einen Raum <b><i>S</i></b> an, der durch
+eine mit dem unendlich großen Radius &03F1; um den Anfangspunkt der Coordinaten
+beschriebene Kugelschaale umschlossen ist, von welchem wir nur ausschließen
+alle die Theile, welche durch die festen Körper eingenommen sind. Für die
+Integration an den Punkten <i>a</i> und <i>b</i>, wo &03A8; und &03A6; unendlich groß werden,
+findet dieselbe Betrachtung wie bei Gleichung (7<i><up>c</up></i>.) statt. Wir erhalten
+(9.) <formel>
+wo &03A8;<i><do>b</do></i> den Werth von &03A8; im Punkte <i>b</i>, und &03A6;<i><do>a</do></i> den von &03A6; im Punkte <i>a</i>
+bezeichnet. Die Integration nach <i>d&03C9;</i> ist sowohl über die Oberflächen der vor-
+handenen festen Körper auszudehnen, an denen aber <formel>, so daß
+diese Theile wegfallen, als auch über die Oberfläche der Kugel. Hier wird nun
+<formel>
+Wenn wir nun bedenken, daß &03A8; und &03A6; von der Form sein müssen:
+<formel>
+<formel>
+wo &03A8;', &03A6;', &03A8;? und &03A6;? von der Zeit unabhängige Größen sind, so wird
+<formel>
+Da nun die Gleichung (9.) für jeden Werth von <i>t</i> erfüllt sein muß, so muß
+<pb="29"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+einzeln gleich sein:
+<formel>
+also auch
+(9<i><up>a</up></i>.) <formel>
+Daraus geht der wichtige Satz hervor: <b><i>Wenn in einem mit Luft gefüllten
+Raume, der theils von endlich ausgedehnten festen Körpern begrenzt theils
+unbegrenzt ist, im Punkte a Schallwellen erregt werden, so ist das Ge-
+schwindigkeitspotential derselben in einem zweiten Punkte b ebenso groß,
+als es in a sein würde, wenn nicht in a, sondern in b Wellen von der-
+selben Intensität erregt würden. Auch ist der Unterschied der Phasen
+des erregenden und erregten Punktes in beiden Fällen gleich.</i></b></p>
+<p>Aus der nach der Gleichung (8<i><up>b</up></i>.) gemachten Bemerkung geht hervor,
+daß dasselbe noch gilt, wenn der Raum von einer unendlichen Ebene theil-
+weise begrenzt ist. Ist &03A6; das Geschwindigkeitspotential von Schallwellen,
+die eine größere Zahl von Erregungspunkten <i>b</i><do>1</do>, <i>b<do>2</do></i> etc. <i>b<do>m</do></i> haben, also von
+der Form
+<formel>
+wo &03A6;<do>m</do> das Potential der in <i>b<do>m</do></i> erregten Schallwellen ist, so wird
+(9<i><up>b</up></i>.) <formel></p>
+<p>In dem Falle, wo die durch &03A8; dargestellte Schallbewegung nicht da-
+von herrührt, daß ein tönender Punkt <i>a</i> sich im freien Raume befindet, sondern
+daß an irgend einem Oberflächenelemente der Begrenzung des Luftraumes, das
+wir mit <b><i>da</i></b> bezeichnen wollen, <formel> nicht Null, sondern
+<formel>
+ist, so wird aus der Gleichung (9.)
+(9<i><up>c</up></i>.) <formel></p>
+<p>Dieser Satz kann dazu dienen, um in solchen Fällen, wo man die
+Schallbewegung der Luft vollständig nur für gewisse besondere Lagen des
+schallerregenden Punktes bestimmen kann, doch wenigstens für alle anderen
+Lagen eines oder beliebig vieler schallerregender Punkte die Erregung in
+<pb="30"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+jenen ersten Stellen des Raumes zu bestimmen. Namentlich ist der Satz
+wichtig, wenn man die Schallbewegung für eine jede entfernte Lage des
+tönenden Punktes bestimmen kann, weil man dann rückwärts auch für jede
+andere Lage des tönenden Punktes die Fernwirkung bestimmen kann, auf die
+es bei den akustischen Versuchen meistens allein ankommt.</p>
+<d2>§. 6.</d2>
+<p>Wir gehen nun zu unserer eigentlichen Aufgabe über, die Bewegung
+der Luft am offenen Ende einer cylindrischen Röhre zu bestimmen, wenn im
+Innern der Röhre durch irgend eine Ursache ebene Wellen, die einem ein-
+fachen Tone von <i>n</i> Schwingungen in der Secunde entsprechen, zu Stande
+gekommen sind, und sich die Bewegung durch die Mündung der Röhre der
+äußeren Luft mittheilt, welche übrigens zunächst durch keine anderen Schall
+erregenden Kräfte afficirt sein möge.</p>
+<p>Die Form der Röhre sei im Allgemeinen cylindrisch von beliebigem
+Querschnitte; nur in geringer Entfernung von der Mündung möge dieselbe
+von der cylindrischen Form abweichen dürfen. Wir schließen also Röhren
+mit trompetenförmigen oder halb gedeckten Mündungen in unsere Untersuchung
+ein. Uebrigens setzen wir voraus, daß sowohl die Dimensionen der Oeffnung,
+wie auch die Länge des nicht cylindrischen Theils der Röhre gegen die
+Wellenlänge verschwindend klein seien. Den äußeren Raum denken wir uns
+der Einfachheit wegen nach einer Seite begrenzt durch eine unendliche Ebene,
+welche senkrecht gegen den cylindrischen Theil der Röhrenwand gerichtet ist,
+und in welcher die Röhrenmündung selbst liegt. Diese Ebene sei die <i>yz-</i>
+Ebene, die Röhre befinde sich auf Seite der negativen <i>x</i>, deren Axe im In-
+nern der Röhre liegen und dem cylindrischen Theile ihrer Wand parallel sein
+soll. Auf Seite der positiven <i>x</i> sei der Luftraum unbegrenzt. Nach der ge-
+machten Annahme betrachten wir <i>ky</i> und <i>kz</i> als verschwindend klein gegen
+1, wenn <i>y</i> und <i>z</i> Coordinaten eines Punktes der Röhrenmündung sind, und
+ebenso <i>kx</i>, wenn <i>x</i> einem Punkte des nicht cylindrischen Theils der Röhren-
+wand angehört.</p>
+<p>Unsere Voraussetzungen über die Natur der Bewegung, welche wir
+untersuchen wollen, drücken sich nun in folgenden Gleichungen aus. Erstens
+nehmen wir an, daß irgendwo in der Röhre sich ein Abschnitt befinde,
+zwischen welchem und der Mündung keine äußeren Kräfte auf die Luftmasse
+einwirken, und in welchem das Geschwindigkeitspotential &03A8; unendlich wenig
+<pb="31"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+verschieden sei von der Form
+<formel>
+Dies ist die allgemeinste Form, welche ebene Wellen, die einem einfachen
+Tone von <i>n</i> Schwingungen angehören, haben können. Zur weiteren Verein-
+fachung wollen wir gleich den Anfang der Zeit <i>t</i> so festsetzen, was offenbar
+immer möglich ist, daß <fr>A</fr> = 0 wird, und somit &03A8; in dem besagten Abschnitte
+der Röhre die Form erhält:
+(10.) <formel>
+Auf Seite der positiven <i>x</i> denke man sich zwei halbe Kugelflächen von sehr
+großem Radius construirt, deren Mittelpunkt im Anfangspunkte der Coordinaten
+liegt. Zwischen beiden soll &03A8; die Form kugeliger Wellen haben, die in den
+unendlichen Raum hinauslaufen, nämlich, wenn wir wie früher die Entfernung
+vom Anfang der Coordinaten mit &03F1; bezeichnen,
+(10<i><up>a</up></i>.) <formel>
+wo <b><i>M</i></b> und <b><i>M</i><do>I</do></b> unabhängig von &03F1;, aber möglicher Weise abhängig von den
+Winkeln sind, die &03F1; mit den Coordinatenaxen bildet.</p>
+<p>Jenseits der äußeren jener beiden Kugelflächen mag noch ein Raum
+liegen, wo die Schallbewegung erst beginnt, aber zwischen der Region der
+ebenen Wellen in der Röhre, deren Bewegung in der Gleichung (10.) gegeben
+ist, und der Region der Kugelwellen von der Form (10<i><up>a</up></i>.) soll die Stärke
+und Phase der Luftschwingungen stationär geworden sein, also &03A8; hier überall
+von der Form sein:
+(10<i><up>b</up></i>.) <formel>
+worin &03A8;' und &03A8;? Functionen der Coordinaten, aber unabhängig von der
+Zeit sind und in diesem ganzen Theile des Luftraumes die Bedingung erfüllen:
+(3<i><up>b</up></i>.) <formel>
+Endlich muß noch längs der ganzen Wand der Röhre und an dem Theile der
+<i>yz</i>-Ebene, welcher nicht von der Röhrenmündung eingenommen ist, sein:
+(10<i><up>c</up></i>.) <formel>
+Wir wollen nun die Beziehungen zwischen den Coefficienten <b><i>A, B, <fr>B</fr>, M</i></b>
+und <b><i>M</i><do>1</do></b> der Gleichungen (10.) und (10<i><up>a</up></i>.) mittelst des erweiterten <b><i>Greenschen</i></b>
+Theorems aufsuchen.</p>
+<pb="32"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Die erste Anwendung der Gleichung (7.) machen wir auf den inneren
+Raum der Röhre, dieser von der Ebene der Mündung bis zu einer damit
+parallelen Ebene genommen, welche in der Region der ebenen Wellen liegt.
+Die Function &03A6; der Gleichung (7.) setzen wir hier:
+<formel>
+Da sowohl &03A6; wie &03A8; die Gleichung (3<i><up>b</up></i>.) erfüllen innerhalb des hier betrach-
+teten Raumes, so reducirt sich Gleichung (7.) auf
+(7<i><up>b</up></i>.) <formel>
+Nun ist <formel> nur an der Mündung und in dem Querschnitte der Röhre von Null
+verschieden, dort ist es gleich <formel>, hier gleich <formel>. Es wird also
+<formel>
+Durch den Horizontalstrich <formel> oder <formel> sollen hier und fortan die Werthe
+bezeichnet werden, welche die betreffenden Functionen in der Ebene der
+Röhrenmündung haben. Mit <b><i>Q</i></b> ist die Größe des Querschnitts des cylindri-
+schen Theils der Röhre bezeichnet. Dagegen ist <formel> am cylindrischen Theile
+der Röhrenwand und in der Oeffnung der Röhre gleich Null. Von Null ver-
+schieden ist es nur in dem Querschnitte der Röhre, wo es den Werth &2014;<i>k</i>sin<i>kx</i>
+hat, und in dem nicht cylindrischen Theile der Röhrenwand. Nennt man den
+Winkel, den die nach innen gerichtete Normale der Röhrenwand mit den po-
+sitiven <i>x</i> bildet, &03B2;, so ist, da <formel>
+<formel>
+Wir haben also
+<formel>
+Wenn man diese Werthe der Integrale in die Gleichung (7<i><up>b</up></i>.) einführt, und
+<pb="33"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+einzeln die mit cos (2&03C0; <i>nt</i>) und die mit sin (2&03C0; <i>nt</i>) multiplicirten Glieder gleich
+Null setzt, so erhält man
+(11.) <formel>
+(11<up><i>a</i></up>.) <formel>
+In beiden Gleichungen ist das erste Integral über die ganze Oeffnung der
+Röhre zu nehmen, das zweite über die Wand der Röhre, doch wollen wir
+gleich bemerken, daß an allen Stellen, wo cos &03B2; von Null verschieden ist, <i>kx</i>
+nach unserer Annahme eine verschwindend kleine Größe wird. In rein cy-
+lindrischen Röhren mit ganz offener oder theilweis gedeckter Mündung fallen
+diese letzteren Integrale ganz weg.</p>
+<hr>
+<p>Die zweite Anwendung des Theorems (7.) machen wir auf den freien
+Raum auf Seite der positiven <i>x</i>, der einerseits begrenzt gedacht wird durch
+die <i>yz</i>-Ebene, andererseits durch eine um den Anfangspunkt der Coordinaten
+als Mittelpunkt construirte halbe Kugelfläche, welche in die Region der kuge-
+ligen Wellen fällt. Innerhalb dieses Raumes liege der Punkt, dessen Coor-
+dinaten &03B1;, &03B2;, &03B3; sind. Die Entfernung des Punktes <i>x, y, z</i> von ihm sei <i>r</i>&0375;,
+während <i>r</i>&0375;&0375; die Entfernung von dem Punkte sei, dessen Coordinaten &2014; &03B1;,
+&03B2;, &03B3; sind, und der außerhalb des hier betrachteten Raumes liegt. Die Function
+&03A6; der Gleichung (7.) setzen wir
+<formel>
+Indem wir nun die Gleichung (7.) anwenden mit Beachtung des in (7<up><i>c</i></up>.) be-
+rücksichtigten Umstandes der Unstetigkeit von &03A6; im Punkte &03B1;, &03B2;, &03B3;, erhal-
+ten wir:
+(11<up><i>b</i></up>.) <formel>
+wo &03A8;<do>&03B1;</do> den Werth von &03A8; im Punkte &03B1;, &03B2;, &03B3; bezeichnet.</p>
+<p>Wie im Falle der Gleichung (9.) wird die Größe <formel> an
+der weit entfernten Kugelfläche eine von der Zeit unabhängige Größe, ebenso
+natürlich auch das Integral dieser Größe über die Kugelfläche, welches wir
+mit <fr>C</fr> bezeichnen wollen. An der <i>yz</i>-Ebene dagegen ist <formel> überall gleich
+Null, ebenso <formel> überall mit Ausnahme der Oeffnung, wo es gleich <formel> ist;
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 5</bs>
+<pb="34"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+&03A6; aber bekommt den Werth
+<formel>
+weil an der <i>yz</i>-Ebene <i>r</i>&0375; = <i>r</i>&0375;&0375; ist. So erhalten wir die Gleichung
+(11<up><i>c</i></up>.) <formel>
+Setzen wir nun nach Gleichung (10<up><i>b</i></up>.)
+(10<up><i>b</i></up>.) <formel>
+so können wir in der Gleichung (11<up><i>c</i></up>.), welche für alle Werthe von <i>t</i> erfüllt
+sein muß, die Quadrate und Producte von cos(2&03C0; <i>nt</i>) und sin (2&03C0; <i>nt</i>) durch
+cos(4&03C0; <i>nt</i>) und sin (4&03C0; <i>nt</i>) ausdrücken und dann einzeln gleich Null setzen:
+1) die Glieder, welche nach der Zeit constant sind, 2) die Glieder, welche
+mit cos(4&03C0; <i>nt</i>) multiplicirt sind und 3) die mit sin (4&03C0; <i>nt</i>) multiplicirten, und
+erhalten dadurch folgende drei Gleichungen:
+(11<up><i>d</i></up>.) <formel>
+Die Integrationen sind über die Oeffnung der Röhre auszudehnen. Durch
+die beiden letzten Gleichungen ist der Werth der Functionen &03A8;' und &03A8;? für
+alle Punkte des Raumes auf Seite der positiven <i>x</i> gegeben, wenn die Werthe
+von <formel> und <formel> in der Oeffnung der Röhre bekannt sind. Die erste Glei-
+chung folgt aus den beiden anderen mittelst des Theorems (7<up><i>d</i></up>.). Der Werth
+von &03A8;<do>&03B1;</do> wird demnach:
+(11<up><i>e</i></up>.) <formel></p>
+<p>Wenn wir statt der rechtwinkligen Coordinaten Polarcoordinaten ein-
+führen, nämlich
+<c>&03B1; = &03F1; cos &03C9;, &03B2; = &03F1; sin &03C9; cos &03D1;, &03B3; = &03F1; sin &03C9; sin &03D1;,</c>
+so wird in unendlich großer Entfernung &03F1; vom Anfangspunkte der Coordinaten
+mittelst einer ähnlichen Umformung, wie sie in (8<up><i>a</i></up>.) ausgeführt ist,
+(10<up><i>a</i></up>.) <formel>
+<pb="35"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+wo
+(11<up><i>f</i></up>.) <formel>
+und wo die Integrationen über die Oeffnung der Röhre auszudehnen sind.</p>
+<hr>
+<p>Eine dritte Anwendung des erweiterten <i>Green</i>schen Satzes machen
+wir auf den Raum, welcher zwischen einem Querschnitte der Röhre in der
+Region der ebenen Wellen und einer halben Kugelfläche in der Region der
+kugeligen Wellen liegt. Für die Functionen &03A8; und &03A6; der Gleichung (7.)
+setzen wir &03A8;' und &03A8;? und haben wie in (7<up><i>b</i></up>.)
+(7<up><i>b</i></up>.) <formel>
+Da längs der ganzen festen Wand des Raumes <formel>, so ist die
+Integration nur über den Querschnitt der Röhre und die Halbkugel auszu-
+dehnen. Im Querschnitt ist:
+<formel>
+An der Kugelfläche ist:
+<formel>
+Wenn man die Integrale nimmt, wird:
+(11<up><i>g</i></up>.) <formel></p>
+<hr>
+<bs>5 *</bs>
+<pb="36"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>Endlich wenden wir noch das Theorem (7.) auf den inneren Raum
+der Röhre an von der Ebene der Mündung bis zu einem Querschnitt in der
+Region der ebenen Wellen für die Function &03A8;' und
+<formel>
+(7<up><i>b</i></up>.) <formel>
+Am Querschnitte der Röhre wird
+<formel>
+An der Wand der Röhre wird <formel>, an ihrer Mündung &03A6; = 0, so daß
+das zweite Integral der Gleichung (7<up><i>b</i></up>.) verschwindet. Im ersten wird an der
+Wand der Röhre:
+<formel>
+an der Mündung <formel>. Also haben wir:
+(11<up><i>h</i></up>.) <formel>
+wo das erste Integral über den nicht cylindrischen Theil der Röhrenwand
+auszudehnen ist, so weit cos&03B2; sich von Null unterscheidet, das zweite über
+die Oeffnung der Röhre.</p>
+<hr>
+<p>Wir haben jetzt in den Gleichungen (11.), (11<up><i>a</i></up>.), (11<up><i>d</i></up>.), (11<up><i>f</i></up>.),
+(11<up><i>g</i></up>.), (11<up><i>h</i></up>.) die Werthe der Coefficienten <i><b>A, B,</b> <fr>B</fr>, <b>M, M<do>1</do></b></i> und der
+Functionen &03A8;' und &03A8;? im freien Raume zurückgeführt auf Integrale, in denen
+nur die Werthe vorkommen, welche &03A8;', &03A8;? und ihre Differentialquotienten
+theils in der Mündung der Röhre selbst, theils an dem nicht cylindrischen
+Theile ihrer Wand haben. Wir wollen jetzt die Vereinfachungen dieser Aus-
+drücke einführen, welche daraus herfließen, daß die Dimensionen der Mün-
+dung und die Länge des nicht cylindrischen Theiles der Röhre unserer Annahme
+nach gegen die Wellenlänge verschwindend klein sein sollen. Vernachlässigen
+wir Größen von der Ordnung <i>k</i>&03B5; gegen 1, so nehmen unsere Gleichungen
+(11.), (11<up><i>a</i></up>.) und (11<up><i>f</i></up>.) folgende Gestalt an
+(12.) <formel>
+<pb="37"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+(12<up><i>a</i></up>.) <formel>
+(12<up><i>b</i></up>.) <formel>
+Für den Werth von <b><i>M</i><do>1</do></b> ist zu bemerken, daß das von <i>k</i> unabhängige Glied
+desselben <formel> nach (11<up><i>a</i></up>.) selbst eine verschwindend kleine Größe ist,
+daß ferner auch das mit der ersten Potenz von <i>k</i> multiplicirte <formel> der
+Null gleich gemacht werden kann, wenn man den Anfangspunkt der Coor-
+dinaten, über den bisher nur bestimmt ist, daß er in der Oeffnung der Röhre
+liegen solle, in den Schwerpunkt einer Masse verlegt, welche mit der Dich-
+tigkeit <formel> über die Fläche der Oeffnung verbreitet ist, also reducirt sich der
+Werth von <b><i>M</i><do>1</do></b> auf verschwindend kleine Größen, nämlich
+(12<up><i>c</i></up>.) <formel>
+Wir werden also <b><i>M</i><do>1</do></b> gegen <b><i>M</i></b> vernachlässigen und letzteres als unabhängig
+von den Winkeln &03C9; und &03D1; betrachten dürfen, also aus (11<up><i>g</i></up>.) erhalten
+<formel>
+oder mit Berücksichtigung von
+(12<up><i>b</i></up>.) <formel>
+(12<up><i>d</i></up>.) <formel>
+endlich
+(12<up><i>e</i></up>.) <formel>
+Da nun übrigens nach (11<up><i>e</i></up>.) in der Ebene der Mündung mit Vernachlässigung
+kleiner Größen
+<formel>
+und
+(12<up><i>b</i></up>.) <formel>
+so sind <b><i>M</i></b> oder <b><i>AQ</i></b> und <formel> Größen von gleicher Ordnung. Nun können
+wir die Gleichung (12<up><i>e</i></up>.) schreiben
+<formel>
+<pb="38"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+wo die Integration über alle Werthe von <i>z</i> und <i>y</i> auszudehnen ist, welche
+der Oeffnung und Wand der Röhre angehören, und das + Zeichen sowohl
+an der Oeffnung als an denjenigen Theilen der Wand zu nehmen ist, deren
+Normale mit den negativen <i>x</i> einen spitzen Winkel bildet, das &2014; Zeichen
+an den Theilen, deren Normale mit den positiven <i>x</i> einen spitzen Winkel
+bildet. <b><i>QB</i></b> ist also gleich den Werthen von &03A8;' in der Nähe der Oeffnung
+integrirt über eine Fläche von der Größe <b><i>Q</i></b>, also ist <b><i>B</i></b> von der Größen-
+ordnung <formel> oder <formel>. Wenn also der Querschnitt der Röhre von derselben
+Ordnung kleiner Größen wie die Oeffnung, d. h. von der Ordnung &03B5;<up>2</up> ist, ist
+<b><i>B</i></b> von der Ordnung <b><i>A</i></b>&03B5;. Genauer läßt sich bei der Allgemeinheit unserer
+Annahmen das Verhältniß <formel> nicht bestimmen. Wir werden später bei den
+Beispielen sehen, daß es von der Form der Mündung abhängt, von welcher
+wir das Verhältniß <formel> unabhängig gefunden haben, und daß es nicht merklich
+von dem Werthe von <i>k</i> abhängt, so lange der Querschnitt der Röhre und
+die Länge des nicht cylindrischen Theiles als verschwindend gegen die Wellen-
+länge zu betrachten sind. Ist übrigens die Oeffnung der Röhre sehr klein gegen
+den Querschnitt, so kann <formel> jeden beliebigen größeren Werth erreichen.</p>
+<hr>
+<p>Innerhalb der tieferen Theile der Röhre ist also, wenn wir setzen
+(12<up><i>f</i></up>.) <formel>
+(12<up><i>g</i></up>.) <formel>
+und dazu gehört die Bewegung in den entfernten Stellen des freien Raumes,
+indem wir <b><i>M</i><do>1</do></b> gegen <b><i>M</i></b> vernachlässigen,
+(12<up><i>h</i></up>.) <formel>
+in welchen beiden Gleichungen <b><i>A</i></b> eine willkührliche Constante ist, und &03B1; für
+jede besondere Röhrenform besonders bestimmt werden muß.</p>
+<p>Die Natur des hier behandelten Problems wird noch klarer, wenn man
+auf den Grenzfall übergeht, wo <i>k</i> = 0 wird. Dann werden die beiden Functio-
+nen &03A8;' und &03A8;? von einander unabhängig, und es entstehen aus unserem
+Problem folgende zwei Aufgaben:</p>
+<pb="39"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+<p>1) Es ist eine Function &03A8;' zu suchen, welche in dem ganzen be-
+trachteten Raume der Bedingung genügt, daß
+<formel>
+welche für große negative <i>x</i> übergeht in <b><i>Ax</i> + <i>B</i></b>, für große positive in
+&2014; <formel>, und für die längs der ganzen festen Wand <formel> ist. Es ist dies
+mathematisch dieselbe Aufgabe, als hätten wir einen homogenen electrischen
+Leiter von der Gestalt unseres Luftraumes, welchen ein electrischer Strom von
+bestimmter Intensität (<b><i>AQ</i></b>, wenn das Leitungsvermögen des Stoffes gleich 1
+ist) durchfließt, der aus dem cylindrischen Theile in den unendlichen Raum
+übergeht. Wir nennen bekanntlich den Leitungswiderstand zweier Leiter
+gleich, wenn bei gleicher Intensität des Stromes ihre Endflächen Flächen con-
+stanten Potentials sind und dieselbe Differenz des Potentials zeigen. Nun ist
+in irgend einem Querschnitte des cylindrischen Theiles die Potentialfunction
+<b><i>Ax</i></b> + <b><i>B</i></b> für unendliche Entfernung im freien Raume Null. Denken wir uns
+dagegen den cylindrischen Leiter cylindrisch fortgesetzt und überall die Po-
+tentialfunction gleich <b><i>Ax</i></b> + <b><i>B</i></b>, so wird sie Null, wenn <formel>. Es ist
+also &2014; (<i>x</i> &2014; &03B1;) die Länge eines cylindrischen Leiters von demselben Material,
+welcher denselben electrischen Widerstand bietet wie der Leiter von Gestalt
+unseres Luftraumes, gerechnet von einem Querschnitt des cylindrischen Theiles
+in der Entfernung &2014; <i>x</i> von der Mündung bis in unendliche Entfernung im
+freien Raume. Nach der in der Electricitätslehre gebräuchlichen Terminologie
+würde also &2014; (<i>x</i> &2014; &03B1;) die <b><i>reducirte Länge</i></b> jenes Leiters genannt werden
+können, und wir wollen dieselbe Benennung auch hier brauchen. Die Con-
+stante <b><i>B</i></b> oder &03B1; verschwindet also nicht mit <i>k</i> zugleich, obgleich andererseits
+einzusehen ist, daß sie meistens nicht groß sein kann, da der Widerstand
+unendlich ausgedehnter Leiter, wie der der Erde, immer sehr klein ist ver-
+glichen mit dem Widerstande cylindrischer Leiter von demselben Material, aus
+denen die Electricität in den unendlichen Leiter ausströmt, und es folgt auch
+weiter aus den bekannten Theoremen über Electricitätsleitung, daß &03B1; desto
+größer werden muß, je enger die Mündung der Röhre gemacht wird, was
+sich auch in den akustischen Versuchen durch die Veränderung des Tons der
+Röhren zeigt, dessen Abhängigkeit vom Werthe von &03B1; wir unten feststellen
+werden.</p>
+<p>Wenn die Oeffnung sehr klein und kreisförmig ist, während die den
+Cylinder schließende Wand in ihrer Nähe nahehin eben ist, läßt sich anneh-
+<pb="40"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+men, daß der Widerstand hauptsächlich nur von den dicht bei der Oeffnung
+gelegenen Theilen herrührt, wo die Bahn der Strömung am engsten ist. Der
+Widerstand einer kreisförmigen Oeffnung vom Radius <b><i>R</i></b> in einer isolirenden
+Ebene, welche zwei unendlich ausgedehnte Leiter von einander trennt, ist
+aber ausgedrückt durch die Länge <i>l</i> eines Cylinders vom Querschnitt <b><i>Q:</i></b>
+(12<up><i>i</i></up>.) <formel>
+und dies würde in diesem Falle auch der Werth von &2014; <formel> sein.</p>
+<p>2) Es ist eine Function <formel> zu suchen, welche im ganzen betrach-
+teten Raume der Bedingung genügt, daß &2207; &03A8;? = 0, welche für große Ent-
+fernungen von der Mündung sowohl auf Seite der negativen wie der positi-
+ven <i>x</i> wird:
+<formel>
+und längs der ganzen festen Wand des Luftraumes <formel>. Offenbar ist
+unter diesen Umständen &03A8;? im ganzen Raume constant. Hierbei wird dann
+ersichtlich, daß in der Oeffnung nicht blos, wie wir schon gesehen, die Größe
+<formel>, sondern auch <formel> selbst mit <i>k</i> zugleich verschwindet.</p>
+<hr>
+<d2>§. 7.</d2>
+<p>Die bisher gewonnenen Sätze lassen nun eine Reihe allgemeiner Fol-
+gerungen ziehen nicht blos über die Lage der Schwingungs-Minima und Maxima
+(Knoten und Bäuche der Schwingungen) und die davon abhängende Höhe der
+natürlichen Töne der Röhre, die wir als <b><i>Töne stärkster Resonanz</i></b> cha-
+racterisiren können, welche Aufgaben schon die bisherigen Theorien mehr
+oder weniger genügend behandelt haben, sondern sie geben uns für eine Reihe
+besonderer Erregungsweisen der Töne auch bestimmte Auskunft über die
+Stärke und Phasen der in der Röhre erregten Schwingungen.</p>
+<p>Die Geschwindigkeit der Lufttheilchen ist aus (12<up><i>a</i></up>.) berechnet
+(13.) <formel>
+oder
+<pb="41"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+(13<up><i>a</i></up>.) <formel>
+Die Werthe von <i>x</i>, für welche <b><i>J</i></b><up>2</up> ein Maximum oder Minimum wird, werden
+gefunden durch die Gleichung
+(13<up><i>b</i></up>.) <formel>
+Wenn <i>x</i><do>0</do> ein Werth ist, der für <i>x</i> gesetzt diese Gleichung erfüllt, so wird
+sie auch erfüllt durch
+<formel>
+worin <fr>a</fr> eine beliebige positive oder negative ganze Zahl bezeichnet. <b><i>Die
+Maxima und Minima der Schwingung liegen also in der Röhre um Viertel-
+wellenlängen von einander entfernt</i></b>. Sie liegen aber nicht nothwendig um
+ein genaues Vielfache einer Viertelwellenlänge von der Oeffnung der Röhre
+entfernt. Wenn, wie wir im Folgenden immer annehmen wollen, <b><i>k</i></b><up>2</up><b><i>Q</i></b> eine
+unendlich kleine Größe ist, so wird mit Vernachlässigung der kleinen Größen
+zweiter Ordnung die Gleichung (13<up><i>b</i></up>.):
+<formel>
+Dann wird <b><i>J</i></b><up>2</up> ein Maximum <formel>, wenn
+<formel> also <formel>
+<formel>
+und <b><i>J</i></b><up>2</up> wird ein Minimum <formel>, wenn
+<formel>
+Denken wir uns die ebenen Wellen bis zur Mündung der Röhre fortgesetzt, so würde
+in der kleinen Entfernung &03B1; vor der Oeffnung ein Maximum der Schwingung lie-
+gen. Denken wir uns die Entfernungen der Querschnitte der Röhre von diesem
+um die Länge &03B1; vor der Oeffnung in der Axe der Röhre gelegenen Punkte ge-
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 6</bs>
+<pb="42"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+zählt und nennen diese Entfernungen <b><i>die reducirten Längen</i></b> des betreffenden
+Röhrenstücks, so erhalten wir <b><i>Maxima der Schwingung überall, wo die re-
+ducirte Länge gleich einem geraden Vielfachen der Viertelwellenlänge
+und Minima der Schwingung (Knotenflächen), wo die reducirte Länge der
+Röhre einem ungeraden Vielfachen der Viertelwellenlänge gleich ist</i></b>. In
+den Knotenflächen herrscht aber nicht absolute Ruhe, sondern die Bewegung
+wird nur sehr klein.</p>
+<p>Am Orte der Maxima der Schwingung wird tang &03C4;, gleich einer unendlich
+kleinen Größe, also &03C4; = <fr>a</fr>&03C0;, am Orte der Minima wird tang &03C4; = &221E;, also
+&03C4; = (<fr>a</fr> + &frac12;)&03C0;, folglich <b><i>sind die Phasen der Bewegung am Orte der Maxima
+und Minima um eine Viertelschwingungsdauer verschieden.</i></b></p>
+<p>Nach Gleichung (1<up><i>f</i></up>.) ist die Verdichtung der Luft, wo keine äußeren
+Kräfte wirken,
+<formel>
+also in unserem Falle:
+(14.) <formel>
+oder:
+(14<up><i>a</i></up>.) <formel>
+Die Bedingungsgleichung, welche die Werthe von <i>x</i> giebt, für welche <b><i>L</i></b><up>2</up> ein
+Maximum oder Minimum wird, ist dieselbe wie (13<up><i>b</i></up>.), welche oben für die
+Grenzwerthe von <b><i>J</i></b><up>2</up> aufgestellt ist, aber wo letzteres ein Maximum ist, wird
+<b><i>L</i></b><up>2</up> ein Minimum, und umgekehrt. Wo <b><i>L</i></b> ein Maximum, wird tang &03C4;&0375; = 0 (oder
+vielmehr gleich einer verschwindend kleinen Größe), also:
+<formel> <formel>
+wo <b><i>L</i></b><up>2</up> ein Minimum ist, wird tang &03C4;&0375; = &221E;,
+<formel> <formel>
+An diesen Stellen also fällt das Maximum der Verdichtung mit dem Maximum
+der Geschwindigkeit in der Zeit zusammen, nicht aber an den zwischenliegen-
+<pb="43"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+den Stellen. Denn wo weder sin <i>k</i>(<i>x</i> &2014; &03B1;) noch cos <i>k</i>(<i>x</i> &2014; &03B1;) der Null nahe
+sind, sind sowohl tang &03C4; als tang &03C4;&0375; sehr kleine Größen, und es wird also
+nahehin
+<formel> <formel>
+so daß hier die Maxima des Druckes und der Geschwindigkeit nahehin um
+eine Viertel-Undulationszeit auseinanderfallen.</p>
+<p>Denkt man sich die ebenen Wellen bis zur Oeffnung der Röhre, wo
+<i>x</i> = 0, fortgesetzt, so wird dort tang &03C4; = 0, dagegen
+<formel>
+Nun ist im Allgemeinen tang <i>k</i>&03B1; eine kleine Größe erster Ordnung, <b><i>k</i></b><up>2</up><b><i>Q</i></b> eine
+solche zweiter Ordnung, also tang &03C4;&0375; sehr klein und &03C4;&0375; nahe an Null. Aber es
+kann auch für besondere Röhrenformen &03B1; = 0 werden, dann würde &03C4;&0375; = &frac12;&03C0;.
+Im ersteren Falle würden in der Oeffnung die Maxima der Geschwindigkeit
+und der Verdichtung um eine Viertelundulation der Zeit nach aus einander
+liegen, im zweiten Falle zusammenfallen. <b><i>Poisson</i></b>s Voraussetzung, daß die
+Verdichtung in der Oeffnung gleich der Geschwindigkeit multiplicirt mit einer
+sehr kleinen Constanten sei, ist also nur in einem besonderen Falle richtig,
+den er allerdings als den allgemeinen betrachtete. Auch in diesem Falle ist
+sie übrigens nur richtig, wenn man sich erlaubt, die ebenen Wellen bis zur
+Mündung der Röhre fortgesetzt zu denken, aber nicht, wenn man die wirklich
+in der Oeffnung stattfindenden mittleren Werthe der Geschwindigkeit und Ver-
+dichtung nimmt.</p>
+<p>Was die Lage der einzelnen Wellenphasen in einem gegebenen Augen-
+blicke betrifft, so finden wir die Lage der Geschwindigkeitsmaxima in der
+Region der ebenen Wellen, indem wir <formel> setzen, oder auch &03A8; = 0,
+da hier <formel>. Also:
+<formel>
+daraus folgt als Bedingung (s. (12<up><i>f</i></up>.) und (12<up><i>g</i></up>.))
+(14<up><i>b</i></up>.) <formel>
+Wenn <i>t</i> = 0, wird
+<formel>
+die Maxima der Geschwindigkeit liegen dann, wo &2014; (<i>x</i> &2014; &03B1;) = <fr>a</fr>&03BB;, die Minima,
+<bs>6 *</bs>
+<pb="44"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+wo &2014; (<i>x</i> &2014; &03B1;) = (<fr>a</fr> + &frac12;) &03BB;. Wenn nun <i>t</i> wächst, so bleibt, weil <b><i>k</i></b><up>2</up><b><i>Q</i></b> eine
+verschwindend kleine Größe ist, doch immer noch tang <i>kx</i> unmerklich wenig
+verschieden von tang <i>k</i>&03B1;, also die Lage der Maxima und Minima unverändert,
+so lange tang (2&03C0; <i>nt</i>) endliche Werthe hat. Wenn aber <i>t</i> sich dem Werthe
+einer Viertel-Schwingungsdauer nähert, wird auch tang <i>kx</i> gleichzeitig mit
+tang (2&03C0; <i>nt</i>) erst + &221E;, dann &2014; &221E;, dann aber, so wie tang (2&03C0; <i>nt</i>) endliche
+negative Werthe erreicht hat, wird tang <i>kx</i> wieder gleich tang <i>k</i>&03B1;, und so
+bleibt es wieder während beinahe einer halben Schwingungsdauer stationär,
+so lange tang (2&03C0; <i>nt</i>) endlich bleibt. So oft nun tang <i>kx</i> vom Werthe tang <i>k</i>&03B1;
+auf + &221E; wächst, dann von &2014; &221E; durch die negativen Werthe bis 0 und wie-
+der auf tang <i>k</i>&03B1; übergeht, muß <i>kx</i> um &03C0; wachsen und <i>x</i> selbst um &frac12;&03BB;. So
+wird also ein Maximum, welches zur Zeit <i>t</i> = 0 da liegt, wo die reducirte
+Länge <fr>a</fr>&03BB; beträgt, um die Zeit <formel> schnell übergehen auf die reducirte
+Länge (<fr>a</fr> &2014; &frac12;) &03BB;, hier beinahe stillstehen bis <formel>, dann schnell fortschrei-
+ten auf (<fr>a</fr> &2014; 1) &03BB; u. s. w.</p>
+<p>Im freien Raume dagegen bewegen sich die Maxima der Geschwindig-
+keit mit der gleichmäßigen Fortpflanzungsgeschwindigkeit <i>a</i> vorwärts. In
+den entfernteren Theilen des freien Raumes liegen sie zur Zeit <i>t</i> = 0, wo
+&03F1; = (<fr>b</fr> + &frac14;) &03BB;. Der Abstand zweier Maxima der Geschwindigkeit, von denen
+eines im freien Raume in der <i>x</i>-Axe, das andere in der Röhre gelegen ist,
+zur Zeit <i>t</i> = 0 ist (<fr>a + b</fr> + &frac14;) &03BB; &2014; &03B1;. Da bis zur Zeit <formel> das Maximum in
+der Röhre fast ganz still steht, das im freien Raume um &frac14;&03BB; fortschreitet, so
+wächst die Entfernung beider Maxima bis auf nahehin (<fr>a + b</fr> + &frac12;) &03BB; &2014; &03B1;, geht
+dann ziemlich schnell zurück auf (<fr>a + b</fr>) &03BB; &2014; &03B1;, um während der nächsten halben
+Schwingungsdauer wieder auf (<fr>a + b</fr> + &frac12;) &03BB; &2014; &03B1; zu steigen, und bewegt sich
+so immer zwischen den genannten Grenzen.</p>
+<p>Mit der Verdichtung verhält es sich ähnlich. Ihre Maximalwerthe wer-
+den gegeben durch die Gleichung:
+(14<up><i>c</i></up>.) <formel>
+Zur Zeit <formel> ist cotg(2&03C0; <i>nt</i>) = 0, und die Maxima der Verdichtung lie-
+gen, wo die reducirte Länge der Röhre (<fr>a</fr> &2014; &frac14;) &03BB; beträgt. Diese Lage be-
+halten sie auch unverändert bis nahehin <formel>, wo cotg(2&03C0; <i>nt</i>) unendlich
+groß wird. Dann rücken sie schnell vorwärts bis (<fr>a</fr> &2014; &frac34;) &03BB;. In den entfern-
+<pb="45"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+teren Theilen des freien Raumes liegen sie, wenn <formel>, da, wo &03F1; = (<fr>b</fr> + &frac12;) &03BB;.
+Ihr Abstand von denen in der Röhre beträgt also dann (<fr>a + b</fr> + &frac14;) &03BB; &2014; &03B1;,
+wächst allmälig auf (<fr>a + b</fr> + &frac12;) &03BB; &2014; &03B1;, sinkt schnell auf (<fr>a + b</fr>) &03BB; &2014; &03B1;, wächst
+dann wieder allmälig u. s. w. Sowohl die Maxima des Druckes wie der Ge-
+schwindigkeit haben ihren größten Werth in der Röhre, wenn sie stillstehen,
+ihren kleinsten, wenn sie vorwärts eilen. Uebrigens eilen die Maxima der Ge-
+schwindigkeit vorwärts zu den Zeiten und an den Orten, wo die des Druckes
+stillstehen, und umgekehrt.</p>
+<p><b><i>Stärke der Resonanz in der Röhre</i></b>. Denkt man sich die Röhre
+nur bis <i>x = &2014; <b>l</b></i> reichend und ihr Ende im Bereiche der ebenen Wellen ge-
+legen, so kann die Erschütterung der Luft in der Röhre entweder an diesem
+Ende mitgetheilt werden oder von der vorderen Oeffnung der Röhre her,
+indem ein Schallwellenzug gegen die Mündung der Röhre schlägt. Was zu-
+nächst den ersten Fall betrifft, so kann nach Feststellung der Form der ebenen
+Wellen leicht der Fall behandelt werden, wo die Röhre durch irgend eine
+Platte von beliebiger Masse geschlossen ist, welche durch irgend eine elastische
+Kraft (z. B. einer über die Mündung der Röhre ausgespannten Membran) in
+ihrer Lage gehalten und durch eine beliebige periodisch wirkende Kraft in
+Erschütterung versetzt wird. Es läßt sich dann für jede Röhrenform und
+Tonhöhe, für welche der Werth der Constanten &03B1; bekannt ist, sowohl die Form
+der ebenen Wellen als der Kugelwellen in den entfernteren Theilen des freien
+Raumes vollständig angeben. Hier genüge es, nur kurz den Fall zu erwäh-
+nen, wo eine Bewegung von bestimmter Geschwindigkeit mitgetheilt wird, der
+also practisch etwa dem Falle entspricht, wo eine Stimmgabel die Schlußplatte
+der Röhre erschüttert.</p>
+<p>Die Geschwindigkeit der der Schlußplatte mitgetheilten Bewegung sei
+<formel>
+wo wir unter &03C4;&0375;&0375; eine willkürliche Constante verstehen, mittelst deren wir den
+Anfang von <i>t</i> passend bestimmen. Dann muß sein für <i>x = &2014; l</i>
+<formel>
+also
+(15.) <formel>
+(15<i><up>a</up></i>.) <formel>
+<pb="46"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Das Geschwindigkeitspotential in den ferneren Theilen des freien Raumes ist
+<formel>
+wo
+(12<i><up>b</up></i>.) <formel>
+Es läßt sich also <b><i>A</i></b> und <b><i>M</i></b> aus <b><i>G</i></b> und <b><i>l</i></b> bestimmen. <b><i>A,</i></b> das Schwingungs-
+maximum in der Röhre, und ebenso <b><i>M,</i></b> die Intensität der Kugelwellen im
+freien Raume, wird bei constantem <b><i>G,</i></b> also bei constanter Bewegung der
+Schlußplatte der Röhre, am größten, wenn der Factor von <b><i>A</i></b> in (15.) am
+kleinsten ist, d. h. wenn
+<formel>
+Dann ist
+<formel>
+<b><i>Die stärkste Resonanz der Röhre und der stärkste Schall im freien
+Raume findet also statt, wenn die Bewegung der Luft am Orte einer
+Knotenfläche mitgetheilt wird. Die Stärke der Schallwellen wird dabei
+sehr groß, aber keinesweges unendlich</i></b>. Denn damit der im Nenner der
+Werthe von <b><i>A</i></b> und <b><i>M</i></b> stehende cos <b><i>k</i></b>&03B1; Null werde, müßte die Fläche der
+Oeffnung gleich Null werden. Dabei zeigt sich zugleich, daß die Resonanz
+sowohl in der Röhre als auch im freien Raume desto mächtiger wird, je
+enger die Oeffnung der Röhre ist. Wenn wie gewöhnlich <b><i>k</i></b>&03B1; klein ist, kann
+cos <b><i>k</i></b>&03B1; = 1 gesetzt werden. <b><i>Dann ist die Wirkung im freien Raume un-
+abhängig von der Form der Röhre. Die Vibrationen der Schwingungs-
+maxima in der Röhre und der um ganze Wellenlängen von der Oeffnung
+entfernten Wellen im freien Raume unterscheiden sich dabei von denen
+der mitgetheilten Bewegung um eine Viertel-Undulation</i></b>.</p>
+<p>Das Minimum der Resonanz tritt ein, wenn der Factor von <b><i>A</i></b> im
+Werthe von <b><i>G</i></b> in (15.) sein Maximum erreicht, d. h. wenn
+<formel> <formel>
+dann wird mit Weglassung kleiner Größen
+<formel>
+<pb="47"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Die Wirkung im freien Raume ist also, je nach dem Werthe von &03B1;, gleich
+oder kleiner, als wenn gar keine Röhre vorhanden wäre, und die erschütterte
+Schlußplatte der Röhre einen Theil der übrigens festen <i>yz</i>-Ebene bildete.</p>
+<p>Die große Verschiedenheit der Schallstärke in der Luft bei gleicher
+Excursionsweite der schwingenden Endplatte der Röhre, von der die Wellen
+erregt werden, kann überraschen. Sie beruht darauf, daß, wenn auch die
+Excursion der Schwingungen dieselbe bleibt, doch die <b><i>Arbeit,</i></b> die die schwin-
+gende Platte durch die Bewegung der Luft leistet, eine außerordentlich ver-
+schiedene ist, je nachdem sie gegen verdichtete oder nicht verdichtete Luft
+sich vorwärts bewegen muß. Bei stärkster Resonanz findet am Ende der
+Röhre auch der stärkste Wechsel von Verdichtung und Verdünnung statt.</p>
+<hr>
+<p>Gehen wir jetzt über zu dem anderen Falle, wo der Schall im freien
+Raume in größerer Entfernung von der Oeffnung der Röhre erregt wird,
+letztere aber an der Stelle <i>x = &2014; <b>l</b></i> fest geschlossen ist. Da die in dem
+tönenden Punkte, dessen Coordinaten &03B1;, &03B2;, &03B3; seien, erregten Wellen von der
+festen <i>yz</i>-Ebene reflectirt werden, müssen wir uns die Bewegung im freien
+Raume zusammengesetzt denken aus den Wellen, welche der tönende Punkt
+erregt, und denen, welche sein Spiegelbild, dessen Coordinaten &2014; &03B1;, &03B2;, &03B3;
+sind, erregen würde. Setzen wir das Geschwindigkeitspotential &03A6; dieser Be-
+wegung auf Seite der positiven <i>x</i> im freien Raume
+(16.) <formel>
+wo <b><i>r</i></b>&0375; die Entfernung von Punkte &03B1;, &03B2;, &03B3; und <b><i>r</i></b>&0375;&0375; die von seinem Spiegel-
+bilde &2014; &03B1;, &03B2;, &03B3; bedeutet, so ist an der ganzen <i>yz</i>-Ebene
+<formel>
+Ist der tönende Punkt weit von der Oeffnung der Röhre entfernt und diese klein
+gegen die Wellenlänge, so können wir die kleinen Verschiedenheiten des Werthes
+von &03A6; in verschiedenen Punkten der Oeffnung vernachlässigen und hier setzen:
+<formel>
+wo
+<formel>
+<formel>
+<pb="48"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Innerhalb der Röhre setzen wir dann
+(16<i><up>a</up></i>.) <formel>
+Dann ist &03A6; an der Oeffnung continuirlich und <formel> innen und außen eben da
+gleich Null. Innerhalb der Röhre können wir bei dieser Annahme <formel>
+setzen, indem wir die verschwindend kleinen Werthe, welche es am nicht
+cylindrischen Theile der Röhre annimmt, vernachlässigen. Nur am ver-
+schlossenen Ende ist <formel> im Allgemeinen nicht gleich Null. Hier müssen wir
+setzen:
+<formel>
+und das Geschwindigkeitspotential im ganzen Raume gleich &03A6; + &03A8;, wo &03A8; das
+von uns früher bestimmte Bewegungspotential der ebenen Wellen in der Röhre,
+die in den freien Raum übergehen, ist. Dadurch ist allen Bedingungen der
+Aufgabe genügt. Wir haben also für <i>x = &2014; <b>l</b></i>
+(16<i><up>b</up></i>.) <formel>
+also
+(16<i><up>c</up></i>.) <formel>
+Das Minimum von <b><i>A</i></b> bei gleichen Werthen von <b><i>G</i></b> tritt offenbar ein, wenn
+sin <b><i>kl</i></b> = 0; dann wird <b><i>A</i></b> = 0, und die Bewegung im freien Raume so, als
+wäre die Mündung der Röhre gar nicht in der <i>yz</i>-Ebene vorhanden. Das
+Maximum aber tritt ein, wenn cos <b><i>k</i></b> (<b><i>l</i></b> + &03B1;) = 0; dann wird
+<formel>
+und wieder wird beim Maximum der Resonanz der Phasenunterschied von
+einer Viertel-Undulation zwischen den erregenden Wellen und den erregten ein-
+treten. Das Maximum der Resonanz in der an einem Ende geschlossenen
+Röhre tritt also in beiden Fällen, sowohl wenn der Schall vom geschlossenen
+als wenn er vom offenen Ende her der Luft der Röhre mitgetheilt wird, ein,
+wenn die reducirte Länge der Röhre ein ungerades Vielfache der Viertel-
+wellenlänge ist. Aus dem Reciprocitätsgesetz des Schalles, welches in (9<i><up>a</up></i>.)
+ausgesprochen ist, läßt sich nun dasselbe Gesetz auch für jede andere Lage
+des tönenden Punktes ableiten. Es paßt auf unseren Fall direct die Form,
+welche wir dem Gesetz in (9<i><up>c</up></i>.) gegeben haben. Die dortige Constante <b><i>A,</i></b>
+<pb="49"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+welche der Intensität des tönenden Punktes <b><i>b</i></b> entspricht, indem dort &03A6; unend-
+lich wird, wie
+<formel>
+wollen wir gleich 1 setzen. Der Werth von <formel> ist in (9<i><up>c</up></i>.) an der er-
+schütterten Stelle <b><i>da</i></b> der Wand gleichgesetzt worden:
+<formel>
+Am Grunde der Röhre ist <formel>, und in dem Falle, wo der Boden
+der Röhre erschüttert wird, von uns in den Gleichungen (15.) und (15<i><up>a</up></i>.)
+gesetzt worden:
+<formel>
+wir haben also die Constante <b><i>B</i></b> der Gleichung (9<i><up>c</up></i>.) mit <b><i>G</i></b> zu vertauschen
+und im Ausdrucke für &03A8; statt 2&03C0;<b><i>nt</i></b> zu schreiben 2&03C0;<b><i>nt</i></b> &2014; &03C4;&0375;&0375;. Außerdem ist
+in dem Falle unserer Anwendung nicht blos ein einziges Flächenelement <b><i>da</i></b>
+erschüttert worden, sondern der ganze Boden der Röhre; wir müssen also
+über diesen integriren, und erhalten so
+(17.) <formel>
+wo die Integration über den Boden der Röhre auszudehnen ist. Ist nun der
+tönende Punkt vom Boden der Röhre nur weit genug entfernt, daß hier ebene
+stehende Wellen entstehen können, also &03A6; hier von der Form ist:
+<formel>
+so wird aus (17.)
+<formel>
+(17<i><up>a</up></i>.) <formel>
+Nun ist der Werth der Functionen &03A8;' und &03A8;? für jeden Punkt <i>b</i> proportional
+der in den Gleichungen (10.) bis (16.) vorkommenden Constanten <b><i>A,</i></b> deren
+Verhältniß zu <b><i>G</i></b> für eine bestimmte Röhrenlänge gegeben ist in Gleichung (15.).
+Also ist bei wechselnder Röhrenlänge auch <b><i>f</i></b> proportional dem Verhältniß <formel>.
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 7</bs>
+<pb="50"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+Dies Verhältniß wird, wie aus (15.) hervorgeht, ein Maximum, wenn
+<formel></p>
+<p>Daraus folgt also, daß auch <b><i>bei einer beliebigen Lage des tönenden
+Punktes die ebenen Wellen im Innern der Röhre,</i></b> wenn dergleichen über-
+haupt entstehen, <b><i>das Maximum ihrer Intensität erreichen, wenn die Länge
+der Röhre ein ungerades Vielfaches der Viertelwellenlänge ist</i></b>.</p>
+<p>Die ebenen Wellen im Innern einer an beiden Seiten offenen Röhre
+lassen sich mittelst der aufgestellten Probleme behandeln, wenn die Mündungen
+der Röhre nach der von uns gemachten Annahme in zwei parallelen festen
+Ebenen liegen, die den Luftraum in zwei Theile trennen, und der Schall auf
+der einen Seite von einem weit entfernten tönenden Punkte ausgeht. Auf der
+einen Seite dieser Wand setzt man das Geschwindigkeitspotential gleich der in
+den Gleichungen (10.) bis (12.) gebrauchten Function &03A8;, auf der anderen
+Seite gleich der in den Gleichungen (16.) bis (16<i><up>e</up></i>.) vorkommenden Form
+&03A6; + &03A8;, welche der Resonanz einer Röhre entspricht, in welche der Schall
+von der offenen Mündung eintritt. Man hat dann nur die Coefficienten der
+ebenen Wellen in der Röhre in diesen beiden Ausdrücken des Geschwindig-
+keitspotentials so zu bestimmen, daß hier beide Functionen identisch werden.
+Da das weiter keine Schwierigkeiten macht, möge das Gesagte genügen. Die
+Resonanz in der Röhre wird am stärksten, wenn die reducirte Länge der
+Röhre, an welcher man die Correctionen für beide Mündungen anzubringen
+hat, ein Vielfaches der halben Wellenlänge ist.</p>
+<d2>§. 8.</d2>
+<p>Wir wollen schließlich noch eine Reihe von Röhrenformen aufsuchen,
+für welche mit den bis jetzt bereiten Hülfsmitteln der Analysis sich die Luft-
+bewegung in der Mündung und die reducirte Länge vollständig wenigstens
+für Schallwellen von so großer Wellenlänge bestimmen läßt, daß gegen diese
+die Dimensionen der Röhrenöffnung ihres Querschnitts und des von der Cy-
+lindergestalt abweichenden Theiles der Mündung verschwinden. Die Wand
+der Röhre sei übrigens eine Rotationsfläche, welche in kleiner Entfernung
+von der kreisförmigen Mündung, deren Radius <b><i>R</i></b> sei, übergeht in einen Cy-
+linder von kreisförmigem Querschnitt, dessen Radius wir <b><i>R</i><do>1</do></b> nennen wollen.
+Wir setzen ferner voraus, daß auch die Bewegung der Luft überall sym-
+metrisch um die Axe der Röhre vor sich gehe. Wir können nun im All-
+<pb="51"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+gemeinen nicht so zu Werke gehen, daß wir eine bestimmte Röhrenform
+annehmen und dazu die Potentiale der Bewegung suchen, sondern wir müssen
+umgekehrt von der Potentialfunction ausgehen und die dazu gehörige Röhrenform
+bestimmen, was sich in jedem Falle ausführen läßt. Nur müssen wir eben
+solche Formen der Potentialfunction suchen, welche Röhren geben, die in
+kleiner Entfernung von der Mündung in Cylinder übergehen.</p>
+<p>Dem Bewegungspotentiale der Luft haben wir die Form gegeben:
+<formel>
+Für die tieferen Theile der Röhre haben wir in (12<i><up>g</up></i>.) gefunden:
+(12<i><up>k</up></i>.) <formel>
+Im freien Raume ist aber, wenn wir <formel> setzen, welches, wie wir
+oben schon gefunden haben, mit <b><i>k</i></b> verschwindet, nach (11<i><up>d</up></i>.)
+<formel>
+welches innerhalb der Mündung, wo wir <b><i>kr</i></b>&0375; verschwinden lassen dürfen, wird
+(12<i><up>l</up></i>.) <formel>
+Sowohl (12<i><up>k</up></i>.) wie (12<i><up>l</up></i>.) giebt innerhalb der Mündung den gleichen Werth
+von <formel> und den Werth Null für <formel>. Sie gehen also an der Mündung der
+Röhre continuirlich in einander über. Längs der festen Wände des Luft-
+raumes geben beide <formel>, nur an dem nicht cylindrischen Theile der
+Röhrenwand wird dieser Differentialquotient nicht genau Null aber verschwin-
+dend klein. Es ist also &03A8;? unter dieser Annahme eine continuirliche Function,
+die den Bedingungen der Aufgabe Genüge leistet, und kann unmittelbar be-
+rechnet werden, nachdem &03A8;' gefunden ist.</p>
+<p>Die Function &03A8;' hat im freien Raume die Form:
+(18.) <formel>
+Im Innern der Röhre werden wir ihr eine andere analytische Form &03A8;<i><do>i</do></i> geben
+müssen, welche die Eigenschaft haben muß:
+1) im Innern der Röhre die Bedingung zu erfüllen:
+(18<i><up>a</up></i>.) <formel>
+<bs>7 *</bs>
+<pb="52"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+2) für große negative Werthe von <i>x</i> folgende Form anzunehmen:
+(18<i><up>b</up></i>.) <formel>
+3) an der Fläche der Oeffnung den Bedingungen zu genügen:
+(18<i><up>c</up></i>.) <formel>
+Dann wird die Form der Röhre gefunden durch die Bedingung, daß an der Wand
+(18<i><up>d</up></i>.) <formel>
+welche Form aber noch der Bedingung genügen muß, daß nur für solche
+Werthe von <i>x,</i> welche gegen die Wellenlänge &03BB; verschwindend klein sind,
+die Fläche eine merkliche Neigung gegen die <i>x</i> - Axe haben darf, weil wir
+vorher auch
+<formel>
+gesetzt haben längs der ganzen Ausdehnung der Röhrenwand, und weil nur
+unter dieser Bedingung die Form der Röhrenwand von der Wellenlänge un-
+abhängig gefunden wird. Indem wir setzen:
+<formel>
+und berücksichtigen, daß nach der Voraussetzung &03A8; nur eine Function von
+&03F1; und <i>x</i>, nicht von &03C9; sein soll, wird Gleichung (18<i><up>a</up></i>.)
+(18<i><up>e</up></i>.) <formel>
+Wir setzen:
+(19.) <formel>
+wo <i><b>E</b><do>m</do></i> beliebige Constanten, <b><i>U</i></b><do>(<i>m</i>&03F1;)</do> folgende Function bedeutet:
+(19<i><up>a</up></i>.) <formel> u. s. w.,
+und unter dem Summenzeichen für <i>m</i> diejenigen Werthe zu setzen sind, welche
+<formel> machen, wenn &03F1; = <b><i>R</i><do>1</do></b>. Dann ist &03A6; eine Function, welche der
+Differentialgleichung (18<i><up>e</up></i>.) Genüge leistet und an der Wand einer cylin-
+drischen Röhre vom Radius <b><i>R</i><do>1</do></b> auch der Bedingung genügt, daß <formel>.
+In dem Exponenten von <i>e</i> muß der Wurzel immer das positive Vorzeichen
+gegeben werden, wenn die Röhre unendlich lang ist, damit &03A6; für unendliche
+negative <i>x</i> endlich bleibt. Ist die Röhre aber irgendwo abgeschlossen, so sind
+<pb="53"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+auch negative Vorzeichen der Wurzel zu nehmen, und die Coefficienten der-
+selben so zu bestimmen, daß die Grenzbedingungen an dem geschlossenen
+Ende erfüllt werden. Da übrigens der kleinste Werth von <i>m<b>R</b></i><do>1</do>, der die Be-
+dingung <formel> für &03F1; = <b><i>R</i><do>1</do></b> erfüllt, 3,83171, der zweite 7,01751 ist, während
+die folgenden sich allmälig der Größe (<fr>a</fr> + &frac14;) &03C0; nähern, so nehmen alle diese
+Exponentialfunctionen schnell ab, wenn man sich von dem Ende der Röhre
+entfernt, an welchem sie einen merklichen Werth haben, und so oft die Länge
+der Röhre beträchtlich groß gegen den Durchmesser ist, werden sie in der
+Mitte oder am anderen Ende derselben zu vernachlässigen sein. Es wird also
+im Allgemeinen genügen, daß wir uns auf die Glieder beschränken, für welche
+die Wurzel im Exponenten ein positives Vorzeichen hat. Da übrigens <i>m<b>R</b></i><do>1</do>
+nach dem Gesagten eine endliche, <b><i>kR</i><do>1</do></b> aber eine verschwindend kleine Zahl
+ist, so können wir in dem Exponenten <b><i>k</i></b><up>2</up> gegen <i>m</i><up>2</up> vernachlässigen und setzen
+(19<i><up>b</up></i>.) <formel>
+Diese Function erfüllt also allerdings die Forderung der Gleichungen (18<i><up>a</up></i>.)
+und (18<i><up>b</up></i>.), welche wir oben für die Function &03A8;<i><do>i</do></i> aufgestellt haben, sie wird
+aber im Allgemeinen nicht der dritten Bedingung (18<i><up>c</up></i>.) entsprechen, daß,
+wenn wir setzen:
+<formel>
+auch sei:
+<formel>
+oder, da innerhalb der Oeffnung <b><i>kr</i></b> unendlich klein ist, kann man diese Be-
+dingung auch darauf reduciren, daß sein müßte:
+<formel>
+Wäre diese letztere Bedingung durch besondere Annahmen über die Größe
+der Coefficienten erfüllt, so würde die Gestalt der Röhre einfach cylindrisch
+sein. Ich habe aber keine Methode finden können, um die Coefficienten dieser
+Bedingung gemäß zu bestimmen und somit die Aufgabe für ganz cylindrische
+Röhren streng zu lösen. Auch läßt sich einsehen, daß die Convergenz der
+Reihe für &03A6; in Gleichung (19.) für diesen Fall eine sehr langsame sein
+würde, da die Geschwindigkeit der Lufttheilchen <formel> am Rande der Oeffnung,
+die durch eine scharfe rechtwinklige Kante begrenzt sein würde, unendlich
+<pb="54"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+groß wie (<b><i>R</i></b> &2014; &03F1;)<up>&2014; &frac13;</up> werden müßte, und daher die Reihe für <formel> für den
+Werth &03F1; = <b><i>R</i></b> und <i>x</i> = 0 überhaupt nicht convergiren kann.</p>
+<p>Wir fügen deshalb zu &03A6; noch eine andere Function hinzu, die in
+größerer Entfernung von der Oeffnung verschwindet, also auch nur in der
+Nähe der Oeffnung Einfluß auf die Gestalt der Röhre ausübt, aber die Con-
+tinuität an der Oeffnung herstellt.</p>
+<p>Bezeichnen wir der Einfachheit wegen die Potentialfunction einer auf
+der Kreisfläche der Oeffnung mit der Dichtigkeit <b><i>h</i></b> verbreiteten Masse mit
+<i><b>P</b><do>h</do></i>, also
+(20.) <formel>
+dieses Integral über die ganze Fläche der Oeffnung genommen. Wenn die
+Distanz des Punktes, für welchen wir <i><b>P</b><do>h</do></i> bestimmen, von der Oeffnung klein
+ist, so ist cos <b><i>kr</i></b> = 1 und
+(20<i><up>a</up></i>.) <formel>
+Setzen wir ferner
+(21.) <formel>
+(21<i><up>a</up></i>.) <formel>
+und bestimmen wir <b><i>l</i></b> so, daß in der Fläche der Oeffnung
+(21<i><up>b</up></i>.) <formel>
+was sich immer ausführen läßt, weil die Vertheilung einer Masse auf einer
+Kreisscheibe, die an der Oberfläche dieser Scheibe eine Potentialfunction von
+gegebener Größe giebt, nach bekannten Methoden gefunden werden kann.
+Setzen wir ferner auf Seite der positiven <i>x</i>, wie schon oben geschehen,
+(21<i><up>c</up></i>.) <formel>
+in der Röhre, also für negative <i>x</i>
+(21<i><up>d</up></i>.) <formel>
+so genügen die Functionen &03A8;' und &03A8;<i><do>i</do></i> allen für sie gestellten Bedingungen.
+Daß nämlich &03A8;' im freien Raume und &03A8;<i><do>i</do></i> im Innern der Röhre der Bedin-
+gung genügen:
+(18<i><up>a</up></i>.) <formel>
+ist aus der Bildungsweise dieser Functionen klar. Daß &03A8;<i><do>i</do></i> für große Werthe
+<pb="55"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+von &2014; <i>x</i> übergeht in
+<formel>
+erhellt daraus, daß <i><b>P</b><do>i</do></i> und <i><b>P</b><do>l</do></i> in einer gegen die Oeffnung der Röhre großen
+Entfernung unendlich klein werden, &03A6; aber wirklich in jene Form übergeht.
+Da ferner in der Fläche der Oeffnung
+(21<i><up>b</up></i>.) <formel>
+wird
+(21<i><up>e</up></i>.) <formel>
+Da ferner an der Fläche der Oeffnung
+<formel>
+und auf Seite der positiven <i>x</i>
+<formel>
+auf Seite der negativen aber
+<formel>
+so ist
+(21<i><up>f</up></i>.) <formel>
+Somit sind die gestellten Bedingungen (18<i><up>a</up></i>.), (18<i><up>b</up></i>.) und (18<i><up>c</up></i>.) erfüllt.</p>
+<p>Die Form der Röhrenwand wird endlich durch die Gleichung gegeben:
+(18<i><up>d</up></i>.) <formel>
+Da wir die Bedingung gemacht haben, daß, wenn <b><i>r</i></b> eine innerhalb des nicht
+cylindrischen Theiles der Röhre liegende Entfernung ist, <b><i>k</i></b><up>2</up><b><i>r</i></b><up>2</up> gegen 1 zu ver-
+nachlässigen sei, können wir entsprechend der zur Gleichung (7<i><up>d</up></i>.) gemachten
+Bemerkung in dieser Gleichung der Röhrenwand <i>k</i> = 0 setzen, werden dann
+aber natürlich auch die Aufgabe nur für solche Werthe von <b><i>k</i></b> als gelöst be-
+trachten dürfen, für welche diese Bedingung erfüllt ist. Dann ist also für
+diesen Zweck in der Nähe der Röhrenmündung zu setzen statt (19<i><up>b</up></i>.):
+(22.) <formel>
+(20<i><up>a</up></i>.) <formel>
+(21<i><up>a</up></i>.), (21<i><up>b</up></i>.) <formel>
+(21<i><up>d</up></i>.) <formel>
+<pb="56"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+In der That sind dann auch alle diese Functionen von einer solchen Form,
+daß sich ihr Werth in der Nähe der Mündung nicht ändert dadurch, daß man
+<i>k</i> = 0 setzt. Die Bedingung (18<i><up>d</up></i>.) ergiebt, daß die Röhrenwand eine zu allen
+Flächen, deren Gleichung &03A8;<i><do>i</do></i> = Const. ist, orthogonale Rotationsfläche sein muß,
+oder wenn wir die Gleichung der Röhrenwand (und überhaupt der Strömungs-
+curven) ausdrücken durch
+<formel>
+so muß sein:
+(22<i><up>a</up></i>.) <formel></p>
+<p>Zu bemerken ist noch, daß man, um die Form der Function &03A6;
+festzustellen, die Größe des Radius des cylindrischen Theiles der Röhre <b><i>R</i><do>1</do></b>
+bestimmen muß, weil von dessen Größe die in der Summe vorkommenden
+Werthe von <i>m</i> abhängen. Um <i><b>P</b><do>i</do></i> und <i><b>P</b><do>l</do></i> zu finden, muß wiederum die
+Größe des Radius der Oeffnung <b><i>R</i></b> festgestellt sein, und schließlich, wenn
+man die Röhrenform aus der Gleichung <formel> bestimmt, wird die Stromes-
+curve, welche von dem Rande der Oeffnung ausgeht, nicht nothwendig in
+einen Cylinder vom Radius <b><i>R</i><do>1</do></b> übergehen. Um dies nun zu bewirken, muß
+man eine der Constanten von &03A6; durch die oben gefundene Gleichung
+(12<i><up>b</up></i>.) <formel>
+bestimmen, worin in unserem Falle <b><i>Q</i></b> der Querschnitt der Röhre
+<formel>
+<formel>
+Daraus folgt:
+(22<i><up>b</up></i>.) <formel>
+Wenn <b><i>R</i></b> und <b><i>R</i><do>1</do></b> gegeben sind, giebt diese Gleichung eine Bedingung, welche
+durch die Coefficienten des Ausdrucks für &03A6; in (22.) erfüllt werden muß,
+so daß einer von ihnen durch die anderen bestimmt werden kann.</p>
+<d2>§. 9.</d2>
+<p>Wir wollen endlich noch die Röhrenformen berechnen, welche den
+einfachsten Annahmen über die Function &03A6; entsprechen. Setzen wir
+(23.) <formel>
+<pb="57"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+so wird nach (21<i><up>a</up></i>.)
+(23<i><up>a</up></i>.) <formel>
+und in der Ebene der Mündung nach (21<i><up>b</up></i>.)
+(23<i><up>b</up></i>.) <formel>
+woraus nach bekannten Sätzen über Electricitätsvertheilung auf einer leiten-
+den Kreisscheibe folgt, daß
+(23<i><up>c</up></i>.) <formel>
+Somit folgt aus Gleichung (22<i><up>b</up></i>.)
+(23<i><up>d</up></i>.) <formel>
+Den Unterschied &03B1; der wahren und reducirten Röhrenlänge haben wir oben
+(12<i><up>a</up></i>.) definirt durch die Gleichung:
+(12<i><up>f</up></i>.) <formel>
+Da <b><i>k</i></b>&03B1; eine sehr kleine Größe ist, so oft das Verhältniß <b><i>R</i><do>1</do></b> : <b><i>R</i></b> endlich ist,
+können wir in diesem Falle annähernd setzen:
+(23<i><up>e</up></i>.) <formel>
+wodurch für die hier in Betracht kommenden Röhrenformen der Unterschied
+zwischen wahrer und reducirter Länge gegeben ist, wenn die Radien des
+Cylinders und seiner Mündung bestimmt sind. Die reducirte Länge der Pfeife
+ist gleich der wahren, also &03B1; = <b><i>B</i></b> = 0, wenn <formel>.</p>
+<p>Wenn die Mündung ebenso weit ist wie der Cylinder, also <b><i>R = R</i><do>1</do></b>,
+wird <formel> und <formel>. Wenn <b><i>R</i></b> sehr klein gegen <b><i>R</i><do>1</do></b> ist, wird
+annähernd
+<formel>
+wie es schon oben für diesen Fall in (12<i><up>i</up></i>.) gefunden ist. Unter diesen Um-
+ständen kann natürlich nicht die abgekürzte Form (23<i><up>e</up></i>.) für die Gleichung (12<i><up>f</up></i>.)
+angewendet werden.</p>
+<p>Die Bedeutung der Function &03C7; der Gleichung (22<i><up>a</up></i>.), welche zur Be-
+stimmung der Strömungscurven dient, setzen wir durch folgende Gleichung fest:
+(24.) <formel>
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 8</bs>
+<pb="58"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren.</i></kt>
+worin unter dem Integralzeichen <i>x</i> einen constanten Werth behält. Daraus
+folgt zunächst:
+(24<i><up>a</up></i>.) <formel>
+Da wir nun für unseren jetzt vorliegenden Zweck uns erlauben durften in
+den Functionen &03A6;, <i><b>P</b><do>i</do></i> und <i><b>P</b><do>l</do></i> (s. (22.) und (20<i><up>a</up></i>.)), aus denen &03A8;<i><do>i</do></i> zusammen-
+gesetzt ist, <i>k</i> = 0 zu setzen, so reducirt sich die Gleichung (18<i><up>e</up></i>.) in der
+Nähe der Mündung auf
+<formel>
+und wir erhalten also
+<formel>
+(24<i><up>b</up></i>.) <formel>
+aus (24<i><up>a</up></i>.) und (24<i><up>b</up></i>.) folgt, daß die Function &03C7; der Bedingung genügt:
+(22<i><up>a</up></i>.) <formel>
+und daß in einer durch die <i>x</i> - Axe gelegten Ebene die Curven
+<c>&03F1;&03C7; = Const.</c>
+orthogonal sind zu den Curven
+<c>&03A8;<i><do>i</do></i> = Const.,</c>
+erstere also Stromescurven sind.</p>
+<p>Wenn wir in die Gleichung (24.) für &03A8;<i><do>i</do></i> setzen:
+(21<i><up>d</up></i>.) <formel>
+so können wir auch &03C7; ähnlich zerfällen
+(25.) <formel>
+(25<i><up>a</up></i>.) <formel>
+Da sich &03A6; hier reducirt auf
+<formel>
+<pb="59"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+so ist
+(25<up><i>b</i></up>.) <formel>
+Um die Berechnung von &03C7;&0375; abzukürzen, bemerke ich Folgendes. Es sei <b><i>W</i></b>
+eine Potentialfunction, die auf Seite der negativen <i>x</i> der Differentialgleichung
+genügt:
+<formel>
+und ferner sei
+(25<up><i>c</i></up>.) <formel>
+so ist
+(25<up><i>d</i></up>.) <formel>
+Nun ist <b><i>P</i></b><do><i>i</i></do> die Potentialfunction einer Masse, die mit der constanten Dichtigkeit
+<formel> auf einer Kreisscheibe vom Radius <b><i>R</i></b> ausgebreitet ist. Die Gleichung
+(25<up><i>c</i></up>.) erfüllen wir, wenn wir <b><i>W</i></b> zur Potentialfunction eines soliden Cylinders
+machen, dessen Basis die kreisförmige Röhrenmündung ist, und der von <i>x</i> = 0
+bis <i>x</i> = + &221E; reicht und mit Masse von der constanten Dichtigkeit <formel> ge-
+füllt ist. Man braucht sich nur den Cylinder um ein unendlich kleines Stück
+in der Richtung der positiven <i>x</i> verschoben zu denken und die neue Dichtigkeit
+so wie die neue Potentialfunction von der früheren abzuziehen, so erhält man
+das angegebene Resultat. Die Gleichung (25<up><i>d</i></up>.) kann man aber schreiben,
+weil <i>y</i> = &03F1; cos &03C9;:
+(25<up><i>e</i></up>.) <formel>
+Es ist aber <formel> die Potentialfunction der Oberfläche des Cylinders, die
+mit Masse von der Dichtigkeit <formel> bedeckt ist, wie sich wieder leicht
+ergiebt, wenn man den Cylinder in Richtung der negativen <i>y</i> unendlich wenig
+verschoben denkt. Also läßt sich &03C7;&0375; unmittelbar finden:
+(26.) <formel>
+Der Werth mit Hülfe elliptischer Integrale ausgedrückt ist folgender:
+(26<up><i>a</i></up>.) <formel>
+<bs>8 *</bs>
+<pb="60"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+worin gesetzt ist:
+<formel>
+oder in beiden Fällen:
+<formel>
+Uebrigens ist für sin &03D1;, für cos &03D1;, wie für &03BA;&0375; immer der positive Werth zu
+nehmen, der sich aus den obigen Formeln ergiebt.</p>
+<p>Endlich ergiebt sich &03C7;&0375;&0375; leicht aus den bekannten Sätzen über Potential-
+functionen, die durch elliptische Coordinaten ausgedrückt sind. Setzen wir
+<formel>
+so ist die Potentialfunction <i><b>P</b><do>l</do></i> einer Scheibe, auf welcher selbst die Potential-
+function constant gleich &frac12;<b><i>B</i></b> ist,
+<formel>
+Die Linien &03BC; = <b><i>C</i></b> sind confocale Hyperbeln und orthogonal gegen die Linien
+<b><i>s = C</i></b>, welche confocale Ellipsen sind. Da die letzteren in unserem Falle
+Curven gleichen Potentials sind, sind die Linien &03BC; = <b><i>C</i></b> Strömungscurven, und
+wir brauchen die Größe &03F1;&03C7;&0375;&0375; nur für den Scheitelpunkt derselben in der Scheibe
+zu bestimmen, so muß sie denselben Werth in der ganzen Länge haben.</p>
+<p>An der Scheibe selbst wird <i>s</i> = 0, für sehr kleine Werthe von <i>s</i> und
+&2014; <i>x</i> wird <formel>
+<pb="61"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+(27.) <formel>
+Um &03BC; in den bei den elliptischen Integralen gebrauchten Hülfsgrößen auszu-
+drücken, dient, wenn &03D1; für &03F1; &gt; <b><i>R</i></b> negativ genommen wird, die Gleichung
+<formel>
+Somit haben wir denn in den Gleichungen (25<up><i>b</i></up>.), (26.) und (27.) die Werthe
+von &03C7;<do>0</do>, &03C7;&0375; und &03C7;&0375;&0375;, und die Gleichung der Strömungscurven wird:
+<formel>
+Soll die Strömungscurve der Röhrenwand entsprechen, so muß sie durch den
+Rand der Oeffnung gehen, und die Constante ist:
+<formel>
+folglich wird die Gleichung der Röhrenwand
+(27<up><i>b</i></up>.) <formel>
+Um die Röhrenform zu erhalten, für welche die Differenz zwischen der wahren
+und reducirten Länge verschwindet, müssen wir <formel> setzen,
+dann verschwindet auch &03C7;&0375;&0375;, und die Gleichung der Röhrenwand reducirt sich auf
+<formel>
+Es giebt dies eine Röhre mit trompetenförmigem, schwach erweitertem Ende.
+Die Krümmung der Wand ist überall nach innen convex, und ihr Krümmungs-
+halbmesser, der vom cylindrischen Theile an gegen die Mündung allmälig ab-
+nimmt, wird am Rande der Oeffnung zuletzt unendlich klein.</p>
+<p>Macht man den Radius der Oeffnung gleich dem der Röhre, so nähert
+sich die Form der Röhre am meisten einem reinen Cylinder. Es wird dann
+die Differenz zwischen der reducirten und wahren Länge der Röhre, wie
+schon oben bemerkt, gleich &frac14;&03C0;<b><i>R</i></b>. Da in diesem Falle die Größe
+<formel>
+immer sehr klein bleibt, und also auch sin &03D1; für alle nicht zu kleinen Werthe
+von &03BA;&0375; sehr klein bleibt, kann man zur Berechnung der Röhrenform von &03BA; = 0
+bis &03BA; = sin 89<up>0</up> die höheren Potenzen als die erste von &03BA;&0375; sin &03D1; und als die
+zweite von sin &03D1; vernachlässigen. Die so vereinfachte Gleichung für die
+Röhrenwand, aus der man sin &03D1; für eine Reihe von Werthen von &03BA;&0375; leicht
+<pb="62"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+mit Hülfe der Tafeln von <b><i>Legendre</i></b> berechnen kann, ist:
+<formel>
+Aus den zusammengehörigen Werthen von &03BA;&0375; und &03D1; lassen sich endlich <i>x</i>
+und &03F1; berechnen, deren Werthe in diesem Falle sind:
+<formel>
+In der folgenden Tabelle bedeutet demnach <formel> den Abstand zwischen der
+Wand unserer Pfeifenform und der des Cylinders, ausgedrückt in Theilen des
+Radius, und ebenso <formel> den Abstand der betreffenden Stelle von der Oeffnung,
+ausgedrückt in Theilen des Radius.</p>
+<tab>
+<p>In größerer Entfernung von der Scheibe findet man
+<formel>
+<pb="63"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+Am schnellsten ändert die Curve ihre Natur dicht an der Oeffnung. Zwischen
+&03BA;&0375; = 0 und &03BA;&0375; = sin 1<up>0</up> kann man folgende annähernd richtige Gleichung brauchen:
+<formel>
+Wenn &03BA;&0375; sehr klein wird, verschwindet log &03BA;&0375; gegen <formel> und tang &03D1; muß
+sehr groß, &03D1; nahe gleich &frac12;&03C0; werden, dann ist
+<formel>
+oder
+<formel>
+oder, da <i>x</i> auch sehr klein gegen &03F1; &2014; <b><i>R</i></b> werden muß,
+<formel>
+Aus dieser letzten Gleichung folgt, daß die Wandfläche die verlängerte Ebene
+der Oeffnung an deren Rande tangirt und hier einen unendlich kleinen Krüm-
+mungshalbmesser hat.</p>
+<d2>§. 10.</d2>
+<p>Das verallgemeinerte Theorem von <b><i>Green</i></b> liefert uns auch einige all-
+gemeine Gesetze der Schallbewegung für solche Hohlkörper, deren sämmt-
+liche Dimensionen verschwindend klein gegen die Wellenlänge sind, und die
+mit einer oder mehreren Oeffnungen versehen sind, deren Flächeninhalt sehr
+klein gegen die ganze Oberfläche des Hohlraumes ist. Da solche Hohlkörper
+mit kleinen Oeffnungen beim Anblasen oder durch Resonanz sehr tiefe Töne
+geben, so ist die erstere Bedingung für diese ihre tiefsten Töne immer erfüllt.</p>
+<p>Wenn &03A8; das Geschwindigkeitspotential im Innern des überall begrenz-
+ten Raumes <b><i>S</i></b> darstellt, der keine tönenden Punkte enthalten soll, und der
+Punkt &03B1;, &03B2;, &03B3;, von welchem ab die Entfernung <i>r</i> gerechnet wird, innerhalb
+des Raumes <b><i>S</i></b> liegt, so ist nach (7<up><i>b</i></up>.)
+<formel>
+Wenn nun alle Dimensionen des Raumes <b><i>S</i></b> gegen die Wellenlänge ver-
+schwindend klein sind, so können wir <b><i>kr</i></b> gegen 1 vernachlässigen, so oft <i>r</i>,
+wie hier der Fall ist, die Entfernung zweier Punkte, die innerhalb <b><i>S</i></b> gelegen
+sind, bezeichnet. Wir setzen also
+<formel>
+<pb="64"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+Dies in die obige Gleichung eingeführt giebt:
+(28.) <formel>
+Nehmen wir jetzt an der Raum <b><i>S</i></b> sei von einer festen Wand umgeben, in
+der nur eine oder einige Oeffnungen seien, an der festen Begrenzung sei
+überall <formel>, in den sämmtlichen Oeffnungen aber habe <formel> endliche posi-
+tive Werthe. Das Verhältniß der Fläche sämmtlicher Oeffnungen zur ganzen
+Oberfläche des Raumes <b><i>S</i></b> sei &03B7;<up>2</up>:1, und &03B7; eine verschwindend kleine Größe,
+so ist das Integral <formel> von derselben Ordnung kleiner Größen wie &03B7;<up>2</up>,
+das erste Integral rechts <formel> aber von der Ordnung <i>k</i><up>2</up><i>r</i><up>2</up>&03B7;<up>2</up>, also
+zu vernachlässigen. Lassen wir nun <i>k</i> immer mehr sich der Null nähern, so
+muß dabei offenbar das Integral <formel> und also auch die Function &03A8;
+selbst immer größer und größer werden. Bezeichnen wir <i>k</i><up>2</up>&03A8; mit &03C7;, so
+würde &03C7; eine Function sein, die bei abnehmendem <i>k</i> von constanter Größen-
+ordnung bleibt, und in eine Function übergeht, welche der Differentialgleichung
+&2207;&03C7; = 0 in ganzer Ausdehnung des Raumes <b><i>S</i></b> genügt, und für welche an der
+ganzen Oberfläche des Raumes <b><i>S</i></b> <formel>. Daraus folgt nach den bekannten
+Sätzen über electrische Potentialfunctionen, daß &03C7; im ganzen Raume <b><i>S</i></b> con-
+stant sein müsse.</p>
+<p>Dem entsprechend wollen wir nun zeigen, daß, wenn die Dimensionen
+des Raumes <b><i>S</i></b> überall endlich sind, d. h. wenn man den Raum <b><i>S</i></b> nicht durch
+eine unendlich kleine Schnittfläche in zwei Theile von endlicher Größe zer-
+legen kann, daß dann &03A8; höchstens in unendlich kleinen Theilen des Raumes <b><i>S</i></b>
+von der Ordnung &03B7;<up>2</up> sich um endliche Theile seiner Größe von einer Con-
+stanten <b><i>C</i></b> unterscheiden könne. Wenn &03A8; und seine ersten Differentialquo-
+tienten nämlich, wie es hier sein soll, innerhalb <b><i>S</i></b> überall continuirlich und
+eindeutig sind, so ist, wie bekannt:
+<formel>
+wo die dreifachen Integrale über den ganzen Raum <b><i>S</i></b> auszudehnen sind.
+Berücksichtigt man, daß <i>k</i><up>2</up>&03A8; + &2207;&03A8; = 0, und denkt man sich weiter beide
+Seiten der Gleichung mit einer constanten Größe &03B5;<up>2</up> multiplicirt, die so ge-
+wählt sein soll, daß &03B5;<up>2</up> &03A8; eine endliche Größe ist, wozu nach Gleichung (28.)
+<pb="65"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+&03B5;<up>2</up> von gleicher Ordnung mit <formel> sein muß, so erhält man:
+(28<up><i>a</i></up>.) <formel>
+<formel>
+Da nun die Integrale auf der rechten Seite dieser Gleichung verschwindend
+klein von der Ordnung &03B7;<up>2</up> sind, so ist es auch das dreifache Integral links.
+Da hier aber unter dem Integralzeichen eine überall positive Größe steht, so
+können die Werthe von <formel>, <formel> und <formel> im Allgemeinen selbst nur
+von derselben Ordnung kleiner Größen wie &03B7; sein, oder wenigstens nur in
+Theilen des Raumes <b><i>S</i></b>, welche selbst von der Ordnung &03B7;<up>2</up> sind, endlich werden.</p>
+<p>Nun denke man die Flächen construirt, welche der Gleichung
+<c>&03A8; = Const.</c>
+entsprechen, und für den Theil des Raumes <b><i>S</i></b>, welcher zwischen zwei be-
+liebigen solchen Flächen liegt, bilde man das Integral
+(28<up><i>b</i></up>.) <formel>
+Nach dem Vorausgesagten kann dies Integral nur von derselben Ordnung
+kleiner Größen wie &03B7; sein. Man kann nun die Integration so ausführen, daß
+man zuerst diejenigen Theile des Integrals zusammennimmt, welche zwischen
+zwei unendlich nahen Potentialflächen liegen. Es sei <i>d</i>&03C9; ein Flächenelement
+einer solchen Fläche, in der das Potential den Werth &03A8; hat, <i>dn</i> die Ent-
+fernung zwischen <i>d</i>&03C9; und der nächsten Fläche, an der der Werth des Po-
+tentials &03A8; + <i>d</i>&03A8; ist, dann ist <i>d</i>&03C9; <i>dn</i> ein Element des Volumens und
+<formel>
+also
+<formel>
+wenn &03A8;<do>0</do> und &03A8;<do>1</do> die Werthe von &03A8; an den äußersten Potentialflächen sind,
+zwischen denen man integrirt. Für jeden Werth von &03A8; ist nun &222B;<i>d</i>&03C9; gleich
+<bs>Journal für Mathematik Bd. LVII. Heft 1. 9</bs>
+<pb="66"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+dem Flächeninhalt <b><i>Q</i></b> desjenigen Theiles der betreffenden Potentialfläche, der
+innerhalb des Raumes <b><i>S</i></b> liegt. Also wird
+<formel>
+worin <b><i>Q</i></b> als Function des Werthes von &03A8; anzusehen ist. Wenn nun <b><i>Q</i></b> überall
+endlich ist, darf die Differenz &03B5;&03A8;<do>0</do> &2014; &03B5;&03A8;<do>1</do>, innerhalb deren die Variable sich
+ändert, nur von der Ordnung &03B7; sein, da der Werth von &039E; von der Ordnung &03B7;
+ist. Oder es muß, wenn &03B5;&03A8;<do>0</do> &2014; &03B5;&03A8;<do>1</do> endlich ist, innerhalb dieses Intervalles <b><i>Q</i></b>
+von der Ordnung &03B7; sein. Da nun nach unserer Voraussetzung der Raum <b><i>S</i></b>
+nicht eine solche Gestalt haben darf, daß man ihn durch eine unendlich kleine
+Schnittfläche in zwei Theile von endlichem Volumen theilen kann, wie das
+z. B. der Fall sein würde, wenn er aus zwei durch ein röhrenförmiges Stück
+verbundenen Hohlräumen bestände, so folgt aus dem Gesagten, daß nur in un-
+endlich kleinen Theilen desselben, und namentlich auch nur in unendlich klei-
+nen Theilen seiner Oberfläche, der Werth von &03B5;&03A8; um eine endliche Größe
+von einem constanten Werthe <b><i>C</i></b> abweichen könne.</p>
+<p>Nach diesen Bemerkungen reducirt sich die Gleichung (28.) auf
+(28<up><i>c</i></up>.) <formel>
+Wenn wir nämlich die vom Punkte &03B1;, &03B2;, &03B3; auf die Tangentialebene von <b><i>d</i></b>&03C9;
+gefällte Normale <b><i>n</i></b> nennen, ist <formel>, und <formel> gleich
+dem Volumen eines Kegels, dessen Grundfläche <i>d</i>&03C9; und dessen Spitze &03B1;, &03B2;, &03B3;
+ist. Deshalb ist:
+<formel>
+Setzen wir jetzt voraus, der Raum <b><i>S</i></b> habe eine Oeffnung, die in einem nahe-
+hin ebenen Theile der Wand gelegen sei, dessen Ebene wir äußerlich un-
+endlich verlängert und den freien Raum nach einer Seite begrenzend voraus-
+setzen, wählen wir wie früher diese Ebene als Ebene der <i>yz</i> und verlegen den
+Anfangspunkt der Coordinaten in die Oeffnung selbst. Nehmen wir ferner an,
+daß die Vibrationen des Hohlraumes erregt werden durch einen Schallwellen-
+zug, der gegen die Oeffnung schlägt. Wir müssen nun an der Oeffnung den
+Werth von &03A8; so bestimmen, daß er außen und innen continuirlich wird und
+<pb="67"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+im Innern in einer gegen die Dimensionen der Oeffnung großen Entfernung
+in den constanten Werth <b><i>C</i></b>cos (2&03C0;<i>nt</i>) übergeht.</p>
+<p>Es sei <i>h</i> eine Größe, welche in verschiedenen Punkten der Oeffnung
+der Röhre verschiedene Werthe hat Wir setzen, indem wir die Integration
+über die Fläche der Oeffnung ausdehnen, für den freien Raum
+(29.) <formel>
+Dieses Geschwindigkeitspotential stellt einen Zug ebener Wellen dar, die an
+der <i>yz</i>-Ebene reflectirt sich in stehende verwandeln, und ein System fort-
+schreitender Wellen, welche von der Oeffnung ausgehen. Statt der unendlich
+ausgedehnten ebenen Wellen läßt sich übrigens ebenso gut die etwas allge-
+meinere Voraussetzung der Gleichung (16.) hier anwenden, daß nämlich die
+Wellen von einem weit von der Oeffnung entfernten tönenden Punkte aus-
+gehen, dann bekommen sie, wie dort gezeigt, dicht vor der Oeffnung die in
+(29.) angenommene Form.</p>
+<p>An der <i>yz</i>-Ebene ist außerhalb der Oeffnung <formel>, in der Oeffnung
+(29<up><i>a</i></up>.) <formel>
+und annähernd
+(29<up><i>b</i></up>.) <formel>
+Innerhalb des Raumes <b><i>S</i></b> setzen wir dagegen
+(29<up><i>c</i></up>.) <formel>
+Dann ist in der Oeffnung
+(29<up><i>d</i></up>.) <formel>
+(29<up><i>e</i></up>.) <formel>
+Die Werthe von <formel> aus (29<up><i>a</i></up>.) und (29<up><i>d</i></up>.) sind identisch. Damit auch die
+von &03A8;&0304; aus (29<up><i>b</i></up>.) und (29<up><i>e</i></up>.) identisch seien, muß sein:
+(29<up><i>f</i></up>.) <formel>
+(29<up><i>g</i></up>.) <formel>
+<bs>9 *</bs>
+<pb="68"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+Es muß also die Größe <i>h</i> für die einzelnen Punkte der Oeffnung so bestimmt
+werden, daß ihre Potentialfunction innerhalb der Oeffnung constant wird. Die
+Bedingung endlich, daß <formel> ist längs der Oberfläche von <b><i>S</i></b> mit Ausnahme
+der Mündung, wird durch die Gleichung (29<up><i>c</i></up>.) erfüllt, wenn die Wand, in der
+die Oeffnung sich befindet, so weit merklich eben ist, als das Potential von <i>h</i>
+nicht gegen <b><i>C</i></b> verschwindet.</p>
+<p>Endlich wird für diesen Fall die Gleichung (28<up><i>c</i></up>.)
+(29<up><i>h</i></up>.) <formel>
+Aus (29<up><i>f</i></up>.) und (29<up><i>h</i></up>.) folgt
+(29<up><i>i</i></up>.) <formel>
+Nennen wir nun <b><i>M</i></b> die Masse, welche nöthig ist, um, auf der Fläche der
+Oeffnung passend vertheilt, in dieser die Potentialfunction constant gleich 1
+zu machen, so ist
+(29<up><i>k</i></up>.) <formel>
+da die Dichtigkeit <i>h</i> nach (29<up><i>g</i></up>.) den Potentialwerth &frac12; (<b><i>C &2014; H</i></b>) hervorbringt.
+Wir haben also nach (29<up><i>f</i></up>.)
+(29<up><i>l</i></up>.) <formel>
+Das Maximum des Potentials der stehenden Wellen im freien Raume ist <formel>,
+das Maximum in dem Hohlkörper <b><i>S</i></b> ist <b><i>C</i></b>. Aus (29<up><i>i</i></up>.) und (29<up><i>l</i></up>.) folgt
+<formel>
+Dieses Verhältniß erreicht seinen Minimalwerth, die Resonanz wird also am
+stärksten, wenn das erste der beiden Quadrate, gegen welches im Allgemeinen
+das zweite verschwindend klein ist, gleich Null wird. Die Bedingung für das
+Maximum der Resonanz ist also:
+(30.) <formel>
+oder wenn wir statt <b><i>k</i></b> seinen Werth setzen durch die Schwingungszahl <b><i>n</i></b> und
+die Schallgeschwindigkeit <b><i>a</i></b> ausgedrückt
+(3<up><i>a</i></up>.) <formel>
+<pb="69"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+so ist:
+(30<up><i>a</i></up>.) <formel>
+Ist die Oeffnung kreisförmig, so ist (s. (23<up><i>b</i></up>.) und (23<up><i>c</i></up>.))
+<formel>
+oder, wenn wir die Fläche der Oeffnung mit <i>s</i> bezeichnen,
+<formel> <formel>,
+<formel>
+Wenn wir für die Schallgeschwindigkeit den Werth 332260<up>mm</up> (entsprechend
+0<up>0</up> und trockner Luft) nehmen, so wird
+<formel>
+während <b><i>Sondhauß</i></b> aus seinen Versuchen für <i>n</i> die empirische Formel für
+kreisförmige und quadratische Oeffnungen herleitet:
+<formel>
+worin nur der von <b><i>Sondhauß</i></b> gegebene Zahlencoefficient halbirt ist, weil
+<b><i>Sondhauß</i></b> nach der Art der französischen Physiker die Schwingungszahlen der
+Töne doppelt so hoch nimmt, als es nach unserer Bezeichnungsweise geschieht.</p>
+<p>Noch besser stimmt die Berechnung für einige Versuche von <b><i>Wertheim</i></b>,
+bei denen das Verhältniß der Oeffnung zum Volumen des Hohlkörpers noch
+kleiner ist, als bei den Versuchen von <b><i>Sondhauß</i></b>. Ich habe aus den Ver-
+suchen, welche er mit drei verschiedenen Glaskugeln angestellt hat <fn="*)">Annales de Chimie et de Physique Sér. 3, Tome XXXI, p. 428.</fn>, deren
+Volumen durch Eingießen von Wasser verkleinert wurde, diejenigen nach
+der theoretischen Formel berechnet, bei welchen der Durchmesser der Oeffnung
+weniger als 1/10 des Durchmessers einer Kugel war, deren Volumen dem des
+Hohlraumes gleich ist, und setze die Zahlen hierher, um zu zeigen, wie gut
+die theoretische Formel mit den Versuchen übereinstimmt.</p>
+<pb="70"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+<tab>
+<p>Zur Erleichterung der Vergleichung sind in der letzten Rubrik unter &2206;
+die Logarithmen des berechneten <b><i>n</i></b> dividirt durch das beobachtete <b><i>n</i></b> hinzu-
+gefügt. Der Logarithmus des halben Tones 16/15 beträgt 0,028. Die Werthe
+von &2206; zeigen, daß nur bei den verhältnißmäßig zur Oeffnung kleineren Wer-
+then des Volumens die Differenz zwischen Rechnung und Beobachtung sich
+einem halben Tone nähert.</p>
+<hr>
+<p>Für Ellipsen von der Excentricität &03B5; und der großen Axe <b><i>R</i></b> ist die
+Masse <b><i>M</i></b>, welche, auf der Fläche passend vertheilt, in dieser das constante
+<pb="71"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+Potential 1 giebt <fn="*)">S. <i>Clausius</i> in <i>Poggendorff</i>s Annalen LXXXVI S. 161.</fn>,
+<formel>
+worin <b><i>K</i></b><do>&03B5;</do> das ganze elliptische Integral erster Gattung für den Modul &03B5; be-
+zeichnet. Es wird also nach (30<up><i>a</i></up>.) für Hohlräume mit einer elliptischen
+Oeffnung
+<formel>
+oder wenn man den Flächeninhalt <i>s</i> der elliptischen Oeffnung einführt und setzt:
+<formel>
+so wird
+<formel>
+Der Werth von <i>n</i><up>2</up> ist also von dem für eine kreisförmige Oeffnung gültigen
+durch den Factor <formel> verschieden, und da dieser Factor größer ist als 1,
+so wird der Ton einer elliptischen Oeffnung von gleicher Fläche etwas höher
+als der einer kreisförmigen.</p>
+<hr>
+<p>Hat der Hohlraum noch eine zweite Oeffnung, die ebenfalls in einem
+nahehin ebenen Theile der Wand liegt, so setze man für den äußeren vor
+ihr liegenden Raum
+<formel>
+in dem ihr benachbarten Theile des inneren Raumes
+<formel>
+Es sind wie vorher an der Oeffnung die Werthe von <formel> übereinstimmend,
+die Werthe von &03A8;&0304; werden:
+<formel>
+Es muß also sein:
+<formel>
+<pb="72"/>
+<kt><i><g>Helmholtz</g>, über Luftschwingungen in offenen Röhren</i>.</kt>
+und setzen wir wie bei der ersten Oeffnung in (29<up><i>k</i></up>.)
+<formel>
+so wird in den von der Oeffnung entfernteren Stellen des inneren Raumes
+<formel>
+Dies muß aber gleich werden dem früher festgesetzten Werthe von &03A8; im
+Innern der Kugel:
+<formel>
+Daraus folgt, daß
+<formel>
+Aus der zweiten Gleichung folgt, daß &03C4; sehr klein ist, und demgemäß aus
+der ersten, daß mit Vernachlässigung kleiner Größen
+<c><b><i>C</i></b> = <b><i>C</i></b><do>1</do>.</c>
+Nun wird aus Gleichung (28<up><i>c</i></up>.)
+<formel>
+oder
+(31.) <formel>
+dazu
+<formel>
+(31<up><i>a</i></up>.) <formel></p>
+<p>Damit <formel> ein Minimum werde, und die stärkste Resonanz ein-
+trete, setzen wir
+(31<up><i>b</i></up>.) <formel>
+durch welche Gleichung die Tonhöhe der stärksten Resonanz bestimmt ist,
+wie es in (30.) für eine Oeffnung geschehen war. Diese Gleichung stimmt,
+wenn die Oeffnungen geometrisch ähnlich sind, mit dem von <b><i>Sondhauß</i></b> aus
+den Versuchen abgeleiteten Gesetze. Sind beide Oeffnungen congruent, so
+verhält sich die Schwingungszahl des Körpers zu der desselben Körpers mit
+einer Oeffnung, wie <formel>. Der Ton ist also im ersten Falle um eine ver-
+minderte Quinte höher als im zweiten Falle, was genau mit einigen Ver-
+suchen von <b><i>Sondhauß</i></b> <fn="*)"><i>Poggendorff</i>s Annalen LXXXI S. 366.</fn> übereinstimmt.</p>
+<p>Heidelberg, im März 1859.</p>
+<hr>

@@ -1,0 +1,1980 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><g>DIE</g>
+<b>LAGERUNG DER ATOME</b>
+<g>IM
+<b>RAUME</b>
+VON
+<k>Dr.</k> J. H. <k>van &2019;t</k> HOFF.
+Nach</g>
+<b>des Verfassers Broschüre &201E;La chimie dans l&2019;espace&201C;</b>
+<g>deutsch bearbeitet
+von
+<k>Dr.</k> F. HERRMANN</g>,
+Assistenten am landwirthschaftlichen Institute der Universität zu Heidelberg.
+<hr>
+<g>Nebst einem Vorwort
+von
+<k>Dr.</k> JOHANNES WISLICENUS</g>,
+Professor der Chemie an der Universität
+zu Würzburg.
+<hr>
+<g>MIT IN DEN TEXT EINGEDRUCKTEN HOLZSTICHEN</g>.
+<hr>
+<g>BRAUNSCHWEIG,
+DRUCK UND VERLAG VON FRIEDRICH VIEWEG UND SOHN.
+1877</g>.</front>
+<pb>
+<front><c><b><g>ANKÜNDIGUNG</g>.</b></c>
+<hr>
+<p>Diese Schrift ist eine <g>freie Bearbeitung</g> der von
+J. H. <g>van &2019;t Hoff</g> verfassten im Jahre 1875 erschienenen Bro-
+schüre &201E;La chimie dans l&2019;espace&201C;.</p>
+<p>Sie soll den Nachweis liefern, dass die Verbindungen eines
+Kohlenstoffatomes mit vier verschiedenen einfachen oder zusammen-
+gesetzten Radicalen je zwei Fälle räumlicher Isomerie bieten
+müssen. Hieran schliesst sich die Begründung der Analogie, welche
+zwischen der Circularpolarisation fester Krystalle und der soge-
+nannten optischen Activität von Kohlenstoffverbindungen in Lösung
+besteht. Die Schrift ist somit als ein werthvoller Beitrag zur
+Moleculartheorie zu betrachten.</p>
+<p><g>Braunschweig</g>, im Februar 1877.</p>
+<p><et><b><g>Friedrich Vieweg und Sohn</g>.</b></et></p></front>
+<pb>
+<front><g>DIE</g>
+<b>LAGERUNG DER ATOME</b>
+<g>IM
+<b>RAUME.</b></g></front>
+<hr>
+<pb>
+<pb>
+<front><g>DIE</g>
+<b>LAGERUNG DER ATOME</b>
+<g>IM
+<b>RAUME</b>
+VON
+<k>Dr.</k> J. H. <k>van &2019;t</k> HOFF.
+Nach</g>
+<b>des Verfassers Broschüre &201E;La chimie dans l&2019;espace&201C;</b>
+<g>deutsch bearbeitet
+von
+<k>Dr.</k> F. HERRMANN</g>,
+Assistenten am landwirthschaftlichen Institute der Universität zu Heidelberg.
+<hr>
+<g>Nebst einem Vorwort
+von
+<k>Dr.</k> JOHANNES WISLICENUS</g>,
+Professor der Chemie an der Universität
+zu Würzburg.
+<hr>
+<g>MIT IN DEN TEXT EINGEDRUCKTEN HOLZSTICHEN</g>.
+<hr>
+<g>BRAUNSCHWEIG,
+DRUCK UND VERLAG VON FRIEDRICH VIEWEG UND SOHN.
+1877</g>.</front>
+<pb>
+<front>Das Recht der Uebersetzung in fremden Sprachen ist vorbehalten.</front>
+<pb>
+<d1><b><g>VORWORT DES ÜBERSETZERS</g>.</b></d1>
+<hr>
+<p><in>D</in>as vorliegende Schriftchen ist eine freie Bearbei-
+tung der von J. H. <g>van &2019;t Hoff</g> verfassten und bei
+P. M. <g>Bazendijk</g> in Rotterdam 1875 erschienenen
+Broschüre &201E;La chimie dans l&2019;espace&201C;. Die anfänglich
+beabsichtigte Uebersetzung dieser Broschüre gestal-
+tete sich nach und nach durch verschiedene Ab-
+weichungen vom Original zu der vorliegenden Bear-
+beitung, welche zwar den wesentlichen Inhalt des
+Originals wiederzugeben sich bestrebt, jedoch von
+dem ursprünglichen Wortlaute nur Weniges noch
+beibehalten hat. Die erwähnten Abweichungen sind
+von zweierlei Art, einestheils Auslassungen, andern-
+theils Zusätze, so dass das Ganze trotz einem in
+mancher Hinsicht bereicherten Inhalt an Umfang das
+Original wenig übertreffen wird. Weggelassen sind
+in der Bearbeitung alle Speculationen, welche sich
+auf Körper mit geschlossener Kohlenstoffkette (aro-
+matische Verbindungen) beziehen, sowie eine Reihe
+von sehr eingehenden und geistreichen Betrachtungen
+über die Zweiwerthigkeit des Kohlenstoffatomes.
+Erstere erschienen mir nicht fest genug begründet
+und von den letzteren glaube ich, dass sie von der
+Verfolgung des vorgesteckten Zieles etwas zu weit
+<pb="VI"/>
+<kt>Vorwort des Uebersetzers.</kt>
+abschweifen. Die Zusätze bestehen in einer ausführ-
+licheren und etwas präciseren Darstellung der for-
+mellen Entwickelung der Hypothese, sowie in einer
+ausführlicheren Herleitung der Analogie, welche
+zwischen den circularpolarisirenden Krystallen und
+der mit optischer Activität begabten Kohlenstoffver-
+bindungen besteht.</p>
+<p>Ausserdem ist die Einrichtung getroffen bei Vor-
+bringung von Thatsachen auf die betreffende Origi-
+nalliteratur zu verweisen, während von einer Discus-
+sion der angeführten Arbeiten abgesehen wurde im
+Hinblick auf die engen Grenzen, welche dem vor-
+liegenden Schriftchen gesteckt sind, das seinen ur-
+sprünglichen Charakter als Broschüre durchaus bewah-
+ren soll. Ein am Schluss hinzugefügter Anhang
+enthält die Beschreibung der zur Anschaulichkeit
+erforderlichen Modelle, welche nach den im Texte
+beigefügten Grundrissen wohl leicht construirt wer-
+den können. Herrn Dr. <g>van &2019;t Hoff</g> spreche ich
+an dieser Stelle meinen herzlichen Dank aus, nicht
+nur für die grosse Zuvorkommenheit, mit welcher er
+alle von mir getroffenen Veränderungen billigte, son-
+dern auch für das zahlreiche mir zur Verfügung
+gestellte Material, welches theils in Berichtigungen
+der Originalschrift, theils in höchst werthvollen Zu-
+sätzen bestand, so dass in der That der Inhalt die-
+ser Bearbeitung gegenüber dem des Originals eine
+Bereicherung erfahren konnte.</p>
+<p><et><b>F. <g>Herrmann</g>.</b></et></p>
+<pb>
+<d1></d1>
+<p><in>D</in>ie Zeit liegt nicht weit hinter uns, in welcher von
+Seiten der Vertreter vorgeschrittenster theoretisch-
+chemischer Anschauungen wiederholt lauter Protest
+gegen den Gedanken erhoben wurde, als könne die
+Chemie jemals dazu schreiten wollen, zur Erklärung
+der Eigenschaften einer Verbindung die räumliche
+Lagerung der Atome im Molecül heranzuziehen.
+Veranlasst wurden diese Verwahrungen durch mehr-
+seitiges hartnäckiges Missverstehen des Ideeninhaltes
+der sogenannten Structurchemie, &2014; ihre Berech-
+tigung trugen sie in dem damaligen Zustande des
+empirischen Erkenntnissmateriales und der das In-
+teresse der Forschung vornehmlich in Anspruch neh-
+menden Fragen.</p>
+<p>Dass die ein Molecül zusammensetzenden Elemen-
+taratome &2014; sofern solche überhaupt anzunehmen
+sind &2014; in irgend welcher Weise räumlich geordnet
+sein müssen, dass die gleichen Elementaratome bei
+gleicher Reihenfolge ihrer gegenseitigen Bindung in
+complicirteren Molecülen räumlich noch immer ver-
+<pb="VIII"/>
+schiedenartig gruppirt sein können und dass damit
+möglicherweise Veranlassung zu geringen Abweichun-
+gen in den Eigenschaften structuridentischer Molecüle
+gegeben sein kann, lag schon damals dem specula-
+tiven Denken nahe, ja es gab vereinzelte Thatsachen,
+welche bereits in dieser Richtung vorgehende Er-
+klärungsversuche herausforderten. Freilich wurden
+solche Gedanken entweder gar nicht oder nur sehr
+schüchtern und unbestimmt geäussert.</p>
+<p>Indessen gingen die den heutigen Standpunkt
+der chemischen Wissenschaft vorwiegend charakteri-
+sirenden Untersuchungen isomerer organischer Ver-
+bindungen ihren naturgemässen Weg weiter und führ-
+ten zu unumstösslichen Thatsachen, für deren Verständ-
+niss die Structurtheorie durchaus nicht mehr ausreichte.
+Ich selbst sah mich bei meiner Arbeit über die Para-
+milchsäure genöthigt den Satz auszusprechen, dass
+die Thatsachen dazu zwingen, die Verschiedenheit
+isomerer Molecüle von gleicher Structurformel durch
+verschiedene Lagerung ihrer Atome im Raume zu
+erklären und damit offen für die Berechtigung der
+Chemie einzutreten, geometrische Anschauungen in
+die Lehre von der Constitution der Verbindungs-
+molecüle hereinzuziehen.</p>
+<p>Das Verdienst, diesen Schritt in ganz bestimm-
+ter und höchst glücklicher Weise gethan zu haben,
+gebührt <g>van &2019;t Hoff</g>. Die Fundamentalidee seiner
+Theorie liegt in dem Nachweise, dass die Verbin-
+dungen eines Kohlenstoffatomes mit vier verschie-
+<pb="IX"/>
+denen einfachen oder zusammengesetzten Radicalen
+je zwei Fälle räumlicher Isomerie bieten müssen.
+So frappant dieser Gedanke beim Durchlesen des
+<g>van &2019;t Hoff</g>&2019;schen Schriftchens &201E;La chimie dans l&2019;es-
+pace&201C; wirkte, so fesselnd war für mich seine weitere
+mathematische Entwickelung und die Anwendung
+auf die immer zahlreicher werdenden Fälle der von
+mir als &201E;geometrische&201C; bezeichneten Isomerien und
+auf die optisch activen organischen Substanzen.</p>
+<p>Mag es auch sein, dass die Ausführungen
+<g>van &2019;t Hoff</g>&2019;s theilweise über das gegenwärtige Be-
+dürfniss hinausgehen, dass sich einzelne ihrer spe-
+ciellen Anwendungen später nicht vollständig bestä-
+tigen mögen: einen wirklichen und wichtigen Schritt
+vorwärts hat die Theorie der Kohlenstoffverbindungen
+damit gethan und dieser Schritt ist ein organischer
+und innerlich nothwendiger. Er entwickelt die bis-
+her best begründeten Anschauungen in logisch con-
+sequenter Weise und dient ihnen zur Stütze, indem
+er sie auf thatsächlich beobachtete Fälle ausdehnt,
+welche jenseits ihrer Grenze zu liegen schienen.</p>
+<p>Obgleich Dr. <g>van &2019;t Hoff</g> sein Schriftchen meh-
+reren, den betreffenden Fragen näher stehenden For-
+schern übersendete, so ist der Inhalt desselben doch
+weit weniger bekannt geworden als es die vorgetra-
+genen Ideen verdienen. Es erscheint daher als ein
+zeitgemässes Unternehmen, durch eine deutsche Aus-
+gabe für die weitere Verbreitung derselben Sorge zu
+tragen. Herr Dr. <g>Felix Herrmann</g>, welcher mit Ver-
+<pb="X"/>
+ständniss, lebhaftestem Interesse und selbstständigem
+Urtheile die <g>van &2019;t Hoff</g>&2019;sche Broschüre durch-
+gearbeitet hatte, übernahm es gern, sich dieser Auf-
+gabe zu unterziehen und lieferte mit Zustimmung des
+Herrn Verfassers und zum Theil direct von dem-
+selben unterstützt, die hiermit den deutschen Che-
+mikern vorgelegte Bearbeitung, welche vor der
+ursprünglichen Ausgabe einige nicht unwesentliche
+Vorzüge voraus hat.</p>
+<p>Dass die <g>van &2019;t Hoff</g>&2019;sche Theorie und dieses
+Schriftchen an sich meiner empfehlenden Worte nicht
+bedürfen, davon bin ich fest überzeugt. Wenn ich
+sie trotzdem gern gab. so beabsichtigte ich damit
+zumeist dem Wunsche <g>van &2019;t Hoff</g>&2019;s nach einer Dis-
+cussion und Beurtheilung seiner Theorie meinerseits
+öffentlich gerecht zu werden.</p>
+<p><g>Würzburg</g>, im October 1876.</p>
+<p><et><b><g>Johannes Wislicenus</g>.</b></et></p>
+<pb>
+<con><c><b><g>INHALT</g>.</b></c>
+<hr>
+Seite
+<c><g>Erster Abschnitt</g>.</c>
+Formelle Entwickelung der Hypothese _ _ 1
+<c><g>Zweiter Abschnitt</g>.</c>
+Anwendung der gefundenen Resultate zur Erklärung verschiedener
+Fälle von Isomerie _ _ 19
+<c><g>Dritter Abschnitt</g>.</c>
+Anwendung der Hypothese zur Erklärung der optischen Activität
+von Kohlenstoffverbindungen _ _ 25
+Anhang _ _ 46</con>
+<hr>
+<pb>
+<pb>
+<d1><g>Erster Abschnitt</g>.
+<b>Formelle Entwickelung der Hypothese.</b></d1>
+<sp_t>Das chemische Molecül ein stabiles System von materiellen Punkten.
+Unzulänglichkeit der modernen chemischen Formeln. Räumliche An-
+ordnung von vier an ein Kohlenstoffatom gebundenen Gruppen. Möglich-
+keit von verschiedener Anordnung im Falle die vier Gruppen von ein-
+ander verschieden sind. Das asymmetrische Kohlenstoffatom. Combinationen
+mit zwei oder mehreren in einfacher gegenseitiger Bindung stehenden
+Kohlenstoffatomen. Entwickelung der Formel N<do>1</do> = 2<up>n</up>. Symmetrische
+Formeln. Entwickelung der Formel N<do>2</do> = 2p<up>&2014;1</up> (2p + 1). Combinationen
+mit doppelter gegenseitiger Bindung von Kohlenstoffatomen. Combinationen
+mit dreifacher gegenseitiger Bindung von Kohlenstoffatomen. Nicht-
+anwendbarkeit der Hypothese auf Verbindungen mit geschlossener Kohlen-
+stoffkette. Ableitung der Formtetra&00EB;der.</sp_t>
+<p>Die moderne chemische Theorie hat zwei schwache Punkte.
+Sie spricht sich weder über die relative Stellung, welche die
+Atome im Molecüle einnehmen, noch über deren Bewegungs-
+art aus.</p>
+<p>Aus diesem Grunde herrscht noch Zweifel über alle Fragen
+der chemischen Statik und Dynamik. Der gewöhnliche Ent-
+wickelungsgang einer Hypothese, welche sich mit der Lösung
+derartiger Probleme beschäftigt, gebietet zuvörderst in der erst-
+genannten Richtung zu arbeiten.</p>
+<bs><g>van &2019;t Hoff</g>, Lagerung der Atome im Raume. 1</bs>
+<pb="2"/>
+<kt>Erster Abschnitt.</kt>
+<p>Man könnte nun einwerfen, dass eine jede Bewegung die
+Form eines Systemes materieller Punkte, dessen statische Ver-
+hältnisse man eben festgestellt hat, ändern muss. Die intra-
+molecularen Bewegungen aber müssen periodische sein, wenn
+anders die veränderlichen physikalischen Eigenschaften eines
+Molecüles eine Function der Atombewegung sind. Denn man
+könnte die Stetigkeit dieser Eigenschaften unter gleichen äusse-
+ren Verhältnissen nicht zugestehen, ohne die Annahme der
+Periodicität der Ursache.</p>
+<p>In jedem Falle wird es also möglich sein, die relative Stel-
+lung der Atome im Molecül in einer Phase ihrer Bewegung sich
+vorzustellen.</p>
+<p>Das Resultat einer solchen Betrachtungsweise ist begreiflich
+ein unvollständiges. Wenn wir als Möglichkeiten der Isomerie
+bei einer chemischen Formel die möglichen Fälle verschiedener
+relativer Stellung der Atome im Molecül bezeichnen, so könnte
+ein sehr kleiner Unterschied in dieser Stellung, welcher z. B.
+einer Aenderung der Vibrationsgeschwindigkeit beim Durchgang
+durch dieselbe Phase zuzuschreiben wäre, Veranlassung zu einem
+Fall von Isomerie geben, der durch eine statische Formel nicht
+darstellbar ist. Indessen lässt die vorliegende Hypothese die-
+jenigen Fälle von Isomerie, welche als ein Resultat der intra-
+molecularen Bewegung betrachtet werden können, ausser Acht;
+sie deutet also ein Minimum, nicht ein Maximum der Anzahl
+von möglichen Isomeriefällen an.</p>
+<p>Eine einfache Ueberlegung lässt die Unzulänglichkeit un-
+serer modernen sogenannten Structurformeln einsehen. Diese
+stellen das Molecül, welches doch drei Dimensionen besitzt, in
+der Ebene dar. Der Widerspruch mit den Thatsachen, in
+welchen man geräth, wenn man die Atome als in einer Ebene
+gelegen betrachtet, liegt auf der Hand. Es erscheint deshalb
+eine Reform der herrschenden Ansichten, zunächst für das am
+gründlichsten durchforschte Gebiet der Chemie, für die Kohlen-
+stoffverbindungen wünschenswerth.</p>
+<p>Bei der einfachsten graphischen Wiedergabe einer Formel,
+welche die vier Affinitäten eines jeden Kohlenstoffatomes dar-
+<pb="3"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+stellt in zwei in einer Ebene gelegenen zu einander senkrechten
+Richtungen, in deren Durchschnittspunkt das Kohlenstoffatom
+sich befindet, seien R<up>1</up>, R<up>2</up> u. s. w. einwerthige mit dem Kohlen-
+stoffatom verbundene Elementaratome oder Gruppen. Alsdann
+wird eine Verbindung der allgemeinen Formel C (R<up>1</up>)<do>4</do> dargestellt
+<ab>Fig. 1.</ab>
+<abb>
+<ab>Fig. 2.</ab>
+<abb>
+<ab>Fig. 3.</ab>
+<abb>
+durch Fig. 1, wobei unter der Voraussetzung der Gleichwerthig-
+keit der Bindungen eine Verschiedenheit in der gegenseitigen
+Anordnung der Gruppen nicht möglich ist. Das Gleiche ist
+der Fall bei Verbindungen der Formel C (R<up>1</up>)<do>3</do> R<up>2</up> (Fig. 2). Allein
+die Formeln C (R<up>1</up>)<do>2</do> (R<up>2</up>)<do>2</do> und C (R<up>1</up>)<do>2</do> R<up>2</up> R<up>3</up> erlauben jede zwei
+verschiedene Anordnungen der sättigenden Gruppen: Fig. 3
+<ab>Fig. 4.</ab>
+<abb>
+<ab>Fig. 5.</ab>
+<abb>
+<ab>Fig. 6.</ab>
+<abb>
+und 4, Fig. 5 und 6, welche Bilder von Isomeren sind, während
+man für die Formel C R<up>1</up> R<up>2</up> R<up>3</up> R<up>4</up> drei Symbole construiren kann:
+<ab>Fig. 7.</ab>
+<abb>
+<ab>Fig. 8.</ab>
+<abb>
+<ab>Fig. 9.</ab>
+<abb>
+Fig. 7, 8 und 9. Durch keine Thatsache aber wird das Vor-
+handensein so vieler Isomerien bestätigt.</p>
+<p>Es ist ferner augenscheinlich, dass in der Formel C (R<up>1</up>)<do>3</do> R<up>2</up>,
+dargestellt in Fig. 10, die Gruppe R<up>1</up><do>(b)</do> einen anderen Charakter
+<bs>1 *</bs>
+<pb="4"/>
+<kt>Erster Abschnitt.</kt>
+haben muss, als die mit R<up>1</up><do>(a)</do> bezeichneten Gruppen, das heisst:
+in einer Verbindung der Formel C (R<up>1</up>)<do>3</do> R<up>2</up>, wie z. B. im Methyl-
+chlorid, müsste das eine der drei Wasserstoffatome einen Spe-
+cialcharakter besitzen. Dieses Ergebniss aber wird durch keine
+Thatsache gerechtfertigt.</p>
+<p>Alle diese Schwierigkeiten schwinden, wenn man sich die
+vier Affinitäten des Kohlenstoffatomes gegen die Ecken eines
+Tetra&00EB;ders gerichtet denkt, dessen Centrum von dem Kohlen-
+stoffatom selbst eingenommen wird. Alsdann ist das Bestehen
+von Isomeren für Verbindungen der Formeln C (R<up>1</up>)<do>4</do>, C (R<up>1</up>)<do>3</do> R<up>2</up>,
+C (R<up>1</up>)<do>2</do> (R<up>2</up>)<do>2</do> und C (R<up>1</up>)<do>2</do> R<up>2</up> R<up>3</up> nicht einzusehen, da in diesen
+Fällen eine Verschiedenheit der relativen Stellung der einzelnen
+Gruppen sich nicht denken lässt.</p>
+<p>Einzig für den Fall, dass mit einem Kohlenstoffatom vier
+von einander verschiedene einwerthige Gruppen verbunden
+sind, lässt sich ein Fall von Isomerie voraussehen, wie dies die
+Verschiedenheit der Figuren 11 und 12 beweist. Denkt man
+<ab>Fig. 10.</ab>
+<abb>
+<ab>Fig. 11.</ab>
+<abb>
+<ab>Fig. 12.</ab>
+<abb>
+sich nämlich der Länge des Körpers nach in die Kante R<up>1</up> R<up>3</up>
+versetzt, so dass sich der Kopf bei R<up>1</up> befindet, und betrachtet
+die Kante R<up>2</up> R<up>4</up>, so befindet sich R<up>2</up> im einen Falle rechts (Fig. 11)
+im anderen links (Fig. 12) vom Beschauer. Mit anderen Worten:
+in dem Falle, dass die vier Affinitäten eines Kohlenstoffatomes
+durch vier von einander verschiedene Gruppen gesättigt sind,
+führt unsere Betrachtungsweise zur Construction von zwei, und
+nur von zwei, verschiedenen Tetra&00EB;dern, welche nicht zur Deckung
+gebracht werden können, von denen das eine das Spiegelbild
+des anderen ist und die füglich mit dem von <g>Naumann</g> ge-
+<pb="5"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+wählten Namen als enantiomorphe Gestalten bezeichnet werden
+können. Das heisst: es existiren zwei Isomere der allgemeinen
+Formel C R<up>1</up> R<up>2</up> R<up>3</up> R<up>4</up> <fn="1)">Für den Zweck der Anschaulichkeit ist unerlässlich die Construc-
+tion von Modellen aus Cartonpapier, deren Beschreibung und Grundrisse
+in einem Anhange am Schlusse beigefügt sind. Vergl. Anhang I.</fn>.</p>
+<p>Ein Kohlenstoffatom, welches sich unter der eben ange-
+führten Bedingung befindet, wollen wir als ein <g>asymmetrisches</g>
+bezeichnen aus Gründen, welche am Schlusse dieses Abschnittes
+entwickelt sind. In den Formeln ist das Symbol für ein solches
+Atom ein schräges (italienisches) <i>C</i>.</p>
+<p>Der im Vorhergehenden gewonnenen Vorstellungsweise ge-
+mäss wird eine Combination, in welcher eine einfache Bindung
+zweier Kohlenstoffatome vorkommt, deren Bezeichnung in den
+modernen Formeln das Symbol
+<c>C &2014; C</c>
+ist, dargestellt durch zwei Tetra&00EB;der, welche sich in einem ge-
+meinschaftlichen Eckpunkte berühren.</p>
+<p>Die Richtung der sechs freien Affinitäten ist nach den sechs
+übrigen Ecken des Systems. Entsprechend der vorhergehenden
+Betrachtung seien auch hier wieder die sechs freien Affinitäten
+<ab>Fig. 13.</ab>
+<abb>
+durch sechs einwerthige Gruppen
+R<up>1</up>, R<up>2</up>, R<up>3</up> u. s. w. abgesättigt
+(Fig. 13).</p>
+<p>Nehmen wir das so erhaltene
+System als ein stabiles an, so er-
+giebt eine einfache Ueberlegung,
+dass zwölf in Bezug auf ihre gegen-
+seitige Lage verschiedene Anord-
+nungen der sättigenden Gruppen
+möglich sein werden, welche im
+Folgenden in der Weise aufgeführt
+sind, dass unter eine jede an das
+eine Kohlenstoffatom gebundene Gruppe die im Systeme zunächst
+liegende Gruppe des anderen Kohlenstoffatomes gestellt ist:</p>
+<pb="6"/>
+<kt>Erster Abschnitt.</kt>
+<tab>
+<p>Hiernach wären also zwölf Möglichkeiten der Isomerie für
+die allgemeine Formel <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) <i>C</i> (R<up>4</up> R<up>5</up> R<up>6</up>) gegeben. Wir
+haben jedoch das System als stabil vorausgesetzt, während perio-
+dische Bewegungen des Molecüles zugegeben werden müssen.
+Eine der einfachsten periodischen Bewegungen würde die Rota-
+tion des ganzen Systems um eine den beiden Tetra&00EB;dern ge-
+meinschaftliche Axe sein. Diese Rotation der Atome um die
+angegebene Axe könnte in Bezug auf die an je ein Kohlenstoff-
+atom angelagerten Gruppen im entgegengesetzten Sinne ge-
+schehen. Wird dies zugegeben, so ist leicht einzusehen, dass
+die Anordnungen 5) und 9) nur Bilder verschiedener Bewegungs-
+phasen der Gruppirung 1) sind (Fig. 14, 15 und 16). Die gleiche
+<ab>Fig. 14.</ab>
+<abb>
+<ab>Fig. 15.</ab>
+<abb>
+<ab>Fig. 16.</ab>
+<abb>
+Beziehung verbindet die Gruppirungen 6) und 10) mit 2), 7) und
+11) mit 3), 8) und 12) mit 4), so dass nur die Anordnungen 1),
+2), 3) und 4) als wesentlich von einander verschiedene Bilder
+von Isomeren übrig bleiben.</p>
+<pb="7"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+<p>Um für diese vier Fälle noch eine einfachere Bezeichnung
+zu finden, nehme man an, die vier Ecken des Systemes (Fig. 17)
+<ab>Fig. 17.</ab>
+<abb>
+R<up>1</up>, R<up>2</up>, R<up>4</up> und R<up>5</up> liegen in einer
+Ebene, alsdann schlage man die
+Dreiecke R<up>1</up> R<up>2</up> R<up>3</up> und R<up>4</up> R<up>5</up> R<up>6</up> in
+diese Ebene um, so erhält man für
+die vier Gruppirungen 1), 10), 7)
+und 4), welche vier Isomeren ent-
+sprechen, die Figuren 18, 19, 20
+und 21. Diese unterscheiden sich
+von einander nur in der Reihen-
+folge der an den Eckpunkten be-
+findlichen Gruppen R<up>1</up>, R<up>2</up> u. s. w.
+und zwar folgen sich die Indices
+in natürlicher Reihe, das eine Mal
+nach rechts, das andere Mal nach
+links herum, welche beiden Fälle
+in den Figuren durch Pfeile an-
+gedeutet und durch die Zeichen
++ und &2014; unterschieden sind.
+Versteht man unter dem Symbol
++ (A) die Reihenfolge der Grup-
+pen R<up>1</up> R<up>2</up> R<up>3</up>, unter &2014; (A) die entgegengesetzte R<up>1</up> R<up>3</up> R<up>2</up>, und
+ebenso unter + (B) die Reihenfolge R<up>4</up> R<up>5</up> R<up>6</up>, unter &2014; (B) die
+<ab>Fig. 18.</ab>
+<abb>
+<ab>Fig. 19.</ab>
+<abb>
+<ab>Fig. 20.</ab>
+<abb>
+<ab>Fig. 21.</ab>
+<abb>
+<pb="8"/>
+<kt>Erster Abschnitt.</kt>
+entgegengesetzte R<up>4</up> R<up>6</up> R<up>5</up>, so können durch diese vereinfachte
+Bezeichnungsweise die oben erwähnten Gruppirungen 1), 10), 7)
+und 4) der Reihe nach ausgedrückt werden durch die Symbole:</p>
+<table>
+<r><cel>+ (A)</cel><cel>+ (A)</cel><cel>&2014; (A)</cel><cel>&2014; (A)</cel></r>
+<r><cel>&2014; (B)</cel><cel>+ (B)</cel><cel>&2014; (B)</cel><cel>+ (B)</cel></r>
+</table>
+<p>Hierbei ist nicht erforderlich, dass in der Reihe (B) alle
+Gruppen von denen der Reihe (A) verschieden sind. Bedingung
+ist nur, dass die beiden Kohlenstoffatome asymmetrisch sind,
+dass also die Gruppen der Reihe (A) ebenso wie die der Reihe (B)
+unter einander verschieden sind <fn="1)">Vergl. Anhang II.</fn>.</p>
+<p>Für den Fall, dass in der Reihe (B) zwei Gruppen einander
+gleich sind, dass also nur das eine Kohlenstoffatom asymmetrisch
+ist, kann eine Aenderung der Reihenfolge (B) nicht möglich sein,
+es ist also + (B) = &2014; (B) und für diesen Fall, welcher durch
+die allgemeine Formel <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) C (R<up>4</up> R<up>4</up> R<up>5</up>) ausgedrückt wird,
+<ab>Fig. 22.</ab>
+<abb>
+<ab>Fig. 23.</ab>
+<abb>
+sind nur zwei Isomere möglich (Fig. 22 und 23), deren Symbole
+die folgenden sind:</p>
+<table>
+<r><cel>+ (A)</cel><cel>&2014; (A)</cel></r>
+<r><cel>0 (B)</cel><cel>0 (B)</cel></r>
+</table>
+<p>Die erhaltenen Resultate lassen sich durch folgende Sätze
+ausdrücken:</p>
+<pb="9"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+<p>1) Ein einziges asymmetrisches Kohlenstoffatom in einer
+Combination irgend welcher Art mit einfacher Bindung der
+Kohlenstoffatome lässt zwei Isomere voraussehen.</p>
+<p>2) Jedes hinzutretende asymmetrische Kohlenstoffatom ver-
+mehrt diese Zahl. Von einer Formel, welche zwei asymmetri-
+sche Kohlenstoffatome enthält, sind vier Isomere möglich.</p>
+<p>Unsere Betrachtungsweise kann ausgedehnt werden auf
+Combinationen, in denen beliebig viele asymmetrische Kohlen-
+stoffatome vorkommen. Für die allgemeine Formel
+<c><i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) <i>C</i> (R<up>4</up> R<up>5</up>) <i>C</i> (R<up>6</up> R<up>7</up> R<up>8</up>)</c>
+erhält man acht Isomere, deren Symbole zufolge der ange-
+wandten Bezeichnung die nachstehenden sind:
+<tab>
+wenn unter
+<tab>
+verstanden wird.</p>
+<p>Auf gleiche Weise gelangt man zur Zahl von 16 Isomeren
+für Combinationen mit 4, von 32 für solche mit 5 asymmetri-
+schen Kohlenstoffatomen u. s. w. und erhält das allgemeine
+Resultat:</p>
+<p>Eine Combination, welche bei einfacher Bindung der Kohlen-
+stoffatome unter einander n asymmetrische Kohlenstoffatome
+enthält, lässt N<do>1</do> Isomere voraussehen, wobei
+<c>N<do>1</do> = 2<up>n</up>,</c>
+während die moderne Theorie die Möglichkeit einer Isomerie
+im bezeichneten Falle überhaupt nicht erkennen lässt.</p>
+<p>Das so gefundene allgemeine Resultat erleidet einige Ab-
+änderung für den Fall, dass unter den sättigenden Gruppen
+Gleichheit in der Weise besteht, dass die Formel eine symme-
+trische ist. Die einfachste Formel dieser Art ist:
+<c><i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>).</c></p>
+<p>Hierbei ist nach der oben angewandten Bezeichnungsweise
+<pb="10"/>
+<kt>Erster Abschnitt.</kt>
+(A) = (B) und die Symbole für die vier Isomerien des allge-
+meinen Falles verwandeln sich in die folgenden:</p>
+<table>
+<r><cel>+ (A)</cel><cel>+ (A)</cel><cel>&2014; (A)</cel><cel>&2014; (A)</cel></r>
+<r><cel>&2014; (A)</cel><cel>+ (A)</cel><cel>&2014; (A)</cel><cel>+ (A)</cel></r>
+</table>
+<p>Die Bilder der vier Isomeren Fig. 18, 19, 20 und 21 gehen
+über in die entsprechenden Figuren 24, 25, 26 und 27. Es ist
+<ab>Fig. 24.</ab>
+<abb>
+<ab>Fig. 25.</ab>
+<abb>
+<ab>Fig. 26.</ab>
+<abb>
+<ab>Fig. 27.</ab>
+<abb>
+nun leicht einzusehen, dass die Figuren 24 und 27 zwei Bilder
+ein und derselben Gruppirung sind, denn nach der Umkehrung
+im Raume von unten nach oben liefert die Anordnung, deren
+Bild Fig. 24 ist, die Fig. 27. Es ist also:
+<c><formel></c>
+und infolge dessen beschränkt sich die Zahl der Isomeren für
+den angezogenen Fall auf drei <fn="1)">Vergl. Anhang III.</fn>.</p>
+<p>Der zunächst zu betrachtende Fall einer symmetrischen
+Formel: <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) C (R<up>4</up> R<up>4</up>) <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>), ebenso wie <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>)
+C (R<up>4</up> R<up>5</up>) <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) kann, wie leicht begreiflich, auf den vorher-
+gehenden zurückgeführt werden und liefert also auch nur drei
+Isomere.</p>
+<p>Die symmetrische Formel:
+<c><i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) <i>C</i> (R<up>4</up> R<up>5</up>) <i>C</i> (R<up>4</up> R<up>5</up>) <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>)</c>
+<pb="11"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+enthält vier asymmetrische Kohlenstoffatome und lässt also im
+Allgemeinen 24 = 16 Isomere voraussehen.</p>
+<p>Die 16 Isomeren des allgemeinen Falles sind:
+<tab></p>
+<p>Da die vorliegende Formel aber symmetrisch ist, so be-
+stehen die Gleichungen (A) = (D) und (B) = (C). Werden
+diese Werthe eingesetzt, so ist ersichtlich, dass die Symbole
+2, 3, 4, 6, 8, 12 der Reihe nach nur die im Raume umgekehrten
+Gruppirungen, deren Symbole 9, 5, 13, 11, 15, 14 sind, vor-
+stellen, so dass also nur 10 Isomere übrig bleiben. Um das
+allgemeine Gesetz abzuleiten, geben wir folgende Anordnung, in
+welcher die Symbole derjenigen Gruppirungen, welche nur ein-
+mal vorkommen, von den übrigen abgetrennt sind:
+<tab></p>
+<p>Aus dieser Anordnung ersieht man, dass die allgemeine
+Formel, welche die Anzahl der Isomeren einer Combination von
+symmetrischer Formel mit n asymmetrischen Kohlenstoffatomen
+anzeigt, durch folgenden Ausdruck gegeben ist:
+<c><formel></c></p>
+<pb="12"/>
+<kt>Erster Abschnitt.</kt>
+<p>Da die Zahl der asymmetrischen Kohlenstoffatome in einer
+symmetrischen Formel stets eine gerade sein muss, so kann
+man n durch 2 p ersetzen. Der gegebene Ausdruck wandelt sich
+alsdann um in:
+<c><formel></c></p>
+<p>Die erhaltenen allgemeinen Resultate seien nochmals in
+aller Kürze wiederholt:</p>
+<p>1) <g>Eine Combination von nicht symmetrischer
+Formel, welche n asymmetrische Kohlenstoffatome
+enthält, lässt N<do>1</do> Isomere voraussehen</g>:
+<c><formel></c></p>
+<p>2) <g>Eine Combination von symmetrischer For-
+mel</g> <fn="1)">Die Symmetrie einer solchen Formel braucht sich bloss auf die an
+die asymmetrischen Kohlenstoffatome angelagerten Gruppen zu erstrecken.
+Die oben erwähnte Formel <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) C (R<up>4</up> R<up>5</up>) <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) ist nicht im
+strengen Sinne des Wortes symmetrisch.</fn>, <g>welche 2 p asymmetrische Kohlenstoffatome
+enthält, lässt N<do>2</do> Isomere voraussehen</g>:
+<c><formel></c></p>
+<p>Die Anwendung unserer Hypothese auf Combinationen, in
+denen doppelte gegenseitige Bindung von Kohlenstoffatomen
+vorkommt, gestaltet sich sehr einfach.</p>
+<p>Das Bild der einfachsten Combination dieser Art:
+<c><formel></c>
+sind zwei Tetra&00EB;der, welche eine gemeinschaftliche Kante be-
+sitzen, unter Voraussetzung der Gleichwerthigkeit der Kohlen-
+stoffbindungen. Die Richtung der vier freien Affinitäten ist
+nach den übrigen Ecken des Systems und diese Affinitäten
+sind gesättigt durch vier einwerthige Gruppen R<up>1</up>, R<up>2</up>, R<up>3</up> und R<up>4</up>
+(Fig. 28).</p>
+<p>Eine Rotation des gesammten Systems um eine den beiden
+Tetra&00EB;dern gemeinschaftliche Axe darf in diesem Falle noch als
+möglich hingestellt werden, dagegen kann diese Rotation in ent-
+gegengesetztem Sinne in Bezug auf die einzelnen Tetra&00EB;der
+<pb="13"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+nicht erfolgen, ohne dass eine Trennung der gegenseitigen Bin-
+dung der Kohlenstoffatome und damit eine Veränderung in den
+statischen Verhältnissen des Systems stattfände.</p>
+<p>Unter dieser Voraussetzung ergeben sich zwei Möglich-
+keiten der Anordnung in Bezug auf die sättigenden Gruppen
+(Fig. 28 und 29), welche zwei Isomeren entsprechen. Projicirt
+<ab>Fig. 28.</ab>
+<abb>
+<ab>Fig. 29.</ab>
+<abb>
+man die beiden Kanten, an deren Eckpunkten die Gruppen
+R<up>1</up>, R<up>2</up> u. s. w. angelagert sind, auf eine den beiden Kanten paral-
+lele Ebene, so erhält man die Figuren 30 und 31. Aus der
+<ab>Fig. 30.</ab>
+<abb>
+<ab>Fig. 31.</ab>
+<abb>
+Verschiedenheit der Anordnungen
+geht die Isomerie hervor.</p>
+<p>In Bezug auf die Gleichheit
+oder die Verschiedenheit der sät-
+tigenden Gruppen lassen sich die
+folgenden Fälle unterscheiden,
+wobei die in derselben horizontalen Linie stehenden Gruppen
+an ein und dasselbe Kohlenstoffatom gebunden sind:
+1) R<up>1</up> R<up>1</up> 2) R<up>1</up> R<up>1</up> 3) R<up>1</up> R<up>1</up> 4) R<up>1</up> R<up>2</up> 5) R<up>1</up> R<up>1</up> 6) R<up>1</up> R<up>2</up> 7) R<up>1</up> R<up>2</up>
+R<up>1</up> R<up>1</up> R<up>1</up> R<up>2</up> R<up>2</up> R<up>2</up> R<up>1</up> R<up>2</up> R<up>2</up> R<up>3</up> R<up>1</up> R<up>3</up> R<up>3</up> R<up>4</up></p>
+<p>Es ist leicht zu ersehen, dass nur die unter 4), 6) und 7)
+verzeichneten Combinationen Isomere und zwar deren zwei
+liefern können. Bedingung für das Vorhandensein von Isomerien
+ist also nur, dass die an je ein Kohlenstoffatom gelagerten
+Gruppen unter einander verschieden seien, unbeschadet dessen,
+<pb="14"/>
+<kt>Erster Abschnitt.</kt>
+dass Gleichheit zwischen den an verschiedene Kohlenstoffatome
+gebundenen Gruppen besteht. Die Bilder der beiden Isomeren
+sind nicht enantiomorph <fn="1)">Vergl. Anhang IV.</fn>.</p>
+<p>Ganz analog dem eben behandelten Falle gestaltet sich die
+Betrachtung von Combinationen, in denen mehrere doppelte
+Bindungen vorkommen.</p>
+<p>Die Combination:
+<et>(R<up>1</up> R<up>2</up>) = C= C = C (R<up>3</up> R<up>4</up>)</et>
+ist dargestellt in Fig. 32. Man wird gleichfalls zwei Isomere
+<ab>Fig. 32.</ab>
+<abb>
+erhalten können, wie
+aus der Verschieden-
+heit der bei Anwendung
+der oben erwähnten
+graphischen Methode
+entstehenden Figuren
+33 und 34 hervorgeht.
+Die Bedingungen in
+Bezug auf die Gleich-
+heit oder Verschieden-
+heit der angelagerten
+Gruppen sind diesel-
+ben, wie bei dem
+vorhergehenden Fall.
+Die Bilder der Isomeren sind in diesem Falle enantiomorph.</p>
+<p>Es bedarf keiner weiteren Auseinandersetzung, dass der Fall:
+<ab>Fig. 33.</ab>
+<abb>
+<ab>Fig. 34.</ab>
+<abb>
+<et>(R<up>1</up> R<up>2</up>) C = C = C = C (R<up>3</up> R<up>4</up>)</et>
+oder allgemein:
+<et>(R<up>1</up> R<up>2</up>) C = C<do>2n</do> = C (R<up>3</up> R<up>4</up>)</et>
+zurückkommt auf den Fall:
+<et>(R<up>1</up> R<up>2</up>) C = C (R<up>3</up> R<up>4</up>).</et></p>
+<p>Es existiren also von den Com-
+binationen der genannten Art
+immer zwei Isomere, wenn Ver-
+schiedenheit zwischen den Gruppen R<up>1</up> und R<up>2</up>, wie zwischen R<up>3</up> und
+R<up>4</up> stattfindet. Die Bilder der Isomeren sind nicht enantiomorph.</p>
+<pb="15"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+<p>Andererseits kommt der Fall:
+<c>(R<up>1</up> R<up>2</up>) C = C = C = C = C (R<up>3</up> R<up>4</up>)</c>
+oder allgemein:
+<c>(R<up>1</up> R<up>2</up>) C = C<do>(2n + 1)</do> = C (R<up>3</up> R<up>4</up>)</c>
+zurück auf:
+<c>(R<up>1</up> R<up>2</up>) C = C = C (R<up>3</up> R<up>4</up>).</c></p>
+<p>Von Combinationen dieser Art existiren also immer zwei
+Isomere im Falle der Verschiedenheit zwischen R<up>1</up> und R<up>2</up>, sowie
+zwischen R<up>3</up> und R<up>4</up>. Die Bilder der Isomeren sind enantiomorph <fn="1)">Vergl. Anhang V.</fn>.</p>
+<p>Diese doppelte Bindung zweier Kohlenstoffatome unter ein-
+ander, welche nach unserer Theorie die Existenz zweier Isomeren
+bedingt, möge in den Formeln durch eine die beiden Kohlen-
+stoffatome verbindende Klammern bezeichnet werden, wie folgt:
+<c><formel></c></p>
+<p>Das Bild einer dreifachen gegenseitigen Bindung zweier Kohlen-
+stoffatome, welche in den modernen Formeln durch das Symbol
+<c><formel></c>
+ausgedrückt ist, stellt sich unter der Annahme der Gleich-
+werthigkeit dieser Bindungen dar als zwei Tetra&00EB;der, welche
+drei gemeinschaftliche Ecken besitzen, also in einer Fläche zu-
+sammenfallen und auf diese Weise eine doppelte dreiseitige
+Pyramide darstellen (Fig. 35). R<up>1</up> und R<up>2</up> sind die einwerthigen
+<ab>Fig. 35.</ab>
+<abb>
+Gruppen, durch welche die beiden frei
+gebliebenen Affinitäten des Systems ge-
+sättigt sind. In diesem Falle ist eine
+Verschiedenheit in der gegenseitigen An-
+ordnung der sättigenden Gruppen nicht
+möglich und in Uebereinstimmung mit
+den herrschenden Ansichten ist die Mög-
+lichkeit einer Isomerie ausgeschlossen.</p>
+<p>Die Anwendung unserer Hypothese
+auf Combinationen, bei denen man sich
+die Kohlenstoffkette als in sich geschlossen
+vorzustellen genöthigt ist (zu welchen in
+<pb="16"/>
+<kt>Erster Abschnitt.</kt>
+erster Linie die sogenannten aromatischen Verbindungen ge-
+hören), erscheint nicht möglich ohne eine neue Voraussetzung
+zu machen, welche weder in Bezug auf Einfachheit noch auf
+Wahrscheinlichkeit der Grundvorstellung, auf welcher unsere
+Theorie im Vorstehenden entwickelt ist, an die Seite gestellt wer-
+den könnte. Während wir bisher nur über die gegenseitige Stellung
+der an Kohlenstoffatome gebundenen Elementaratome oder
+Gruppen eine gewisse Anschauung gewonnen haben, wären wir
+genöthigt, bei geschlossenen Kohlenstoffketten die gegenseitige
+räumliche Stellung der Kohlenstoffatome selbst in Betracht zu
+ziehen, zu welcher Vorstellung Anhaltspunkte nicht ohne eine
+gewisse Willkür geschaffen werden können.</p>
+<p>Wir haben das Molecül einer Combination, in welcher die
+vier Affinitäten des Kohlenstoffatoms durch vier einwerthige
+Gruppen abgesättigt sind, als ein im Allgemeinen stabiles System
+von fünf Massenpunkten betrachtet. Die intramolecularen Be-
+wegungen, welche nach dem Stande unserer heutigen Forschung
+unbedingt zugegeben werden müssen, können bestehen in Oscil-
+lationen der Atome um gewisse Gleichgewichtslagen, wodurch
+die relative Stabilität des Systems keine Aenderung erleidet.</p>
+<p>Wir können uns also bei der Betrachtung der gegenseitigen
+räumlichen Lagerung dieser Atome dieselben als ruhend in
+ihren Gleichgewichtslagen vorstellen.</p>
+<p>Die Gleichgewichtslagen der an das Kohlenstoffatom ge-
+bundenen Gruppen bilden die Ecken eines Tetra&00EB;ders, dessen
+geometrische Gestalt durch die Gleichheit oder Verschiedenheit
+der angelagerten Gruppen bestimmt ist <fn="1)">Vergl. Anhang VI.</fn>. Ohne nämlich irgend
+welche Voraussetzung über die in dem System herrschenden
+anziehenden und abstossenden Kräfte zu machen, lässt sich für jeden
+einzelnen Fall die geometrische Gestalt des Tetra&00EB;ders ableiten
+unter der einfachen und berechtigten Annahme, dass auf identische
+Gruppen die Aeusserungen der herrschenden Kräfte gleiche sind.</p>
+<p>Am Eingang unserer Betrachtung sind die fünf möglichen
+Fälle der Gleichheit oder Verschiedenheit der Gruppen unter
+<pb="17"/>
+<kt>Formelle Entwickelung der Hypothese.</kt>
+einander aufgeführt. Für dieselben soll nach dem Gesagten
+einzeln die Gestalt des Tetra&00EB;ders ermittelt werden.</p>
+<p>1) C (R<up>1</up>)<do>4</do>. Die vier gleichen Gruppen befinden sich in glei-
+chen Abständen von dem Kohlenstoffatom. Ihre wechselseiti-
+gen Entfernungen von einander müssen gleich sein. Das Mole-
+cül besitzt sechs Symmetrieebenen, in deren Durchschnittspunkt
+das Kohlenstoffatom liegt. Das resultirende Tetra&00EB;der ist ein
+reguläres.</p>
+<p>2) C (R<up>1</up>)<do>3</do> R<up>2</up>. Die drei gleichen Gruppen liegen in glei-
+chen Abständen vom Kohlenstoffatom. Ihre wechselseitigen Ent-
+fernungen sind gleich, ebenso die Abstände einer jeden von der
+vierten Gruppe. Das Molecül besitzt drei Symmetrieebenen,
+welche sich in einer Geraden schneiden, die das Kohlenstoff-
+atom und die vierte ungleiche Gruppe enthält. Das Tetra&00EB;der
+hat drei gleiche Ecken, entsprechend den drei angelagerten glei-
+chen Gruppen.</p>
+<p>3) C (R<up>1</up>)<do>2</do> (R<up>2</up>)<do>2</do>. Je zwei gleiche Gruppen haben gleichen
+Abstand vom Kohlenstoffatom. Jede Gruppe des einen Paares
+hat von jeder Gruppe des anderen Paares gleichen Abstand.
+Die Verbindungslinie je zweier gleichen Gruppen wird durch
+eine Symmetrieebene des Molecüls normal halbirt. Die beiden
+Symmetrieebenen schneiden sich in einer Geraden, welche das
+Kohlenstoffatom enthält. Das Tetra&00EB;der hat zwei Paare von
+gleichen Ecken, entsprechend den beiden Paaren der angela-
+gerten Gruppen.</p>
+<p>4) C (R<up>1</up>)<do>2</do> R<up>2</up> R<up>3</up>. Die beiden gleichen Gruppen liegen in
+gleichem Abstand vom Kohlenstoffatom. Die Entfernungen zwi-
+schen ihnen und je einer der beiden ungleichen Gruppen sind
+gleich. Das Molecül besitzt eine einzige Symmetrieebene, welche
+die Verbindungslinie der beiden gleichen Gruppen normal hal-
+birt und in welcher das Kohlenstoffatom sich befindet. Das
+Tetra&00EB;der hat zwei gleiche Ecken, entsprechend den beiden
+gleichen angelagerten Gruppen.</p>
+<p>5) C R<up>1</up> R<up>2</up> R<up>3</up> R<up>4</up>. In diesem Falle herrscht unter den Mas-
+sen der angelagerten Gruppen keine Gleichheit und in Folge
+dessen werden die Abstände der einzelnen Gruppen vom Kohlen-
+<bs><g>van &2019;t Hoff</g>, Lagerung der Atome im Raume. 2</bs>
+<pb="18"/>
+<kt>Erster Abschnitt.</kt>
+stoffatom sowohl wie von einander verschiedene sein. Das re-
+sultirende Tetra&00EB;der besitzt keine Symmetrieebene mehr. In
+einem solchen Falle aber ist stets die Construction von zwei
+verschiedenen Tetra&00EB;dern möglich, welche, obwohl sie in allen
+ihren Elementen übereinstimmen, dennoch durch beliebige
+Stellung im Raume nicht zur Deckung gebracht werden können,
+sondern wie zwei Körper erscheinen, von denen der eine rechts,
+der andere links gebildet ist. Derartige Körper verhalten sich
+zu einander wie ein Gegenstand zu seinem durch einen ebenen
+Spiegel reflectirten Bilde, und werden mit dem Namen enantio-
+morph bezeichnet. Durch die Möglichkeit der Construction von
+zwei enantiomorphen Tetra&00EB;dern für die Combination C R<up>1</up>R<up>2</up>R<up>3</up>R<up>4</up>
+ist die Möglichkeit der Existenz von zwei Isomeren, deren For-
+mel dieser Combination entspricht, angezeigt.</p>
+<p>Während in den vorher betrachteten Fällen das Kohlen-
+stoffatom in Bezug auf die angelagerten Gruppen stets in den
+Symmetrieebenen des construirten Tetra&00EB;ders liegt, kann dies
+in dem letzten Falle, wo eine Symmetrieebene des Tetra&00EB;ders
+überhaupt nicht besteht, nicht stattfinden. Wir bezeichnen des-
+halb ein solches Kohlenstoffatom als ein asymmetrisches, wobei
+in Erinnerung gebracht werden möge, dass diese Bezeichnung
+sich nicht auf die Gestalt des Kohlenstoffatoms, sondern auf
+dessen räumliche Lage im Molecül bezieht.</p>
+<hr>
+<pb>
+<d1><g>Zweiter Abschnitt</g>.
+<b>Anwendung der gefundenen Resultate zur Erklä-
+rung verschiedener Fälle von Isomerie.</b></d1>
+<sp_t>Gährungsmilchsäure und optisch active Milchsäure. Verbindungen der
+Formel C<do>2</do> H<do>4</do> J Br. Isomere Isodibrombernsteinsäuren. Hydrobenzo&00EF;n und
+Isohydrobenzo&00EF;n. Fumar- und Male&00EF;nsäure. Itacon-, Citracon- und Mesa-
+consäure. Crotonsäure und Isocrotonsäure. Isomere Monochlorcroton-
+säuren. Aconit- und Aceconitsäure. Isomere Monobromzimmtsäuren.
+Isomerie in der Oelsäurereihe.</sp_t>
+<p>Als erstes Ergebniss unserer Hypothese erhalten wir die
+Möglichkeit mehr Isomerien vorauszusehen als es die moderne
+Theorie gestattet, sobald es sich um Combinationen handelt, die
+ein oder mehrere asymmetrische Kohlenstoffatome enthalten
+oder bei denen doppelte Kohlenstoffbindungen unter den oben
+erwähnten Bedingungen vorkommen. Isomere Körper der an-
+gedeuteten Art zeigen, wie vorauszusehen, keine Verschieden-
+heit des chemischen Charakters, im Gegentheil herrscht voll-
+kommene Uebereinstimmung in ihren chemischen Reactionen.
+Die Unterscheidungsmerkmale solcher Körper werden also ledig-
+lich in einer mehr oder minder grossen Verschiedenheit einzel-
+ner physikalischer Eigenschaften bestehen. Je geringer die
+durch eine solche Isomerie bedingte Verschiedenheit zweier
+Körper ist, desto leichter entzieht sie sich der Beobachtung;
+aus diesem Grunde sowohl als wie durch den Umstand, dass
+alle Discussionen dieses Themas von neuestem Datum sind, er-
+<bs>2 *</bs>
+<pb="20"/>
+<kt>Zweiter Abschnitt.</kt>
+scheint es erklärlich, dass die Zahl der darauf bezüglichen
+Beobachtungen und Angaben eine verhältnissmässig geringe ist.</p>
+<p>Einige der bekanntesten hierher gehörigen Fälle seien im
+Folgenden angeführt:</p>
+<p>Bei seinen Untersuchungen über die Milchsäure kam <g>Wis-
+licenus</g> <fn="1)">Annal. Chem. Pharm. <b>166,</b> 3; <b>167,</b> 302 u. 346.</fn> zu dem Resultate, dass die gewöhnliche Gährungs-
+milchsäure und die optisch active Fleischmilchsäure gleiche
+chemische Constitution besitzen und folglich beiden Körpern
+die Formel C H<do>3</do> . <i>C</i> H (O H) . C O (O H) zukommt.</p>
+<p>Ueber die Existenz von drei Verbindungen der empirischen
+Formel C<do>2</do> H<do>4</do> J Br, insbesondere über das Bestehen zweier isome-
+ren Modificationen des Aethylidenjodobromids C H<do>3</do> . <i>C</i> H J Br hat
+sich eine ausgedehnte Discussion entsponnen, auf deren Litera-
+tur hier verwiesen sei <fn="2)"><g>Reboul</g>:
+Compt. rend. <b>70,</b> 398; Annal. Chem. Pharm. <b>155,</b> 29 u. 212; <g>Lager-
+mark</g>: Berl. Ber. <b>6,</b> 1211; <b>7,</b> 907; <g>Maxwell Simpson</g>: Proceed. of
+Royal Soc. <b>22,</b> 51; Chem. News <b>29,</b> 53; <g>Gagarin</g>: Berl. Ber. <b>7,</b> 733
+u. 1456; <g>Friedel</g>: Bull. soc. chim. <b>21,</b> 434; <b>23,</b> 106; Compt. rend. <b>79,</b>
+164.</fn>.</p>
+<p>Die besprochenen Verbindungen enthalten jede ein asym-
+metrisches Kohlenstoffatom, lassen also nach unserer Theorie
+die Existenz von zwei Isomeren erwarten.</p>
+<p>Bei Bromirung der Bernsteinsäure erhielt <g>Franchimont</g> <fn="3)">Bull. soc. chim. <b>19,</b> 241.</fn>
+neben der gewöhnlichen Dibrombernsteinsäure zwei isomere
+Isodibrombernsteinsäuren der Formel C O<do>2</do> H . <i>C</i> H Br. <i>C</i> H Br . C O<do>2</do> H.
+Wir haben hier eine symmetrische Formel mit zwei asymmetri-
+schen Kohlenstoffatomen, von welcher nach unserer Hypothese
+drei isomere Körper bestehen können.</p>
+<p>Nach den weiter unten (Seite 22) angestellten Betrachtun-
+gen kommt der Mesa- und Citradibrombrenzweinsäure dieselbe
+Formel:
+<c>C H<do>3</do> . <i>C</i> Br (C O<do>2</do> H) . <i>C</i> Br. H (C O<do>2</do> H)</c>
+zu, welche ebenfalls zwei asymmetrische Kohlenstoffatome
+enthält.</p>
+<pb="21"/>
+<kt>Erklärung verschiedener Fälle von Isomerie.</kt>
+<p>Durch Einwirkung von Natriumamalgam auf Bittermandelöl
+erhielt <g>Ammann</g> <fn="1)">Annal. Chem. Pharm. <b>168,</b> 67; vgl. <g>Forst u. Zincke</g>: Berl.
+Ber. <b>7,</b> 1708; <b>8,</b> 797.</fn> zwei Körper, das Hydrobenzo&00EF;n und das
+Isohydrobenzo&00EF;n, deren Isomerie nach unserer Hypothese aus
+der Formel C<do>6</do> H<do>5</do> . <i>C</i> H (O H) . <i>C</i> H (O H) . C<do>6</do> H<do>5</do>, in welcher zwei
+asymmetrische Kohlenstoffatome enthalten sind, ungezwungener
+ihre Erklärung findet, als durch die Annahme der von <g>Fittig</g>
+a. a. O. aufgestellten Formel.</p>
+<p>Mehr in die Augen fallend als die durch die Anwesenheit
+von asymmetrischen Kohlenstoffatomen bedingten Isomerien
+scheint die Verschiedenheit der Körper zu sein, deren Formel
+die Isomerie veranlassende doppelte gegenseitige Bindung von
+Kohlenstoffatomen enthält.</p>
+<p>Unsere Hypothese liefert die Erklärung für die schon lange
+festgestellte Isomerie einer Anzahl von Verbindungen, deren
+Verschiedenheit bei gleicher chemischer Formel ein Gegenstand
+der eifrigsten Discussion und zahlreicher Hypothesen gewe-
+sen ist.</p>
+<p>Es gehören hierher die Fumar- und Male&00EF;nsäure, deren
+Isomerie aus ihrer Formel:
+<c><formel></c>
+unmittelbar hervorgeht, da die an je eines der beiden in dop-
+pelter Bindung befindlichen Kohlenstoffatome angelagerten
+Gruppen C O<do>2</do> H und H von einander verschieden sind. Aus dem
+Umstande, dass die Male&00EF;nsäure im Gegensatz zur Fumarsäure
+mit Leichtigkeit beim Erhitzen in ihr Anhydrid übergeht, kön-
+nen wir schliessen, dass sich die beiden Carboxylgruppen dieser
+Verbindung in möglichster gegenseitiger Nähe befinden, und
+dass aus diesem Grunde der Male&00EF;nsäure dasjenige der beiden
+möglichen sterischen Symbole zukommt, in welchem die Carb-
+oxylgruppen in kleinster Entfernung von einander angelagert
+erscheinen, während für die Fumarsäure das andere Symbol
+übrig bleibt <fn="2)">Vgl. Anhang IV.</fn>.</p>
+<pb="22"/>
+<kt>Zweiter Abschnitt.</kt>
+<p>Auf gleiche Weise erklärt sich die Isomerie der Brom- und
+Isobrommale&00EF;nsäure, indem man in der Formel der Fumar- und
+Male&00EF;nsäure ein Wasserstoffatom durch Brom ersetzt.</p>
+<p>Auch die vielfach angeregte Frage nach Erklärungsgrün-
+den für die Isomerie der drei von der Citronensäure abstam-
+menden Säuren, der Itacon-, Citracon- und Mesaconsäure, er-
+scheint auf einfache Weise gelöst.</p>
+<p>Nimmt man für die Brenzweinsäure, in welche die drei ge-
+nannten Säuren durch nascirenden Wasserstoff übergeführt wer-
+den, die Formel:
+<c>(C H<do>3</do>) . C H (C O<do>2</do> H) . C H<do>2</do> (C O<do>2</do> H)</c>
+an, so bleiben für die drei erwähnten Säuren nur die Formeln
+C H<do>2</do> = C (C O<do>2</do> H) . C H<do>2</do> (C O<do>2</do> H) und (C H<do>3</do>) (C O<do>2</do> H) <formel>
+übrig. Von diesen kommt die erste Formel der Itaconsäure
+zu, da bei der Elektrolyse der Salze dieser Säure von <g>Aar-
+land</g> <fn="1)">Journ. f. prakt. Chem. <b>6,</b> 265; <b>7,</b> 142; F. <g>Meilly</g>: Annal. Chem.
+Pharm. <b>171,</b> 181.</fn> ein dem Allylen isomerer Kohlenwasserstoff der Formel
+C H<do>2</do> = C = C H<do>2</do> erhalten wurde. Für die Citracon- und Mesa-
+consäure, welche bei der Elektrolyse ihrer Salze ein und das-
+selbe normale Allylen (C H<do>3</do>) C &2261; C H liefern, bleibt die zweite
+Formel übrig und diese Säuren stellen die beiden möglichen
+Isomeren dieser Combination dar.</p>
+<p>Die feste Crotonsäure und die flüssige Isocrotonsäure ha-
+ben nicht verschiedene Formeln, sondern stellen die beiden Iso-
+meren der Combination
+<c><formel></c>
+dar. Für diese Ansicht spricht die leichte Ueberführbarkeit der
+Isocrotonsäure in die feste Crotonsäure beim Erhitzen im zu-
+geschmolzenen Rohr <fn="2)">V. <g>Hemilian</g>: Annal. Chem. <b>174,</b> 330.</fn>, sowie der Umstand, dass Isocrotonsäure
+beim Schmelzen mit Kalihydrat nur Essigsäure liefert, was
+nach der bisher für diesen Körper angenommenen Formel
+C H<do>2</do> = C H . C H<do>2</do> (C O<do>2</do> H) höchst auffallend erscheinen muss.</p>
+<pb="23"/>
+<kt>Erklärung verschiedener Fälle von Isomerie.</kt>
+<p>In gleicher Weise erklärt sich die Isomerie der beiden
+Monochlorcrotonsäuren, welche <g>Froelich</g> <fn="1)">Jenaische Zeitschr. f. Med. u. Naturw. <b>5,</b> 82; Zeitschr. f. Chem. 1869,
+270; Bull. soc. chim. [2], <b>12,</b> 360.</fn> und später <g>Geu-
+ther</g> <fn="2)">Jenaische Zeitschr. f. Med. u.
+Naturw. <b>6,</b> 560; Journ. f. prakt. Chem. [2], <b>3,</b> 431; Zeitschr. f. Chem.
+1871, 569; Bull. soc. chim. [3], <b>16,</b> 107.</fn> durch Einwirkung von Phosphorpentachlorid auf die
+Aethyldiacetsäure erhielten. Diese Säuren sind die beiden Iso-
+meren der Formel
+<c><formel></c>
+wie durch den Umstand einleuchtend gemacht wird, dass bei
+der Einwirkung von nascirendem Wasserstoff, die eine die feste,
+die andere die flüssige Crotonsäure liefert.</p>
+<p>Bei der Einwirkung von Natrium auf Bromessigsäure-
+äthylester erhielt <g>Baeyer</g> <fn="3)">Annal. Chem. Pharm. <b>135,</b>
+309.</fn> eine der Aconitsäure isomere Säure,
+welche er Aceconitsäure benannt hat. Dieser Körper kann seiner
+Entstehung nach recht wohl das eine der für die Formel der
+Aconitsäure
+<c><formel></c>
+möglichen beiden Isomeren sein.</p>
+<p><g>Glaser</g> <fn="4)">Annal. Chem. Pharm. <b>143,</b> 325.</fn> erhielt beim Behandeln der Phenyldibrompro-
+pionsäure mit alkoholischer Kalilösung zwei isomere Monobrom-
+zimmtsäuren, welche sich in auffallender Weise durch ihre Lös-
+lichkeit, ihren Schmelzpunkt und andere physikalische Eigen-
+schaften von einander unterscheiden.</p>
+<p>Da sich diese Säuren leicht in einander überführen lassen,
+stellt <g>Glaser</g> für dieselben die Formeln
+<c><formel> und <formel></c>
+auf, wobei A eine freie Valenz des Kohlenstoffatoms bedeuten
+soll, und betrachtet die Isomerie dieser Säuren als Analogon zu
+der Isomerie der Fumar- und Male&00EF;nsäure. Nach unserer Hy-
+<pb="24"/>
+<kt>Zweiter Abschnitt.</kt>
+pothese sind die beiden Monobromzimmtsäuren die für die
+Combination
+<c><formel></c>
+möglichen beiden isomeren Körper.</p>
+<p>In der Oelsäurereihe giebt es gewisse Isomerieerscheinun-
+gen, welche durch unsere Hypothese ihre Erklärung finden.
+Beim Schmelzen mit Kalihydrat liefern die Säuren dieser Reihe
+neben Essigsäure eine Fettsäure, deren Kohlenstoffgehalt um
+zwei Atome geringer ist, als der der ursprünglichen Säure. Man
+kann sich folglich diese Säuren nach der allgemeinen Formel
+<c><formel></c>
+zusammengesetzt denken, für welche jedesmal zwei Isomere
+möglich sind. Als Beispiel einer solchen Isomerie mögen die
+Oelsäure und die Ela&00EF;dinsäure dienen. Beide liefern beim
+Schmelzen mit Kalihydrat Essigsäure und Palmitinsäure. Ihre
+Bromadditionsproducte
+<c>(C H<do>3</do>) H Br <i>C . C</i> Br H (C H<do>2</do>)<do>14</do> (C O<do>2</do> H)</c>
+sind verschieden, während die aus denselben entstehenden Stea-
+rolsäuren
+<c>(C H<do>3</do>) C &2261; C (C H<do>2</do>)<do>14</do> (C O<do>2</do> H)</c>
+identisch sind.</p>
+<hr>
+<pb>
+<d1><g>Dritter Abschnitt</g>.
+<b>Anwendung der Hypothese zur Erklärung der opti-
+schen Activität von Kohlenstoffverbindungen.</b></d1>
+<sp_t>Jede sogenannte optisch active Kohlenstoffverbindung enthält ein oder
+mehrere asymmetrische Kohlenstoffatome. Aufzählung der bekanntesten
+optisch activen Körper. Derivate von optisch activen Körpern, bei
+welchen die Asymmetrie der Kohlenstoffatome verloren gegangen ist, sind
+inactiv; sie sind dagegen häufig activ, wenn die Asymmetrie der Kohlen-
+stoffatome erhalten geblieben ist. Identificirung des Molecüles mit der
+durch die räumliche Anordnung der Atome bestimmten stereometrischen
+Figur. Circularpolarisation von Krystallen. Entdeckungen und Theorien
+von <g>Naumann, Rammelsberg, Marbach</g> und <g>Groth</g>. Zusammen-
+hang der Circularpolarisation mit der unsymmetrischen Ausbildung der
+betreffenden Krystalle. Analogie zwischen circularpolarisirenden Kry-
+stallen und dem asymmetrischen Kohlenstoffatom. Ausdruck für das
+optische Drehungsvermögen für Kohlenstoffverbindungen mit ein und
+mehreren asymmetrischen Kohlenstoffatomen. Neutraler Fall. Das optische
+Drehungsvermögen ist bei complicirteren Molecülen oft das einzige
+Unterscheidungsmittel von Isomeren. Schwierigkeiten, welche sich der
+künstlichen Darstellung von optisch activen Körpern entgegenstellen.
+Darstellung von optisch activer Weinsäure von den Elementen ausgehend
+durch <g>Jungfleisch</g>. Zusammenfassung der Resultate. Zweiter Fall
+von optischer Activität.</sp_t>
+<p>Die im vorhergehenden Abschnitt aufgezählten isomeren
+Körper unterscheiden sich von einander hauptsächlich durch
+physikalische Eigenschaften allgemeiner Art, wie Löslichkeit,
+Schmelzpunkt, Siedepunkt, Krystallwassergehalt der Deri-
+vate u. s. w. Ein weiteres wichtiges physikalisches Merkmal
+bestimmter Substanzen ist ihr Verhalten gegen das polarisirte
+<pb="26"/>
+<kt>Dritter Abschnitt.</kt>
+Licht. Die Zahl der Kohlenstoffverbindungen, welche im gelösten
+Zustande die Schwingungsebene eines die Lösung durchlaufen-
+den polarisirten Lichtstrahles zu drehen vermögen, ist eine
+sehr beträchtliche und wird fast täglich durch das Studium der
+Körper in Bezug auf diese interessante Eigenschaft vermehrt.</p>
+<p>Wenn man die Liste dieser sogenannten optisch activen
+Körper durchläuft, so kommt man leicht zu der folgenden Be-
+obachtung:</p>
+<p>Jede Kohlenstoffverbindung, welche im gelösten Zustande
+eine Drehung der Schwingungsebene des polarisirten Licht-
+strahls bewirkt, enthält ein oder mehrere asymmetrische Koh-
+lenstoffatome.</p>
+<p>Die folgende Aufzählung der bekanntesten optisch activen
+Körper möge diese Behauptung erhärten.</p>
+<p>Die Aethylidenmilchsäure (C H<do>2</do>) <i>C</i> H (O H) (C O<do>2</do> H), welche
+aus Fleischflüssigkeit erhalten wird, sowie ihre Salze, Ester und
+das Lactid <fn="1)"><g>Wislicenus</g>: Annal. Chem. Pharm. <b>167,</b> 321.</fn>.</p>
+<p>Die Aepfelsäuren (C O<do>2</do> H) <i>C</i> H (O H) . C H<do>2</do> . (C O<do>2</do> H), ihre
+Salze und ihr Amid <fn="2)"><g>Pasteur</g>:
+Compt. rend. <b>31,</b> 480; <g>Bremer</g>: Berl. Ber. <b>8,</b> 861, 1594; <g>Pasteur</g>:
+Annal. de Chim. et Phys. [3] <b>38,</b> 487.</fn>.</p>
+<p>Die Asparaginsäure (C O<do>2</do> H) <i>C</i> H (O H) . C H<do>2</do> (C O<do>2</do> H), ihre
+Salze und ihr Amid, das Asparagin <fn="3)"><g>Pasteur</g>: Compt. rend. <b>31,</b>
+481.</fn>.</p>
+<p>Die Weinsäuren (C O<do>2</do> H) <i>C</i> H (O H) . <i>C</i> H (O H) (C O<do>2</do> H), ihre
+Salze und Ester <fn="4)"><g>Biot</g>: Annal. d. Chem. u. Pharm. <b>52,</b> 186; <g>Pasteur</g>: Compt.
+rend. <b>28,</b> 477; <g>Landolt</g>: Berl. Ber. <b>6,</b> 1073.</fn>, die Tartraminsäure und das Tartramid <fn="5)"><g>Pasteur</g>: Compt. rend.
+<b>35,</b> 177.</fn>.</p>
+<p>Eine grosse Anzahl von Derivaten des optisch activen Amyl-
+alkohols (C H<do>3</do>) (C<do>2</do> H<do>5</do>) <i>C</i> H (C H<do>2</do> O H) <fn="6)"><g>Biot</g>, 1849; <g>Bachhoven</g>: Inaug. Dissert.</fn>, welche sämmtlich ein
+asymmetrisches Kohlenstoffatom enthalten. Hierher gehören
+die Ester und die esterschwefelsauren Salze dieses Alkohols <fn="7)"><g>Pierre
+u. Puchot</g>: Annal. de Chim. et Phys. [4] <b>29,</b> 228; Berl. Ber. <b>6,</b> 767.</fn>;
+das Amylchlorür, -bromür und -jodür <fn="8)"><g>Le Bel</g>: Bull. soc. chim. <b>21,</b> 543; <g>Chapman Smith</g>: Chem. Soc.
+Journ. [2] <b>7,</b> 198.</fn>; das Amylamin und
+<pb="27"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+seine Salze <fn="1)"><g>Le Bel</g>: Berl. Ber. <b>5,</b> 391.</fn>; der Amylaldehyd und die dazu gehörige Valerian-
+säure <fn="2)"><g>Pierre u. Puchot</g>: a. a. O.</fn>; das Amylcyanür und die daraus dargestellte Capron-
+säure <fn="3)"><g>Würtz</g>: Annal. de Chim. et Phys. [3] <b>51,</b> 360.</fn>; das Methyläthylpropylmethan (C H<do>3</do>) (C<do>2</do> H<do>5</do>) <i>C</i> H (C<do>3</do> H<do>7</do>) <fn="4)"><g>Würtz</g>: Annal. de
+Chim. et Phys. [3] <b>44,</b> 288.</fn>
+und das Diamyl <fn="5)"><g>Würtz</g>: Annal. de Chim. et Phys. [3]
+<b>44,</b> 288.</fn>.</p>
+<p>Die Glucose, Laevulose <fn="6)"><g>Dubrunfault</g>: Compt. rend. <b>25,</b> 308.</fn> und Lactose <fn="7)"><g>Pasteur</g>:
+Compt. rend. <b>42,</b> 349.</fn>, sämmtlich von
+der Formel C O H (<i>C</i> H O H)<do>4</do> C H<do>2</do> (O H).</p>
+<p>Das Glucosan <fn="8)"><g>Berthelot</g>: Annal. de Chim. et Phys. [3]
+<b>60,</b> 96.</fn>: <formel></p>
+<p>Mannit <fn="9)"><g>Vignon</g>: Annal. de Chim. et Phys. [5] <b>2,</b> 434.</fn>: C H<do>2</do> (O H) (<i>C</i> H O H)<do>4</do> C H<do>2</do> (O H).</p>
+<p>Die Derivate von Mannit <fn="10)"><g>Vig-
+non: a. a. O. &2014; Bouchardat</g>: Annal. de Chim. et Phys. [4] <b>27,</b> 70;</fn> und die Zuckersäure <fn="11)"><g>Würtz</g>: Dictionnaire.</fn>:
+C O<do>2</do> H (<i>C</i> H O H)<do>4</do> C O<do>2</do> H.</p>
+<p>Die Kohlehydrate, z. B. Rohrzucker, Milchzucker, Dextrin,
+Arabin u. s. w., sowie die Glucoside enthalten als zusammen-
+gesetzte Aether der vorher aufgeführten Verbindungen die in
+den letzteren vorhandenen asymmetrischen Kohlenstoffatome.</p>
+<p>Die Körper von der Zusammensetzung C<do>10</do> H<do>16</do>, welche nur
+den Formeln
+<c><formel> oder <formel></c>
+entsprechen können.</p>
+<pb="28"/>
+<kt>Dritter Abschnitt.</kt>
+<p>Der Campher nach der von <g>Kekulé</g> <fn="1)">Berl. Ber. <b>6,</b> 931.</fn> gegebenen Formel
+<c><formel></c></p>
+<p>Aethyl- und Amylcampher <fn="2)"><g>Baubigny</g>: Compt. rend. <b>63,</b> 221.</fn>.</p>
+<p>Campher- und Methylcamphersäure <fn="3)"><g>Biot</g>: Annal. de Chim. et Phys. [3] <b>36,</b> 313; <g>Chautard</g>: Compt. rend.
+<b>37,</b> 166; vgl. <g>Le Bel</g>: Bull. soc. chim. <b>22,</b> 337.</fn>.</p>
+<p>Gegenüber dieser grossen Anzahl von optisch activen Kör-
+pern, welche sämmtlich asymmetrische Kohlenstoffatome ent-
+halten, ist bis jetzt keine Combination bekannt geworden, welche
+optische Activität zeigt ohne asymmetrische Kohlenstoffatome
+zu enthalten <fn="4)">Die von <g>Berthelot</g> beobachtete optische Activität des Styrols be-
+ruht, wie <g>van&2019;t Hoff</g> (Berl. Ber. <b>9,</b> 5) nachgewiesen hat, auf der An-
+wesenheit einer diesem Körper von der Darstellung her beigemengten op-
+tisch activen Verbindung.</fn>.</p>
+<p>Bei eingehender Betrachtung der optisch activen Combina-
+tionen wird man zu folgender Bemerkung veranlasst; Die Deri-
+vate der optisch activen Körper verlieren das optische Drehungs-
+vermögen, wenn die Asymmetrie sämmtlicher Kohlenstoffatome
+aufgehoben wird; im entgegengesetzten Fall bleibt die opti-
+sche Activität oft erhalten.</p>
+<p>Den angeführten Satz durch eine grosse Anzahl von Bele-
+gen zu erweisen, ist indess nicht möglich, weil in der Literatur
+nur äusserst wenige bestimmte Angaben über die optische Acti-
+vität oder Inactivität von Derivaten optisch activer Körper zu
+finden sind, insbesondere ist es von den betreffenden For-
+schern meist unterlassen worden, die optische Inactivität sol-
+<pb="29"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+cher Derivate zu erweisen, welche identisch mit Combinationen
+anderer Herkunft sind, deren optische Inactivität bisher durch
+keine Beobachtung widerlegt worden ist.</p>
+<p>Es können deshalb an diesem Orte nur folgende bestimmt
+beobachtete Thatsachen angeführt werden:</p>
+<p>Das active äpfelsaure Ammon giebt durch Entziehung von
+Wasser das inactive Fumarimid <formel><fn="1)"><g>Pasteur</g>: Annal. de Chim. et Phys. [3] <b>34,</b> 52.</fn>.</p>
+<p>Die active Aepfelsäure giebt bei der trockenen Destillation
+inactive Fumar- und Male&00EF;nsäure:
+<c><formel> <fn="2)"><g>Pasteur</g>:
+Annal. de Chim. et Phys. [3] <b>31,</b> 90.</fn>.</c></p>
+<p>Die Rechtsäpfelsäure giebt bei Reduction die inactive Bern-
+steinsäure <fn="3)"><g>Bremer u. van&2019;t Hoff</g>:
+Berl. Ber. <b>9,</b> 215.</fn>.</p>
+<p>Das aus dem activen Amylalkohol dargestellte Amylen
+<formel> <fn="4)"><g>Würtz</g>: Dictionnaire, 236.</fn> und das Amylhydrür <formel> <fn="5)"><g>Le Bel</g>: Bull.
+soc. chim. <b>22,</b> 342.</fn> sind
+inactiv.</p>
+<p>Gegenüber diesen Thatsachen existirt keine Beobachtung,
+dass ein Derivat einer optisch activen Substanz, bei welchem
+die Asymmetrie sämmtlicher Kohlenstoffatome aufgehoben ist,
+die optische Activität der Muttersubstanz beibehalten hätte.</p>
+<p>Dagegen bleibt die optische Activität bei Derivaten optisch
+activer Körper häufig erhalten in dem Fall, dass die Asymmetrie
+der Kohlenstoffatome nicht gänzlich aufgehoben wird, wie fol-
+gende Thatsachen erweisen:</p>
+<p>Das active Asparagin giebt die active Asparaginsäure. Aus
+beiden wird die linksdrehende Aepfelsäure erhalten <fn="6)"><g>Pasteur</g>: Annal. de Chim. et Phys. [3] <b>38,</b>
+457.</fn>.</p>
+<p>Die Rechtsweinsäure giebt bei Reduction Rechtsäpfel-
+säure <fn="7)"><g>Bremer</g>: Berl. Ber. <b>8,</b> 861, 1594.</fn>.</p>
+<pb="30"/>
+<kt>Dritter Abschnitt.</kt>
+<p>Mannit, Glucose und Laevulose geben bei Oxydation active
+Zuckersäure <fn="1)"><g>Liebig</g>: Annal. Chem. Pharm. <b>113,</b> 4; <g>Bouchardat</g>: Annal.
+de Chim. et Phys. [4] <b>27,</b> 70.</fn>.</p>
+<p>Glucose giebt bei Reduction Mannit <fn="2)"><g>Linnemann</g>: Annal. Chem.
+Pharm. <b>123,</b> 136.</fn>, Lactose Dulcit <fn="3)"><g>Bouchardat</g>: a. a. O.</fn>.</p>
+<p>Die Zuckersäure wird zu Rechtsweinsäure oxydirt <fn="4)"><g>Liebig</g>: Annal.
+Chem. Pharm. <b>113,</b> 1.</fn>.</p>
+<p>Bei einzelnen Fällen jedoch, in welchen die Asymmetrie
+der Kohlenstoffatome des Derivates erhalten bleibt, geht die
+optische Activität der Muttersubstanz verloren, wie folgende
+Beispiele zeigen:</p>
+<p>Die von <g>Kekulé</g> <fn="5)">Annal. Chem. Pharm. <b>130,</b> 28.</fn> durch Einwirkung von Bromwasser-
+stoff auf die active Aepfelsäure erhaltene Brombernsteinsäure
+(C O<do>2</do> H) <i>C</i> H Br. C H<do>2</do> (C O<do>2</do> H) ist inactiv.</p>
+<p>Die Rechtsweinsäure giebt bei Erhitzung inactive Brenz-
+weinsäure: (C H<do>3</do>) <i>C</i> H (C O<do>2</do> H) . C H<do>2</do> . C O<do>2</do> H <fn="6)"><g>Pa-
+steur</g>: Annal. de Chim. et Phys. [3] <b>31,</b> 90.</fn>.</p>
+<p>Dulcit und Lactose geben bei Oxydation inactive Schleim-
+säure (C O<do>2</do> H) (<i>C</i> H O H)<do>4</do> (C O<do>2</do> H) <fn="7)"><g>Bouchardat</g>: Annal.
+de Chim. et Phys. [4] <b>27,</b> 70.</fn>.</p>
+<p>Aus den zuletzt angeführten Beispielen geht hervor, dass
+man den oben angeführten Satz: &201E;Jede optisch active Kohlen-
+stoffverbindung enthält mindestens ein asymmetrisches Kohlen-
+stoffatom&201C; nicht verallgemeinern darf zu der Regel: Jede Koh-
+lenstoffverbindung, welche ein asymmetrisches Kohlenstoffatom
+enthält, ist optisch activ. Auf welche Weise der Umstand, dass
+Kohlenstoffverbindungen mit asymmetrischen Kohlenstoffatomen
+keine optische Activität besitzen, erklärt werden kann, wird
+weiter unten zur Sprache kommen.</p>
+<p>Das optische Drehungsvermögen, welches bestimmte in Lö-
+sung befindliche Kohlenstoffverbindungen zeigen, muss eine
+Eigenschaft des betreffenden Molecüles sein und kann nicht auf
+einer geometrischen Gruppirung der einzelnen Molecüle beru-
+hen, da unsere wohlbegründeten Vorstellungen über den Zu-
+stand der Körper in Lösung jede Gesetzmässigkeit der Anord-
+<pb="31"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+nung der Molecüle ausschliessen. Wir haben jedoch über die
+räumliche Gruppirung der componirenden Elemente dieser Mo-
+lecüle, der Atome, bestimmte Anschauungen gewonnen, welche
+uns gestatten das Molecül als ein stabiles System von Massen-
+punkten zu betrachten und demnach dasselbe in Bezug auf seine
+Gestaltung mit der durch diese Massenpunkte bestimmten ste-
+reometrischen Figur zu identificiren.</p>
+<p>Mit Zugrundelegung dieser Anschauungsweise lässt sich
+die vollkommene Analogie der Ursächlichkeit des optischen
+Drehungsvermögens nachweisen, welches gewisse Krystalle und
+die Lösungen der optisch activen Kohlenstoffverbindungen zeigen.</p>
+<p><g>Arago</g> machte zuerst die Entdeckung, dass ein polarisirter
+Lichtstrahl, der durch eine senkrecht zur Hauptaxe geschliffene
+Platte eines Krystalles von Quarz oder Bergkrystall gegangen
+ist, nach der Zurückführung der circularpolarisirten Componen-
+ten auf den Strahl von <g>einer</g> Schwingungsrichtung beim Aus-
+tritt aus dem Krystall in der Weise verändert erscheint, dass
+die resultirende Schwingungsebene nicht mehr die des eintre-
+tenden Strahles ist, sondern gegen die letztere eine Drehung
+erlitten hat, deren Grösse man bei homogenem, parallelem Licht
+erkennt durch die Drehung des Analysators, welche nothwendig
+ist um das bei gekreuzter Stellung der beiden Nicol&2019;schen Pris-
+men helle Gesichtsfeld dunkel erscheinen zu lassen. Während
+Quarzplatten von gewisser Dicke die Polarisationsebene um eine
+bestimmte Grösse nach rechts drehen, haben andere Platten
+die Eigenschaft, bei gleicher Dicke eine gleich grosse Drehung
+der Polarisationsebene nach links hervorzubringen. Im ent-
+gegengesetzten Sinne drehende Platten gehören immer ver-
+schiedenen Krystallindividuen an, welche in Bezug auf gewisse
+Flächen als rechts oder links gebildete Körper erscheinen.</p>
+<p>Im Jahre 1830 erkannte <g>Naumann</g> das eigenthümliche Bil-
+dungsgesetz der Quarzkrystalle, indem er nachwies, dass die
+hexagonale Krystallreihe dieses Minerales nicht holo&00EB;drisch, son-
+dern nach dem Gesetz der trapezo&00EB;drischen Tetarto&00EB;drie aus-
+gebildet ist. Durch diese Ausbildungsweise entstehen Formen,
+welche keine Symmetrieebene besitzen, so dass je zwei Krystall-
+<pb="32"/>
+<kt>Dritter Abschnitt.</kt>
+individuen als rechts und links gebildet in Correlation zu ein-
+ander stehen. Solche Krystalle bezeichnet der genannte For-
+scher als enantiomorphe.</p>
+<p>Dass die optischen Eigenschaften des Quarzes in der That
+mit der erwähnten Ausbildungsweise und der damit verbunde-
+nen asymmetrischen Anordnung der Molecüle im Krystall in
+ursächlichem Zusammenhang stehe, bewies <g>Airy</g> ((Airy&2019;sche
+Spiralen).</p>
+<p>Lange Zeit blieb der Quarz der einzige Repräsentant der
+festen, krystallinischen Körper, welche optisches Drehungsver-
+mögen zeigen, obgleich in der Zwischenzeit eine nicht unbedeu-
+tende Zahl von kohlenstoffhaltigen Verbindungen bekannt ge-
+worden war, welche in Lösung befindlich gleichfalls Circular-
+polarisation zeigten. Im Jahre 1853 machte <g>Rammelsberg</g>
+die Entdeckung, dass an den regulären Krystallen des Natrium-
+chlorates neben den Flächen des Tetra&00EB;ders auch die Flächen
+eines Pentagondodeka&00EB;ders vorkommen, und zwar desselben,
+welches eine am Eisenkies sehr gewöhnliche Form ist.</p>
+<p>Diese beiden Formen sollten sich aber nach den bisher er-
+kannten Gesetzmässigkeiten der Hemi&00EB;drie gegenseitig aus-
+schliessen. Wie nun <g>Marbach</g> im folgenden Jahre nachwies,
+besitzt das Natriumchlorat die Eigenschaft, die Polarisationsebene
+des Lichtes zu drehen. Er erkannte zugleich, dass durch das
+Zusammenvorkommen der beiden hemi&00EB;drischen Ausbildungs-
+weisen des regulären Krystallsystems bei den Krystallindividuen
+dieses Körpers ebenfalls der Enantiomorphismus zur Geltung
+kommt und dass es dieser Thatsache entsprechend rechts und
+links drehende Individuen giebt.</p>
+<p>Während der Quarz als optisch einaxiges Medium die Cir-
+cularpolarisation nur in der Richtung der Hauptaxe zeigt, dreht
+das Natriumchlorat als isotrope Materie die Polarisationsebene
+des Lichtes gleich stark beim Durchgange des Strahles in be-
+liebiger Richtung, sobald die Dicke der durchlaufenen Schicht
+die gleiche bleibt. Im Jahre 1855 reihte <g>Marbach</g> gelegent-
+lich einer Untersuchung über das optische Verhalten regulärer
+Krystalle den circularpolarisirenden festen Körpern weiter ein
+<pb="33"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+das Natriumbromat und das Uranylnatriumacetat. Die beiden
+letztgenannten Substanzen zeigen in ihren Krystallen nur die
+durch die geneigtflächige Hemi&00EB;drie bedingten Formen. Die
+Krystalle erscheinen demnach nicht als enantiomorphe; gleich-
+wohl kann man rechts und links drehende Individuen unter-
+scheiden, die sich aber in ihrer äusseren Erscheinungsweise
+gleichen.</p>
+<p>Noch in demselben Jahre wies <g>Naumann</g> nach, dass die
+Krystallreihe des Natriumchlorates nicht als eine hemi&00EB;drische,
+sondern als eine tetarto&00EB;drische zu betrachten sei, wonach das
+Zusammenvorkommen des Tetra&00EB;ders und Pentagondodeka&00EB;ders
+gesetzmässig erscheint.</p>
+<p>Seitdem ist die Zahl der mit optischem Drehungsvermögen
+begabten festen Körper beträchtlich vermehrt worden. Nicht
+alle hierher gehörigen Krystalle erscheinen jedoch enantio-
+morph. Da aber sämmtliche bisher bekannte Substanzen, deren
+Krystalle einer enantiomorphen Hemi&00EB;drie oder Tetarto&00EB;drie
+angehören und entweder regulär oder optisch einaxig sind, die
+Erscheinung der Circularpolarisation zeigen, so sind wir nach
+<g>Groth</g> berechtigt, die Eigenschaft in ursächlichen Zusammen-
+hang mit der erwähnten Ausbildungsweise zu bringen und solche
+Krystallreihen, welche Circularpolarisation zeigen, ohne der Be-
+dingung des Enantiomorphismus zu genügen, dennoch den Ge-
+setzmässigkeiten enantiomorpher Hemi&00EB;drie oder Tetarto&00EB;drie
+zu unterstellen, indem die den Enantiomorphismus bedingenden
+Flächen in der betreffenden Krystallreihe als nicht beobachtet
+erwähnt werden, so dass nicht nur die Möglichkeit, sondern so-
+gar die Wahrscheinlichkeit des Vorkommens solcher Flächen
+aufrecht erhalten bleibt.</p>
+<p>Dass die Circularpolarisation durchaus nur abhängig ist
+von der Krystallform und nicht von der chemischen Qualität
+des optisch activen Körpers ist erwiesen durch die Beobach-
+tung, dass derartige feste Körper, sobald sie in Lösung befind-
+lich sind, keine Einwirkung auf das polarisirte Licht zeigen.</p>
+<p>Die berühmte Erklärung der Circularpolarisation durch
+<g>Fresnel</g> ist mehr eine Erklärung der Modalität als der Cau-
+<bs><g>van&2019;t Hoff</g>, Lagerung der Atome im Raume. 3</bs>
+<pb="34"/>
+<kt>Dritter Abschnitt.</kt>
+salität dieser Erscheinung. Der Umstand, dass enantiomorphe
+Krystalle gegenüber den holo&00EB;drisch ausgebildeten Krystallen
+desselben Systems eine eigenthümliche Asymmetrie in Bezug
+auf die räumliche Vertheilung der krystallographischen Ele-
+mente zeigen, ist jedenfalls die Ursache dieser bemerkenswer-
+then Erscheinung. Die den Enantiomorphismus bedingenden
+Flächen zeigen gewissermaassen eine spiralförmige Anordnung
+in Bezug auf die Hauptaxe des Krystalles. Construirt man
+nämlich die Durchschnittspunkte der krystallographischen Nor-
+malen der genannten Flächen [der Senkrechten vom Durch-
+schnittspunkt der Krystallaxen auf die Flächen] mit einem Ro-
+tationscylinder, dessen Axe der Hauptaxe des Krystalles paral-
+lel ist, und betrachtet die Durchschnittscurven von den durch
+je zwei Normalen bestimmten Ebenen mit diesem Cylinder, so
+erhält man aus einzelnen Ellipsenabschnitten bestehende ge-
+brochene Curven, welche spiralartig gewunden erscheinen, und
+zwar bei dem einen Krystall mit rechtsseitiger, bei dem corre-
+laten mit linksseitiger Drehung. Ein idealer Krystall derselben
+Combination, bei welchem die hemi&00EB;drischen und tetarto&00EB;dri-
+schen Flächen nicht als solche, sondern als die entsprechende
+holo&00EB;drische Form auftreten, liefert bei der gleichen Construc-
+tion spiralförmige Curven von beiderlei Drehung, welche zu je
+zwei symmetrisch gelegen sind.</p>
+<p>Mit dieser einseitig spiralartigen Anordnung der Flächen
+in den enantiomorphen Krystallen ist jedenfalls eine entspre-
+chende asymmetrische Anordnung der Molecüle verbunden, wo-
+durch die Circularpolarisation des durch das Medium hindurch-
+gegangenen Lichtstrahls bedingt ist.</p>
+<p>Man hat ja bereits circularpolarisirende Medien künstlich
+hergestellt, z. B. durch schraubenförmig über einander geschich-
+tete Glimmerlamellen.</p>
+<p>Die mit Rechtsdrehung aufgeschichtete Combination zeigt
+Circularpolarisation nach rechts, die mit Linksdrehung nach links.</p>
+<p>Es ist nun wohl gestattet, das Verhalten eines Krystall-
+individuums zu vergleichen mit dem des Individuums &03BA;&03B1;&03C4;&0315; &1F10;&03BE;&03BF;&03C7;&03AE;&03BD;,
+des chemischen Molecüles.</p>
+<pb="35"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+<p>In dem asymmetrischen Kohlenstoffatom haben wir ein Me-
+dium, welches sich durch die schraubenförmige Anordnung sei-
+ner kleinsten Theile, der Atome, auszeichnet.</p>
+<p>Wenn wir die für die Gleichgewichtslage der Atome nach
+den vorhergehenden Betrachtungen (Seite 17 u. 18) erhaltenen
+Bilder der Combinationen C (R<up>1</up>)<do>2</do> R<up>2</up> R<up>3</up> und C R<up>1</up> R<up>2</up> R<up>3</up> R<up>4</up> nach der
+Methode der darstellenden Geometrie construiren, so erhalten
+wir Fig. 36 als Bild der ersten und Fig. 37 und 38 als enantio-
+morphe Bilder der zweiten Combination <fn="1)">Vgl. die Modelle 57, 58 u. 59, Anhang VI.</fn>. Die mit A und B
+bezeichneten Ecken sind gleich im ersten, ungleich im zwei-
+ten Falle.</p>
+<p>Werden drei zu einander senkrechte Axen angenommen,
+deren eine in der Richtung P liegt und parallel ist mit A B, so
+<ab>Fig. 36.</ab>
+<abb>
+<ab>Fig. 37.</ab>
+<abb>
+<ab>Fig. 38.</ab>
+<abb>
+ist ersichtlich, dass in den Richtungen der beiden anderen Axen
+die vier Gruppen A, B, C, D in allen drei Figuren nicht spiral-
+förmig angeordnet sind, da sich A und B in Normalebenen der
+betreffenden Axen befinden. In der Richtung P findet auch bei
+<bs>3 *</bs>
+<pb="36"/>
+<kt>Dritter Abschnitt.</kt>
+Fig. 36 keine spiralförmige Anordnung der Gruppen statt, da
+C und D in der Symmetrieebene des Tetra&00EB;ders liegen, welche
+normal zu A B und mithin auch zu P ist.</p>
+<p>Anders verhalten sich die in Fig. 37 und 38 dargestellten
+Tetra&00EB;der. Sie besitzen beide in der Richtung P eine spiral-
+förmige Anordnung der Gruppen und wir bemerken, dass, wenn
+in Fig. 37 die Gruppen in einer rechtsseitigen Schraubenlinie in
+der Richtung P angeordnet sind, dieselben Gruppen in Fig. 38
+in derselben Richtung in linksseitiger Schraubenlinie auf einan-
+der folgen.</p>
+<p>Wenn man sich den polarisirten Lichtstrahl in ein so ge-
+staltetes Molecül in irgend einer Richtung eintretend vorstellt,
+so kann man denselben in drei Componenten nach den drei
+zu einander senkrecht angenommenen Axen zerlegen. Nur die
+Componente, welche sich in der Richtung P bewegt, kann
+betreffs der Lage der Polarisationsebene eine Aenderung er-
+leiden, welche in einer Drehung nach rechts oder nach links
+besteht.</p>
+<p>Wenn in der Richtung P die Gruppen in rechtsseitiger
+Schraubenlinie angeordnet sind, so ist dies auch in der ent-
+gegengesetzten Richtung &2014; P der Fall, so dass ein polarisirter
+Lichtstrahl, welcher eine beliebige Richtung gegen P hat, stets
+in demselben Sinne gedreht erscheint.</p>
+<p>Das Molecül, welches in Fig. 37 dargestellt ist, ist isomer
+dem in Fig. 38 dargestellten. Das letztere wird sich beim Durch-
+gange des polarisirten Lichtstrahles in vollkommen entgegen-
+gesetzter Weise verhalten, so dass, wenn im ersten Fall eine
+Drehung der Polarisationsebene nach rechts bewirkt wird, im
+zweiten Falle eine gleich grosse Drehung nach links eintritt.</p>
+<p>In dem Falle also, wo an ein Kohlenstoffatom vier von ein-
+ander verschiedene Atome oder Atomcomplexe angelagert sind,
+lässt unsere Hypothese die Möglichkeit optischer Activität der
+betreffenden Combination erwarten. Die beiden möglichen Iso-
+meren werden gleich grosses aber dem Zeichen nach entgegen-
+gesetztes Drehungsvermögen besitzen.</p>
+<pb="37"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+<p>Die Anwendung der gewonnenen Resultate auf Combina-
+tionen, welche mehrere asymmetrische Kohlenstoffatome be-
+sitzen, gestaltet sich sehr einfach.</p>
+<p>Die Formel <i>C</i> (R<up>1</up> R<up>2</up> R<up>3</up>) <i>C</i> (R<up>4</up> R<up>5</up> R<up>6</up>) führt zu vier Isomeren,
+deren Symbole wir nach den Seite 8 gemachten Bemerkungen
+bezeichnen mit:</p>
+<table>
+<r><cel>+ (A)</cel><cel>+ (A)</cel><cel>&2014; (A)</cel><cel>&2014; (A)</cel></r>
+<r><cel>+ (B)</cel><cel>&2014; (B)</cel><cel>+ (B)</cel><cel>&2014; (B).</cel></r>
+</table>
+<p>Bezeichnen wir das optische Drehungsvermögen des einen
+asymmetrischen Kohlenstoffatomes, an welches die Gruppenreihe
+(A) angelagert ist, mit dem Symbol + A oder &2014; A, je nach der
+positiven oder negativen Aufeinanderfolge der Gruppen und
+analog das optische Drehungsvermögen des zweiten asymmetri-
+schen Kohlenstoffatomes mit + B oder &2014; B, so erhalten wir
+als Ausdruck des Drehungsvermögens der vier Isomeren die
+Symbole:
+<c>1) A + B, 2) A &2014; B, 3) &2014; A + B, 4) &2014; A &2014; B.</c></p>
+<p>Hieraus ersieht man, dass die Isomeren in Bezug auf ihr
+optisches Drehungsvermögen paarweise zusammengestellt wer-
+den können, indem 1) und 4) sowohl als 2) und 3) gleiches aber
+dem Zeichen nach entgegengesetztes Rotationsvermögen zeigen.</p>
+<p>In dem Falle einer symmetrischen Formel mit zwei asym-
+metrischen Kohlenstoffatomen bestehen nur drei Isomere, deren
+Drehungsvermögen sein würde:
+<c>1) A + A = 2 A, 2) A &2014; A = 0, 3) &2014; A &2014; A = &2014; 2 A.</c></p>
+<p>In dem unter 2) verzeichneten Falle fehlt das optische
+Drehungsvermögen gänzlich, obgleich die betreffende Combina-
+tion asymmetrische Kohlenstoffatome enthält. Wir wollen diesen
+Fall, wo die durch ein oder mehrere asymmetrische Kohlenstoff-
+atome veranlasste optische Activität durch das gleiche aber ent-
+gegengesetzte Drehungsvermögen eines zweiten oder mehrerer
+asymmetrischen Kohlenstoffatome aufgehoben wird, ein Fall, der
+nur bei der Symmetrie der Formel stattfinden kann, den <g>neu-
+tralen Fall</g> nennen.</p>
+<p>Die Weinsäuren bieten für das eben Gesagte ein vollkom-
+<pb="38"/>
+<kt>Dritter Abschnitt.</kt>
+menes Beispiel dar. Die Formel dieser Körper ist symmetrisch
+und enthält zwei asymmetrische Kohlenstoffatome:
+<c>(CO<do>2</do> H) <i>C</i>H (OH) . <i>C</i>H (OH) (CO<do>2</do> H).</c>
+In der That sind die drei Isomeren dieser Formel bekannt: die
+Rechts- und Linksweinsäure mit gleichem aber entgegengesetz-
+tem Drehungsvermögen und die optisch inactive Weinsäure.</p>
+<p>Bei Combinationen mit drei und mehr asymmetrischen Koh-
+lenstoffatomen wiederholen sich die angestellten Betrachtungen
+in ganz analoger Weise. Bei Anwendung des entsprechenden
+Ausdrucks für das optische Drehungsvermögen der einzelnen
+Kohlenstoffatome ersieht man, dass die folgende Regel stets auf-
+recht erhalten bleibt: Die Isomeren gehören paarweise zusam-
+men, indem je zwei die gleiche aber entgegengesetzte optische
+Activität zeigen.</p>
+<p>Die Verschiedenheit der isomeren Körper von gleicher For-
+mel, deren Zahl mit der Zahl der asymmetrischen Kohlenstoff-
+atome im Molecül so ausserordentlich schnell steigt, wird bei
+dem gänzlichen Mangel chemischer Unterscheidungsmerkmale
+und der oft vollkommenen Aehnlichkeit gewisser physikalischer
+Eigenschaften demnach am leichtesten aus der Verschiedenheit
+des optischen Drehungsvermögens erkannt werden. Es sind
+auch schon einzelne Gruppen von Körpern derselben chemischen
+Formel bekannt, deren Unterscheidungsmerkmal einzig und
+allein in ihrem Verhalten gegen das polarisirte Licht besteht.</p>
+<p>So z. B. die Körper der Traubenzuckergruppe von der
+Formel
+<c>CH<do>2</do> (OH) (<i>C</i>H . OH)<do>4</do> COH.</c>
+Unsere Hypothese führt zu 2<up>4</up> = 16 Isomeren von dieser For-
+mel, von denen je zwei gleiches und entgegengesetztes Drehungs-
+vermögen zeigen werden.</p>
+<p>Man kennt bereits mehrere Körper dieser Formel, welche
+auf ihre optische Activität genauer untersucht sind: die Dex-
+trose, Laevulose und Lactose <fn="1)">Vergl. S. 27.</fn>.</p>
+<p>Ferner die von <g>Gorup-Besanez</g> bei Oxydation des Man-
+<pb="39"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+nits erhaltene Mannitose, welche optisch inactiv zu sein scheint <fn="1)">Ann. Chem. Pharm. <b>118,</b> 257.</fn>.
+<g>Bouchardat</g> <fn="2)">Ann. Chim. Phys. [4], <b>27,</b> 70.</fn> führt sogar acht isomere Glucosen an.</p>
+<p>Die Isomerie der Mannit-, Glucon- und Dextronsäure, welche
+sämmtlich der Formel
+<c>(CO<do>2</do> H) (<i>C</i>H . OH)<do>4</do> CH<do>2</do> (OH)</c>
+angehören findet höchst wahrscheinlich ihre Erklärung durch
+die Anwesenheit von vier asymmetrischen Kohlenstoffatomen.</p>
+<p>Von der symmetrischen Formel des Mannits existiren
+2 (2<up>2</up> + 1) = 10 Isomere, deren Drehungsvermögen sein werden:
+2 (A + B) und &2014; 2 (A + B), 2 (A &2014; B) und &2014; 2 (A &2014; B), 2 A und
+&2014; 2 A, 2 B und &2014; 2 B.</p>
+<p>Ausser diesen acht optisch activen Isomeren sind noch zwei
+inactive möglich. Durch unsere Hypothese wird nicht nur zu-
+nächst die Isomerie des Mannits und Dulcits erklärt, sondern
+auch die im Verhältniss zu der Anzahl der asymmetrischen
+Kohlenstoffatome geringfügige optische Activität der genannten
+Körper. Jedenfalls findet hier eine theilweise Neutralisation
+des verschiedenen Drehungsvermögens statt, welches jedes ein-
+zelne asymmetrische Kohlenstoffatom für sich dem Molecül ver-
+leihen würde. In der That, wird die Symmetrie der Formel
+zerstört, welche die theilweise Neutralisation bewirkt, so ver-
+mehrt sich das Drehungsvermögen, wie durch das Verhalten
+des Mannitans, sowie der Nitro- und Acetylderivate des Man-
+nits erwiesen wird.</p>
+<p>Durch die symmetrische Formel:
+<c>(CO<do>2</do> H) (<i>C</i>H . OH)<do>4</do> (CO<do>2</do> H)</c>
+wird die Isomerie der Zuckersäure, Schleimsäure und Isoschleim-
+säure erklärt, sowie auch die optische Activität der ersteren.
+Die Schleimsäure und Isoschleimsäure, welche beide optisch
+inactiv sind, stellen die beiden möglichen inactiven Isomeren
+der obigen Formel dar.</p>
+<p>Die angeführten Beispiele könnten noch durch zahlreiche
+Analogien vermehrt werden. Es sei hier nur noch Gelegenheit
+<pb="40"/>
+<kt>Dritter Abschnitt.</kt>
+genommen, die Schwierigkeiten zu betrachten, welche sich der
+Darstellung von optisch activen Körpern entgegenstellen, wenn
+man als Ausgangsmaterial inactive Körper wählt.</p>
+<p>Geht man von einer inactiven Substanz aus, deren Formel
+kein asymmetrisches Kohlenstoffatom enthält, so wird, um zu
+einem optisch activen Derivat zu gelangen, es erforderlich sein,
+durch eine Reaction irgend welcher Art Asymmetrie der Koh-
+lenstoffatome herbeizuführen. Mag nun diese Reaction in einer
+Addition oder Substitution bestehen, im Allgemeinen werden sich
+gleiche Mengen von Isomeren mit entgegengesetztem Drehungs-
+vermögen bilden, so dass eine optisch inactive Mischung entsteht.</p>
+<p>Als Beispiel sei die Addition von Brom an Male&00EF;n- und
+Fumarsäure angeführt. Die folgenden Symbole für die beiden
+Säuren sind nach der S. 13 gemachten Bemerkung wohl ohne
+Weiteres verständlich.</p>
+<p>Wir haben für die Male&00EF;nsäure die Symbole:
+<c><formel> oder <formel>,</c>
+da wir wegen der Leichtigkeit, mit welcher dieselbe in ihr An-
+hydrid übergeht, die Carboxylgruppen benachbart annehmen
+müssen.</p>
+<p>Für die Fumarsäure ergeben sich die Symbole:
+<c><formel> oder <formel>.</c>
+Bei der Addition von Brom entstehen aus der Male&00EF;nsäure die
+Säuren:
+<c><formel> und <formel>.</c>
+Diese beiden Symbole sind aber identisch und bezeichnen ein
+und dieselbe Dibrombernsteinsäure, welche optisch inactiv ist,
+da die Activität, welche die Asymmetrie des einen Kohlenstoff-
+atomes veranlasst, aufgehoben wird durch das gleich grosse aber
+entgegengesetzte Rotationsvermögen des zweiten asymmetrischen
+Kohlenstoffatomes, an welches dieselben Gruppen in entgegen-
+<pb="41"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+gesetzter Reihenfolge angelagert sind. Die aus Male&00EF;nsäure
+entstehende Dibrombernsteinsäure ist ein Beispiel des neutralen
+Falles und ein Analogon der optisch inactiven Weinsäure.</p>
+<p>Die Fumarsäure liefert bei Addition von Brom die Säuren:
+<c><formel> und <formel>,</c>
+das heisst ein Gemisch von zwei Dibrombernsteinsäuren, welche
+gleiche aber entgegengesetzte optische Activität besitzen. Da
+nun a priori angenommen werden muss, dass beide Modifica-
+tionen in gleicher Menge entstehen, so kann die resultirende
+Mischung optische Activität nicht besitzen. Die aus Furmar-
+säure entstehende Dibrombernsteinsäure entspricht der eben-
+falls optisch inactiven Traubensäure.</p>
+<p>Die Trennung zweier solcher in einer optisch inactiven
+Mischung befindlichen mit entgegengesetztem Drehungsver-
+mögen begabter Isomeren gehört bei der vollkommenen Ueber-
+einstimmung ihres chemischen Charakters zu den schwierigsten
+Problemen. Es ist bis jetzt nur ein einziges Beispiel einer
+solchen Trennung auf directem Wege bekannt. Die Trauben-
+säure, welche wir mit Sicherheit als ein Gemisch der beiden
+activen Weinsäuren ansprechen können, liefert mit Natrium
+und Ammon ein Salz der Formel C<do>4</do> H<do>4</do> O<do>6</do> Na N H<do>4</do>.</p>
+<p>Dieses Salz kann in Krystallen des rhombischen Systemes
+erhalten werden, welche den Gesetzmässigkeiten der Hemi&00EB;drie
+unterworfen sind und in Folge dessen die Erscheinung des
+Enantiomorphismus erkennen lassen. Wie sich nun ergeben
+hat, dreht die Lösung der Krystalle der einen Art die Polarisa-
+tionsebene des Lichtes nach rechts, während die Lösung der zu
+diesen enantiomorphen Krystalle eine Drehung der Polarisa-
+tionsebene nach links hervorbringt. Die aus beiden Arten der
+Krystalle abgeschiedenen Säuren verhalten sich analog und er-
+weisen sich als identisch mit der Rechts- und Linksweinsäure.
+Bei der Krystallisation des erwähnten Doppelsalzes wird also
+<pb="42"/>
+<kt>Dritter Abschnitt.</kt>
+die optisch inactive Traubensäure in ihre Componenten, die
+beiden activen Weinsäuren, gespalten.</p>
+<p>Eine solche Spaltung durch Krystallisation findet aber in
+allen anderen Fällen nicht statt, im Gegentheil scheint die
+Trennung der beiden entgegengesetzt activen Componenten
+einer inactiven Mischung noch erschwert zu werden durch den
+Umstand, dass die mit entgegengesetzter optischer Activität
+begabten Molecüle eine gewisse gegenseitige Bindungsfähig-
+keit zeigen <fn="1)">Bemerkenswerthe Analogie zu dieser Beobachtung zeigt der Um-
+stand, dass circularpolarisirende Krystalle das Bestreben zeigen in sym-
+metrischer Verwachsung aufzutreten; vergl. P. <g>Groth</g> &201E;über symmetrische
+Verwachsungen circularpolarisirender Krystalle&201C;: Pogg. Annal. <b>158</b>
+[1876], 214.</fn>.</p>
+<p>Die chemische Identität der beiden activen Weinsäuren,
+welche sich in allen ihren Verbindungen mit optisch inactiven
+Substanzen darthut, hört auf, sobald optisch active Substan-
+zen in Wirkung treten. So verbindet sich z. B. das saure Ammon-
+salz der Rechtsweinsäure mit dem sauren Ammonsalz der Links-
+äpfelsäure zu einem leicht krystallisirenden Doppelsalze. Das
+saure Ammonsalz der Linksweinsäure ist dagegen nicht fähig
+mit dem sauren Ammonsalz der Linksäpfelsäure eine Verbin-
+dung einzugehen.</p>
+<p>Die Rechtsweinsäure bildet mit Linksasparagin eine kry-
+stallisirbare Verbindung, die Linksweinsäure lässt sich mit Aspa-
+ragin nicht vereinigen und andere Beispiele mehr <fn="2)"><g>Kekulé</g>: Lehrb. d. org. Chemie II, 196.</fn>.</p>
+<p>Diese offenbare gegenseitige Bindungsfähigkeit entgegen-
+gesetzt activer Molecüle, welche deren directe Trennung er-
+schwert, giebt vielleicht ein Mittel an die Hand, auf Umwegen
+zu einer solchen Trennung zu gelangen. Bringt man z. B. in
+eine active Mischung von n Molecülen einer rechtsdrehenden
+Säure mit n Molecülen derselben linksdrehenden Säure n Mole-
+cüle einer rechtsdrehenden Base, so wird diese sich mit der
+linksdrehenden Säure vereinigen und das entstandene Salz
+könnte durch Krystallisation von der nicht in Verbindung
+gegangenen rechtsdrehenden Säure abgeschieden werden.</p>
+<pb="43"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+<p>Wenn man andererseits ausgeht von einem inactiven Kör-
+per, der asymmetrische Kohlenstoffatome enthält und dessen
+Inactivität auf der Symmetrie der Formel beruht, so könnte
+man hoffen durch Zerstörung der Symmetrie der Formel zu
+einem optisch activen Derivate zu gelangen. Als Beispiel diene
+der Erythrit:
+<c>CH<do>2</do> (OH) . <i>C</i>H (OH) . <i>C</i>H (OH) . CH<do>2</do> (OH).</c>
+Derselbe ist inactiv, weil Gleichgewicht zwischen den entgegen-
+gesetzten Activitäten besteht, deren Veranlassung die beiden
+asymmetrischen Kohlenstoffatome sind. Durch Behandlung
+mit Ameisensäure bei höherer Temperatur hat <g>Henninger</g> <fn="1)">Berl. Ber. <b>5,</b> 1059.</fn>
+aus dem Erythrit ein Glycol der Formel C<do>4</do> H<do>6</do> (OH)<do>2</do> erhalten.
+Die Constitution des letzteren wird wohl am einfachsten durch
+die folgende Gleichung erklärt:
+<c>CH<do>2</do> (OH) . <i>C</i>H (OH) . <i>C</i>H (OH) . CH<do>2</do> (OH) + HCO<do>2</do> H
+= CO<do>2</do> + 2 H<do>2</do> O + CH<do>2</do> (OH) . <i>C</i>H (OH) . CH = CH<do>2</do>.</c></p>
+<p>Hierbei verliert die vorher symmetrische Formel ihre Sym-
+metrie ohne dass die Asymmetrie des einen Kohlenstoffatomes
+verschwindet und man könnte optische Activität des Derivates
+erwarten. Allein bei ihrer Oxydation greift die Ameisensäure
+den Erythrit gemäss der Symmetrie seiner Formel von beiden
+Seiten an und zwei Molecüle desselben werden in verschiedener
+Weise verändert.
+<c><formel></c>
+giebt
+<c><formel></c>
+und
+<c><formel>.</c>
+Das heisst man erhält gleiche Mengen von Isomeren mit ent-
+gegengesetzter optischer Activität, welche abermals eine inactive
+Mischung geben.</p>
+<pb="44"/>
+<kt>Dritter Abschnitt.</kt>
+<p>In einzelnen Fällen ist es jedoch wirklich gelungen, ver-
+schiedene Modificationen optisch activer Körper in einander
+überzuführen. So erhielt <g>Pasteur</g> <fn="1)">Annal. Chem. Pharm. <b>88,</b> 211.</fn> beim Erhitzen von rechts-
+weinsaurem Cinchonin Traubensäure, welche nach oben erwähn-
+ter Weise in Rechts- und Linksweinsäure gespalten werden kann.
+Das Problem der Darstellung einer optisch activen Substanz
+aus ihren Elementen wurde gelöst von <g>Jungfleisch</g> <fn="2)">Compt. rend. <b>76,</b> 286; Bull. soc. chim. <b>19,</b> 194.</fn>. Der-
+selbe erwies, dass die aus Aethylen, durch Aethylenbromür,
+Aethylencyanür, Bernsteinsäure und Dibrombernsteinsäure er-
+haltene Weinsäure ein Gemenge von Traubensäure und inactiver
+Weinsäure ist. Erstere lässt sich nach bekannter Weise in
+Rechts- und Linksweinsäure zerlegen. Durch diese Thatsache
+ist die vielfach gehegte Meinung, dass nur der organische
+Lebensprocess Kohlenstoffverbindungen, welche mit optischer
+Activität begabt sind, liefern könne, widerlegt.</p>
+<p>Als Schlussfolgerung aus dem Gesagten lassen sich nun
+folgende Sätze aufstellen:</p>
+<p>1) Jede Kohlenstoffverbindung, welche in Lösung befindlich
+optisches Drehungsvermögen zeigt, enthält ein oder mehrere
+asymmetrische Kohlenstoffatome.</p>
+<p>2) In vielen Fällen genügt die Anwesenheit von asym-
+metrischen Kohlenstoffatomen nicht, um die optische Activität
+erscheinen zu lassen. So z. B. kann bei einer Combination von
+symmetrischer Formel die Asymmetrie von Kohlenstoffatomen
+mit optischer Inactivität folgerichtig verbunden sein (neutraler
+Fall). Ferner kann die optisch inactive Substanz aus einem
+Gemisch gleicher Mengen isomerer activer Verbindungen
+bestehen, deren Drehungsvermögen gleich und entgegengesetzt
+ist. Endlich scheint es, dass nicht nur die Verschiedenheit
+der an den asymmetrischen Kohlenstoff angelagerten Gruppen,
+sondern auch deren Specialcharakter von Einfluss auf die
+Grösse des resultirenden Drehungsvermögens ist.</p>
+<p>Zum Schluss möge andeutungsweise noch eine zweite Mög-
+<pb="45"/>
+<kt>Optische Activität von Kohlenstoffverbindungen.</kt>
+lichkeit der optischen Activität erwähnt werden, welche nicht
+auf dem Vorkommen asymmetrischer Kohlenstoffatome beruht.
+Wir haben im ersten Abschnitt (S. 14) gesehen, dass in dem
+Falle doppelter gegenseitiger Bindung von zwei Kohlenstoff-
+atomen, sei dieselbe direct oder durch Vermittelung mehrerer
+unter einander doppelt gebundener Kohlenstoffatome bewirkt,
+zwei Isomere der betreffenden Formel existiren, wenn die Grup-
+pen, welche die beiden freien Valenzen jedes Kohlenstoffatomes
+am Ende der Kette sättigen, von einander verschieden sind.
+Wenn die Zahl der Kohlenstoffatome zwischen den beiden
+äussersten Gliedern der Kette eine ungerade ist, so sind die
+betreffenden Isomeren durch zwei enantiomorphe Figuren dar-
+gestellt. In letzterem Falle bilden die Gleichgewichtslagen der
+vier angelagerten Gruppen die Ecken eines asymmetrischen
+Tetra&00EB;ders <fn="1)">Vergl. Anhang VII.</fn>, so dass man zufolge der S. 36 erörterten Ueber-
+legungen für diesen Fall optische Activität der betreffenden
+Combinationen erwarten dürfte.</p>
+<hr>
+<pb>
+<d1><b><g>Anhang</g>.</b></d1>
+<p>Zur Erleichterung der Vorstellung ist es erforderlich, die im
+ersten Abschnitt beschriebenen Figuren durch Modelle sich zur
+directen Anschauung zu bringen. In den folgenden Figuren sind
+die Netze der betreffenden sterischen Figuren entworfen. Diesel-
+ben werden am besten aus mässig dickem Cartonpapier ausge-
+schnitten. Die punktirten Linien werden mit einem scharfen Feder-
+messer vorsichtig angeritzt. Durch Umknicken längs der geritzten
+Linien wird die Figur räumlich zusammengebracht und durch
+Festkleben der seitlich angebrachten Ausschnitte an die innere
+Seite der Flächen zusammengehalten. Die obere Seite des
+Netzes bildet alsdann die Aussenflächen der entstehenden Figur.</p>
+<p>I. Ohne auf die geometrische Form des Tetra&00EB;ders
+Rücksicht zu nehmen, soll zunächst dargethan werden, dass
+vier verschiedene Gruppen sich unter sonst gleichen Verhält-
+nissen in zwei verschiedenen Reihenfolgen anordnen können.
+Die Verschiedenheit der Gruppen wird angedeutet durch ver-
+schiedene Farben, z. B. weiss, schwarz, roth und blau. Das
+Tetra&00EB;der sei ein reguläres, die einzelnen Flächen also gleich-
+seitige Dreiecke. Der weisse Carton wird in der der Fig. 39 und
+40 dargestellten Weise mit farbigem Papier beklebt (die Buch-
+staben sind die Anfangsbuchstaben der betreffenden Farben).
+Fig. 39 und 40 liefern alsdann zwei Tetra&00EB;der, welche zwar in
+Bezug auf ihre geometrische Gestalt identisch sind, nicht aber
+in Bezug auf die Reihenfolge der durch Farben unterschiedenen
+<pb="47"/>
+<kt>Anhang.</kt>
+Ecken. Das eine ist das Spiegelbild des anderen. Einfacher
+gestaltet sich das Modell, wenn die in gleicher Anzahl vorhan-
+denen Elemente des Tetra&00EB;ders vertauscht werden, z. B. die
+<ab>Fig. 39.</ab>
+<abb>
+<ab>Fig. 40.</ab>
+<abb>
+Ecken mit den Flächen. Fig. 41 und 42 liefern zwei Tetra&00EB;der,
+welche in Bezug auf die Reihenfolge der durch Farben aus-
+gezeichneten Flächen nicht identisch sind.</p>
+<p>II. Das der Fig. 13 entsprechende Modell würde schwierig
+von festem Zusammenhalt dargestellt werden können. Da es
+<ab>Fig. 41.</ab>
+<abb>
+<ab>Fig. 42.</ab>
+<abb>
+nur darauf ankommt, die verschiedenartige Reihenfolge in der
+räumlichen Anordnung der Gruppen darzuthun, so können auch
+hier wie bei Fig. 41 und 42 die Ecken des Tetra&00EB;ders mit den
+Flächen versauscht werden. Das einer Combination mit zwei
+einfach unter einander gebundenen Kohlenstoffatomen ent-
+sprechende Bild würde demnach aus zwei Tetra&00EB;dern bestehen,
+welche eine Fläche gemeinsam haben und so eine trigonale Py-
+ramide (im krystallographischen Sinne des Wortes) darstellen.
+Die sechs Flächen dieser Figur bezeichnen die an die sechs
+freien Valenzen angelagerten Gruppen. Da die Combination
+<i>C</i>R<up>1</up> R<up>2</up> R<up>3</up> . <i>C</i>R<up>4</up> R<up>5</up> R<up>6</up> eben so viele Isomere liefert als <i>C</i>R<up>1</up> R<up>2</up> R<up>3</up>.
+<i>C</i>R<up>1</up> R<up>2</up> R<up>4</up>, so sei der letztere Fall als der einfachere (es sind im
+Ganzen nur vier verschiedene Gruppen vorhanden, also auch
+nur vier verschiedene Farben nöthig) in Betracht gezogen.</p>
+<pb="48"/>
+<kt>Anhang.</kt>
+<p>Fig. 43, 44, 45, 46 liefern die Symbole der vier Isomeren
+der Combination <i>C</i>R<up>1</up> R<up>2</up> R<up>3</up> . <i>C</i>R<up>1</up> R<up>2</up> R<up>4</up>. Mehr als diese vier ver-
+<ab>Fig. 43.</ab>
+<abb>
+<ab>Fig. 44.</ab>
+<abb>
+schiedenen Anordnungen sind nicht möglich, wenn man die
+Figuren, welche durch Drehung des oberen Tetra&00EB;ders um 120°
+<ab>Fig. 45.</ab>
+<abb>
+<ab>Fig. 46.</ab>
+<abb>
+nach rechts oder links entstehen, nur als Bilder verschiedener
+Bewegungsphasen auffasst.</p>
+<p>III. Fig. 47, 48, 49 stellen die drei möglichen Isomeren der
+symmetrischen Formel <i>C</i>R<up>1</up> R<up>2</up> R<up>3</up> . <i>C</i>R<up>1</up> R<up>2</up> R<up>3</up> dar. Die Netze
+<ab>Fig. 47.</ab>
+<abb>
+<ab>Fig. 48.</ab>
+<abb>
+<pb="49"/>
+<kt>Anhang.</kt>
+unterscheiden sich von den Fig. 43, 44, 45 und 46 durch Ver-
+tauschung von R<up>4</up> mit R<up>3</up>, also von blau mit roth. Vertauscht
+<ab>Fig. 49.</ab>
+<abb>
+man in Fig. 43 und 46 blau mit
+roth, so ist leicht einzusehen, dass
+die resultirenden Figuren (die eine
+davon ist Fig. 47) identisch sind.</p>
+<p>IV. Um ein Modell der Com-
+bination <formel> zu erhal-
+ten, werden zwei Tetra&00EB;der so zu-
+sammengeklebt, dass sie eine gemein-
+schaftliche Kante haben. Von den
+vier freien Ecken werden zwei, z. B.
+die der Gruppe R<up>1</up> entsprechenden, mit rother Farbe bezeichnet.
+Die Fig. 50 und 51 stellen die perspectivisch gezeichneten Mo-
+delle der Fumar- und Male&00EF;nsäure dar, wenn an den mit rother
+<ab>Fig. 50.</ab>
+<abb>
+<ab>Fig. 51.</ab>
+<abb>
+Farbe ausgezeichneten Ecken die Gruppe CO<do>2</do> H, an den anderen
+H angelagert gedacht wird.</p>
+<p>V. Die Modelle der Combination <formel> be-
+stehen aus drei in der Weise aneinander geketteten Tetra&00EB;dern,
+dass das mittelste je eine von zwei gegenüberliegenden Kanten
+mit je einem der beiden äusseren Tetra&00EB;der gemeinsam hat.
+Fig. 52 und 53 stellen perspectivisch gezeichnete Modelle der
+beiden Isomeren dar, wobei die Gruppe R<up>1</up> roth bezeichnet ist.</p>
+<p>VI. Bei den folgenden Netzen stellen die schwarz aus-
+<bs><g>van&2019;t Hoff</g>, Lagerung der Atome im Raume. 4</bs>
+<pb="50"/>
+<kt>Anhang.</kt>
+gezogenen Geraden die Durchschnittslinien der Symmetrie-
+ebenen des Tetra&00EB;ders mit den Flächen dar.</p>
+<ab>Fig. 52.</ab>
+<abb>
+<ab>Fig. 53.</ab>
+<abb>
+<p>1) C (R<up>1</up>)<do>4</do>: Fig. 54. Das Netz stellt vier gleichseitige unter
+einander gleiche Dreiecke dar.</p>
+<p>2) C (R<up>1</up>)<do>3</do> R<up>2</up>: Fig. 55. Das Netz enthält ein gleichseitiges
+Dreieck (Seitenlänge a) und drei unter einander gleiche gleich-
+<ab>Fig. 54.</ab>
+<abb>
+<ab>Fig. 55.</ab>
+<abb>
+schenklige Dreiecke (Schenkellänge b). b ist von a in der
+Weise abhängig, dass es in folgenden Grenzen eingeschlossen
+sein muss: <formel>.</p>
+<pb="51"/>
+<kt>Anhang.</kt>
+<p>3) C (R<up>1</up>)<do>2</do> (R<up>2</up>)<do>2</do>: Fig. 56. Das Netz enthält im Allgemei-
+nen zwei Paare von gleichschenkligen Dreiecken, deren Schen-
+kel (a) gleich sind, während die Basen (b und c) ungleich sind.
+Es bestehen folgende Abhängigkeitsverhältnisse dieser Grössen
+von einander: b < 2a, und ausserdem noch, wenn b gewählt
+<ab>Fig. 56.</ab>
+<abb>
+<ab>Fig. 57.</ab>
+<abb>
+ist, <formel>. Für den besonderen Fall, dass die
+vier gleichschenkligen Dreiecke untereinander gleich sind, ist
+das resultirende Tetra&00EB;der die hemiedrische Form der tetrago-
+nalen Pyramide, das tetragonale Spheno&00EF;d.</p>
+<p>4) C (R<up>1</up>)<do>2</do> R<up>2</up> R<up>3</up>: Fig. 57. Das Netz enthält zwei von einan-
+der verschiedene gleichschenklige Dreiecke, mit der gemeinschaft-
+lichen Basis a und den Schenkeln b und c, ausserdem im All-
+gemeinen zwei gleiche ungleichseitige Dreiecke mit den Seiten
+b, c und d. Zwischen diesen Grössen besteht folgendes Abhän-
+gigkeitsverhältniss: &frac12; a < b < &221E; und &frac12; a < c < &221E;, ferner,
+wenn b > c,
+<formel>.</p>
+<p>5) C R<up>1</up> R<up>2</up> R<up>3</up> R<up>4</up>: Fig. 58 und 59 (a. f. S.). Das Netz enthält
+im Allgemeinen vier ungleichseitige Dreiecke. Wenn man das Netz
+in der Weise zusammenfügt, dass einmal die obere Seite, das
+<pb="52"/>
+<kt>Anhang.</kt>
+andere Mal die untere Seite zur Aussenfläche der entstehenden
+Figur wird, so erhält man zwei enantiomorphe Tetra&00EB;der, welche
+die beiden Isomeren der oben erwähnten Combination dar-
+stellen. Das Abhängigkeitsverhältniss der im Allgemeinen von
+<ab>Fig. 58.</ab>
+<abb>
+<ab>Fig. 59.</ab>
+<abb>
+einander verschiedenen sechs Kanten des Tetra&00EB;ders von ein-
+ander erfordert, dass zwischen je drei von fünf beliebig gewähl-
+ten zu einem Dreieck vereinigten Kanten die bekannte Relation
+herrscht, dass die Summe von zweien derselben stets grösser ist,
+als die dritte. Die sechste Kante ist alsdann zwischen zwei
+Grenzwerthen eingeschlossen, deren Ableitung hier zu weit füh-
+ren würde. Man kann übrigens bei diesen asymmetrischen
+Tetra&00EB;dern noch verschiedene Abstufungen der Regelmässigkeit
+herrührend von der Gleichheit oder Verschiedenheit der vier
+aus ungleichseitigen Dreiecken bestehenden Flächen unterschei-
+den. Die am regelmässigsten gebildeten hierher gehörigen
+Körper sind mit Benutzung der Figuren 60 und 61 zu con-
+struiren. Das Netz besteht aus vier gleichen ungleichseitigen
+Dreiecken. Das resultirende Tetra&00EB;der hat drei Paare von
+gleichen gegenüberliegenden Kanten. Es ist dies die aus der
+<pb="53"/>
+<kt>Anhang.</kt>
+Krystallographie bekannte hemi&00EB;drische Form der rhombischen
+Pyramide, das sogenannte rhombische Spheno&00EF;d. Das Abhän-
+<ab>Fig. 60.</ab>
+<abb>
+<ab>Fig. 61.</ab>
+<abb>
+gigkeitsverhältniss der drei Seiten a, b, c von einander ist in
+diesem Falle ziemlich einfach, man hat nämlich:
+<c>a<up>2</up> + b<up>2</up> > c<up>2</up>, a<up>2</up> + c<up>2</up> > b<up>2</up>, b<up>2</up> + c<up>2</up> > a<up>2</up>.</c></p>
+<p>VII. Die Combination <formel> kann wie oben
+unter V. angegeben ist construirt werden. Allein bei Rücksicht-
+nahme auf die geometrischen Verhältnisse ergiebt sich, dass nur
+<ab>Fig. 62.</ab>
+<abb>
+<ab>Fig. 63.</ab>
+<abb>
+das mittlere Tetra&00EB;-
+der ein reguläres ist.</p>
+<p>Die endständigen
+Tetra&00EB;der sind sol-
+che, welche der Com-
+bination C (R<up>1</up>)<do>2</do> R<up>2</up>R<up>3</up>
+entsprechen, deren
+Netz durch Fig. 57
+dargestellt ist. An
+ein reguläres Te-
+tra&00EB;der werden also
+zwei der Fig. 57 ent-
+sprechende Tetra&00EB;-
+der mit einer gleichen Kante angeheftet. Fig. 62 und 63 zeigen
+die entstehenden Modelle in perspectivischer Zeichnung. Die
+mit R<up>1</up> und R<up>2</up> bezeichneten Ecken bilden für sich die Eck-
+punkte zweier enantiomorpher rhombischer Spheno&00EF;de, wie sie
+durch die Modelle 60 und 61 dargestellt sind.</p>
+<hr>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>

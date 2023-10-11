@@ -1,0 +1,2987 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b><in>S</in>ammlung
+<in>N</in>euer <in>O</in>den
+und
+<in>L</in>ieder.</b>
+<abb>
+<b>Zweyter Theil.</b>
+<hr>
+Hamburg, bey Johann Carl Bohn. 1744.</front>
+<pb>
+<pb>
+<hr>
+<d1><b>Vorbericht.</b></d1>
+<p><in>Z</in>u einer neuen Sammlung meiner vielleicht &ue;berfl&ue;s-
+sigen Oden und Lieder w&ue;rde mich schwerlich ent-
+schlossen, und noch weniger einige, die ich in l&ae;ngst
+verflossenen und fast vergessenen Zeiten verfertiget, dazu hervorge-
+suchet haben, wenn ich nicht zugleich da&sr; Vergn&ue;gen h&ae;tte, dem
+Leser, au&sr; dem neunten Bande der <aq>Histoire de l&2019;Academie de&sr;
+Inscription&sr; &amp; belle&sr; Lettre&sr;,</aq> de&sr; gelehrten <aq>De la Nauze</aq> zwo
+beliebte Abhandlungen von den Liedern der alten Griechen in einer
+sch&oe;nen Uebersetzung zu liefern. Diese ist, schon vor zwey Jahren,
+von dem Herrn Ebert abgefasset worden, der sowohl durch Kennt-
+niﬂ der besten Sprachen und gr&ue;ndliche Wissenschaft, al&sr; durch
+lebhaften und echten Witz in einem Alter bereit&sr; ein Muster ist, in
+welchem so viele kaum gl&ue;cklich nachzubilden anfangen. E&sr;
+w&ue;rde zwar, meine&sr; Erachten&sr;, wo nicht Dank verdienen, doch
+<bs>* 2</bs><cw>wohl</cw>
+<pb>
+wohl keiner Entschuldigung bed&ue;rfen, wenn man, durch freye
+Nachahmungen, unsere Dichter auf die anmuthigen Spuren de&sr;
+lyrischen Sch&oe;nen weiter zu bringen versuchte, da&sr; un&sr; in den
+angenehmsten Oden der Alten oder in den gef&ae;lligsten Liedern der
+Neuern oder der Au&sr;l&ae;nder r&ue;hret, welche den Deutschen gleich-
+sam vorgesungen haben. Gleichwohl habe ich in den f&ue;nf und
+zwanzig Liedern dieser Sammlung beyden nicht verhaftet seyn, son-
+dern meinem Geschmack oder Eigensinn g&ae;nzlich folgen und nur in
+einem einzigen nachahmen wollen, da&sr; die Kenner de&sr; Horaz so-
+gleich von allen &ue;brigen unterscheiden werden. Hamburg, den
+3ten Jul. 1744.</p>
+<hr>
+<cw><b>Jnhalt.</b></cw>
+<pb>
+<con><d1><b>Jnhalt.</b></d1>
+<aq>I.</aq> An die Freude. _ _ Seite 1
+<aq>II.</aq> Da&sr; Kind. _ _ = 3
+<aq>III.</aq> Die Alte. _ _ = 4
+<aq>IV.</aq> Der J&ue;ngling. 1728. _ _ = 6
+<aq>V.</aq> Der Alte. _ _ = 8
+<aq>VI.</aq> Der verliebte Bauer. _ _ = 10
+<aq>VII.</aq> Der Nutzen der Z&ae;rtlichkeiten. _ _ = 14
+<aq>VIII.</aq> Der Wein. 1728. _ _ = 16
+<aq>IX.</aq> Gr&ae;nzen der Pflicht. _ _ = 18
+<aq>X.</aq> Der Morgen. _ _ = 20
+<aq>XI.</aq> Die Liebe. _ _ = 23
+<aq>XII.</aq> Die Nacht. 1731. _ _ = 24
+<aq>XIII.</aq> Der Fr&ue;hling. _ _ = 27
+<aq>XIV.</aq> Die Land-Lust. _ _ = 28
+<aq>XV.</aq> Der Kuﬂ. _ _ = 31
+<aq>XVI.</aq> Mischmasch. 1729. _ _ = 32
+<aq>XVII.</aq> Unverdiente Eifersucht 1729. _ _ = 34
+<aq>XVIII.</aq> Da&sr; Beyspiel. 1728. _ _ = 39
+<aq>XIX.</aq> Die Verg&oe;tterung: an ein Frauenzimmer, al&sr; e&sr; die
+poetische Geschichte de&sr; Gautruche la&sr;. 1728. _ _ = 41
+<aq>XX.</aq> Die Helden. _ _ = 43
+<aq>XXI.</aq> Die Alster. _ _ = 47
+<aq>XXII.</aq> W&ue;nsche und Gesundheiten. _ _ = 49
+<aq>XXIII.</aq> Die erste Liebe. _ _ = 53
+<aq>XXIV.</aq> Zeme&sr; und Zulima. _ _ = 54
+<aq>XXV.</aq> Da&sr; Heidelberger Faﬂ. 1728. _ _ = 59
+<d2><b>Nachlese.</b></d2>
+Da&sr; Gesellschaftliche. 1729. _ _ = 63
+An den Schlaf. 1731. _ _ = 66
+Die Jugend. 1730. _ _ = 68
+Der Weinberg. 1732. _ _ = 70
+Der schlechte Wein. 1729. _ _ = 71</con>
+<pb>
+<cit><aq><c><i><g>HORATIVS</g>.</i></c>
+Musi&sr; amicu&sr;, tristitiam &amp; metu&sr;
+Tradam protervi&sr; in mare Creticum
+Portare venti&sr;.</aq></cit>
+<pb>
+<d1><b>Abhandlungen
+von den
+<in>L</in>iedern
+der alten Griechen.</b></d1>
+<pb>
+<pb>
+<hr>
+<d2><b>Erste Abhandlung.</b></d2>
+<p><in>D</in>er Gebrauch der Lieder ist den Menschen sehr nat&ue;rlich.
+Sie sind da&sr; Vergn&ue;gen und der Zeitvertreib der
+Kinder und der Alten, der Armen und der Reichen,
+derer, welche arbeiten, und derer, welche die Ruhe
+lieben. Dieser Geschmack, welchen man selbst im Grunde der Natur
+findet, muﬂ in allen Zeiten, und unter allen V&oe;lkern der Welt, allge-
+mein gewesen seyn. Folglich haben die Griechen, wenn sie sich darinn
+&ue;bten, nicht&sr; ander&sr; gethan, al&sr; wa&sr; schon die V&oe;lker, die vor ihnen
+gewesen waren, thaten, und wa&sr; auch seit der Zeit diejenigen, welche
+ihnen gefolget sind, gethan haben. Nur ist dabey, zum Vortheile der
+Griechen, dieser Unterscheid, daﬂ ihre Lieder leichter auf die Nachwelt
+gekommen sind, weil ihre Buchstaben sich weiter au&sr;gebreitet, und l&ae;n-
+ger erhalten haben, al&sr; die andern.</p>
+<p>Die Lieder waren bey ihnen eher im Gebrauch, al&sr; die Buchsta-
+ben. Weil ihnen Denkmale fehlten, worinn sie ihre Gesetze und ihre
+Geschichte auf bewahren konnten: so setzten sie dieselben in einen Gesang,
+um sich ihrer desto besser zu erinnern.</p>
+<p>Sie sungen ihre Gesetze, und diese&sr; machte, daﬂ man den Gesetzen
+und den Liedern einerley Namen, n&ae;mlich da&sr; Wort #, beylegte.
+Denn wenn Aristotele&sr;<fn="1"><aq>Arist probl.</aq> 17. 28.</fn> um die Ursache dieser Gleichheit de&sr; Namen&sr;
+f&ue;r zwo so unterschiedene Sachen fraget: so antwortet er selber, e&sr; sey
+darum geschehen, weil man, ehe die Buchstaben bekannt waren, die
+Gesetze gesungen, um sie nicht zu vergessen. E&sr; ist wahr, Josephu&sr;<fn="2"><aq>Joseph. contra Appion.</aq></fn>
+glaubet, und Plutarchu&sr;<fn="3"><aq>Plutarch. de Homeri PoÎt.</aq></fn> muthmaasset, daﬂ da&sr; Wort # in Ver-
+gleichung mit diesen ersten Zeiten neu sey, und erst nach der Zeit Ho-
+<bs>A 2</bs><cw>mer&sr;</cw>
+<pb="4"/>
+mer&sr; aufgekommen. Diese&sr; w&ue;rde also den Grund der Anmerkung,
+die Aristotele&sr; macht, umstossen, und den Schluﬂ, welchen man dar-
+au&sr; f&ue;r da&sr; Alterthum der griechischen Lieder ziehet, auf heben. Allein
+Josephu&sr; und Plutarchu&sr; k&oe;nnen, zumal, da sie etwa&sr; zweifelhaft re-
+den, die Glaubw&ue;rdigkeit de&sr; Aristotele&sr;, &ue;ber da&sr; Alter eine&sr; griechischen
+Worte&sr;, nicht verd&ae;chtig machen; zu geschweigen, daﬂ in dem Lobge-
+sange oder Hymnu&sr;,<fn="4"><aq>Homer. Hymn. in Apoll. vers.</aq> 20.</fn> der dem Apollo zu Ehren verfertiget, und dem
+Homer zugeschrieben ist, da&sr; Wort # gebraucht wird, um da&sr;
+Gesetz oder die Sing-Art de&sr; Gesange&sr; anzudeuten.</p>
+<p>Eben dieselben Ursachen, warum die alten Griechen vor der Erfin-
+dung der Buchstaben ihre Gesetze sungen, bewogen sie, auch ihre Ge-
+schichte, und &ue;berhaupt alle&sr; da&sr;, wa&sr; sie auf ihre Nachkommen brin-
+gen wollten, zu singen. Der Gesang war damal&sr; da&sr; einzige nat&ue;rli-
+che Mittel, alle&sr;, woran der Nation zu viel gelegen war, al&sr; daﬂ e&sr;
+vergessen werden sollte, von den V&ae;tern auf die Kinder fortzupflanzen.
+Man brauchte also diese Methode fast eben so in der Geschichte, al&sr; bey
+den Gesetzen; und die Gewohnheit, Dinge von allerley Arten zu singen,
+gefiel den Griechen so wohl, daﬂ sie noch nach der Einf&ue;hrung der Buch-
+staben fortdaurete. Daher waren alle Werke derer griechischen Schrift-
+steller,<fn="5"><aq>Strab. Lib. I. Plin. Lib. V. C. 56.
+&amp; Lib. VII. C. 56. Apul. Lib. II. Florid.
+Deser.</aq></fn> die vor Cadmu&sr; von Mileto und vor Pherecyde&sr; von Scyro&sr;
+gelebet haben, lauter St&ue;cke, die in Versen geschrieben waren, und die
+man singen konnte. E&sr; waren zwar nicht allemal blosse Lieder;<fn="6"><aq>Olymp. Lib. I.</aq></fn> aber
+e&sr; ist doch sehr glaublich, daﬂ man die meiste Zeit dergleichen brauchte,
+weil diese Art von Unterricht den Vortheil hat, daﬂ sie, wegen ihre&sr;
+leichten und ungek&ue;nstelten Wesen&sr;, und wegen ihrer K&ue;rze,<fn="7"><aq>Origin. C. XXXVII. Suida&sr; in
+#.</aq></fn> mehr,
+al&sr; alle andern, nach dem Begriffe aller Menschen ist.</p>
+<p>Wie die Buchstaben in den Schooﬂ Griechenlande&sr; aufgenommen
+waren, und darinn die K&ue;nste und Wissenschaften erzeugten: so erweck-
+ten die Lieder ein weitere&sr; Nachsinnen &ue;ber die Melodie und &ue;ber die
+Worte, wovon sie zusammen gesetzet waren. Die Gedanken &ue;ber die
+Melodie gaben zu den Regeln der Music Gelegenheit, und die Gedanken
+&ue;ber die Worte brachten nach und nach die Regeln der Dichtkunst her-
+vor. Anderseit&sr; erhoben die Music und die Poesie den Werth der Lie-
+der, und brachten sie zu einem Grade der Vollkommenheit, den sie in
+allen vorigen Jahrhunderten nicht hatten erreichen k&oe;nnen. Die nat&ue;r-
+liche Ordnung, welche die K&ue;nste in ihrem Fortgange gehalten, giebt
+un&sr; genug zu erkennen, wie die Dichtkunst, die Music und die Lieder
+auf diese Art von einander abgehangen. Diese Wahrheit wird noch
+dadurch bekr&ae;ftiget, daﬂ die alten Griechen f&ue;r die Lieder, die poetischen
+<cw>und</cw>
+<pb="5"/>
+und musicalischen St&ue;cke, einerley Namen brauchten. Alle drey hiessen
+ohne Unterscheid #, Lieder oder Ges&ae;nge; und ihre
+Verfasser #, oder S&ae;nger.</p>
+<p>Diese Namen erwecken un&sr; oft Schwierigkeiten, wenn wir die
+Alten lesen. Man weiﬂ nicht, ob sie von den Musici&sr;, oder von den
+Poeten, oder von denen, welche sich mit Liedern besch&ae;ftigten, haben
+reden wollen. Wir finden hiervon einige dunkle Stellen in der Odys-
+see de&sr; Homer&sr;. Jn dem ersten Buche singet Phemiu&sr; den Liebhabern
+der Penelope vor, wie schwer e&sr; sey, daﬂ die Griechen nach der Belage-
+rung der Stadt Troja wieder zur&ue;ck kommen k&oe;nnten. Jn dem drit-
+ten erscheinet ein S&ae;nger, den Agamemnon bey seiner Gemahlinn Cly-
+temnestra gelassen hatte, daﬂ er sie belustigen, und w&ae;hrend seiner Ab-
+wesenheit unterrichten sollte. Jn dem vierten singet und tanzet man
+bey einem Gastmahle, welche&sr; Menelau&sr; seinen B&ue;rgern gab. Jn dem
+achten singet Demodocu&sr; bey den Ph&ae;azern von den Buhlereyen de&sr;
+Mar&sr; und der Venu&sr;. Jm zw&oe;lften findet Ulysse&sr; da&sr; Mittel, dem
+Singen der Sirenen sicher zu zuh&oe;ren. Jm ein und zwanzigsten erhe-
+bet Phemiu&sr;, den die Liebhaber der Penelope wider seinen Willen zu sin-
+gen zwangen, vor dem Ulysse&sr; den Werth seine&sr; Singen&sr;, um dadurch
+dem Tode zu entgehen.</p>
+<p>Athen&ae;u&sr;,<fn="8"><aq>Athen. Lib. I. C.</aq> 12.</fn> welcher gewohnt ist, die Musico&sr;, die Dichter und
+die S&ae;nger, wenn ich diesen Namen brauchen darf, durch besondere
+Benennungen zu unterscheiden, giebt denen Personen in der Odyssee,
+die ich eben angef&ue;hret habe, nur den letzten Namen; und er redet von
+ihnen ziemlich weitl&ae;uftig, wie er auf die Lieder k&oe;mmt, die man bey
+Tische sang, ohne in andern Stellen, wo er von der Poesie und Music
+sehr au&sr;f&ue;hrlich gehandelt hat, da&sr; geringste von ihnen zu sagen. Er
+hat also geglaubet, daﬂ in diesen Erz&ae;hlungen der Odyssee bloﬂ von Lie-
+dern die Rede sey. E&sr; w&ue;rde leicht seyn, zu zeigen, daﬂ einige Scho-
+liasten de&sr; Homer&sr; und andere Gelehrten eben so, wie Athen&ae;u&sr;, ge-
+dacht haben. Allein, weil Cicero, Strabo,<fn="9"><aq>Strabo Lib. I.</aq></fn> Quintilian,<fn="10"><aq>Quintil. Lib. I. C. X.</aq></fn> und
+viele Schriftsteller nach ihnen, diese Lieder, welche Homeru&sr; preiset, zur
+Dichtkunst oder zur Music zu rechnen scheinen: so wollen wir un&sr; nicht
+weiter dabey auf halten.</p>
+<p>Man k&oe;nnte noch viele Werke der lyrischen Dichter Griechenlande&sr;
+unter die Lieder z&ae;hlen. Da aber diese&sr; nicht ohne einige Schwierig-
+keiten geschehen w&ue;rde: so m&ue;ssen wir hier bey denen St&ue;cken bleiben,
+welche den Character eine&sr; Liede&sr; so deutlich haben, daﬂ wir keinen Feh-
+ler begehen, wenn wir sie so nennen.</p>
+<bs>A 3</bs><cw>Der-</cw>
+<pb="6"/>
+<p>Dergleichen sind ersten&sr; die Lieder, welche man w&ae;hrend der
+Mahlzeit sang; man kann sie Trink-Lieder nennen, ob sie gleich nicht
+allemal von den Ergetzlichkeiten der Tafel handelten. Zweiten&sr;, dieje-
+nigen, welche eine besondere Leben&sr;-Art betrafen, und auf die Umst&ae;nde
+einiger Begebenheiten oder einiger Gebr&ae;uche giengen.</p>
+<p>Jch will dieser Eintheilung in den beyden Theilen dieser Abhandlung
+folgen, worinn ich nicht allein da&sr;, wa&sr; un&sr; die Geschichte von diesen
+Liedern berichtet, sammeln werde; sondern auch da&sr;jenige beybringen
+will, wa&sr; un&sr; die Zeit von ihrem Jnhalte und den Worten, worau&sr; sie
+bestunden, &ue;brig gelassen.</p>
+<p>Jch will hier nicht von den Epoden, von den Prooemen, den No-
+men, den Prosodien, den P&ae;anen, den Dithyramben, den Parthenien,
+den Gymnop&ae;dien, den Endymatien, den Hyporchemen, den orthischen
+Liedern, und von mehr andern Arten der Ges&ae;nge reden, die von dem,
+wa&sr; wir ein blosse&sr; Lied nennen, wenigsten&sr; durch einige Abf&ae;lle unter-
+schieden sind. Sonst hat Herr Burette, der eine so gute Kenntniﬂ von
+der Music der Alten besitzet, alle diese verschiedenen Materien in den Ab-
+handlungen dieser Academie schon au&sr;gef&ue;hret, oder wird e&sr; doch
+bald thun.</p>
+<p>Au&sr; eben der Ursache will ich zu dem, wa&sr; ich von den griechischen
+Liedern sagen werde, nicht&sr; von der Melodie, dem Wohlklange, und
+dem Sylbenmaasse der Verse hinzuf&ue;gen. Jch brauche hier nicht&sr;
+mehr zu sagen, al&sr; daﬂ einige in heroischen, oder in lyrischen, andere
+in freyen Versen, deren rechte&sr; Maaﬂ man schwerlich bestimmen kann,
+abgefasset sind; und daﬂ viele einer rechten ungebundenen Rede gleichen.</p>
+<d3><b>Erster Theil.
+Von den Tisch-Liedern.</b></d3>
+<p>Unter allen Liedern, die bey den alten Griechen im Gebrauche wa-
+ren, ist un&sr; von keinen mehr &ue;brig geblieben, al&sr; von den Tisch-Liedern.
+Alle andern wurden seltener gesungen, weil sie gemeiniglich in besonde-
+ren Umst&ae;nden eingeschr&ae;nket waren. Einige geh&oe;rten zu einer gewis-
+sen Leben&sr;-Art, al&sr; die Lieder der Hirten und der Schnitter; andere konn-
+ten nur in gewissen Begebenheiten gebraucht werden, al&sr; die Lieder,
+welche man von der Schlacht oder von dem Siege sang. Aber die
+Tisch-Lieder waren weder durch die Personen, noch durch den Ort, noch
+durch die Zeit eingeschr&ae;nket. Weil kein Stand, kein Ort, kein Tag
+von der Nothwendigkeit zu essen und zu trinken frey ist: so hatte man
+Gelegenheit, mehr bey Tische, al&sr; ander&sr;wo, zu singen. Man darf
+sich also nicht wundern, daﬂ die Nachwelt von dieser Art der Lieder am
+besten unterrichtet ist.</p>
+<cw>Plutarch</cw>
+<pb="7"/>
+<p>Plutarch hat in seinen Tisch-Fragen, und Artemon in seinem Bu-
+che vom Gebrauche der Scolien, welche&sr; Athen&ae;u&sr; anf&ue;hret, verschie-
+dene Gewohnheiten der Griechen bey ihren Trink-Liedern bemerket, wel-
+che sich mit der Zeit immer ver&ae;ndert haben; und da&sr;, wa&sr; diese bey-
+den Schriftsteller davon geschrieben, dienet zur Erkl&ae;rung de&sr; Dicearch&sr;,
+welcher schon vor ihnen davon geredet hatte, und von dem un&sr; der
+Scholiast de&sr; Lucian&sr;,<fn="12"><aq>Scholiast Lucian. in laps. inter Sal.</aq></fn> der Scholiast de&sr; Aristophane&sr;,<fn="13"><aq>Scholiast. Aristoph. in ran. v. 1337.
+&amp; in vesp. v.</aq> 1231.</fn> und Sui-
+da&sr; ein St&ue;ck aufbehalten haben.</p>
+<p>Erster Gebrauch. Alle, die bey Tische waren, sungen einstimmig
+mit einander da&sr; Lob der Gottheit.</p>
+<p>Au&sr; Plutarch&sr; Worten siehet man, daﬂ man damal&sr; rechte
+P&ae;ane zu Trink-Liedern gebraucht. Diese P&ae;ane,<fn="14"><aq>Suida&sr; in #. Athen. Lib. XV.
+C. 14. Plutarch. Sympos. Lib. I. Qu.</aq> 1.</fn> welche&sr; bey den
+Griechen heilige Ges&ae;nge waren, wurden auch in den folgenden Zeiten
+zuweilen bey Tische gesungen, wie un&sr; die zwo Stellen zeigen,<fn="15"><aq>Athen. Lib. XI. C. 15. &amp; Lib. XV.
+C. 13. in fin.</aq></fn> die
+Athen&ae;u&sr; vom Antiphane&sr; anf&ue;hret. Da aber der P&ae;an an und f&ue;r
+sich selbst zu einem ganz andern Gebrauche bestimmt war, al&sr; die Trin-
+ker lustig zu machen: so wollen wir hier nicht weiter davon reden.</p>
+<p>Der andere Gebrauch. Nach der Zeit<fn="16"><aq>Scholiast. Aristoph. &amp; Suid. loc. cit.
+Athen. Lib. XV. C. 14. Plutarch. loc.
+cit.</aq></fn> sungen zwar noch alle
+G&ae;ste bey Tische; aber einer nach dem andern. Ein jeder sang, wenn
+ihn die Reihe traf, mit einem Myrthen-Zweige in der Hand, welcher,
+nach dem Range, den sie bey der Tafel einnahmen, au&sr; Hand in Hand
+immer zum n&ae;chsten Nachbarn gieng. Einige, saget Plutarch,<fn="17"><aq>Ibidem.</aq></fn> ha-
+ben behaupten wollen, daﬂ man auf diesen Rang nicht gesehen; sondern
+die erste Person de&sr; ersten Lager&sr; habe, nachdem sie gesungen, den Myr-
+then-Zweig und da&sr; Recht zu singen der ersten auf dem andern Lager,
+diese wieder der ersten auf dem dritten, und so weiter, &ue;bergeben, bi&sr;
+sie alle ihr Lied gesungen hatten. Dieser Unterscheid, daﬂ der Myrthen-
+Zweig in gerader Linie oder Schlangenweise herumgegangen sey, scheinet
+zwar von geringer Wichtigkeit zu seyn; aber man muﬂ ihn doch merken,
+weil er zu der Verschiedenheit der Meynungen von dem Ursprunge der
+Scolien Gelegenheit gegeben. Und von diesen Scolien haben wir in
+dieser Abtheilung, die von den Tisch-Liedern handelt, vorn&ae;mlich zu reden.</p>
+<p>Der dritte und letzte Gebrauch. Al&sr; man die Music in Griechen-
+land zu einer gr&oe;ssern Vollkommenheit brachte, und die Leyer bey den
+Gastereyen brauchte: so wurden zu einem blossen Trink-Liede gewisse
+Gaben erfordert, die eben nicht ein jeder hatte. Nur die geschickten
+Leute, sagen die drey angef&ue;hrten Schriftsteller,<fn="18"><aq>Scholiast. Aristoph. &amp; Suid. loc. cit.
+Athen. loc. cit. Plutarch. loc. cit.</aq></fn> waren im Stande,
+<cw>bey</cw>
+<pb="8"/>
+bey Tische zu singen, und ihre Lieder nennte man Scolien. E&sr; erhellet
+au&sr; diesen verschiedenen Zeugnissen, daﬂ man die Trink-Lieder, wie sie
+angefangen vollkommener zu werden, von dem Worte #, wel-
+che&sr; so viel, al&sr; schief oder gewunden, bedeutet, Scolien nennte, um
+entweder, wie Plutarch berichtet, dadurch anzuzeigen, wie schwer ein
+solche&sr; Lied zu singen sey, oder, nach Artemon&sr; Meynung, die unregel-
+m&ae;ﬂige Lage derer, welche sungen, anzudeuten. Denn sie lagen nicht
+mehr in der Ordnung, wie sonst, einer bey dem andern, sondern hier
+und da um die Tische herum zerstreuet, und in schiefen Linien einer ge-
+gen den andern &ue;ber.</p>
+<p>Einige, von denen Plutarchu&sr;<fn="19"><aq>Plutarch. Sympos. L. I. Qu.</aq> 1.</fn> redet, haben von dem Ursprunge
+der Scolien noch eine andere Meynung. Sie glaubten, daﬂ der Myr-
+then-Zweig nicht von Nachbar zu Nachbar gegangen. Sie glaubten
+noch, saget er, daﬂ die Scolien ihren Namen von dem unordentlichen
+Umgange de&sr; Myrthen-Zweig&sr; erhalten h&ae;tten; und sie setzten also den
+Ursprung der Scolien in die Zeit de&sr; andern Gebrauch&sr;, wovon wir ge-
+redet haben, und nicht in die Zeit de&sr; dritten.</p>
+<p>Aristoxenu&sr; und Philon, oder Phylli&sr;, der Musicu&sr;, welche der
+Scholiast de&sr; Lucian&sr;,<fn="20"><aq>Scholiast. Luciani de lapsu inter Sal.</aq></fn> der Scholiast de&sr; Aristophane&sr;,<fn="21"><aq>Scholiast. Aristoph. in ran. v. 1337.
+&amp; in vesp. v.</aq> 1231.</fn> und Sui-
+da&sr;<fn="22"><aq>Suida&sr; in #.</aq></fn> angef&ue;hret haben, waren der Meynung, daﬂ die Scolien von
+der schiefen Ordnung vieler Lager auf den Hochzeiten ihren Namen be-
+kommen, wo die G&ae;ste, mit Myrthen-Zweigen in den H&ae;nden, einer nach
+dem andern, verliebte Spr&ue;che und Lieder gesungen. Der Scholiast de&sr;
+Aristophane&sr;<fn="23"><aq>Schol. Aristoph. in vesp. v.</aq> 1217.</fn> redet auch an einem andern Orte, wo er von den Sco-
+lien handelt, von dem Myrthen-Zweige, und er sagt ohne Unterscheid bald,
+daﬂ der, welcher sang, einen Lobeer-Zweig, bald, daﬂ er einen Myrthen-
+Zweig in der Hand gehabt. Aber alle&sr; diese&sr; versteht sich insonderheit
+von der Zeit de&sr; andern Gebrauch&sr;, da man noch keine rechte Scolien
+hatte. Jch will damit nicht sagen, daﬂ man nicht zuweilen ausseror-
+dentlicher Weise eine Scolie mit einem Myrthen-Zweige in der Hand habe
+singen k&oe;nnen. Aristophane&sr; bemerket die&sr; in einem St&ue;cke, da&sr; sein
+Scholiast angef&ue;hret hat, worinn er saget, daﬂ man auf diese Art bey
+einer Gelegenheit da&sr; Lied vom Admetu&sr; gesungen, welche&sr; eine rechte
+Scolie war, wie wir unten sehen werden; aber da&sr; war nicht der or-
+dentliche Gebrauch der Scolien. Man pflegte, indem man sie sang,
+eher ein Gla&sr;, al&sr; einen Myrthen- oder Lorbeer-Zweig, in der Hand zu
+halten. Denn Tryphon, der Grammaticu&sr;, giebt un&sr;, im Athen&ae;u&sr;,<fn="24"><aq>Athen. Lib. XI. C.</aq> 15.</fn>
+zu verstehen, daﬂ man demjenigen, der eine Scolie sang, ein Gla&sr; gab,
+da&sr; besonder&sr; hierzu bestimmt war, und von dem Namen de&sr; Liede&sr; #
+genannt wurde.</p>
+<cw>Der</cw>
+<pb="9"/>
+<p>Der Myrthen-Zweig gab, nach der Anmerkung de&sr; Erasmu&sr;,<fn="25"><aq>Erasm. chil. 2. cent. 6. adag.</aq> 21.</fn>
+zu einem griechischen Spr&ue;chworte Gelegenheit, da&sr; man wider unwis-
+sende Leute brauchte, bey dem Myrthen-Zweige singen. Er deutet e&sr;,
+nach seinem Ursprunge, auf diejenigen, welche nicht auf der Leyer spielen
+konnten, al&sr; ihr Gebrauch auf den Gastereyen eingef&ue;hret war. Man
+verwie&sr; sie im Scherze, wie Erasmu&sr; saget, zum Myrthen-Liede, weil
+sie keine Scolien singen konnten.</p>
+<p>Die Scolien waren also die eigentlichen Trink-Lieder der Griechen.
+Ausser den schon angef&ue;hrten Schriftstellern versichern diese&sr; Phavori-
+nu&sr;, Athen&ae;u&sr;,<fn="26"><aq>Athen. Lib. XV. cap.</aq> 14.</fn> Pollux,<fn="27"><aq>Pollux Lib. IV. 53. &amp; Lib. VI.</aq> 108.</fn> Hesychiu&sr;,<fn="28"><aq>Hesych in #.</aq></fn> der Scholiast de&sr; Aristo-
+phane&sr;,<fn="29"><aq>Schol. Aristoph. in ran. v. 1337.
+&amp; in vesp. v.</aq> 1217.</fn> Suida&sr;,<fn="30"><aq>Suid. in #.</aq></fn> Eustathiu&sr;,<fn="31"><aq>Eustath. in 4. Iliad. &amp; in 7 Odyss.</aq></fn> und der Verfasser de&sr; Etymolo-
+gicon&sr;,<fn="32"><aq>Etymolog. M.</aq></fn> mit au&sr;dr&ue;cklichen Worten. Wir d&ue;rfen also nur noch un-
+tersuchen, welchen Fortgang diese Art von Liedern unter den Griechen
+gehabt habe.</p>
+<p>Terpander ist der Erfinder derselben gewesen, wenn wir dem Pin-
+dar, den Plutarchu&sr;<fn="33"><aq>Plutarch. de Music.</aq></fn> anf&ue;hret, hierinn glauben wollen. Wenn wir
+die&sr; vorau&sr;setzen: so d&ue;rfen wir nur die Zeit suchen, worinn Terpander
+gelebt hat, um die Zeit-Rechnung der Scolien fest zu stellen.</p>
+<p>Hellanicu&sr; sagt im Athen&ae;u&sr;,<fn="34"><aq>Athen. Lib. XIV. c.</aq> 9.</fn> daﬂ Terpander der erste gewesen
+sey, der in den carneischen Festen den Prei&sr; davon getragen. Bey eben
+diesem Athen&ae;u&sr; setzet Sosimu&sr; die Stiftung dieser Feste in die 26ste
+Olympia&sr;; folglich lebte Terpander zu eben der Zeit, da&sr; ist, gegen da&sr;
+676ste Jahr vor Christi Geburt. Die Marmor-Steine de&sr; Grafen
+Arondel&sr;<fn="35"><aq>Marm. Oxon. Ep. 35. lin.</aq> 49.</fn> bekr&ae;ftigen diese Rechnung. Sie setzen einen Zwischenraum
+von 381 Jahren zwischen dem Streite, welchen dem Terpander seine
+neuen Lehr-Arten in der Music erweckten, und der letzten Zeit-Rechnung,
+welche, nach Lydiat&sr;<fn="36"><aq>Lydiat. annot. ad chron. Marmor.</aq></fn> Meynung, im 293sten Jahre vor Christi Ge-
+burt zu Ende geht; und diese&sr; bringet also den Streit de&sr; Terpander&sr;
+in&sr; 674ste Jahr vor Christi Geburt. Durch diese beyden Beweise wird
+die Zeit, worinn Terpander gelebt hat, feste gesetzt, ohne daﬂ wir n&oe;thig
+haben, un&sr; beym Eusebiu&sr;<fn="37"><aq>Euseb. Chron.</aq></fn> Rath&sr; zu erholen, der den Terpander in
+die 33ste Olympia&sr; setzet; oder den Plutarch<fn="38"><aq>Plutarch. de Mus.</aq></fn> und Aelian<fn="39"><aq>&00C6;lian. Lib. XII. Var. cap.</aq> 50.</fn> zu fra-
+gen, welche ihn f&ue;r eben so alt, oder gar noch &ae;lter, al&sr; den Thale&sr; von
+Creta, zu halten scheinen. Wir d&ue;rfen also auch nicht dem Hierony-
+mu&sr; von Rhodu&sr; folgen, der ihn, beym Athen&ae;u&sr;,<fn="40"><aq>Athen. Lib. XIV. cap.</aq> 9.</fn> mit dem Lycur-
+<cw>gu&sr;</cw>
+<pb="10"/>
+gu&sr; in eine Zeit setzt; noch auch endlich dem Glaucu&sr; au&sr; Jtalien glau-
+ben, der ihn, im Plutarch,<fn="41"><aq>Plutarch. de Music.</aq></fn> &ae;lter macht, al&sr; den Archilochu&sr;. Ohne
+daher weiter zu untersuchen, ob er zu den Zeiten aller dieser Leute gelebet
+habe: so schliessen wir au&sr; den beyden ersten Beweisen von dem Alter
+de&sr; Terpander&sr;, daﬂ die Scolien, deren Erfinder er gewesen ist, bi&sr; zur
+20sten oder 25sten Olympia&sr;, da&sr; ist, bi&sr; in da&sr; 700ste oder 680ste
+Jahr vor der christlichen Zeit-Rechnung k&oe;nnen zur&ue;ckgesetzet werden.</p>
+<p>Viele Griechen folgten seinem Exempel, und legten sich auf diese
+Art der Poesie. Athenau&sr;<fn="42"><aq>Athen. Lib. XV. C.</aq> 14.</fn> versichert un&sr; diese&sr; in&sr;besondere von
+Alc&ae;u&sr;, Anacreon, und der gelehrten Praxilla, welche in den folgenden
+Zeiten lebten. Aristophane&sr;<fn="43"><aq>Aristoph. in ran. v.</aq> 1337.</fn> redet von den Scolien de&sr; Melitu&sr;.
+Sein Scholiast<fn="44"><aq>Scholiast. Aristoph. loc. cit.</aq></fn> und Suida&sr;<fn="45"><aq>Suida&sr; in #.</aq></fn> f&ue;gen noch hinzu, daﬂ Melitu&sr;
+Trauer-Spiele geschrieben, und den Socrate&sr; angeklaget habe; daﬂ
+seine Verse kalt, und seine Sitten schlecht gewesen. Wir werden Ge-
+legenheit haben, wenn wir da&sr;, wa&sr; un&sr; von den alten Liedern &ue;brig
+geblieben, durchgehen werden, die Namen einiger andern Verfasser von
+Scolien zuweilen mit anzuf&ue;hren. Man hatte so gar geschriebene An-
+weisungen &ue;ber diese Materie. Artemon hatte ein Buch von dem Ge-
+brauche der Scolien geschrieben, welche&sr; Athen&ae;u&sr;<fn="46"><aq>Athen. Lib. XV. C.</aq> 14.</fn> anf&ue;hret; und
+Tyrannion hatte, wie der Scholiast de&sr; Aristophane&sr;<fn="47"><aq>Scholiast. Aristoph. loc. cit.</aq></fn> und Suida&sr;<fn="48"><aq>Suida&sr; loc. cit.</aq></fn>
+bezeugen, auf Befehl de&sr; Caju&sr; C&ae;sar&sr; eine Au&sr;legung &ue;ber die Scolien
+verfertiget.</p>
+<p>Man sang die Scolien bey Tische zu der Zeit, wenn alle&sr; schon
+aufgetragen war, und man nicht&sr; mehr n&oe;thig hatte. Al&sr;denn, saget
+Athen&ae;u&sr;,<fn="49"><aq>Athen. Lib. XV. C.</aq> 14.</fn> h&oe;rte die Gesellschaft gern au&sr; dem Munde einer vern&ue;nf-
+tigen Person ein angenehme&sr; Lied; und da&sr; that niemal&sr; bessere Wir-
+kung, al&sr; wenn e&sr; einige S&ae;tze von der Auff&ue;hrung oder au&sr; der Sit-
+ten-Lehre in sich fasste.</p>
+<p>Allein die Scolien waren doch auch nicht immer Lehren der Wei&sr;-
+heit. Der Jnhalt dieser Lieder wurde unendlich verschieden, wie Eu-
+stathiu&sr;<fn="50"><aq>Eustath. in 7. Odyss. pag. 1574.
+edit. Rom.</aq></fn> schreibet. Einige waren sp&oe;ttisch, andere hatten mit der Lie-
+be zu thun, und viele handelten von ernsthaften Dingen.</p>
+<p>Die Scolien der alten Dichter erw&ae;hnten zum &oe;ftern de&sr; Cottabu&sr;,
+wie Athen&ae;u&sr;<fn="51"><aq>Athen. Lib. X. C. 7. &amp; Lib. XV.
+C.</aq> 1. 2.</fn> berichtet. Diese&sr; Wort bedeutete bald den Wein, der
+im Glase &ue;bergeblieben war; bald den Prei&sr; de&sr;jenigen, der am besten
+getrunken hatte; und noch &oe;fterer ein Spiel, da&sr; au&sr; Sicilien nach
+Griechenland gekommen war, und darinn bestand, daﬂ man mit ge-
+<cw>wissen</cw>
+<pb="11"/>
+wissen Umst&ae;nden, die mit Scherz und Lust begleitet wurden, Wein
+einschenkte.</p>
+<p>Die atheniensischen Scolien waren vor allen andern wegen ihre&sr;
+Alterthum&sr; und der nat&ue;rlichen Schreib-Art ihrer ersten Verfasser be-
+liebt. Wenn auch Athen&ae;u&sr;<fn="52"><aq>Athen. Lib. XV. C.</aq> 14.</fn> diese&sr; nicht versicherte: so w&ue;rden un&sr;
+doch schon die St&ue;cke, welche wir au&sr; dem Alterthum in dieser Materie
+noch aufzuweisen haben, genugsam hiervon &ue;berf&ue;hren k&oe;nnen. Die
+Anzahl derer Scolien, wovon die alten Schriftsteller reden, oder auch
+nur derer, welche ganz zu un&sr; gekommen sind, ist ziemlich groﬂ. Ein
+Theil derselben gehet auf die Sitten-Lehre; der andere betrifft die My-
+thologie oder die Geschichte; und noch einige andere handeln von gemei-
+nen und ordentlichen Dingen. Unter diese drey Classen k&oe;nnen sie alle
+gebracht werden.</p>
+<p>Die erste Classe begreift die moralischen Scolien in sich. Casau-
+bonu&sr;<fn="53"><aq>Casaub. animadv. in Athen. L. XV.
+C.</aq> 15.</fn> will behaupten, daﬂ die Sitten den Jnhalt der meisten alten
+Scolien au&sr;machten; ja, daﬂ sie gar auf die Spr&ue;che der sieben grie-
+chischen Weisen gemacht waren, und daﬂ diese Spr&ue;che sonst #,
+Ges&ae;nge, hiessen; weil sie bey den Gastereyen gefungen wurden. Von
+dieser Art war die Scolie, welche Athen&ae;u&sr;<fn="54"><aq>Athen. Lib. XV. C.</aq> 15.</fn> in diesen Worten an-
+f&ue;hret, ohne den Verfasser derselben anzuzeigen.</p>
+<poem>Macht euch ja, noch auf dem Lande,
+Schon zur Fahrt bereit;
+Da seht, ob ihr auch im Stande
+Fortzuschiffen seyd.
+Durch die Wellen m&ue;sst ihr streichen,
+Wie der Wind euch f&ue;hrt,
+Der denn in den Wasser-Reichen
+Unumschr&ae;nkt regiert.</poem>
+<p>Casaubonu&sr;<fn="55"><aq>Casaub. loc. cit.</aq></fn> glaubet, daﬂ diese&sr; St&ue;ck nicht&sr; ander&sr;, al&sr; eine
+Allegorie, sey, die man au&sr; dem Spruche de&sr; Pittacu&sr; gemacht habe.
+Dieser Weise sagte: Ein kluger Mann muﬂ, ehe verdr&ue;ﬂliche Zuf&ae;lle
+entstehen, daf&ue;r sorgen, daﬂ sie nicht entstehen; und ein tapferer Mann
+muﬂ sie, wenn sie einmal entstanden sind, wieder wegschaffen. Auf
+diese Art k&oe;nnten wir vielleicht mit geringer M&ue;he au&sr; vielen griechischen
+Scolien die Spr&ue;che der sieben Weisen herau&sr;bringen; aber w&ue;rden
+wir un&sr; damit nicht in die Gefahr setzen, Muthmassungen f&ue;r Wahr-
+heiten zu geben? Lasst un&sr; also die andern Scolien durchgehen, ohne
+darinn zu suchen, ob sie sich auf diesen oder jenen Spruch der Alten von
+weiten beziehen.</p>
+<bs>B 2</bs><cw>Timo-</cw>
+<pb="12"/>
+<p>Timocreon redet in einer Scolie von der Verachtung de&sr; Reich-
+thum&sr; also:</p>
+<poem>Reichthum! du bringst alle&sr; Weh;<fn="*"><cb>Man weiﬂ nicht, wie weit Pluto
+und Plutu&sr; eigentlich von einander zu
+unterscheiden sind, weil sie von den Grie-
+chen so gar oft mit einander verwech-
+selt werden. S. <aq>la Mythologie &amp; le&sr;
+Fable&sr; expliqu&2019;e&sr; par l&2019;histoire par Mr.
+l&2019;AbbÈ Banier, tom. 5 L. IV. C. X. &amp; XII.</aq>
+Plutu&sr;, der Gott de&sr; Reichthum&sr;, ist
+unter die h&oe;llischen Gottheiten gerechnet
+worden, weil wir, um Sch&ae;tze zu suchen,
+bi&sr; in da&sr; innerste der Erden gedrun-
+gen sind, oder auch, weil vielleicht schon
+die Alten die zeitlichen Sch&ae;tze mit so vie-
+<cb>
+len Fl&ue;chen und so frevelhafter Unge-
+rechtigkeit oft besudelt befunden, daﬂ sie
+den heidnischen Besitzern derselben und
+ungewissenhaften Wucherern in jener
+Welt nur selten einen andern Sitz ver-
+heissen haben, al&sr; die H&oe;lle. <aq>A.</aq></fn>
+Nicht die Erde, nicht die See
+Trage deine Thronen!
+Geh zum schwarzen H&oe;llen-Fluﬂ!
+Geh zum finstern Tartaru&sr;!
+Da nur must du wohnen.</poem>
+<p>Jsidoru&sr; von Pelusium<fn="56"><aq>Isidor. Pelus. l. II. epist.</aq> 146.</fn> gedenket dieser Scolie in einem seiner
+Briefe, worinn er die ersten Worte davon anf&ue;hret. Der Scholiast
+de&sr; Aristophane&sr;<fn="57"><aq>Scholiast. Aristoph. in ran. v. 1337.
+&amp; in Acharn. v.</aq> 531.</fn> und Suida&sr;<fn="58"><aq>Suida&sr; in</aq> #.</fn> haben sie un&sr; in ihren Werken
+ganz hinterlassen: sie setzen noch hinzu, daﬂ Pericle&sr; die Formel dieser
+Scolie in einem Gesetze brauchte, welche&sr; er gegen die Megar&ae;er gab,
+und worinn er ihnen alle Handlung zu Wasser und zu Lande mit den
+Atheniensern untersagte; hierbey f&ue;hren sie einen Ver&sr; au&sr; dem Aristo-
+phane&sr; an, wo er sagt, daﬂ Pericle&sr; Gesetze g&ae;be, die wie Scolien
+geschrieben w&ae;ren.</p>
+<p>Plato,<fn="59"><aq>Plato in Gorg.</aq></fn> und nach ihm Lucianu&sr;<fn="60"><aq>Lucianu&sr; de laps. inter salt.</aq></fn> und Athen&ae;u&sr;<fn="61"><aq>Athen. l. XV. c.</aq> 14.</fn> haben eine
+Scolie aufgezeichnet, die von den Graden de&sr; Vorzug&sr; handelt, wel-
+chen wir den G&ue;tern diese&sr; Leben&sr; geben m&ue;ssen.</p>
+<poem>Gesundheit! vor allen den Gaben,
+Die Sterbliche w&ue;nschen und haben,
+Nimmst du mit Recht den Vorzug ein.
+Nach dir soll die Sch&oe;nheit sich setzen.
+Euch redlich erworbenen Sch&ae;tzen
+Will ich die dritte Stelle weihn.
+Wa&sr; bleibt f&ue;r die vierte zur&ue;cke?
+Jch weiﬂ schon; die geb&2019; ich dem Gl&ue;cke,
+Bey jungen Freunden jung zu seyn.</poem>
+<p>Eben dieser Spruch stehet mit etwa&sr; ver&ae;nderten Worten beym
+Phocylide&sr;; und al&sr; Aristotele&sr; ihn von Delphi mitgebracht hatte: so
+<cw>setzte</cw>
+<pb="13"/>
+setzte er ihn vor seine Werke von der Sittenlehre. Anaxandride&sr; hielt
+von dieser Scolie so viel nicht. Er sagt beym Athen&ae;n&sr;:<fn="62"><aq>Athen. l. c.</aq></fn></p>
+<poem>Dieser, wie er auch nun heisse, welcher diese&sr; Lied erfand,
+Hat mit Recht die erste Stelle der Gesundheit zuerkannt.
+Aber, Sch&oe;nheit! dir die andre, Reichthum! dir die dritte weih&2019;n,
+Warlich, eine solche Theilung scheint mir ungereimt zu seyn.
+Nein! den Platz nach der Gesundheit, G&ue;ter! den verdienet ihr.
+Eine Sch&oe;nheit, welche hungert, ist ein l&ae;cherliche&sr; Thier.</poem>
+<p>Carcinu&sr; hatte eine Scolie auf die Freundschaft gemacht, die
+wir im Athen&ae;u&sr;<fn="63"><aq>Athen. l. XV. cap.</aq> 15.</fn> und im Eustathiu&sr; finden:<fn="64"><aq>Eustath. in 7. Odyss. pag. 1574. edit.
+Rom.</aq></fn></p>
+<poem>Greif die Schlange mit der Hand.
+Wahren Freunden sey
+List und Heucheley
+G&ae;nzlich unbekannt.</poem>
+<p>Casaubonu&sr;<fn="65"><aq>Casaub. animad. in Ath. l. XV. c.</aq> 15.</fn> lieset anstatt dieser Worte, ergreife eine Schlan-
+ge mit der Hand, durch eine blosse Ver&ae;nderung de&sr; Accent&sr;, &oe;ffne die
+Hand, wenn du eine Schlange ergriffen hast, um dadurch, wie er sagt,
+anzudeuten, wie geschwinde man sch&ae;dliche Freundschaften brechen m&ue;s-
+se. Aber denn w&ue;rde da&sr; andre Glied der Scolie mit dem ersten nicht
+so gut zusammen h&ae;ngen. Ueberdem giebt auch Eustathiu&sr;<fn="66"><aq>Eustath. l. c.</aq></fn> in der
+Erkl&ae;rung dieser Scolie ihr die erste Bedeutung.</p>
+<p>Athen&ae;u&sr;<fn="67"><aq>Athen. lib. XV. cap.</aq> 14.</fn> und Eustathiu&sr;<fn="68"><aq>Eustath. l. c.</aq></fn> haben auch noch diese andere Sco-
+lie von der Wahl der Freunde der Vergessenheit entrissen.</p>
+<poem>M&oe;chten wir doch nur erkennen,
+Wa&sr; ein jeder w&ue;rklich ist!
+K&oe;nnten wir die Brust er&oe;ffnen,
+Und al&sr;denn in&sr; Herze schaun,
+Und wenn wir hinein gesehn,
+Wiederum die Brust verschliessen,
+Und un&sr; denn erst Freunde w&ae;hlen,
+Die getreu und redlich sind!</poem>
+<p>Unter die moralischen Scolien muﬂ man noch die beyden z&ae;hlen,
+die wir auch beym Athen&ae;u&sr; lesen.</p>
+<pv>Freund, ich bitte, h&ue;te dich,
+Scorpionen schleichen sich
+Unter jeden Stein.</pv>
+<bs>B 3</bs><cw>Und</cw>
+<pb="14"/>
+<pv>Und da, wo e&sr; finster ist,
+Pflegt Betr&ue;gerey und List
+Oft versteckt zu seyn.</pv>
+<pv>Wer seinen treuen Freund
+Auch treu und redlich meynt,
+Jst, wie mich d&ue;nket, wehrt,
+Daﬂ Gott und Welt ihn ehrt.</pv>
+<p>Die andere Classe besteht au&sr; denen Scolien, die zur Mythologie
+oder zur Geschichte geh&oe;ren. Wir wollen gleich au&sr; eben diesem Athe-
+n&ae;u&sr;<fn="69"><aq>Athen. l. c.</aq></fn> f&ue;nf davon hersetzen, deren Verfasser er nicht nennet.</p>
+<pv>Du, die du bey dem Fluﬂe Triton
+Der Welt zuerst erschienen bist,
+O Palla&sr;, K&oe;niginn Athen&sr;!
+O sch&ue;tz&2019; Athen und seine B&ue;rger
+Vor Ungl&ue;ck, Aufruhr, fr&ue;hem Sterben.
+Und sch&ue;tze du sie auch, o Vater dieser G&oe;ttinn!</pv>
+<pv>Jetzt, da wir bekr&ae;nzet sind,
+Will ich dir, o Mutter Pluton&sr;!
+Dir, o Cere&sr;! will ich singen.
+Sey gegr&ue;sset, grosse Cere&sr;!
+Und du, Tochter Jupiter&sr;,
+Proserpine, sey gegr&ue;sset!
+Sch&ue;tzet beyde diese Stadt!</pv>
+<pv>Jn Delu&sr; bracht&2019; einst die Latone
+Zwey Kinder auf die Welt;
+Den Ph&oe;bu&sr; mit den g&ue;ldnen Haaren,
+Diane, so da&sr; Jagen liebt,
+Die keinen Pfeil vergeben&sr; schiesset,
+Und &ue;ber alle Weiber herrscht.</pv>
+<pv>O Schutzgott der Arcadier,
+O Pan! du so ber&ue;hmter T&ae;nzer,
+Der du den muntern Nymphen nachl&ae;ufst,
+Die lachend sich vor dir verstecken.
+Erscheine doch bey unsern Freuden,
+O Pan! erschein&2019; in unsern Liedern
+Stet&sr; munter und wohlaufger&ae;umt.</pv>
+<cw>Nun</cw>
+<pb="15"/>
+<pv>Nun haben wir den Feind geschlagen,
+Und so, wie wir gew&ue;nscht, den Sieg davon getragen;
+Die G&oe;tter haben ihn verliehn.
+Ja, ja, die G&oe;tter haben ihn
+Dir, o Athen, Pandrosen&sr; Vaterland!
+Da&sr; ihnen lieb ist, zugewandt.</pv>
+<p>Man w&ue;rde M&ue;he haben, zu erfahren, in welchen Umst&ae;nden
+diese Scolien gemacht worden. Von den neun folgenden haben wir
+genauere Nachricht, und wir wollen sie nach der Ordnung der Zeiten,
+da sie verfertiget sind, hersetzen.</p>
+<p>Praxilla, eine gelehrte Sicyonerin, that sich in dieser Art von
+Liedern vor andern hervor, wie schon gesagt ist, und hatte eine grosse
+Anzahl derselben geschrieben, wovon wir fast nicht&sr; mehr &ue;brig haben.
+Man kann da&sr; Lied, da&sr; sie auf den Adoni&sr; gemacht hatte, al&sr; eine
+historische Scolie ansehen. Die Worte selber haben wir nicht; man
+weiﬂ nur noch den Jnhalt, so wie ihn Zenobiu&sr;<fn="70"><aq>Zenobiu&sr; cent. 4. adag.</aq> 21.</fn> von Polemon abge-
+schrieben hat. E&sr; wird darinn von dem Adoni&sr; geredet, der k&ue;rzlich
+in den unterirdischen Gegenden angekommen. Er wird gefraget, wa&sr;
+unter allen denen Dingen, die er auf der Erde verlassen, da&sr; sch&oe;nste
+sey? und er antwortet: Die Sonne, der Mond, die Gurken und die
+Aepfel. Au&sr; dem L&ae;cherlichen, welche&sr; darinn stecket, daﬂ er die Son-
+ne und diese Arten von Fr&ue;chten mit einander in Vergleichung stellet,
+entstand ein Spr&ue;chwort, da&sr; auf sehr einf&ae;ltige Leute gebracht wurde:
+Dummer, al&sr; der Adoni&sr; der Praxilla.</p>
+<p>Praxilla hatte noch eine Scolie auf den Admetu&sr; verfertiget, die
+im Alterthume sehr ber&ue;hmt ist. Ein Schriftsteller, mit Namen Pau-
+sania&sr;,<fn="71"><aq>Eustath. in 2. Iliad. p. 326. edit. Rom.</aq></fn> sagte in seinem t&ae;glichen W&oe;rter-Buche, welche&sr; Eustathiu&sr;
+angef&ue;hret hat, daﬂ diese Scolie in Athen gesungen w&ue;rde, und daﬂ
+einige sie dem Alc&ae;u&sr;, andere der Sapho, und noch andere der Pra-
+xilla von Sicyon zuschrieben. Aber der Scholiast de&sr; Aristophane&sr;<fn="72"><aq>Schol. Aristoph. in vesp. v.</aq> 1231.</fn>
+setzet sie ohne Bedenken unter die Trink-Lieder der Praxilla. Diese&sr;
+ist die Scolie.</p>
+<poem>Der du Admet&sr; Geschichte weisst,
+Freund, liebe stet&sr; nur brave M&ae;nner,
+Und meide die verzagten Selen;
+Denn die Gesellschaft dieser Leute
+Wird dir gewiﬂ verdrieﬂlich seyn.</poem>
+<p>Die Worte diese&sr; Liede&sr; haben wir dem Fleisse de&sr; Athen&ae;u&sr;<fn="73"><aq>Athen l. XV. c.</aq> 15.</fn>
+und de&sr; Eustathiu&sr;<fn="74"><aq>Eustath. l. cit.</aq></fn> zu danken, welche sie un&sr; aufbehalten haben.
+<cw>Aristo-</cw>
+<pb="16"/>
+Aristophane&sr;<fn="75"><aq>Aristoph. in vesp. v.</aq> 1229.</fn> hatte lange vorher in zweyen Stellen seiner Lust-Spiele
+davon geredet. Die erste ist in den Wespen, wo da&sr; Chor zu dem
+alten Richter also spricht: &201C;Wie? der Schmeichler Theoru&sr; lieget bey
+&q;der Tafel zu den F&ue;ssen de&sr; Cleon&sr;, fasset ihn bey der Hand, und sin-
+&q;get ihm da&sr; Lied: Freund, der du die Historie vom Admetu&sr; weiﬂt,
+&q;liebe die tapfern Leute! Singet ihr ihm denn doch auch eine Scolie
+&q;vor.&201D; Die andere Stelle, wo Aristophane&sr; der Scolie vom Adme-
+tu&sr; erw&ae;hnte, war in den St&oe;rchen, wovon wir aber nur noch diese&sr;
+St&ue;ck bey seinem Scholiast<fn="76"><aq>Schol. Aristoph. l. cit.</aq></fn> finden. Einer sang bey dem Myrthen-
+Zweige da&sr; Lied vom Admetu&sr;, #, und der andere sagte
+mit Feuer da&sr; Lied de&sr; Harmodiu&sr;, #, her. Eben dieser
+Scholiast<fn="77"><aq>Ibid.</aq></fn> redet noch von dem Cratinu&sr;, welcher, nach dem Harmo-
+diu&sr;, de&sr; Liede&sr; vom Admetu&sr; Erw&ae;hnung that.</p>
+<p>Man brauchte also die beyden ersten Worte dieser Scolie, #-
+#, f&ue;r ihren Namen, und man muﬂ sie durch da&sr; Lied vom
+Admetu&sr; geben, wenn man sie nur benennen will. Uebersetzet man
+sie aber, so bedeuten diese beyden Worte die Historie, und nicht da&sr;
+Lied vom Admetu&sr;. Eben daher hat die Scolie in der lateinischen Ue-
+bersetzung de&sr; Dalechamp&sr;<fn="78"><aq>Dalechamp. in Athen. l. XV. c.</aq> 15.</fn> keinen rechten Zusammenhang. Liebe,
+sagt er, die beherzten Leute, wenn du da&sr; Lied vom Admetu&sr; wirst ge-
+lernet haben; anstatt, daﬂ er sagen sollte: Du, der du die Historie vom
+Admetu&sr; weiﬂt, liebe die beherzten Leute.</p>
+<p>Eustathiu&sr; zeiget un&sr;, daﬂ durch die tapferen Leute, #,
+deren Freundschaft man nach dem Beyspiele de&sr; Admetu&sr; suchen soll,
+auf die Alceste gedeutet werde, welche sich nicht scheuete, f&ue;r ihn zu
+sterben; und daﬂ der Vater de&sr; Admetu&sr;, der nicht so tapfer war, die
+zaghaften Leute, #, deren Umgang man fliehen muﬂ, vorstelle.
+Diese Anmerkung giebt den Worten # offenbar die Be-
+deutung der Historie vom Admetu&sr;, oder seine&sr; Exempel&sr;, und zeigt die
+Unrichtigkeit aller Erkl&ae;rung, worinn man den Begriff eine&sr; Liede&sr;
+bringen will.</p>
+<p>Der Scholiast de&sr; Aristophane&sr;<fn="80"><aq>Schol. Aristoph. l. c.</aq></fn> f&ue;hret Schriftsteller an, welche
+sagten, Admetu&sr; sey zum Theseu&sr;, dem j&ue;ngsten Sohn der Alceste und
+de&sr; Jppasiu&sr;, geflohen, und bey ihm geblieben; und diese&sr; sey der Jn-
+halt der Scolie gewesen. Einige, f&ue;get der Scholiast hinzu, sagen, wie
+Alceste da&sr; Leben ihre&sr; Manne&sr; Admetu&sr; durch ihren Tod erkauft hatte,
+so habe man bey ihm traurige Scolien und Lieder gesungen.</p>
+<p>Hierauf hat sich ohne Zweifel Erasmu&sr;<fn="81"><aq>Erasm. chil. 2. cent. 4. adag.</aq> 22.</fn> gegr&ue;ndet, wenn er hat
+behaupten wollen, daﬂ da&sr; Lied vom Admetu&sr;, #, bey
+den Griechen zum Spr&ue;chworte geworden, daﬂ man e&sr; urspr&ue;nglich
+<cw>von</cw>
+<fnf>79 <aq>Eustath. in 2. Iliad. p. 326. edit. Rom.</aq></fnf>
+<pb="17"/>
+von den Klagen de&sr; Admetu&sr;, und hernach von jedem traurigen Liede
+brauchte. Au&sr; eben dieser Ursache setzet vermutlich auch Dalechamp
+vorau&sr;, daﬂ man ich weiﬂ nicht wa&sr; vor ein Lied vom Admetu&sr; ge-
+habt habe, welche&sr; von der Scolie unterschieden sey, und den Jnhalt
+derselben au&sr;mache. Aber alle Begriffe von diesen erdichteten Liedern
+sind so verwirrt, und so wenig gegr&ue;ndet, daﬂ man bloﬂ bey der klaren
+und genauen Erkl&ae;rung, die Eustathiu&sr; von dem Verstande dieser Sco-
+lie gegeben hat, bleiben muﬂ.</p>
+<p>Casaubonu&sr;<fn="82"><aq>Casaub. animadv. in Athen. lib. XV.
+cap.</aq> 15.</fn> meinet, daﬂ die W&oe;rter # und # in die-
+ser Scolie bloﬂ die Rechtschaffenen und die Gottlosen, nicht die herz-
+haften und feigen Leute bedeuten: aber er wird auch durch den Eusta-
+thiu&sr; widerleget. Da&sr; Exempel de&sr; Admetu&sr;, der seine Frau f&ue;r ihn
+sterben sah, da sein Vater sich dessen wegerte, lehret un&sr; eben nicht,
+schlechterding&sr; gottlose Leute zu fliehen; e&sr; wird auch nicht gesagt, daﬂ
+der Vater de&sr; Admetu&sr; gottlo&sr; gewesen; sondern diese Historie weiset,
+daﬂ man auf zaghafte Leute keine Rechnung zu machen habe. Wenn
+wir die Scolie so erkl&ae;ren, so ist der Verstand darinn vollkommener,
+und da&sr; Wort # genauer nach den Buchstaben gegeben.</p>
+<p>Suida&sr;<fn="83"><aq>Suida&sr; in</aq> #.</fn> berichtet un&sr;, daﬂ da&sr; Lied vom Admetu&sr;, und da&sr; Lied
+vom Harmodiu&sr;,<fn="84"><aq>Idem in</aq> #.</fn> wovon wir hernach reden werden, zum Spr&ue;chworte
+geworden, wodurch man leichte Sachen beschreiben wollte. An einem
+andern Orte sagt er, daﬂ man da&sr; Lied vom Harmodiu&sr; von schweren
+Sachen brauchte. Von diesen beiden S&ae;tzen, welche sich offenbar
+widersprechen, muﬂ man nach allem dem, wa&sr; von den Scolien &ue;ber-
+haupt gesagt ist, ohne Zweifel die letzte annehmen, zumal, da Suida&sr;<fn="85"><aq>Idem in</aq> #.</fn>
+selber nach dem Scholiasten de&sr; Aristophane&sr;<fn="86"><aq>Schol. Aristoph. in ran. v.</aq> 1337.</fn> versichert, daﬂ man
+da&sr; Wort Scolie in verkehrtem Verstande von einer leichten Sache
+brauchte.</p>
+<p>Die Griechen, welche die Helden ihrer Nation zu besingen pfleg-
+ten, hatten eine Scolie auf Ajax, den Sohn Telamon&sr;.</p>
+<poem>Sohn Telamon&sr;, tapfrer Ajax, man sagt, daﬂ du nach dem
+Achille&sr; der beste von allen denen Griechen gewesen, die Troja
+belagerten. Telamon sey zuerst hingezogen, und Ajax, der an-
+dere unter den Griechen, n&ae;chst dem Achille&sr;, sey ihm gefolget.</poem>
+<p>So hat un&sr; Athen&ae;u&sr;<fn="87"><aq>Athen. l. XV. cap.</aq> 15.</fn> die Scolie geliefert. Eustathiu&sr;<fn="88"><aq>Eustath. in 2. Iliad. p. 285. edit. Rom.</aq></fn> f&ue;h-
+ret die erste H&ae;lfte davon an, da er saget, daﬂ man den grossen Ruhm
+de&sr; Ajax au&sr; der Reden&sr;-Art: den Telamon singen, sehen k&oe;nne. Die-
+se&sr; Spr&ue;chwort, setzet er hinzu, ist von der Scolie entstanden, die mit
+diesen Worten anf&ae;ngt: Sohn Telamon&sr;. Antiphane&sr; setzte diese
+<bs>C</bs><cw>Scolie</cw>
+<pb="18"/>
+Scolie unter die alten Lieder, welche man bey Tische sang. Nehmet
+den Odo&sr;, saget er beym Athen&ae;u&sr;,<fn="89"><aq>Athen. l. XI. cap.</aq> 15.</fn> wie er von dem Glase redet, welche&sr;
+die Trink-Lieder begleitet; aber fallet auf keine alte Lieder, weder auf den
+Telamon, noch auf den P&ae;an, noch auf den Harmodiu&sr;. Theopom-
+pu&sr; redet bey eben diesem Athen&ae;u&sr;<fn="90"><aq>Idem lib. I. cap.</aq> 19.</fn> auch davon. Wir lagen ganz
+sanft auf weichen Lagern, und trunken, und sungen dabey ein&sr; um&sr; an-
+dre da&sr; Lied vom Telamon.</p>
+<p>Obgleich die Scolie Telamon&sr; Namen f&ue;hrte, so sang man doch
+darinn nicht vom Telamon, sondern von seinem Sohne Ajax; und die
+Scolie hatte also nur de&sr;wegen den Namen de&sr; Vater&sr;, weil diese&sr;
+eine&sr; von den Anfang&sr;-W&oe;rtern, #, war, und auch zu
+ihrem Namen gebraucht wurde. Diese Erkl&ae;rung de&sr; Eustathiu&sr; wi-
+derspricht der Au&sr;legung, die un&sr; Erasmu&sr; giebt,<fn="91"><aq>Erasm. chil. 3. cent. 4. adag.</aq> 10.</fn> daﬂ die Reden&sr;-
+Art, den Telamon singen, #, so viel heisse, al&sr; da&sr; Lied
+vom Telamon singen, #, und daﬂ man diese&sr;, al&sr;
+ein Spr&ue;chwort, von einer betr&ue;bten und klagenden Rede gesagt habe,
+weil nemlich Telamon seinen Sohn Ajax ohne Aufh&oe;ren beweinet h&ae;tte.</p>
+<p>Die Tyranney der Pisistratiden war der Jnhalt einer Scolie, die
+einigen tapfern Atheniensern zu Ehren gemacht war, welche, zur Ver-
+theidigung ihrer Freyheit, nach einem Orte im Attischen Gebiete, der
+Lipsydrion hieﬂ, hingeflohen waren, und denselben bevestiget hatten.
+Herodotu&sr; schreibet,<fn="92"><aq>Herodot. lib. V.</aq></fn> daﬂ die Pisistratiden sie daselbst verfolgten, und
+sie endlich nach einem blutigen Gefechte herau&sr;jagten. Der Tag von
+Lipsydrion wurde zum Spr&ue;chworte, saget Eustathiu&sr;,<fn="93"><aq>Eustath. in 4 Iliad. p. 461. edit. Rom.</aq></fn> und er setzet
+noch hinzu, daﬂ man zu Ehren dieser edelgesinnten B&ue;rger eine Scolie
+gesungen. Athen&ae;u&sr;,<fn="94"><aq>Athen. l. XV. cap.</aq> 15.</fn> Suida&sr;<fn="95"><aq>Suida&sr; in</aq> #.</fn> und Eustathiu&sr;<fn="96"><aq>Eustath. l. cit.</aq></fn> haben sie un&sr;
+fast in einerley Worten hinterlassen.</p>
+<poem>Ach! ach! Lipsydrion,
+Verr&ae;ther deiner Freunde,
+O wa&sr; vor brave Helden
+Sind durch dich umgekommen!
+Vornehme, tapfre Krieger,
+Und die durch ihre Thaten zeigten,
+Von welchen V&ae;tern sie entsprossen.</poem>
+<p>Diese&sr; Lied f&ue;hret un&sr; nat&ue;rlicher Weise auf die Scolie vom Har-
+modiu&sr; und Aristogiton, welche auch gegen die S&oe;hne und Nachfolger
+de&sr; Pisistratu&sr;, Hipparchu&sr; und Hippia&sr;, ihre Tapferkeit sehen liessen.
+Hipparchu&sr; hatte die Schwester de&sr; Harmodiu&sr; &oe;ffentlich beleidiget.
+Harmodiu&sr; und Aristogiton verbunden sich darauf gegen den Tyran-
+<cw>nen,</cw>
+<pb="19"/>
+nen; der eine, um seine Schwester zu r&ae;chen; der andere, um seinem
+Freunde beyzustehen. Sie t&oe;dteten ihn auch w&ue;rklich an dem Feste
+der Panathen&ae;en, und diese&sr; war gleichsam da&sr; Zeichen, welche&sr; der
+Atheniensischen Freiheit gegeben wurde. Hippia&sr; wurde einige Zeit
+hernach gezwungen, da&sr; Land zu verlassen, floh zu den Persern, und
+blieb hernach in der Marathonischen Schlacht, worinn er die Waffen
+gegen sein Vaterland f&ue;hrte. Unterdessen wurden dem Harmodiu&sr; und
+dem Aristogiton zu Ehren Bild-Saulen aufgestellt, und Lieder gemacht.
+Thucydide&sr;,<fn="1"><aq>Thucyd. l. VI.</aq></fn> Herodotu&sr;,<fn="2"><aq>Herodot. l. III.</aq></fn> Demosthene&sr;,<fn="3"><aq>Demosthen. de Cor. fol.</aq> 382.</fn> Aristotele&sr;<fn="4"><aq>Aristotel. Polit. l. III.</aq></fn> Trogu&sr; Pom-
+peju&sr;, den Justinu&sr; in&sr; Kurze gebracht,<fn="5"><aq>Justin. lib. II. cap.</aq> 9.</fn> der alte Pliniu&sr;,<fn="6"><aq>Plin. lib. VII. cap.</aq> 23.</fn> Plutarch,<fn="7"><aq>Plutarch. de vita dec. Rhet. in Antiph.</aq></fn>
+Diogenian,<fn="8"><aq>Diogen.</aq></fn> Pausania&sr;,<fn="9"><aq>Pausan. Attic. p.</aq> 29.</fn> und mehr nach ihnen, haben ihre Geschichte
+ber&ue;hret; und einige andre Schriftsteller haben von ihren Scolien
+geredet. Hier sind einige davon, die Athen&ae;u&sr;<fn="10"><aq>Athen. lib. XV. c.</aq> 15.</fn> gesammlet hat.</p>
+<pv>Myrthen-Bl&ae;tter sollen
+Meinen Degen decken,
+Wie ihr Schwerdt Harmodiu&sr;
+Und Aristogiton trugen,
+Da sie den Tyrann erschlugen,
+Und die Gleichheit der Gesetze
+Den Atheniensern schenkten.</pv>
+<pv>Nein! du bist noch nicht gestorben,
+Theurester Harmodiu&sr;!
+Jn den Jnseln der Begl&ue;ckten,
+Wo der schnelle Held Achille&sr;,
+Und de&sr; Tydeu&sr; tapfrer Sohn,
+Diomedu&sr;, sich vergn&ue;gen,
+Da bist du auch, wie man sagt.</pv>
+<pv>Jch will meinen Degen mit Myrthen-Bl&ae;ttern bedeckt tragen,
+wie Aristogiton und Harmodiu&sr; thaten, al&sr; sie den Tyrann Hip-
+parchu&sr; zur Zeit der Panathen&ae;en t&oe;dteten.</pv>
+<pv>Euer Ruhm soll ewig seyn, liebster Aristogiton, und Harmodiu&sr;,
+weil ihr den Tyrann erschlagen, und die Gleichheit der Gesetze
+in Athen eingef&ue;hret habt.</pv>
+<p>Suida&sr; schreibet,<fn="11"><aq>Suida&sr; in</aq> #.</fn> daﬂ die Lieder von dem Harmodiu&sr; in diesen
+Worten abgefaﬂt waren: Harmodiu&sr; und Aristogiton haben ihre H&ae;n-
+<bs>C 2</bs><cw>de</cw>
+<pb="20"/>
+de an die Tyrannen gelegt, und die Athenienser haben den Hippia&sr; ge-
+t&oe;dtet. Aber alle diese verschiedenen Lieder kommen fast auf ein&sr; hinau&sr;.</p>
+<p>Aristophane&sr;<fn="12"><aq>Aristoph. in vesp. v. 1217 &amp; sqq.</aq></fn> redet von dieser Scolie an mehr al&sr; einem Orte
+seiner Werke. Jn den Wespen suchet der Sohn de&sr; Alten, mit dem
+er bey Tische sitzet, seinen Vater lustig zu machen, wenn er ihm vor-
+schl&ae;gt, Scolien zu singen, und saget zu ihm: Jch will zuerst die vom
+Harmodiu&sr; singen, h&oe;re zu: Niemal&sr; wurde ein Mann zu Athen ge-
+bohren. Diese&sr; ist ohne Zweifel der Anfang einer andern Scolie auf
+den Harmodiu&sr;, wovon wir nur noch diese wenigen Worte &ue;brig ha-
+ben. Jn den Acharniern<fn="13"><aq>Aristoph. in Acharn. v.</aq> 677.</fn> will da&sr; Chor der B&ue;rger sagen, daﬂ sie kei-
+nen Krieg&sr;mann bey ihrer Tafel leiden wollen, und spricht: Er soll nie-
+mal&sr; den Harmodiu&sr; bey mir singen.<fn="14"><aq>Ibid. v.</aq> 192.</fn> Jn eben diesem St&ue;cke setzet
+man die sch&oe;nen Lieder vom Harmodiu&sr; unter die Ergetzlichkeiten der
+Tafel, welche daselbst hergez&ae;hlet werden. Wir haben schon ein St&ue;ck
+au&sr; den St&oe;rchen eben diese&sr; Dichter&sr; angef&ue;hret, wo er saget, daﬂ
+einer beym Myrthen-Zweige da&sr; Lied vom Admetu&sr;, und der andere die
+Scolie vom Harmodiu&sr; sang. Antiphane&sr;, den Athen&ae;u&sr;<fn="15"><aq>Athen. lib. XV. cap.</aq> 14.</fn> anf&ue;h-
+ret, thut de&sr; Liede&sr; vom Harmodiu&sr; zweimal Erw&ae;hnung. Er saget,<fn="16"><aq>Idem lib. XI. cap.</aq> 15.</fn>
+indem er von einem Gast-Mahle redet, daﬂ man daselbst schon den
+Harmodiu&sr; und den P&ae;an gesungen, al&sr; einer die grosse Schale de&sr;
+errettenden Jupiter&sr; genommen. Nehmet die&sr; Gla&sr;, sagt er ander&sr;-
+wo, aber gerathet auf keine alten Lieder, weder auf den Telamon,
+noch auf den P&ae;an, noch auf den Harmodiu&sr;. Aristide&sr;<fn="17"><aq>Aristide&sr; serm. in Eteon.</aq></fn> fraget in
+einer Leichen-Rede auf den Eteonu&sr;, ob man nicht wol thun w&ue;rde,
+wenn man von ihm in den Scolien s&ue;nge, wie man darinn den Har-
+modiu&sr; besinget, wenn man saget: Du bist noch nicht todt. Endlich
+versichert un&sr; der Scholiast de&sr; Aristophane&sr;,<fn="18"><aq>Scholiast. Aristoph. in Acharn. v.</aq> 977.</fn> daﬂ man bey den Ga-
+stereyen da&sr; Lied gesungen, welche&sr; vom Harmodiu&sr; den Namen f&ue;h-
+ret, und sich also anf&ae;ngt: Lieber Harmodiu&sr;, du bist noch nicht todt.
+Au&sr; allen diesen Zeugnissen siehet man, daﬂ von allen denen Scolien,
+die auf den Harmodiu&sr; verfertiget waren, die letzte am bekanntesten
+gewesen, und am meisten gebraucht worden.</p>
+<p>Wir haben schon angemerket, daﬂ Suida&sr;<fn="19"><aq>Suida&sr; in</aq> #.</fn> au&sr; dem Liede auf
+den Harmodiu&sr; ein Spr&ue;chwort gemacht. An einem Orte saget er,<fn="20"><aq>Idem in</aq> #.</fn>
+daﬂ man e&sr; von leichten Sachen brauchte, und an einem andern, daﬂ
+man dadurch schwere Dinge anzudeuten pflegte. Erasmu&sr; f&ue;get hinzu,<fn="21"><aq>Erasm. chil. 2. cent. 6. adag. 22. et
+cent. 10. adag. 93. et chil. 4. cent. 4. adag.</aq> 10.</fn>
+daﬂ die Scolie auf den Harmodiu&sr;, so wie die Lieder auf den Admetu&sr;
+und Telamon, von traurigen Sachen gesagt wurde. So gleich findet
+<cw>er</cw>
+<pb="21"/>
+er zu diesen dreyen Spr&ue;chw&oe;rtern einen traurigen Ursprung au&sr;, und
+hernach eine Bedeutung, welche diesem ersten Ursprunge gem&ae;ﬂ ist.
+Aber da&sr; ist nicht der Begriff, welchen un&sr; die Schriftsteller davon ge-
+ben, die &ae;lter sind, al&sr; Erasmu&sr;.<fn="22"><aq>Suida&sr; l. cit. Eustath. in 2 Iliad.
+p. 285. edit. Rom.</aq></fn></p>
+<p>E&sr; ist glaublich, daﬂ die Scolie von der Clitagora auch auf die
+Zeit der Pisistratiden und den Beystand, welchen die Thessalier den
+Atheniensern gegen die Tyranney leisteten, zielete. Diese Anmerkung
+machet der Scholiast de&sr; Aristophane&sr;<fn="23"><aq>Scholiast. Aristoph. in vesp. v.</aq> 1237.</fn> bey Gelegenheit der Scolie,
+welche Aristophane&sr; selbst in diesen Worten anf&ue;hret.</p>
+<poem>Geld, Thessalier und Leben
+M&ue;sset ihr,
+G&oe;tter, mir,
+Mir und Clitagoren geben.</poem>
+<p>Clitagora war, wie eben dieser Scholiast meldet,<fn="24"><aq>Scol. Aristoph. l. cit.</aq></fn> eine Frau au&sr;
+Thessalien, welche sich auf die Poesie legte. Suida&sr;<fn="25"><aq>Suida&sr; in</aq> #.</fn> redet von ei-
+ner Clitagora au&sr; Laced&ae;mon, welche ebenfall&sr; die Poesie trieb, und
+er saget, daﬂ Aristophane&sr; in den Danaiden, welche wir nicht mehr
+haben, derselben erw&ae;hne.</p>
+<p>Athen&ae;u&sr;<fn="26"><aq>Athen. l. XIII. c.</aq> 4.</fn> hat un&sr; eine Scolie hinterlassen, welche Pindaru&sr;
+bey Gelegenheit de&sr; Preise&sr;, der in den Olympischen Spielen dem Ueber-
+winder gegeben ward, verfertiget hatte. Xenophon au&sr; Corinth hatte
+sich anheischig gemacht, wenn er Sieger w&ue;rde, der Venu&sr; in ihren
+Tempel eine gewisse Anzahl von Frauenzimmern zum Dienste de&sr; ge-
+meinen Wesen&sr; zu schenken. Er trug auch den Prei&sr; davon, und nach-
+dem Pindaru&sr; seinen Sieg in der Ode, welche sich mit dem Worte,
+#, anf&ae;ngt, und jetzo die dreyzehnte im ersten Buche ist,
+besungen hatte, so machte er noch eine Scolie auf da&sr; Geschenke, wel-
+che&sr; er der Venu&sr; gelobet hatte. Eben diese Frauenzimmer musten sie
+bey der Zur&ue;ckkunft de&sr; Xenophon&sr;, und unter der Zeit, daﬂ er im Tem-
+pel der G&oe;ttin opferte, zum erstenmale singen.</p>
+<hr>
+<p>Der Herr Uebersetzer hat Bedenken getragen, den ihm zu freyen
+griechischen Text zu verdeutschen. Wir theilen dem Leser also die Ueber-
+setzung Casaubon&sr; mit.</p>
+<p><et><aq>O regina Cypri in tuum istud remu&sr; puellarum 25 Lasci-
+varum gregem adduxit, votum l&00E6;tu&sr; ut exsolveret. Pe-
+regrin&00E6; &amp; hospitale&sr; juvencul&00E6;, ministr&00E6; sacrorum In
+opulenta Corintho flava&sr; manibu&sr; thuri&sr; lacryma&sr; tenen-
+te&sr;, S&00E6;piu&sr; nobi&sr; amorum c&0153;lestem matrem placave-
+runt, Menteque &amp; animo ad Venerem provolante&sr; Nobi&sr;</aq>
+<bs>C 3</bs><cw><aq>illam</aq></cw>
+<pb="22"/>
+<aq>illam a superi&sr; adjutricem pr&00E6;buere. Harum molliusculam
+pulcritudinem, cum urget necessita&sr;, Vo&sr; demetere lecti&sr;
+in dulcibu&sr;, o juvene&sr;, per pulcrum est. Miror autem,
+quid domini de me sint existimaturi, Melliti huju&sr; carmi-
+ni&sr; scolii excogitato huju&sr;modi principio, quod publica-
+rum seminarum laudi veluti connubio annexum &amp; ad-
+junctum est.</aq></et></p>
+<hr>
+<p>Au&sr; den letzten Worten siehet man, daﬂ Pindaru&sr; sich einige
+Sorge gemacht habe, wa&sr; seine Herren von ihm und seiner gar zu freyen
+Scolie denken w&ue;rden.</p>
+<p>Der Scholiast de&sr; Aristophane&sr;<fn="27"><aq>Schol. Aristoph. in Acharn. vers.</aq> 977.</fn> nennet un&sr; eine Scolie von
+Lampon; er sagt un&sr; aber weiter nicht&sr;, weder von den Worten, noch
+von dem Jnhalte. Man kann sie unterdessen mit Recht unter die hi-
+storischen Scolien setzen, weil der Scholiast dieselbe den Liedern von Ad-
+metu&sr; und Harmodiu&sr; beyf&ue;get, al&sr; wenn sie von eben der Art w&ae;re.
+Sonsten ist die Person, deren Namen sie f&ue;hret, in der Historie bekannt.
+Aristophane&sr;,<fn="28"><aq>Aristoph. in avibu&sr; v.</aq> 521. &amp; 989.</fn> sein Scholiast,<fn="29"><aq>Schol. Aristoph. in nub. v. 331. &amp;
+in Acharn. v. 977. &amp; in avib. v.</aq> 521 &amp; 989.</fn> und Suida&sr;<fn="30"><aq>Suida&sr; in #, &amp; in #-
+#, &amp; in</aq> #.</fn> reden von Lampon.
+Er war ein Wahrsager, und hielt da&sr; Gesetz strenge, welche&sr; Rhada-
+mantu&sr; gegeben hatte, und wodurch befohlen wurde, bey keiner andern
+Sache, al&sr; bey dem Namen der Pflanzen, oder der Thiere zu schweren.
+Er wurde mit einer atheniensischen Colonie weggeschickt, um die Stadt
+Sybari&sr;, nach ihrer Eroberung, wieder aufzubauen.</p>
+<p>Aristotele&sr;, welchen man gemeiniglich nur al&sr; einen grossen Welt-
+weisen anzusehen pfleget, verdienet auch noch unter den Dichtern eine
+Stelle, wenn er auch sonst keine Verse geschrieben h&ae;tte, al&sr; die Scolie,
+die er auf den Tod de&sr; atarnischen Tyrannen, Hermia&sr;, seine&sr; Freun-
+de&sr; und Bunde&sr;-Genossen, verfertiget hat, und die wir noch aufweisen
+k&oe;nnen. Diese&sr; kostbare St&ue;ck hat un&sr; Diogene&sr; Laertiu&sr;<fn="31"><aq>Diogen. Laert. in Aristot.</aq></fn> und
+Athen&ae;u&sr;<fn="32"><aq>Athen. l. XV. cap.</aq> 16.</fn> aufbehalten. Juliu&sr; Scaliger<fn="33"><aq>Scaliger I. Poet.</aq> 44.</fn> hat darau&sr; geurtheilet,
+daﬂ Aristotele&sr; in der Poesie dem Pindaru&sr; nicht&sr; nachg&ae;be, und Ca-
+saubonu&sr;<fn="34"><aq>Casaubon. animadv. in Athen. l. XV.
+c.</aq> 16.</fn> nennet e&sr; ein recht g&ue;ldene&sr; Werk.</p>
+<pv>Ziel de&sr; menschlichen Bestreben&sr;,
+Ziel, da&sr; man mit M&ue;h erreicht!
+Sch&oe;nste Beute diese&sr; Leben&sr;!
+Kleinod, dem kein Reichthum gleicht!
+Tugend! dich, dich, unbefleckte Sch&oe;ne!
+Lieben Griechen-Lande&sr; S&oe;hne.</pv>
+<cw>Jhnen</cw>
+<pb="23"/>
+<pv>Jhnen heissen alle Plagen
+Und da&sr; grausamste Geschick,
+Wenn sie e&sr; f&ue;r dich ertragen,
+Ein beneiden&sr;wehrte&sr; Gl&ue;ck.
+Quaal und Tod f&ue;r dich geduldig leiden,
+Jst ein Theil von ihren Freuden.</pv>
+<pv>Die&sr; zeigt deine&sr; Samen&sr; Bl&ue;te,
+Fr&ue;chte der Unsterblichkeit,
+Fr&ue;chte, welche deine G&ue;te
+Jn der Menschen Herze streut.
+Eltern, Gold, der s&ue;sse Schlaf gefallen;
+Aber du gef&ae;llst vor allen.</pv>
+<pv>Hercul&sr;, Castor&sr;, Pollux Werke,
+Die so viel f&ue;r dich gethan,
+Waren Zeugen deiner St&ae;rke,
+K&ue;ndigten dein Daseyn an.
+Und warum starb Ajax mit Achillen?
+Tugend! nur um deinetwillen.</pv>
+<pv>Deine Sch&oe;nheit zeugt die Triebe,
+Womit du gesuchet wirst.
+Deiner Sch&oe;nheit blo&sr; zu Liebe
+Blendet sich Atarnen&sr; F&ue;rst,
+Dieser F&ue;rst, den sein Verdienst und Leben
+Und die Ewigkeit erheben.</pv>
+<pv>De&sr; Ged&ae;chtnisse&sr; Geschlechte,
+Musen! wollt ihr Zev&sr; erh&oe;hn,
+Unter dessen Schutz die Rechte
+Der Gast-Freyheit sicher stehn:
+O so laﬂt stet&sr; unter eurem Singen
+Diese&sr; F&ue;rsten Lob erklingen.</pv>
+<pv>Und so oft al&sr; eure Leyer
+Von der Freundschaft Alter spielt,
+Die da&sr; jugendliche Feuer
+Und die erste Treu noch f&ue;hlt,
+O so oft laﬂt unter euren Ch&oe;ren
+Diese&sr; F&ue;rsten Lob-Lied h&oe;ren.</pv>
+<p>Diese&sr; St&ue;ck, welche&sr; sich so wol f&ue;r einen grossen Dichter, al&sr;
+f&ue;r einen grossen Weltweisen schicket, erweckte dem Aristotele&sr; An-
+<cw>kl&ae;ger.</cw>
+<pb="24"/>
+kl&ae;ger. Athen&ae;u&sr;<fn="35"><aq>Athen. l. XV. c.</aq> 16.</fn> berichtet, daﬂ Demophilu&sr; und &007C; Eurymedon ihn
+der Gotte&sr;l&ae;sterung beschuldigten. Sie gaben vor, da&sr; Lied w&ae;re ein
+rechter P&ae;an, und e&sr; w&ae;re nicht erlaubt, so bey Gastereyen, einem
+blossen Menschen zu Ehren, einen geheiligten Gesang zu singen, der f&ue;r
+die G&oe;tter allein geh&oe;rte. Juliu&sr; Scaliger<fn="36"><aq>Scaliger l. Poetic.</aq> 44.</fn> glaubet auch, daﬂ e&sr; ein
+P&ae;an sey; aber Athen&ae;u&sr; behauptet, daﬂ man nicht die geringste Spur
+eine&sr; geheiligten Liede&sr; von dieser Art darinn antreffe, weil der Ver-
+fasser daselbst von dem Hermia&sr;, al&sr; einem sterblichen Menschen, redet,
+und die Anrufung, #, welche man ordentlich in den P&ae;anen
+findet, au&sr;gelassen hat. Diese beyden Gr&ue;nde de&sr; Athen&ae;u&sr; sind aber
+doch nicht unbeantwortet geblieben. Casaubonu&sr;<fn="37"><aq>Casaub. animadv. in Athen. l. XV.
+c.</aq> 16.</fn> setzet dem ersten
+einen P&ae;an entgegen, der von Xenophon<fn="38"><aq>Xenoph. Cynop. lib. III.</aq></fn> angef&ue;hret wird, und den
+Diascuren, die doch auch sterblich gewesen, zu Ehren gemacht war;
+und wider den andern bringet Scaliger<fn="39"><aq>Scal. l. cit.</aq></fn> ein St&ue;ck de&sr; Ariphron&sr; au&sr;
+Sicyon von der Gesundheit her, welche&sr; Athen&ae;u&sr;<fn="40"><aq>Athen. l. XV. in fine.</aq></fn> selbst einen P&ae;an
+nennet, und worinn man doch nicht die Anrufung findet. Dem sey
+nun, wie ihm wolle, man kann die&sr; Lied de&sr; Aristotele&sr;, auf de&sr; Athe-
+n&ae;u&sr; Wort, immerhin unter die Scolien setzen; und da&sr; ist die letzte
+von unsern historischen Scolien.</p>
+<p>Die dritte Classe besteht au&sr; denen Scolien, welche von gemei-
+nen und ordentlichen Dingen handeln. Hier finden wir gleich den Al-
+c&ae;u&sr; und Anacreon vor un&sr;. Aristotele&sr;<fn="41"><aq>Aristot. III. 10. Pol.</aq></fn> erw&ae;hnet der Scolien de&sr;
+Alc&ae;u&sr;, und man weiﬂ auch sonst, daﬂ Alc&ae;u&sr; und Anacreon sich in
+dieser Art von Liedern sehr hervorgethan, und daﬂ darum, nach der An-
+merkung de&sr; Athen&ae;u&sr;,<fn="42"><aq>Athen. l. XV. c.</aq> 14.</fn> Aristophane&sr; in seinen G&ae;sten sagt: Singe
+mir eine Scolie au&sr; dem Alc&ae;u&sr; und Anacreon. Nun k&oe;nnen wir auch
+leicht wissen, wovon die Scolien dieser beyden Dichter handelten.</p>
+<p>Unter den wenigen St&ue;cken, die un&sr; noch vom Alc&ae;u&sr; &ue;brig ge-
+blieben sind, finden sich einige, worinn von nicht&sr;, al&sr; Wein und gu-
+tem Leben, geredet wird. Athen&ae;u&sr;<fn="43"><aq>Athen. l. X. c.</aq> 8.</fn> nennet sie ein Werk de&sr; Alc&ae;u&sr;,
+de&sr; Lieder-Dichter&sr;. Man kann sie also al&sr; lauter Ueberbleibsel von
+seinen Scolien ansehen. Er suchet darinn &ue;berhaupt da&sr; Trinken in
+allen Jahr&sr;-Zeiten, und in allen Umst&ae;nden unser&sr; Leben&sr; anzupreisen.</p>
+<p>Erste&sr; St&ue;ck auf den Winter.<fn="44"><aq>Ibid.</aq></fn></p>
+<pv>Seht, wie Zev&sr; durch Regen-G&ue;sse
+Felder &ue;berschwemmt;
+Seht, der Lauf der schnellsten Fl&ue;sse
+Wird durch Ei&sr; gehemmt;
+<cw>Seht,</cw>
+<pb="25"/>
+Seht, die Luft ist schon den Winden
+V&oe;llig unterthan.
+Fort! den Frost nicht zu empfinden,
+Z&ue;ndet Feuer an!</pv>
+<pv>Doch man muﬂ, nach meinem D&ue;nken,
+Jtzt auch lustig seyn.
+Gebt un&sr; reichlich Wein zu trinken;
+Aber guten Wein.
+Der, ihr wiﬂt schon, den ich meyne,
+Honig-Farbe zeigt,
+Und nicht, wie die andern Weine,
+Gleich zu Kopfe steigt.</pv>
+<p>Andere&sr; St&ue;ck auf den Sommer.<fn="45"><aq>Ibid.</aq></fn></p>
+<poem>Br&ue;der! netzt die Zungen,
+Netzt und k&ue;hlt die Lungen
+Mit dem besten Wein!
+Auf, und schenket ein!
+Seht! der Hund&sr;stern gl&ue;het,
+Alle&sr;, wa&sr; man siehet,
+Alle&sr; ist erhitzt,
+Alle&sr; durstet itzt.
+<fr>Sollten wir allein
+Denn nicht durstig seyn?</fr></poem>
+<p>Plutarchu&sr;<fn="46"><aq>Plutarch. Sympos. l. VII. qu&00E6;st.</aq> 1.</fn> f&ue;hret diese Worte davon an: Netze die Lungen;
+und untersuchet bey dieser Gelegenheit in einer von seinen Tisch-Fragen,
+ob der Trunk in den Magen, oder in die Brust hinunter fliesse. Er
+meynet, nach den Meynungen vieler Alten, daﬂ er den letzten Weg neh-
+me, welche&sr; un&sr; gewiﬂ eben keinen grossen Begriff von ihrer Natur-
+Lehre und Anatomie giebet.</p>
+<p>Dritte&sr; St&ue;ck auf den Fr&ue;hling.<fn="47"><aq>Athen. l. X. cap.</aq> 8.</fn></p>
+<poem>H&oe;rt einmal, ihr muntern Br&ue;der!
+Jtzo k&oe;mmt der Fr&ue;hling wieder,
+Seht, er k&oe;mmt, von Blumen schwer.
+Gebt mir gleich au&sr; diesem Fasse
+Von dem honigs&ue;ssen Nasse.
+Eilet! Einen Becher her!</poem>
+<p>Vierte&sr; St&ue;ck &ue;ber die Gelegenheiten zum Gram und Kummer.<fn="48"><aq>Ibid.</aq></fn></p>
+<poem>O Bacchi&sr;! laﬂ Sorgen und Grillen
+Dir Herz und Gedanken nicht f&ue;llen.
+<cw>Sprich,</cw>
+<bs>D</bs>
+<pb="26"/>
+Sprich, ob man da&sr; Gl&ue;cke so zwingt.
+Da&sr; kr&ae;ftigste Mittel, die Plagen
+Und allen Verdruﬂ zu verjagen,
+Jst diese&sr;, daﬂ man sich betrinkt.</poem>
+<p>Horaz<fn="49"><aq>Horat. l. IV. Od.</aq> 12.</fn> hat nach der Zeit eben da&sr; gesagt:</p>
+<poem><aq>Spe&sr; donare nova&sr; largu&sr;, amaraque
+Curarum eluere efficat.</aq></poem>
+<p>F&ue;nfte&sr; St&ue;ck &ue;ber die Gelegenheiten zum Vergn&ue;gen und zur
+Freude.</p>
+<poem>Heute, Br&ue;der! heut
+Jst die rechte Zeit,
+Daﬂ ihr trinkt, und trunken seyd.
+Lustig! eingeschenket!
+Wer nicht will, der muﬂ,
+Weil de&sr; Schicksal&sr; Schluﬂ
+Unsern lieben Myrsilu&sr;
+Jn die Gruft versenket.</poem>
+<p>Horaz hat davon eben so viel an mehr al&sr; einem Orte seiner Ge-
+dichte geredet.</p>
+<p>Sechste&sr; St&ue;ck<fn="50"><aq>Athen. l. X. cap.</aq> 8.</fn></p>
+<poem>Von allen Pflanzen muﬂ der Wein
+Von dir zuerst gepflanzet seyn.</poem>
+<p>Horaz hat e&sr; Wort f&ue;r Wort &ue;bersetzt:<fn="51"><aq>Horat. lib. l. Od.</aq> 18.</fn></p>
+<cit><aq>Nullam, Vare, sacr‚ vite priu&sr; severi&sr; arborem.</aq></cit>
+<p>Siebende&sr; und letzte&sr; St&ue;ck.<fn="52"><aq>Athen. loc. cit.</aq></fn></p>
+<pv>Br&ue;der! warum trinkt ihr nicht?
+Wa&sr; erwartet ihr da&sr; Licht?
+Denkt, wie bald ein Tag verflossen.
+Gebet un&sr; geschwinde Wein!
+Grosse Becher bringt herein,
+Die verschiedner Weite seyn,
+Und vom Weine vollgegossen!</pv>
+<pv>Trinkt den Reben-Saft, und denkt,
+Wozu Bacchu&sr; ihn geschenkt;
+Auf! vergesset Noth und Plagen.
+Ein&sr;, zwey, drey und mehrmal leer!
+Und wird euch der Kopf zu schwer,
+Gut! so trinket immer mehr.
+Ein Gla&sr; soll da&sr; andre jagen.</pv>
+<cw>Wenn</cw>
+<pb="27"/>
+<p>Wenn wir von den Scolien de&sr; Alc&ae;u&sr; nach dem wenigen, wa&sr;
+wir eben davon gesehen haben, urtheilen wollen, so hatten sie keinen
+andern Jnhalt, al&sr; die Ergetzlichkeiten der Tafel. Hierauf hat ver-
+mutlich Quintilian gesehen,<fn="53"><aq>Quintil. l. X. c.</aq> 1.</fn> wenn er schrieb, daﬂ dieser Dichter sich
+zu Kleinigkeiten heruntergelassen h&ae;tte, da er doch geschickter gewesen
+w&ae;re, wa&sr; Grosse&sr; zu singen: <aq>In lusu&sr; &amp; amore&sr; descendit, majo-
+ribu&sr; tamen aptior.</aq> Man hat auch w&ue;rklich von ihm noch viele an-
+dere St&ue;cke, welche zeigen, daﬂ er oft die edelsten und ernsthaftesten
+Materien zu w&ae;hlen wuﬂte.</p>
+<p>Wa&sr; den Anacreon anbetrifft, so haben wir von ihm 70 Oden,
+welche man ihrer K&ue;rze und ihre&sr; Jnhalt&sr; wegen f&ue;r diejenigen Scolien
+ansehen muﬂ, welche da&sr; Alterthum ihm zuschreibet. Er besinget dar-
+inn bald die Liebe, bald den Gott de&sr; Wein&sr;, und oft beyde zugleich.
+Wollen wir diese St&ue;cke von Seiten der Schreibart betrachten, so fin-
+den wir in denselben eine solche S&ue;ﬂigkeit, und etwa&sr; so feine&sr; und
+z&ae;rtliche&sr;, al&sr; wir vielleicht sonst nirgend&sr; finden. Alle&sr; ist darinn
+sch&oe;n und nat&ue;rlich; jeder Gedanke ist eine Empfindung; jeder Au&sr;-
+druck k&oe;mmt au&sr; dem Herzen, und gehet wieder zum Herzen. Man
+findet da diese ungek&ue;nstelten Annehmlichkeiten, welche den Character
+de&sr; Liede&sr; au&sr;machen, und dasselbe von allen andern Werken der Poesie
+unterscheiden. Man siehet da diejenigen lachenden Bilder, welche alle-
+mal gewiﬂ gefallen, weil sie mit Geschmack und Urtheil au&sr; der blossen
+Natur genommen sind. Hiezu war ohne Zweifel eine Melodie au&sr;ge-
+suchet, die sich zu den Worten schickte; und so muﬂte die jonische Mund-
+Art, die sehr annehmlich war, und die jonische Sing-Art, die alle an-
+dern an Z&ae;rtlichkeit &ue;bertraf, diese Lieder vollkommen angenehm machen.
+Will man sie aber von Seiten der Sitten ansehen, so zeiget un&sr; alle&sr;
+eine au&sr;schweifende Wollust, eine Freiheit, so wol im Witz, al&sr; im
+Herzen; und eine angenommene Ruhe und Sorglosigkeit, welche alle&sr;
+da&sr;, wa&sr; wir Gl&ue;ck, Ehre, Tugend und Wolstand nennen, al&sr; lau-
+ter eitele und nicht&sr;w&ue;rdige Begriffe entfernet.</p>
+<p>Pindaru&sr;, von dem ich schon eine Scolie auf eine historische Be-
+gebenheit angef&ue;hret habe, machte auch dergleichen auf die Ergetzlich-
+keiten der Tafel. Denn da Athen&ae;u&sr;<fn="54"><aq>Athen. l. X. c.</aq> 7.</fn> von den alten Scolien redet,
+worinn oft etwa&sr; von dem Cottabu&sr;-Spiele vorkam, so leget er diese
+dem Pindaru&sr; in den Mund.</p>
+<p><et>Jch will mich im Winter auf die Annehmlichkeiten der Liebe&sr;-
+G&oe;tter der Venu&sr; betrinken, und dem Agathon den Cottabu&sr;
+zubringen.</et></p>
+<p>Hier sind noch einige Scolien, welche Athen&ae;u&sr; gesammelt hat,<fn="55"><aq>Idem l. XV. c.</aq> 15.</fn>
+ohne die Verfasser derselben zu melden.</p>
+<bs>D 2</bs><cw>O w&ue;rd</cw>
+<pb="28"/>
+<pv>O w&ue;rd&2019; ich eine sch&oe;ne Leyer
+Von weissem Elfenbein,
+Und k&oe;nnt&2019; ich denn durch sch&oe;ner Kinder Hand
+Zum Bacchu&sr;-Tanz getragen seyn!
+O w&ue;rd&2019; ich Gold, da&sr; noch kein Feuer
+Versehrt und durchgebrannt,
+Und n&ae;hm&2019; ein tugendhafte&sr; Weib
+Mich denn an ihren sch&oe;nen Leib!</pv>
+<pv>Lebe, trinke, liebe, l&ae;rme,
+Kr&ae;nze dich mit mir!
+Schw&ae;rme mit mir, wenn ich schw&ae;rme;
+Jch bin wieder klug mit dir.</pv>
+<pv>Auf! Cotoni&sr;, schenk mir ein,
+Schenk mir ein, und h&oe;re,
+Laﬂ dir diese Lehre
+Heut von mir gesaget seyn:
+Man muﬂ da&sr; Getr&ae;nk der Reben
+Allen braven Leuten geben.</pv>
+<p>Athen&ae;u&sr; hat noch zwo andere, die sehr kurz sind, in seine Samm-
+lung aufgenommen.<fn="56"><aq>Athen. l. XV. c.</aq> 15.</fn></p>
+<poem>Die Eichel hat da&sr; Schwein, und jene h&ae;tt&2019; e&sr; gerne.
+Die&sr; M&ae;dchen hab&2019; ich auch, und jene&sr; h&ae;tt&2019; ich gerne.</poem>
+<poem>Der Bader und die *** baden,
+Den feinsten Mann, den schlechtsten Kerl
+Best&ae;ndig nur in einer Wanne.</poem>
+<p>Ein kriegerische&sr; Lied de&sr; Hybria&sr; von Creta, welche&sr; einige, wie
+Athen&ae;u&sr; saget,<fn="57"><aq>Ibidem.</aq></fn> unter die Scolien gesetzt haben, soll den Beschluﬂ
+dieser Abhandlung machen.</p>
+<poem>Ein Spieﬂ, ein Schwerdt, ein sch&oe;ner Schild,
+Der meinen Leib besch&ue;tzet,
+Sind mir ein grosser Schatz.
+Denn hiedurch kann ich pfl&ue;gen, erndten,
+Die s&ue;ssen Trauben keltern,
+Und Herr in meinem Hause seyn.
+Die aber e&sr; nicht wagen,
+Spieﬂ, Schwerdt und Schild zu tragen,
+Die alle fallen vor mir nieder,
+Verehren mich, al&sr; ihren Herrn,
+Und nennen mich gar einen K&oe;nig,</poem>
+<cw>Andre</cw>
+<pb="29"/>
+<d2><b>Andre Abhandlung.</b>
+Von den Liedern, die gewissen Handthierungen eigen waren,
+oder bey gewissen Gelegenheiten gebraucht wurden.</d2>
+<p><in>E</in>&sr; scheinet, daﬂ in Griechenland jede Handthierung eine Art vom
+Liede hatte, die ihr besonder&sr; geheiligt war. Wenigsten&sr; haben
+wir noch einige Spuren von Liedern, welche die Hirten sungen; von
+denen, welche die Leute, die de&sr; Tag&sr; auf dem Felde arbeiteten, zu brau-
+chen pflegten; von den Liedern der Schnitter, derer, welche da&sr; Korn
+droschen, und derer, welche Wasser sch&oe;pften; von den Liedern, welche
+den M&ue;llern, den Webern, den Wollen-Arbeitern, den S&ae;ug-Ammen
+und den Badern zugeh&oe;rten. Die Griechen hatten auch noch Lieder,
+die mit besondern Gelegenheiten und Gebr&ae;uchen verbunden waren, wie
+da&sr; Lied auf die Erigone, die Lieder auf die Theodore, die Julen der
+Cere&sr; und der Proserpina, die Philelie de&sr; Apollo, die Upingen der
+Diana, die Liebe&sr;-Lieder, da&sr; Hochzeit-Lied, die Freuden-Lieder und
+die Trauer-Lieder.</p>
+<p>Die Hirten-Lieder. Der Gebrauch der Lieder schickt sich f&ue;r da&sr;
+Sch&ae;fer-Leben vortrefflich. Da&sr; nat&ue;rliche Wesen der Hirten und die
+Musse, deren sie geniessen, reizen sie zu singen; und die lieblichen Bil-
+der, womit sie von allen Seiten umgeben sind, werden f&ue;r sie uner-
+sch&oe;pfliche Quellen von Liedern. Man macht sich auch von ihrem Zeit-
+vertreibe, und selbst von ihrer t&ae;glichen Besch&ae;ftigung keinen andern
+Begriff, al&sr; daﬂ sie best&ae;ndig singen. Man stellet sich in ihren Lie-
+dern Lieblichkeit, Z&ae;rtlichkeit und ein ungek&ue;nstelte&sr; Wesen vor; und
+wenn wir sie selbst nicht sehen und h&oe;ren k&oe;nnen, so lieben wir doch we-
+nigsten&sr; die Lieder, welche auf die Art gemacht sind. Diesem Geschmacke
+haben wir unsere Sch&ae;fereyen und Hirten-Fl&oe;ten zu danken, und von
+eben demselben haben die andern V&oe;lker, welche die K&ue;nste getrieben,
+auch den sch&oe;nen Gebrauch de&sr; Hirten-Liede&sr; erhalten.</p>
+<p>E&sr; giebt also zwo unterschiedene Arten von Hirten-Liedern, die-
+jenigen, welche sie selber singen, und die, welche man zur Nachahmung
+macht. Da wir so wol die eine, al&sr; die andere Art selbst unter un&sr;
+haben, so hat man ja noch viel st&ae;rkere Ursache, zu glauben, daﬂ sie in
+Griechenland im Schwange giengen, wo da&sr; Sch&ae;fer-Leben gewiﬂ
+allgemeiner und edler war, al&sr; e&sr; bey un&sr; ist. Unterdessen ist doch von
+dieser alten Zeit kein St&ue;ck mehr &ue;brig, da&sr; ein eigentliche&sr; Hirten-
+Lied seyn sollte. E&sr; ist wahr, Theocritu&sr; und die andern griechischen
+Dichter lassen ihre Hirten singen, und wenn man die Worte, welche
+sie ihnen in den Mund legen, von dem Zusammenhange absondern will,
+so k&oe;nnten sie noch wol f&ue;r Lieder angesehen werden. Aber ich kann
+<bs>D 3</bs><cw>sie</cw>
+<pb="30"/>
+sie hier nicht al&sr; Lieder anf&ue;hren, weil sie doch einen Theil von rechten
+Werken der Dichtkunst au&sr;machen.</p>
+<p>Da&sr; Besonderste, da&sr; wir noch von den Liedern der griechischen
+Hirten wissen, ist diese&sr;, daﬂ sie ein Lied hatten, welche&sr; sie Bucolia&sr;-
+mu&sr; nannten, und zu singen pflegten, wenn sie da&sr; Vieh zur Weide
+trieben. Diomu&sr;, ein Sch&ae;fer au&sr; Sicilien, war, wie Athen&ae;u&sr;<fn="1"><aq>Athen. lib XIV. c.</aq> 9.</fn> sa-
+get, der Erfinder davon, und Epicharmu&sr; erw&ae;hnte desselben in seinem
+Alcyon und im Schiffbruch leidenden Ulysse&sr;. Man hieﬂ auch noch
+einen Tanz, den man auf der Fl&oe;te spielte, Bucoliasmu&sr;. Athen&ae;u&sr;
+selbst unterscheidet ihn von dem Liede, wovon wir eben geredet haben.</p>
+<p>Pollux<fn="2"><aq>Pollux lib. IX. num.</aq> 12.</fn> nennet da&sr; Lied der Ziegen- und Vieh-Hirten ein b&ae;uri-
+sche&sr; Lied und eine b&ae;urische Muse, wenn nur nicht da&sr;, wa&sr; er da-
+von sagt, eher auf den Gesang und auf die Melodie, al&sr; auf da&sr; Lied
+selber, gehen soll.</p>
+<p>Da&sr; Lied der Tagel&oe;hner, die auf dem Felde arbeiteten. Athe-
+n&ae;u&sr; bemerket, daﬂ Teleclide&sr; in den Amphictyonen davon geredet hatte.
+Da&sr; ist alle&sr;, wa&sr; wir davon wissen.</p>
+<p>Da&sr; Lied der Schnitter. Theocritu&sr;<fn="3"><aq>Theocrit. Idyll.</aq> 10.</fn> und seine Scholiasten,<fn="4"><aq>Scholiast. Theocrit. in Idyll.</aq> 10.</fn>
+Apollodoru&sr;,<fn="5"><aq>Alter Schol. cit. in lect. Theocrit.
+Causaub. c. XII.</aq></fn> welchen einer von diesen anf&ue;hret, Phavorinu&sr;,<fn="6"><aq>Phavorin.</aq></fn> Pol-
+lux,<fn="7"><aq>Pollux lib. I. c. 1. &amp; lib. IV. c.</aq> 7.</fn> Athen&ae;u&sr;,<fn="8"><aq>Athen. lib. X. c. 3. &amp; lib. XIV. c.</aq> 3.</fn> Hesychiu&sr;<fn="9"><aq>Hesychiu&sr; in</aq> #.</fn> und Suida&sr; erw&ae;hnen dieser Art vom
+Liede, und nennen e&sr; da&sr; Lied de&sr; Lityerse&sr;, oder auch allein den Lity-
+erse&sr;. Diesen Namen f&ue;hrte e&sr; vom Lityerse&sr;, einem nat&ue;rlichen Sohne
+de&sr; Mida&sr;, und einem K&oe;nige der Celener in Phrygien. Er war ein
+wilder Herr, und ein sonderlicher Freund von der Feld-Arbeit, zumal
+vom Erndten. Die Fremden muﬂten gar mit ihm, und eben so viel Korn,
+wie er, abm&ae;hen; diejenigen aber, welche nicht Kr&ae;fte genug dazu hat-
+ten, wurden umgebracht: bi&sr; er endlich selbst, noch bey Lebzeiten de&sr;
+Mida&sr;, durch den Hercule&sr; get&oe;dtet ward.</p>
+<p>Juliu&sr; Scaliger<fn="10"><aq>Juliu&sr; Scaliger Histor. PoÎt. lib. I. c.</aq> 4.</fn> beschuldiget hier die mythologische Schriftstel-
+ler eine&sr; Fehler&sr; in der Zeit-Rechnung, und er will behaupten, daﬂ
+Hercule&sr; und Mida&sr; nicht zu einer Zeit gelebet haben; er bringet un&sr;
+aber dagegen keinen Bewei&sr;, und ich sehe nicht, warum sie nicht zu ei-
+ner Zeit h&ae;tten leben k&oe;nnen. Dem sey nun, wie ihm wolle, der Dich-
+ter Sositheu&sr; oder Sosibiu&sr; ist der &ae;lteste bekannte Schriftsteller, wel-
+cher diese&sr; bemerkt, und von den Begebenheiten de&sr; Lityerse&sr; redet.
+Man hat hier&ue;ber ein St&ue;ck von einem seiner Trauer-Spiele, da&sr;
+von&007C; Athen&ae;u&sr;<fn="11"><aq>Athen. lib. X. c.</aq> 3</fn> und Tzetze&sr;<fn="12"><aq>Tzetz. chiliad. Casaub. lect. Theoer.
+cap.</aq> 12.</fn> zum Theil, und vom Scholiasten de&sr;
+<cw>Theo-</cw>
+<pb="31"/>
+Theocritu&sr; ganz angef&ue;hret ist. Menander redet auch vom Lityerse&sr;,
+der bey der R&ue;ckkehr von der Erndte sunge.</p>
+<p>Pollux<fn="13"><aq>Pollux lib. IV. c. 7.</aq></fn> sagt, daﬂ der Lityerse&sr; ein Trauer-Lied gewesen, wel-
+che&sr; man um die Tenne und um die Garben gesungen, um den Mida&sr;
+&ue;ber den Verlust seine&sr; Sohne&sr; zu tr&oe;sten. Diese&sr; Lied war also sei-
+nem Ursprunge nach kein griechische&sr; Lied; und Pollux setzt e&sr; auch
+mit unter die fremden Lieder. Er f&ue;get noch hinzu, daﬂ e&sr; eigentlich
+den Phrygiern zugeh&oe;rte, welche vom Lityerse&sr; den Acker-Bau gelernet
+hatten. Der Scholiast<fn="14"><aq>Schol. Theocrit. in Idyll. 10.</aq></fn> de&sr; Theocritu&sr; versichert un&sr;, daﬂ die Schnit-
+ter in Phrygien noch zu seiner Zeit da&sr; Lob de&sr; Lityerse&sr;, al&sr; de&sr; besten
+Schnitter&sr;, zu singen pflegten.</p>
+<p>Jst der Lityerse&sr; urspr&ue;nglich ein fremde&sr; Lied gewesen, worinn
+da&sr; Lob eine&sr; phrygischen F&ue;rsten enthalten war, so m&ue;ssen wir glau-
+ben, daﬂ die griechischen Schnitter nur den Namen de&sr; Liede&sr; bey
+sich aufnahmen, und daﬂ unter dem phrygischen und unter dem grie-
+chischen Lityerse&sr; allemal ein grosser Unterscheid gewesen. Jn dem letz-
+tern ward weder vom Lityerse&sr;, noch vom Mida&sr; etwa&sr; gedacht, wenn
+wir nach der zehnten Jdylle de&sr; Theocritu&sr;<fn="15"><aq>Theocr. Idyll.</aq> 10.</fn> davon urtheilen wollen,
+wo der Dichter einen Schnitter einf&ue;hret, welcher spricht: &201C;H&oe;ret, wie
+&201C;da&sr; Lied von dem g&oe;ttlichen Lityerse&sr; heiﬂt,&201D; und e&sr; darauf in sieben
+Abs&ae;tzen hersaget.</p>
+<pv>Die du Korn und Aehren mehrest,
+Cere&sr;, laﬂ doch diese Erndte
+Ja recht reich und fruchtbar seyn.</pv>
+<pv>H&oe;rt, die ihr die Garben sammelt,
+Bindet ja dieselben gut,
+Daﬂ der, so vor&ue;ber gehet,
+Und euch sieht, nicht sagen m&oe;ge:
+Liederliche Tagel&oe;hner!
+Da&sr; heiﬂt, Lohn umsonst gegeben.</pv>
+<pv>Stellet eurer Garben Spitze
+Gegen Norden oder Westen;
+Hiedurch schwellt da&sr; Korn am besten.</pv>
+<pv>Jhr, die ihr dreschet, schlafet nie,
+Wenn euch der Mittag brennt,
+Weil ihr al&sr;denn mit leichter M&ue;h
+Da&sr; Korn von seinen H&ue;lsen trennt.</pv>
+<cw>Laﬂt</cw>
+<pb="32"/>
+<pv>Laﬂt euch ja im Felde sehen,
+Schnitter, wenn die Lerch&2019; erwacht.
+Mit ihr m&ue;ﬂt ihr schlafen gehen;
+Und der Mittag&sr;-Hitze Macht
+Unempfindlich &ue;berstehen.</pv>
+<pv>Jhr Kinder, die Bequemlichkeit,
+Die Ruh, die jenen Frosch erfreut,
+Verdienet unsern Wunsch und Neid.
+Jhm fehlet kein verlangter Trunk,
+Er suchet keinen, der ihm schenket,
+Er trinket, durch sich selbst getr&ae;nket,
+Und hat zu trinken gnung.</pv>
+<pv>So! karger Filz, nicht&sr; steht dir sch&oe;ner,
+Al&sr; daﬂ du deine Tagel&oe;hner
+Mit schlechten Linsen weidst.
+Verwunde dir nur nicht die H&ae;nde,
+Wenn du einmal zu diesem Ende
+Ein K&ue;mmel-Korn zerschneidst.</pv>
+<p>Da&sr; sind die Worte, welche Theocritu&sr; seinen Schnitter singen
+l&ae;ﬂt. Soll man aber ja diese Verse nicht so wol f&ue;r einen rechten
+Lityerse&sr;, al&sr; vielmehr f&ue;r ein poetische&sr; St&ue;ck ansehen, so zeigen sie
+un&sr; doch allemal den Geschmack, die Schreibart und den ordentlichen
+Jnhalt der Schnitter-Lieder.</p>
+<p>Da&sr; Lied de&sr; Lityerse&sr; wurde unter den Griechen ein Spr&ue;chwort,
+wodurch man, wie Erasmu&sr;<fn="16"><aq>Erasm. adag. chil. 3. cent. 4. adag.</aq>
+75.</fn> saget, ein Lied andeuten wollte, da&sr;
+man mit Widerwillen, oder gezwungen sung.</p>
+<p>Von dem Liede derer Weiber, die da&sr; Korn au&sr; den Aehren stampf-
+ten. Die Weiber, sagt Athen&ae;u&sr;, <fn="17"><aq>Athen. lib. XIV. c.</aq> 3.</fn> welche da&sr; Korn au&sr; seinen H&ue;l-
+sen sch&ue;tteln, hatten ein andere&sr;, wie Aristophane&sr; in den Priesterinnen
+der Cere&sr;, und Nicochare&sr; im Hercule&sr;, dem Reihenf&ue;hrer, sagen.
+Casaubonu&sr;<fn="18"><aq>Casaub. animadv. in Athen. lib. XIV.
+cap.</aq> 3.</fn> hat diese&sr; Lied und da&sr; Ptisticon, oder den Ptismo&sr;,
+dessen Pollux erw&ae;hnet, f&ue;r ein&sr; gehalten. Unterdessen redet Athe-
+n&ae;u&sr; von einem blossen Liede, da&sr; er von denen unterscheidet, welche
+auf Jnstrumenten gespielt wurden; und Pollux<fn="19"><aq>Pollux lib. IV. n. 55.</aq></fn> spricht von einem
+St&ue;cke, da&sr; man auf der Fl&oe;te blie&sr;. Man spielet noch ein ander&sr;,
+sagt er, welche&sr; Ptisticon heiﬂt, auf der Fl&oe;te, wie Phrynichu&sr; in
+seinen Comasten in diesen Worten meldet: Jch will f&ue;r un&sr; beide ein
+Ptisticon blasen: und wie Nicophon in den Chirogastri&sr; saget: Komm,
+spiele doch mit un&sr; auf der Fl&oe;te einen Ptismo&sr;.</p>
+<cw>Von</cw>
+<pb="33"/>
+<p>Von dem Liede derer, welche Wasser sch&oe;pften. Aristophane&sr;<fn="20"><aq>Aristoph. in ran.</aq></fn>
+redet davon, al&sr; von einem Liede, da&sr; nur au&sr; dem Munde der gemein-
+sten Leute geh&oe;ret wurde. Denn da er jemand de&sr;wegen bestrafen will,
+daﬂ er ein Lied von schlechtem Geschmacke gesungen habe, so l&ae;ﬂt er sa-
+gen: Woher hast du da&sr; Wasserzieher-Lied genommen?</p>
+<p>Der Scholiast<fn="21"><aq>Schol. Aristoph. in rani&sr;.</aq></fn> de&sr; Aristophane&sr; bemerket hiebey, daﬂ man da&sr;
+Lied derer, welche Wasser sch&oe;pften, Himaion nennte; und er setzet
+da&sr; Zeugniﬂ de&sr; Callimachu&sr; hinzu. Dieser saget: Wo singet ein Was-
+serzieher den Himaion? Die&sr; Wort k&oe;mmt von dem griechischen #,
+sch&oe;pfen, wie eben der Scholiast saget, welchen Suida&sr;<fn="22"><aq>Suida&sr; in</aq> #.</fn> an diesem
+Orte abgeschrieben hat.</p>
+<p>Von dem Liede der M&ue;ller. Die M&ue;ller hatten auch ihr eigene&sr;
+Lied. Aristophane&sr;, welchen Athen&ae;u&sr;<fn="23"><aq>Athen. lib XIV. c. 3.</aq></fn> anf&ue;hret, nennte e&sr; Himaia&sr;,
+wie da&sr; Lied der Wasserzieher. Tryphon nennet e&sr;, bey eben diesem Athe-
+n&ae;u&sr;, Himaio&sr; oder Epimylio&sr;, ohne diese beiden Namen zu unterschei-
+den. Aelianu&sr;<fn="24"><aq>Aelian. var. histor. cap.</aq> 4.</fn> und Pollux<fn="25"><aq>Pollux lib. IV. num. 53. &amp; lib. VII.
+num.</aq> 180.</fn> geben demselben auch den letztern Na-
+men, Epimylio&sr;. Der Ursprung der beiden W&oe;rter # und #
+#, ist leicht genug zu finden. Da&sr; erste k&oe;mmt von #, sch&oe;pfen,
+wie wir schon gesagt haben; und da&sr; andere von #, einer M&ue;hle.
+Unterdessen mutmaﬂet Athen&ae;u&sr;,<fn="26"><aq>Athen. lib. XIV. c.</aq> 3.</fn> daﬂ diese beiden W&oe;rter wol von
+dem dorischen #, dem er verschiedene Bedeutungen beylegt, herstam-
+men k&oe;nnten. Man kann hier&ue;ber diesen Schriftsteller, und seinen ge-
+lehrten Au&sr;leger, Casaubonu&sr;,<fn="27"><aq>Casaub. animadv. in Athen. lib. XIV.
+cap.</aq> 3.</fn> nachschlagen. Hesychiu&sr; giebt dieser
+Art vom Liede noch die Namen, Epanteu&sr; und Epinoste&sr;; und Casaubo-
+nu&sr; leget &ue;ber diese beiden Namen einige Verbesserungen vor, welche man
+an eben dem Orte in seinen Anmerkungen &ue;ber den Athen&ae;u&sr; lesen kann.</p>
+<p>Wir finden in dem Gastmale der Weisen bey dem Plutarch<fn="28"><aq>Plutarch. sept. Sap. Conviv.</aq></fn>
+ein Lied von der Art; und da&sr; ist auch vielleicht da&sr; einzige, da&sr; un&sr; noch
+au&sr; dem Alterthume &ue;brig geblieben.</p>
+<p>Mahle, M&ue;hle, mahle; denn selbst Pittacu&sr;, der in der grossen
+Stadt Mitylene regieret, mahlet gern.</p>
+<p>Pittacu&sr;, einer von den sieben griechischen Weisen, und ein Herr
+oder Tyrann von Mitylene, pflegte, wie un&sr; Aelian<fn="29"><aq>Aelian. Var. Hist. Lib. VII. c.</aq> 4.</fn> berichtet, die
+M&ue;hlen sehr zu r&ue;hmen, weil sie in einen kleinen Platz eine Menge sol-
+cher Leute zusammenbr&ae;chte, welche, ihrer Nahrung halber, darinn ihre
+<bs>E</bs><cw>Zuflucht</cw>
+<pb="34"/>
+Zuflucht suchen m&ue;ssen. Weil also Pittacu&sr; au&sr; der Erfindung und
+dem Nutzen der M&ue;hlen viel machte, so hat diese&sr; ohne Zweifel zu dem
+Liede, welche&sr; Plutarch anf&ue;hret, Gelegenheit gegeben. Er nimmt e&sr;
+aber doch in einem ganz anderen Verstande. Er legt e&sr; nemlich dem
+Thale&sr; in den Mund, und meynet, er wolle darinn dem Pittacu&sr; auf
+eine scherzhafte Weise sein starke&sr; Essen vorwerfen; denn diese&sr; muﬂ man,
+seiner Erkl&ae;rung nach, durch da&sr; Wort, mahlen, verstehen.</p>
+<p>Von dem Liede der Lein-Weber. Diese&sr; hieﬂ Elino&sr;, wie e&sr; Epi-
+charmu&sr;, den Athen&ae;u&sr;<fn="30"><aq>Athen. lib. XIV. cap. 3.</aq></fn> anf&ue;hret, in seinen Atalanten nennet.</p>
+<p>Von dem Liede der Wollen-Arbeiter. Athen&ae;u&sr;<fn="31"><aq>Ibidem.</aq></fn> nennet e&sr; Ju-
+lo&sr;. Und diese&sr; ist auch eben der Name, welchen schon Eratostthene&sr;
+in einem dem Mercur zu Ehren verfertigten Hymnu&sr; demjenigen Liede
+gegeben hatte, welche&sr; die M&ae;dgen unterdessen sungen, daﬂ sie mit Zu-
+bereitung der Wolle besch&ae;ftiget waren.</p>
+<p>Von dem Liede der S&ae;ug-Ammen. E&sr; scheinet, al&sr; wenn man
+davon zwo verschiedene Arten hatte. Die eine sungen sie, indem sie
+die Kinder s&ae;ugten; und die andere, wenn sie dieselben einzuschl&ae;fern
+suchten. Chrysippu&sr; redete von der ersten, wenn er, nach Quintilian&sr;<fn="32"><aq>Quintil. Inst. lib. I. cap. 10.</aq></fn>
+Berichte, den S&ae;ug-Ammen ein besondere&sr; Lied zuschreibet, welche&sr; sie
+unter der Zeit zu singen pflegten, daﬂ die Kinder an ihrer Brust lagen.
+Von der zwoten Art haben andere Schriftsteller geredet. Athen&ae;u&sr;<fn="33"><aq>Athen. lib. XIV. cap. 3. Leopard.
+cap. 5. 7. emendat.</aq></fn>
+sagt, daﬂ die Lieder der S&ae;ug-Ammen Catabaucalise&sr; hiessen. Da&sr;
+Wort, wovon dieser Name herk&oe;mmt, bedeutet, wie e&sr; Hesychiu&sr; erkl&ae;-
+ret, so viel, al&sr; die Rinder mit einem Liede einschl&ae;fern. Eben dieser
+Hesychiu&sr; nennet sie Nunnio&sr;. Sonst hiessen sie auch noch Epasmata
+(Zauber-Lieder)</p>
+<p>Casaubon<fn="34"><aq>Causaub. ad Theophr. Charact.</aq></fn> h&ae;lt drey Verse de&sr; Theocrit&sr;<fn="35"><aq>Theocrit. Idyll. 24.</aq></fn> f&ue;r ein Lied von dieser
+Art, womit Alcmene bey ihm ihre beiden Kinder, den Hercule&sr; und Jphi-
+clu&sr;, die erst zehn Monate alt waren, in den Schlaf singen will.</p>
+<pv>Schlafe s&ue;ﬂ, geliebte&sr; Paar,
+Schlaft, geliebte Herzen,
+Frey von Unruh und Gefahr,
+Frey von Sorg und Schmerzen.</pv>
+<pv>Liebe Kinder, gute Nacht!
+Schlafet, liebe Br&ue;der,
+Schlafet gl&ue;cklich ein, erwacht
+Morgen gl&ue;cklich wieder.</pv>
+<cw>So</cw>
+<pb="35"/>
+<p>So l&ae;ﬂt auch Nonnu&sr;<fn="36"><aq>Nonn. Dionys. lib. III.</aq></fn> den Emathion und die Harmonia durch
+die Lieder ihrer Mutter, der Electra, einschlummern.</p>
+<poem>Sie braucht der Ammen Kunst, singt beider Kinder Ohr
+Ein s&ue;sse&sr; Liedchen vor.
+Die&sr; Liedchen lockt den Schlaf, er k&oe;mmt, und beide Br&ue;der
+Verschliessen schon die Augenlieder.</poem>
+<p>Zu den Liedern der S&ae;ug-Ammen k&oe;nnte man wol die Lieder der
+Kinder hinzuf&ue;gen. Lala war ihr ordentlicher Gesang unter den Grie-
+chen, so wie bey den R&oe;mern, und noch itzo bey un&sr;. Lala ist ein Gesang,
+den wir von den Kindern h&oe;ren, saget Lucian.<fn="37"><aq>Lucian in Philopseude.</aq></fn></p>
+<p>Von dem Liede der Bader. Die Bader hatten auch besondere Lie-
+der, saget Athen&ae;u&sr;,<fn="38"><aq>Athen. lib. XIV. c. 3.</aq></fn> wie Crate&sr; in den K&ue;hnen angemerket hat. E&sr;
+hatten also die Leute, welche in den B&ae;dern aufwarteten, die Freiheit
+zu singen. Aber denenjenigen, welche sich badeten, erlaubte der Wol-
+stand diese&sr; nicht. Wenn daher Theophrast<fn="39"><aq>Theophr. Charact. cap. 4.</aq></fn> einen ungeschliffenen
+Menschen abmahlen will, so saget er von ihm, daﬂ er im Bade s&ue;nge.</p>
+<p>Von dem Liede auf die Erigone. Diese&sr; wurde, wie Athen&ae;u&sr;<fn="40"><aq>Athen. loc. cit.</aq></fn>
+meldet, an dem Eoren- oder Schaukel-Feste gesungen, und Aleti&sr;, oder
+da&sr; herumschweifende, da&sr; fliegende Lied genannt. Erigone<fn="41"><aq>Hygin. lib. II. in Arctophyl. &amp;
+lib. I. fab. 130. Nonn. Dionys. 1. XLVII.
+Leopard. cap. 146. Mercurial. L. de
+Gymnast.</aq></fn> war eine
+Tochter de&sr; Jcariu&sr;, der den Oebalu&sr; zum Vater gehabt, und eine Nichte
+de&sr; Castor&sr; und Pollux. Jhr Vater verlor sich auf einmal, und sie
+suchte ihn mit vieler M&ue;he. Wie sie endlich erfuhr, daﬂ er get&oe;dtet
+w&ae;re, so gerieth sie in Verzweifelung, und erhenkte sich selbst. Nicht
+lange darauf w&ue;tete die Pest im attischen Gebiete; und al&sr; man da&sr;
+Orakel dar&ue;ber um Rath gefraget hatte, so setzten die Athenienser, nach
+dem Befehle desselben, zum Andenken der Erigone, da&sr; Eoren-Fest und
+da&sr; Lied Aleti&sr; ein.</p>
+<p>Von den Liedern de&sr; Theodoru&sr;. Hievon finden wir diese&sr; bey
+dem Athen&ae;u&sr;.<fn="42"><aq>Athen. loc. cit.</aq></fn> &201C;Aristotele&sr; schreibt in seinem Buche von der Repu-
+&q;blik Colophon, daﬂ Theodoru&sr; eine&sr; gewaltsamen Tode&sr; gestorben sey;
+&q;er solle ein liederlicher Mensch gewesen seyn, und diese&sr; k&oe;nne man auch
+&q;au&sr; seinen Gedichten sehen; denn die Weiber pflegten noch an dem
+&q;Eoren-Feste seine Lieder zu singen.&201D;</p>
+<p>Von den Julen der Cere&sr; und Proserpina. So hiessen die Lieder,<fn="43"><aq>Athen. l. XIV. c. 3.</aq></fn>
+welche diesen beiden Gottheiten besonder&sr; gewidmet waren. Didymu&sr;
+<bs>E 2</bs><cw>hatte</cw>
+<pb="36"/>
+hatte schon vor dem Athen&ae;u&sr;<fn="44"><aq>Athen. lib. XIV. c. 3.</aq></fn> angemerket, daﬂ Julo&sr; ein Lied sey, wel-
+che&sr; der Cere&sr; zu Ehren gesungen w&ue;rde. Da Athen&ae;u&sr;<fn="45"><aq>Athen. loc. cit.</aq></fn> dem Ursprunge
+diese&sr; Namen&sr; nachforschet, so bemerket er, daﬂ man der Cere&sr; den Na-
+men Julo gegeben, und die Gersten-Garben Uloi oder Juloi genannt;
+daﬂ die Lob-Ges&ae;nge, welche dieser G&oe;ttin zu Ehren verfertiget waren,
+mit beiden Namen beleget w&ue;rden, und ausserdem noch Demetruloi,
+oder Calliuloi hiessen, wie diese Schluﬂ-Zeile zeigt, die in einem Liede
+immer wiederholet wurde, und an die Cere&sr; gerichtet ist: #
+#, schick un&sr; reichlich Gersten.</p>
+<p>Von der Philelie de&sr; Apollon&sr;. Die Philelie, sagt Athen&ae;u&sr;,<fn="46"><aq>Idem.</aq></fn>
+war ein Lied, da&sr; man dem Apollo zu Ehren sang, wie Telesilla berich-
+tet. E&sr; hieﬂ so, wie Casaubon bemerket, von einer eben solchen Schluﬂ-
+Zeile: # geh auf, geh auf, o liebe Sonne. Der
+blosse Name diese&sr; Liede&sr; wird also schon die oft aufgeworfene Frage
+entscheiden k&oe;nnen: Ob in der alten Fabel Apollo und die Sonne
+einerley sey?</p>
+<p>Von den Upingen der Diana. So heisset sie Athen&ae;u&sr;,<fn="47"><aq>Idem.</aq></fn> und er
+redet noch immer von blossen Liedern. Sie hatten ihren Namen von
+dem Worte Upi&sr;, welche&sr; ein Beyname der Diana war, und von dem
+Callimachu&sr; in einem Lob-Gesange, den er der G&oe;ttin zu Ehren verfer-
+tiget, gebraucht worden ist. #, sagt er, o Diana!
+K&oe;nigin mit den sch&oe;nen Augen. Pal&ae;phatu&sr;<fn="48"><aq>Pal&00E6;phatu&sr; Lib. II.</aq></fn> versichert, daﬂ die
+Diana bey den Laced&ae;moniern so geheissen habe. Virgil und Nonnu&sr;<fn="49"><aq>Nonnu&sr; Dionys. Lib. XLVIII.</aq></fn>
+legen einer von den Gespielinnen und Begleiterinnen der Diana den
+Namen Upi&sr; bey.</p>
+<p>Von den Liedern der Verliebten. Die Liebe lehret un&sr; die Musik
+und die Poesie. Dieser Spruch war unter den Griechen sehr bekannt,
+und ist bey dem Plutarch<fn="50"><aq>Plutarch. Amator. &amp; Sympos. L. I.
+Qu. 5.</aq></fn> der Jnhalt einer Tisch-Rede. Die Gr&ue;nde,
+womit er beweisen will, daﬂ diese Leidenschaft un&sr; einen Geschmack am
+Singen und Dichten beybringe, schicken sich noch besser f&ue;r die Lieder,
+al&sr; f&ue;r die Musik und Poesie.</p>
+<p>Die Liebe, sagt er, belebet, erfreuet und begeistert un&sr;, so wie der
+Wein. Jn diesem Zustande hat man eine nat&ue;rliche Neigung zu sin-
+gen, eine musicalische Ver&ae;nderung der T&oe;ne, und ein ordentliche&sr; Ton-
+Maaﬂ in seine Rede zu bringen. Ausserdem, sagt er ferner, brauchen
+wir auch, wenn wir lieben, eine verbl&ue;mte und abgemessene Sprache,
+um dadurch da&sr;jenige, wa&sr; man saget, zu erheben, so wie man da&sr;
+Gold zur Au&sr;schm&ue;ckung der Bild-S&ae;ulen braucht. Wenn man von
+<cw>dem</cw>
+<pb="37"/>
+dem Geliebten redet, so preiset man desselben Vollkommenheiten und
+Sch&oe;nheiten durch Lieder, deren Wirkung allemal viel lebhafter ist und
+l&ae;nger w&ae;hret, al&sr; der Eindruck, den alle andere Arten der Rede machen.
+Schicket man seinem Schatze Briefe oder Geschenke, so suchet man den
+Wehrt derselben durch einige verliebte Verse, die sich singen lassen, zu
+vermehren. Kurz, sagt Plutarch nach dem Theophrast, drey Sachen
+bewegen un&sr; zum Singen: Der Schmerz, die Freude und die Begei-
+sterung. Der Schmerz preﬂt un&sr; Seufzer und Klagen au&sr;, die dem
+Singen nahe kommen; und daher k&oe;mmt e&sr; eben, daﬂ die Redner
+bey den Schl&ue;ssen ihrer Reden, und die Schau-Spieler in ihren Kla-
+gen eine singende Stimme annehmen. Die Freude verursacht heftige
+Bewegungen; Leute von schlechter Leben&sr;-Art treibet sie zum Springen
+und Tanzen: so weit gehn nun zwar vern&ue;nftigere und gesetztere Per-
+sonen nicht; aber sie bringt sie doch gewiﬂ zum Singen. Die Begei-
+sterung bringt in un&sr; gewaltige Ver&ae;nderungen hervor; sie ver&ae;ndert
+so gar die Stimme, und reiﬂt den ganzen K&oe;rper au&sr; seiner ordentlichen
+Stellung. Diese&sr; sehen wir bey dem Geschrey der Bacchanten und
+au&sr; den Antworten der Orakel; und in beiden h&oe;ren wir auch eine ge-
+wisse Musik und einen Tact. Nun ist kein Zweifel, daﬂ sich bey der
+Liebe die heftigsten Schmerzen, die lebhaftesten Freuden und die st&ae;rk-
+sten Entz&ue;ckungen oder Begeisterungen befinden. Dieser Philosoph
+schlieﬂt demnach so: Da diese Leidenschaft die drey Ursachen unserer
+Neigung zum Singen in sich vereiniget, so muﬂ sie gewiﬂ unter allen
+am geschicktesten seyn, un&sr; Lieder singen zu lehren.</p>
+<p>Wir haben schon unter den Scolien, oder Trink-Liedern der Grie-
+chen einige Exempel von solchen verliebten Liedern gesehen. E&sr; ist glaub-
+lich, daﬂ die Lieder der Hirten oft von dieser Art waren. Vielleicht wur-
+den auch damal&sr;, wie heut zu Tage, bey andern Verrichtungen und Ge-
+legenheiten Lieder gesungen, deren Jnhalt blo&sr; die Liebe war. Dem sey,
+wie ihm wolle; Athen&ae;u&sr; hat un&sr; da&sr; Ged&ae;chtniﬂ dreier Lieder von
+dieser Art erhalten; und wir m&ue;ssen sie hier auch nicht vergessen.</p>
+<li>Von dem ersten schreibt er so: Clearch redet in dem ersten Buche
+seiner Liebe&sr;-Geschichte von einem Liede, welche&sr; Nomion heiﬂt, und
+von der Eriphani&sr; verfertiget war, folgendergestalt. Die S&ae;ngerinn
+Eriphani&sr; liebte den J&ae;ger Menalca&sr;. Au&sr; Liebe zu ihm begab sie sich
+auch auf die Jagd, und setzte mit ihm den wilden Thieren nach. Sie
+durchstrich die bergigten Gegenden, wenn sie von Dorn-B&ue;schen noch
+so sehr bedeckt waren, und da&sr; Herumschweifen der Jno ist mit dem ih-
+rigen nicht in Vergleichung zu stellen. Die Schmerzen dieser verliebten
+ungl&ue;cklichen Sch&oe;ne erweckten nicht allein in den unempfindlichsten
+Menschen, sondern auch in den wildesten und grausamsten Thieren ein
+Mitleiden, ja gar z&ae;rtliche und verliebte Bewegungen. Hier&ue;ber nun
+<bs>E 3</bs><cw>machte</cw>
+<pb="38"/>
+machte und sang sie in ihrer Einsamkeit ein Lied, welche&sr; Nomion heiﬂt,
+und worinn unter andern diese Worte vorkommen: Die hohen Eichen,
+o Menalca&sr;!</li>
+<li>Von dem andern. Aristoxenu&sr; sagt in seinem vierten Buche von
+der Musik, daﬂ die Weiber in alten Zeiten ein Lied gesungen, welche&sr;
+Calycee geheissen. Wir haben, (Athen&ae;u&sr; redet hier noch immer)
+wir haben Verse von dem Stesichoru&sr;, worinn eine gewisse Calycee,
+die in den jungen Evathlu&sr; verliebt ist, die Venu&sr; bittet, ihr diesen
+J&ue;ngling zum Manne zu geben; endlich aber, wie der junge Mensch in
+ihr Begehren ganz und gar nicht willigen will, sich von einem Berge
+herunter st&ue;rzet. Diese&sr; geschah in der Gegend von Leuca&sr;.</li>
+<li>Von dem dritten. Aristoxenu&sr; schreibet in dem Au&sr;zuge seiner
+Geschichte, daﬂ Harpalyce vor Schmerz und Betr&ue;bniﬂ vergieng, weil
+Jphiclu&sr; sie verachtete, in welchen sie sterblich verliebt war; und daﬂ
+man bey dieser Gelegenheit Spiele anstellte, worauf die jungen M&ae;dgen
+ein Lied sungen, welche&sr; Harpalyce hieﬂ. Partheniu&sr;<fn="51"><aq>Parthen. in Amator.</aq></fn> erw&ae;hnet auch
+dieser Arten von Liede, und der Geschichte, die dazu Gelegenheit gab.</li>
+<li>Von dem Hochzeit-Liede. Diese&sr; hieﬂ Hymen&ae;u&sr;. Auf den
+Hochzeiten wird der Hymen&ae;u&sr; gesungen, sagt Athen&ae;u&sr;<fn="52"><aq>Athen. L. XIV. C. 3.</aq></fn> au&sr; dem Ari-
+stophane&sr;. Hier w&ue;rde ich von dem Ursprunge und Gebrauche de&sr; Hoch-
+zeit-Liede&sr;, und von der Anrufung de&sr; Hymen&ae;u&sr; bey den Griechen et-
+wa&sr; sagen, wenn nicht schon der Herr Abt Souchay<fn="53"><aq>Mem. de Litter. T. XIII. p. 473.</aq></fn> diese Materie in
+seiner Abhandlung von dem Ursprunge und Character de&sr; Hochzeit-Lie-
+de&sr; au&sr;gef&ue;hret h&ae;tte.</li>
+<li>Von den lustigen Liedern. Die Lieder werden ordentlicher Weise
+in der Schooﬂ der Freude gezeuget. Und also k&oe;nnte man fast alle die,
+wovon wir bi&sr;her geredet haben, unter die lustigen Lieder z&ae;hlen. E&sr;
+gab aber doch in Griechenland noch einige andere, denen dieser Name
+etwa&sr; eigentlicher zuk&oe;mmt; weil sie, dem Ansehen nach, keinen andern
+Ursprung und Endzweck gehabt haben, al&sr; eine Empfindung und Bewe-
+gung der Freude. Von dieser Art ist da&sr; Lied de&sr; Dati&sr;, welche&sr; Ari-
+stophane&sr;<fn="54"><aq>Aristoph. in pace.</aq></fn> un&sr; in diesen Worten hinterlassen hat: #
+#. Wie wohl ist mir, wie freu ich mich! o, wie
+entz&ue;ckt bin ich! Diese&sr; nennet Aristophane&sr; da&sr; Lied de&sr; Dati&sr;.
+Der Scholiast und Suida&sr; setzen hinzu, daﬂ Dati&sr; ein persischer Ge-
+neral gewesen sey, der au&sr; Unerfahrenheit in der griechischen Sprache
+<cw>f&ue;r</cw>
+<pb="39"/>
+f&ue;r # immer # gesagt habe; daher man auch diese Reden&sr;-
+Art Dati&sr;mu&sr; genannt. Da&sr; Lied de&sr; Dati&sr; wurde, nach der An-
+merkung de&sr; Erasmu&sr;, zum Spr&ue;chworte, wodurch man eine angenehme
+Begebenheit andeutete.</li>
+<li>Von den Trauer-Liedern. E&sr; gab davon einige Arten: Die Weh-
+klage, oder den Olophyrmo&sr;, den Jalemo&sr;, den Lino&sr; oder Ailino&sr;.</li>
+<p>Die Wehklage, sagt Athen&ae;u&sr;,<fn="55"><aq>Athen. L. XIV. C. 3.</aq></fn> hieﬂ da&sr; Lied, welche&sr; bey To-
+de&sr;-F&ae;llen, oder bey andern betr&ue;bten Gelegenheiten, gesungen wurde.</p>
+<p>Jalemo&sr; war der Name de&sr;jenigen, welche&sr; man in der Trauer
+sang, wie Apollodor,<fn="56"><aq>Apollodor. L. IV.</aq></fn> Euripide&sr;<fn="57"><aq>Euripid. in Troad.</aq></fn> und Aristophane&sr;, den Athen&ae;u&sr;<fn="58"><aq>Athen. loc. cit.</aq></fn>
+hier&ue;ber anf&ue;hrt, bezeugen. Daher k&oe;mmt da&sr; griechische Spr&ue;chwort,
+da&sr; wir beym Hesychiu&sr;<fn="59"><aq>Erasm. Adag. chil. 2. centur. 10.
+adag 86.</aq></fn> finden, #, oder auch #
+#, kl&ae;glicher, oder frostiger, al&sr; ein Jalemo&sr;. Adrianu&sr; Juniu&sr;<fn="60"><aq>Juniu&sr; adag. cent. 4. adag. 64.</aq></fn>
+f&ue;hrt auch diese griechischen Worte al&sr; ein Spr&ue;chwort an, #
+#, welche&sr; wehrt, unter die Jalemen gesetzt zu wer-
+den. E&sr; gr&ue;ndet sich auf eine Stelle de&sr; comischen Dichter&sr; Menan-
+der&sr;, wo er sagt: Wenn ein Liebhaber nicht K&ue;hnheit besitzt, so ist er
+ein ungl&ue;cklicher Mensch, der unter die Jalemen, oder Klag-Lieder geh&oe;ret.
+Juniu&sr; f&ue;get hinzu, daﬂ Jalemo&sr; der Name eine&sr; Menschen sey, der
+sehr h&ae;ﬂlich und unangenehm, ein Sohn der Calliope, und folglich sei-
+ner Mutter sehr ungleich gewesen.</p>
+<p>Lino&sr; war ebenfall&sr; ein griechische&sr; Lied. Herodotu&sr;<fn="61"><aq>Herodot. L. II.</aq></fn> schreibt da-
+von folgende&sr;, indem er von den Egyptiern redet. Sie haben noch viel
+andre merkw&ue;rdige Gebr&ae;uche, und darunter insonderheit da&sr; Lied Lino&sr;,
+welche&sr; in Phoenicien, Cypern und andern L&ae;ndern ber&ue;hmt ist, wo
+e&sr; nach der Verschiedenheit der V&oe;lker verschiedene Namen f&ue;hret. E&sr;
+ist au&sr;gemacht, daﬂ e&sr; eben da&sr; Lied sey, welche&sr; bey den Griechen un-
+ter dem Namen Lino&sr; gesungen wird. Unterdessen muﬂ ich mich doch,
+da viele andre sonderliche Dinge in Egypten mich in Verwunderung ge-
+setzet haben, vornemlich &ue;ber den Lino&sr; verwundern, und ich weiﬂ nicht,
+woher er seinen Namen erhalten. E&sr; scheinet, daﬂ man diese&sr; Lied zu
+allen Zeiten gesungen habe.</p>
+<cw>Uebri-</cw>
+<pb="40"/>
+<p>Uebrigen&sr; heiﬂt der Lino&sr; bey den Egyptiern Manero&sr;. Sie be-
+haupten, daﬂ Manero&sr; der einzige Sohn ihre&sr; ersten K&oe;nige&sr; gewesen
+sey; und al&sr; ihn ein fr&ue;hzeitiger Tod ihnen entrissen, so h&ae;tten sie sei-
+nem Ged&ae;chtnisse zu Ehren diese Art von Trauer-Liede gesungen, wel-
+che&sr; also seinen Ursprung bloﬂ ihnen zu danken habe. Der Text de&sr;
+Herodot&sr; giebt un&sr; zu erkennen, daﬂ e&sr; ein Leichen-Leid gewesen sey.
+Sophocle&sr;<fn="62"><aq>Sophocl. in Ajace.</aq></fn> redet von dem Liede Ailino&sr; in eben dem Verstande. Un-
+terdessen wurde doch auch der Lino&sr; und Ailino&sr; nicht nur in Trauer
+und Betr&ue;bniﬂ, sondern auch in der Freude gebraucht, wie Euripide&sr;
+beym Athen&ae;u&sr;<fn="63"><aq>Athen. L. XIII. C. 3.</aq></fn> meldet. Pollux<fn="64"><aq>Pollux L. I. C. 1.</aq></fn> giebt un&sr; von diesem Liede noch
+einen andern Begriff, wenn er saget, daﬂ der Lino&sr; und der Lityerse&sr;
+Lieder der Feld-Arbeiter gewesen. Da Herodotu&sr;, Euripide&sr; und Pol-
+lux, einer von dem andern, in ihrem Leben durch eine Zwischen-Zeit von
+etlichen Jahrhunderten entfernt gewesen sind, so ist e&sr; wahrscheinlich,
+daﬂ der Lino&sr; Ver&ae;nderungen erlitten, die au&sr; demselben, nach der Ver-
+schiedenheit der Zeiten, ein verschiedene&sr; Lied gemacht haben.</p>
+<hr>
+<pb="1"/>
+<abb>
+<pt><c><aq>I.</aq>
+<fr>An die Freude.</fr></c></pt>
+<pv><in>F</in>reude, G&oe;ttinn edler Herzen!
+H&oe;re mich.
+Laﬂ die Lieder, die hier schallen,
+Dich vergr&oe;ssern, dir gefallen:
+Wa&sr; hier t&oe;net, t&oe;nt durch dich.</pv>
+<bs>A</bs>
+<pb="2"/>
+<pv>Muntre Schwester s&ue;sser Liebe!
+Himmel&sr;-Kind!
+Kraft der Seelen! Halbe&sr; Leben!
+Ach! wa&sr; kann da&sr; Gl&ue;ck un&sr; geben,
+Wenn man dich nicht auch gewinnt?</pv>
+<pv>Stumme H&ue;ter todter Sch&ae;tze
+Sind nur reich.
+Dem, der keinen Schatz bewachet,
+Sinnreich scherzt und singt und lachet,
+Jst kein karger K&oe;nig gleich.</pv>
+<pv>Gib den Kennern, die dich ehren,
+Neuen Muth:
+Neuen Scherz den regen Zungen,
+Neue Fertigkeit den Jungen,
+Und den Alten neue&sr; Blut.</pv>
+<pv>Du erheiterst, holde Freude,
+Die Vernunft.
+Flieh, auf ewig, die Gesichter
+Aller finstern Splitter-Richter,
+Und die ganze Heuchler-Zunft!</pv>
+<hr>
+<pb="3"/>
+<abb>
+<pt><c><aq>II.</aq>
+<fr>Da&sr; Kind.</fr></c></pt>
+<pv><in>A</in>l&sr; mich die Mama
+H&ae;nn&sr;chen k&ue;ssen sah,
+Strafte sie mich ab.
+Doch sie lachte ja,
+Al&sr; ihr der Papa
+Heut ein M&ae;ulchen gab.</pv>
+<pv>Warum lehrt sie mich:
+M&ae;dchen! mach&sr; wie ich?
+Sieh wa&sr; andre sind.
+Nun ich solche&sr; thu,
+Schm&ae;hlt sie noch dazu:
+Ach ich arme&sr; Kind!</pv>
+<pv>Schwestern! sagt mir&sr; sein:
+Jst mir, weil ich klein,
+Noch kein Kuﬂ verg&oe;nnt?
+Seht! ich wachse schon,
+Seit de&sr; Nachbar&sr; Sohn
+Mich sein Sch&ae;tzchen nennt.</pv>
+<hr>
+<bs>A 2</bs>
+<pb="4"/>
+<abb>
+<pt><c><aq>III.</aq>
+<fr>Die Alte.</fr></c></pt>
+<pv><in>Z</in>u meiner Zeit
+Bestand noch Recht und Billigkeit.
+Da wurden auch au&sr; Kindern Leute;
+Da wurden auch au&sr; Jungfern Br&ae;ute:
+Doch alle&sr; mit Bescheidenheit.
+E&sr; ward kein Liebling zum Verr&ae;ther,
+Und unsre Jungfern freyten sp&ae;ter:
+Sie reitzten nicht der M&ue;tter Neid.
+O gute Zeit!</pv>
+<pb="5"/>
+<pv>Zu meiner Zeit
+Befliﬂ man sich der Heimlichkeit.
+Genoﬂ der J&ue;ngling ein Vergn&ue;gen,
+So war er dankbar und verschwiegen:
+Und itzt entdeckt er&sr; ungescheut.
+Die Regung m&ue;tterlicher Triebe,
+Der F&ue;rwitz und der Geist der Liebe
+F&ae;hrt oftmal&sr; schon in&sr; Fl&ue;gel-Kleid.
+O schlimme Zeit!</pv>
+<pv>Zu meiner Zeit
+Ward Pflicht und Ordnung nicht entweiht.
+Der Mann ward, wie e&sr; sich geb&ue;hret,
+Von einer lieben Frau regieret,
+Trotz seiner stolzen M&ae;nnlichkeit!
+Die Fromme herrschte nur gelinder:
+Un&sr; blieb der Hut und ihm die Kinder.
+Da&sr; war die Mode weit und breit.
+O gute Zeit!</pv>
+<pv>Zu meiner Zeit
+War noch in Ehen Einigkeit.
+Jtzt darf der Mann un&sr; fast gebieten,
+Un&sr; widersprechen und un&sr; h&ue;ten,
+Wo man mit Freunden sich erfreut.
+Mit dieser Neuerung im Lande,
+Mit diesem Fluch im Ehestande
+Hat ein Comet un&sr; l&ae;ngst bedr&ae;ut.
+O schlimme Zeit!</pv>
+<hr>
+<bs>A 3</bs>
+<pb="6"/>
+<abb>
+<pt><c><aq>IV.</aq>
+<fr>Der J&ue;ngling.</fr></c></pt>
+<pv><in>M</in>ein M&ae;dchen mit dem schwarzen Haare
+Vollendet heute sech&sr;zehn Jahre,
+Und ich nur achtzehn: Welch ein Gl&ue;ck!
+Die Sehnsucht weckt un&sr; jeden Morgen
+Und die Unwissenheit der Sorgen
+Vers&ue;ﬂt un&sr; jeden Augenblick.</pv>
+<pv>Wir wachsen und, mit un&sr;, die Triebe:
+Denn unsrer Jugend g&oe;nnt die Liebe
+Viel Unschuld; aber nicht zu viel.
+Verstand k&oe;mmt freylich nicht vor Jahren;
+Allein, wa&sr; wir bereit&sr; erfahren
+Jst gleichwohl auch kein Kinder-Spiel.</pv>
+<pb="7"/>
+<pv>Der Liebreitz, der un&sr; fr&ue;h verbunden,
+Besch&ae;fftigt unsre frohen Stunden,
+Und bringt dich wieder, g&ue;ldne Zeit!
+Zwar lehren wir und lernen beyde;
+Doch unsre Wissenschaft ist Freude
+Und unfre Kunst Ges&ae;lligkeit.</pv>
+<pv>Jch will die besten Blumen pfl&ue;cken,
+Euch, Wunder der Natur, zu schm&ue;cken:
+Dich, freye&sr; Haar! dich, sch&oe;ne Brust!
+Wir wollen, diesen Tag zu feyern,
+Den allersch&oe;nsten Bund erneuern,
+Den Bund der Jugend und der Lust.</pv>
+<pv>Dann soll ein Bad in sichern Fl&ue;ssen,
+Auf diese&sr; Bad ein frische&sr; K&ue;ssen,
+Auf frische K&ue;sse frischer Wein;
+Auf Wein ein Tanz, bey Spiel und Liedern,
+Mit regen Schwestern, muntern Br&ue;dern:
+Da&sr; alle&sr; soll mich heut erfreun.</pv>
+<pv>So fr&oe;hlich soll der Tag verstreichen!
+Jhm soll kein Tag an Freude gleichen.
+Nicht&sr; &ue;bertreff&2019; ihn, al&sr; die Nacht!
+Die Zeit erw&ue;nschter Finsternisse,
+Die wacher Sch&oe;nen stille K&ue;sse
+Den M&ue;ttern unerforschlich macht.</pv>
+<hr>
+<pb="8"/>
+<abb>
+<pt><c><aq>V.</aq>
+<fr>Der Alte.</fr></c></pt>
+<cit><c><aq><i>Corneliu&sr; Gallu&sr;.</i></aq></c>
+<poem><aq>Turpe seni vultu&sr; nitidi, veste&sr;que decor&00E6;,
+Atque etiam est ipsum vivere turpe senem.
+Crimen amare joco&sr;, crimen convivia, cantu&sr;:
+O miseri, quorum gaudia crimen habent!</aq></poem></cit>
+<hr>
+<pv><in>J</in>ch werde viel &ae;lter, und Schwermuth und Plage
+Droht meiner schon sinkenden H&ae;lfte der Tage:
+Kaum wallet noch weiter mein z&oe;gernde&sr; Herz
+Bey winkenden Freuden, bey lockendem Schmerz.</pv>
+<pb="9"/>
+<pv>Die schmeichelnde Falschheit der l&ae;chelnden Erben
+Verheiﬂt mir da&sr; Leben und w&ue;nschet mein Sterben:
+Ein fingernder Doctor besalbt mir den Leib:
+Bald l&ae;rmet der Pfarrer, bald predigt mein Weib.</pv>
+<pv>Die warnenden Kenner der Wetter und Winde,
+Die st&ue;ndlichen Forscher: Wie ich mich befinde?
+Die thr&ae;nenden Augen, die keichende Brust
+Entkr&ae;ften den Liebreitz, verscheuchen die Lust.</pv>
+<pv>Nun soll mich doch einmal mein Leibarzt nicht st&oe;ren.
+Verj&ue;ngende Freunde! hier trink ich mit Ehren.
+Weib, Pfarrer und Erben! nur nicht zu genau!
+Hier frag ich nicht Pfarrer, nicht Erben, noch Frau.</pv>
+<pv>Jm Beyseyn der Alten verstellt sich die Jugend:
+Sie trinkt nur bey Tropfen: sie durstet vor Tugend:
+Jch ehrlicher Alter verstelle mich auch:
+Bezeche den J&ue;ngling und leere den Schlauch.</pv>
+<pv>Mein Auge wird heller: wer h&oe;ret mich keichen?
+Jch suche der muthigen Jugend zu gleichen.
+Und will, auch im Alter, bey Freunden und Wein,
+Kein Tadler der Freuden, kein Sonderling seyn.</pv>
+<hr>
+<bs>B</bs>
+<pb="10"/>
+<abb>
+<pt><c><aq>VI.</aq>
+<fr>Der verliebte Bauer.</fr></c></pt>
+<pv><in>N</in>&ue;hmt mir de&sr; Schulzen&sr; Tochter nicht.
+Nein! Sagt nur, sie ist reich.
+Jm ganzen Dorf ist kein Gesicht
+Der flinken Hanne gleich.
+Da&sr; Mensch gef&ae;llt, auch ungeputzt;
+Jch sag e&sr; ohne Scheu:
+Trotz mancher, die in Flittern stutzt;
+Sie sey auch wer sie sey.</pv>
+<pb="11"/>
+<pv>Wie frey und weiﬂ ist ihre Stirn
+Und roth und frisch ihr Mund!
+Wie glatt der Haarzopf meiner Dirn
+Und ihre Brust, wie rund!
+Jhr Aug ist schwarz wie reifer Schlee:
+Schier komm ich auf den Wahn,
+Wann ich ihr lang in&sr; Auge seh,
+Sie hat mir&sr; angethan.</pv>
+<pv>Jhr wiﬂt, wie wir im Rosenmond
+Die Meyen hier gepflanzt.
+Da ward der F&ue;sse nicht geschont,
+Da hat sich&sr; gnug getanzt.
+De&sr; Schaffer&sr; Tenne knarrte recht,
+Wir sch&ae;kerten un&sr; satt:
+Der H&ue;fner Heinz und Hann&sr;, der Knecht,
+Und Hartwig au&sr; der Stadt.</pv>
+<pv>Den Vorreihn, Nachbarn, lieﬂ man ihr:
+Flug&sr; rief sie mich herbey.
+Beym Element! wie flogen wir
+Nach Kilian&sr; Schallmey.
+Wann Hanne nur in Schaukeln schwebt,
+Wie muthig steigt ihr Schwung!
+Und wann sie sich im Tanzen hebt,
+Wie sch&oe;n ist jeder Sprung!</pv>
+<pv>Allein, beym Kehrau&sr; glitzschte sie;
+Doch ich ergriff sie strack&sr;;
+Und daf&ue;r sah ich auch ein Knie,
+Da&sr; war so weiﬂ al&sr; Wach&sr;.
+De&sr; Pfarrer&sr; Muthe schimpft&2019; au&sr; Neid
+Und zwackte mich gar an.
+Jch sprach: Mensch, laﬂt mich ungeheyt
+Und kneipt den Leyermann.</pv>
+<bs>B 2</bs>
+<pb="12"/>
+<pv>Mein Liebchen ging mit mir in&sr; Feld:
+Jch half ihr &ue;bern Zaun.
+Da hab ich mich nicht mehr verstellt,
+Sie war bey guter Laun.
+Wir lagerten un&sr; drauf in&sr; Gra&sr;,
+Wie Nachbar&sr;-Kinder thun;
+Doch ich empfand ich weiﬂ nicht wa&sr;,
+Da&sr; lieﬂ mich gar nicht ruhn.</pv>
+<pv>Gnug, daﬂ sie mich ihr B&ue;fchen hieﬂ,
+Mir Hand und Guschel reicht&2019;
+Und mir ein saftig Schm&ae;tzchen lieﬂ,
+Dem auch der Most nicht gleicht.
+Jhr schmutzelt? Denket wa&sr; ihr wollt.
+Glaubt, daﬂ sie euch nur neckt,
+Und daﬂ ihr nicht erfahren sollt
+Wa&sr; Hannen&sr; Mieder deckt.</pv>
+<pv>Die Edelfrau ist zart und fein;
+Mein Mensch ist wohl so sch&oe;n.
+Sollt ich nur ihr Leibeigner seyn,
+Den Dienst wollt ich versehn.
+Jhr, die ihr gern wa&sr; Neue&sr; wiﬂt,
+Da&sr; euch die Ohren kraut,
+H&oe;rt, wa&sr; ihr alle wissen m&ue;ﬂt:
+Sie ist schon meine Braut.</pv>
+<pv>Der Herr Magister merkt schon wa&sr;:
+Bring ich den Decem hin,
+So fragt er mich ohn Unterlaﬂ:
+Ob ich verplempert bin?
+Und wann sie in die Kirche tritt,
+So singt er, glaubt e&sr; mir,
+Noch weniger, al&sr; sonsten, mit,
+Und schielt und gafft nach ihr.</pv>
+<pb="13"/>
+<pv>Die Hochzeit soll auch bald geschehn,
+Noch vor der Erndte-Zeit.
+Da sollt ihr manchen Luftsprung sehn,
+Der Leib und Seel erfreut.
+Die ganze Dorfschaft komme mir,
+Sie soll willkommen seyn;
+Und ich versprech euch Kirmiﬂ-Bier
+Und guten Ferne-Wein.</pv>
+<hr>
+<bs>B 3</bs>
+<pb="14"/>
+<abb>
+<pt><c><aq><g>VII</g>.</aq>
+<fr>Der Nutzen der Z&ae;rtlichkeiten.</fr></c></pt>
+<pv><in>U</in>nmuth und Beschwerden
+W&ue;rden un&sr; auf Erden
+Unertr&ae;glich werden,
+Unvergeﬂlich seyn:
+K&oe;nnten nicht, zu Zeiten,
+Treue Z&ae;rtlichkeiten
+Den Verdruﬂ bestreiten
+Und da&sr; Herz befreyn.</pv>
+<pb="15"/>
+<pv>L&ae;chelt, muntre Sch&oe;nen!
+Unsern Ernst zu h&oe;hnen:
+Singt in s&ue;ssen T&oe;nen;
+Jeder Ton entz&ue;ckt.
+B&ue;rden, die dem Leben
+Qual und Schwermuth geben,
+Kann ein Scherz oft heben:
+Auch der Scherz begl&ue;ckt.</pv>
+<pv>Land und Volk regieren,
+Ganze Heere f&ue;hren,
+Sich mit Purpur zieren,
+Hemmt die Sorgen nie.
+Seht der Hirten Freuden,
+Die auf sichern Weiden
+Grosse nicht beneiden.
+Wie vergn&ue;gt sind die!</pv>
+<pv>M&ae;chtigen und Reichen
+Will kein Sch&ae;fer gleichen:
+Jhrer Vorzug&sr;-Zeichen
+Lacht der Hirten Zunft.
+Eintracht, Spiel und Scherzen
+Sch&ue;tzen ihre Herzen
+Vor den eiteln Schmerzen
+Stolzer Unvernunft.</pv>
+<hr>
+<pb="16"/>
+<abb>
+<pt><c><aq><g>VIII</g>.</aq>
+<fr>Der Wein.</fr></c></pt>
+<pv><in>A</in>u&sr; den Reben
+Fleuﬂt da&sr; Leben:
+Da&sr; ist offenbar.
+Jhr, der Trauben Kenner!
+Weingelehrte M&ae;nner!
+Macht dieﬂ Sprichwort wahr.</pv>
+<pv>Niemal&sr; gl&ue;hten
+Rechabiten,
+Edler Most! von dir.
+Aber, Wein-Erfinder,
+Noah! deine Kinder
+Zechten so, wie wir.</pv>
+<pv>Ueberzogen
+Regenbogen
+Gleich da&sr; Firmament:
+So ward deiner Freude
+Mehr al&sr; Augenweide,
+Jhr ward Wein geg&oe;nnt.</pv>
+<pb="17"/>
+<pv>Deinentwegen
+Kam der Segen,
+Wuch&sr; der erste Wein.
+Nach den Wasser-Fluthen
+Konnte nicht&sr; den Guten
+Gr&oe;ssern Trost verleihn.</pv>
+<hr>
+<bs>C</bs>
+<pb="18"/>
+<abb>
+<pt><c><aq><g>IX</g>.</aq>
+<fr>Gr&ae;nzen der Pflicht.</fr></c></pt>
+<pv><in>A</in>u&sr; Beyfall und gewohnten Gr&ue;nden
+Nur Menschen recht vern&ue;nftig finden,
+Da&sr; will die Pflicht:
+Doch manche Menschen, die wir kennen,
+Viel kl&ue;ger, al&sr; die Thiere, nennen,
+Da&sr; will sie nicht.</pv>
+<pv>Die seltnen F&ue;rsten G&oe;tter heissen,
+Die sich der Menschen-Huld befleissen,
+Da&sr; will die Pflicht:
+Doch die mit G&oe;tter-Namen zieren,
+Die weibisch oder wild regieren,
+Da&sr; will sie nicht.</pv>
+<pv>Nicht widersprechen und sich schmiegen,
+Wann grosse M&ae;nner pr&ae;chtig l&ue;gen,
+Da&sr; will die Pflicht:
+Doch glauben wa&sr; sie un&sr; erzehlen,
+Doch glauben wo Beweise fehlen,
+Da&sr; will sie nicht.</pv>
+<pb="19"/>
+<pv>Der Neuern Kunst und Witz verehren,
+Zumahl wann sie durch Muster lehren,
+Da&sr; will die Pflicht:
+Allein den grossen Geist der Alten
+F&ue;r unsrer Zeiten Antheil halten,
+Da&sr; will sie nicht.</pv>
+<pv>Der Welt da&sr; Wasser anzupreisen,
+Erlaubt man Aerzten oder Weisen,
+Da&sr; will die Pflicht:
+Allein de&sr; Vorrang&sr; dich berauben,
+Du freudenvoller Saft der Trauben!
+Da&sr; will sie nicht.</pv>
+<pv>Die frommen Blicke nicht verschm&ae;hen,
+Wo wir nur Zucht und Unschuld sehen,
+Da&sr; will die Pflicht:
+Doch deren Vorzug&sr;-Recht verkennen,
+Jn welchen Lust und Jugend brennen,
+Da&sr; will sie nicht.</pv>
+<pv>Die scharfen M&ue;tter nicht belachen,
+Die schlaue T&oe;chter stet&sr; bewachen,
+Da&sr; will die Pflicht:
+Allein der T&oe;chter List verrathen,
+Die da&sr; thun wa&sr; die M&ue;tter thaten,
+Da&sr; will sie nicht.</pv>
+<pv>Den Alten, die un&sr; bessern k&oe;nnen,
+Mehr Zehenden an Jahren g&oe;nnen,
+Da&sr; will die Pflicht:
+Allein zu ihrem l&ae;ngern Leben
+Von unserm eine Stunde geben,
+Da&sr; will sie nicht.</pv>
+<hr>
+<bs>C 2</bs>
+<pb="20"/>
+<abb>
+<pt><c><aq>X.</aq>
+<fr>Der Morgen.</fr></c></pt>
+<pv><in>U</in>n&sr; lockt die Morgenr&oe;the
+Jn Busch und Wald,
+Wo schon der Hirten Fl&oe;te
+Jn&sr; Land erschallt.
+Die Lerche steigt und schwirret,
+Von Lust erregt:
+Die Taube lacht und girret:
+Die Wachtel schl&ae;gt.</pv>
+<pb="21"/>
+<pv>Die H&ue;gel und die Weide
+Stehn aufgehellt,
+Und Fruchtbarkeit und Freude
+Bebl&ue;mt da&sr; Feld.
+Der Schmelz der gr&ue;nen Fl&ae;chen
+Gl&ae;nzt voller Pracht,
+Und von den klaren B&ae;chen
+Entweicht die Nacht.</pv>
+<pv>Der H&ue;gel weisse B&ue;rde,
+Der Schafe Zucht
+Dr&ae;ngt sich au&sr; Stall und H&ue;rde
+Mit froher Flucht.
+Seht wie der Mann der Herde
+Den Morgen f&ue;hlt
+Und auf der frischen Erde
+Den Buhler spielt.</pv>
+<pv>Der J&ae;ger macht schon rege
+Und hetzt da&sr; Reh
+Durch blutbetriefte Wege,
+Durch Busch und Klee.
+Sein Hifthorn gibt da&sr; Zeichen;
+Man eilt herbey:
+Gleich schallt au&sr; allen Str&ae;uchen
+Da&sr; Jagd-Geschrey.</pv>
+<pv>Doch Phylli&sr; Herz erbebet
+Bey dieser Lust:
+Nur Z&ae;rtlichkeit belebet
+Die sanfte Brust.
+Laﬂ un&sr; die Th&ae;ler suchen,
+Geliebte&sr; Kind!
+Wo wir von Berg und Buchen
+Umschlossen sind.</pv>
+<bs>C 3</bs>
+<pb="22"/>
+<pv>Erkenne dich im Bilde
+Von jener Flur:
+Sey stet&sr;, wie dieﬂ Gefilde,
+Sch&oe;n durch Natur.
+Erw&ue;nschter al&sr; der Morgen,
+Hold wie sein Stral,
+So frey von Stolz und Sorgen
+Wie diese&sr; Thal.</pv>
+<hr>
+<pb="23"/>
+<abb>
+<pt><c><aq><g>XI</g>.</aq>
+<fr>Die Liebe.</fr></c></pt>
+<poem><in>T</in>ochter der Natur,
+Holde Liebe!
+Un&sr; vergn&ue;gen nur
+Deine Triebe.
+Gunst und Gegen-Gunst
+Giebet allen
+Die begl&ue;ckte Kunst
+Zu gefallen.</poem>
+<hr>
+<pb="24"/>
+<abb>
+<pt><c><aq><g>XII</g>.</aq>
+<fr>Die Nacht.</fr></c></pt>
+<pv><in>W</in>illkommen, angenehme Nacht!
+Verh&ue;ll in deine Schatten
+Die Freuden, die sich gatten,
+Und blend, o blende den Verdacht.
+Wann treue Liebe k&ue;ssen macht;
+So wird der Kuﬂ der Liebe,
+So werden ihre Triebe
+Begl&ue;ckter durch die stille Nacht.</pv>
+<pb="25"/>
+<pv>Der sch&oe;ne Mund, den man verehrt,
+Bestrafet, z&ue;rnt gelinder,
+Wird z&ae;rtlich, k&ue;ﬂt geschwinder,
+Wann nicht&sr; die sichern K&ue;sse st&oe;rt.
+Ja, ja! die Nacht ist vorzug&sr;wehrt:
+Sie dient und ist verschwiegen,
+Und liefert dem Vergn&ue;gen
+Den s&ue;ssen Mund, den man verehrt.</pv>
+<pv>Der Tag hat, al&sr; ein falscher Freund,
+Zu oft der Welt erzehlet,
+Wa&sr; ihr die Nacht verhehlet,
+Die Liebende nach Wunsch vereint.
+Du bist der Sorg und Unruh feind
+Und g&oe;nnest sie dem Tage,
+Und widerlegst die Sage:
+Du, holde Nacht, seyst niemand&sr; Freund.</pv>
+<pv>Oft schr&ae;nkt der strenge Tag un&sr; ein;
+Doch h&ae;lt in schweren Stunden
+Un&sr; mancher Tag gebunden,
+So muﬂ die freye Nacht erfreun.
+Da&sr; Gl&ue;ck vertraut und froh zu seyn,
+Da&sr; Gl&ue;ck zufriedner Herzen,
+Die in der Stille scherzen,
+R&ae;umt un&sr; der Tag nur selten ein.</pv>
+<pv>O Nacht, da nur der Scherz sich regt,
+Da keine Neider lauschen,
+Und nur die K&ue;sse rauschen,
+Wie sinnreich wirst du angelegt!
+Wie wird der Liebe&sr;-Gott verpflegt,
+Wann selbst die Huld-G&oe;ttinnen
+Auf sein Vergn&ue;gen sinnen,
+Und nicht&sr; al&sr; Lust und Scherz sich regt.</pv>
+<hr>
+<bs>D</bs>
+<pb="26"/>
+<abb>
+<pb="27"/>
+<pt><c><aq><g>XIII</g>.</aq>
+<fr>Der Fr&ue;hling.</fr></c></pt>
+<pv><in>D</in>u Schmelz der bunten Wiesen!
+Du neu-begr&ue;nte Flur!
+Sey stet&sr; von mir gepriesen,
+Du Schmelz der bunten Wiesen!
+E&sr; schm&ue;ckt dich und Cephisen
+Der Lenz und die Natur.
+Du Schmelz der bunten Wiesen!
+Du neu- begr&ue;nte Flur!</pv>
+<pv>Du Stille voller Freuden!
+Du Reitzung s&ue;sser Lust!
+Wie bist du zu beneiden,
+Du Stille voller Freuden!
+Du mehrest in un&sr; beyden
+Die Sehnsucht treuer Brust,
+Du Stille voller Freuden!
+Du Reitzung s&ue;sser Lust!</pv>
+<pv>Jhr schnellen Augenblicke!
+Macht euch de&sr; Fr&ue;hling&sr; wehrt.
+Daﬂ euch ein Kuﬂ begl&ue;cke,
+Jhr schnellen Augenblicke!
+Daﬂ un&sr; der Kuﬂ entz&ue;cke,
+Den un&sr; die Liebe lehrt.
+Jhr schnellen Augenblicke!
+Macht euch de&sr; Fr&ue;hling&sr; wehrt.</pv>
+<hr>
+<bs>D 2</bs>
+<pb="28"/>
+<abb>
+<pt><c><aq><g>XIV</g>.</aq>
+<fr>Die Land-Lust.</fr></c></pt>
+<pv><in>G</in>esch&ae;fte, Zwang und Grillen,
+Entweiht nicht diese Trift:
+Jch finde hier im Stillen
+De&sr; Unmuth&sr; Gegengift.
+Jhr Schw&ae;tzer, die ich meide,
+Vergeﬂt mir nachzuziehn:
+Verfehlt den Sitz der Freude,
+Verfehlt der Felder Gr&ue;n.</pv>
+<pb="29"/>
+<pv>E&sr; webet, wallt und spielet
+Da&sr; Laub um jeden Strauch,
+Und jede Staude f&ue;hlet
+De&sr; lauen Zephyr&sr; Hauch.
+Wa&sr; mir vor Augen schwebet,
+Gef&ae;llt und h&ue;pft und singt;
+Und alle&sr;, alle&sr; lebet,
+Und alle&sr; scheint verj&ue;ngt.</pv>
+<pv>Jhr Th&ae;ler und ihr H&oe;hen,
+Die Lust und Sommer schm&ue;ckt!
+Euch, ungest&oe;rt, zu sehen
+Jst wa&sr; mein Herz erquickt.
+Die Reitzung freyer Felder
+Besch&ae;mt der G&ae;rten Pracht,
+Und in die offnen W&ae;lder
+Wird ohne Zwang gelacht.</pv>
+<pv>Die Saat ist aufgeschossen
+Und reitzt der Schnitter Hand.
+Die bl&ae;ttervollen Sprossen
+Beschatten Berg und Land.
+Die V&oe;gel, die wir h&oe;ren,
+Geniessen ihrer Zeit:
+Nicht&sr; t&oe;nt in ihren Ch&oe;ren,
+Al&sr; Scherz und Z&ae;rtlichkeit.</pv>
+<pv>Wie thront auf Moﬂ und Rasen
+Der Hirt in sanfter Ruh!
+Er sieht die Herde grasen
+Und spielt ein Lied dazu.
+Sein muntre&sr; Lied ergetzet
+Und scheut die Kenner nicht;
+Gef&ae;lligkeit ersetzet
+Wa&sr; ihm an Kunst gebricht.</pv>
+<bs>D 3</bs>
+<pb="30"/>
+<pv>Au&sr; Dorf und B&ue;schen dringet
+Der Jugend Kern hervor,
+Und tanzt und stimmt und singet
+Nach seinem Haber-Roh.
+Den Reihen-Tanz vollenden
+Die Hirten auf der Hut,
+Mit treu-vereinten H&ae;nden,
+Mit Spr&ue;ngen voller Muth.</pv>
+<pv>Wie manche frische Dirne
+Schminkt sich au&sr; jenem Bach
+Und gibt an Brust und Stirne
+Doch nicht den Sch&oe;nsten nach.
+Gesundheit und Vergn&ue;gen
+Belebt ihr Aug und Herz,
+Und reitzt in ihren Z&ue;gen,
+Und lacht in ihrem Scherz.</pv>
+<pv>Jn j&ae;hrlich neuen Sch&ae;tzen
+Zeigt sich de&sr; Landmann&sr; Gl&ue;ck,
+Und Freyheit und Ergetzen
+Erheitern seinen Blick.
+Verleumdung, Stolz und Sorgen,
+Wa&sr; St&ae;dte sclavisch macht,
+Da&sr; schw&ae;rzt nicht seinen Morgen,
+Da&sr; dr&ue;ckt nicht seine Nacht.</pv>
+<pv>Nicht&sr; darf den Weisen binden,
+Der alle Sinnen &ue;bt,
+Die Anmuth zu empfinden,
+Die Land und Feld umgiebt.
+Jhm prangt die fette Weide
+Und die bethaute Flur;
+Jhm gr&ue;net Lust und Freude,
+Jhm mahlet die Natur.</pv>
+<hr>
+<pb="31"/>
+<abb>
+<pt><c><aq>XV.</aq>
+<fr>Der Kuﬂ.</fr></c></pt>
+<pv><in>W</in>ie unvergleichlich ist
+Die Sch&oe;ne, die recht k&ue;ﬂt!
+Jn ihren K&ue;ssen steckt
+Wa&sr; tausend Lust erweckt.</pv>
+<pv>Den Mund gab die Natur
+Un&sr; nicht zur Sprache nur:
+Da&sr;, wa&sr; ihn s&ue;sser macht,
+Jst, daﬂ er k&ue;ﬂt und lacht.</pv>
+<pv>Ach &ue;berzeuge dich
+Davon, mein Kind! durch mich
+Und nimm und gib im Kuﬂ
+Der Freuden Ueberfluﬂ.</pv>
+<hr>
+<pb="32"/>
+<abb>
+<pt><c><aq>XVI.</aq>
+<fr>Mischmasch.</fr></c></pt>
+<hr>
+<cit><aq>Ne perda&sr; operam: qui se mirantur, in illo&sr;
+Viru&sr; habe, no&sr; h&00E6;c novimu&sr; esse nihil.
+<k>martialis</k>, <i>Lib. XIII. Epigr.</i> 2.</aq></cit>
+<pv><in>D</in>er Wein-Trunk erh&ae;lt.
+Da&sr; lehrten die Welt
+Druiden und Barden und Magi.
+Sie hatten auch Recht;
+Da&sr; findet wer zecht
+<aq>Recuban&sr; sub tegmine fagi.</aq></pv>
+<pv>Freund! trinke getreu;
+So wollen wir zwey
+<aq>Circumdare brachia collo.</aq>
+Verschreib mir vom Rhein
+F&ue;rtreflichern Wein,
+<aq>Et eri&sr; mÓ magnu&sr; Apollo.</aq></pv>
+<pb="33"/>
+<pv>O dieser verj&ue;ngt
+Den der ihn besingt:
+<aq>Corpu&sr;que animu&sr;que juvantur.</aq>
+Auch ist er, mein Freund,
+Der Liebe nicht feind,
+<aq>Et in una sede morantur.</aq></pv>
+<pv>Man lehret un&sr; zwar,
+Vielleicht ist&sr; auch wahr:
+<aq>Tot sunt in amore dolore&sr;!</aq>
+Dem sey wie ihm sey,
+So bleibt e&sr; dabey:
+<aq>Nostro&sr; agitamu&sr; amore&sr;.</aq></pv>
+<pv>E&sr; lebe dein Kind!
+Wie ist e&sr; gesinnt?
+<aq>Duru&sr; pater: ipsa severa?</aq>
+Du seufzest ja hier,
+Al&sr; sagtest du mir:
+<aq>Nimium mihi casta Ne&00E6;ra.</aq></pv>
+<pv>Doch Rhein-Wein und Scherz
+Erfrischen da&sr; Herz,
+<aq>Sensu&sr; animumque labantem.</aq>
+Dein Gram wird ertr&ae;nkt,
+Wenn Phylli&sr; dich kr&ae;nkt,
+<aq>Miserum si spernit amantem.</aq></pv>
+<hr>
+<bs>E</bs>
+<pb="34"/>
+<abb>
+<pt><c><aq>XVII.</aq>
+<fr>Unverdiente Eifersucht.</fr><fn="*">Diese Ode ist, im Jahre 1729, durch eine wirkliche Begebenheit veran-
+lasset worden.</fn></c></pt>
+<pv><in>N</in>eulich sah man au&sr; den Str&ae;uchen
+Den verschwiegenen Elpin
+Heimlich von der Weide schleichen,
+Heimlich in die Waldung fliehn.
+Die Begierde, dort zu sehn,
+Warum dieser Gang geschehn,
+Trieb Myrtillen nachzugehn.</pv>
+<pb="35"/>
+<pv>Ach! Elpin ist zu beneiden:
+Fiel dem schlauen Sch&ae;fer ein;
+Ja! ihr folgt ihm, s&ue;sse Freuden!
+Jn den lustgewohnten Hayn,
+Wo in jener Schatten Nacht
+Jhm vielleicht die Hirtinn lacht,
+Die mein Herze sehnend macht.</pv>
+<pv>Mitten unter hohen Fichten
+Traf Myrtill den Fl&ue;chtling an,
+Der bereit&sr; in stillem Dichten
+Voller Liebe saﬂ und sann,
+Bi&sr; sein fertiger Gesang
+Muthig durch die L&ue;fte drang
+Und den Hall zum Nachruf zwang.</pv>
+<pv>Muster, sang er, wahrer G&ue;te!
+Herz, da&sr; Treu und Huld belebt!
+G&oe;nne mir, daﬂ mein Gem&ue;the
+Einsam deinen Wehrt erhebt.
+Sag ich Neidern und der Welt
+Minder al&sr; dein Lob erh&ae;lt;
+So vernehm e&sr; Wald und Feld.</pv>
+<pv>Mit wie z&ae;rtlichem Umfangen
+Hat dein Arm mich oft ergetzt!
+Und wie oft hat deine Wangen
+Mein vergn&ue;gter Mund genetzt!
+Selten hab ich wa&sr; begehrt,
+Da&sr;, so bald ich mich erkl&ae;rt,
+Du mir nicht mit Lust gew&ae;hrt.</pv>
+<pv>O mit welchen treuen K&ue;ssen
+Dr&ue;cktest du mich an dein Herz!
+Auch in eignen K&ue;mmernissen
+Scherztest du bey meinem Scherz.
+Nur dein L&ae;cheln und dein Kuﬂ,
+Die ich stet&sr; verehren muﬂ,
+Stillten allen Ueberdruﬂ.</pv>
+<bs>E 2</bs>
+<pb="36"/>
+<pv>Deine kluge Huld erblicken,
+Deiner Liebe Regung sehn,
+Da&sr; allein darf mich entz&ue;cken,
+Da&sr; allein bleibt wundersch&oe;n:
+Sch&oe;n in deiner Seltenheit,
+Sch&oe;n in meiner Dankbarkeit,
+Sch&oe;n auf unsre Leben&sr;-Zeit.</pv>
+<pv>Wahrheit, Zeuginn meiner Triebe!
+Leiste selber die Gew&ae;hr.
+Sage: F&ue;r so grosse Liebe
+F&ae;llt die Gegen-Pflicht nicht schwer.
+Sag ihr st&ue;ndlich, daﬂ ihr Bild,
+Da&sr; mein ganze&sr; Herz erf&ue;llt,
+Mehr bey mir, al&sr; alle&sr;, gilt.</pv>
+<pv>Eil ich, wann e&sr; Tag will werden,
+Jn die herdenvolle Flur;
+O so zeigen mir die Herden
+Gleiche Wirkung der Natur:
+Wa&sr; auch ich von ihr erhielt,
+Wa&sr; die Zucht der L&ae;mmer f&ue;hlt,
+Wann sie mit den Schafen spielt.</pv>
+<pv>Nein! ich will mich nicht entfernen,
+Weil mein Abschied sie betr&ue;bt;
+Nein! ich will von ihr erlernen,
+Wie man unau&sr;sprechlich liebt.
+Ja ich will dir, k&ue;hler Hayn!
+Hiermit ihren Namen weihn,
+Dieser Fichte Schmuck zu seyn.</pv>
+<pv>Name! wachse mit den Rinden!
+Wachse, Denkmal meiner Hand!
+Werd auch in entlegnen Gr&ue;nden
+Jeder Hirten-Schar bekannt!
+Name! den ein Vorzug ziert,
+Den von allen, die er r&ue;hrt,
+Keiner mehr, al&sr; ich, versp&ue;rt.</pv>
+<pb="37"/>
+<pv>Endlich eilt Elpin zur&ue;cke,
+Da den lauschenden Myrtill
+Dessen neu-besungne&sr; Gl&ue;cke
+Oft zur Miﬂgunst reitzen will.
+Scheelsucht, Ungeduld und Wahn
+Heiﬂt ihn, sich der Gegend nahn,
+Wo Elpin den Schnitt gethan.</pv>
+<pv>Sein Verdacht au&sr; tausend Sachen
+Zielte schon auf langen Gram;
+Doch er selber muste lachen,
+Al&sr; er zu der Fichte kam:
+Denn, so bald er sie besah
+Stand der Name <fr>Sylvia,</fr>
+Seine&sr; Freunde&sr; Mutter, da.</pv>
+<hr>
+<bs>E 3</bs>
+<pb="38"/>
+<abb>
+<pb="39"/>
+<pt><c><aq>XVIII.</aq>
+<fr>Da&sr; Beyspiel.</fr></c></pt>
+<pv><in>D</in>ie Milch der Alten, der Wein,
+Kann Jungen nicht&sr; sch&ae;dliche&sr; seyn.
+Jhn sogen die V&ae;ter,
+Wir saugen ihn sp&ae;ter:
+Jhr w&ue;rdigen Enkel! schenkt ein.</pv>
+<sp><c>Chor:</c></sp>
+<pv>Jhn sogen die V&ae;ter,
+Wir saugen ihn sp&ae;ter:
+Jhr w&ue;rdigen Enkel! schenkt ein.</pv>
+<pv>Un&sr; treibt de&sr; Beyspiel&sr; Gewalt:
+Wir fassen Exempel gar bald.
+Wann Alte sich&sr; bringen,
+Sich trinkend verj&ue;ngen;
+So trinken wir Jungen un&sr; alt.</pv>
+<sp><c>Chor:</c></sp>
+<pv>Wann Alte sich&sr; bringen,
+Sich trinkend verj&ue;ngen;
+So trinken wir Jungen un&sr; alt.</pv>
+<hr>
+<pb="40"/>
+<abb>
+<pb="41"/>
+<pt><c><aq>XIX.</aq>
+<fr>Die Verg&oe;tterung.
+An Phylli&sr;.</fr></c></pt>
+<pv><in>H</in>olde Phylli&sr;, die G&oe;ttinnen
+(Traue mir die Wahrheit zu)
+Waren anfang&sr; Sch&ae;ferinnen
+Oder M&ae;dchen, so wie du.
+Eine, die mit blauen Augen
+Mehr al&sr; M&ae;nner-Witz verband,
+Konnte zur Minerva taugen
+Und erwarb den G&oe;tter-Stand.</pv>
+<pv>Dichterinnen hiessen Musen
+Und entz&ue;ckten Herz und Ohr.
+Reiffer Sch&oe;nen volle Busen
+Bildete die Cere&sr; vor.
+Die durch Jugend un&sr; ergetzte
+Schien, mit Recht, de&sr; Tempel&sr; wehrt,
+Den man ihr, al&sr; Heben, setzte,
+Die der st&ae;rkste Held verehrt.<fn="*">Einigen Lesern sind gewisse Anmer-
+kungen n&oe;thig und hoffentlich ange-
+nehm, die in Ansehung anderer &ue;berfl&ue;s-
+sig seyn w&ue;rden; al&sr;, bey diesen Zeilen:
+daﬂ die Alten Wei&sr;heit und Wissenschaft
+in der <fr>Minerva,</fr> da&sr; Getreide und
+die F&ue;lle in der <fr>Cere&sr;,</fr> die weibliche
+Jugend aber in der <fr>Hebe</fr> verehret ha-
+ben, welche mit dem <fr>Hercule&sr;,</fr> al&sr; der
+m&ae;nnlichen St&ae;rke, verm&ae;hlet worden.</fn></pv>
+<pv>Eine ward, in spr&oe;der Bl&ae;sse
+Und in strenger H&ae;u&sr;lichkeit,
+H&ue;terinn der Feuer-Esse
+Und die Vesta jener Zeit.
+Die durch Reitz und Ungl&ue;ck&sr;-F&ae;lle
+Sich den Raub der Grobheit sah
+Ward in ihre&sr; Ehstand&sr; H&oe;lle
+Kl&ae;glich zur Proserpina.</pv>
+<bs>F</bs>
+<pb="42"/>
+<pv>Majest&ae;tische Geberden,
+Hoheit, die sich nie vergaﬂ,
+Liessen die zur Juno werden,
+Die so grossen Geist besaﬂ.
+Krone, Scepter, Wolken, Pfauen
+Musten ihren Muth erh&oe;hn;
+Zum Exempel aller Frauen,
+Die da&sr; Regiment verstehn.<fn="*"><fr>Juno</fr> war die K&oe;niginn der G&oe;t-
+ter, die keusche <fr>Vesta</fr> G&oe;ttinn de&sr;
+Feuer&sr;. Die sch&oe;ne <fr>Proserpina</fr> ward
+von dem ungestalten <fr>Pluto</fr> entf&ue;hret,
+dem Regenten der H&oe;lle und unge-
+brauchter Sch&ae;tze.</fn></pv>
+<pv>Jhr so wohlgepaarten Beyde:
+Sch&oe;nheit und Empfindlichkeit!
+Und auch du, o s&ue;sse Freude!
+Mund, der l&ae;chelnd Lust gebeut;
+Rosen aufgebl&ue;hter Wangen;
+Schlaue Blicke; lockigt Haar!
+Jhr nur stellet dem Verlangen
+Venu&sr; oder Phylli&sr; dar.</pv>
+<pv>Phylli&sr;! ja: in jenen Zeiten,
+Jn der alten G&oe;tter-Welt,
+W&ae;ren deinen Trefflichkeiten
+Gleichfall&sr; Opfer angestellt:
+Gleichfall&sr; w&ue;rden deinen Wagen
+Tauben oder Schw&ae;ne ziehn,
+Dich die Liebe&sr;-G&oe;tter tragen
+Und mit dir nach Papho&sr; fliehn.</pv>
+<hr>
+<pb="43"/>
+<abb>
+<pt><c><aq>XX.</aq>
+<fr>Die Helden.</fr></c></pt>
+<pv><in>D</in>er Aerzte Haupt, die sich zu Pferde zeigen,
+Ein Chiron sprach zum durstigen Achill:
+Der Theti&sr; sey da&sr; Wasser-Trinken eigen;
+Jhr Sohn trinkt Wein, wenn er mir folgen will.<fn="1">Die Erziehung de&sr; Achille&sr;, eine&sr;
+Sohne&sr; der Meer-G&oe;ttinn Theti&sr;, ward
+dem Centaur Chiron aufgetragen, der
+ein ber&ue;hmter Wund-Arzt gewesen
+seyn soll.</fn></pv>
+<pv>Jhm folgt&2019; Achill und leerte ganze Schl&ae;uche
+Auf Br&ue;derschaft mit andern Helden au&sr;.
+Geweihter Wein floﬂ auf Patroclu&sr; Leiche,
+Noch bessrer Wein floﬂ beym Begr&ae;bniﬂ-Schmauﬂ.<fn="2">S. da&sr; 23te Buch der Jlia&sr;.</fn></pv>
+<bs>F 2</bs>
+<pb="44"/>
+<pv>War Calcha&sr; nicht ein hocherfahrner Zecher
+Und, halb berauscht, ein Held im Prophezeyn?
+Er trank, er rieth, er weissagt&2019; au&sr; dem Becher
+Und fand, wie wir, die Wahrheit in dem Wein.<fn="3">Calcha&sr; war ein angesehener Prie-
+ster und Wahrsager der Griechen.</fn></pv>
+<pv>Wa&sr; that Ulyﬂ, der durch ein Abentheuer,
+Alcinou&sr;! zu deinem Jahr-Schmauﬂ kam?
+Der weise Mann erw&ae;rmte sich am Feuer,
+Bi&sr; man auch ihn an deine Tafel nahm.<fn="4">S. da&sr; 7de Buch der Odyssee.</fn></pv>
+<pv>Al&sr; Telemach, den Vater aufzusuchen,
+Zum Nestor kam, und diesen r&ae;uchern sah,
+Sprach Pylo&sr; F&ue;rst: Trinkt zu den Opfer-Kuchen
+Den Priester-Wein, auf&sr; Wohl von Jthaka!<fn="5">Al&sr; Telemach und Minerva, in der
+Gestalt de&sr; Mentor&sr;, in Pylo&sr; anka-
+men, war Nestor mit einem Opfer be-
+sch&ae;fftiget, da&sr; er dem Neptun angestel-
+let hatte, wie au&sr; dem dritten Buche der
+Odyssee zu ersehen ist.</fn></pv>
+<pv>Kaum hatt&2019; er sich nach Sparta hinbegeben,<fn="6">S. da&sr; vierte Buch der Odyssee.</fn>
+So redte dort ihn Menelau&sr; an:
+Willkommen, Prinz! versucht von unsern Reben:
+Herrscht v&ae;terlich und trinkt al&sr; ein Tyrann.</pv>
+<pv>Minerva rieth mit warnenden Geberden
+Dem Telemach die wilde Trinksucht ab,
+Und trank doch selbst, um nicht erkannt zu werden,
+Die Stutzer au&sr;, die ihr Atride&sr; gab.</pv>
+<pv>Cambyse&sr; dankt und opfert dir, o Sonne!
+Nicht, weil dein Lauf durch Stier und Wage streift;
+Er nannte dich die Stifterinn der Wonne,
+Nur weil durch dich die edle Traube reift.</pv>
+<pb="45"/>
+<pv>Jn Spanien blieb, bey der Liebe Winken,
+Ein Scipio dem s&ue;ssen Wein getreu,
+Und gab gar bald, ihn ungest&oe;rt zu trinken,
+Da&sr; sch&oe;nste Kind der Krieg&sr;-Gefangnen frey.<fn="7">S. den Valer. Max. im 4. B. C. 3.
+und im sech&sr;ten, C. 9.</fn></pv>
+<pv>Rom&sr; Phocion, da&sr; Muster alter Strenge,
+Auch Cato hat zu seinem Trunk gelacht.
+Er heiligte, bey der Gesch&ae;ffte Menge,
+Den Tag dem Staat und seinem Wein die Nacht.<fn="8">S. den Plutarch, im Leben de&sr; Ca-
+to, den er mit dem Phocion vergleichet,
+und den Pliniu&sr;, im zw&oe;lften Briefe de&sr;
+dritten Buche&sr;.</fn></pv>
+<pv>F&ue;rst Herrmann trank, wie deutsche Helden pflegen,
+Wann Land und Hof und auch Thuﬂnelde schlief,
+Dem Morgen-Stern au&sr; seinem Helm entgegen,
+Eh ihn der Tag in Feld und Lager rief.</pv>
+<pv>Die Ritterschaft de&sr; Artu&sr; zu verbinden,<fn="9">Der auch den Juden nicht unbe-
+kannte K&oe;nig Artu&sr; oder Arthur ist Stif-
+ter de&sr; uralten Ritter-Orden&sr; von der
+runden Tafel gewesen. s. Gryphii Ent-
+wurf der Ritter-Orden, S. 159. u. f.</fn>
+Ersann er selbst Getr&ae;nke voller Kraft;
+Die K&oe;niginn, um gleichfall&sr; zu erfinden,<fn="10"><aq><g><k>bvchananv&sr;</k></g>, Rerum Scot.
+L.V. p. 155: Nec putatur Vanora, uxor
+Arcturi, novorum consiliorum fuisse igna-
+ra, ut qu&00E6; stupri consuetudinem cum
+Modredo crederetur habere.</aq></fn>
+Erfand, beym Spiel, de&sr; K&oe;nig&sr; Hahnreyschaft.</pv>
+<pv>Wa&sr; that der Held, der einst mit Haut und Knochen
+Sech&sr; Pilger fraﬂ, der F&ue;rst Gargantua?
+Er war kaum halb der Mutter Ohr entkrochen,
+So rief er schon: Jst nicht&sr; zu trinken da?<fn="11">Von seiner seltsamen Geburt und
+wie er sech&sr; Pilger im Salat verschluk-
+ket hat, kann Rabelai&sr; im 6. u. 38. Cap.
+de&sr; ersten Buche&sr; seine&sr; Gargantua
+nachgelesen werden.</fn></pv>
+<hr>
+<pb="46"/>
+<abb>
+<pb="47"/>
+<pt><c><aq>XXI.</aq>
+<fr>Die Alster.</fr></c></pt>
+<pv><in>B</in>ef&oe;rdrer vieler Lustbarkeiten,
+Du angenehmer Alster-Fluﬂ!
+Du mehrest Hamburg&sr; Seltenheiten
+Und ihren fr&oe;hlichen Genuﬂ.
+Dir schallen zur Ehre,
+Du spielende Fluth!
+Die singenden Ch&oe;re,
+Der jauchzende Muth.</pv>
+<pv>Der Elbe Schiff-Fahrt macht un&sr; reicher;
+Die Alster lehrt gesellig seyn:
+Durch jene f&ue;llen sich die Speicher;
+Auf dieser schmeckt der fremde Wein.
+Jn schwimmenden Nachen
+Schifft Eintracht und Lust,
+Und Freyheit und Lachen
+Erleichtern die Brust.</pv>
+<pv>Da&sr; Ufer ziert ein Gang von Linden,
+Jn dem wir holde Sch&oe;nen sehn,
+Die dort, wann Tag und Hitze schwinden,
+Entz&ue;ckend auf- und niedergehn.
+Kaum haben vorzeiten
+Die Nymphen der Jagd,
+Dianen zur Seiten,
+So reitzend gelacht.</pv>
+<pv>O siehst du jemahl&sr; ohn Ergetzen,
+Hammonia! de&sr; Walle&sr; Pracht?
+Wann ihn die blauen Wellen netzen
+Und jeder Fr&ue;hling sch&oe;ner macht:
+Wann jene&sr; Gestade,
+Da&sr; Flora geschm&ue;ckt,
+So manche Najade
+Gef&ae;llig erblickt.</pv>
+<pb="48"/>
+<pv>Ert&oe;nt, ihr scherzenden Ges&ae;nge,
+Au&sr; unserm Lust-Schiff um den Strand!
+Den steifen Ernst, da&sr; Wort-Gepr&ae;nge
+Verweis&2019;t die Alster auf da&sr; Land.
+Du leere&sr; Gew&ae;sche,
+Dem Menschen-Witz fehlt!
+O fahr in die Fr&oe;sche,
+Laﬂ un&sr; ungequ&ae;lt.</pv>
+<pv>Hier l&ae;rmt, in N&ae;chten voll Vergn&ue;gen,
+Der Pauken Schlag, de&sr; Waldhorn&sr; Schall;
+Hier wirkt, bey Wein und s&ue;ssen Z&ue;gen,
+Die frohe Freyheit &ue;berall.
+Nicht&sr; lebet gebunden
+Wa&sr; Freundschaft hier paart.
+O gl&ue;ckliche Stunden!
+O liebliche Fahrt!</pv>
+<hr>
+<pb="49"/>
+<abb>
+<pt><c><aq>XXII.</aq>
+<fr>W&ue;nsche und Gesundheiten.</fr></c></pt>
+<pv><in>V</in>erdoppelt euch, ihr Freuden-T&oe;ne!
+Begleitet diesen Reben-Saft.
+Auf! auf! E&sr; lebe jede Sch&oe;ne
+Und s&ue;sser Reitzung Wunder-Kraft.</pv>
+<pv>Verehret anmuth&sr;volle Blicke
+Und ihre stumme Redner-Kunst;
+Und w&ue;nscht geliebten Augen Gl&ue;cke
+Und un&sr; geliebter Augen Gunst.</pv>
+<pv>Die holden Lippen m&ue;ssen bl&ue;hen,
+Die Jugend f&ae;rbt und Scherz belebt;
+Die nicht zu sehr dem Kuﬂ entfliehen;
+Um die der Kuﬂ mit Freude schwebt.</pv>
+<bs>G</bs>
+<pb="50"/>
+<pv>Viel Gl&ue;ck dem weiblichen Geschlechte,
+Dir, Hoffnung&sr;-voller Jungfern-Stand!
+Der Frauen ehelichem Rechte
+Und jeder sch&oe;nen Witwen-Hand.</pv>
+<pv>Jhr Sch&oe;nen! die in dieser Stunde
+Ein holde&sr; Gl&ue;ck un&sr; zugesellt,
+Trinkt oder schlurft mit frohem Munde:
+Worauf? Auf da&sr;, wa&sr; euch gef&ae;llt.</pv>
+<pv>E&sr; leben die beliebten Alten,
+Die Fr&oe;hlichkeiten g&ue;nstig sind.
+Ein Geist der Lust hat sie erhalten;
+Der geh auf Kind und Kinde&sr;-Kind.</pv>
+<pv>O tr&ae;nkt euch, jugendliche Kr&ae;fte!
+Den V&ae;tern besser beyzustehn.
+Laﬂt euch so wacker zum Gesch&ae;fte
+Al&sr; muthig zum Vergn&ue;gen sehn.</pv>
+<pv>Wenn keine Lieb und Freundschaft w&ae;ren,
+Wa&sr; h&ae;tt&2019; un&sr; Menschen nicht gefehlt?
+Man singe jedem Tag zu Ehren,
+Der au&sr; Bekannten Freunde w&ae;hlt.</pv>
+<pv>E&sr; leben wohlgew&ae;hlte Freunde!
+Dieﬂ Gla&sr; soll ihnen heilig seyn.
+Lebt gleichfall&sr;, halb&2019; und ganze Feinde!
+Doch fern von un&sr;, und ohne Wein.</pv>
+<pb="51"/>
+<pv>Vergn&ue;gter Stunden Angedenken
+Macht diese Stunden doppelt sch&oe;n.
+Du Zeit, die wir der Freude schenken,
+O laﬂ dich &oe;fter&sr; wieder sehn!</pv>
+<pv>Du Pfand de&sr; Gl&ue;cke&sr;, g&ue;ldner Friede!
+O kehr in Deutschland wieder ein!
+So trinken wir, bey manchem Liede,
+Mit au&sr;ges&oe;hnten Feinden Wein.</pv>
+<pv>Un&sr; treffe nie der Fluch der Zeiten,
+Wo gut Getr&ae;nke bitter ist,
+Und man beym Wein der Fr&oe;hlichkeiten,
+De&sr; Singen&sr; und de&sr; Klang&sr; vergiﬂt!</pv>
+<pv>Lebt, &ue;berlebt die Splitter-Richter,
+Jhr Freunde! die ihr wei&sr;lich lacht,
+Und einem aufgeweckten Dichter
+Nicht jeden Scherz zum Frevel macht.</pv>
+<hr>
+<bs>G 2</bs>
+<pb="52"/>
+<abb>
+<pb="53"/>
+<pt><c><aq>XXIII.</aq>
+<fr>Die erste Liebe.</fr></c></pt>
+<poem><in>O</in> wie viel Leben, wie viel Zeit
+Hab ich, al&sr; kaum beseelt, verlohren,
+Eh mich die Gunst der Z&ae;rtlichkeit
+Begeistert und f&ue;r dich erkohren!
+Nun mich dein s&ue;sser Kuﬂ erfreut,
+O nun belebt sich meine Zeit!
+Nun bin ich erst gebohren!</poem>
+<hr>
+<bs>G 3</bs>
+<pb="54"/>
+<abb>
+<pt><c><aq>XXIV.</aq>
+<fr>Zeme&sr; und</fr></c></pt>
+<sp><c>Zeme&sr;:</c></sp>
+<pv><in>A</in>l&sr; noch dein Mund um meine Lippen scherzte,
+Al&sr; nur mein Arm den weissen Hal&sr; umfing,
+Da schien e&sr; mir, wann ich dich z&ae;rtlich herzte,
+Daﬂ mich, an Gl&ue;ck, kein Sophi &ue;berging.</pv>
+<pv>Nun fesselt mich die Sch&oe;nste der Circassen,
+Amine nur, ihr Lied und Saiten-Spiel,
+Und ohne Furcht m&oe;gt ich f&ue;r sie erblassen,
+Entfernt mein Tod nur ihrer Tage Ziel.</pv>
+<pb="55"/>
+<abb>
+<pt><c><aq>XXIV.</aq>
+<fr>Zulima.</fr></c></pt>
+<sp><c>Zulima:</c></sp>
+<pv><in>E</in>h Zulima (du solltest noch err&oe;then!)
+Jn deiner Wahl zuletzt Aminen wich,
+Da hielte sie die Tochter de&sr; Propheten,
+Fatimen selbst, nicht halb so groﬂ al&sr; sich.</pv>
+<pv>Jch wuste l&ae;ngst mir Selim zu erwerben,
+De&sr; Achmet&sr; Sohn, den sch&oe;nsten Muselmann;
+Mit tausend Lust will ich auch zweymal sterben,
+Wenn ihm mein Tod da&sr; Leben fristen kann.</pv>
+<pb="56"/>
+<sp><c>Zeme&sr;:</c></sp>
+<poem>Wie? wenn die Lieb un&sr; wiederum verb&ae;nde,
+Wenn ich, den Bund auf ewig einzugehn,
+Jn Zulima da&sr; Gl&ue;ck, die Reitzung f&ae;nde,
+Die ich in dir, Amine, sonst gesehn?</poem>
+<hr>
+<pb="57"/>
+<sp><c>Zulima:</c></sp>
+<poem>Mir strahlt kein Stern so sch&oe;n al&sr; Selim&sr; Blicke,
+Und du bist wild, so wie da&sr; schwarze Meer;
+Und doch ist mir, wenn ich nur dich begl&ue;cke,
+Da&sr; Leben s&ue;ﬂ und auch der Tod nicht schwer.</poem>
+<hr>
+<pb="58"/>
+<abb>
+<pb="59"/>
+<pt><c><aq>XXV.</aq>
+<fr>Da&sr; Heidelberger Faﬂ.</fr></c></pt>
+<pv><in>J</in>hr Freunde! laﬂt un&sr; altklug werden
+Und weiser, al&sr; die Weisen, seyn;
+Entsaget aller Lust auf Erden;
+Entsagt den Sch&oe;nen und dem Wein.
+Jhr lacht und spitzt den Mund auf K&ue;sse;
+Jhr lacht und f&ue;llt da&sr; Deckel-Gla&sr;:
+Euch meistern keine strenge Schl&ue;sse;
+Euch lehrt da&sr; Heidelberger Faﬂ.
+Wa&sr; lehret da&sr;?</pv>
+<sp><c>Chor:</c></sp>
+<pv>Wir k&oe;nnen vieler Ding entbehren
+Und dieﬂ und jene&sr; nicht begehren;
+Doch werden wenig M&ae;nner seyn,
+Die Weiber hassen und den Wein.<fn="*">S. <aq>Constantini Germanici ad Ju-
+stum Sincerum Epist. polit. de peregri-
+nationibu&sr; Germanorum recte instituen-
+di&sr;, pag.</aq> 357.</fn></pv>
+<pv>Wir Menschen sollen un&sr; gesellen:
+So lehrt un&sr; t&ae;glich Syrbiu&sr;.
+Gesellt un&sr; nicht, in tausend F&ae;llen,
+De&sr; Freunde&sr; Wein, der Freundinn Kuﬂ?
+Un&sr; dienen Wein und Z&ae;rtlichkeiten,
+Kein Wasser-Durst, kein Weiber-Haﬂ.
+Da&sr; zeigt da&sr; Beyspiel aller Zeiten;
+Da&sr; zeigt da&sr; Heidelberger Faﬂ.
+Wa&sr; zeiget da&sr;?</pv>
+<sp><c>Chor:</c></sp>
+<pv>Wir k&oe;nnen vieler Ding entbehren
+Und dieﬂ und jene&sr; nicht begehren;
+Doch werden wenig M&ae;nner seyn,
+Die Weiber hassen und den Wein.</pv>
+<bs>H 2</bs>
+<pb="60"/>
+<pv>Wie strahlt da&sr; Feuer sch&oe;ner Augen!
+Wie blinkt der helle Reben-Saft!
+Au&sr; Lippen soll man Liebe saugen
+Und au&sr; dem Weine Helden-Kraft.
+Die Wei&sr;heit lehret: Trinkt und liebet!
+E&sr; liebt&2019; und trank Pythagora&sr;;
+Und wenn auch der kein Zeugniﬂ giebet,
+So giebt&sr; da&sr; Heidelberger Faﬂ.
+Wie lautet da&sr;?</pv>
+<sp><c>Chor:</c></sp>
+<pv>Wir k&oe;nnen vieler Ding entbehren
+Und dieﬂ und jene&sr; nicht begehren;
+Doch werden wenig M&ae;nner seyn,
+Die Weiber hassen und den Wein.</pv>
+<hr>
+<pb>
+<d1><b><in>N</in>achlese.</b></d1>
+<pb>
+<cit><c><aq><i>Horatiu&sr;.</i></aq></c>
+<aq>&2014; &2014; cur Berecynti&00E6;
+Cessant flamina tibi&00E6;?
+Cur pendet tacita fistula cum lyra?
+&2014; &2014; Audiat invidu&sr;
+Dementem strepitum Lycu&sr;,
+Et vicina, seni non habili&sr; Lyco.</aq></cit>
+<pb="63"/>
+<abb>
+<pt><c><fr>Da&sr; Gesellschaftliche.</fr></c></pt>
+<pv><in>J</in>hr Freunde! zecht bey freudenvollen Ch&oe;ren!
+Auf! stimmt ein freye&sr; Scherz-Lied an.
+Trink ich so viel, so trink ich euch zu Ehren,
+Und daﬂ ich heller singen kann.</pv>
+<pv>Der Rund-Trunk muﬂ der Stimmen Bund beleben,
+So schmeckt der Wein un&sr; doppelt sch&oe;n;
+Und ein Gesetz, nur eine&sr;, will ich geben:
+Laﬂt nicht da&sr; Gla&sr; zu lange stehn.</pv>
+<bs>H 3</bs>
+<pb="64"/>
+<pv>Jhr Freunde! zecht, wie unsre V&ae;ter zechten:
+Sie waren alt und klug genung,
+Und manchen Zank, bey dem wir S&oe;hne rechten,
+Ertr&ae;nkten sie im Reihen-Trunk.</pv>
+<pv>Sie thaten mehr: Saﬂ nur an ihrer Seite
+Ein Kind voll holder Freundlichkeit;
+So gab dem Wein ein Schm&ae;tzchen da&sr; Geleite,
+So ward ein Gla&sr; dem Kuﬂ geweiht.</pv>
+<pv>Wie trostlo&sr; war der Zeiten erste Jugend,
+Al&sr; Thyrsi&sr; einer Phylli&sr; sang,
+Und zum Geseufz von Leidenschaft und Tugend
+Mit ihr au&sr; schwachen Wassern trank!</pv>
+<pv>Die N&ue;chternheit, die Einfalt bl&oe;der Liebe
+Verl&ae;ngerten der Sch&ae;fer M&ue;h;
+Wir trinken Wein, befeuren unsre Triebe
+Und k&ue;ssen muthiger, al&sr; sie.</pv>
+<pv>Lockt un&sr; kein Laub in ungewisse Schatten;
+So baut man Dach und Zimmer an,
+Die manchem Kuﬂ mehr Sicherheit verstatten,
+Al&sr; Forst und Busch ihm leisten kann.</pv>
+<pv>Der s&ue;sse Reitz der ewig jungen Freude
+Wird stet&sr; durch Lieb und Wein vermehrt.
+Wenn ich den Scherz und den Tockayer meide,
+So sagt: bin ich der Jugend wehrt?</pv>
+<pb="65"/>
+<pv>Wie eisern sind doch ohne dich die Zeiten,
+O Jugend! holde F&ue;hrerinn!
+O bring un&sr; schnell in&sr; Reich der Fr&oe;hlichkeiten
+Und banne Frost und Eigensinn!</pv>
+<pv>Gesellt euch! stillt mit jugendlichem Triebe
+Den Durst nach K&ue;ssen und nach Wein.
+E&sr; eifert schon der Wein-Gott mit der Liebe,
+Den besten Rausch un&sr; zu verleihn.</pv>
+<pv>Doch soll man nicht den ersten Sch&ae;fern gleichen?
+O freylich ja! Folgt ihrer Pflicht:
+De&sr; Abend&sr; Scherz, der N&ae;chte Freundschaft&sr;-Zeichen
+Verrieth ein rechter Sch&ae;fer nicht.</pv>
+<hr>
+<bs>J</bs>
+<pb="66"/>
+<abb>
+<pt><c><fr>An den Schlaf.</fr></c></pt>
+<pv><in>G</in>ott der Tr&ae;ume! Freund der Nacht!
+Stifter sanfter Freuden!
+Der den Sch&ae;fer gl&ue;cklich macht,
+Wann ihn F&ue;rsten neiden.
+Holder Morpheu&sr;! s&ae;ume nicht,
+Wann die Ruhe mir gebricht,
+Aug und Herz zu weiden.</pv>
+<pb="67"/>
+<pv>Wenn ein Ehmann, voll Verdacht,
+Seine Gattinn qu&ae;let
+Und au&sr; Eifersucht bey Nacht
+Jhre Seufzer z&ae;hlet,
+Mach im Schlaf sein Ungl&ue;ck wahr;
+Zeig ihm tr&ae;umend die Gefahr,
+Die ihm wachend fehlet.</pv>
+<pv>Nimm auch itzt wa&sr; dir geh&oe;rt;
+Nur erlaub ein Flehen:
+Warte bi&sr; mein Gla&sr; geleert!
+Wohl! e&sr; ist geschehen;
+Komm nunmehr! O komme bald!
+Eil und laﬂ mich die Gestalt
+Meiner Phylli&sr; sehen!</pv>
+<hr>
+<bs>J 2</bs>
+<pb="68"/>
+<abb>
+<pt><c><fr>Die Jugend.</fr></c></pt>
+<pv><in>S</in>ollt auch ich durch Gram und Leid
+Meinen Leib verzehren,
+Und de&sr; Leben&sr; Fr&oe;hlichkeit,
+Weil ich leb&2019;, entbehren?
+Freunde! nein; e&sr; stehet fest,
+Meiner Jugend Ueberrest
+Soll mir Lust gew&ae;hren.</pv>
+<pv>Quellen tausendfacher Lust:
+Jugend! Sch&oe;nheit! Liebe!
+Jhr erweckt in meiner Brust
+Schmeichelhafte Triebe.
+Kein Genuﬂ ergr&ue;belt sich;
+Jch weiﬂ gnug, indem ich mich
+Jm Empfinden &ue;be.</pv>
+<pb="69"/>
+<pv>Laﬂt die Sch&oe;nen dieser Flur
+Eure Wahl erfahren:
+Jch besinge Phylli&sr; nur,
+Die von achtzehn Jahren,
+Freundlich, sinnreich, schlau zur Lust,
+Weiﬂ von Stirne, Hal&sr; und Brust,
+Schwarz von Aug und Haaren.</pv>
+<pv>Der mein Thun zu meistern denkt
+Predigt tauben Ohren.
+Schm&ae;hen hat mich nie gekr&ae;nkt:
+Wo ist der gebohren,
+Welcher allen wohlgef&ae;llt?
+Und worau&sr; besteht die Welt?
+Mehrentheil&sr; au&sr; Thoren.</pv>
+<pv>Wer den Wehrt der Freyheit kennt,
+Nimmt au&sr; ihr die Lehre,
+Daﬂ wa&sr; die Natur verg&oe;nnt
+Unser Wohl vermehre.
+Wiﬂt: e&sr; bleibt ein freyer Mann,
+Den kein Kl&ue;geln binden kann,
+Seiner Zeiten Ehre.</pv>
+<hr>
+<bs>J 3</bs>
+<pb="70"/>
+<abb>
+<pt><c><fr>Der Weinberg.</fr></c></pt>
+<poem><in>W</in>er die Reben pflanzt und hegt,
+Und den Weinberg wohl verpflegt,
+Den sein Vater angelegt,
+Der ist wehrt zu leben:
+Aber wer ihn l&ae;ﬂt vergehen,
+Den soll Kind und Enkel schm&ae;hen,
+Und wer von ihm wa&sr; Gute&sr; spricht,
+O! der verdient da&sr; Wasser nicht,
+Da&sr; ihm wird gegeben.</poem>
+<hr>
+<pb="71"/>
+<abb>
+<pt><c><fr>Der schlechte Wein.</fr></c></pt>
+<pv><in>W</in>ein, den die Bo&sr;heit au&sr;ged&ae;cht,
+De&sr; Wasser&sr; Ruhm empor zu bringen,
+Der au&sr; Verzweiflung trunken macht,
+Jn dem wir Gift und Tod verschlingen:
+Jn dem de&sr; Hefen&sr; Aufruhr tobt,
+Den niemand al&sr; der Wirth belobt,
+Den Wirth und Wirthin spart! von dir will ich ietzt singen.</pv>
+<pb="72"/>
+<pv>Ein harter Fluch beschwert da&sr; Land,
+Wo dieser Weinstock aufgeschossen;
+E&sr; hat in dem bestraften Sand
+Ein Sohn de&sr; Vater&sr; Blut vergossen,
+Und, fall&sr; mich kein Gedicht ber&ue;ckt,
+So ist der Winzer gleich erstickt,
+Der seiner Beeren Kost zum erstenmahl genossen.</pv>
+<pv>Auf, auf, ihr Keile! zeigt euch bald!
+Auf, auf, entz&ue;ndet euch, ihr Blitze!
+Vereint die r&ae;chende Gewalt!
+Doch trefft nur diese&sr; Weinberg&sr; Spitze,
+Und macht, daﬂ dieser Theil der Welt,
+Den diese Pflanze recht verstellt,
+Nicht ferner H&ae;rlinge so schlimmer Art besitze!</pv>
+<hr>
+<pb>
+<pb>
+<pb>
+<pb>

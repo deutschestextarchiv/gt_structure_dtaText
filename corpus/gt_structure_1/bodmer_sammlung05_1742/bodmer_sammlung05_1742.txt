@@ -1,0 +1,3247 @@
+<pb>
+<front><fr><g><in>S</in>ammlung</g>
+Critischer, Poetischer,</fr>
+und anderer geistvollen
+<fr><g><in>S</in>chriften,</g></fr>
+Zur Verbesserung
+<fr>de&sr; Urtheile&sr; und de&sr; Witze&sr;</fr>
+in den Wercken
+<fr>der Wolredenheit und der Poesie.</fr>
+Fünfte&sr; Stück.
+<abb>
+Zürich,
+Bey Conrad Orell und Comp. 1742.</front>
+<pb>
+<pb>
+<d1><b><g>De&sr;</g> Hrn. von <g>Mauvillon
+Briefe
+Von der
+Sprache und der Poesie
+Der
+Deutschen.</g>
+Au&sr; dem Französischen übersezt, und mit</b>
+Zeugnissen und Anmerckungen vermehret,
+worinnen desselben Urtheile durch da&sr;
+eigene Geständniß der berühmtesten
+deutschen Kunstrichter bekräftiget
+werden.</d1>
+<pb>
+<pb="5"/>
+<d2><b>De&sr; Herrn von Mauvillon Brief
+von der Sprache der Deutschen.</b></d2>
+<p><in>N</in>Unmehr will ich euch, mein werthester
+Freund, meine Gedancken von der Spra-
+che und der Gelehrsamkeit der Deutschen
+in den schönen Wissenschaften offenhertzig erklä-
+ren. Werdet ihr mir nicht Danck davor wis-
+sen? Oder seyd ihr über diese Stücke so schwie-
+rig, al&sr; eure Land&sr;leute in&sr;gemeine sind? Jch
+fürchte schier, ja. Jch kan mir schon vorstellen,
+daß ihr mir den Verwei&sr; gebet, den ein junger
+Sclave beym Petroniu&sr; einem frechen jungen
+Menschen gegeben hat: <aq>Tu lacticulosu&sr; nec
+<i>mu</i> nec <i>ma</i> argüta&sr;!</aq> Wa&sr; wollet ihr sagen,
+ihr könnet mit grosser Mühe zwey Worte in dem
+Deutschen plappern, und ihr wollet euch zum
+Richter in dieser Sprache aufwerffen? So
+übel gegründet dieser Verwei&sr; wäre, würde er
+mich doch nicht sonderlich befremden.<fn="(<aq>a</aq>)"><d><fr>Uebereinstimmende Zeugnisse und Anmerckungen.</fr></d>
+Sie wissen indessen wohl, wa&sr; neulich ein <aq>Bel Esprit</aq>
+(denn ich würde ihn doch beschimpfen, wenn ich ihn auf
+Deutsch einen witzigen Kopf nennen wollte) behauptet hat,
+daß die Oesterreichische oder die Schweitzerische Mundart so
+schön deutsch sey, al&sr; die Meißnische: Und <fr>sie können
+wider den Au&sr;spruch diese&sr; Richter&sr; nicht&sr; einwenden.
+Denn er sagr ja von sich:</fr> <aq>Avec de&sr; peine&sr; infinie&sr; je sui&sr;
+parvenu &00E0; jargonner l&2019;Allemand.</aq>
+<fr>Unendlich schwere Pein hat mich so viel gelehret,
+Daß man gebrochen Deutsch au&sr; meinem Munde höret.</fr>
+<cw>(Viel-</cw></fn> Schier
+alle Deutschen geben diese rechtliche Antwort de-
+<bs>A 3</bs><cw>nen</cw>
+<pb="6"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+nen Au&sr;ländern, die über ihre Sprache urthei-
+len wollen. Sie werffen euch gleich vor, <fr>ihr
+verstehet sie ja nicht.</fr> Würdet ihr sie besser re-
+den, al&sr; Cicero Latein geredet hat, <fr>so versteher
+ihr sie nicht,</fr> wenn ihr sie nicht erhebet.</p>
+<p>Aber nur ein wenig Geduld, so will ich euch
+überzeugen, daß ich diesen Filtz nicht verdiene.
+Jch bekenne, e&sr; sind viel Au&sr;länder, und vor-
+nehmlich viel Franzosen, welche kein deutsche&sr;
+Wort verstehen, und doch von dieser Sprache
+nach ihrem Kopfe reden. Sie sagen nie wa&sr;
+gute&sr; von ihr, und wenn man nachsinnet, wo-
+her da&sr; komme, sieht man bald, daß sie au&sr;
+anderer Leute Munde reden, oder daß sie diese
+Sprache nur au&sr; Verdrusse verachten, weil sie
+dieselbe nicht haben lernen können. Da ich mir
+eine Ehre darinnen suche, daß ich nicht&sr; ohne
+Bewei&sr; vorbringe, so will ich auch meine Ur-
+theile auf weit festere Gründe setzen. Jhr sollet
+mir zum wenigsten zugestehen, daß ich keinen
+Schluß auf die ungewissen Vorurtheile de&sr; Pö-
+bel&sr; setze, sondern einige Einsicht in die Natur
+der Sache selbst zum Grund lege.</p>
+<cw>Die</cw>
+<fnf>(Vielleicht bin ich der erste Deutsche, der au&sr; französischen
+Briefen etwa&sr; in deutsche Verse übersezt.) <fr>Wer so viel
+kan, der ist gewiß im Stande, zu urtheilen, ob der Meiß-
+ner oder der Bayer da&sr; beste Deutsch sprechen,</fr> so wie
+ein Deutscher, der etwa an der Garonne, mit sehr leich-
+ter Mühe, ein <aq>Cadedi&sr;</aq> gelernet hätte, nachdem fähig seyn
+würde, über den Vaugela&sr; Noten zu machen. <fr>Belu-
+stigungen de&sr; Witze&sr; und Verstande&sr;. Heumonat</fr> 1741.
+Bl. 25.</fnf>
+<pb="7"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+<p>Die meisten Deutschen, nemlich solche, die
+e&sr; in den Wissenschaften nicht hoch gebracht ha-
+ben, wollen behaupten, <fn="(<aq>b</aq>)"><fr>Critische Beyträge.</fr> <aq>XVIII.</aq> Stück. Art. <aq>V.</aq> Bl. 271.
+Da aber unsere deutsche Sprache in ihrem Alter über an-
+dere, so gar über die griechische und lateinische Sprache,
+hinaufsteigt. &rr;c. &2012; &2012; &2012; &2012; &2012; &2012; E&sr;
+sind die Denckmaale der ältesten und ei&sr;grauen Zeiten der
+deutschen Sprache sehr wenig, und diejenigen, welche die
+verzehrende Zeit noch übrig gelassen hat, sind so beschaf-
+fen, daß man ihre unstreitige Richtigkeit leicht in Zweifel
+ziehen kan. Hernach so ist auch ihre Beschaffenheit, Ver-
+fassung, und ihr Jnhalt so dunckel, rätzelhaft, und ver-
+wirrt, daß man beynahe einen Weissagergeist nöthig hat,
+wenn man etwa&sr; davon errathen will. &2012; &2012; &2012; &2012;
+Von den Zeiten Carl&sr; de&sr; Grossen an ist an der Verbesse-
+rung dieser Heldensprache tapfer gearbeitet worden. Und
+obgleich in denen diesem Kayser nähern Zeiten die deutsche
+Sprache noch rauh genug au&sr;siehet, und noch wenig ge-
+puzt erscheinet; so erkennt man doch au&sr; denen von diesen
+Zeiten her noch übrigen Denckmaalen und Schriften, daß
+man zu ihrer Verbesserung Hand angeleget habe.</fn> daß ihre Sprache
+so alt sey, al&sr; die lateinische. Andere, die mehr
+Einsicht haben, gestehen, daß man allererst um
+da&sr; Jahr 1350. angefangen, die deutsche Spra-
+che mit einiger Richtigkeit zu reden; daß sie
+zuvor nur ein wüster u. rauher Mischmasch gewe-
+sen sey, unzählige Mundarten seyn durch einan-
+der vermischt worden, vornehme Leute haben
+sie nicht geredet, sie sey auch au&sr; den öffentlichen
+Urkunden verbannet gewesen. Noch andere glau-
+ben, man habe schon im Jahr 1235. oder 1236.
+angefangen, sie auf den Reich&sr;tagen, in den
+Reich&sr;kammern, und der Reich&sr;cantzley zu ge-
+<bs>A 4</bs><cw>brau-</cw>
+<pb="8"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+brauchen. Man führt zum Beweise die Con-
+stitution von Mainz an, welche in Goldast&sr;
+Sammlung deutscher Urkunden enthalten ist.</p>
+<p>Allein die Authenticität derer Stücke, wel-
+che dieser Sammler zusammengelesen hat, scheint
+mir um etwa&sr; verdächtig, <fn="(<aq>c</aq>)">Hiervon kan nachgesehen werden (<fr>Critische Beyträ-
+ge</fr> Stück <aq>XIX.</aq> Art. <aq>II.</aq> Bl. 367.) <fr>J. D. Gruber&sr;</fr> Schrei-
+ben au&sr; Hannover, den angeblich in deutscher Sprache
+abgefasseten Maynzischen Reich&sr;-Abschied vom Jahr 1235.
+betreffend.</fn> und man thut
+wohl, wenn man sich nicht allzu starck darauf
+verläßt. Nicht&sr;destoweniger ist die deutsche
+Sprache unter allen Europäischen Sprachen, so
+fern sie nach ihrem gegenwärtigen Zustande be-
+trachtet werden, die älteste. <fr>Sie ist die älteste,</fr>
+sagt Gracian, <fr>aber auch die roheste.</fr> Gracian
+hat nicht unrecht, mein Freund, welche&sr; ich euch
+aber in&sr; Ohr sage. Die Barbarey einer Spra-
+che besteht eigentlich in der Härtigkeit ihrer Wör-
+ter und der beschwerlichen Au&sr;sprache. Der erste
+von diesen beyden Mängeln bezieht sich auf die
+Ohren, der andere auf die Lungen. Jch bin
+nunmehr eine ziemlich lange Zeit in Deutschland,
+und dennoch habe ich meine Ohren noch nicht so
+steif und gefroren machen können, daß sie nicht
+auf Anhören der meisten deutschen Wörter ein
+Schauer überfalle; und meine Lungen sind von
+euren K und H erschrecklich aufgetrucknet wor-
+den.</p>
+<cw>Man</cw>
+<pb="9"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+<p>Man wirfft mir ein: <fn="(<aq>d</aq>)">Diesen Einwurff hat <fr>Fr. A. Aepin</fr> zur Vertheidi-
+gung der nieder- oder plattdeutschen Sprache gemachet, in
+einer kleinen Schrift: <aq>De Lingu&00E6; Saxoni&00E6; inferiori&sr; ne-
+glectu atque contemtu injusto.</aq> Jn dem <aq>II.</aq> Stücke der <fr>Cri-
+tischen Beyträge,</fr> wo diese Schrift in einem Au&sr;zuge mit-
+getheilet wird, heißt e&sr; auf der 322sten Seite: Diejenigen,
+welche etwa&sr; bäurische&sr; im Plattdeutschen zu finden ge-
+dencken, verweiset er auf da&sr; Urtheil ihrer eigenen Ohren,
+in denen unmaßgeblich da&sr; tiefste Plattdeutsch so zierlich
+klänge, al&sr; da&sr; schönste Meißnische.</fn></p> <cit>&201E;Diese Wörter
+&q;scheinen euch nur darum hart, weil ihr ge-
+&q;wohnt seyd, andere, die euch sanfter düncken,
+&q;zu hören; für einen Deutschen aber sind jene
+&q;so wenig anstössig, al&sr; diese.&201E;</cit> <p>Wenn dem
+also ist, so bleibt mir nicht&sr; weiter übrig zu sa-
+gen, al&sr; daß die Deutschen nothwendig schuß-
+freye Ohren haben müssen; denn ihr werdet
+mich zu keinen Zeiten überreden, daß Wörter,
+die in <fr>strif, straf, misch, masch, tisch, tasch,
+ruft, luft, kinn, kan, kom, brick, brack,</fr>
+au&sr;gehen, sonderlich sanft klingen, und daß ei-
+ne Sprache, in welcher dergleichen Endungen
+gantz häufig angetroffen werden, den Ohren an-
+ständig sey, wofern sie nicht mit einem Pantzer
+angethan sind.</p>
+<p>Man sagt, in Leipzig sey eine Gesellschaft ge-
+lehrter Leute, welche unaufhörlich bemüht seyn,
+<fn="(<aq>e</aq>)">Diejenigen Mitglieder der deutschen Gesellschaft in
+Leipzig, welche im Jahr 1732. die Critischen Beyträge an-
+<cw>gefan-</cw></fn> die deutsche Sprache vollkommener zu ma-
+<bs>A 5</bs><cw>chen.</cw>
+<pb="10"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+chen. Jch will glauben, daß sie selbige reicher
+machen werden, aber ich zweifle sehr, daß sie
+ihre Natur ändern werder, die darinnen besteht,
+daß sie rauh und barbarisch ist. Sonst fraget e&sr;
+sich, mit wa&sr; vor Recht diese Herrn ihre Au&sr;-
+sprüche vor Gesetze aufdringen wollen. Wer hat
+sie zu Richtern über die deutsche Sprache gesetzet?
+Niemand al&sr; sie selber. Auf wa&sr; vor einen
+Grund verlangen sie, daß man e&sr; auf ihre Ent-
+scheidung ankommen lasse? Vielleicht wegen ih-
+rer Geschicklichkeit, und weil sie un&sr; sagen, daß
+man in Sachsen besser <fn="(<aq>f</aq>)"><fr>Critische Beyträge.</fr> Stück <aq>XV.</aq> Act. <aq>VII.</aq> Bl. 423.
+Wenn alle Provinzen in Deutschland so buchstabieren sollen,
+wie sie au&sr;sprechen, so wird die Anzahl der Rechtschrei-
+bung unzählig seyn. Ein Meißner z. E. wird ein P. schrei-
+ben, wo der Schlesier ein B. setzet; Ein Schwabe wird
+ein J. setzen, wo der Obersachse ein ä. setzet; Ein Thu-
+ringer wird ein O. schreiben, wo der Schlester ein A. schrei-
+bet. Doch wa&sr; braucht e&sr; mehr, al&sr; daß man im gemei-
+nen Leben nur auf die verschiedenen Mundarten acht gebe?
+<cw>Da</cw></fn> Deutsch redet, al&sr;
+an andern Orten de&sr; deutschen Reiche&sr;? Aber
+<cw>die</cw>
+<fnf>gefangen, schreiben in der Vorrede von der Absicht ihrer
+Bemühungen, wie folget: <cit>&201E;Sie schmeicheln sich nicht,
+&q;daß sie dadurch die Ueberbleibsele de&sr; altfranckischen Ge-
+&q;schmack&sr; gäntzlich und auf einmahl au&sr;rotten werden:
+&q;Sie wollen nur nach dem Maasse ihre&sr; Vermögen&sr; auch
+&q;etwa&sr; dazu beytragen. &2012; &2012; &2012; &2012; Man wird da&sr;
+&q;allmählige Wach&sr;thum der deutschen Sprache, den Fleiß
+&q;unsrer Lande&sr;leute dieselbe zu bessern, die Vollkom-
+&q;menheit, so sie schon erlanget, die Fehler, so einige von
+&q;ihnen begangen, und die Mittel, selbige zu vermeiden,
+&q;al&sr; in einem kurtzen Begriff beysammen antreffen.&201E;</cit></fnf>
+<pb="11"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+die Oesterreicher räumen ihnen diese&sr; nicht ein.
+<fn="(<aq>g</aq>)">Sehet wa&sr; über diese Stelle in der Anmerckung <aq>(a)</aq>
+angeführt worden ist. Wobey ich nur anzumercken bitte,
+daß hier allein von der der deutschen Sprache gantz eigenen
+Au&sr;sprache die Frage ist, ob sie in Vergleichung mit an-
+dern Sprachen rauh oder wohlfliessend sey? Davon aber
+haben da&sr; Recht und die Fahigkeit zu urtheilen, alle die-
+jenigen, die Ohren und Lungen haben.</fn> Sie behaupten hingegen, daß man die rei-
+ne Sprache bey ihnen antreffe, und <fn="(<aq>h</aq>)">Vielleicht sieht man damit auf <fr>Carl Gustav He-
+räu&sr;,</fr> Kayserlichen Rath, auch Medaillen- und Antiqui-
+täten-Juspector, dessen <fr>Vorschlag zu Errichtung einer
+deutschen Sprachgesellschaft,</fr> seinen zu Nürnberg A. 1721.
+<cw>in</cw></fn> daß
+man unter ihnen gelehrte Männer kenne, die da&sr;
+<cw>Rich-</cw>
+<fnf>Da wird der Schweitzer an statt Bein, Boan, an statt
+aussen, guse; der Meißner, an statt e&sr; regnet, e&sr; reint,
+an statt ein Bürger, ein Perger; der Schlesier, an statt
+mit dem Gelde, mit dem Galle, an statt ein Bube, ein
+Bübla sagen. Ein Märcker wird da&sr; eu wie oi au&sr;spre-
+chen, z. E. Loßt oich die Müh nicht roien; und da&sr; o wie
+a, z. E. olle oire Sarge werfet uf den Herren; denn er
+sarget für oich. Und kurtz, sie werden von einander un-
+gemein unterschieden seyn. Wollten wir noch vollend&sr; die
+Oesterreicher dazu nehmen: Hilf Himmel! wa&sr; würde
+da&sr; für eine Barbarey werden. Da würde man bey einem
+geschriebenen Blatte erst fragen müssen; wa&sr; e&sr; für eine
+Sprache sey? &2012; &2012; &2012; &2012; Un&sr; scheint also die Regel,
+daß man die Rechtschreibung nach der Au&sr;sprache einrich-
+ten müsse, sehr gefährlich zu seyn, <fr>ehe und bevor man
+diejenige Provinz in Deutschland au&sr;fündig gemacht hat,
+deren Mundart die beste ist; und nach welcher sich alle
+andere richten müssen.</fr></fnf>
+<pb="12"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+Richteramt in dieser Streitsache schon vertreten
+können. Die Bayern, die Brandenburger, ja
+die Schweitzer <fn="(<aq>i</aq>)">Der Hr. Hof- und Ceremonien-Rath <fr>Joh. Ulrich
+König</fr> bekennt in dem Vorbericht zu Hrn. <fr>D. Steinbach&sr;</fr>
+deutschem Wörterbuch: <cit>&201E;Ehe noch einige Gesellschaf-
+&q;ten in unsrem Vaterlande sich hervorthaten, hatten schon
+&q;viele einzele gelehrte Leute manche&sr; zur Aufnahm und
+&q;Erklärung unsrer Sprache beygetragen, ob e&sr; gleich
+&q;nur Stückwerck zu nennen ist. Man kan den <fr>Schwei-
+&q;zern,</fr> den <fr>Schwaben,</fr> und den <fr>Rheinländern</fr> den
+&q;Ruhm nicht abstreiten, <fr>daß sie die ersten gewesen,</fr> die
+&q;hierinne einen Versuch gewaget haben. Wer nur eini-
+&q;germassen weiß, wa&sr; in Zürch und Tübingen, in Aug-
+&q;spurg und Franckfurt von solcher Art Büchern, schon
+&q;in der Mitte und zu Ende de&sr; sech&sr;zehnten Jahrhundert&sr;,
+&q;zum Vorschein gekommen ist, der wird mir seine Bey-
+&q;stimmung in diesem Stücke schwerlich versagen. Der</cit>
+<cw>&q;geleh@te</cw></fn> selber haben eine rechtmassige
+Ansprache auf diese&sr; Vorrecht. E&sr; geht schwer
+zu, daß eine Nation, die so viel Provinzen, die
+<cw>einan-</cw>
+<fnf>in groß Octav zum andern mahl zusammengedruckten Ge-
+dichten angehänget, auch in den <fr>Critischen Beyträgen</fr>
+Stück&2019; <aq>II.</aq> Art. <aq>VII.</aq> Bl. 267. zu finden ist, wo er unter
+anderm also spricht: &201E;Wie e&sr; im Reden ein schwere&sr;
+&q;Begehren seyn würde, daß alle angebohrne Mundar-
+&q;ten sollten in der Au&sr;sprache sich nach einer allein verän-
+&q;dern; wie e&sr; auch, de&sr; unterschiedenen Geschmacke&sr;
+&q;wegen, ein unau&sr;gemachter Streit werden würde; ob
+&q;z. E. die Au&sr;sprache eine&sr; Schlesier&sr;, oder eine&sr; Hol-
+&q;steiner&sr;, der Hochdeutsch redet, angenehmer sey? So
+&q;ist dennoch nicht zu leugnen, daß, so wohl der Nieder-
+&q;sachse, al&sr; der Schlesier, wenn sie eine gute Feder füh-
+&q;ren, in der Orthographie und in den Grundsätzen der
+&q;Sprache einander gleich kommen werden.&201E;</fnf>
+<pb="13"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+einander nicht&sr; zu befehlen haben, in sich enthält,
+sich den Au&sr;sprüchen etlicher weniger Gelehrten
+unterziehe. Da die Deutschen sich in ihren
+Staat&sr;angelegenheiten so schlecht mit einander
+verstehen, werden sie über grammatische Schwie-
+rigkeiten noch stärcker mit einander unein&sr; wer-
+den. Mit den Franzosen hat e&sr; de&sr;fall&sr; eine
+<cw>an-</cw>
+<fnf><cit>&q;gelehrte <fr>Conrad Geßner</fr> allein schrieb schon damahl&sr; so
+&q;viel zur Erläuterung unsrer Muttersprache, daß wir e&sr;
+&q;ihm nicht genug verdancken können. &rr;c.&201E;</cit> Bey dieser
+Beschaffenheit der Sachen könnte man ohne die gröste Un-
+gerechtigkeit die Gelehrten dieser Provinzen Deutschlande&sr;
+ihre&sr; Rechte&sr; und <aq>Arbitrii</aq> über die Sprache nicht entsetzen.
+Jch muß hier noch die Antung beyrücken, welche ein Ge-
+lehrter Schweitzer schon A. 1708. wegen de&sr; eigenmächtig
+angemaßten Richteramt&sr; einiger Hochdeutschen in der Vor-
+rede zu Lauremberg&sr; <aq>Acerra philologica</aq> gethan hat: &201E;Der
+<cit>&q;ist mir ein kleiner Geist, der um orthographischer Fehler
+&q;willen ein Ungewitter erreget, sonderlich in der deutschen
+&q;Sprache, da wir eben kein unwidersprechliche&sr; Modell
+&q;haben, wie hergegen in der lateinischen und griechischen;
+&q;und da noch kein Papst erörtert hat, ob da&sr; Meißnische,
+&q;Hollsteinische oder Alpländische Deutsch da&sr; beste sey,
+&q;wenn solche Nationen darüber disputieren wollten, wie
+&q;sie denn könnten, eine so wohl, al&sr; die andere. Also
+&q;wenn um der beliebten Kürtze willen etwa ein zusammen-
+&q;gesezte&sr; Wort, welche&sr; eben in keinem Opitz oder Schot-
+&q;tel &rr;c. zu finden ist, vorkömmt, oder wenn ein bekannte&sr;
+&q;französische&sr; oder lateinische&sr;, so man mit drey deutschen
+&q;oder einem dunckeln deutschen hätte geben, und sich da-
+&q;rüber eine halbe Viertelstunde besinnen sollen &rr;c. so
+&q;würde mir der wiederum ein müssiger Criticu&sr; seyn, der
+&q;Weile hätte, einen Proceß darüber zu führen, und könn-
+&q;te ich nicht sehen, wa&sr; er gewinnen würde. Z. Ex.</cit>
+<cw>&q;Wenn</cw></fnf>
+<pb="14"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+andere Beschaffenheit, sie machen nur eine Na-
+tion au&sr;, so groß ihr Reich gleich seyn mag;
+und die französische Academie ist von dem Lan-
+de&sr;herrn dazu bevollmächtiget, daß sie dem
+Gebrauche der Sprache Schrancken setze. Man
+muß ihren Au&sr;sprüchen Folge leisten, oder in der
+sranzösischen Sprache unerfahren heissen.</p>
+<p>Die Mühe, welche alle Nationen haben, da&sr;
+Deutsche zu lernen, <fn="(<aq>k</aq>)">Jn dem <aq>II.</aq> Stücke der <fr>Critischen Beyträge,</fr> wo
+<fr>Fr. A. Aepin&sr;</fr> Abhandlung von dem Vorzuge der platt-
+deutschen Mundart in einem Au&sr;zuge vorgeleget wird,
+heißt e&sr; Bl. 320. unter anderm: &201E;Diesem setzet er noch
+&q;al&sr; eine Vortrefflichkeit bey, daß ein Obersachse, wenn
+<cw>&q;er</cw></fn> ist ein starcker Bewei&sr;
+seiner Barbarie. Jch kenne Franzosen, welche
+<cw>mehr</cw>
+<fnf><cit>&q;Wenn ich sage <fr>Object,</fr> nicht aber mit etlichen Neulingen
+&q;<fr>Vorwurff,</fr> so rede ich hier um ein nahmhafte&sr; deutli-
+&q;cher, al&sr; sie; denn e&sr; muß einer erst wissen, wa&sr;
+&q;<fr>Object</fr> ist, bevor er wissen kan, wa&sr; ich durch <fr>Vorwurff</fr>
+&q;verstehe: Sonst dörfte er wohl, wie jener, den Satz:
+&q;<fr>Der Verdienst Christi ist der Vorwurff de&sr; Glauben&sr;,</fr>
+&q;übersetzen: <aq>Exprobratio fidei est meritum Christi.</aq> Der-
+&q;gleichen giebt e&sr; unzählig viel, wodurch die deutsche
+&q;Sprache bi&sr;her nicht verschönert, sondern wohl verdun-
+&q;kelt, und halb arabisch gemachet worden ist. Wer
+&q;de&sr; Herrn von <fr>Stuben erg, Har&sr;dörfer&sr; &rr;c.</fr> Ueber-
+&q;setzungen liest, der ist öfter&sr; genöthiget über die lateini-
+&q;sche, italienische &rr;c. Originale zu gehen, damit er die
+&q;Uebersetzung darau&sr; verstehen lerne. Genug hiervon.&201E;</cit>
+Damit die e&sr; Urtheil nicht verkehrt und mißgedeutet werde,
+so bitte ich nochmahl&sr;, sich zu erinnern, daß dasselbe schon
+A. 1708. au&sr;gesprochen worden, und vor dieselben Zeiten
+sich trefflich wohl schicket.</fnf>
+<pb="15"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+mehr al&sr; vierzig Jahre in diesem Lande sind,
+und doch nicht drey Worte auf Deutsch sagen
+können. Wer ist Schuld daran? Sie oder die
+Sprache? Sie nicht, denn wer will sich ein-
+bilden, daß sich nicht unter einer solchen Menge
+Leute einige finden, welche nicht eine so gelen-
+kige Zunge und einen so lebhaften Kopf haben,
+daß sie eine Sprache reden lernen, wofern sol-
+che geredet werden kan? Jch vor mein Theil
+bekenne, daß ich ungemeine Mühe gehabt habe,
+in eurer Sprache schnattern zu lernen. Dero-
+wegen muß man nur dieselbe dieser beschwerli-
+chen Arbeit anklagen. Jezo will ich noch ande-
+re Bewei&sr;thümer bringen.</p>
+<p>Neben der rauhen Au&sr;sprache giebt denjeni-
+gen, die sich auf die deutsche Sprache legen, nur
+damit sie die Bücher verstehen, ohne daß sie
+eben darinnen reden lernen, die schwere Zusam-
+mensetzung viel zu schaffen. Diese Beschwerde
+ist so groß, daß weder da&sr; Griechische noch da&sr;
+Hebräische dem menschlichen Verstand etwa&sr; so
+schwere&sr; zumuthet. Man zeige mir in diesen
+beyden Sprachen eine Schwierigkeit, welche
+derjenigen zu vergleichen sey, die man mit euren
+Vorsetzwörtern <fr>an, zu, auf, durch, au&sr;,</fr> und
+andern hat, die sich von dem Zeitworte tren-
+nen lassen, und sich zwar so weit von ihm tren-
+<cw>nen</cw>
+<fnf><cit>&q;er auch zwanzig Jahre Plattdeutsch lernte, doch weder
+&q;im Reden noch Schreiben gantz ohne Tadel seyn würde.
+&q;Wenn dem so ist, <fr>so zeiget diese&sr; wohl die Schwie-
+&q;rigkeiten der Mundart an, allein die Schönheit wird
+&q;memand darau&sr; wahrnehmen.</fr></cit></fnf>
+<pb="16"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+nen lassen, daß man sie oft zu Ende einer Seite
+suchen muß, ehe man den Verstand in der Rede
+finden kan. Andremahl setzet man sie mitten in
+einem Satze der Rede, oft vorne am Zeitwort,
+dem sie zukommen, ohne daß man deßwegen ei-
+ne sichere <fn="(<aq>l</aq>)">Mir ist nicht bekannt, daß sich bi&sr;dahin jemand
+gewaget hätte, diese Versetzungen an gewisse Regeln zu
+binden; welche&sr; doch nicht unmöglich wäre. Etwa&sr; we-
+nige&sr; davon ist in <fr>Bödicker&sr;</fr> Grundsätzen der deutschen
+Sprache <aq>IV.</aq> St. §. 56. 57. und 58. Bl. 356. zu finden.
+Dahin gehört auch die mannigfaltige Versetzung der Per-
+son&sr;wörtgen bey den Zeitwörtern; wovon ebenfall&sr; <fr>Bö-
+dicker</fr> in dem <aq>III.</aq> St. §. 41. und dabey <fr>Frischen&sr;</fr> Anmer-
+kungen Bl. 291. nachzusehen sind.</fn> und allgemeine Regel habe, wie
+man damit verfahren solle. Bald bedeuten sie
+etwa&sr;, bald wa&sr; ander&sr;. Zum Exempel, <fr>Ver</fr>
+giebt den Zeitwörtern, zu welchen e&sr; gesetzet
+wird, ich weiß nicht wie vielerley Bedeutungen.
+Setzet e&sr; zu <fr>saufen,</fr> so wird e&sr; bedeuten <fr>sich zu
+Tode saufen. Greifen</fr> heißt so viel al&sr; <fr>nehmen,</fr>
+saget <fr>vergreifen,</fr> so ist da&sr; so viel, al&sr; eine
+Sache nicht am rechten Orte noch mit Recht neh-
+men. <fr>Ver</fr> zu <fr>geben</fr> gesezt, <fr>vergeben,</fr> heißt ver-
+zeihen. Jhr sehet, wie viel verschiedene Be-
+deutungen diese&sr; Vorsetzwort den Zeitwörtern
+giebt, zu denen e&sr; gestellt wird: Bald macht
+e&sr;, daß sie mehr, bald daß sie da&sr; Gegentheil
+von dem sagen, wa&sr; sie sonst ordentlich sagen.
+Jm Französischen ist e&sr; ander&sr;, da&sr; Vorsetz-
+wort <aq><i>De&sr;</i></aq> heißt allemahl da&sr; Gegentheil, und
+niemahl&sr; wa&sr; ander&sr;, <aq>apprendre, desappren-
+dre; unir, desunir, &amp;c.</aq></p>
+<cw>Die</cw>
+<pb="17"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+<p>Die Deutschen suchen einen Ruhm darinnen,
+daß sie ihre Sprache mit fremden Wörtern nicht
+vermischen. Vor etlichen Jahren sagte man
+nicht vier Worte im Deutschen, daß man nicht
+zwey französische hätte mitlauffen lassen. Da&sr;
+war damahl&sr; die herrschende Mode. Die Ge-
+lehrten verwarffen diesen Mißbrauch, eine un-
+endliche Menge platter Narrenpossen kam zum
+Vorschem, womit man ihn lächerlich machen
+wollte. Ein grosser Herr machte ein Staat&sr;-
+geschäfte darau&sr;, <fn="(<aq>ll</aq>)">Dieser glückliche Umstand für die deutsche Spra-
+che hat sich seit der Zeit insoweit geändert, daß der Selbst-
+halter der deutschen Heldensprache vor nöthig geachtet hat,
+seine angebohrnen Herren und Lande&sr;fürsten durch folgen-
+den mehr lächerlichen al&sr; unehrerbietigen Verwei&sr; beschämt
+zu machen: <cit>&201E;Wenn auch Attila, sagt er, seine unstrei-
+&q;tig barbarische Sprache so geliebet, daß er sie au&sr;zu-
+&q;breiten und seinen Ueberwundenen anfzudringen gesucht;
+&q;um wie viel ist dieser wilde Sieger nicht einigen Printzen
+&q;überlegen, die ihre Muttersprache eher au&sr;rotten, al&sr;
+&q;au&sr;breiten; lieber selbst verachten und vergessen, al&sr;
+&q;andern anzupreisen und sie fortzupflantzen suchen?
+&q;Wie schlecht muß man nicht von seinem Vaterlande ur-
+&q;theilen, wenn man auch nur in diesem Stücke ein Feind
+&q;desselben seyn, und die Sprache einer Handvoll armse-
+&q;liger Flüchtlinge, die bey un&sr; Brodt und Schutz gesu-
+&q;chet haben, seiner eigenen vorziehen kan: Da doch
+&q;Barbarn auch die Sprache de&sr; Lande&sr;, welche&sr; sie ver-
+&q;lassen hatten, noch beybehalten und beliebet haben.&201E;</cit>
+Sehet Baylen&sr; verdeutschte&sr; Wörterbuch im Artickel At-
+tiliu&sr; <aq>(F)</aq> *</fn> und verbot bey einer star-
+ken Geldstraffe, daß französische Wörter unter
+<bs>B</bs><cw>die</cw>
+<bs>[Crit. Sa&tm;l. <aq>V.</aq> St.]</bs>
+<pb="18"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+die deutschen gemischt würden. Wa&sr; entstuhnd
+daher? Man mußte für die au&sr;gemerzten Wör-
+ter neue erfinden, <fn="(<aq>m</aq>)"><fr>Heräu&sr;</fr> in seinen <fr>Gedancken von Errichtung ei-
+ner deutschen Sprach-Gesellschaft</fr> sagt von der Einfüh-
+rung guter Wörter: <cit>&201E;Dabey ist die billige Behutsamkeit
+&q;zu gebrauchen, daß man 1.) alle fremde Worte, wenn
+&q;sie mit gleichem Nachdruck nicht können gegeben wer-
+&q;den, insonderheit die Kunstworte nicht eigensinnig ver-
+&q;banne, wie sich einige der Fruchtbringenden Gesellschaft
+&q;zum Nachtheil de&sr; ersten guten Absehen&sr; mit Au&sr;wech&sr;-
+&q;lung de&sr; Wort&sr; <fr>Uebersetzer</fr> für einen Circkel, <fr>Tagleuch-
+&q;ter</fr> für ein Fenster &rr;c. lächerlich gemacht. Sondern die-
+&q;selben vielmehr nach dem Beyspiel aller andern Völcker,
+&q;mit Verleihung de&sr; Bürgerrecht&sr; in die deutsche Spra-
+&q;che aufnehme, und mit deutschen Buchstaben gleichsam
+&q;in einer gleichen Tracht mit andern ununterbrochenen Zei-
+&q;len aufführe.&201E;</cit> Siehe da&sr; <aq>II.</aq> Stück der <fr>Critischen
+Dichtkunst</fr> Bl. 278. Jn demselben Tone lautet, wa&sr; der
+Herr <fr>von Leibnitz</fr> in seinen <fr>Gedancken von Verbesserung
+der deutschen Sprache</fr> §. 15. 16. und 17. aufgezeichnet
+hat, wo e&sr; heißt: &201E;Jn Ansehung derjenigen Wörter, die
+un&sr; mangeln, hätte man fürnehmlich auf deren Ersetzung,
+oder wenn sie schon verhanden, aber vergessen und unbe-
+kannt, auf deren Wiederbringung zu gedencken, und wo
+sich dergleichen nicht&sr; ergeben will, einigen guten Wörtern
+<cw>der</cw></fn> man vermehrte die
+Schwierigkeiten und Undeutlichkeiten, weil die-
+se neugeprägten Wörter au&sr; vielen andern zu-
+sammengesezt sind, die so zusammengesezt nur
+eine flüchtige und allgemeine Bedeutung formie-
+ren. Zum Exempel, die Deutschen brauchten
+vor diesem unser Wort <fr>Lakey,</fr> einen Hau&sr;ge-
+nossen zu bezeichnen, der seinem Herrn folget,
+wenn er au&sr;gehet: izt sagen sie <fr>Nachtreter.</fr> Jst
+<cw>etwa&sr;</cw>
+<pb="19"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+etwa&sr; weniger bestimmte&sr; auf der Welt? Fragt
+man nach der Ursache dieser Au&sr;merzung, so
+sagen sie un&sr;: Unsre Sprache hat einen solchen
+Ueberfluß an eigenen Wörtern, daß sie de&sr; Bey-
+stande&sr; anderer Sprachen nicht nöthig hat. Da&sr;
+ist falsch. Die deutsche Sprache ist bey allem
+ihrem Ueberflusse gantz arm. Wie reimt sich
+da&sr; zusammen? Jch will e&sr; sagen. E&sr; giebt in
+dieser Sprache viele Wörter, die nur eine Sache
+bedeuten; hingegen giebt e&sr; unzählige Sachen,
+die im Deutschen keinen Nahmen haben, und
+die man mit fremden Wörtern benennen muß,
+oder doch mit Umschreibungen <fn="(<aq>n</aq>)">Der Hr. Baron <fr>von Leibnitz</fr> sagt in der oben an-
+geführten Schrift §. 59. &201E;E&sr; kan zwar endlich eine jede
+<cw>Spra-</cw></fn> oder zusam-
+<bs>B 2</bs><cw>sam-</cw>
+<fnf>der Au&sr;länder da&sr; Bürgerrecht zu verstatten. So hat e&sr;
+demnach die Meinung nicht, daß man in der Sprache zum
+Puritaner werde, und mit einer abergläubischen Furcht ein
+fremde&sr;, aber bequeme&sr; Wort, al&sr; eine Todsünde ver-
+meide, dadurch aber sich selbst entkräfte, und seiner Rede
+den Nachdruck nehme; denn solche allzu grosse Scheinrei-
+nigkeit ist einer durchbrochenen Arbeit zu vergleichen, dar-
+an der Meister so lange feilet und bessert, bi&sr; sie endlich
+gar verschwächet, welche&sr; denen geschieht, die an der Per-
+fectie-Kranckheit, wie e&sr; die Holländer nennen, danie-
+derliegen. Jch erinnere mich gehört zu haben, daß wie
+in Franckreich auch dergleichen Reindünckler aufgekommen,
+welche in der That, wie Verständige anizo erkennen, die
+Sprache nicht wenig ärmer gemacht; da solle die gelehrte
+Jgfr. von Journay, de&sr; berühmten Montagne Pflegetoch-
+ter gesagt haben: Wa&sr; diese Leute schreiben, wäre <aq>un
+bouillon d&2019;eau claire,</aq> nemlich ohne Unreinigkeit und ohne
+Kraft.&201E;</fnf>
+<pb="20"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+mengesezten Wörtern. Wa&sr; die Deutschen
+vermag, die au&sr;ländischen Wörter zu verwerf-
+fen, ist nicht&sr; ander&sr;, al&sr; daß die deutsche En-
+dung etwa&sr; so sonderbare&sr; hat, daß sie mit den
+Endungen der fremden Wörter nicht zurechte
+kommen kan. Jm Französischen findet man die
+fremden Endungen zu seinem Gebrauche sehr be-
+quem, man macht nur eine kleine Aenderung
+daran; kurtz man giebt ihnen ein französische&sr;
+Au&sr;sehen, daß e&sr; schwer fällt, ihren Ursprung
+zu erkennen. Da nun die französische Sprache
+viele sanfte und leichte Endungen hat, so kan
+sie sich die Wörter anderer Sprachen eigen ma-
+chen, und sie so geschickt naturalisieren, daß man
+dächte, sie hätten ihr von Alter&sr; her zugehöret.
+Mit dem Deutschen hat e&sr; eine andere Bewandt-
+niß. Die Endungen darinnen sind in sehr klei-
+ner Anzahl, und sind daneben so wild, daß man
+unmöglich fremde Wörter darauf pfropfen kan.
+Alle deutschen Zeitwörter, nicht ein einzige&sr; au&sr;-
+genommen, enden auf en, die meisten Haupt-
+wörter auf <fr>aft,</fr> und die Beywörter auf <fr>lich.</fr>
+Jn Ansehung der ersten helffen sie sich ziemlich
+<cw>gut,</cw>
+<fnf>Sprache, sie sey so arm al&sr; sie wolle, alle&sr; geben. Al-
+lein obschon alle&sr; endlich durch Umschweife und Beschrei-
+bungen bedeutet werden kan, so verliert sich doch bey sol-
+cher Weitschweifigkeit alle Lust, aller Nachdruck in dem
+der redet, und in dem der hört; dieweil da&sr; Gemüthe zu
+lange aufgehalten wird, und e&sr; herau&sr;kömmt, al&sr; wenn
+man einen, der viele schöne Paläste besehen will, bey ei-
+nem jeden Zimmer lange aufhalten, und durch alle Win-
+kel herumschleppen wollte.&201E;</fnf>
+<pb="21"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+gut, indem sie nur iren hinten an alle fremden
+Zeitwörter setzen; allein diese <fr>iren</fr> kommen so
+häufig wieder, daß sie eine sehr widerliche Gleich-
+heit im Tone verursachen. Wa&sr; die Haupt-
+wörter und Beywörter belangt, so sie au&sr; den
+fremden Sprachen nehmen, so haben sie im
+Deutschen keine angenehmere Würckung, weil
+man genöthiget ist, ihnen ihre eigene Endung
+zu lassen, welche&sr; einen lächerlichen Uebelton
+verursachet.</p>
+<p>Jrre ich nicht, so ist diese&sr; die wahre Ursache,
+daß die Deutschen den au&sr;ländischen Wörtern
+keinen Platz in ihrer Sprache einräumen wollen,
+wenn diese ihnen gleich anständig genug sind.
+E&sr; ist ein blosser Eigenruhm, daß die deutsche
+Sprache so reich sey, daß sie nicht <fn="(<aq>o</aq>)">Derselbe Hr. <fr>von Leibnitz</fr> hat un&sr; einen Probier-
+stein gewiesen, daran wir den Reichthum einer Sprache
+prüffen können: &201E;Diejenige Sprache, sagt er, ist die
+reichste und bequemste, welche am besten mit wörtlicher
+Uebersetzung zurechte kommen kan, und dem Original Fuß
+vor Fuß zu folgen vermag: <fr>Allein bey der deutschen Spra-
+che ist hierinn kein geringer Abgang zu spüren.&201E;</fr> Jch
+kan bey diesem Anlasse nicht umhin zu zeigen, in welchen
+Widerspruch einige neuere deutsche Sprachrichter mit ihren
+ungewissen Urtheilen und Lobe&sr;erhebungen von der Voll-
+kommenheit der deutschen Sprache gegen einander zerfallen.
+<fr>Stieler</fr> in seinem <fr>Stammbaum der deutschen Sprache</fr>
+sagt: &201E;Daß unser hochwerthe&sr; Deutsch schon izo dem
+majestätischen Lateine, dem unerschöpflichen Griechischen,
+dem <fr>leichtfliessenden</fr> Französischen, und dem tiefsinnigen
+Welschen und Spanischen die Spitze bieten kan. Gleich-
+<cw>wohl</cw></fn> nöthig
+habe, etwa&sr; von fremden zu entlehnen. Die
+<bs>B 3</bs><cw>reich-</cw>
+<pb="22"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+reichsten Sprachen sind voll fremder Au&sr;drücke,
+die griechische Sprache selbst ist davon nicht ge-
+säubert. Ein vornehmer Verständiger in der-
+selben, der Hr. Dacier, sagt e&sr;; und wenn
+man die Mühe nehmen will, sich in der deutschen
+Sprache umzusehen, so wird man bald wahr-
+nehmen, daß viele Wörter darinnen, die man
+ihr ohne Bedencken al&sr; ihr eigen zuspricht, von
+dem Lateinischen entspringen. E&sr; ist offenbar,
+<cw>daß</cw>
+<fnf>wohl ist noch viele&sr; zurückgelassen.&201E; Siehe <fr>Critische Bey-
+träge</fr> <aq>XIII.</aq> Stück Bl. 6. Nach diesem Au&sr;spruche giebt
+die deutsche Sprache an Majestät, unerschöpflichem Reich-
+thum, Leichtflüssigkeit und Tiefsinnigkeit keiner andern nicht&sr;
+nach; und doch ist sie bey allen diesen Vollkommenheiten
+noch mangelhaft. <fr>Cramer</fr> in seinem <fr>Wörterbuche</fr> sagt:
+&201E;Die deutsche Sprache ist al&sr; eine Grundsprache, an sich
+regelmässig und vollkommen. &2012; &2012; &2012; &2012; &2012; &2012; &2012; Ob
+e&sr; gleich allerding&sr; zuviel gethan wäre, wenn man sagen
+wollte, daß sie zu gegenwärtigen Zeiten in der allerhöch-
+sten und vollkommensten Blüthe stühnde, also daß sie nie-
+mahl&sr; höher getrieben werden könnte: So ist doch so viel
+au&sr;gemacht, daß sie derselben fast täglich näher rücket.
+&2012; &2012; &2012; &2012; Man wird mit Vergnügen gewahr, wie sich
+fast alle Messen die Anzahl deutscher Schriften (<fr>aber we-
+niger Originale</fr>) vermehret, welche in der That für Mu-
+ster einer schönen Schreibart in gebundener und ungebun-
+dener Rede gelten, und den netten Au&sr;arbeitungen sinn-
+reicher Au&sr;länder an die Seite gestellt werden (<fr>können</fr>).
+Unsre Land&sr;leute werden immer begieriger, dieselbigen zu
+lesen, und legen da&sr; <fr>lächerliche</fr> Vorurtheil allmählig ab,
+al&sr; wenn nur allein in den Schriften der Griechen und Rö-
+mer, der Jtaliener und Franzosen etwa&sr; kluge&sr;, etwa&sr;
+erbauliche&sr;, und etwa&sr; aufgeweckte&sr; anzutreffen wäre.&201E;
+Siehe da&sr; <aq>XI.</aq> Stück der <fr>Critischen Beyträge.</fr> Wenn
+<cw>aber</cw></fnf>
+<pb="23"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+daß <fr>Schreiben</fr> von <aq>Scribere;</aq> <fr>Lesen</fr> von <aq>Lege-
+re;</aq> <fr>Arm</fr> von <aq>Armu&sr;;</aq> <fr>Spatzieren</fr> von <aq>Spatiari,</aq>
+kommen: Und so ist e&sr; mit noch unzähligen be-
+schaffen.</p>
+<p>Jch würde euch zu verdrüßlich fallen, wenn
+ich mich weiter über diese Materie einlassen woll-
+te. Ehe ich aber schliesse, muß ich euch ein Paar
+Worte von den Schönheiten der deutschen Spra-
+<bs>B 4</bs><cw>che</cw>
+<fnf>aber die meisten von diesen neuherau&sr;kommenden deutschen
+Schriften keine Originale, sondern Uebersetzungen sind,
+so ist die Frage, wieferne dieselben, wenn man sie an dem
+von Hrn. Leibnitzen angewiesenen Probiersteine prüfet, eine
+Probe von dem Reichthum der deutschen Sprache ablegen.
+Und e&sr; wäre zu wünschen, daß die Deutschen durch da&sr;
+Vorurtheil, welche&sr; Hrn. Cramer so lächerlich vorkömmt,
+verleitet würden, da&sr; Kluge und Aufgeweckte in den Schrif-
+ten der Griechen und Römer &rr;c. eifriger zu suchen, welche&sr;
+sie auch darinnen eher und häufiger al&sr; bey den Deutschen
+finden würden; al&sr;dann wollte ich ihnen diese&sr; lächer-
+liche Vorurtheil und diesen nützlichen Jrrthum gerne verzei-
+hen. Da&sr; dritte Zeugniß ist de&sr; ungenannten Verfasser&sr;
+der <fr>Abhandlung von der Natur</fr> der <fr>deutschen Sprache</fr>
+in dem <aq>VIII.</aq> Stücke der <fr>Critischen Beyträge</fr> Bl. 624.
+&201E;E&sr; ist mit der deutschen Sprache noch nicht zu der Voll-
+kommenheit gediehen, die man doch erlangen kan und
+wird. &2012; &2012; &2012; &2012; &2012; &2012; E&sr; ist nicht zu leugnen, daß
+wir noch zuweilen einen Mangel an guten Wörtern verspü-
+ren, welchen man sonderlich bey dem Uebersetzen mercket;
+und e&sr; fehlt un&sr; in&sr;besondere an genugsamen zufälligen
+Nahmen oder Beywörtern, dadurch man geschickt wird,
+kurtz, deutlich und hinlänglich sich au&sr;zudrücken. Dan-
+nenhero man unnöthige Wörter abschaffen, und neue ein-
+führen muß, die entweder von guten deutschen Wörtern
+zu machen, au&sr; den veralteten und Provinzialwörtern her-
+au&sr;zusuchen, oder von fremden anzunehmen sind.&201E;</fnf>
+<pb="24"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+che sagen; denn e&sr; sind nicht alle&sr; Mängel in
+derselben. <fn="(<aq>p</aq>)">Hr. M. <fr>Schwabe</fr> hat noch erst neulich in seiner
+Uebersetzung von <fr>Rollin&sr; Anweisung</fr> in dem eilften Ab-
+schnitte de&sr; Hauptstück&sr;, welche&sr; von Erlernung der deut-
+schen Sprache handelt, von den Mängeln der deutschen
+Sprache also geurtheilet: &201E;E&sr; fehlt dieser Sprache die
+Kraft <fr>kurtz</fr> und <fr>nachdrücklich</fr> zu reden; sie weiß gemei-
+nen Wörtern keine erhabene Bedeutung zu geben; sie hat
+für die gebundene und ungebundene Rede nur einerley
+Wörter, sie ist gar zu sehr gebunden, und läßt selten die
+Freyheit zu, die Wörter zu versetzen; sie muß sich in ih-
+ren Zeitwörtern so vieler Hülf&sr;wörter bedienen; sie muß
+die Schönheiten entbehren, welche die <aq>Participia</aq> und <aq>Ge-
+rundia</aq> in eine Sprache bringen können, und de&sr;wegen
+ist sie vieler Vortheile beraubt, welche die Hauptschönheit
+der griechischen und lateinischen Sprache au&sr;macheten.&201E;
+Siehe da&sr; <aq>XVIII.</aq> Stück der <fr>cririschen Beyträge.</fr> Von die-
+sem letzten Mangel muß ich noch ein par Zeugnisse anfüh-
+ren. Jn dem <aq>XIX.</aq> Stücke der <fr>critischen Beyträge,</fr> wo
+<fr>Hofmann&sr; Bücher von der Zufriedenheit</fr> nach der neuen
+und verbesserten Auflage angepriesen werden, heißt e&sr; un-
+ter anderm Bl. 511. &201E;E&sr; ist bey ihm nicht&sr; ungewöhn-
+liche&sr;, daß er durch die Mittelwörter kürtzer zu schreiben,
+und zween Sätze in ein&sr; zu ziehen suchet. Wie aber die-
+se&sr; <fr>im Dentschen noch nicht recht klingen will,</fr> ob sich
+gleich unterschiedene, sonderlich in Versen, bemühet ha-
+ben, solche&sr; einzuführen: So hat auch der Herau&sr;geber
+diese&sr; geändert, anstatt, daß e&sr; also in den alten Au&sr;-
+gaben auf der 20sten Seite heißt: <fr>Die Fantasey, durch
+die Sinne gereitzt, und durch die heftigen Begierden be-
+<cw>tro-</cw></fr></fn> Da&sr; Deutsche hat die Freyheit,
+wie da&sr; Lateinische, daß e&sr; seine Wortfügun-
+gen ändern kan. Jch habe davon in meinem
+Briefe von der französischen Sprache ein Paar
+Worte <fn="<aq>(pp)</aq>">Er sagt daselbst: Man kan auf Deutsch sagen;
+<fr>den Menschen hat Gott gemachet,</fr> und, <fr>Gott hat den
+Menschen gemachet.</fr> Hingegen müssen wir sagen: <aq>Dieu
+a fait l&2019;homme.</aq></fn> gesagt.</p>
+<cw>Neben</cw>
+<pb="25"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+<p>Neben diesem Vortheil hat die deutsche Spra-
+che noch diesen, daß sie reicher ist, ungeachtet sie
+nicht gleich so viel Sachen mit eigenen Nahmen
+geben kan. Ferner hat sie da&sr; Privilegium,
+daß sie sich nicht an gewisse Au&sr;drücke vor andern
+binden darf. Zum Exempel wenn man sagen
+<bs>B 5</bs><cw>will:</cw>
+<fnf><fr>trogen, half kräftig zu dieser Unordnung:</fr> Steht in der
+neuen: <fr>Die Fantasey wurde durch die Sinne gereitzt
+und durch die heftigen Begierden betrogen, beyde aber
+halffen kräftig zu dieser Unordnung.</fr> Welche&sr; denn
+auch weit verständlicher klinget. &rr;c. &rr;c. Hergegen auf der
+448sten Seite in der <fr>Beantwortung wegen der Unvollkom-
+menheit der deutschen Sprache,</fr> wird der Mangel der
+Schönheit, welche die <aq>Participia</aq> in eine Sprache bringen,
+damit beantwortet: &201E;Unsre Poeten haben bereit&sr; den Ge-
+brauch der Mittelwörter vielmahlen so glücklich gewaget,
+<fr>daß e&sr; kein Zweifel ist, unsre Sprache werde sich end-
+lich auch dazu bequemen.&201E;</fr> Allein die Schuld liegt nicht
+an der Sprache, angesehen dieselbe zu de&sr; grossen Opitzen&sr;
+Zeiten und zuvor so wohl in gebundener al&sr; ungebundener
+Rede den freyen und uneingeschränckten Gebrauch der Mit-
+telwörter gehabt hat, wie in dem <fr>Wercke von den poeti-
+schen Gemählden,</fr> und in dem 2ten Theile der <fr>critischen
+Dichtkunst</fr> mit mehrerm dargethan worden: Und wenn
+man Hoffnung machen darf, daß sie sich auch in Zukunft
+dazu bequemen werde, so gestehet man zu, daß die Na-
+tur der Sprache dem Gebrauche derselben nicht im Wege
+stehe. Man hat also diesen Abgang, und den Wider-
+stand, den die Einführung derselben in die deutsche Sprache
+bi&sr;dahin erlitten, alleine der Nachlässigkeit einiger seichten
+Köpfe zu dancken, die emer affectierten wohlfliessenden
+Waschhaftigkeit den Nachdruck aufgeopfert haben.</fnf>
+<pb="26"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+will: <fr>Man hat ihn getödet,</fr> so kan man wohl
+sagen, <fr>man hat ihn abgethan.</fr> Die Lateiner
+sagten: <fr>Man hat ihn kalt gemachet;</fr> und im
+Deutschen bedient man sich diese&sr; Au&sr;drucke&sr;
+ebenfall&sr;, und noch vieler andern, die eben das-
+selbe sagen. Wa&sr; der Deutsche au&sr;drücken kan,
+da&sr; drückt er auf verschiedene Weise au&sr;, und
+darf weder die Puristen noch die spitzfündigen
+Köpfe fürchten, die nicht&sr; al&sr; tadeln können,
+und mehr auf dem halten, wa&sr; in der Sprache
+neu, al&sr; auf dem, wa&sr; darinnen bequem und
+brauchbar ist. Die Deutschen können in ihrer
+Sprache <aq>ma Sororit&00E9;</aq> sagen, wenn sie <fr>alle ihre
+Brüder und Schwestern</fr> andeuten wollen; <aq>ma
+Valetterie,</aq> wenn sie sagen wollen, <fr>alle meine
+Knechte.</fr> Nicht&sr; steht ihnen im Wege, daß sie
+in dem gemeinen Umgange Wörter schmieden,
+und niemand widersezt sich ihnen, statt daß un-
+ter unsren Franzosen allemahl irgend ein kleiner
+Hofmeister ist, der euch bey allen Reden&sr;arten
+in&sr; Wort fällt, euch zu erinnern, daß diese&sr;
+und jene&sr; Wort dem herrschenden Gebrauche zu-
+wider läuft.</p>
+<p>Jn der deutschen Sprache geht e&sr; auch an,
+so wohl al&sr; in der griechischen, daß man ein
+Wort au&sr; viel andern zusammensetzen, und die-
+se zusammengesezten Wörter ohne Ende vermeh-
+ren kan. Sie ist voller verkleinernder Wörter,
+und e&sr; ist kaum ein Wort, au&sr; welchem sie mit-
+telst Zusetzung der Sylbe <fr>gen,</fr> oder lein, nicht
+ein verkleinernde&sr; machen könne. Wäre sie
+bey allen diesen Vortheilen so sanft, so zierlich,
+<cw>und</cw>
+<pb="27"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+und so prächtig, al&sr; die französische, so könnte
+sie der griechischen und der lateinischen beykom-
+men. Aber weit gefehlt, daß ihr diese Eigen-
+schaften zukommen. Jhre verkleinernden Wör-
+ter sind öfter&sr; harter, al&sr; die ursprünglichen;
+und e&sr; ist etwa&sr; widerliche&sr;, daß man auf eine
+ungemeine Weise mit der Brust arbeiten muß,
+die meisten deutschen Wörter au&sr;zusprechen, e&sr;
+sey denn, daß man ein gebohrner Deutscher sey.
+Die Gewohnheit eurer Deutschen, die Au&sr;län-
+der, die ihre Sprache reden wollen, in&sr; Ange-
+sicht au&sr;zulachen, ist auch nicht da&sr; rechte Mit-
+tel ihnen einen Muth zu machen.</p>
+<p>Jch habe Deutsche gesehen, die sich sehr breit
+damit macheten, daß e&sr; andern Nationen so
+sauer wird, ihre Sprache zu reden; und die au&sr;
+Furcht, daß sie keine würcklichen Schönheiten
+darinnen finden mögten, sich damit behalffen,
+daß sie diesen Fehler al&sr; etwa&sr; schöne&sr; anprie-
+sen. Viel deutsche Gelehrte haben mir gantz
+dreuste gesagt, die französische Sprache verdien-
+te nicht, daß man sie lernete, weil sie so gar
+leicht wäre. Sonst hatte ich allezeit geglaubt,
+die allzu schweren und mühsamen Sprachen ver-
+dienten nicht, daß man sich bemühete, sie zu
+lernen.</p>
+<p>Der Fürst von &2026; sagte eine&sr; Tage&sr; zu mir,
+e&sr; verdrösse ihn, daß er Französisch gelernt hätte,
+weil e&sr; allzu gemein worden wäre. Demnach
+müßte man im Gegentheil nur die unbekannten
+Sprachen lernen, und also hätte dieser Herr
+da&sr; <aq>Ba&sr;-Breton</aq> lernen sollen. Jhre Hoheit
+<cw>war</cw>
+<pb="28"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+war weit nicht der Meinung derjenigen Gelehr-
+ten, welche sich bemüheten, eine Sprache zu er-
+finden, die au&sr; sehr wenig leichten Wörtern be-
+stühnde, damit alle Nationen ohne Dollmetschen
+mit einander handeln könnten. Zu dem Ende
+hätte man gegen alle vier Winde Leute au&sr;schi-
+ken müssen, welche diese Sprache vollkomment-
+lich besessen, damit sie in selbiger die Leute unter-
+richteten, die zur Kaufmannschaft gewidmet wa-
+ren, oder auf Gesandtschaften sollten gebraucht
+werden. Wäre diese&sr; Vorhaben au&sr;geführt wor-
+den, so dürfte der Wienerische Hof nicht junge
+Leute nach Constantinopel schicken, die türckische
+Sprache zu lernen. Der grosse Herr, von dem
+ich geredet habe, hätte vermuthlich diese&sr; Vor-
+nehmen und diese Sprache mit noch grösserer
+Hitze verworffen, weil sie zweifel&sr;frey noch weit
+gemeiner worden wäre, al&sr; die französische
+Sprache.</p>
+<p>Man kan nicht leugnen, daß die ernsthaften
+Sprachen, wie die deutsche von dieser Art ist,
+nicht sollten langsam und deutlich geredet wer-
+den. Jndessen reden die Sachsen mit einer ge-
+schwinden Ueberweltzung <fn="(<aq>q</aq>)">Der oben angezogene Verfechter de&sr; Plattdeut-
+schen <fr>Fr. A. Aepin</fr> hat darüber eine Antung gemachet:
+&201E;Die Meißner sind von der wahren Au&sr;sprache so sehr
+abgewichen, daß man glauben sollte, e&sr; wären nicht
+Nachkommen der tapfern Deutschen; sondern vielmehr
+schwache Weib&sr;bilder. &2012; &2012; &2012; Will man nach dem Be-
+<cw>weise</cw></fn> der Wörter, wel-
+che etwa&sr; stammelnde&sr; mit sich führt; und alle
+<cw>andere</cw>
+<pb="29"/>
+<kt><b>von der deutschen Sprache.</b></kt>
+andere Deutschen können sie nicht verstehen.
+Sie thun diese&sr;, damit sie ihrer Sprache etwa&sr;
+sanfte&sr; mittheilen, da&sr; ihr nicht eigen ist, und
+sie verderbt. Man muß den Franzosen und den
+Jtalienern da&sr; Lebhafte und da&sr; Sanftfliessende
+in der Sprache lassen; aber da&sr; Deutsche und
+da&sr; Spanische muß man mit Ernst und Hoheit
+reden, wenn man sie nach seiner Würde reden
+will; sonst bekommen sie durch eine Flüssigkeit
+der Au&sr;sprache, die ihnen nicht natürlich ist,
+ein gantz lächerliche&sr; Au&sr;sehen.</p>
+<fnf>weise fragen, so ist e&sr; dieser, daß man fast in allen Wor-
+ten ein gar nicht männliche&sr; Gezisch nach Art der Franzo-
+sen hören lasse, und also da&sr; männliche Wesen der deut-
+schen Sprache gantz unterdrücke, nachdem man sich so
+starck auf da&sr; Französische geleget.&201E; Und etwa&sr; weiter-
+hin: &201E;Da Niedersachsen gegen Norden liegt, so sollte
+man eher meinen, daß die Einwohner von Natur zu einer
+ernsthaften und männlichen, oder, wie sie die Verächter
+nennen, rauhen und harten Sprache geneigt wären, al&sr;
+zu der fast weibischen und zischenden Meißner Mundart.&201E;</fnf>
+<cw><b>De&sr;</b></cw>
+<pb="30"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+<hr>
+<d2><b>De&sr; Herrn von Mauvillon Brief
+von den deutschen Poeten.</b></d2>
+<p><in>E</in>Ure Nachbarn haben sich bi&sr;dahin einge-
+bildet, eure Sprache wäre Schuld dar-
+an, daß ihr keine guten Poeten hättet.
+Jn diesen Gedancken steht der Urheber der <fr>Jü-
+dischen</fr> Briefe, der, wiewohl er sonst viel gu-
+te&sr; hat, sich in diesem, wie in viel andern Din-
+gen, betrogen hat. Giebt e&sr; denn eine Spra-
+che in der Welt, die einen treflichen Poeten au&sr;
+einem Menschen machen könne, der von Natur
+kein Geschicke dazu hat? Man müßte thörigt
+seyn, wenn man diese&sr; nur gedencken wollte.
+Und wie kan man begreiffen, daß eine Sprache
+sey, die erhabenen Geistern im Wege stehe,
+und sie hindere, daß sie sich nicht emporschwin-
+gen können? Demnach müssen e&sr; eure Poe-
+ten nicht der deutschen Sprache zur Last legen,
+daß sie in einem so schlechten Ansehen stehen. E&sr;
+fehlt ihr weder an Nachdruck noch an Au&sr;drü-
+kungen. Sie klingt zwar nicht lieblich in den
+Ohren; aber wa&sr; thut da&sr; dem schönen Gedan-
+ken, und der geschickten Au&sr;bildung derselben?
+Besteht etwann die Schönheit der Poesie über-
+haupt nur in der Lieblichkeit der Sprache; und
+nicht vielmehr in gründlichen Gedancken, in arti-
+gen und geschickten Au&sr;bildungen? Wer darf
+nun behaupten, daß die deutsche Sprache sich
+zu diesen Sachen nicht schicke? Hat sie denn
+<cw>eine</cw>
+<pb="31"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+eine Abneigung dagegen? Und woher kömmt
+diese?</p>
+<p>Wa&sr; fehlt Deutschland denn, daß e&sr; keine
+grossen Poeten hervorbringt? Nicht&sr; al&sr; Geist.
+<fn="(<aq>A</aq>)"><d><fr>Uebereinstimmende Zeugnisse und Anmerckungen.</d>
+Diese Anklage wegen Mangel&sr; an Geist beziehet
+sich nur auf die Wercke der Poesie und Beredsamkeit.
+Man ist nicht so unbescheiden, daß man der gantzen deut-
+schen Nation, oder einem jeden Gliede derselben in&sr;beson-
+dere die Fähigkeit geistreich zu seyn und zu werden hiermit
+absprechen wolle: Man gläubt gar gerne, daß unter de-
+nen, die nicht schreiben, sich viele befinden, die weit
+besser im Stande wären, die Ehre de&sr; deutschen Witze&sr;
+zu retten, al&sr; die grosse Zahl derjenigen ist, die sich bi&sr;-
+dahin eigenmächtig zu Verfechtern de&sr; deutschen Geschmack&sr;
+aufgeworffen, und durch eine Menge Schriften diese An-
+klage zwar zu zernichten gesucht, aber in Wahrheit grösten-
+theil&sr; damit noch mehr gestärcket, und gleichsam gerecht-
+fertiget haben. Wenn da&sr; blosse Vorhaben ein Urtheil von
+dem Witze und dem Geist einer gantzen Nation in Verglei-
+chung mit andern zu fällen, nicht schon an sich selbst strafbar
+ist; so mögte ich wohl wissen, wie einer, der diese&sr; Vor-
+haben würcklich au&sr;zuführen gesinnet ist, e&sr; anderst anstel-
+len könne, al&sr; daß er sein Urtheil auf die Art und Be-
+schaffenheit derjenigen gedrückten Schriften gründe, die von
+andern al&sr; Muster der geistreichen Schreibart und al&sr; Prob-
+stücke de&sr; feinen Witze&sr; angepriesen werden. Und dann
+gilt bey dergleichen Urtheilen auch da&sr; bekannte; <aq>&00E0; potiori
+fit denominatio:</aq> Wobey dennoch wohl bestehen kan, daß
+da&sr; eine und andere Stücke unter einer grossen Menge
+schlechte&sr; Zeug&sr; etwann wohl ein Beweißthum von der Fä-
+higkeit de&sr; deutschen Witze&sr; abgeben könnte, wenn dersel-</fr>
+<cw>be</cw></fn> Haltet mir e&sr; zu gut, wa&sr; ich zum Beweise
+dessen sagen muß. Die Deutschen sind ansehn-
+<cw>liche</cw>
+<pb="32"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+liche Männer, sie sind groß, wohlgestaltet, und
+von starcken Gliedmassen; aber mit ihrer Ver-
+günstiguug zu sagen, da&sr; Sprüchwort lüget sie
+noch nicht an, <aq>homo longu&sr;, raro sapien&sr;.</aq>
+Die Natur hat sie mit den Vortheilen de&sr; Cör-
+per&sr; zum Ueberflusse begabet, e&sr; wäre zuviel ge-
+wesen, wenn sie ihnen auch noch Witz und Geist
+eben so reichlich zugetheilt hätte. Sie ist zu klug,
+al&sr; daß sie so viele treffliche Sachen zusammen
+nur bey einer Nation anwende, welche ohne da&sr;
+zum Hochmuth gar zusehr geneigt ist.</p>
+<cw>Rüh-</cw>
+<fnf>be besser gepfleget und angebauet würde: Fast auf die
+Weise, wie e&sr; geschehen kan, daß in einem Garten, wenn
+er nicht mehr gebauet wird, da&sr; Unkraut in kurtzer Zeit so
+mächtig wird und überhand nimmt, daß auch da&sr; äusser-
+liche Ansehen eine&sr; nach gewissen Regeln eingetheilten Gar-
+ten&sr; gäntzlich verlohren geht, obgleich noch hier und dar mit-
+ten unter dem Unkraut eine und andere zierliche Bluhme her-
+vorsprießt. Jst im übrigen dem Herrn von Mauvillon in die-
+sem Paragraphu&sr; die Sprache nicht sanft genug geflossen, so
+will ich zu seiner Entschuldigung, und der deutschen Nation,
+d. i. denjenigen, die sich da&sr; Ansehen derselben eigenmäch-
+tig anmassen, zum Trost erinnerlich zu Gemüthe führen,
+wa&sr; in dem <aq>III.</aq> St. der <fr>Critischen Beyträge</fr> in der Zu-
+schrift an Hrn. <fr>Abt Mo&sr;heim</fr> gelesen wird: <cit>&201E;Wie gute
+&q;Aerzte nicht allezeit die gelindesten Wege in ihren Curen
+&q;gehen; sondern auch zuweilen mit Feuer und Eisen dem
+&q;Uebel steuren müssen: So muß auch ein tiefgewurzelte&sr;
+&q;Uebel in der Schreibart, Poesie, und Beredsamkeit oft-
+&q;mahl&sr; durch eine satirische Lauge angegriffen, und da-
+&q;durch auf da&sr; nachdrücklichste au&sr;gerottet werden. &2012; &2012; &2012;
+&q;Und wie sehr wäre e&sr; zu wünschen, daß schon unsre
+&q;Vorfahren un&sr; dergestalt aufgeräumt hätten.&201E;</cit>
+<cit><aq>Scimu&sr; &amp; hanc veniani petimu&sr;que damu&sr;que vicissim.</aq></cit></fnf>
+<pb="33"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+<p>Rühmet die Gestalt der Deutschen, ihre Stär-
+ke, ihre Leibe&sr;kräfte; ich will euch da&sr; alle&sr; ein-
+räumen: Aber saget mir nicht, daß sie Geist
+und Witz haben, wenn ich mit euch ein&sr; werden
+soll. Mithin müsset ihr euch auch nicht einbil-
+den, daß nur die Franzosen auf diese Weise von
+euren Nation urtheilen. Da&sr; eben angeführte
+lateinische Sprüchwort ist au&sr; einem spanischen
+Scribenten hergenommen, der e&sr; bey einer glei-
+chen Gelegenheit angezogen hat. Wollet ihr e&sr;
+lieber auf da&sr; Zeugniß eine&sr; Engelländer&sr; an-
+kommen lassen, so vernehmet, wa&sr; der Ver-
+fasser de&sr; Mährgen&sr; von der Tonne, der bey je-
+dermann so viel gilt, dazu sagt: <fn="(<aq>B</aq>)">Diese Anmerckung Hrn. D. <fr>Swift&sr;</fr> kan denjeni-
+gen zur Nachricht dienen, die sich auf die Erfindung der
+Buchdruckerey zur Ablehnung der Anklage von dem Man-
+gel de&sr; deutschen Witze&sr; mit grossem Vertrauen beruffen.
+So sagt Hr. Magister <fr>Schwabe</fr> in der Vorrede zu seinen
+<fr>Belustigungen</fr> Bl. 6. <cit>&201E;E&sr; ist genug, daß wir versi-
+&q;chert sind, sie würden un&sr; unsre dürftige Erfindung&sr;-
+&q;kraft nicht so vielmahl&sr; erzehlen können, wenn sie nicht
+&q;von un&sr; gelernet hätten, un&sr; <fr>einerley</fr> Sache auf tau-
+&q;send Bogen kund zu thun; so daß also ihr Vorwurff,</cit>
+<cw>&q;wenn</cw></fn></p> <cit>&201E;Die
+&q;schönsten Erfindungen sind in denen Zeiten ge-
+&q;macht worden, da die Unwissenheit auf da&sr;
+&q;höchste gestiegen gewesen, zum Exempel der
+&q;Compaß, da&sr; Schießpulver, die Buchdru-
+&q;kerey, und diese hat die dummeste Nation,
+&q;nemlich die D. &2026; au&sr; der Finsterniß an
+&q;den Tag hervorgezogen.&201E;</cit>
+<bs>C</bs><cw>Jch</cw>
+<bs>[Crit. Sa&tm;l. <aq>V.</aq> St.]</bs>
+<pb="34"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+<p>Jch habe nicht einen Buchstaben au&sr; dem
+meinigen hinzugesetzet; indessen sehet ihr wohl,
+daß man nicht deutlicher reden kan. Aber wa-
+rum haben die Deutschen nicht so viel Witz, al&sr;
+andere Nationen? Jst der Himmel&sr;strich
+Schuld? Trägt dieser etwa&sr; dazu bey? Oder
+ihr gewöhnlicher Tranck? Nein, denn wie viel
+Deutsche giebt e&sr; nicht, die nur Wein au&sr;
+Champagne trincken, und die doch deßwegen
+nicht eine Unze mehr Witze&sr; haben. Der beste
+Grund, den man hievon geben kan, wird wohl
+dieser seyn, daß e&sr; nicht der Geschmack der
+Deutschen sey, <fn="(<aq>C</aq>)">Diese einzige Anmerckung Hr. Mauvillon&sr; zernich-
+tet auf einmahl da&sr; weitläuftige Gewäsche einiger Verfech-
+<cw>ter</cw></fn> Geist zu haben, daher die-
+<cw>jenigen</cw>
+<fnf><cit>&q;wenn er gedruckt wird, zugleich innerlich seine Widerle-
+&q;gung allezeit mit sich führet.&201E; Mit eben dieser Vorstel-
+lung hat Hr. Prof. Gottsched in seiner Anmerck. zu dem Art.
+Bouhour&sr; den Unglaubigen den deutschen Witz sichtbar ma-
+chen wollen: &201E;Die Deutschen, sagt er, haben an dem
+&q;Schießpulver und Geschütze, an der Buchdruckerey, an
+&q;dem Kupferstechen, an den Ferngläsern, an dem Por-
+&q;cellan, u. a. m. solche Proben ihre&sr; Witze&sr; abgeleget,
+&q;daß keine andere Nation ihnen eben so viel und eben so
+&q;witzige Entdeckungen aufweisen kan. &rr;c.&201E;</cit> E&sr; ist nieman-
+dem jemahl&sr; in den Sinn gekommen, den Deutschen die
+Fähigkeit zu mechanischen Erfindungen, auf die man öf-
+ter&sr; von ungefehr und zufälliger Weise geräth, streitig zu
+machen. Aber laß mir da&sr; einen seltsamen Schluß seyn:
+E&sr; sind Deutsche gewesen, welche die Buchdruckerey, da&sr;
+Schießpulver &rr;c. erfunden haben; hiemit müssen die deutsche
+Poeten und Redner geistreiche Köpfe seyn; und wer diese&sr;
+nicht zugeben will, der lästert die deutsche Nation.</fnf>
+<pb="35"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+jenigen unter ihnen, welche Geist haben, densel-
+ben verabsäumen, und gemeiniglich verderben,
+indem sie sich auf eitele Wissenschaften von elen-
+<bs>C 2</bs><cw>dem</cw>
+<fnf>ter de&sr; deutschen Witze&sr;, womit sie auf den Vorzug in ei-
+nigen Theilen der Gelehrsamkeit, und auf die Fähigkeit,
+witzig und geistreich zu werden, trotzen; z. Ex. wenn e&sr; in
+dem <fr>Schreiben an den Verfasser der Beyträge</fr> Hrn. Gott-
+sched, in dem <aq>XXIII.</aq> Stücke Bl. 518. heißt:
+<fr>Dieß hat den deutschen Witz gedämpfet, nicht erstickt.</fr>
+De&sr;gleichen:
+<poem>&2012; &2012; &2012; &2012; &2012; &2012; &2012; <fr>Zum Baue größrer Wercke
+Fehlt oft die Kühnheit nur, und nicht de&sr; Geiste&sr; Stärcke.</fr>
+Ferner Bl. 520.</poem>
+<poem><fr>Sprich, ist der Erde drum ein Baum zur Last erzeuget,
+Der noch die Aeste nicht voll reifer Früchte beuget:</fr>
+Und wiederum Bl. 521.</poem>
+<poem><fr>Wenn mein Lied schallen wird; singst du vielleicht nicht
+<et>mehr.</et></fr></poem>
+Jn demselben Tone läßt sich der deutsche Lustigmacher Hr.
+<fr>Schwabe</fr> in der Vorrede zu seinen <fr>Belustigungen</fr> Bl. 6.
+vernehmen: &201E;Jhr Vorzug ist, daß sie einige Jahre frü-
+&q;her auf die Au&sr;breitung der schönen Wissenschaften ge-
+&q;dacht haben, al&sr; wir; aber auch <aq>NB.</aq> einige Jahre frü-
+&q;her, al&sr; wir, derselben Verfall sehen werden.&201E; Eine
+Weissagung, die sich ohne Zweifel auf eine geheime Abrede
+der deutschen Nation gründet, daß sie erst dann wolle an-
+fangen witzig werden, wenn die Franzosen den guten Ge-
+schmack verlieren. Und auf der 10ten Seite sagt eben die-
+ser <fr>Vorredner:</fr> &201E;Wären wir so zeitig, al&sr; andere, auf
+&q;die Au&sr;breitung der schönen Wissenschaften in unsrer
+&q;Muttersprache gerathen: So würden vielleicht diejenigen
+&q;izo von un&sr; lernen müssen, welche wir un&sr; zu Mustern
+&q;bey Beförderung der freyen Künste vorstellen.&201E; Man
+giebt gerne zu, daß die Deutschen Geist und Witz haben,
+<cw>und</cw></fnf>
+<pb="36"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+dem Geschmacke legen. <fn="(<aq>D</aq>)">Man hat noch erst im Jahre 1735. zu Breßlau und
+Leipzig eine verbesserte Sammlung von <fr>J. Chr. Günther&sr;</fr>
+deutschen und lateinischen Gedichten herau&sr;gegeben, und
+ist dabey sorgfältig gewesen, alle die Acrosticha, die in die-
+se&sr; Poeten ersten Jahren noch gantz geläuftig waren, al&sr;
+Proben de&sr; deutschen Witze&sr; von dem Untergange zu retten,
+wie Bl. 17. 82. 91. 100. 179. 231. &rr;c. zu sehen ist. E&sr;
+ist wohl wahr, daß dieser Dichter selbst bey reifern Jah-
+<cw>ren</cw></fn> Eure meisten Ge-
+lehrten beschäftigen sich Anagrammata, oder,
+wa&sr; noch kindischer ist, Chronogrammata zu ver-
+fertigen. Eure arbeitsamen deutschen Köpfe
+<cw>wer-</cw>
+<fnf>und zeigen könnten; aber man bedauret dabey, daß die-
+jenigen, welche die <fr>Ehre</fr> de&sr; deutschen Witze&sr; zu behaup-
+ten bi&sr;dahin übernommen haben, gröstentheil&sr; dieselbe zu
+Schanden gemachet, und zu dergleichen unbeliebigen Ur-
+theilen Anlaß gegeben haben. Man gestehet ihnen einen
+grossen Vorzug an Gelehrtheit zu, aber au&sr; denen bi&sr;he-
+rigen Proben kan man nicht schliessen, daß der Geschmack
+für da&sr; Witzige und Geistreiche noch zur Zeit allgemein sey.
+Jch kan diese&sr; mit dem Beyfalle eine&sr; deutschen Schrift-
+verfasser&sr; bekräftigen: Jn dem <aq>IX.</aq> Stücke der <fr>Critischen
+Beyträge</fr> auf der 165sten Seite, wo der Antilongin re-
+censiert wird, heißt e&sr;: <cit>&201E;Der gute Geschmack ist bey
+&q;un&sr; Deutschen noch nicht so allgemein, daß man sich fer-
+&q;ner keine Mühe geben dürfte, ihn mehr und mehr em-
+&q;por zu bringen. Wir wollen nur unsre Poesie ansehen.
+&q;Wa&sr; für wunderlich Zeug kömmt nicht darinnen noch
+&q;täglich zum Vorschein? Und wer siehet nicht, daß die-
+&q;se&sr; die Ueberbleibsel de&sr; altfränckischen Geschmack&sr; sind?
+&q;Woher rühret aber solche&sr;? Von nicht&sr; ander&sr;, al&sr;
+&q;weil unter den Schriften unsrer Dichter, die wir Anfän-
+&q;gern al&sr; Muster anpreisen, noch <fr>viel</fr> rauschende&sr; Flit-
+&q;tergold anzutreffen ist.&201E;</cit></fnf>
+<pb="37"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+werden ein Wörterbuch gantz durchblätern, da-
+mit sie eine solche scharfsinnige Ueberschrift her-
+au&sr;bringen. Man dächte, sie suchten eine ge-
+schickte, gut lateinische Au&sr;drückung, aber an
+statt dessen sehen sie sich nach einem Worte um,
+darinnen ein <aq>L</aq> ein <aq>M</aq> oder ein <aq>D</aq> ist. Wenn
+wir demnach irgend eine solche Aufschrift antref-
+fen, müssen wir in derselben vielmehr da&sr; Jahr
+de&sr; Herrn, al&sr; den Gedancken suchen.</p>
+<p>Einer von euren Scribenten <fn="(<aq>E</aq>)">Jch kenne einen andern deutschen Poeten, der
+sich noch erst neulich einen grossen Nahmen unter seinen
+Land&sr;leuten erworben hat. Dieser hat sich erkühnet in
+<cw>einer</cw></fn> hat da&sr; Hertz
+gehabt diese Chronogrammata, die er <fr>gelehrte
+Sinngebuhrten</fr> nennet, zu vertheidigen. Er
+<bs>C 3</bs><cw>klagt</cw>
+<fnf>ren da&sr; abgeschmackte Wesen dieser Kunst verlachet,
+und seine ehemahlige Thorheit bekennet hat, womit er die
+Nahmen vor die Lieder geflochten, und oft um ein A. drey
+Stunden auf und nieder gegangen: Aber wa&sr; muß ein
+fremder von dem allgemeinen Geschmacke der deutschen Na-
+tion dencken, wenn er auch in den neuesten Sammlungen und
+Herau&sr;gaben der besten deutschen Dichter dergleichen ab-
+geschmackte&sr; Zeug mit der grösten Sorgfalt aufbehalten sie-
+het? Denn daß <fr>Günther</fr> unter den besten Poeten, die
+nach dem Geschmacke der deutschen Nation sind, einen
+hohen Rang verdiene, wird niemand zweifeln, wer fol-
+genden Gottschedischen Au&sr;spruch gelesen hat: <cit>&201E;Woher
+&q;kömmt e&sr;, daß die deutsche Nation, die bey Canitzen&sr;
+&q;und bey <fr>Günther&sr;</fr> Gedichten so eifrig gewesen, sie zu
+&q;kauffen und zu lesen, und andern anzupreisen, daß man
+&q;in kurtzer Zeit so viele Auflagen machen müssen, nur im
+&q;Absehen auf da&sr; eintzige Paradie&sr; <fr>Milron&sr;</fr> so phlegma-
+&q;tisch geworden?&201E;</cit></fnf>
+<pb="38"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+klagt sich, daß gewisse Leute so unvernünftig
+seyn, und diese schönen Erfindungen Lappereyen
+heissen; und er behauptet gegen jedermann, daß
+sie, wenn sie kurtz sind, und sich vor die Sache
+gut schicken, ihren gewissen Werth haben. Er
+führt zum Beweise dessen da&sr; Chronogramma
+an, da&sr; im vergangenen Jahr auf den Herzog
+<cw>von</cw>
+<fnf>einer neuen Sammlung poetischer Geburten, die erst die-
+se&sr; Jahr an&sr; Licht getreten, eine ernsthafte Schutzschrift
+für eine andere Gattung Sinnspiele de&sr; falschen Witze&sr; zu
+verfertigen, worinnen er behauptet, daß diejenigen, wel-
+che keinen Geschmack daran finden, für gewissenlose Reli-
+gion&sr;-Spötter müssen angesehen werden. Dieser ist mit
+Nahmen der grosse <fr>Triller,</fr> der in dem neulichst herau&sr;ge-
+gebenen 3ten Theile seiner Gedichte, auf der 500. Seite
+folgende&sr; Muster von einem geistreichen Wortspiel gar ge-
+schickt anbringt:
+<poem><fr>Benennt man, Nassau, dich sonst von den nassen Auen,
+So machstu itzt gewiß die Deutung offenbar;
+Und stellten sich auch nicht die nassen Auen dar,
+So kan man doch in dir die nassen Auen schauen.</fr></poem>
+Der Geniu&sr;, der über die Noten waltet, hat ihm dazu
+die folgende au&sr; der besondern Mildigkeit verliehen, nach
+welcher er die Trillerischen Anmerckungen mit allerhand
+Seltenheiten zu bereichern pfleget: <aq>Lusu&sr; hic ingenii &amp;
+verborum, quod probe scimu&sr;, quem nimium fastidiunt,
+&amp; pr&00E6;ter rem adspernantur horriduli quidam nostri &00E6;vi
+Catone&sr;, &amp; intonsi impexique Timone&sr;; sic non injurii
+solum in optimo&sr; quo&sr;vi&sr; Auctore&sr; vetere&sr; profano&sr;, sed
+&amp; impii adeo atque bla&sr;phemi in ipsam Scripturam Sacram
+utriu&sr;que Testamenti; in qua quippe creberrime acuto&sr;
+eju&sr;modi verborum lusu&sr; passim occurrere, contra nasuto&sr;
+ho&sr; &amp; frigido&sr; censore&sr;, magno eruditioni&sr; apparatu pri-
+dem liquidissime ostensum fuit a Viri&sr; magni&sr;, Grotio,</aq>
+<cw><aq>Bochar-</aq></cw></fnf>
+<pb="39"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+von Lothringen und Großherzog von Toscana
+gemacht worden, der die kaiserlichen Völcker
+in Ungarn al&sr; oberster General angeführt hatte,
+<aq>VIVat C&00E6;sarI&sr; sVpreMV&sr; bellI DVX.</aq> Jn
+welchen Worten die Jahrzahl von 1737. enthal-
+ten ist, da der Herzog in Ungarn hatte comman-
+dieren sollen. Trutz sey euch gebothen, daß ihr
+in diesem Chronogramma wa&sr; weiter&sr;, al&sr; da&sr;
+Jahr de&sr; Herrn finden werdet. Jndessen hat
+der hamburgische Zeitung&sr;schreiber e&sr; vor einen
+unwidersprechlichen Beweiß gegen diejenigen an-
+geführt, welche diese abgeschmackten Erfindun-
+gen verlachen. Saget mir doch, ob man eben
+viel Witze&sr; vonnöthen habe, wenn man eine
+arithmetische Zahl in viel verschiedenen Wörtern,
+die au&sr; allerley Buchstaben bestehen, herau&sr;-
+<bs>C 4</bs><cw>brin-</cw>
+<fnf><aq>Bocharto, Vitringa, Glassio, Blackwallo, Gatakero,
+Oleario, &amp; alii&sr;; &amp; novissime a Reverendo Michaeli
+Halensi, peculiari Dissertatione. Sed hac de re no&sr; alibi
+pleniu&sr;. Eant nunc &amp; detestentur omne&sr; ingenii lusu&sr;
+insulsi Criticastri, imprimi&sr; Alpini.</aq> Und daß Hr. D. <fr>Tril-
+ler</fr> von der Vortrefflichkeit der Wortspiele eine innerliche
+Ueberzeugung habe, erhellet au&sr; gar vielen Proben, die
+in seinen Gedichten hier und da zu finden sind. Jch will
+zur Bekräftigung dessen nur einige von den besten Exem-
+peln anführen. Jn dem ersten Theile seiner Gedichte, in
+der Zueignung&sr;schrift an Hrn. Brocke&sr;:
+<poem><fr>Serenu&sr; dessen Lied Sirenen trotzen kan,
+Wird auch mit allem Recht in diese Reih gestellet.</fr></poem>
+Eben daselbst:
+<poem><fr>Daß sich die Bluhmen auch zusammen brünstig freyhn,
+Und durch de&sr; Zephyr&sr; Gunst in Stand der Ehe treten,</fr></poem>
+<cw><fr>Besin-</fr></cw></fnf>
+<pb="40"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+bringen soll, und ob dergleichen Entdeckungen
+der menschlichen Gesellschaft grossen Nutzen brin-
+gen. Jst da&sr; ein grosse&sr; Lob vor einen Feld-
+herrn, daß man in etlichen Wörtern, welche
+wenig oder nicht&sr; von seinen Heldenthaten mel-
+den, da&sr; Jahr au&sr;findet, in welchem er den
+Generalstab geführt hat? Man muß kein gros-
+ser Künstler seyn, eine solche herrliche Geburt
+auf die Welt zu bringen; e&sr; braucht weiter nicht&sr;,
+al&sr; ein wenig Geduld, Wörter au&sr;zuklauben,
+und man wird mehr al&sr; genug herau&sr;bringen,
+sofern man nur die Sprache versteht, in wel-
+cher man reden will.</p>
+<cw>Allein</cw>
+<fnf><poem><fr>Besingen de Croix und Royen im Latein,
+Sind sie schon, wie e&sr; scheint, zur Hochzeit nicht gebeten.</fr>
+Jn eben diesem Gedichte:
+<fr>Vom Vater, Sohn u. Geist, u. von de&sr; Glauben&sr; Grund
+Hat Faithfull Thät ein Buch in Versen fürgetragen,
+Dieß macht nun Wagner zwar in deutschen Reimen kund,
+Allein sie klingen meist, wie ein noch neuer Wagen.</fr></poem>
+Jn dem Gedichte von der Zeugung de&sr; Menschen <aq>I.</aq> Th.
+Bl. 164.
+<poem><fr>Doch weil die Würmer gar zu klein,
+So mußten grosse Gönner seyn.</fr></poem>
+Jn dem <aq>III</aq>ten Th. Bl. 312.
+<poem><fr>Und</fr> Wolf <fr>mit dessen Wissenschaft
+Fast alle Hohen Schulen pralen,
+Ob ihm der Neid mit heilger List
+Gleich</fr> lange <fr>widerstanden ist.</fr></poem>
+Da nun Hrn. D. <fr>Triller&sr;</fr> Gedichte, wie er selbst und die
+gelehrten Zeitung&sr;schreiber einhellig rühmen, von der deut-
+schen Nation begierig aufgekauft und gelesen werden, wa&sr;
+muß wohl ein Fremder von dem Geschmacke der deutschen
+Nation urtheilen?</fnf>
+<pb="41"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+<p>Allein ihr werdet einwenden, nicht alle Deut-
+schen geben sich Mühe mit diesem abgeschmack-
+ten Zeuge. Gut: Aber ich behaupte hingegen,
+daß e&sr; ihnen in allen Arten der zierlichen Gelehrt-
+heit an Geschmack, oder, wenn ich e&sr; herau&sr;-
+sagen soll, an Witz mangelt. Ehe ich diese&sr;
+beweise, muß ich euch bitten, folgende&sr; anzu-
+mercken. E&sr; ist kein Wunder, daß eure Land&sr;-
+leute nicht geistreich seyn. Man hält in diesem
+Lande sehr wenig auf Geist, und diese&sr; ist eben
+kein Mittel, den Witz in Schwang zu bringen.
+Jn Deutschland sind ein geistreicher Kopf und
+ein Clau&sr;narre eine&sr;, wa&sr; da&sr; andere. <fn="(<aq>F</aq>)">Jch kan und will mich nicht gar tief in diese Un-
+tersuchung hineinlassen, in wa&sr; Werth in Deutschland der
+Geist, wenn er gleich der Gelehrsamkeit beraubet ist, ge-
+halten werde. Da&sr; ist indessen gewiß, daß abgeschmackte
+Possenreisser und Lustigmacher nicht allein vor geistreich wol-
+len angesehen seyn, sondern auch würcklich noch einen gros-
+sen Beyfall finden. Jch verweise meine Leser auf den
+Heumonat der Belustigungen Bl. 36.</fn> Der
+Pedant und der wahre Gelehrte werden hier all-
+zu gerne mit einander vermischt. Eure Gedan-
+ken seyn die schönsten auf der Welt, sie seyn auf
+da&sr; geistreichste au&sr;gebildet; wofern ihr nicht
+sech&sr; Wörter im Lateinischen, vier im Griechi-
+schen, und vier im Hebräischen plappert, so
+wird man meinen, man thue euch viel Ehre an,
+wenn man euch einen artigen Pantalon heißt.</p>
+<p>Jn diesem Lande steigt niemand empor, al&sr;
+die Hofnarren. Die Begierde dergleichen zu
+haben, ist etwa&sr; recht ausserordentliche&sr;. Ein
+jeder Fürst hat zween oder drey in seinen Dien-
+<bs>C 5</bs><cw>sten.</cw>
+<pb="42"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+sten. Bey einigen von den grössesten ist e&sr; eine
+recht einträgliche Bedienung, der föderste Hof-
+narre, wie im türckischen Serraglio da&sr; Haupt
+der Verschnittenen zu seyn. Die Freyherrn und
+die blossen Edelleute in diesem Lande haben in&sr;-
+gemeine einen Lakey, der bey ihnen die Stelle
+eine&sr; Hofnarren vertritt, wiewohl er eben die-
+sen Titel nicht führt; denn die herrschenden Für-
+sten behalten da&sr; Recht vor sich, Patenten für
+einen Hofnarren zu ertheilen.</p>
+<p>Auf wa&sr; vor hohe Gedancken können Leute
+von diesem Schrote, die nicht wissen, wa&sr; den-
+ken ist, die in den Tag hinein plaudern, und
+mit lauter Salbadereyen angestochen kommen,
+vornehme Herren führen? Werden sie diesel-
+ben lehren, wie man gerecht, großmüthig, mil-
+de, nüchtern, sittsam, seyn soll? Ach nein. Sie
+wissen von diesen Eigenschaften allzu wenig, al&sr;
+daß sie sich eine Ehre darinnen suchen sollten, je-
+manden dazu anzuführen.</p>
+<p>Ein geistreicher Mann ist in Deutschland ein
+Mensch, der zu einem Hofnarren gebohren ist;
+und ein Hofnarre ist ein Thier, da&sr; mehr Stock-
+schläge kriegt, al&sr; ein Hund, den man zu klei-
+nen Künsten abrichten will. Da&sr; ist izo die Nei-
+gung der deutschen Herren, sie brauchen den
+Stock gerne, und man muß bekennen, daß sie
+geschickt damit umzugehen wissen. &2012; &2012; &2012;
+&2012; &2012; &2012; &2012; &2012; &2012; &2012; &2012; &2012;
+<et>Hiervon nimmt nun der Verfasser Anlaß, mit etlichen E-
+rempeln zu beweisen, daß die deutschen Fürsten eine rechte
+Freude daran haben, die Leute bi&sr; auf den Tod zu prügeln.</et></p>
+<cw><fr>Jhr</fr></cw>
+<pb="43"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+<p>Jhr sehet also, zu wa&sr; vor Posten man geistrei-
+che Köpfe in Deutschland tüchtig hält, wiewohl
+diejenige, die auf diesen Posten stehen, nicht
+allemahl geistreiche Köpfe sind. Man muß e&sr;
+bekennen, e&sr; giebt in Deutschland mehr Ge-
+lehrte, al&sr; in vielen andern Ländern; aber geist-
+reich zu seyn ist ihnen verboten, fall&sr; sie nicht
+vor Narren angesehen seyn wollen. Ein geschick-
+ter Professor, der in der gelehrten Welt wohl-
+bekannt ist, wollte einmahl zeigen, daß er Geist
+hätte. Sogleich foderte man von ihm, daß er
+Hofnarr würde, und der Fürst nöthigte ihn mit
+Gewalt dazu. Einer von meinen Freunden hat-
+te Gedancken bey dieser Gelegenheit eine Comö-
+die zu schreiben, die den Titel führen sollte: <fr>Der
+Hofnarre wider seinen Willen.</fr> Jch hintertrieb
+e&sr; mit allen ersinnlichen Vorstellungen der Klug-
+heit. E&sr; ist hier nicht&sr; neue&sr;, daß ein Hofnarre,
+der den Titel eine&sr; solchen führet, zugleich Pro-
+fessor in der Philosophie, oder in der Beredt-
+samkeit ist. Da die Wissenschaften auf diese
+Weise entweihet und verhudelt werden, so ist
+e&sr; nicht möglich, daß da&sr; Naturell keinen Scha-
+den davon empfange, und daß man nicht mit
+der Muttermilch eine unüberwindliche Abneigung
+gegen die Wissenschaften, und alle&sr;, wa&sr; geist-
+reich ist, in sich sauge.</p>
+<p>Jn Franckreich hat man diese&sr; nicht zu befürch-
+ten. Daselbst hält man den Geist hoch, wenn
+er gleich der Gelehrsamkeit beraubet ist. Lude-
+wig der vierzehnte war ein so grosser Feind der
+Zotenreisser, und Lustigmacher, al&sr; er hinge-
+<cw>gen</cw>
+<pb="44"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+gen ein bekannter Beschützer aller geistreichen
+Männer war, die er auch von den Pritschmei-
+stern wohl zu unterscheiden wußte. Aber der
+Geschmack der Deutschen Fürsten ist überhaupt
+so beschaffen, daß sie zwey Dinge, die an Art
+so verschieden sind, mit einander vermischen,
+und sich nur da&sr; schmecken lassen, wa&sr; unter den
+Wercken de&sr; Geiste&sr; am ungesaltzensten und mat-
+testen ist.</p>
+<p>Jn Franckreich liebet man da&sr;, wa&sr; der Witz
+feine&sr; und leckere&sr; hat; nur dadurch kan man
+sich hervorthun. Wer nur Geist hat, ist bey al-
+len Franzosen willkommen, und kan sie nur vor
+seine Gönner ansehen. Er hat keinen andern
+Titel nöthig, al&sr; daß er ein geistreicher Kopf
+sey, so wird ihm jedermann wohlgewogen wer-
+den. Da&sr; ist der Geschmack der französischen
+Nation überhaupt; und niemand wird meine&sr;
+Beduncken&sr; so unvernünftig seyn, und ihm nicht
+den Vorzug vor dem Geschmacke der Deutschen
+geben; denn e&sr; ist gewiß, daß man nicht&sr; ge-
+schickte&sr; au&sr;richten kan, wenn man e&sr; ohne
+Geist vornimmt. Die gelehrtesten Wercke tau-
+gen nicht&sr;, wenn sie nicht mit Witze verfertiget
+sind; und der gröste Lehrer wird nur ein verdrüß-
+licher Schmierer seyn, wenn er seine Belesen-
+heit ohne Geist au&sr;kramet; so wie der grösseste
+Weltweise nur ein langweiliger Schwatzer seyn
+wird, wenn er seine Schlußreden nicht mit Geist
+würtzet, ob sie gleich sonst bündig sind. Der
+Geist ist da&sr; Vermögen de&sr; Verstande&sr;, da&sr;
+macht, daß wir da&sr;, wa&sr; wir sagen, mit An-
+<cw>muth</cw>
+<pb="45"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+muth sagen, und da&sr;, wa&sr; wir thun, mit gu-
+ter Art thun. E&sr; ist die geschickte Wahl, da&sr;
+feine Wesen, da&sr; scharfsinnige Urtheil, kurtz
+etwa&sr; nicht genug bestimmte&sr;, da&sr; unsren Ge-
+dancken und Begriffen eine gewisse Zierlichkeit
+mittheilet; da&sr; au&sr;zieret, wa&sr; die Vernunft
+erfindet, und au&sr;schmücket, wa&sr; der Verstand
+hervorbringt.</p>
+<p>Aber e&sr; ist nicht genug, daß man erkläre,
+wa&sr; Geist sey, e&sr; giebt verschiedene Arten die-
+se&sr; Geiste&sr;, welche man von einander, oder
+besser zu sagen, von etwa&sr;, da&sr; ihm ähnlich ist,
+unterscheiden muß. E&sr; ist eine Art rauhe&sr; Gei-
+ste&sr;, von welchem die platten und eckelhaften
+Possen und Zoten entstehen, die doch auch ge-
+wissen Leuten angenehm sind, welche selbst nur
+diese Geiste&sr;art besitzen. Diese ist derjenigen
+gantz ungleich, welche die Franzosen haben wol-
+len, und die ich oben erklärt habe.</p>
+<p>Unter dem rauhen und dem feinen Geist herr-
+schet der Unterschied, daß jener die Miltze, und
+dieser da&sr; Hertz rühret; jener da&sr; wilde Geläch-
+ter, dieser die Verwunderung erwecket; der
+erste einen Augenblick Lust machet, hernach Ver-
+druß verursachet, da hingegen der andere ein
+reine&sr; und desto gründlichere&sr; Ergetzen mit sich
+führet. Da nun die grossen Herren in Deutsch-
+land auf diese lezte Eigenschaft nicht viel hal-
+ten, so erforschet auch niemand sich selber, ob
+er nicht etwa dieselbe von der gütigen Natur em-
+pfangen habe; man streitet nur um den Vor-
+zug, wer die plattesten Pritschmeisterpossen sa-
+<cw>gen</cw>
+<pb="46"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+gen kan. Wie oft höret man diese vornehmen
+Deutschen über den ungeheuresten Einfall eine&sr;
+elenden Lustigmacher&sr; in ein erschreckliche&sr; Ge-
+lächter au&sr;brechen? Da&sr; ist ihr Geschmack,
+und wer ihr Freund seyn will, muß mitmachen.</p>
+<p>Deßwegen wundert mich nicht mehr, daß in
+euren Poeten solche Jedermann&sr;gedancken, und
+so grobe Au&sr;drücke sind. Günther, <fn="(<aq>G</aq>)">Jn wa&sr; vor Ansehen Günther bey der deutschen
+Nation stehe, hat un&sr; Hr. Gottsched oben <aq>(D)</aq> belehret.
+Dessen ungeachtet kan ich da&sr; Urtheil, welche&sr; Hr. Mau-
+villon von seiner poetischen Niederträchtigkeit gefället hat,
+mit einheimischen Zeugnissen bekräftigen. Jn dem <aq>XIV.</aq>
+St. der <fr>Critischen Beyträge,</fr> wo Günther&sr; Gedichte be-
+urtheilet werden, heißt e&sr; Bl. 186. <cit>&201E;Seine Kenntniß
+&q;in den wahren Regeln der Dichtkuust war sehr mittel-
+&q;mässig, seine Beurtheilung&sr;kraft sehr seicht und unfähig,
+&q;da&sr; wilde Feuer der Fantasie zu mässigen.&201E; Und auf
+der 188sten Seite: &201E;Wa&sr; die Gedichte selbst anlanget,
+&q;so haben sie fast durchgehend&sr; ein sehr fliessende&sr; We-
+&q;sen, ein richtige&sr; Sylbenmaaß, und eine richtigere, re-
+&q;gelmässigere Sprache, al&sr; man in vielen unsrer Dich-
+&q;ter anmercket. Allein wa&sr; da&sr; innere anlanget, so sind
+&q;viele, ja die meisten Stücke einem Quodlibet ähnlicher,
+&q;al&sr; einem ordentlichen und vernünftig zusammenhangen-
+&q;den Wercke. Oft scheint der Reim, und nicht der Poet
+&q;den Ver&sr; gemacht zu haben: Jndem er nicht ander&sr;
+&q;au&sr;sieht, al&sr; ob er lauter <aq>Bout&sr;-rimez</aq> gemachet, oder
+&q;die Einfälle im hübnerischen Reimregister gesuchet hätte.
+&q;&2012; &2012; &2012; &2012; Ja auch in seinen Tode&sr;gedancken hat er
+&q;da&sr; geistliche mit dem weltlichen, die Bibel mit den Fa-
+&q;beln der Heiden so durch einander gemenget, daß man</cit>
+<cw>&q;nicht</cw></fn> einer
+der geschätztesten ist damit angefüllet. Leset seine
+Ode auf da&sr; Glücke, die vor eine&sr; seiner besten
+<cw>Stü-</cw>
+<pb="47"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+Stücke gehalten wird; ihr werdet darinnen ei-
+nen Bewei&sr; meiner Meinung finden. Jch wer-
+de die lezte Strophe dieser Ode nie vergessen;
+sie hat etwa&sr; allzu sonderbare&sr;, daß ich sie hier
+nicht anführen sollte; Vielleicht habet ihr nie-
+mahl&sr; Zeit gehabt, sie genau zu betrachten. Jch
+bitte nur die Frauen&sr;personen, denen ihr etwa
+meinen Brief zeigen mögtet, daß sie sich an gewissen
+<cw>pursch-</cw>
+<fnf><cit>&q;nicht wissen kan, ob er al&sr; ein Heide oder al&sr; ein Christ
+&q;habe sterben wollen. Hernach weiß er selbst in den er-
+&q;habensten Oden nicht den Wohlstand, und da&sr; so ge-
+&q;nannte &03C0;&03C1;&03AD;&03C0;&03BF;&03BD; zu beobachten.&201E; Jn dem <aq>XXIV.</aq> St.
+derselben <fr>Critischen Beyträge,</fr> in den Anmerckungen über
+Clerc&sr; Gedancken von der Poesie Bl. 589. stehet: &201E;Wa&sr;
+&q;ich von Hofmann&sr;waldau sage, da&sr; gilt auch von eini-
+&q;gen neuern, al&sr; Amthorn, Günthern, und ein Paar
+&q;noch lebenden Dichtern [vielleicht Triller und Gottsched]
+&q;theil&sr; von schwülstiger, theil&sr; von niedriger Schreibart.
+&q;Wohl dem, der von Jugend auf auf gute Muster ver-
+&q;fallen ist. z. E. auf den Virgil, Horatz, Opitz, Canitz.&201E;</cit>
+Und wer sich an diesen Zeugnissen noch nicht sattigen will,
+der lese in dem <aq>XXIV.</aq> St. der <fr>Crit. Beyträge</fr> Art. <aq>III.</aq>
+Bl. 63. den Versuch einer Critick über die güntherische Ode:
+<fr>Eugen ist fort! Jhr Musen nach &rr;c.,</fr> wo er folgende und
+dergleichen critische Au&sr;sprüche bey der Menge antreffen
+wird: <fr>Diese Kleinigkeiten können da&sr; Batho&sr; nicht
+bergen: Diese&sr; ist ein pöbelhafter Au&sr;druck: Diese&sr;
+ist Günther&sr; gröster und gewöhnlichster Fehler, daß
+er auch in der prächtigsten Rede, seinem Saryr bi&sr;wei-
+len zu meckern erlaubt: Der gantze Einfall ist Flitter-
+gold, da&sr; hieher nicht gehört: Da ist ein Galimatia&sr;,
+hier ein Phöbu&sr;: Bald plaudert er, wie ein Fieberhaf-
+ter, bald aber schimpset er beynahe, wie ein Schoten-
+hüter: Ein solche&sr; abentheurliche&sr; Phöbu&sr; harte noch
+gefehlt. &rr;c. &rr;c.</fr></fnf>
+<pb="48"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+purschmässigen Worten nicht ärgern, die ich
+mich genöthiget sehe, zu brauchen, wenn ich
+de&sr; Poeten Meinung au&sr;drücken soll. Sie
+müssen sich erinnern, daß ich au&sr; dem Deutschen
+übersetze, nun wissen sie wohl, daß in dieser
+Sprache dergleichen Zeug nicht&sr; neue&sr; ist. Nach-
+dem Günther zuerst auf eine ziemlich frostige
+Weise auf da&sr; Glücke gestichelt, überläuft ihm
+die Galle, und er bricht gantz entrüstet in diese
+Worte au&sr;: <aq>Tien&sr;,</aq> sagt er zu ihm, <aq>voicy te&sr;
+plu&sr; beaux titre&sr;. Tu n&2019;e&sr; qu&2019;une girouette,
+une femmellette aveugle, une voie de per-
+dition, une garce &00E0; laquai&sr;, une sorci&00E8;re, la
+s&0153;ur de la folie, une hableuse, une trom-
+peuse: &amp; qui est ce qui me punira comme
+Ath&00E9;e, par ce que je te bla&sr;ph&00EA;me!</aq> Jch
+weiß wohl, daß der arme Günther keine Ursache
+gehabt, mit dem Glücke wohlzufrieden zu seyn;
+und daß er dem Colletet gleich war, von dem
+man sagt, er sey von einer Küche in die andere
+gegangen, einen Bissen Brod zu betteln; allein
+ich kan ihm, die Wahrheit zu bekennen, seine
+pöbelhaften Au&sr;drücke nicht verzeihen, und ich
+mögte ihn wohl fragen, in welchem Lumpenhau-
+se er diese Schreibart an sich genommen habe.
+Wa&sr; vor eine Ungleichheit zwischen Günther&sr;
+Versen, und denen, welche Roussau auf eben
+diese&sr; Glücke geschrieben hat!</p> <cit>&201E;Der Pöbel
+&q;betet in deinem schlechtesten Wercke da&sr;
+&q;Wohlergehen an, er nennt dich Großmuth,
+&q;Dapferkeit, Klugheit, Standhaftigkeit: Er
+&q;beraubet die Tugend ihrer eigensten Titel, und
+<cw>&q;leget</cw>
+<pb="49"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+&q;leget sie einem Laster, da&sr; dir angenehm ist,
+&q;bey. Jn seinen falschen Lehrsätzen machet er
+&q;allemahl vortreffliche Helden au&sr; deinen straf-
+&q;würdigsten Lieblingen.&201E;</cit>
+<p>Die französische Sprache ist zu sittsam, al&sr;
+daß sie solche Au&sr;drücke, wie Günther&sr; sind,
+vertragen könnte, am allerwenigsten kan sie die-
+se&sr; in einer ernsthaften und erhabenen Ode.
+Wenn wir von lustigen Sachen schreiben wollen,
+so haben wir eine absonderliche Sprache vor die-
+selben, <fn="(<aq>H</aq>)">Jn dem Heumonat der Leipzigischen <fr>Belustigun-
+gen,</fr> in dem Schreiben an Hrn. M. <fr>Schwabe</fr> wegen
+der Unnützlichkeit seine&sr; Vorhaben&sr; Bl. 20. wird über die-
+se Stelle folgende geistreiche Anmerckung gemachet: <cit>&201E;Jch
+&q;wollte diese Schreibart die Sprache der Freundschaft,
+&q;zur Nachahmung der Sprache de&sr; Schertze&sr;, nennen;
+&q;welche ein gewisser neuer Briefschreiber an seinen Land&sr;-
+&q;leuten gantz besonder&sr; erhebt, und e&sr; den Deutschen
+&q;al&sr; einen grossen Fehler vorwirft, daß sie dergleichen
+&q;nicht hätten. Die Deutschen, sagt er, schreiben die
+&q;ernsthaftesten Oden, und die lustigsten Gedichte, in ei-
+&q;nerley Ver&sr;art. Wir aber haben eine besondere maro-
+&q;tische Schreibart, in welcher wir nur schertzen. Wenn
+&q;sie, mein Herr, etwa diese Sprache noch nicht kennen,
+&q;so will ich sie ihnen doch &1F61;&03C2; &1F10;&03BD; &03C0;&03B1;&03C1;&03CC;&03B4;&03C9;, <aq>ut</aq> &03C6;&03B9;&03BB;&03AD;&03BB;&03BB;&03B7;&03BD;&03B5;&03C2; <aq>lo-
+&q;quuntur,</aq> erklären. Stellen sie sich eine Sammlung alt-
+&q;fränckischer, pöbelhafter, und wider die Grammatick
+&q;verstossender Wörter und Reden&sr;arten vor. Sie sey
+&q;also noch ein Grad schlechter, al&sr; da&sr;jenige, wa&sr; wir
+&q;im Deutschen die Han&sr;-Sachsen-Schreibart nennen,
+&q;welcher wir un&sr; bi&sr;weilen zum Lachen bedienen; allein</cit>
+<cw>&q;die</cw></fn> nemlich de&sr; Marot&sr; seine: Aber
+im Deutschen läuft alle&sr; unter einander, da&sr;
+<bs>D</bs><cw>Ernst-</cw>
+<bs>[Crit. Sa&tm;l. <aq>V.</aq> St.]</bs>
+<pb="50"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+Ernstliche mit dem Possierlichen; da&sr; Hohe mit
+dem Kriechenden, und da&sr; Prächtige mit dem
+<cw>Lusti-</cw>
+<fnf><cit>&q;die ein Dichter al&sr;dann starck gebrauchen müßte, wenn
+&q;er da&sr; sicherste Mittel haben wollte, un&sr; unerträglich zu
+&q;werden. Wenn Sie sich diese Schreibart einbilden, mein
+&q;Herr, so haben sie da&sr;jenige, wa&sr; die Grösse gewisser
+&q;au&sr;ländischer Dichter, und einen Theil von dem Ruhme
+&q;ihrer Nation au&sr;machet. Jch weiß nicht, ob nach dem Ur-
+&q;theile der gantzen Nation, oder nur bloß nach dem Au&sr;-
+&q;spruche de&sr; grossen Kunstrichter&sr;, der vielleicht auch den
+&q;Homer und Despreaux tadelt, daß sie die Batrachomyo-
+&q;machie und da&sr; Pult nicht in marotischen Versen geschrie-
+&q;ben haben. &rr;c.&201E;</cit> Jch muß die kleine Bo&sr;heit diese&sr; an-
+sehnlichen Lustigmacher&sr; ein wenig beleuchten. E&sr; ist eben
+so lächerlich, wenn er die marotische Sprache al&sr; altfrän-
+kisch, niederträchtig und pöbelhaft anschwärtzen will, al&sr;
+wenn einer sich über die Hofleute Franciscu&sr; de&sr; ersten
+erzörnen wollte, daß sie nicht in der itzigen neumodischen
+Kleidung auftreten. Die marotische Sprache ist bey den
+Franzosen diejenige, welche an dem Hofe de&sr; besagten Kö-
+nig&sr; geredet worden. Sie war so bequem schertzhafte und
+und satirische Gedancken darinnen einzukleiden, und Ma-
+rot hatte sie zu diesem Ende so geschickt gebraucht, daß sie
+al&sr; eine todte Sprache noch heutzutage in seinen Schriften
+erlernet, und noch zu demselben Ende angewendet wird.
+La Brüyere hat davon geurtheilet: &201E;Marot scheint im Ab-
+&q;sehen auf seine Reden&sr;arten und Au&sr;drücke erst seit Ron-
+&q;sard&sr; Zeit gelebet zu haben; zwischen ihm und un&sr; ist
+&q;nur ein Unterschied von etlichen Wörtern.&201E; Sofern ist
+e&sr;, daß diese Sprache pöbelhaft sey, oder wider die Gram-
+matick verstosse, wiewohl sie ihre eigene Grammatick hat.
+Man findet im Marot einen gantz herrlichen und prächtigen
+Au&sr;druck, der ihn mitten in dem artigen und zierlichen
+Schertze unterstüzt, von welchem er der Vater ist, und zu-
+gleich da&sr; Muster giebt. Diesen Character giebt ihm Boi-
+leau:
+<cw><aq>Imi-</aq></cw></fnf>
+<pb="51"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+Lustigen. Alle Au&sr;drücke sind da gleich gut, und
+man macht da keinen Unterschied zwischen prosai-
+<bs>D 2</bs><cw>schen</cw>
+<fnf><cit><et><aq>Imitez de Marot l&2019;elegant badinage.</aq></et></cit>
+Zu der marotischen Schreibart wird Marot&sr; Geist, nicht
+nur seine Worte erfodert. Dieser war sehr fein und sehr
+anmuthig. Jn allem, wa&sr; er sagt, ist Anmuth, und
+seine gemeinsten Gedancken werden durch die Au&sr;bildung
+geschmückt. Also heißt man die angenehme Leichtigkeit, die
+natürliche Fliessendheit, die au&sr; Marot&sr; Geist, al&sr; ihrer
+wahren Quelle entsprang, au&sr; Danckbarkeit die marotische
+Schreibart, weil sie ihm so gar eigenthümlich war. Alle&sr;
+in seinen Gedichten gehört dem Naturell zu, nicht&sr; der Be-
+mühung, nemlich einer Bemühung, die sich selber ver-
+rathe und mercken lasse. Jn diesem Stücke haben ihn die
+anmuthigsten Köpfe unter den französischen Poeten für ih-
+ren Lehrmeister erkennt; al&sr; der Hr. de la Fontaine, der Abt
+Chaulieu &rr;c. Jch bin versichert, daß diese geistreiche Kö-
+pfe in ihrem Gebrauche der alten marotischen Sprache am
+allerwenigsten derauf gesehen haben, daß sie die Miltze
+ihrer Leser durch den ungewöhnlichen und veralterten Klang
+derselben belustigten. Da&sr; veralterte und au&sr; der Gewohn-
+heit gekommene in dieser Sprache dienete ihnen mithin, den
+Schertz durch ein merckliche&sr; Kennzeichen von dem Ernst zu
+unterscheiden; so wie dem Harlekin auf dem Schauplatze
+eine absonderliche an Schnitte und Farbe eigene Kleidung
+affectirt ist. Nun ist e&sr; ein Zeichen de&sr; guten Geschmacke&sr;,
+und ein Bewei&sr;thum de&sr; Reichthum&sr; der französischen
+Sprache, daß man nicht genöthiget ist, zum Schertze eben
+die Sprache zu brauchen, welche man zum Ernste anwen-
+det: Wie e&sr; einen Mangel anzeiget, wo man eine ernst-
+hafte und an sich selbst männliche Sprache hat, wie die
+deutsche eine solche ist, die man auch zum Schertze und
+zu Possen brauchen muß, aber sie eben dadurch mißbraucht,
+und entweihet; massen e&sr; schwerlich geschehen kan, daß
+sich nicht an einige Worte und Reden&sr;arten etwa&sr; verächt-
+<cw>liche&sr;</cw></fnf>
+<pb="52"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+schen und poetischen Reden&sr;arten. <fn="(<aq>I</aq>)">Damit man nicht sagen könne daß Hr. von Mau-
+villon ohne Grund nur seiner blossen Lust ein Genügen zu
+thuu, die Schwachheiten der deutschen Poeten aufdecke;
+<cw>so</cw></fn> Man fin-
+det oft unter einem Dutzend Verse, die so schwul-
+stig sind, al&sr; de&sr; Pindaru&sr;, ein pöbelhafte&sr;
+<cw>Sprüch-</cw>
+<fnf>liche&sr; nnd lächerliche&sr; mit anhänge. Mit wa&sr; vor einer
+Stirne darf man denn sagen, <fr>daß Marot nicht ein Haar
+besser schreibe, al&sr; Han&sr; Sachse; daß so wenig wir sonst
+au&sr; unsrem Han&sr; Sachse machen, wir ihn doch nicht
+geringer schätzen dürffen, al&sr; den altväterischen Marot:</fr>
+Hr. Gottsched hat diese&sr; in der Anmerckung zu dem Artickel
+<fr>Aretin</fr> vorgegeben. Er meint vielleicht, der widerliche
+Klang, oder die ungewöhnliche und altfränckische Reden&sr;art
+in Han&sr; Sachsen&sr; Sprache machen seine Gedichte so ver-
+werfflich und verächtltch; aber da&sr; thut e&sr; nicht, sondern
+da&sr; arme und abgeschmackte Zeug, da&sr; Han&sr; Sachse
+darinnen vorträgt, welche&sr; so beschaffen ist, daß e&sr; in die
+fliessendste gottschedische Schreibart übersezt Verdruß und
+Ekel gebähren muß. Da wir hingegen nur Marot&sr; Ge-
+dancken un&sr; bekannt machen müssen, die anmuthigste Lust
+davon zu empfangen. Man betrachte z. Ex. nur einen von
+seinen satyrischen Sendbriefen an seine Tadler, so wird
+man sehen, wie fein und starck er an Witz gewesen; wir
+können daran abnehmen, wie er seine ungeschickten Richter
+würde aufgezogen haben, wenn er ihre ungereimten Urtheile
+von ihm gewußt hätte. Wa&sr; endlich diejenige Art Schertze&sr;
+anbelangt, da man etwa&sr; durch eine Vergrösserung kleiner
+Dinge lächerlich zu machen sucht, wie Homer und Boileau ge-
+than haben, so ist ja offenbar, daß man zu diesem Ende nicht
+eine veraltete marotische, sondern eine prächtige heroische
+Sprache führen muß, wenn man nicht mit Fleisse seine
+Absichten verderben, und nicht die Sache, sondern sich
+selbst, zum Gelächter machen will.</fnf>
+<pb="53"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+Sprüchwort. Die Sprache ist nicht Schuld
+daran, sondern diejenigen, welche solche&sr; ohne
+<bs>D 3</bs><cw>Ge-</cw>
+<fnf>so will ich mit Anführung eine&sr; Dutzent Exempel zeigen,
+wie so gar sehr die deutschen Dichter dieser poetischen Kranck-
+heit, die man die fallende Sucht nennen kan, unterworf-
+fen seyn. Amthor läßt den Jupiter auf seinen Adler stei-
+gen, einen krähenden Hahn mit seinem Donner zu über-
+täuben.
+<poem>Komm nur! Verziehe nicht den Adler zu besteigen,
+Und heiß al&sr; deutscher Jupiter
+Doch einst de&sr; eiteln <fr>Hahn&sr; Geplärr</fr>
+Vor deine&sr; Donner&sr; Knall und Drohen schweigen.</poem>
+Jn der Zeile, die unmittelbar auf diese folget, trägt er
+ihm da&sr; würdige Geschäfte auf:
+<cit><et>Schleuß ihn in seinen Keficht ein.</et></cit>
+E&sr; ist bey diesem Poeten nicht&sr; ungewohnte&sr;, daß er die
+Wörter und Reden&sr;arten au&sr; der Hau&sr;haltung&sr;sprache
+in die Heroische und Virgilische versetzet:
+<poem>Wenn Cynthia die Flucht nach Latmu&sr; Höle nimmt,
+Und nicht der kleinste Stern in seiner <fr>Ampel</fr> glimmt.</poem>
+*
+<poem>&2012; Nach erhaltnem Zweck schien auch da&sr; Bündniß au&sr;:
+Drum war vor Dänemarck izt <fr>niemand mehr zu Hau&sr;.</fr></poem>
+*
+<cit><et>Wahr ist&sr;, <fr>die Glocke</fr> schien gefährlich gnug <fr>gegossen.</fr></et></cit>
+*
+<poem>Ein alter Wunderbau, den man Carthago hieß,
+Worinn der Tyrier sich <fr>häu&sr;lich niederließ.</fr></poem>
+Dadurch wird öfter&sr; der Wohlstand auf eine possierliche
+Art verletzet:
+<poem>Bi&sr; Dewitz auch dem Feind noch in die Flancken brach,
+Und mit der Dähnen <fr>Dau&sr;</fr> der Schweden <fr>König stach.</fr></poem>
+<cw>Die</cw></fnf>
+<pb="54"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+Geschmack und ohne Urtheil&sr;kraft anbringen.
+Und wenn die deutsche Welt sie deßwegen nicht
+<cw>bestraf-</cw>
+<fnf>*
+<cit><et>Die <fr>Mannheit</fr> Gothenburg&sr; war izo gnug <fr>verschnitten.</fr></et></cit>
+*
+<poem>Der kluge Steuermann muß selber unterliegen,
+Und <fr>über Kopf und Hal&sr;</fr> dem Meer in Rachen <fr>fliegen.</fr></poem>
+Diese&sr; ist Amthor&sr; Schreibart. Jst e&sr; eben diejenige,
+von welcher Hr. Gottsched in dem eilften Hauptstücke seine&sr;
+<fr>Versuche&sr;</fr> einer Dichtkunst für die Deutschen §. 14. sagt,
+<fr>e&sr; sey die rechte, welche sich zu einem Heldengedichte
+schicke;</fr> Amthor habe damit <fr>die edle Einfalt Virgil&sr; völ-
+lig erreicht?</fr> Neukirch&sr; Telemach redet durchgehend&sr; eben
+diese Sprache:
+<poem>Jndem sie weint und seufzt, kommt auf den Wasserwogen
+Hier eine Ruderbanck und dort ein Mast <fr>geflogen.</fr></poem>
+Wenn e&sr; wahr seyn soll, wie e&sr; Hr. Prof. Gottsched in dem
+eben angezogenen Hauptst. §. 17. bezeuget, daß Neukirch
+Opitzen in der heroischen Schreibart weit übertroffen habe,
+so muß man e&sr; von dieser verstehen. Hr. Pietsch ist auch
+damit angesteckt:
+<poem>Er suchte seinen Tod und der erboßte Haufen,
+Der blutbegierig war, muß <fr>kalte&sr; Wasser saufen.</fr></poem>
+*
+<poem>&2012; &2012; &2012; Der Scharlach, der dich trägt,
+Hat unsre Treue dir <fr>mit Hertzen überlegt.</fr></poem>
+*
+<poem>&2012; &2012; &2012; Wo man da&sr; Nacht kan nennen,
+Wo <fr>Fackeln, Ampeln,</fr> Licht, u. tausend <fr>Hertzen</fr> brennen.</poem>
+Man wird keine grosse Mühe haben in den Meisterstücken de&sr;
+Hr. Prof. Gottsched&sr; selber dergleichen Plattigkeiten mit Hof-
+mann&sr;waldauischer Hoheit vermischt anzutreffen. Jn ei-
+ner Serenate desselben singet die Schamhaftigkeit:
+<cw>Keine</cw></fnf>
+<pb="55"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+bestraffet, <fn="(<aq>K</aq>)">Der Mangel der critischen Freyheit und der Critick
+in einem Lande ist ein gewisse&sr; und untrügliche&sr; Kennzei-
+chen, daß die Seribenten desselben sich nach dem herrschen-
+den Geschmacke richten; und au&sr; einer blöden Gefällig-
+keit allen ihren Ruhm in dem Beyfalle de&sr; grossen Haufen&sr;
+suchen, dessen Geschmack gantz verderbt ist. So lange
+ein Krancker seine Kranckheit nicht erkennt, so ist keine Hoff-
+nung zu seiner Genesung: Wie sollte aber der zur Erkennt-
+niß seine&sr; verderbten Zustande&sr; können gebracht werden,
+der alle Erinnerungen nicht nur in den Wind schlägt, son-
+dern noch darüber zörnet? Jch finde in dem <aq>XII.</aq> St. der
+<fr>Critischen Beyträge</fr> auf der 614ten Seite ein offenhertzi-
+ge&sr; Bekenntniß von der Nothwendigkeit einer gesunden Cri-
+tick: &201E;E&sr; ist mit allen Veränderungen de&sr; Geschmack&sr;
+&q;so gegangen, daß die critischen Kenner zuerst den An-
+&q;fang dazu gemacht haben. Man critisiere also alle Ar-
+&q;ten der Gedichte so scharf, al&sr; man kan. Wenn e&sr; nur
+&q;nach guten Regeln geschieht; so wird man immer vielen
+<cw>&q;die</cw></fn> so rührt diese&sr; daher, daß die
+Leser eben so wenig Scharfsinnigkeit haben, al&sr;
+die Poeten, und, giebt man ihnen nur ein Blat
+voll Reimen mit abentheurlichen und platten Au&sr;-
+drücken zusammengekuppelt, daß sie darüber
+lachen müssen, sich im geringsten nicht&sr; um da&sr;
+bekümmern, wa&sr; wir geschickte Formeln und
+Reden&sr;arten, au&sr;erlesene Au&sr;drücke, feine
+Wahl, u. s. w. heissen Jch will mithin nicht
+leugnen, daß man in euren Poeten nicht hier
+<bs>D 4</bs><cw>und</cw>
+<fnf><poem>Keine Laster, keine Flecken,
+Sollen mir da&sr; Liljenkleid
+Unberührter Reinigkeit
+Durch der <fr>Liebe Schmutz</fr> bedecken,
+<fr>Der auch Schnee zu Dinte macht.</fr></poem></fnf>
+<pb="56"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+und da etliche treffliche Stellen antreffe, doch sind
+solche sehr dünne gesäet. Eine Strophe in Gün-
+ther&sr; Ode auf Gott hat mir so wohl gefallen, daß
+mich die Lust angekommen, sie in französische
+Verse zu übersetzen. Vielleicht ist e&sr; euch nicht
+zuwider, daß ich euch diese Uebersetzung zeige.
+Hier ist sie, und damit ihr desto leichter urthei-
+len könnet, ob sie der Urkunde gemäß sey, so
+will ich mit eurer Erlaubniß selbige beyfügen.</p>
+<poem>Wa&sr; willst du mit dem Schatten zancken?
+Beweiß an stärckern deine Macht;
+Wer wird dir in der Hölle dancken?
+Ach! Hast du dieß noch nicht bedacht? <fn="(<aq>L</aq>)">Hr. von Mauvillon hat die gepriesene güntherische
+Strophe durch seine Uebersetzung viel erträglicher gemacht,
+und ihr manche Schönheit mitgetheilet, die sie in dem Ori-
+<cw>ginale</cw></fn>
+Du kommst nut Donner, Blitz und Sturm;
+Wer ist der grosse Feind? Ein Wurm.</poem>
+<cw>Ueber-</cw>
+<fnf>&q;die Augen öffnen, und einer gantzen Nation dienen. Oh-
+&q;ne Zweifel hat die Critick der französischen Academie über
+&q;den Cid de&sr; Corneille den Geschmack der gantzen Na-
+&q;tion mehr gebessert, al&sr; hundert schlechte Stücke vor der
+&q;Zeit ihn verwöhnt hatten. Geschieht e&sr; gleich nicht in
+&q;einem Jahre, so ist e&sr; gar kein Wunder. Eine Kranck-
+&q;heit, die langsam entstanden ist, muß auch langsam
+&q;geheilet werden.&201E; Wie e&sr; um die Critick in Deutsch-
+land stehe, da&sr; kan man au&sr; der Geschichte der deutschen
+Critick in dem <aq>I.</aq> Stücke dieser Sammlung ersehen, und
+darau&sr; abnehmen, wie viel Grund die stoltze Au&sr;sage habe:
+&q;Wenigsten&sr; bezeigen doch die <fr>häufigen Criticken,</fr> wel-
+&q;che in Deutschsand so ofte zum Vorschein kommen, daß
+&q;die Wahrheit au&sr; unsren Grentzen so gantz und gar noch
+&q;nicht verwiesen ist.&201E; <aq>XV.</aq> St. der Crit. <fr>Beyt.</fr> Bl. 423.</fnf>
+<pb="57"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+<d3>Uebersetzung.</d3>
+<poem><aq>Grand Dieu, ta justice eternelle
+Veut-elle se mettre en courroux
+Contre moi, figure mortelle,
+Ombre trop vile pour te&sr; coup&sr;?
+Arme plut&00F4;t ta main fatale
+Contre ta puissance infernale,
+Qui brave la foudre &amp; l&2019;eclair!
+Mai&sr; &00E0; quoi bon ce bruit de guerre,
+Ce&sr; dard&sr;, ce&sr; carreaux, ce tonnerre,
+Quand ton Ennemi n&2019;est qu&2019;un Ver?</aq></poem>
+<p>Vielleicht hat kein Franzose noch den Einfall ge-
+habt, deutsche Verse in französische zu übersetzen.
+Nun bin ich zwar nicht so stoltz, daß ich mich vor
+einen Poeten halte, doch ist mir lieb, euch da-
+mit zu zeigen, daß ich kein Vorurtheil wider
+eure Poeten hege, sondern al&sr; gut erkenne und
+anpreise, wa&sr; mir so vorkömmt, wie ich e&sr; hin-
+gegen offenhertzig sage, wenn mir etwa&sr; schlecht
+zu seyn düncket.</p>
+<p>Jch erinnere mich bey dieser Gelegenheit, daß
+der Verfasser der jüdischen Briefe etwa&sr; ange-
+mercket hat, da&sr; ein ziemlich billige&sr; Vorurtheil
+wider den deutschen Parnaß erwecken muß. Er
+sagt, daß eure Poeten kein grosse&sr; Ansehn ver-
+<bs>D 5</bs><cw>die-</cw>
+<fnf>ginale nicht hat. Der Gedancke ist kühn und edel; aber
+er ist nicht eben so neu; sondern dem Heil. Dichter David
+abentlehnet, dessen Gedichte eine Quelle de&sr; Erhabenen
+sind. Mithin, wenn ich die Wahrheit gestehen soll, so
+deucht mich die güntherische Au&sr;bildung diese&sr; Gedancke&sr;
+zu frech; Jnsonderheit kan ich die Zeile,
+<cit><et><fr>Ach! Hast du dieß noch nicht bedacht?</fr></et></cit>
+die um etwa&sr; unverschämt ist, nicht vertragen.</fnf>
+<pb="58"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+dienen, scheine ihm vornehmlich daher glaub-
+würdig, <fn="(<aq>M</aq>)">Diese Anmerckung de&sr; Verfasser&sr; der jüdischen
+Briefe dienet in der That den Stoltz einiger deutschen Kunst-
+richter zu demüthigen, und ihnen wegen ihrer ruhmräthi-
+gen Großsprechereyen den Mund zu stopfen; da sie sich
+nicht scheuen, die berühmtesten Nahmen der alten und neuen
+Verfasser fremder Nationen durch ungeschickte Vergleichun-
+gen zu verkleinern, um durch diese Verkleinerung ihre poe-
+tischen Helden zu erheben. E&sr; wird auch den deutschen
+Kunstrichtern schwer fallen, diese Gleichgültigkeit fremder
+Nationen für die deutschen Schriften so zu erklären, daß
+e&sr; dem wahren Werth derselben nicht&sr; benimmt; da die
+Deutschen im Gegentheil bey ihrem Stoltze so erpicht sind,
+den fremden Scribenten ihre Gedancken gleichsam au&sr; dem
+Munde zu nehmen, und in ihre Sprache einzukleiden.</fn> weil nicht einer von ihnen weder
+in&sr; Französische, noch in&sr; Jtalienische, noch in&sr;
+Englische, noch in&sr; Spanische, noch in sonst
+eine Sprache übersezt sey; da hingegen Milton,
+Boileau, Pope, Racine, Tasso, Moliere,
+und schier alle angesehene Poeten in die meisten
+Europeischen Sprachen übersetzet worden. Ja,
+man hat eure Geschichtschreiber und Recht&sr;ge-
+lahrten, die dessen werth waren, übersetzet,
+wiewohl diese&sr; eben nicht beweiset, daß alle die,
+so übersetzet worden, gleich trefflich seyn, weil
+in Wahrheit nur allzu viele Federn sind, die
+schlimme Wercke um&sr; Lohn übersetzen. Wa&sr;
+aber eure Poeten anlangt, so ist e&sr; keine so
+leichte Arbeit, sie zu übersetzen, weil sie selber
+sich schier alleine mit Uebersetzen behelffen. Sie
+sind meisten&sr; selbst Uebersetzer: Zeiget mir ei-
+<cw>nen</cw>
+<pb="59"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+nen Schöpfer <fn="(<aq>N</aq>)">Hr. Magister <fr>Schwabe</fr> hat in der Vorrede zu sei-
+nen Belustigungen Bl. 6. eine triftige Apologie der deut-
+schen Poeten gegen diese Anklage miteinfliessen lassen. Sie
+lautet also: &201E;Wa&sr; die so genannten Schöpfer unter den
+<cit>&q;erfindsamen Franzosen betrifft, so werden ihrer, wenn man
+&q;die Benennung in ihrem eigentlichen Verstande nimmt,
+&q;wohl eben keine grössere Anzahl seyn, al&sr; unter unsren
+&q;Lande&sr;leuten. Jhr berühmtester Satirenschreiber <fr>Boi-
+&q;leau</fr> hat die Gedancken de&sr; Horatz und Juvenal&sr; so gut
+&q;zu übersetzen, und für seine eigene au&sr;zugeben gewußt,
+&q;al&sr; e&sr; unser geschickte Satirenschreiber <fr>Rachel</fr> gekonnt hat;
+&q;ihr bester Fabeldichter, <fr>la Fontaine,</fr> hat nicht mehr eige-
+&q;ne&sr;, al&sr; unser Herr <fr>von Hagedorn;</fr> und ihr grosser
+&q;<fr>Corneille</fr> hat noch weniger Antheil an seinem schönen
+&q;Trauerspiele, Cid, al&sr; sich unser grosse Beförderer der
+&q;deutschen Schaubühne von seinem sterbenden Cato au&sr;
+&q;Bescheidenheit zugeeignet. Wa&sr; für eine Pralerey ist e&sr;
+&q;denn nicht, wenn man sich mit seinem erfindung&sr;reichen
+&q;Geiste in der Dichtkunst so viel weiß? Man darf nur
+&q;einmahl ein wenig untersuchen, wa&sr; für eigenthümliche
+&q;Früchte die französische Dichtkunst getragen hat, und
+&q;wa&sr; für Arten von Gedichten al&sr; eingebohrne bey ihnen
+&q;anzusehen sind. Sollte e&sr; nicht gewissermassen der Ab-
+&q;schaum de&sr; Witze&sr; seyn? Denn wa&sr; ist e&sr; wohl ander&sr;,
+&q;da&sr; sie in der Poesie ersonnen haben, al&sr; Endreime,
+&q;ein Rondeau, ein <fr>Virelay?</fr> Wahrhaftig diese&sr; sind
+&q;recht beneiden&sr;würdige Erfindungen de&sr; französischen
+&q;Witze&sr;! Welcher vernünftige Deutsche wollte ihnen die-
+&q;se Vorzüge nicht gern alleine lassen? Wer wollte ihnen
+&q;nicht gern die Ehre gönnen, noch mehr dergleichen Schön-
+&q;heiten und Seltsamkeiten au&sr;zusinnen?&201E; Jch muß</cit>
+über die seltsame Art dieser Vertheidigung unumganglich
+zwo besondere Anmerckungen beyfügen, um zu zeigen, wie
+<cw>geschickt</cw></fn> auf eurem Parnasse; ich
+will sagen, zeiget mir einen deutschen Poeten,
+<cw>der</cw>
+<pb="60"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+der ein vortreffliche&sr; Werck, da&sr; ein Aufsehen
+in der Welt gemacht, au&sr; seinem Eigenthum
+<cw>her-</cw>
+<fnf>geschickt dieser Verfasser ist, die Streitfrage zu verdrehen.
+Die erste ist, daß er der Benennung eine&sr; <fr>poetischen Schö-
+pfer&sr;</fr> einen weitläuftigern und unbestimmtern Verstand an-
+dichtet, und dann auf den Grund de&sr; comischen Sprüch-
+lein&sr;, <aq>Nil dictum est, quod non dictum sit priu&sr;,</aq> die
+Möglichkeit eine&sr; solchen poetischen Schöpfer&sr; unter den
+Menschen, und hiemit auch unter den Franzosen, durch-
+au&sr; läugnet. Die zweyte Anmerckung ist, daß er die Fra-
+ge von vortrefflichen poetischen und andern geistreichen Schrif-
+ten auf die Erfindung von gewissen Arten der Gedichte ab-
+lencket, und durch diese Verdrehung der französischen Na-
+tion zur Last legen will, daß sie ihre gerühmte Erfindung&sr;-
+kraft übel genug anwende. Bi&sr;dahin hat jedermann die
+virgilische Aenei&sr;, (eben wie die Satiren de&sr; Despreaux,)
+für ein eigenthümliche&sr; Werck diese&sr; berühmten Verfasser&sr;
+angesehen, ob er gleich da&sr; homerische Gedichte sich zum
+Muster genommen, und manche&sr; schöne&sr; Stücke darau&sr;
+in sein Werck übergetragen, und sich gantz eigen zu ma-
+chen gewußt hat. Und man fodert nicht ein mehrer&sr; von der
+deutschen Nation, al&sr; daß sie eben dergleichen poetische
+Schöpfer, al&sr; Maro gewesen, unter ihren Lande&sr;leuten
+aufweise. Allein e&sr; sind nicht alle Deutsche so ungerecht
+und solche Pocher, al&sr; Hr. Magister <fr>Schwabe</fr> ist. Jn dem
+11ten St. der <fr>Crit. Beyträge</fr> auf der 205ten Seite liest
+man: &201E;Die Deutschen sind zuweilen selbst so bescheiden
+<cit>&q;g wesen, den Au&sr;ländern die Ehre der Erfindung zu-
+&q;zuschreiben.&201E; Und in der Vorrede zu dem ersten St.
+der <fr>Crit. Beyträge</fr> wird folgende&sr; Bekenntniß abgeleget:
+&q;So weit e&sr; unsre Nation in Vertilgung der alten Bar-
+&q;barey, und in Abschaffung de&sr; vormahligen scythischen
+&q;und gothischen Geschmacke&sr; in allerley Dingen gebracht:
+&q;So wenig kan sich dieselbe rühmen, <fr>daß sie e&sr; darinnen
+&q;ihren südlichen und westlichen Nachbarn, ich meine</fr>
+<cw>den</cw></cit></fnf>
+<pb="61"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+hervorgebracht habe. Jch fodere euch darauf
+herau&sr;.</p>
+<cw>Man</cw>
+<fnf><cit>&q;den Jtalienern, Franzosen, Holländern, und Engel-
+&q;ländern, <fr>alldereit gleich gethan hätte.</fr> Und diese&sr; ist
+&q;gar kein Wunder. <fr>E&sr; gehört mehr al&sr; ein Jahrhun-
+&q;dert dazu,</fr> wenn ein gantze&sr; Volck au&sr; seiner natürli-
+&q;chen Rauhigkeit nnd Barbarey gerissen werden soll. &2012; &2012;
+&q;Franckreich ist später, al&sr; die Jtaliener, <fr>zu demjeni-
+&q;gen Grade der Vollkommenheit</fr> gelanget, <fr>den wir
+&q;bi&sr;her diesem Volck haben zugestehen müssen.</fr> &2012; &2012; &2012; &2012;
+&q;Wir Deutschen haben un&sr; hundert Jahre später beson-
+&q;nen, seit dem nemlich der unsterbliche Opitz &2012; &2012; &2012; ei-
+&q;nen gantz andern Geschmack eingeführet hat. &2012; &2012; &2012; &2012; &2012;
+&q;Doch Opitz ist noch nicht hundert Jahre todt, <fr>und e&sr;
+&q;fehlt noch viel daran, daß wir un&sr; andern benachbar-
+&q;ten Völckern an die Seite setzen könnten.</fr> Die Anzahl
+&q;schöner Schriften in unsrer Muttersprache ist noch sehr
+&q;klein. Die <fr>Meisterstücke</fr> unsrer Poeten erstrecken sich
+&q;nur erst bi&sr; auf die kleinern Gattungen der Gedichte,
+&q;<fr>ja auch darinn sind die regelmässigen und untadelichen
+&q;noch nicht sehr häufig zu haben.</fr> Die Beredsamkeit
+&q;hat gleichfall&sr; kaum die Kinderschuhe vertreten, muß
+&q;auch noch etwa ein halbe&sr; Jahrhundert Zeit haben, ehe
+&q;sie zu einem männlichen Alter gelangen wird. &2012; &2012; &2012; &2012; &2012;
+&q;Seichte Geister sehen alle unsre Scherben vor Edelge-
+&q;steine an; <fr>Wer aber die wahren Vollkommenheiten
+&q;der Au&sr;länder nach den Regeln der Vernunft und Kunst
+&q;kennen gelernet,</fr> der kan sich nicht enthalten, unsren
+&q;Eigendünckel mit Erbarmen, und die daher entstehen-
+&q;de Nachlässigkeit mit einigem Unwillen anzusehen.&201E;
+Und in eben diesem ersten St. auf der 137sten Seite stehet
+folgende&sr; Zeugniß: &201E;So schmeichelhaft e&sr; unsrer Ei-
+&q;genliebe klinget, wenn wir e&sr; unsrem Vaterlande in
+&q;dem iztlaufenden Jahrhundert zum Lobe nachsagen, daß
+&q;darinnen alle Künste und Wissenschaften auf den höch-
+<cw>&q;sten</cw></cit></fnf>
+<pb="62"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+<p>Man wird vielleicht glauben, weil eure Poe-
+ten sind gantz und gar auf da&sr; Uebersetzen gele-
+<cw>get</cw>
+<fnf><cit>&q;sten Gipfel der Vollkommenheit gebracht worden: So
+&q;wenig kan man diese&sr; glauben, wenn man dieselben stück-
+&q;weise durchgehet, und die vermeinten Meisterstücke,
+&q;die dasselbe hervorgebracht, mit critischen Augen betrach-
+&q;tet. Wer sollte e&sr; z. Ex. nicht dencken, daß wir in
+&q;der Poesie, nach einer solchen Menge von Poeten, al&sr;
+&q;Deutschland aufweisen kan, einen grossen Vorrath schö-
+&q;ner Muster hätten, die wir in allen Gattungen der
+&q;Gedichte zeigen könnten? Gleichwohl fehlt e&sr; un&sr; in
+&q;den allerwichtigsten Theilen derselben, ich will nicht sa-
+&q;gen an vollkommenen, sondern nur an erträglichen
+&q;Proben. Jn <fr>Heldengedichten</fr> haben wir noch nicht&sr;,
+&q;al&sr; den <fr>Wittekind;</fr> wieviel aber von demselben zu hal-
+&q;ten sey, wollen wir mit ehestem in einem eigenen Ar-
+&q;tickel anzeigen. Jn Tragödien haben wir noch nicht&sr;
+&q;in öffentlichem Drucke, al&sr; <fr>Lohenstein&sr;</fr> und de&sr; ältern
+&q;<fr>Gryphii</fr> Stücke: die wir auch bey Gelegenheit nach
+&q;den Regeln untersuchen wollen. Jn <fr>Comödien</fr> haben
+&q;wir ausser ein Par Stücken von gedachtem <fr>Gryphiu&sr;,</fr>
+&q;nicht&sr; al&sr; <fr>Riemer&sr;</fr> und <fr>Weisen&sr;</fr> Comödien, so in eini-
+&q;gen Ruhm gekommen sind. Gleichwohl sind auch diese
+&q;so schlecht nach den <fr>theatralischen</fr> Regeln eingerichtet,
+&q;daß man sich wundern muß, wie sie sich so lange in der ein-
+&q;mahl erlangten Hochachtung erhalten können. Alle
+&q;diese Stücke aber sind in dem vorigen Jahrhundert ver-
+&q;fertiget worden, und da wir in den 30. Jahren de&sr;
+&q;itzigen, anstatt dieser unvollkommenen Versuche wa&sr; bes-
+&q;ser&sr; sollten geliefert haben; so haben wir nicht&sr; al&sr; etliche
+&q;Schocke Opern aufzuweisen; eine poetische Mißgeburt &rr;c.&201E;
+Will aber jemand ein neuere&sr; Zeugniß, so kan ich au&sr;
+dem <aq>XXII.</aq> St. der <fr>Beyträge</fr> ein&sr; anführen: E&sr; heißt
+daselbst auf der 466sten Seite: &201E;Jch weiß e&sr; nicht zu
+&q;sagen, wie mir meine Land&sr;leute, die Deutschen, in
+<cw>&q;An-</cw></cit></fnf>
+<pb="63"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+get haben, daß sie in diesem Stücke Wunder
+<cw>gethan</cw>
+<fnf><cit>&q;Ansehung ihre&sr; Geschmack&sr; vorkommen. Sie bezeigen
+&q;eine Neigung zu allen Arten de&sr; Sinnreichen, eben so
+&q;wohl al&sr; ihre Vorgänger die Alten, und ihre Nachbarn,
+&q;die übrigen Europeer: Aber hierinnen finde ich einen
+&q;grossen Unterschied, <fr>daß jene allemahl selbst gearbeitet,</fr>
+&q;und sich dabey keine Regeln vorgeschrieben, al&sr; solche,
+&q;die theil&sr; die gesunde Vernunft, und die Bequemlich-
+&q;keit in der Au&sr;arbeitung, theil&sr; der Wohlstand in der
+&q;Au&sr;übung, erfoderten. <fr>Diese aber scheinen sich fast
+&q;vor eigenen Arbeiten zu fürchten, und lassen sich an
+&q;sclavischen Nachahmungen und Uebersetzungen begnü-
+&q;gen;</fr> legen sich aber dabey so schwere und fast nicht zu
+&q;übersteigende Regeln auf, daß sie mit Widerwillen ar-
+&q;beiten, schwer und unverständlich werden, endlich auch
+&q;der Natur Gewalt thun.&201E;</cit> Jch lasse nun meine Leser
+selbst urtheilen, ob Hr. Mauvillon nicht bescheidener von
+unsren deutschen Poeten und ihren Unvollkommenheiten ge-
+redet habe, al&sr; diese deut chen Kunstrichter selbst. Ehe
+ich aber diese Anmerckung beschliesse, muß ich noch etwa&sr;
+mit zweyen Worten über die au&sr; Hrn. M. Schwaben Vor-
+rede zu seinen Belustigungen oben angeführte Vergleichung
+<fr>Rachel&sr;</fr> mit <fr>Boileau, Hagedorn&sr;</fr> mit <fr>la Fontaine,</fr> und
+<fr>Gottsched&sr;</fr> mit <fr>Corneille</fr> anmercken. Wa&sr; den Hrn. von
+<fr>Hagedorn</fr> anlanget, so wird er hier mit <fr>la Fontaine</fr> in ei-
+ne Linie gesezt; in dem <aq>XXII.</aq> St. der <fr>Beytr.</fr> Bl. 299. u. f.
+aber weit unter den <fr>Stoppe,</fr> der ein eben so schlechter Fa-
+beldichter al&sr; <fr>Triller</fr> ist, hinuntergesetzet: Beydemahl mit
+Unrecht, wie er selbst erkennt. Und wer de&sr; Hrn. <fr>von
+Hagedorn</fr> und <fr>Stoppen&sr;</fr> Fabeln mit Verstande und cri-
+tischer Einsicht gelesen hat, wird da&sr; verkehrte und hämi-
+sche Urtheil, welche&sr; in dem angezogenen Orte der <fr>Bey-
+träge</fr> Bl. 300. 304. u. 306. gefället wird, nicht ohne Ver-
+druß lesen. Jm übrigen schäme ich mich für die deutsche
+Nation, daß sie an Schwaben einen so ungeschickten Ver-
+<cw>fechter</cw></fnf>
+<pb="64"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+gethan hätten. Jm geringsten nicht. <fn="(<aq>O</aq>)">Jch muß doch zur Befestigung dieser Anklage ein
+Paar Exempel von dergleichen deutschen Uebersetzungen
+beybringen. Hr. <fr>Gottsched</fr> übersezt da&sr; bekannte Horatzische
+<poem><aq>Nil tanti est, ergo fungar vice Coti&sr;; acutum
+Reddere qu&00E6; ferrum valet, exsor&sr; ipsa secandi,</aq></poem>
+folgendermassen:
+<poem><fr>Doch Grillen! weg damit! Jch trachte, den Poeten
+Hinfort ein Sporn zu seyn, ein Wetzstein ihrer Flöten.</fr></poem>
+Wenn er Horatzen mit Fleisse hätte verkleiden und lächerlich
+machen wollen, so hätte er e&sr; kaum besser treffen können.
+Da&sr; <aq>exsor&sr; ipsa secandi,</aq> welche&sr; doch der Grund von
+dieser horatzischen Vergleichung ist, ist gäntzlich au&sr; der
+<cw>Acht</cw></fn> Sie
+haben die besten Französischen, Englischen und
+Jtaliänischen Originale verderbt. Unsre dra-
+matische Gedichte beweisen diese&sr; nur allzu merck-
+lich; man kennet sie in eurer Sprache nicht mehr.
+E&sr; sind ungefehr dieselben Begriffe, aber un-
+gemein matt au&sr;gedrücket.</p>
+<cw>Allein</cw>
+<fnf>fechter hat, der <fr>Gottscheden,</fr> weil er au&sr; <fr>de Champ&sr;</fr>
+und <fr>Addisson&sr;</fr> Tragödien seinen deutschen Cato zusammen-
+geleimt, und beyde verderbt hat, zu einem <fr>Corneille</fr> ma-
+chen will: Eben so lächerlich, al&sr; wenn ein Schülerknabe,
+der einmahl <aq>ad imitationem Ciceroni&sr;</aq> componiert hat, sich
+schmeicheln wollte, daß ihm Cicero in der Zierlichkeit der
+lateinischen Schreibart weichen müßte. Der ungenannte
+Versasser de&sr; poetischen Schreiben&sr; über die <aq>Lettre&sr; Ger-
+manique&sr;</aq> in dem <aq>XXIII.</aq> St. der <fr>Beytr.</fr> muß Bl. 520. u.
+521. wenn er auf die deutschen Schöpfer kömmt, seine Zu-
+flucht zu einem Schweitzer., dem philosophischen Hrn. Hal-
+ler, nehmen, sonst weiß er keinen anzuführen, wiewohl
+er <fr>Gottsched</fr> gern an <fr>Haller&sr;</fr> statt angeführt hätte, wenn
+er solche&sr; von seinem Gewissen hätte erhalten können.</fnf>
+<pb="65"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+<p>Allein ihr würdet mich einer Uebereilung be-
+züchtigen, wenn ich nicht ein Exempel davon
+anführete. Derowegen muß ich euch zeigen,
+daß ich ohne Hitze schreibe, und euch meinen
+Satz beweisen. Jch will euch aber nur ein ein-
+zige&sr; Muster vor Augen legen, denn ich habe
+keine Lust mich hierüber weitläuftig einzulassen,
+<bs>E</bs><cw>wel-</cw>
+<fnf>Acht gelassen worden. Und der <fr>Wetzstein der Flöten</fr> könn-
+te nicht possierlicher seyn. Jch muß auch der schönen Stelle
+de&sr; Boileau erwähnen:
+<poem><aq>Ma bile alor&sr; &sr;&2019;&00E9;chauffe, &amp; je brule d&2019;&00E9;crire:
+Et &sr;&2019;il ne m&2019;est permi&sr; de le dire au papier;
+J&2019;irai croiser la terre, &amp; comme ce Barbier,
+Faire dire aux roseaux par un nouvel organe,
+Mida&sr;, le Roi Mida&sr; a de&sr; oreille&sr; d&2019;Ane.</aq></poem>
+Wie viel verliehret diese&sr; nicht an Schönheit und Farbe in
+der Satyre, welche in der gottschedischen Dichtkunst die
+erste ist? Bl. 556.
+<poem>Ja sollt e&sr; einst geschehn, daß unsre Dichterschaar
+So lang an Ohren wär, al&sr; vormahl&sr; Mida&sr; war:
+So würde man, wie dort, au&sr; den beschilften <fr>Röhren</fr>
+Den Ruf: Die&sr; tolle Volck hat Esel&sr;ohren! hören.</poem>
+Die Gottschedische Uebersetzung in der deutschen Jphigenie
+machet, daß ein Held, welcher in der Geschichte nicht al&sr;
+ein Zwitter bekannt geworden, ein Töchterlein empfängt:
+<poem><aq>Thes&00E9;e avec Helene uni secrettement
+Fit succeder l&2019;hymen &00E0; son enlevement,
+Une Fille en sortit. &amp;c. &2012; &2012; &2012; &2012; &2012;</aq></poem>
+<poem>Al&sr; vormahl&sr; Theseu&sr; einst mit Helenen entgieng,
+Und au&sr; geheimer Lieb&2019; ein Töchterlein empfieng.</poem>
+E&sr; ist mehr al&sr; wahrscheinlich, daß nicht Theseu&sr;, son-
+dern Helena au&sr; geheimer Liebe ein Töchterlein empfangen
+<cw>habe.</cw></fnf>
+<bs>[Crit. Sa&tm;l. <aq>V.</aq> St.]</bs>
+<pb="66"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+welche&sr; nur euch und auch mir beschwerlich seyn
+würde. Jch will den angesehnsten von allen eu-
+ren Uebersetzern au&sr;lesen. Unter diesen Herren
+gehört Neukirchen ohne Zweifel der erste Rang;
+<fn="(<aq>P</aq>)">Jn dem <aq>XIX.</aq> St. der <fr>Critischen Beyträge,</fr> auf der
+519ten Seite heißt e&sr;: <cit>&201E;Der sel. Hr. <fr>Neukirch</fr> hat auf
+&q;dem deutschen Parnaß schon vorlängst einen solchen Rang
+&q;erhalten, daß man alle&sr;, wa&sr; au&sr; seiner Feder geflössen
+&q;ist, nicht ohne Beyfall und Ergetzung zu lesen pfleget.&201E;
+Und im <aq>XIII.</aq> St. Bl. 125. &201E;Daß <fr>Neukirch</fr> einer von
+&q;unsren stärcksten Poeten gewesen, da&sr; ist einem jeden
+&q;Liebhaber deutscher Gedichte bekannt. &2012; &2012; &2012; Denn
+&q;seitdem er in Berlin, nach dem Exempel de&sr; grossen
+&q;Canitz, die Natur zur Führerinn genommen, hat er al-
+&q;len alten Künsten gute Nacht gegeben, und die Exem-
+&q;pel der besten französischen Poeten so glücklich nachgeah-
+&q;met, daß er sie in vielen Stücken übertroffen.&201E;</cit> Zwar
+findet sich in dem <aq>XXIV.</aq> St. Art. <aq>II.</aq> Bl. 605. ein Urtheil,
+da&sr; dem eben angeführten gäntzlich widerspricht; [wel-
+<cw>che&sr;</cw></fn> seine Uebersetzung de&sr; Telemach&sr; hat ihm ei-
+nen grossen Nahmen gemachet. Dieser Poet
+<cw>war</cw>
+<fnf>habe. Ueberhaupt ist die deutsche Jphigenia so beschaffen,
+daß sie zu einem Beweise dienet, wie Hr. Prof. <fr>Gottsched</fr>
+die Franzosen so treulich übersetzet, al&sr; die Franzosen, nach
+seinem Sagen, die Griechen und Lateiner übersetzen. Jch
+werde darum auch nächsten&sr; die Mühe nehmen, und die
+Jphigenia de&sr; <fr>Racine</fr> und die gottschedische Uebersetzung
+gegen einander halten, und in deutlichen Proben zeigen,
+wie oft der Franzose in seinem Uebersetzer gefunden oder
+vermißt wird; denn diese Arbeit ist für eine Anmerckung zu
+weitläuftig. Nur kan ich e&sr; hier nicht ungeantet lassen,
+daß diese deutschen Puristen erst neulich dem berühmten
+<fr>Bayle</fr> ein <fr>Wörterbuch</fr> zugeleget haben.</fnf>
+<pb="67"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+war bey einem jungen Printzen Hofmeister ge-
+wesen, dem zu gefallen er diese Arbeit über sich
+genommen, und mit historischen und morali-
+schen Anmerckungen bereichert hat. Er mochte
+sie nicht vollend&sr; zum Stande bringen, <fn="(<aq>Q</aq>)">Hier irret Hr. Mauvillon, und mag ihn wohl zum
+Theil die Nachricht, welche in dem <aq>XIII.</aq> St. der <fr>Crit. Bey-
+träge</fr> Bl. 123. vorkömmt, betrogen uud verführet haben.
+E&sr; wird aber dieselbe in dem <aq>XXIV.</aq> St. Art. <aq>II.</aq> Bl. 601.
+widerruffen.</fn> er
+war noch nicht weit über die Helfte, al&sr; er im
+Kopf verrücket ward. So unvollendet sie ist,
+wird sie doch von den Deutschen ungemein ge-
+priesen, und vor ein Meisterstücke angesehen.
+Jch will eurer Nation ihr Urtheil nicht wieder-
+sprechen; sondern glauben, daß Neukirch die-
+se&sr; Lob verdiene, allermassen man hier nicht ge-
+wohnt ist, bessere Uebersetzungen zu sehen, al&sr;
+die seine ist. Aber ich kan mich nicht enthalten
+zu sagen, daß de&sr; Herrn von Fenelon Werck
+in dieser Uebersetzung viel verlohren <fn="(<aq>R</aq>)">Jch kan die Leser de&sr;fall&sr; neben dem wenigen, so
+<cw>Hr.</cw></fn>, und
+<bs>E 2</bs><cw>Hr.</cw>
+<fnf>che&sr; in diesen Beyträgen eben nicht gar ungewohnt ist,]; denn
+ob er gleich ein <fr>grosser Dichter Deutschland&sr;</fr> genennet
+wird, der aller <fr>Hochachtung werth sey,</fr> so heißt e&sr; doch
+von seinem deutschen Telemach: <cit>&201E;Allein e&sr; sind darinn
+&q;so viel matte Au&sr;drücke, langgedehnte Perioden, und
+&q;solche Unrichtigkeiten im Sylbenmaasse, daß wir mit
+&q;Recht wünschen können, <fr>daß Neukirch die Arbeit 20.
+&q;Jahre eher angefangen haben möchte.&201E;</fr></cit> Doch wird
+er von Hrn. Prof. Gottscheden in eben diesem <aq>XXIV.</aq> St.
+auf der 659sten Seite unter die grossen Dichter Deutsch-
+lande&sr; gezehlt.</fnf>
+<pb="68"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+Hr. Neukirch ihm öfter&sr; solche Linien geliehen
+hat, welche wahrhaftig seinen Werth nicht er-
+heben. Jch finde eine solche Stelle im ersten
+B. wo Calypso den Sohn Ulysse&sr; inständig er-
+sucht, daß er ihr seine Begebenheiten erzehlete.
+Der junge Fürst will ihr ungeduldige&sr; Verlan-
+gen stillen, und fängt die Erzehlung seiner Ge-
+schichte mit diesen Worten an. &rr;c. Diese&sr; alle&sr;
+wird von dem Herrn von Fenelon so geschickt
+vorgestellet, daß man sich einbildet, man höre
+Telemachen selber reden. Jm Neukirch sehen
+wir nicht&sr; dergleichen. Man dächte er hätte
+diese Stelle verdrehen wollen, damit sie possier-
+lich herau&sr;käme. Seine Worte lauten auf
+französisch: &2012; &2012; &2012; <aq>Me&sr; malheur&sr;, repon-
+dit Telemaque &00E0; la Deesse, sont trop long&sr;
+&amp; trop plein&sr; de lamentation&sr;, pour meri-
+ter votre curiosit&00E9;. Non non, reprit-elle,
+avec flatterie, je meur&sr; d&2019;envie de le&sr; enten-
+dre. Elie le pressa encore longtem&sr; avant
+que de pouvoir le faire parler, tant il avoit
+le c&0153;ur serr&00E9;: Mai&sr; enfin il se laissa persua-
+der; ET A CE QU&2019;ON DIT ET QU&2019;ON
+CROIT, IL PARLA DE LA SORTE.</aq></p>
+<cw>Und</cw>
+<fnf>Hr. Mauvillon anführet, auf die genauere critische Unter-
+suchung verweisen, die in der neuen <fr>Critischen Dichtkunst</fr>
+Hrn. Prof. <fr>Breitinger&sr;</fr> im 2ten Theile, in dem Abschnitt
+von der Uebersetzung Bl. 182. u. f. zu finden ist. Und wer
+ein Muster von dem Neukirchischen gereinigten Feuer und
+Geschmack geprüft sehen will, der ziehe gedachten Verfas-
+ser&sr; Werck von den <fr>Gleichnissen,</fr> und daselbst den lezten
+Abschnitt zu Rathe.</fnf>
+<pb="69"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+<cit>Und wie man sagt und glaubt hat er also gesprochen.</cit>
+<p>Ha, wie zierlich ist diese&sr;! E&sr; hat etwa&sr; so pos-
+sierliche&sr; in sich, da&sr; mich au&sr; mich selber setzt.
+E&sr; gehört ein glückliche&sr; Naturell dazu, wenn
+man da&sr; Possierliche mit dem Erhabenen geschickt
+vermischen soll; und eben in diesem Stücke sind
+die deutschen Poeten vortrefflich. Wenn ich die-
+se Worte Neukirch&sr; lese, so dünckt e&sr; mich, ich
+lese ein Mährgen im La Fontaine, in welchem
+nicht viel übrige Wahrscheinlichkeit ist; und
+wo dieser scharfsinnige Verfasser mir sagt, daß
+er vor die Geschichte nicht gut stehen wolle, wel-
+che&sr; er in seiner marotischen Schreibart so vor-
+trägt, <fr>er gebe sie, wie er sie eingenommen
+habe.</fr> Da&sr; Mißtrauen, welche&sr; La Fontaine
+dadurch bey dem Leser erwecket, belustiget ihn
+eben so sehr, al&sr; die Geschichte selbst. Aber
+wa&sr; in einem Mährgen artig ist, da&sr; ist in ei-
+nem heroischen und ernstlichen Gedichte, wie
+Neukirch&sr; seine&sr; ist, etwa&sr; recht scheußliche&sr;.</p>
+<p>Jch würde niemahl&sr; fertig werden, werthe-
+ster Freund, wenn ich alle die platten Stellen
+au&sr;setzen sollte, die ich in euren berühmtesten
+Poeten gelesen habe. Jch wei&sr; deren noch eine
+Menge im Neukirchen, im Opitzen <fn="(<aq>S</aq>)">Jch muß diese Anmerckung wiedmen, den Vater
+der deutschen Poesie, den grossen <fr>Opitz,</fr> und seinen getreuen
+Schüler den <fr>Canitz,</fr> au&sr; dem Haufen der matten Poeten
+Deutschlande&sr; zu sondern, und zum Theil gegen den Hr.
+Mauvillon zu vertheidigen. <fr>Opitz</fr> hat da&sr; Zeugniß de&sr;
+<cw>gros-</cw></fn>, im
+Gottscheden, im Kahnitzen; Brock&sr; selbst ist
+<bs>E 3</bs><cw>davon</cw>
+<pb="70"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+davon nicht gereiniget, ungeachtet er vielleicht de-
+ren am wenigsten hat, indem er sich den Geschmack
+an die frantzösischen und englischen Poeten ge-
+wöhnt hat: Und ich kan ihm die Stelle nicht
+<cw>ver-</cw>
+<fnf>grossen <fr>Leibnitzen</fr> verdienet; dieser sagt von ihm in den <fr>Ge-
+dancken von der Verbesserung der deutschen Sprache:</fr>
+<cit>&q;Der treffliche <fr>Opitz,</fr> so bey un&sr;, wie <fr>Virgil</fr> bey den
+&q;Römern, der erste und <fr>lezte</fr> seine&sr; Schrot&sr; und Korn&sr;
+&q;gewesen.&201E;</cit> Dieser vortreffliche <fr>Opitz</fr> ist bald 80. Jahre
+in Deutschland fast unbekannt geblieben, bi&sr; die Zürchi-
+schen Kunstverständigen den Werth desselben angepriesen;
+welche&sr; so viel gefruchtet hat, daß die Deutschen allmählig
+angefangen, seinen Vorzug vor einer grossen Menge schlech-
+ter Poeten von schlimmem Geschmacke zu erkennen; wie
+dann Hr. Prof. <fr>Gottsched</fr> in der Vorrede zu den <fr>Crit.
+Beyträgen</fr> folgende&sr; Zeugniß von ihm abgeleget: <cit>&201E;Der
+&q;unsterbliche <fr>Opitz</fr> hat in allem, wa&sr; unsre Sprache,
+&q;und die edelsten unter allen freyen Künsten angehet,
+&q;einen gantz andern Geschmack eingeführet. Er sahe
+&q;damahl&sr; die Muster der Franzosen und Niederländer
+&q;schon in grosser Vollkommenheit vor Augen, und da er
+&q;mit den alten Griechen und Römern durch ihre Schrif-
+&q;ten so viel Bekanntschaft hatte, so schmerzte e&sr; ihn, die
+&q;Schriften seiner Nation noch in so unförmlicher Gestalt,
+&q;und seine Muttersprache in solcher Rauhigkeit zu sehen.
+&q;Er gieng daher einen zu seiner Zeit in Deutschland gantz
+&q;neuen Weg, und brach allen seinen Nachfolgern so
+&q;glücklich die Bahn, daß wir die grosse Veränderung, so
+&q;dadurch entstanden, nicht genugsam bewundern kön-
+&q;nen. Doch <fr>Opitz</fr> ist noch nicht 100. Jahre todt, und
+&q;wir sind mit der Au&sr;führung eine&sr; so grossen Wercke&sr;,
+&q;al&sr; die Verbesserung de&sr; Geschmack&sr; der Deutschen ist,
+&q;<fr>kaum bi&sr; auf die Helfte gekommen.&201E;</fr></cit> Ohne Zweifel
+versiehet er durch den ungewissen Au&sr;druck <fr>kaum bi&sr; auf
+die Helfte,</fr> einen ziemlichen Grad weniger, al&sr; die Helfte:
+<cw>Deutsch-</cw></fnf>
+<pb="71"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+verzeihen, wo er den milden Ueberfluß eine&sr; ge-
+wissen Jahre&sr; damit in ein hohe&sr; Licht setzen wol-
+len, daß er angezeiget hat, man habe da&sr; paar
+Lerchen um zween Dreyer bekommen können.</p>
+<bs>E 4</bs><cw>Aber</cw>
+<fnf>Deutschland hat noch keinen Poeten, der <fr>Opitzen</fr> in allen
+Stücken gleichkomme, und wenige, die ihn auch in den
+schlechtesten übertreffen. <fr>Canitz, Haller,</fr> und <fr>Brocke&sr;,</fr>
+und der leztere zwar nur in einigen Stücken, haben sich sei-
+ner Höhe genähert. Wa&sr; zwar den äusserlichen Aufputz
+de&sr; Verse&sr;, und die Richtigkeit de&sr; Sylbenmaasse&sr; an-
+langt, gestehe ich gerne, daß die Neuern mehr Künstlich-
+keit zeigen, und will diese&sr; nicht in die Rechnung bringen.
+Jch mag in&sr;besondere einräumen, daß seine Sprache und
+sein Sylbenmaaß in den Uebersetzungen mehr Reinigkeit
+und Putz haben könnten, wiewohl er eben darinnen man-
+che Eigenschaft, manche Metapher, in die deutsche Spra-
+che herübergebracht hat, deren Gründlichkeit, Kraft und
+Nachdruck noch von den wenigsten deutschen Poeten und
+Kunstrichtern erkannt worden. Jch rede hier nur von dem,
+wa&sr; da&sr; Wesen der Dichtung eigentlich au&sr;machet. Darinn
+besteht Opitzen&sr; Stärcke; die geschickt angebrachten Bil-
+der, die Neuigkeit in denselben, die Zierlichkeit in den Ge-
+dancken, sein poetische&sr; Naturell, da&sr; sich in die Au&sr;bil-
+dung der schlechtesten Materien ergiesset, die Verbindung
+seiner poetischen Vorstellungen zu einem Ende, da&sr; er stet&sr;
+im Gesichte behält, die genaue Uebereinstimmung der Af-
+fecte, die er erwecket, mit dem Vorhaben und den Sachen;
+da&sr; sind die Dinge, die ihn über alle andern Poeten erheben.
+Und diese finden wir in seinem Vesuviu&sr;, dem Lobgedichte
+auf den König in Polen, Zlatna, und andern Gedichten,
+wo er nach seinem eigenen freyen Geiste geschrieben hat.
+Wa&sr; Hrn. Mauvillon vermocht hat, ihn wegen eingemisch-
+ter possierlicher Einfälle oder Au&sr;drücke unter ernstliche mit
+Gottsched und Neukirchen in eine Linie zu stellen, sind ver-
+muthlich einige Stellen im Lob de&sr; Kriege&sr;gotte&sr; Mar&sr;, wo
+<cw>man</cw></fnf>
+<pb="72"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+<p>Aber wie kömmt&sr; daß eure Nation nicht ein
+eintzige&sr; theatralische&sr; Stücke, <fn="(<aq>T</aq>)">Jch bekräftige diese&sr; mit einem Zeugnisse au&sr; dem
+<aq>X.</aq> St. der <fr>Crit. Beytr.</fr> Bl. 274. <cit>&201E;E&sr; ist Hrn. Gott-
+&q;sched nicht&sr; weniger in Sinn gekommen, al&sr; die heuti-
+&q;ge deutsche Schaubühne mit allen ihren Staat&sr;actio-
+&q;nen und Possenspielen zu vertheidigen. Die gute Tra-
+&q;gödie und Comödie ist noch zur Zeit in Deutschland nicht
+&q;recht zu Hause. Wa&sr; für elende&sr; Zeug wird nicht von
+&q;den gemeinen Comödianten überall aufgeführet? Und
+&q;wer kan e&sr; leugnen, daß oft noch weniger Verstand
+&q;und Ordnung, Geschmack und gute Sitten darinnen
+&q;herrschen, al&sr; in den heutigen Opern? &2012; &2012; &2012; &2012; &2012;
+&q;Diese Art Schauspiele ist noch so gemein in Deutschland
+&q;nicht, daß man sie <aq>NB.</aq> unsre deutsche Schaubühne nen-
+&q;nen könnte. Sie ist noch gleichsam al&sr; ein Gast auf
+&q;fremdem Boden anzusehen; <fr>so lange wir un&sr; mit lau-
+&q;ter Uebersetzungen fremder Stücke behelffen müssen.</fr>
+&q;Denn der deutschen Originale giebt e&sr; <fr>leider!</fr> noch so
+&q;wenige, daß man kaum eine Woche lang <fr>gute</fr> deutsche
+&q;Stücke würde spielen können.&201E;</cit></fn> da&sr; nur
+einigen Werth habe, au&sr; ihrem Eigenthum an
+den Tag bringen kan? Wo wollte sie e&sr; herneh-
+men? Eure Poeten legen sich schier allein auf
+kleine Gedichte, und öfter&sr; auf elende&sr; Zeug.
+<fn="(<aq>V</aq>)">Jn dem <aq>XIX.</aq> St. der <fr>Crit. Beyträge</fr> Bl. 443.
+<cit>&201E;Wa&sr; diejenigen betrifft, die sich auf. die Dichtkunst le-
+<cw>&q;gen</cw></cit></fn> Die Gedichte, die Brocke&sr; geschrieben,
+<cw>gehö-</cw>
+<fnf>man sich aber erinnern muß, daß diese&sr; nur ein ironische&sr; Lob
+ist; da&sr; Gespötte herrschet darinnen, doch so, daß e&sr; zu
+keiner bäurischen Grobheit hinunterfällt. Der Poet sagt
+darum selbst in der Zuschrift: <aq>Absit &00E0; nobi&sr; illicita verbo-
+rum Lascivia. &2012; &2012; Aristophani, Plauto, Juvenali suam
+linguam relinquamu&sr;. Christiano parciu&sr; delirandum est.</aq></fnf>
+<pb="73"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+gehören zu der <fr>lirischen</fr> Art; seine Vorgänger
+haben kaum wa&sr; ander&sr; gemachet, al&sr; Hoch-
+zeitgedichte, etliche falschgenannte Oden, etliche
+Weihnacht&sr;- und andre Gesänge; dazu kommen
+dann noch die Arien, und höher haben e&sr; die deut-
+schen Musen mit allem ihrem Bestreben nicht brin-
+gen mögen; nemlich, wa&sr; Originale anlangt.
+Jch wei&sr; kein Land, wo die Schwöstern de&sr; Apol-
+lo sich so unverschämt feil bieten, al&sr; in diesem.
+Kein Schuster hält Hochzeit, der nicht sein Hoch-
+zeitgedichte nett und zierlich gedrückt bekomme.</p>
+<p>Jn Franckreich ist der Druck die Klippe, woran
+die mittelmässigen Poeten gemeiniglich scheitern.
+Hier ist e&sr; anderst. Da man hier ohne Ge-
+schmack liest, so läuft niemand in Gefahr, der
+etwa&sr; in den Druck giebt. Darum ist auch
+keine Nation, die eine so grosse Anzahl Poeten
+und Redner aufweisen könne, wie diese.</p>
+<p>Die Redner erinnern mich hier an die lächer-
+liche Gewohnheit, die allhier herrschet, auf je-
+de&sr; Begräbniß eine Leichrede zu halten, auf
+da&sr; Absterben eine&sr; Hufschmied&sr; sowohl, al&sr;
+eine&sr; General&sr;. Gestern gieng ich in eine Kir-
+che hinein, in der Hoffnung daß ich über einen
+moralischen Lehrsatz würde predigen hören. Aber
+ich fand mich übel betrogen. Man hielt eine
+<bs>E 5</bs><cw>Leich-</cw>
+<fnf><cit>&q;gen; so ist e&sr; freylich eine lange Zeit her in Deutsch-
+&q;land dabey geblieben, daß man sich bey den Reimarten,
+&q;dem Sylbenmasse, dem Wohlklang, der Wortfügung,
+&q;und kurtz um die äusserliche Gestalt der Verse Mühe ge-
+&q;geben.&201E; Sonst kan man nachsehen in der Anm. <aq>(N)</aq>.</cit></fnf>
+<pb="74"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+Leichrede auf ein Bauerweib, da&sr; vor zween
+Tagen gestorben war. Der Redner lobete ih-
+re Treue gegen ihren Ehmann, ihre Häu&sr;lich-
+keit und s. w. <fr>Ach,</fr> sagte er, <fr>wie geschickt
+wußte sie nicht die Kühe zu melken! Jhre Hän-
+de, die doch von vielem Arbeiten gantz hart
+waren, verursachten diesen armen Thieren nicht
+den geringsten Schmertzen. Sie war auch so
+reinlich, daß man niemahl&sr; da&sr; kleinste Stäub-
+gen in der Milch gefunden, welche man bey
+ihr gekaufet hatte.</fr> Jhr müsset mir doch geste-
+hen, mein werthester Herr, daß die Poesie und
+die Beredtsamkeit, so sie zu diesem Gebrauche
+angewendet werden, nothwendig viele&sr; von ih-
+rer Würde verliehren müssen; und daß den Poe-
+ten, sowohl al&sr; den Rednern, nothwendig etwa&sr;
+von der Niederträchtigkeit ihrer Materien an-
+kleben muß, da denn die groben und pöbelhaf-
+ten Gedancken, welche sie damit an sich genom-
+men haben, sich hernach auch in höhern Mate-
+rien einschleichen werden.</p>
+<p>Warum finden denn die Deutschen nicht so
+viel Geschmack an den Wissenschaften, al&sr; an
+der Kriege&sr;kunst? Glauben sie, e&sr; sey genug,
+daß eine Nation kriegerisch sey, wenn sie von
+der andern geehret, und von der Nachwelt ge-
+lobet werden solle? Oder bilden sie sich ein,
+wie die alten Gothen, daß ein Volck, welche&sr;
+den Künsten und Wissenschaften ergeben ist, kei-
+ne guten Soldaten haben könne? Und daß
+alle diejenige, welche sich in ihrer Kindheit vor
+der Ruthe gefürchtet haben, in ihrem männli-
+<cw>chen</cw>
+<pb="75"/>
+<kt><b>von den deutschen Poeten.</b></kt>
+chen Alter den Muth niemahl&sr; haben werden,
+einen gezückten Degen zu trotzen? Jch halte sie
+vor vernünftiger; denn sie wissen wohl, daß
+keine Nation den Griechen und den Römern an
+kriegerischem Muth und Kunst gleich gekommen,
+und daß dennoch keine Nation die Wissenschaf-
+ten mehr geliebet hat, al&sr; diese beyden. Wa&sr;
+soll man indessen davon dencken, daß man hier
+so wenig Gelegenheit hat, sich in den Künsten
+vollkommen zu machen, und daß man so nachlässig
+ist die geschickten Köpfe zu einem edeln Eifer an-
+zureitzen? Und wa&sr; soll ich von der Verach-
+tung sagen, welche gewisse vornehme Herren
+gegen die Gelehrten haben, von den verhaßten
+Nahmen, womit sie dieselben belegen, und dem
+Schimpfe, den sie ihnen damit erweisen, daß
+sie dieselben mit ihren Hofnarren in eine Linie
+setzen?</p>
+<p>Jn Franckreich pflegt man gewisse Preise auf-
+zusetzen, die Gelehrten zu einem rühmlichen Wett-
+streit aufzumuntern; und vielleicht muntert sie
+nicht&sr; so sehr auf, al&sr; die Hochachtung, in der
+sie bey der gantzen Nation stehen, und die Ehr-
+beweisungen, so sie von den Grossen in&sr;beson-
+dere empfangen.</p>
+<p>Zeiget mir in Deutschland eine einzige Stif-
+tung, wie diejenigen sind, die wir in Franck-
+reich zum Aufnehmen der Wissenschaften haben.
+Zeiget mir in dieser grossen Anzahl von fürstli-
+chen Lande&sr;herren im Römisch deutschen Reiche
+drey oder vier, welche die Wissenschaften öffent-
+lich in Schutz nehmen, und mit ihrer Freyge-
+<cw>big-</cw>
+<pb="76"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+bigkeit diejenigen aufmuntern, die sich vor an-
+dern hervorthun. Jch bin e&sr; zufrieden, daß
+die Fürsten den Krieg lieben; daß sie ihre Trup-
+pen fleissig mustern, daß sie dieselben sorgfältig
+kleiden, sorgfältig exercieren, sorgfältig un-
+terhalten, ich habe nicht&sr; dagegen: Aber man
+entweihe die Wissenschaften nicht, man beschim-
+pfe sie nicht in so weit, daß man Hofnarren auf
+Professorcathedern stelle. Die regierenden Für-
+sten, und vornehmlich die, welche Helden heis-
+sen wollen, müssen niemahl&sr; vergessen, wa&sr;
+Horatz sagt: <fr>Vor Agamemnon haben dapfere
+Männer gelebet, derer Nahmen doch mit ih-
+nen untergangen seyn, weil kein Scribent sie
+der Nachwelt bekannt gemachet hat.</fr> Ein Fürst
+muß die Gelehrten werth halten, sie schützen,
+und, wenn ich e&sr; sagen darf, ehren, wo nicht
+au&sr; Zuneigung, doch au&sr; Politick; denn sie
+müssen ihn mit der künftigen Welt bekannt ma-
+chen, und ihnen ist ihr Ruhm und ihr Nahme
+anvertraut.</p>
+<p>Jch würde zuweit verfällen, wenn ich allen
+denen Betrachtungen, so mir über diese Ma-
+terie in den Sinn kommen, Platz geben wollte.
+Jch fühle und empfinde noch viele Wahrheiten,
+die ich bey mir selbst behalten muß, ein kühne-
+rer Mensch, al&sr; ich bin, mag sie zu Papier
+bringen.</p>
+<cw><b>Anfang</b></cw>
+<pb="77"/>
+<kt><b>von der deutschen Philosophie.</b></kt>
+<hr>
+<d2><b>Anfang de&sr; Briefe&sr; von dem Fort-
+gang der Philosophie in Deutschland.</b></d2>
+<p><in>J</in>Ch habe euer Schreiben diesen Augen-
+blick empfangen, und ich beantworte e&sr;
+ohne einigen Anstand, um so viel lieber,
+weil der Medicu&sr; mir wegen einer kleinen Un-
+päßlichkeit, die mich gestern Abend&sr; angestos-
+sen, da&sr; Lesen und starcke Nachdencken verbo-
+ten hat.</p>
+<p>Jch konnte wohl vorhersehen, daß ihr mit
+demjenigen, wa&sr; ich von euren Poeten geschrie-
+ben habe, nicht gar wohl zufrieden seyn würdet;
+indessen glaubte ich nicht, damit ich offenhertzig
+mit euch rede, daß ihr die Mühe nehmen wür-
+det, sie zu vertheidigen. Jhr meinet, ihr ha-
+bet mich rechtschaffen widerleget, daß ihr in ei-
+ner Gegenbeschuldigung die französischen Poeten
+dessen bezüchtiget, <fn="(<aq>W</aq>)">Jch beziehe mich hier auf die obige gantze Anm.
+<aq>N.</aq> Und ich wundere mich, daß <fr>Schwabe,</fr> da er hier
+zum vorau&sr; seine völlige Abfertigung empfangen hat,
+doch noch so keck seyn, und eine so elende Au&sr;flucht wie-
+der hervorsuchen dürfen.</fn> wa&sr; ich von den Deut-
+schen gesagt habe, nemlich daß sie blosse Ueber-
+setzer wären. Jhr saget, unsre Poeten seyn
+nicht&sr; ander&sr;, nur mit dem Unterschiede, daß
+sie die Alten übersetzet haben, anstatt daß die
+Deutschen nur die Neuern übersetzen.</p>
+<cw>Wenn</cw>
+<pb="78"/>
+<kt><b>Mauvillon&sr; Brief</b></kt>
+<p>Wenn ihr nicht ein guter Freund, sondern
+ein Widersacher wäret, so würde ich euch mit
+aller Aufrichtigkeit sagen, daß die deutsche Na-
+tion, wofern sie keinen bessern Verfechter hat,
+al&sr; euch, zum wenigsten wa&sr; die Feder anlangt,
+in grosser Gefahr steht, den Proceß zu verlieh-
+ren. Jst e&sr; möglich, daß ihr nicht begriffen
+habet, daß den Geschmack der Alten wieder zu
+eineuern, und sie einigemahl nachzuahmen, gantz
+wa&sr; ander&sr; ist, al&sr; sie zu übersetzen? Wenn
+ihr den Telemach anführet, al&sr; eine Uebersetzung
+der Odyssee, und damit den Neukirch retten
+wollet, so muß ich mit eurer Vergünstigung
+zweifeln, daß ihr jemahl&sr; den Homer gelesen
+habet. Dieser griechische Poet hat dem Hr.
+von Fenelon nicht&sr; weiter geliehen, al&sr; den
+Stof zu seinem Wercke. Etliche Linien, die
+im Homer hier und da zerstreut sind, waren die
+Grundfeste, worauf dieser gelehrte Prelat seinen
+schönen Roman gebauet hat, welchen man alle-
+zeit bewundern wird, e&sr; mag Voltairen noch
+so sehr verdriessen. Die Prosa in demselben
+gleicht schier der Pracht und Majestät der Poesie.
+Jch sage e&sr; noch einmahl, Homer hat dem Ertz-
+bischof von Cambrai nur die Nahmen und Cha-
+racter derjenigen geliehen, welche er in seinem
+Werck aufgeführt; denn er hat übrigen&sr; in den
+meisten Handlungen, die er von ihnen erzehlt,
+nicht&sr; mit dem griechischen Poeten gemein.</p>
+<p>Aber wozu dienet e&sr;, daß ich mich hierüber
+aufhalte? Jst diese&sr; jemanden verborgen? Und
+kan man e&sr; leugnen, wofern man nicht frey-
+<cw>willig</cw>
+<pb="79"/>
+<kt><b>von der deutschen Philosophie.</b></kt>
+willig taub seyn will? Jch sage euch ohne Um-
+weg, entweder widerleget mich besser, oder
+menget euch nicht in&sr; Widerlegen; denn ich
+schäme mich wahrhaftig für euch, daß ihr so
+schlechte Gründe vorbringet. Folget mir, und
+überlasset euren Poeten die Sorge, sich selber
+zu vertheidigen. Sind ihre Wercke gut, so
+wird alle&sr;, wa&sr; ich von ihnen gesagt habe, und
+noch weiter sagen könnte, ihnen nicht den ge-
+ringsten Nachtheil bringen: Aber wenn sie nicht&sr;
+taugen, so werde ich trutz allen denen recht be-
+halten, welche gerne da&sr; Gegentheil behaupten
+wollten. Niemahl&sr; wird die bo&sr;hafte Neigung
+eine&sr; Kunstrichter&sr; dem Ruhm eine&sr; geschickten
+Wercke&sr; im Lichte stehen; die Welt wird e&sr;
+schon gegen die Ungerechtigkeit eine&sr; Zoilu&sr; zu
+rächen wissen. Aber wenn ein Werck elend ist,
+so wird e&sr; kein Cicero mit aller seiner Wohlre-
+denheit gegen den mittelmässigsten heutigen Ari-
+starch schützen. Aber wir wollen die Poeten
+gehen lassen, und von euren Weltweisen re-
+den. &rr;c. &rr;c.</p>
+<cw><b>Ab-</b></cw>
+<pb="80"/>
+<d1><b>Kurtze
+<g>Abhandlung</g>
+von den Dichtungen überhaupt.</b></d1>
+<p><in>D</in>Je Dichtung hat nicht allein Platz in der
+gebundenen Schreibart: auch die unge-
+bundene kan reich an Dichtungen seyn;
+und e&sr; giebt eine Poesie in der prosaischen Rede.
+Ein munterer Scribent bildet nicht allein die
+reichen Wercke, welche ihm die Natur vor Au-
+gen leget, mit seiner Feder nach: Seinem stol-
+zen Sinn ist auch der weite Umkrei&sr; der Natur
+viel zu enge: Er sucht sich neue Spuren,</p>
+<poem>Und fliegt in eine Welt de&sr; Epicuru&sr; hin,
+Und macht sich ein Geschöpf, von dem man nie gelesen,
+Da&sr; künftig nicht seyn wird, noch jemahl&sr; ist gewesen.</poem>
+<p>Al&sr; der grosse Alexander durch seine sieghafte
+Waffen die gantze Erden bezwungen, beklagte
+er mit Thränen, daß nicht mehr Welten wären,
+an deren Besiegung er seinen grossen Muth und
+seine unüberwindliche Macht ferner versuchen
+könnte. Aber ein lebhafter Kopf bauet sich selbst
+in seiner erhizten Phantasie neue Welten, die
+er mit neuen Einwohnern bevölckert, welche von
+einer fremden Natur sind, und eigenen Gesetzen
+folgen. Er dichtet sich neue Personen und neue
+Begegnissen: Bald giebt er den Todten da&sr;
+Leben wieder, und verbindet sie in allerley Un-
+<cw>ter-</cw>
+<pb="81"/>
+<kt><b>Von den Dichtungen.</b></kt>
+terredungen; bald schencket er den leb- und
+vernunftlosen Geschöpfen die Rede; bald führet
+er die menschlichen Neigungen und Zufälle, al&sr;
+so viele <aq>Individua</aq> und Personen, vor un&sr; auf;
+bald giebt er den Fabeln und Mährchen einen
+grossen Schein der Wahrheit; bald fällt er in
+eine Entzückung, und mahlet un&sr; die seltsamsten
+Erscheinungen vor da&sr; Gesicht, &rr;c. Alle diese
+und andere dergleichen Arten von Dichtungen
+sind nun allein erfunden worden, gemeine und be-
+kannte Gedancken, auf eine ungemeine, neue und
+ergetzende Art au&sr;zudrücken u. vorzubilden. Aber
+diese Freyheit der Dichtung ist nicht ohne Gesetze;
+denn sonst müßte man alle Träumereyen und Au&sr;-
+schweifungen verrückter Sinnen vor geistreich und
+scharfsinnig erklären. Jch würde mich von mei-
+nem gegenwärtigen Vorhaben allzuweit verstei-
+gen, wenn ich hier alle Grundregeln der Dichtung
+in ihrer ordentlichen Verknüpfung, wie sie au&sr;
+einander hergeleitet werden, anführen wollte: ich
+verspare diese Untersuchung in mein vorgenomme-
+ne&sr; grosse&sr; Werck. Zu meinem gegenwärtigen
+Zweck wird e&sr; genug seyn, daß ich bloß die allerer-
+sten Grundregeln einer guten Dichtung hier au&sr;-
+setze, und hernach mit einigen Exempeln erläutere.</p>
+<li>1. Der Zweck der Dichtung ist, daß sie auf eine
+ergetzende Art unterrichte:
+<poem>&2012; &2012; &2012; &2012; &2012; <aq>quod &amp; risum movet,
+Et quod prudenti vitam consilio monet.</aq></poem></li>
+<li>2. Die gantze Dichtung muß einen mystischen
+Sinn haben.</li>
+<bs>[Crit. Sa&tm;l. <aq>V.</aq> St.] F</bs><cw>3. Sie</cw>
+<pb="82"/>
+<kt><b>Abhandlung</b></kt>
+<li>3. Sie muß wahrscheinlich seyn, und sich grün-
+den entweder auf wahrhafte und ähnliche
+Begebenheiten, oder wenigsten&sr; auf einen
+angenommenen allgemeinen Wahn.</li>
+<li>4. Da&sr; gantze <aq>Systema</aq> der Dichtung muß in
+allen seinen verblühmten oder figürlichen Um-
+ständen genau zusammenstimmen, so daß kein
+Umstand den andern umstosse.</li>
+<li>5. Alle figürliche Umstände der Dichtung müssen
+ihre besondere Bedeutung haben, die den my-
+stischen Sinn de&sr; gantzen <aq>Systemati&sr;</aq> vollkom-
+men machen. Folglich müssen keine leere und
+unnützliche Umstände geduldet werden.</li>
+<li>6. Die Aehnlichkeiten der Bilder de&sr; erdichteten
+<aq>Systemati&sr;</aq> und de&sr; mystischen <aq>Systemati&sr;</aq>
+müssen nicht allzu nahe, und nicht allzu ent-
+fernt seyn: hiemit müssen sie nach denen
+Grundsätzen eingerichtet seyn, die ich droben<fn="(*)">Sehet im ersten St. gegenwärtiger Sammlung bl. 93.</fn>
+von dem Scharfsinnigen überhaupt gegeben.</li>
+<p>An dergleichen regelmässigen Dichtungen kan
+ein Autor die Kräfte seine&sr; Geiste&sr; am besten prüf-
+fen: Und der muß in der scharfsinnigen Schreib-
+art geübte Sinne haben, der in dergleichen Dich-
+tungen glücklich seyn, und Leuten von gutem
+Geschmack gefallen will.</p>
+<p>Wie sich der Hamburgische Patriot nicht ge-
+ringer, al&sr; einer von den grösten Geistern Deutsch-
+land&sr; zu seyn bedünckt; also hat er auch die Kühn-
+heit gehabt, seine Scharfsinnigkeit in dieser Art
+Schriften zu versuchen; aber er hat auch in die-
+sem Stücke seine Schwäche aufgedeckt, und sich
+<cw>un-</cw>
+<pb="83"/>
+<kt><b>von den Dichtungen.</b></kt>
+unglücklich verrathen, daß er zu so hohen Dingen
+nicht abgerichtet sey. Wir wollen zum Beweise
+dessen da&sr; allegorische <fr>Raritäten,-Cabinet</fr> dessel-
+ben, wovon er im <aq>CLIII.</aq> St. unter diesem Nah-
+men Meldung thut, mit aufmercksamen Augen
+betrachten. Jn demselben befinden sich verschie-
+dene allegorische Jnstrumente u. Maschinen, die
+nach de&sr; Patrioten Vorgeben gröstentheil&sr; eine
+Erfindung der Sinesen und Jndianer sind, von
+denen sie ihm geschenckt worden. Nach dem Jn-
+ventario, welche&sr; im <aq>LXXXVII.</aq> St. befindlich
+ist, sind die merckwürdigsten darunter folgende:
+Ein <fr>Wettergla&sr;,</fr> den guten und schlechten Ge-
+schmack aller Scribenten und anderer vorkom-
+menden Personen zu erkennen; eine <fr>philosophi-
+sche Uhr,</fr> welche von der Länge oder Kürtze de&sr;
+menschlichen Leben&sr; die eigentlichste Rechnung
+giebt; ein <fr>Pe-kad-en-nosch,</fr> die Aufrichtigkeit
+de&sr; Hertzen&sr; zu prüffen; und ein <fr>blaue&sr; Wasser,</fr>
+da&sr; den Unterschied der menschlichen Leidenschaf-
+ten auf eine verwundern&sr;würdige Art anzeiget.
+Dazu kömmt dann ferner&sr; da&sr; im <aq>CLIII.</aq> St.
+angezogene <fr>Traumküssen,</fr> und der im <aq>LXXXVII.</aq>
+St. gerühmte <fr>Universal-Schnupftoback für da&sr;
+Gedächtniß,</fr> &rr;c. &rr;c. Man beliebe erstlich über-
+haupt anzumercken, daß alle diese Erfindungen
+selbst nach der Absicht de&sr; Erfinder&sr; keinen andern
+Nutzen haben können, al&sr; die Entdeckungen de&sr;
+Patrioten über den moralischen Zustand de&sr; Men-
+schen wahrscheinlich zu machen; nun sind aber
+seine Entdeckungen so beschaffen, daß niemandem
+in den Sinn kommen wird, die Möglichkeit der-
+<bs>F 2</bs><cw>selben</cw>
+<pb="84"/>
+<kt><b>Abhandlung</b></kt>
+selben von einer übernatürlichen oder magischen
+Wunderkraft herzuleiten; angesehen ein jeder
+anderer gemeiner Mensch mittelst seiner fünf Sin-
+nen u. einer kleinen Gabe natürliche&sr; Verstand&sr;,
+ohne die Hülfe dieser oder anderer dergleichen
+Zauber-Maschinen, eben dieselbigen und noch
+wichtigere Entdeckungen machen könnte. Folg-
+lich haben diese seltsamen Erfindungen nicht mehr
+Grund ihrer Nothwendigkeit, al&sr; wenn einer ei-
+nen Hasen mit einer Hellparten erstechen, oder
+eine Last von wenigen Pfunden mit einem grossen
+Hebzeuge bewegen wollte. Mithin ist e&sr; auch
+für den Character eine&sr; ernsthaften Patrioten
+höchstungeziemend, daß er sich durch dergleichen
+angemaßte verborgene Künste bey dem abergläu-
+bigen Pöbel suche ein Ansehen zu machen; und
+dergleichen unnöthige Erfindungen können öfter&sr;
+mit Recht den Verdacht erwecken, daß ein solcher
+moralischer Taschenspieler an wahrer Einsicht und
+Kundschaft de&sr; menschlichen Hertzen&sr; grossen Ab-
+gang leide, weil er gemüssiget ist, seine, obgleich
+ziemlich kahlen und flüchtigen, Entdeckungen mit
+dergleichen ausserordentlichen und zauberischen
+Erfindungen zu beglaubigen. Allein nach dieser
+allgemeinen Anmerckung über die relatife Noth-
+wendigkeit und den Nutzen dieser Erfindungen
+wollen wir diese Wunder-Maschinen absonder-
+lich prüffen, und den Grund ihrer innerlichen
+Wahrscheinlichkeit untersuchen. Die erste von
+diesen wunderbaren Maschinen ist da&sr; <fr>philoso-
+phische Thermometer,</fr> oder <fr>da&sr; Wettergla&sr; de&sr;
+Verstande&sr;,</fr> welche&sr; die Hitze und Kälte dessel-
+<cw>ben</cw>
+<pb="85"/>
+<kt><b>von den Dichtungen.</b></kt>
+ben nach ihren verschiedenen Graden auf&sr; genaue-
+ste anzeigen soll: Dessen Erfindung u. Zurüstung
+wird im <aq>XXXIV.</aq> St. weitläuftig beschrieben:
+Und man darf sich nur ein gewöhnliche&sr; Thermo-
+meter, dessen Röhre mit einem hi&tm;elblauen Saft
+angefüllet ist, in seinem Sinne vorstellen, so wird
+man mich der Mühe einer weitläuftigen Beschrei-
+bung gerne überheben. Der Unterschied lieget in
+der seltsamen Würckung, massen der himmelblaue
+Saft in diesem Thermometer nach dem Grade
+steiget oder fällt, nach dem die Scribenten oder
+auch die Redenden in ihrem Vortrage die Stär-
+ke eine&sr; gesunden Verstande&sr; mehr oder weniger
+zeigen und beweisen. So stieg in dem Versuch,
+welchen der Vetter de&sr; Patrioten angestellt, der
+blaue Saft bey Lesung Virgil&sr; um einige Grade
+empor; hergegen sanck er ziemlich tief in der Röh-
+re, so bald derselbe anstatt Virgil&sr; eine alte Logick
+zur Hand nahm. Eine frostige und recht aben-
+theurliche Dichtung, die niemand zweifeln läßt,
+daß nicht der Erfinder derselben, au&sr; Mangel ei-
+ne&sr; gesunden Witze&sr;, einer durch Kunst zubereite-
+ten Maschine bedürfte, den guten und schlimmen
+Geschmack zu unterscheiden! Jch habe nicht ein-
+mahl nöthig zu erinnern, daß diese abentheurliche
+Maschine in Absicht auf ihre Würckung gegen alle
+Wahrscheinlichkeit anläuft. Doch ich will au&sr;
+Freygebigkeit zugeben, daß die Verfertigung ei-
+ner solchen nicht allerding&sr; unmöglich wäre; wa&sr;
+würde eine solche zur Verbesserung de&sr; Geschmak&sr;
+vor Dienste thun? Wo ist immer ein Mensch so
+gar dumm und ohne Geschmack, der nicht eben
+<bs>F 3</bs><cw>so</cw>
+<pb="86"/>
+<kt><b>Abhandlung</b></kt>
+so gut, al&sr; eine Maschine, den mechanischen Au&sr;-
+spruch zu thun wisse, <fr>da&sr; ist gut, schlimm, mun-
+ter, matt, frostig, seichte,</fr> &rr;c. Aber seine Ur-
+theile mit Gründen zu befestigen, und die Grün-
+de dessen anzuzeigen, wa&sr; nothwendig gefal-
+len muß, und warum e&sr; gefallen muß, da&sr; ist
+eine Verrichtung, wozu etwa&sr; mehr al&sr; eine blosse
+Maschine erfodert wird. Eine gute Logick ist da&sr;
+rechte Thermometer de&sr; Verstande&sr;, diese räu-
+met den Kopf auf, daß man von der Schönheit ei-
+ne&sr; Vortrag&sr; mit Vernunft u. gründlicher Ein-
+sicht urtheilen kan; ohne dieselbe sind alle unsre
+Urtheile nicht vernünftiger, al&sr; de&sr; patriotischen
+Wetterglase&sr;. Und wie kindisch ist die Dichtung
+von dergleichen zauberischen Jnstrumenten, wo
+man nicht einmahl die Fähigkeit hat, ihren Nu-
+zen durch die Anwendung und die Würckung selbst
+wahrscheinlich zu machen! Wa&sr; hat denn der
+Patriot durch Beyhülfe diese&sr; Thermometer&sr; vor
+wichtige Endeckungen gemachet? Jch finde da-
+von ausser ruhmräthigen Großsprechereyen nicht
+da&sr; wenigste; und e&sr; gilt auch die&sr;fall&sr;, wa&sr;
+Horatz von den Maschinen in den Trauerspielen
+lehret: <aq>Nec Deu&sr; intersit, nisi dignu&sr; vindi-
+ce nodu&sr; inciderit.</aq> Wenn wir inzwischen uns-
+re Gedancken auf den allegorischen u. verdeckten
+Sinn dieser Dichtung richten, so finden wir, daß
+dieselbe auch in dieser Absicht nicht genug Wahr-
+scheinlichkeit hat: zumahlen da diese gantze Dich-
+tung nicht&sr; mehrer&sr; sagen will, al&sr;, der Patriot
+besitze eine gute Beurtheilung&sr;kraft, und eine Fer-
+tigkeit in Unterscheidung guter und schlimmer Ge-
+<cw>dan-</cw>
+<pb="87"/>
+<kt><b>von den Dichtungen.</b></kt>
+dancken, d. i. einen feinen Geschmack: Ein Satz,
+der nicht durch eine gezwungene und unnatürliche
+Erfindung und Vorstellung, sondern durch würck-
+liche Proben seine Glaubwürdigkeit erhält! Da
+nun diese mangeln, so wird die blosse großspreche-
+rische Wiederholung desselben unter einer unna-
+türlichen Allegorie von schlechter Kraft seyn; zu
+geschweigen daß darinnen der gröste Theil von
+dem Zusammenhange der historischen Umstände
+gantz müssig ist, und keinen mystischen Sinn er-
+tragen kan. Damit ich nur einen einzigen berüh-
+re, so kan ich nicht errathen, wa&sr; diese Worte
+für eine geheime Bedeutung haben: <fr>Jch habe
+mir von eben der Art und Grösse ein Gehäuse
+und Gla&sr; machen lassen, man kan e&sr; sehr ge-
+mächlich in der Tasche tragen, und in einem
+dazu verfertigten schildkrötenen Futteral mit
+sich führen.</fr> Jch weiß nicht, wa&sr; da&sr; figürliche
+schildkrötene Futteral de&sr; guten Geschmack&sr;,
+noch auch wa&sr; die figürliche Tasche sey, darinnen
+man denselben gemächlich tragen kan. Mithin
+hat mich die folgende Anmerckung merckwürdig
+bedünckt: Wie <fr>alle grosse Erfindungen von un-
+gefehr ihren Ursprung haben; so habe ich auch
+hierdurch bloß von ungefehr eine Maschine zu
+Stande gebracht, die mit Recht ein Probier-
+stein der gesunden Vernunft ist, welche man zu
+diesen Zeiten mehrentheil&sr; nur vergeben&sr; suchet.</fr>
+Jch meine&sr; Ort&sr; kö&tn;te ihm de&sr;fall&sr; keinen Glau-
+ben zustellen, wenn er e&sr; gleich mit einem Eyde
+erhärten wollte, daß er diese Erfindung von un-
+gefehr gemachet, weil mir der Ort bekannt ist,
+<bs>F 4</bs><cw>wo</cw>
+<pb="88"/>
+<kt><b>Abhandlung</b></kt>
+wo sich da&sr; Original von dieser glücklichen Co-
+pie findet. Addisson beschreibet im 281sten Bl. de&sr;
+Zuseher&sr; in einem Traume die Anatomie de&sr;
+Hertzen&sr; einer Verbuhlten; daselbst findet sich
+diese Stelle:</p>
+<p><fr>E&sr; wei&sr; ein jeder Anfänger in der Zerglieder-
+kunst/ daß da&sr; Pericardium oder der Hertzbeu-
+tel einen dünnen röthlichen Saft in sich enthält/
+der von den Au&sr;dünstungen de&sr; Hertzen&sr; ent-
+stehen soll/ welche sich hier/ indem sie nicht
+weiter können, in diese Feuchtigkeit verwandeln.
+Al&sr; wir nun diesen Saft untersuchten/ so fan-
+den wir/ daß er alle die Eigenschaften de&sr;je-
+nigen Weingeiste&sr; an sich hatte, der zu den
+Wettergläsern gebraucht wird/ um die Ver-
+änderungen de&sr; Wetter&sr; anzuzeigen.</fr></p>
+<p><fr>Jch muß hier einen gewissen Versuch nicht
+übergehen/ welchen einer au&sr; der Gesellschaft
+un&sr; mit diesem Safte gemacht zu haben ver-
+sicherte/ indem er eine grosse Menge desselben
+bey dem Hertzen einer vordem zergliederten Buh-
+lerinn gefunden hätte. Er versicherte un&sr;/ daß
+er ihn noch die Stunde in einer dünnen gläser-
+nen Röhre/ welche nach Art eine&sr; Wettergla-
+se&sr; gemacht wäre, eingeschlossen hätte: Allein
+an statt daß er darau&sr; die Veränderungen de&sr;
+Wetter&sr; sehen sollte; so zeigte er ihm nur den
+Zustand derer Personen an/ welche in da&sr; Zim-
+mer träten/ allwo diese Röhre hienge. Er ver-
+sicherte zugleich/ daß er bey Herannahung eine&sr;
+Federhute&sr;/ eine&sr; gestickten Kleide&sr;/ und eine&sr;
+Paare&sr; Handschuh mit goldenen Fransen merck-
+lich stiege: Sobald hingegen eine verzausete Per-</fr>
+<cw>rüke/</cw>
+<pb="89"/>
+<kt><b>von den Dichtungen.</b></kt>
+<fr>rüke/ ein Paar schmutzige Schuhe/ oder ein alt-
+fränckische&sr; Kleid hinein käme/ so fiele selbiger.
+Ja/ er gieng so weit/ daß er un&sr; sagte: Wenn
+er daneben stühnde/ und laut zu lachen anfienge/
+sogleich stiege der Saft in die Höhe/ säncke aber
+den Augenblick nieder, sobald er wieder ernsthaft
+au&sr;sähe. Kurtz er sagte un&sr;/ er könnte e&sr; vermit-
+telst dieser Erfindung sehr wohl wissen/ ob er ei-
+nen klugen Mann oder einen Gecken bey sich im
+Zimmer hätte.</fr></p>
+<p>Diese&sr; läßt sich der Zuschauer in einem Traume
+erzehlen, und jedermann muß mir zugeben, daß e&sr;
+eine Coquette trefflich characterisirt; aber der Pa-
+triot nimmt sich mehrere Freyheit herau&sr;, er thut
+wachend, wa&sr; jener kaum unter der Dichtung ei-
+ne&sr; Traume&sr; hat vorbringen dürffeu. Jch bitte
+nun meine Leser, daß sie die Mühe nehmen, und
+diese Stelle mit der 34. <aq>No.</aq> de&sr; Patrioten verglei-
+chen: sie sind einander so ähnlich, al&sr; die beyden
+Sosier in dem Amphitruo, und ich wäre bald auf
+die Gedancken gerathen, die Erzehlung de&sr; Zu-
+schauer&sr; müsse prophetisch von dem Patrioten ver-
+standen werden. Jndessen wenn sie vorwitzig sind
+zu wissen, ob er sich etwa&sr; auf diese Erfindung ein-
+bilde, so dürffen sie nur die 52ste <aq>No.</aq> einsehen, in
+welcher un&sr; die zweyte von diesen Maschinen be-
+schrieben wird, die genau zeiget, <fr>wer am meisten
+nach der gesunden Vernunft und der Vorschrift
+eine&sr; guten Gewissen&sr; lebe.</fr> Er nennet sie die
+<fr>Philosophische Uhr. Sie ist einer gemeinen Ta-
+schenuhrnicht ungleich: sie hat ein Zieferblat mit
+zween stählernen Zeigern: der äussere Cirkel ist
+in 360. Grade vertheilet; dreyssig machen einen</fr>
+<bs>F 5</bs><cw><fr>philo-</fr></cw>
+<pb="90"/>
+<kt><b>Abhandlung</b></kt>
+<fr>philosophischen Monath/ und jeder Grad einen
+philosophischen Tag. Der innere Cirkel/ der ei-
+nen gantzen philosophischen Tag anweiset/ ist in
+24. Stunden eingetheilt. Der Gebrauch dersel-
+ben ist folgender: Man bringt sie demjenigen/
+dessen Leben man untersuchen will/ so nahe/ daß
+seine Au&sr;dünstungen dieselbe erreichen/ und von
+demselben Augenblick an giebt sie die philosophi-
+sche Nachricht/ wie lange derselbe Mensch ge-
+lebet. Ein müssige&sr; Leben deutet sie an durch ihre
+Unbeweglichkeit: Ein böse&sr; offenbaret sich durch
+da&sr; Zurücklauffen de&sr; Zeiger&sr;: Ein tugendhaf-
+te&sr; kan man darau&sr; erkennen/ wenn sich der
+Zeiger von Stunden zu Stunden &rr;c. vorwärt&sr;
+beweget/ nach dem Maasse/ al&sr; einer in der
+Tugend alt geworden.</fr> Wundert euch, wo
+man dergleichen seltsame Uhren verfertige, so kan
+ich euch sagen, daß der Patriot seine in Mecca
+gekauft hat; der Meister davon heisset <fr>Joaphat
+Ebn Jophzdhail.</fr> Diese Dichtung ist von dem-
+selben Schrot und Korn, wie die vorhergehende:
+Und der Patriot ist gegen seinen Schöpfer unge-
+recht, daß er seine Vernunft, die ein zulängliche&sr;
+Mittel ist, da&sr; Gute und Böse in moralischen
+Handlungen zu unterscheiden, gegen eine mecha-
+nisch-philosophische Sackuhr vertauschen will,
+die ihm diesen Unterschied ohne sein Nachdencken
+zeigen soll. Er machet sich auch recht lächerlich, we&tn;
+er die Ursachen dieser mechanischen Würckungen
+entdecken und wahrscheinlich machen will. Wie
+muß e&sr; hergehen, daß die Au&sr;dünstungen auf ei-
+ner Uhr durch den Eindruck einer gemessenen Be-
+wegung nicht allein den Unterschied lasterhafter,
+<cw>müssi-</cw>
+<pb="91"/>
+<kt><b>von den Dichtungen.</b></kt>
+müssiger und tugendhafter Leute zeigen, sondern
+auch die Grade de&sr; einen und de&sr; andern bemer-
+ken. Jch mögte wohl auch den Unterschied tu-
+gendhafter und lasterhafter Au&sr;dünstungen ken-
+nen; Aber wann der Patriot den ächten Meister
+dieser Uhr entdecken will, so muß er Mecca in
+Hamburg verwandeln, und er wird der Joaphat
+Ebn Jophzdhail leibhaftig seyn. Die Gedancken
+zu dieser Erfindung mag er wohl den <fr>Schweitze-
+rischen Zusehern</fr> abgekauft haben; ich finde in
+einem Blatte derselben folgende Stelle: <fr>Gesezt
+aber/ daß du dein Leben bringest bi&sr; auf 70.
+Jahre/ wie kurtz wird dieser Periodu&sr; seyn/
+wenn du diejenige Zeit/ welche du nur zur Un-
+terhaltung deine&sr; Leben&sr; aufgewendet hast/ ab-
+rechnest. Ziehe die folgenden Jahre von der
+Summe deine&sr; Leben&sr; ab/ so werden dir nur
+etliche wenige überbleiben:</fr></p>
+<li>30. <fr>Jahre sind verflossen über dem Schlaffen.</fr></li>
+<li>4. <fr>Jahre über dem An- und Au&sr;kleiden.</fr></li>
+<li>10. <fr>Jahre über dem Essen und Trincken.</fr></li>
+<li>6. <fr>Jahre über den Gemüthe&sr;zerstreuungen.</fr></li>
+<p>Und ich könnte sehr klar zeigen, daß die gantze
+52ste <aq>No.</aq> au&sr; zween Discursen der Schweitzer zu-
+sammengeschmelzt ist. <aq>No.</aq> 74. kömmt eine neue
+magische Maschine zum Vorschein, durch deren
+Mittel er entdecken kan, ob die Worte und Mei-
+nungen, oder der Mund und da&sr; Hertz mit ein-
+ander übereinstimmen. Diese Maschine heisset
+<fr>Pe-kad-en-nosch</fr> oder die <fr>Gemüthe&sr;pröbe;</fr>
+sie ist ihm von einem Chinesischen Philosophen,
+Nahmen&sr; <fr>Bramin-quam-bo-ni</fr> verehrt wor-
+<cw>den.</cw>
+<pb="92"/>
+<kt><b>Abhandlung</b></kt>
+den. Jch will mich nicht mit derselben Beschrei-
+bung verweilen; denn ich gedencke, daß man mei-
+ne Gedancken von der Art dieser Dichtung au&sr;
+dem wa&sr; ich bi&sr;her erinnert habe, schon errathen
+könne. Nur kan ich nicht unangemerckt lassen,
+daß mir da&sr; Bekänntniß de&sr; Patrioten, da er ge-
+stehet, daß er ein magische&sr; Jnstrument bedürffe,
+um zu wissen, ob er selbst rede, wa&sr; er dencket,
+oder ob Mund und Hertz mit einander überein-
+stimme, recht albern vorkömmt. Da&sr; vierte
+magische Geheimniß ist ein <fr>himmelblaue&sr; Was-
+ser,</fr> wovon er im <aq>V.</aq> St. folgende&sr; erzehlet:
+<fr>Jm Jahre 1722. den 6ten May empfieng ich
+durch einen Schiffer/ von einem meiner ver-
+trauten Freunde in China/ einem grossen Chy-
+misten/ Nahmen&sr; Miram Tansi/ ein Schrei-
+ben/ nebst einer kleinen Flasche mit himmel-
+blauem Wasser: dasselbe stärcket da&sr; Gesicht
+auf solche Weise/ daß man eine beständige Au&sr;-
+dünstung au&sr; dem Gehirne der Menschen/ und
+in derselben die Leidenschaften de&sr; Gemüthe&sr;/
+figürlich sehen/ auch verschiedene Creaturen
+in der Luft/ welche darinn/ wie Fische im
+Wasser/ schwimmen/ auf da&sr; kenntbareste
+entdecken könne.</fr> Und wenn der Herr Patriot
+diese&sr; Wasser au&sr; Nova-Zembla hätte her-
+kommen lassen, wo sonst die schwartzen Künste
+zur grösten Vollkommenheit gebracht sind; so
+muß er doch nicht glauben, daß die Deutschen
+so dumm seyn, daß sie dergleichen abentheurli-
+che Erzehlungen im Ernste aufnehmen. Er
+wird wohl der erste seyn, der vorgiebt, daß
+<cw>die</cw>
+<pb="93"/>
+<kt><b>von den Dichtungen.</b></kt>
+die Leidenschaften de&sr; Gemüthe&sr; figürlicher
+Weise au&sr; dem Gehirne au&sr;dämpfen. Den
+dritten Tag, nachdem er bemeldete&sr; <fr>Wunder-
+Wasser</fr> empfangen, that er damit die erste Pro-
+be bey einer Sech&sr;wöchnerinn; davon er un&sr; die
+Würckungen in selbiger <aq>No.</aq> also beschreibet: <fr>Hier
+ward ich mit grosser Verwunderung gewahr/
+daß in dem Zimmer die Luft voll häßlicher
+Thiere/ wovon einige wie Basili&sr;ken/ andere
+wie Chimären/ und die dritte Sorte wie
+längliche feurige Schlangen/ gebildet waren.</fr>
+Jch bin sicher, daß niemand so leicht errathen
+hätte, welche Gemüthe&sr;-Leidenschaften hierun-
+ter sollen vorgebildet seyn; wenn der Patriot
+nicht sorgfältig gewesen wäre, <aq>No.</aq> 8. un&sr; zu un-
+terrichten, daß diese&sr; <fr>Ungeziefer den Neid, die
+Eitelkeit, und die Schmähsucht</fr> vorstellen sollte.
+<fr>Durch die Augen der meisten Anwesenden ka-
+men plötzlich au&sr; dem Gehirne einige sehr übel-
+gebildete Figuren mit dicken Köpfen und langen
+Ohren zum Vorschein.</fr> Jhr werdet euch über
+die verborgene Aehnlichkeit verwundern, wenn
+ich euch au&sr; <aq>No.</aq> 8. lehre, daß <fr>die Unwissenheit
+unter diesem dickköpfigten Bilde mit Esel&sr;-
+Ohren,</fr> welche&sr; durch die Augen au&sr; dem Ge-
+hirne hervorgekommen, abgemahlet ist. <fr>Diese
+winckten dem herumfliegenden Ungeziefer/ wo-
+rauf die kleinen Basili&sr;ken in die Augen/ die
+Chimären in die Ohren/ und die Schlangen
+in den Mund/ ihren Einzug hielten/ &rr;c.</fr>
+Diese&sr; <aq>Hieroglyphicum</aq> soll euch zu verstehen
+geben, daß der Neid, die Eitelkeit und die
+<cw>Schmäh-</cw>
+<pb="94"/>
+<kt><b>Abhandlung</b></kt>
+Schmähsucht von der Unwissenheit ernehret wer-
+den. Aber ihr werdet e&sr; izo noch kaum verste-
+hen, nachdem ich euch den mystischen Sinn
+dieser Dichtung allbereit erkläret habe. Zu die-
+sen seltsamen Erfindungen gehöret auch da&sr; im
+<aq>CLIII.</aq> St. gemeldete <fr>Japanische</fr> in reicher Sei-
+de mit Gold bordirte <fr>Kräuterküssen,</fr> welche&sr;
+die wunderbare Würckung hat, daß e&sr;, wenn
+man e&sr; beym Schlaffengehen unter da&sr; Haupt-
+küssen leget, die wichtigsten Betrachtungen de&sr;
+Tage&sr; dem Gemüthe in einem lehrreichen Nacht-
+gesichte vorstellet; und von welchem der Pa-
+triot rühmet, daß alle die sinnreichen Träume
+und Gesichter, die in seinen Blättern vorkom-
+men, Proben von der gesegneten Würckung
+diese&sr; Traumküssen&sr; seyn. Wer diesen grossen
+Vorrath von so vielen zauberischen Maschinen
+ansiehet, der würde den Patrioten eher vor ei-
+nen kleinen Hexenmeister, al&sr; vor einen Patrio-
+ten halten, und sich bereden, daß er bey dem
+Gebrauche aller dieser Jnstrumente zu weit selt-
+samern Entdeckungen, al&sr; in seinen Blättern
+zu finden sind, eben keiner Vernunft vonnöthen
+habe: zumahlen da diese Maschinen ihm eben
+denjenigen Dienst leisten müssen, den andere
+Menschen von ihrer Vernunft empfangen, so
+daß wer seinem vornehmen Exempel folgen will,
+alle seine Sorge darauf wenden muß, daß er
+ohne Vernunft vernunftmässig handeln lerne.
+Endlich muß ich de&sr; <fr>Universal-Schnupftoback&sr;
+für da&sr; Gedächtniß</fr> nicht vergessen, welcher für
+<cw>eine</cw>
+<pb="95"/>
+<kt><b>von den Dichtungen.</b></kt>
+eine Europäische Erfindung de&sr; Polymnemon&sr;
+au&sr;gegeben und im <aq>LXXXVII.</aq> St. beschrieben
+wird. Diesem wird die Kraft beygeleget, da&sr;
+moralische Gedächtniß zu stärcken, und vor dem
+Uebel einer muthwilligen Vergessenheit zu be-
+wahren. Polymnemon bedienet sich dieser Er-
+findung allein durch eine geschickte Beschreibung
+der damit verrichteten moralischen Wundercu-
+ren, die muthwillige Vergessenheit seine&sr; vori-
+gen Stande&sr;, seiner Zusagen und Verbindlich-
+keiten auf eine lebhafte Weise lächerlich zu ma-
+chen: Jn welcher Absicht ich auch diese Erfin-
+dung nicht mißbilligenkan, und ist überhaupt der
+gantze Brief davon nicht übel abgefasset.</p>
+<p><c>E N D E.</c></p>
+<hr>
+<pb>

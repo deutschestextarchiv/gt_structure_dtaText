@@ -1,0 +1,2863 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front>DIE
+<b>IRRTHÜMER DES HISTORISMUS</b>
+IN DER
+<b>DEUTSCHEN NATIONALÖKONOMIE.</b>
+<hr>
+<k>Von
+Dr.</k> CARL MENGER,
+O. Ö. PROFESSOR DER STAATSWISSENSCHAFTEN AN DER WIENER UNIVERSITÄT.
+<hr>
+WIEN, 1884.
+ALFRED HÖLDER,
+K. K. HOF- UND UNIVERSITÄTS-BUCHHÄNDLER,
+ROTHENTHURMSTRASSE 15.</front>
+<pb>
+<front><hr>
+<g>Alle Rechte vorbehalten</g>.
+<hr></front>
+<pb>
+<d1><b><g>Vorwort</g>.</b></d1>
+<p><in>D</in>ie Unklarheit der &201E;historischen Schule deutscher
+Volkswirthe&201C; über die Ziele und die Methoden der
+Forschung auf dem Gebiete der politischen Oekonomie,
+ein Gebrechen, welches bereits bei der ersten Begrün-
+dung dieser Schule in unverkennbarer Weise zu Tage
+trat, ist auch durch den Verlauf einer nahezu fünf
+Decennien andauernden Entwicklung nicht beseitigt
+worden.</p>
+<p>Die &201E;historische Schule&201C; war von allem Anfange
+an nicht das Ergebniss der Vertiefung in die Probleme
+unserer eigenen Wissenschaft; nicht, wie die histo-
+rische Jurisprudenz, ist sie aus dem scientifischen Be-
+dürfnisse der in die Probleme <g>ihrer</g> Wissenschaft sich
+vertiefenden Fachgelehrten hervorgegangen. Sie be-
+deutete seit ihrem ersten Beginne ein Hineintragen
+historischen Wissens in unsere theoretisch-praktische
+Disciplin. Aeussere Umstände haben sie hervorgerufen;
+<bs>a*</bs>
+<pb="IV"/>
+nicht Bearbeiter unserer Wissenschaft, &2014; Historiker
+haben sie ursprünglich begründet. Von aussen gleich-
+sam ist die historische Methode in unsere Wissenschaft
+getragen worden.</p>
+<p>Von diesen Mängeln des Ursprunges hat die
+historische Schule sich nie wieder zu befreien ver-
+mocht. Die äusserliche Verbindung gediegenen <g>histo-
+rischen</g> Wissens mit einem sorgfältigen aber führer-
+losen Eklekticismus auf dem Gebiete <g>unserer</g> Wissen-
+schaft bildet den Ausgangspunkt, zugleich aber auch
+den Höhepunkt ihrer Entwicklung. Mancherlei mit
+grossem Ernste unternommene Versuche, die Geschichte
+und die politische Oekonomie in eine innigere, orga-
+nische Verbindung zu bringen, sind den obigen Be-
+strebungen gefolgt, aber die von den historischen
+Volkswirthen in Aussicht gestellte Erhebung unserer
+Wissenschaft aus ihrem zurückgebliebenen Zustande
+ist nicht erreicht worden; ja sie scheint heute fast
+ferner gerückt, als in den Tagen, da <g>Hermann</g> und
+<g>Rau</g> lehrten.</p>
+<p>Dass die obigen, zum Theile mit nicht gewöhn-
+licher Begabung unternommenen Reformversuche nicht
+zu dem angestrebten Ziele geführt haben, war kein
+Werk des Zufalls; sie mussten an dem Irrthume
+scheitern, welcher in der Geschichte den Ausgangs-
+punkt, in der Verbindung derselben mit der politischen
+Oekonomie den Angelpunkt der beabsichtigten Reform
+erkannte. Die irrthümliche Hypothese, dass die Ver-
+bindung historischen Wissens mit der politischen Oeko-
+<pb="V"/>
+nomie an sich eine Reform dieser letzteren bedeute, das
+falsche Dogma des Historismus auf dem Gebiete unserer
+Wissenschaft, konnte von vornherein nicht die Grund-
+lage einer Erfolg versprechenden Umgestaltung dieser
+letzteren sein.</p>
+<p>Die Reform einer Wissenschaft vermag nur aus
+ihr selbst, nur aus den Tiefen ihrer eigenen Ideen-
+kreise hervorzugehen; sie kann nur das Werk der in
+die eigensten Probleme ihrer Disciplin sich vertiefen-
+den Forscher sein. Die politische Oekonomie wird nicht
+durch Historiker, durch Mathematiker, oder durch
+Physiologen, nie auch durch solche, die blindlings den
+Spuren derselben folgen, aus ihrer gegenwärtigen Ver-
+sunkenheit emporgehoben werden. Die Reform der
+politischen Oekonomie vermag nur von uns selbst aus-
+zugehen, von uns Fachgenossen, die wir im Dienste
+dieser Wissenschaft stehen.</p>
+<p>Was andere Wissenschaften und ihre Vertreter
+uns zu bieten, für uns zu leisten vermögen, ist die
+fortschreitende Vertiefung in ihre eigenen Probleme,
+die Vervollkommnung der Resultate ihrer eigenen
+Forschung. Sorgfältig und dankbar wollen wir diese
+letzteren benützen, so weit sie für die Entwickelung
+unserer Wissenschaft von Bedeutung sind, die Ergeb-
+nisse der Geschichtsforschung eben so wohl, als jene
+der Statistik, der Psychologie, der Logik, der tech-
+nischen Wissenschaften. Die reformatorische Ein-
+mischung anderer Disciplinen, das Hineintragen der
+politischen Oekonomie fremder Gesichtspunkte und
+<pb="VI"/>
+Methoden in diese letztere, werden wir in Hinkunft aber
+entschlossen abzuwehren haben, soll die deutsche Natio-
+nalökonomie nach einer weiteren halbhundertjährigen
+Periode nicht neuen Enttäuschungen entgegensehen.</p>
+<p>Was die nächste und wichtigste auf dem Ge-
+biete der politischen Oekonomie in Deutschland zu
+lösende Aufgabe ist, scheint durch den gegenwärtigen
+Zustand dieser Disciplin klar vorgezeichnet zu sein.
+Wie fremde Eroberer haben die Historiker den Boden
+unserer Wissenschaft betreten, um uns <g>ihre</g> Sprache
+und <g>ihre</g> Gewohnheiten &2014; ihre Terminologie und
+ihre Methodik &2014; aufzudrängen, jede <g>ihrer</g> Eigenart
+nicht entsprechende Richtung der Forschung unduldsam
+zu bekämpfen. Diesem Zustande muss ein Ende bereitet
+werden. Es gilt die aus der Natur unserer Wissen-
+schaft sich ergebenden Probleme und Erkenntnisswege
+wieder zu Ehren zu bringen, diese Disciplin von ihrer
+historisirenden Tendenz, von den Einseitigkeiten des
+Historismus zu befreien. Hat die politische Oekonomie
+in Deutschland nur erst wieder sich selbst, ihren Be-
+griff und ihre Methoden gefunden, bewahrt sie sich
+überdies den Geist der Universalität, welcher die Er-
+gebnisse fremder Forschung, auch jene anderer Wissens-
+gebiete, ganz insbesondere aber der Geschichte und
+der Statistik, den eigenen Zwecken dienstbar macht:
+dann darf uns um die weitere Entwickelung dieser
+Wissenschaft nicht bange sein.</p>
+<p>Dem obigen Zwecke sind auch die nachfolgenden
+methodologischen Briefe gewidmet. Sie sollen ein wissen-
+<pb="VII"/>
+schaftlich ganz besonders versumpftes, mit den äusser-
+sten Mitteln der Unduldsamkeit und Unziemlichkeit
+vertheidigtes Gebiet des Historismus in der deutschen
+Nationalökonomie, den jüngsten Auswuchs des letzteren,
+unter das Licht der Kritik stellen, unqualificirbaren,
+zum mindesten in solcher Form durch nichts provo-
+cirten Angriffen die gebührende Antwort bringen.</p>
+<p>Ich bin auch in dieser hauptsächlich der Abwehr
+gewidmeten kleinen Schrift der nahe liegenden Ver-
+suchung ausgewichen, die eigentliche Methodik der
+exacten Forschung auf dem Gebiete der theoretischen
+Nationalökonomie zu behandeln. Ich habe in den
+&201E;Untersuchungen über die Methode der Socialwissen-
+schaften&201C; den Nachweis der von der historischen Sc<g>hule</g>
+eifrig bestrittenen Berechtigung der obigen Richtung
+des theoretischen Erkenntnissstrebens auf dem Gebiete
+der Volkswirthschaft zu erbringen gesucht, die ein-
+gehende Darstellung der bezüglichen Erkenntnisswege
+indess einer besonderen Schrift vorbehalten. <fn="*)">A. a. O. S. 43.</fn> Die vor-
+läufigen Bemerkungen hierüber sind nichtsdestoweniger
+zum Gegenstande lebhafter Discussion unter den
+Beurtheilern meiner methodologischen Untersuchungen
+geworden: ein erfreuliches Zeichen des auf dem Ge-
+biete der deutschen Nationalökonomie, trotz des
+Vorherrschens der historischen Schule, vorhandenen
+Interesses für den obigen wichtigen Zweig der theo-
+retischen Forschung. Ich werde nunmehr die Erfüllung
+<pb="VIII"/>
+meiner Zusage zu beschleunigen suchen, da nur durch
+vollständige Klarheit über die Ziele und die Erkennt-
+nisswege der exacten Nationalökonomie der Einseitig-
+keit unserer historischen Volkswirthe in ausschlag-
+gebender Weise begegnet zu werden vermag. Ich
+werde hierbei auch Gelegenheit finden, die sachkundigen
+Bemerkungen zu berücksichtigen, welche von E. v.
+<g>Böhm, Emil Sax, W. Lexis, H. Dietzel</g> und
+Anderen einzelnen Theilen meiner Ausführungen ent-
+gegengesetzt worden sind.</p>
+<p><g>Wien</g>, im Januar 1884.</p>
+<p><et><b>Der Verfasser.</b></et></p>
+<pb>
+<d1><b>INHALT.</b></d1>
+<con>Seite
+<b>Vorwort</b> _ _ III
+<b>Erster Brief.</b> <g>Einleitung:</g> Aeussere Veranlassung dieser
+Briefe. Ueber den Nutzen, welcher für die wissenschaftliche
+Discussion selbst aus den Kritiken flacher, in den behandelten
+Materien nicht genügend orientirter Beurtheiler gezogen werden
+könne _ _ 1
+<b>Zweiter Brief.</b> <g>Fortsetzung:</g> Ueber Entstellungen auf dem
+Gebiete der wissenschaftlichen Kritik und wie denselben zu
+begegnen sei? _ _ 6
+<b>Dritter Brief.</b> Ueber die verschiedenen Richtungen des Er-
+kenntnissstrebens auf dem Gebiete der Volkswirthschaft _ _ 12
+<b>Vierter Brief.</b> Dass die politische Oekonomie und die Ge-
+schichte der Volkswirthschaft streng zu unterscheidende
+Wissenschaften seien _ _ 20
+<b>Fünfter Brief.</b> Warum <g>Schmoller</g> diese Grenzen zu ver-
+wischen trachte? _ _ 26
+<b>Sechster Brief.</b> Die Ueberschätzung historischer Studien auf
+dem Gebiete der politischen Oekonomie. Ihre Ursachen und
+ihre Nachtheile _ _ 29
+<b>Siebenter Brief.</b> Ueber die Meinung, dass die Wirthschafts-
+geschichte vollends erforscht werden müsse, ehe an die Reform
+der politischen Oekonomie geschritten werden könne _ _ 34
+<b>Achter Brief.</b> Ueber die Meinung, dass die Wirthschafts-
+geschichte die ausschliessliche empirische Grundlage der For-
+schung auf dem Gebiete der politischen Oekonomie sei _ _ 42
+<bs><g>Menger</g>, Die Irrthümer des Historismus. b</bs>
+<pb="X"/>
+Seite
+<b>Neunter Brief.</b> Dass ein nach bestimmten wissenschaftlichen
+Kategorien geordnetes historisch-statistisches Material mit der
+politischen Oekonomie nicht verwechselt werden dürfe _ _ 47
+<b>Zehnter Brief.</b> Ueber die Meinung <g>Schmoller</g>&2019;s von den
+Aufgaben der praktischen Wirthschafts-Wissenschaften _ _ 51
+<b>Elfter Brief.</b> Ueber die Idee <g>Schmoller</g>&2019;s, die praktischen
+Wissenschaften von der Volkswirthschaft zu theoretischen
+erheben zu wollen _ _ 56
+<b>Zwölfter Brief.</b> Wie <g>Schmoller</g> sich diese Erhebung vor-
+stellt? _ _ 60
+<b>Dreizehnter Brief.</b> Noch eine Ansicht <g>Schmoller</g>&2019;s über
+den nämlichen Gegenstand _ _ 64
+<b>Vierzehnter Brief.</b> Zur Charakteristik der Kampfesweise
+<g>Schmoller</g>&2019;s _ _ 71
+<b>Fünfzehnter Brief.</b> Fortsetzung _ _ 78
+<b>Sechzehnter Brief.</b> Schlusswort _ _ 86</con>
+<hr>
+<pb>
+<d1><b>Erster Brief.</b></d1>
+<p><in>S</in>ie schreiben mir, mein Freund, dass die ebenso
+unüberlegte als herausfordernde Kritik, welche meine
+&201E;Untersuchungen über die Methode&201C; <fn="*)">C. <g>Menger</g>, Untersuchungen über die Methode der
+Socialwissenschaften und der politischen Oekonomie insbesondere.
+Leipzig, bei Duncker & Humblot, 1883.</fn> in dem Berliner
+Jahrbuche für Gesetzgebung Seitens des Heraus-
+gebers gefunden haben <fn="**)">G. <g>Schmoller</g>, &201E;Zur Methodologie der Staats- und
+Socialwissenschaften&201C; im Jahrbuch für Gesetzgebung, Verwal-
+tung und Volkswirthschaft im deutschen Reiche. Leipzig bei
+Duncker & Humblot, 1883, pag. 239&2014;258.</fn>, am besten mit jenem Still-
+schweigen zu übergehen sei, welches die wirksamste
+Antwort auf Angriffe der obigen Art bilde.</p>
+<p>Wer mein Buch auch nur flüchtig gelesen habe,
+werde von selbst entnehmen, inwieweit die Angriffe
+<g>Schmoller</g>&2019;s auf Sachkunde und Unbefangenheit
+beruhen, und sich darnach sein Urtheil bilden. Aber
+auch bei jenen, welche meine &201E;Untersuchungen&201C; nicht
+kennen, würde seine Kritik der richtigen Würdigung
+begegnen; rühre sie doch von einem Manne her, dessen
+wissenschaftliche Erudition, trotz seiner unablässigen
+Hinweise auf die historischen und philosophischen
+<bs><g>Menger</g>, Die Irrthümer des Historismus. 1</bs>
+<pb="2"/>
+Studien, denen er sich hingebe, auf die Vorlesungen
+über Methodik &201E;zu welchen er sich eben rüste&201C; u. dgl. m.,
+in ernsten Gelehrtenkreisen bereits seit langem nach
+Gebühr gewürdigt werde. Recensionen von jener Art,
+wie sie <g>Schmoller</g> seit Jahren ohne genügende
+Orientirung, voll Invectiven und offenbar ohne das
+geringste Gefühl der Verantwortlichkeit der Oeffent-
+keit übergebe, seien bei jenen sachkundigen Lesern,
+welche wir bei wissenschaftlichen Publicationen doch
+zunächst im Auge haben, unschädlich, jede Erwiderung
+auf dieselben unter der Würde eines ernsten Ge-
+lehrten.</p>
+<p>Erlauben Sie mir, mein Freund, in der obigen
+Rücksicht denn doch in etwas anderer Meinung zu
+sein. Zwar darüber, ob dergleichen Kritiken für die
+Autoren der recensirten Werke schädlich oder unschäd-
+lich seien, möchte ich in keine Discussion treten.
+Fassen sie dieselben für den Autor immerhin als un-
+schädlich, ja geradezu als erheiternde Zwischenfälle des
+Gelehrtenlebens auf. Daraus scheint mir indess noch
+keineswegs zu folgen, dass man dieselben gänzlich un-
+beachtet lassen solle. Was für den Autor einer Schrift
+nicht schädlich ist, kann unter Umständen der von ihm
+vertretenen Sache abträglich sein; und wäre selbst dies
+nicht der Fall, warum sollten wir es verschmähen, das,
+was einer uns am Herzen liegenden Sache unschädlich
+ist, im Dienste derselben zu verwerthen? Kritiken sach-
+kundiger Autoren nützen uns, indem sie uns berichtigen
+und belehren und dadurch die wissenschaftliche Dis-
+cussion vertiefen. Warum sollten Kritiken von der
+Art jener, die <g>Schmoller</g> veröffentlicht, nur unschäd-
+lich sein und nicht auch einen Nutzen gewähren, wenn-
+gleich, wie selbstverständlich, einen solchen ganz
+anderer Art?</p>
+<pb="3"/>
+<p>Ein jedes Werk hat ein gewisses geistiges Niveau,
+unter welches der Autor nur mit Widerstreben herab-
+steigt. In mathematischen Schriften wird nicht jede
+Formel aufgelöst, in juristischen Werken die Kenntniss
+des positiven Rechtes, in wissenschaftlichen Schriften
+überhaupt leicht mancherlei Fertigkeit und Wissen
+vorausgesetzt. Hierin liegen indess von jedem ein-
+sichtigen Autor peinlich genug empfundene Schranken
+für das Verständniss und die Verbreitung seiner Ideen.
+Flache, von unkundigen Kritikern gegen uns gerichtete
+Angriffe bieten uns nun aber die erwünschte Gelegen-
+heit, jene Schranken zu erweitern, und zwar in um
+so wirksamer Weise, je näher unser Beurtheiler in den
+behandelten Fragen dem hierin minder orientirten Lese-
+publikum steht und je rücksichtsloser derselbe gegen
+uns aufzutreten vermeint.</p>
+<p>In Recensionen dieser Art werden gegen die Er-
+gebnisse unserer Forschung Einwände erhoben, die dem
+Autor wohl selbst vorgeschwebt, welche er indess, um
+ihrer für den Sachkundigen augenfälligen Unrichtigkeit
+willen, zu beantworten unterlassen hat. Werden die-
+selben indess von einem Kritiker, und zwar, wie dies
+zumeist der Fall zu sein pflegt, mit nicht geringem
+Nachdrucke vorgetragen, so sind wir in der Lage, uns
+mit ihrer Widerlegung befassen zu können, ohne doch
+der Achtung, welche wir den Lesern gelehrter Schriften
+schuldig sind, allzu nahe zu treten. Einwendungen und
+Angriffe der obigen Kategorie bieten uns solcher Art
+die Gelegenheit, unsere Ideen bis zu einem Grade der
+Gemeinverständlichkeit zu erheben, welcher in wissen-
+schaftlichen Schriften sonst nicht gebräuchlich und
+für das eigentlich gelehrte Publikum auch überflüssig ist,
+in Rücksicht auf einen Theil des Leserkreises wissen-
+schaftlicher Werke indess nicht jedes Nutzens entbehrt.</p>
+<bs>1*</bs>
+<pb="4"/>
+<p>Aber noch einen anderen, ungleich grösseren Dienst
+erweisen uns Kritiken von jener Art, von welchen ich
+hier spreche. Es werden in denselben Einwände er-
+hoben, welche so fern ab von den Gedankenkreisen
+ernster Gelehrter liegen, dass Niemand, welcher in der
+Sache einigermassen orientirt ist, am wenigsten der
+Autor eines Werkes selbst auf dieselben zu verfallen
+vermöchte, welche indess durch eine merkwürdige Zu-
+sammenstimmung der Geister in den Köpfen aller ober-
+flächlichen und mit den behandelten Materien nicht
+genügend vertrauten Leser wissenschaftlicher Werke
+zu entstehen pflegen.</p>
+<p>Durch Kritiken dieser Art gelangen wir in
+dankenswerthester Weise zur Kenntniss der gröbsten
+Missverständnisse, welchen unsere Schriften in gewissen
+Leserkreisen ausgesetzt sind und erlangen auf diese
+Art die erwünschte Gelegenheit, denselben wirksam
+zu begegnen. Kritiken von jener Kategorie, von welchen
+ich hier spreche, spielen in der wissenschaftlichen Dis-
+cussion solcherart gleichsam die Rolle jener gewissen
+Figur in der italienischen Komödie, welche durch ihre
+halb missverständlichen, halb bösartigen Einwürfe die
+Entwicklung der Handlung zu hemmen scheint, sie
+jedoch in eben so wirksamer als erheiternder Weise
+fördert.</p>
+<p>Freilich, dass ein Schriftsteller von bekannterem
+Namen, und in mehr als einer Rücksicht anerkennens-
+werthem Verdienste, dem auf die Verbreitung seiner
+Ideen bedachten Autor eines Werkes dadurch hilfreich
+beispringt, dass er in der wissenschaftlichen Discussion
+eine Rolle so secundärer Natur übernimmt, ist nicht
+eben häufig; geradezu ein Glücksfall, wenn unser
+Gegner durch die äusseren Machtmittel, die er in seinen
+Händen vereinigt, und durch die Art, in welcher er
+<pb="5"/>
+sich derselben bedient, ein von den Kleinen und Furcht-
+samen gepriesener, von den Stärkeren klug be-
+schwiegener Gelehrter ist; denn mit dem Interesse
+an der Förderung unserer wissenschaftlichen Bestre-
+bungen verbindet sich dann jenes an der Säuberung
+der Literatur von dem Einflusse eines flachen, für die
+hohen Aufgaben wissenschaftlicher Kritik nicht be-
+rufenen Recensententhums.</p>
+<p>Und diese von dem Herausgeber der Berliner
+Jahrbücher in so unbeabsichtigter Weise mir darge-
+botene Gelegenheit zur Beseitigung einer Reihe von
+Missverständnissen und Irrthümern über die grund-
+legenden Probleme unserer Wissenschaft, vielleicht
+auch zur Behebung mancher anderer &201E;historisch ge-
+wordener&201C; Hindernisse einer sachgemässen wissen-
+schaftlichen Discussion auf dem Gebiete der National-
+ökonomie in Deutschland, sollte ich so völlig unbenützt
+an mir vorübergehen lassen?</p>
+<hr>
+<pb>
+<d1><b>Zweiter Brief.</b></d1>
+<p>Sie machen in freundlicher Besorgniss mich darauf
+aufmerksam, dass ein Streit mit <g>Schmoller</g> nicht
+nur eine wissenschaftliche, sondern auch noch eine ganz
+andere Seite habe. Es gebe keinen zweiten Gelehrten
+in Deutschland, kaum irgendwo, welcher so rücksichtslos
+in der Wahl der Mittel sei, wenn es, einen Gegner zu
+bekämpfen, gelte. Ich möge auf jede mögliche und un-
+mögliche Entstellung meiner Worte gefasst sein, und
+dass <g>Schmoller</g> Meister einer ebenso persönlichen
+als vulgären Schreibweise sei &2014; nebenbei gesagt, die
+einzige Meisterschaft, welche diesem Manne in Rück-
+sicht auf sein Deutsch nachgerühmt werden könne &2014;
+davon hätte ich selbst geradezu erschreckende Proben
+erhalten.</p>
+<p>Sie haben Recht, mein Freund, wenn Sie eine
+wissenschaftliche Discussion mit <g>Schmoller</g> für keine
+bloss scientifische Angelegenheit ansehen; ist doch
+dieser Mann nur all zu bekannt wegen seiner ausge-
+sprochenen Neigung zur Missdeutung fremder Meinun-
+gen und ebenso bekannt, als Vertreter der Unziem-
+lichkeit auf dem Gebiete wissenschaftlicher Polemik. <fn="*)"><g>Schmoller</g> lässt es in der Recension meiner Schrift
+nicht bei Kraftausdrücken, wie &201E;weltflüchtige stubengelehrte
+Naivetät&201C;, &201E;scholastische Denkübungen&201C;, &201E;Scheuklappen</fn>
+<pb="7"/>
+Wahrlich, nicht ohne ein gewisses Zögern trete ich an
+die Bekämpfung dieser Seite seiner gegen mich ge-
+<fnf>wissenschaftlicher Arbeitsleistung&201C;, &201E;abstracte Schemen&201C;,
+&201E;geistige Schwindsucht&201C; u. dgl. m., bewenden, sondern gibt
+mir, offenbar um die Wucht dieser Argumente zu verstärken,
+sogar zu verstehen, dass ich, um meiner methodischen An-
+sichten willen, aus jedem Kreise exacter Forscher &201E;<g>sofort
+hinausgeworfen</g>&201C; werden würde. Die betreffende Stelle
+seiner Kritik, welche den Beweis liefert, dass <g>Schmoller</g>
+nicht ohne Nutzen für seine Schreibweise sich die ersten
+Sporen seiner wissenschaftlichen Laufbahn in Handwerker-
+vereinen erworben hat (vgl. <g>Schmoller:</g> Zur Geschichte
+der deutschen Kleingewerbe S. VI), lautet wörtlich: &201E;Der
+Chemiker darf wagen, von den physikalischen Eigenschaften
+eines chemischen Gegenstandes zu abstrahiren, aber, wenn er
+die atmosphärische Luft untersuchte und <g>nach dem Grund-
+satze Menger</g>&2019;scher <g>Isolirung</g> sagte: ich ziehe dabei
+nur den Stickstoff in Betracht, weil er vorherrscht, <g>so würde
+man ihn sofort aus dem Laboratorium hinaus-
+werfen</g>.&201C; Wer auch nur die Elemente der Logik kennt,
+weiss, dass man unter dem Isolirungsverfahren nur die Isolirung
+von den einer Erscheinung <g>accidentiellen</g> Momenten ver-
+steht, und wer mein Buch gelesen hat, weiss, dass ich nirgends
+auch nur die entfernteste Veranlassung zu der unsinnigen
+Meinung gebe, dass unter dem Isolirungsverfahren die Iso-
+lirung von den einer Erscheinung <g>essentiellen</g> Momenten
+zu verstehen sei. Die Bemerkung <g>Schmoller</g>&2019;s ist demnach
+nicht nur eine unziemliche, ja geradezu an Rohheit streifende,
+sondern zugleich eine vollständig deplacirte. Ich wage diese
+Bemerkung, selbst auf die Gefahr hin, dass <g>Schmoller</g>,
+in einem Momente des Vergessens, dass er gegenwärtig Mit-
+glied einer der illustersten Gelehrtencorporationen sei, etwa
+plötzlich seine Aermel emporzustreifen und seine entsetzlichen
+Argumente &201E;sofort&201C; &2014; vorzutragen die Miene machen könnte.
+Dass die Entstellung fremder Ansichten und die äusserste
+Unziemlichkeit der Ausdrucksweise übrigens von <g>Schmoller</g>
+nicht nur gegen mich, sondern geradezu gewohnheitsmässig
+geübt wird, darf ich wohl als bekannt voraussetzen. Schon
+vor nahezu zehn Jahren sah sich Prof. <g>Treitschke</g> genöthigt,</fnf>
+<pb="8"/>
+richteten Angriffe. Doch es gibt Zustände, gegenüber
+welchen zu schweigen Verrath an der eigenen Sache
+wäre. Nur zu gerne überliesse ich das unerquickliche
+Geschäft, das ich hier zu besorgen habe, einem Andern,
+fände sich bei der Art der Kritik, welche <g>Schmoller</g>
+auf dem Gebiete unserer Wissenschaft übt, nur so
+leicht dieser Andere. Gerade das, was Sie mir als
+Grund dafür anführen, gegenüber den Angriffen
+<g>Schmoller</g>&2019;s zu schweigen, muss für mich ein Motiv
+mehr sein, meine Stimme gegen denselben zu erheben.</p>
+<p>&201E;Unverdiente Lobsprüche &2014; sagt <g>Lessing</g> &2014;
+kann man Jedem gönnen ..... Nur wenn ein so pre-
+cario .... berühmt gewordener Mann sich mit dem stillen
+<fnf>in einem offenen Briefe an <g>Schmoller</g> (&201E;Der Socialismus&201C;
+und seine Gönner. Berlin 1875, S. 102 ff.) unter Anführung
+zahlreicher Belegstellen darauf hinzuweisen, dass die Polemik
+<g>Schmoller</g>&2019;s &201E;mit persönlichen Ausfällen reichlich geziert
+sei&201C; und ihn (<g>Treitschke</g>) nöthige, gegen seine Neigung
+und Gewohnheit auch seiner Erwiderung einige persönliche
+Bemerkungen vorauszuschicken&201C;. &2014; Bemerkungen, welche
+darin gipfeln, &201E;<g>dass Schmoller fast allen seinen
+Gegnern Worte zuschleudert, welche die Ver-
+ständigung nicht fördern</g>&201C;. Was die Wahrheitsliebe
+<g>Schmoller</g>&2019;s betrifft, so äusserst sich <g>Treitschke</g> gegen
+denselben folgendermassen: &201E;Ich müsste wie Sie, zehn
+Bogen füllen, wollte ich nachweisen, wie Sie meine Be-
+hauptungen hier übertreiben, dort in das Gegentheil ver-
+wandeln, bald das Bedingte als ein Unbedingtes hinstellen,
+bald mir gar meine eigenen Gedanken zürnend entgegenhalten,
+als ob ich sie bestritten hätte, und durch solche dialektische
+Künste schliesslich ein Bild zu Stande bringen, <g>in dem ich
+keinen Zug von meiner wirklichen Meinung
+wieder erkenne</g>.&201C;
+Der Ruhm, den Gipfelpunkt der missbräuchlichen Schreib-
+weise <g>Schmoller</g>&2019;s zu bilden, dürfte indess jedenfalls seiner
+Kritik meiner &201E;Untersuchungen&201C; zufallen.</fnf>
+<pb="9"/>
+Besitze seiner unverdienten Ehren <fn="*)"><g>Lessing</g> gebraucht hier einen anderen Ausdruck.</fn> nicht begnügen will,
+wenn das Irrlicht <fn="*)"><g>Lessing</g> gebraucht hier einen anderen Ausdruck.</fn>, das man hat zum Meteor aufsteigen
+lassen, nunmehr auch lieber sengen und brennen möchte,
+wenigstens überall um sich her giftige Dämpfe ver-
+breitet; wer kann sich des Unwillens enthalten? und
+welcher Gelehrte, dessen Umstände es erlauben, ist
+nicht verbunden, seinen Unwillen öffentlich zu be-
+zeugen?&201C;</p>
+<p>Nun denn, meine Umstände erlauben es mir, den
+Missverständnissen, den Entstellungen und Unziemlich-
+keiten <g>Schmoller</g>&2019;s auf dem Gebiete der national-
+ökonomischen Kritik entgegenzutreten.</p>
+<p>Nur bitte ich Sie, mein Freund, hierin ja keinen
+Beweis auch nur des geringsten Heroismus zu erkennen;
+denn einerseits bin ich der Meinung, dass meine &201E;welt-
+flüchtige stubengelehrte Naivetät&201C; immer noch einem
+auch noch so weltlichen und ungelehrten Streberthum
+auf dem Gebiete der Wissenschaft gewachsen sei, und
+andererseits glaube ich auch noch manchen anderen
+Grund zu haben, meinen Gegner nicht all&2019; zu sehr
+fürchten zu müssen. Männer wie <g>Schmoller</g> vermögen
+nur in Folge geradezu desolater Zustände einer Wissen-
+schaft an die Oberfläche zu gelangen. Nur wenn die
+Häupter wissenschaftlicher Richtungen ihrer Sache
+nicht ganz sicher sind, tiefe Zweifel an ihren grund-
+legenden Ansichten sie bekümmern, und dieselben in
+mehr als einer Beziehung der Nachsicht untergeordneter
+Geister bedürfen, vermögen diese letzteren gegen die
+Vertreter anderer Meinungen einen halb widerwärtigen,
+halb lächerlichen Terrorismus zu organisiren, wie er
+gegenwärtig in einem Theile unserer fachwissenschaft-
+lichen Zeitschriften geübt wird. Indess ich verlange
+<pb="10"/>
+nicht die Nachsicht dieser Männer, ja ich habe nichts
+unterlassen, um selbst den Schein zu vermeiden, als
+ob ich die Nachsicht eines <g>Schmoller</g> wünschte.
+Welchen Grund könnte ich also haben, ihn zu fürchten?</p>
+<p>Etwa, dass er mir Irrthümer nachweise? Ich
+wünschte diese Gefahr bestände, bestände im reich-
+lichsten Masse; wie dankbar wollte ich ihm für jede
+Belehrung sein, wäre eine solche bei Schriftstellern
+seiner Art nur auch zu finden, bei einem Schriftsteller,
+welchem ich Seite für Seite Missverständnisse nach-
+weise, welche &2014; doch ich möchte nicht in den Ton
+meines Gegners verfallen.</p>
+<p>Oder soll ich davor zurückschrecken, dass
+<g>Schmoller</g> meine Ansichten entstellen, missdeuten
+werde? Ich gestehe, dass dergleichen einem Autor nicht
+eben zum Vergnügen gereicht. <i>An erit, qui velle recuset
+os populi meruisse?</i> Wie leicht wird durch solche
+&201E;Berichterstattung&201C; dem Autor ein Theil des loyalen
+Erfolges ehrlicher Arbeit entzogen? Wie leicht? Ja
+wohl! Indess doch nur dann, wenn wir den Helden
+dieses Treibens das Feld überlassen und unser gutes
+Recht auf eine objektive Berichterstattung nicht gel-
+tend machen.</p>
+<p>Was ist der Herausgeber einer wissenschaftlichen
+Zeitschrift, dass wir schweigend die Ergebnisse unserer
+wissenschaftlichen Forschung von ihm entstellen lassen
+sollten? Was anderes ist er, als ein Mann, der im
+Dienste der Wahrheit und der wissenschaftlichen Be-
+dürfnisse des Leserkreises seiner Zeitschrift steht, ein
+Mann, welcher in dem Programme ehrliche und un-
+befangene Berichterstattung zugesichert hat und gegen
+seine Pflicht handelt, wenn er, anstatt dieser seiner
+Zusicherung nachzukommen, die Wahrheit entstellt.
+Und gegen einen solchen sollte es kein Mittel der
+<pb="11"/>
+Abwehr geben? Kein Mittel der Abwehr gegen den
+Missbrauch wissenschaftlicher Organe, deren Existenz
+die Gelehrtenwelt, und nur diese, durch ihre geistige
+und materielle Unterstützung ermöglicht?</p>
+<p>Das Mittel ist ebenso einfach als wirksam. Es
+gilt, Entstellungen der Ergebnisse unserer wissenschaft-
+lichen Untersuchungen nicht ruhig hinzunehmen, son-
+dern dieselben zu constatiren. Thun wir dies in einer
+Reihe von Fällen, so wird das Lesepublikum sich ge-
+wöhnen, nicht blindlings mehr der Berichterstattung
+gewisser Recensenten zu vertrauen, sondern zum min-
+desten bei besonders auffälligen Behauptungen sich
+selbst die Ueberzeugung von der Stichhältigkeit der-
+selben zu verschaffen suchen. Damit ist aber mit
+einem Schlage die Macht jener Männer gebrochen,
+welche an die Stelle objektiver Berichterstattung die
+Entstellung fremder Meinungen setzen. Thue nur jeder
+im obigen Sinne seine Pflicht und wir werden die
+Schmoller bald nicht mehr zu fürchten haben. Ja sie
+werden sich bald genöthigt sehen, entweder die kritische
+Feder niederzulegen, oder aber bei der Berichterstattung
+in Hinkunft in besonders gewissenhafter Weise zu
+Werke zu gehen. Ist nämlich einmal das Misstrauen
+gegen dergleichen Kritiker erwacht, dann bleibt ihnen,
+schon im eigenen Interesse, nichts übrig, als ganz be-
+sonders gewissenhafte Berichte zu erstatten. Welche
+grausamere Strafe dieser Männer lässt sich aber
+denken, als wenn wir sie nöthigen, objektive Kritik
+zu üben?</p>
+<hr>
+<pb>
+<d1><b>Dritter Brief.</b></d1>
+<p>Sowohl der Geschichtsschreiber und Statistiker,
+als auch der Socialtheoretiker beschäftigen sich mit
+Gesellschaftserscheinungen; wodurch unterscheidet sich
+ihre wissenschaftliche Thätigkeit? Wodurch unter-
+scheiden sich die historischen von den theoretischen
+Socialwissenschaften? Diese für die Wissenschaftslehre
+an sich bedeutungsvolle Frage hatte für mich eine be-
+sondere Wichtigkeit gewonnen. In der neuern national-
+ökonomischen Literatur Deutschlands waren, neben
+manchen andern Irrthümern, von welchen ich weiter
+unten zu handeln gedenke, Ansichten zu Tage getreten,
+welche auf dem Gebiete der Volkswirthschaft jede
+strengere Trennung von Geschichtsschreibung und
+Statistik einerseits und der Theorie andererseits ver-
+missen liessen. Es war eine Schule von Volkswirthen
+entstanden, welche sich um die Geschichte und die
+Statistik der Volkswirthschaft von Niemand bereit-
+williger, als von mir, anerkannte Verdienste erworben
+hatte, welche die obigen Wissenschaften und die theo-
+retische Nationalökonomie indess vielfach mit einander
+verwechselte, ja, in Folge der Auffassung der letzteren
+als eine historische Wissenschaft, die selbstständige
+Bedeutung derselben geradezu in Frage stellte. <fn="*)">Vgl. hiezu H. <g>Dietzel</g>: Ueber das Verhältniss der
+Volkswirthschaftslehre zur Socialwirthschaftslehre. Berlin 1882.
+S. 4 ff., 7 ff.</fn></p>
+<pb="13"/>
+<p>Dieser für die Entwicklung der Theorie der
+Volkswirthschaft verderblich gewordenen Einseitigkeit
+entgegenzutreten, hatte ich mir zur Aufgabe gestellt.
+Nicht als ob ich den Nutzen und die Bedeutung
+historischer und statistischer Forschungen auf dem
+Gebiete der Volkswirthschaft an sich, oder als Hilfs-
+wissenschaften der theoretischen Volkswirthschaftslehre
+jemals verkannt oder auch nur unterschätzt hätte; im
+Gegentheile, ich habe die Wichtigkeit dieser Richtungen
+des Erkenntnissstrebens auf nationalökonomischem
+Gebiete mit nicht misszuverstehender Rückhaltlosigkeit
+anerkannt. Was ich an den Bestrebungen jener grossen
+Gruppe deutscher Fachgenossen, welche unter dem
+Collectivnamen der historischen Schule deutscher
+Nationalökonomen eine so hervorragende Stellung in
+der neueren volkswirthschaftlichen Literatur Deutsch-
+lands einnehmen, zu bemängeln fand, war die Einseitig-
+keit, mit welcher dieselben ihre geistige Kraft zum
+Theile nur historischen und statistischen Studien, also
+der Bearbeitung von Hilfswissenschaften der politischen
+Oekonomie, zuwenden, die einer Reform dringend be-
+dürftige Theorie unserer Wissenschaft jedoch auf das
+Bedauerlichste vernachlässigen, zum Theile sogar der
+theoretischen Forschung auf dem Gebiete der Volks-
+wirthschaft mit missverständlicher Geringschätzung
+entgegentreten, als wäre die historische Forschung
+allein berechtigt auf dem Gebiete der Volkswirthschaft.</p>
+<p>Die historische Schule deutscher Volkswirthe
+gab auch in einer anderen verwandten Rücksicht zu
+mancherlei Bedenken Anlass. Hervorragende Vertreter
+derselben liessen jede strengere Trennung der theoreti-
+schen und praktischen Wissenschaften von der Volks-
+wirthschaft vermissen; nicht nur in den meisten neueren
+Lehrgebäuden unserer Wissenschaft, also in der Praxis
+<pb="14"/>
+der Darstellung, auch in den grundlegenden methodi-
+schen Erörterungen wurden nur zu oft die Grenzen der
+beiden obigen fundamental verschiedenen Richtungen
+der Forschung verkannt, ja diese Verirrung als ein
+epochemachender Fortschritt unserer Wissenschaft
+gekennzeichnet.</p>
+<p>Noch in einer dritten Beziehung glaubte ich in
+den methodischen Grundsätzen der historischen Schule
+einen Irrthum zu erkennen. Selbst diejenigen Anhänger
+dieser Schule, welche die selbstständige Bedeutung der
+theoretischen Volkswirthschaftslehre nicht schlechtweg
+leugnen, also neben historisch-statistischen Studien und
+socialpolitischen Forschungen die Berechtigung einer
+Wissenschaft von den &201E;Gesetzen&201C; der Volkswirthschaft
+zugestehen, selbst diese Anhänger der historischen
+Schule deutscher Volkswirthe schienen mir von grober
+Einseitigkeit in ihrer Auffassung der theoretischen
+Volkswirthschaftslehre nicht völlig frei zu sein, indem
+sie nicht <g>allen</g> dem Gebiete der Volkswirthschaft
+adäquaten, sondern nur gewissen mit historisch-
+statistischen Studien in engerer Beziehung stehenden
+Richtungen der theoretischen Forschung (der Philoso-
+phie der Wirthschaftsgeschichte u. s. f.) die Berechtigung
+zuerkannten <fn="*)">Vgl. hiezu die sachgemässen Ausführungen von
+H. <g>Dietzel</g> a. a. O. S. 31 ff.</fn>, allen übrigen aber, darunter solchen
+von der fundamentalsten Bedeutung, mit unbegründeter
+Geringschätzung entgegentraten. <fn="**)">&201E;Beide Richtungen (die historische und die organische),
+besonders aber die historische, gewannen in Deutschland rasch
+Boden und heutzutage dominiren sie die deutsche Wissenschaft
+fast ganz. Die Art, in der sie ihre Herrschaft ausüben, ist,
+was man nicht läugnen kann, wenig duldsam. Jede von der
+herrschenden einigermassen abweichende Richtung der For-</fn></p>
+<pb="15"/>
+<p>Die historische Schule deutscher Volkswirthe
+schien mir solcher Art den Begriff der politischen
+Oekonomie und ihrer Theile, das Verständniss des
+Verhältnisses dieser letzteren zu einander und zu ihren
+Hilfswissenschaften, vor Allem aber die Uebersicht über
+die verschiedenen berechtigten Richtungen der theore-
+tischen Forschung auf dem Gebiete der Volkswirthschaft
+&2014; kurz den Einblick in das System der Aufgaben ver-
+loren zu haben, deren Lösung der wissenschaftlichen
+Forschung auf dem Gebiete der Volkswirthschaft ob-
+liegt. Ein Theil ihrer Vertreter beschäftigte sich aus-
+schliesslich mit der Geschichte und der Statistik der
+Volkswirthschaft, also mit Hilfswissenschaften der
+politischen Oekonomie, während er doch, sei es nun
+mittelbar oder unmittelbar, an dem Ausbaue der letzteren
+zu arbeiten wähnte, ein anderer mit der Lösung prakti-
+scher, zumal socialpolitischer Probleme, in der Meinung,
+die Theorie der Volkswirthschaft umzugestalten, noch
+ein anderer endlich erschöpfte seine geistige Kraft in
+der Verfolgung gewisser mit historisch-statistischen
+Studien in engster Beziehung stehenden besonderen
+Richtungen der theoretischen Forschung, jede andere
+Richtung des theoretischen Erkenntnissstrebens auf
+dem Gebiete der Volkswirthschaft als Missverständniss
+der wahren Ziele nationalökonomischer Forschung zu-
+rückweisend.</p>
+<p>Diese Verirrungen eines namhaften Theiles der
+deutschen Volkswirthe zu bekämpfen, erschien mir aber
+um so wichtiger, als die denselben zu Grunde liegende
+Verkennung wichtiger Aufgaben der politischen Oeko-
+<fnf>schung wird als &201E;abstract&201C;, &201E;unhistorisch&201C; oder &201E;atomistisch&201C;
+verurtheilt oder ignorirt.&201C; E. v. <g>Böhm-Bawerk</g> in der
+&201E;Zeitschrift für das Privat- und öffentliche Recht der Gegen-
+wart&201C;. Wien 1883, XI. B., S. 209.</fnf>
+<pb="16"/>
+nomie in hohem Masse verderblich auf die Entwick-
+lung unserer ganz vorzugsweise in ihrem theoretischen
+Theile reformbedürftigen Wissenschaft einwirken musste.
+Ich glaubte wahrzunehmen, dass in Deutschland die
+theoretische Forschung auf dem Gebiete der Volks-
+wirthschaft in Folge der obigen Irrthümer, d. i. seit
+der Begründung der historischen Schule, überhaupt
+unterschätzt werde, in manchen Zweigen geradezu
+ausser Uebung gekommen sei, zum grossen Nachtheile
+unserer Wissenschaft.</p>
+<p>Der Weg den ich zur Bekämpfung der obigen
+Einseitigkeiten und Irrthümer der historischen Schule
+einzuschlagen hatte, konnte für mich kein zweifelhafter
+sein. Der Irrthum der in Rede stehenden Gruppe
+deutscher Volkswirthe liegt in ihren Anschauungen
+über die Natur der politischen Oekonomie und ihrer
+Theile, über das Verhältniss dieser letzteren zu einander
+und zu gewissen Hilfswissenschaften der politischen
+Oekonomie, endlich in ihren einseitigen Lehrmeinungen
+über die Natur des theoretischen Erkenntnissstrebens
+auf dem Gebiete der Volkswirthschaft. So schwierig
+und umfassend auch die Untersuchung sich gestalten
+mochte: es musste die Natur der obigen Disciplinen
+und ihre Stellung im Kreise der Wissenschaften über-
+haupt klargestellt werden, ehe ich die für die Ent-
+wicklung der politischen Oekonomie verderblichen Irr-
+thümer der historischen Schule zu widerlegen vermochte.</p>
+<p>Es hiesse nun einen namhaften Theil meiner
+Erörterungen über diesen Gegenstand in einer über
+den Rahmen dieser Schrift hinausreichenden Weise
+wiederholen, wollte ich die obigen für die Forschung
+auf dem Gebiete der Socialwissenschaften überhaupt
+und der politischen Oekonomie insbesondere, grund-
+legenden Fragen, an dieser Stelle neuerdings eingehend
+<pb="17"/>
+behandeln. Was ich hier beabsichtige, ist, den An-
+griffen zu begegnen, welche meine &201E;Untersuchungen&201C;
+Seitens einiger namhafter Vertreter der historischen
+Schule deutscher Volkswirthe gefunden haben. Nur
+die letzten Ergebnisse meiner Forschung, und selbst
+diese nur insoweit, als sie Gegenstand der wissen-
+schaftlichen Discussion geworden sind, mögen hier, in
+wenige Worte zusammengefasst, ihre Stelle finden.</p>
+<p>Es sind die Thaten, Schicksale, Institutionen be-
+stimmter Staaten und Völker, welche der <g>Geschichts-
+schreiber</g> und <g>Statistiker</g>, der erstere unter dem
+Gesichtspunkte der Entwickelung, der letztere unter
+jenem der Zuständlichkeit zu erforschen und darzustellen
+haben; der <g>Theoretiker</g> auf dem Gebiete der Staats-
+und Socialerscheinungen hat dagegen die Aufgabe, uns
+&2014; nicht die concreten Erscheinungen und die concreten
+Entwickelungen, sondern &2014; die &201E;Erscheinungsformen&201C;
+und die &201E;Gesetze&201C; der bezüglichen Menscheitsphäno-
+mene zum Bewusstsein zu bringen; der Forscher auf
+dem Gebiete der <g>praktischen</g> Staats- und Social-
+wissenschaften aber soll uns die &201E;Grundsätze&201C; zum
+zweckmässigen Eingreifen in die staatlichen und gesell-
+schaftlichen Zustände lehren, die Grundsätze, nach
+welchen gewisse Absichten, z. B. die Pflege der Volks-
+wirthschaft, die Verwaltung des Staatshaushaltes u. s. f.
+am zweckmässigsten verwirklicht werden können.</p>
+<p>In diesem Sinne sagte ich, dass der <g>Geschichts-
+schreiber und Statistiker</g> die concreten Er-
+scheinungen des Menschenlebens und ihre concreten
+Beziehungen in Raum und Zeit (der erstere unter dem
+Gesichtspunkte der Entwickelung, der letztere unter
+jenem der Zuständlichkeit!), der <g>Theoretiker</g> die
+Erscheinungsformen des Menschenlebens und die Ge-
+setze der Erscheinungen des letzteren (die Typen und
+<bs><g>Menger</g>, Die Irrthümer des Historismus. 2</bs>
+<pb="18"/>
+die typischen Relationen der Menschheitserscheinungen),
+der Bearbeiter der <g>praktischen</g> Staats- und Social-
+wissenschaften aber die Grundsätze zum zweckmässigen
+Handeln auf dem Gebiete der Staats- und der Gesell-
+schaftserscheinungen zu erforschen und darzustellen
+habe.</p>
+<p>Ich blieb bei dieser Classification und ihrer An-
+wendung auf die Wirthschaftswissenschaften nicht
+stehen. Die hauptsächlichen Irrthümer der historischen
+Schule der deutschen Volkswirthe betreffen ihre Auf-
+fassung vom Wesen der theoretischen Nationalökonomie,
+ihre einseitige Hinneigung zu <g>einzelnen</g> mit histo-
+rischen Studien eng verbundenen Richtungen der theore-
+tischen Forschung. Hatte ich mir die Aufgabe gestellt,
+in seinen Grundzügen zunächst das ganze System der
+Probleme darzulegen, welche der menschliche Geist
+auf dem Gebiete der Socialforschung überhaupt und der
+politischen Oekonomie insbesondere zu lösen hat, so
+trat an mich nunmehr die engere Aufgabe heran, das
+System der berechtigten Richtungen der <g>theore-
+tischen</g> Forschung auf dem Gebiete der Volkswirth-
+schaft festzustellen. In diesem Sinne habe ich ausge-
+führt, dass es zwei Hauptrichtungen der theoretischen
+Forschung gebe. Beide haben den Zweck, die Er-
+scheinungsformen und die Gesetze der volkswirthschaft-
+lichen Phänomene festzustellen. Die erstere (<g>die
+empirische</g>) soll die Erscheinungsformen der realen
+Phänomene der Volkswirthschaft &201E;in ihrer <g>vollen</g> empi-
+rischen Wirklichkeit&201C; und die zu beobachtenden Regel-
+mässigkeiten in der Aufeinanderfolge und der Co&00EB;xistenz,
+(die &201E;empirischen Gesetze&201C;) der volkswirthschaftlichen
+Erscheinungen feststellen, während der anderen (der
+<g>exacten</g> Richtung der theoretischen Forschung), in
+einer den exacten Naturwissenschaften <g>analogen</g>, wenn
+<pb="19"/>
+auch keineswegs identischen Weise, die Aufgabe zu-
+fällt, die realen Erscheinungen der Volkswirthschaft
+auf ihre einfachsten streng typischen Elemente zurück-
+zuführen und uns, auf der Grundlage des Isolirungs-
+verfahrens, die (exacten) Gesetze darzulegen, nach
+welchen sich complicirtere Erscheinungen der Volks-
+wirthschaft aus den obigen Elementen entwickeln, um
+uns auf diesem Wege, zwar nicht das Verständniss der
+socialen Erscheinungen in &201E;<g>ihrer vollen empi-
+rischen Wirklichkeit</g>&201C;, wohl aber jenes der
+<g>wirthschaftlichen Seite</g> derselben zu verschaffen.</p>
+<p>Dem Nachweise der von der historischen Schule
+deutscher Nationalökonomen eifrig bestrittenen Be-
+rechtigung dieser letzteren Richtung des theoretischen
+Erkenntnissstrebens auf dem Gebiete der Volkswirth-
+schaft habe ich aber meine besondere Sorgfalt zuge-
+wandt.</p>
+<p>Nun weiss ich sehr wohl, dass durch die Zu-
+sammenfassung der Ergebnisse eines Theiles meiner
+Untersuchungen in so wenige Worte ich meinen Lesern
+nur ein höchst unvollkommenes Bild derselben zu bieten
+vermag. Liegt doch der hauptsächliche Werth wissen-
+schaftlicher Ergebnisse in der genetischen Entwicklung
+und der methodischen Begründung derselben. Indess
+selbst die schematische Form, in welcher ich dieselben
+hier wiedergebe, wird, wie ich glaube, genügen, um
+meine Leser über den Werth der Angriffe zu orientiren,
+welche meine &201E;Untersuchungen über die Methode der
+Forschung&201C; seitens eines Theiles der national-ökono-
+mischen Kritik Deutschlands erfahren haben.</p>
+<hr>
+<bs>2*</bs>
+<pb>
+<d1><b>Vierter Brief.</b></d1>
+<p>Der Gegensatz zwischen den historischen und
+den theoretischen Socialwissenschaften, wie ich ihn in
+meinem letzten Briefe gekennzeichnet und in meinen
+&201E;Untersuchungen über die Methode der Socialwissen-
+schaften&201C; eines Weiteren ausgeführt habe <fn="*)">S. 3 ff. und 252 ff.</fn>, wird von
+<g>Schmoller</g> nicht bestritten, sondern in seiner Weise
+anerkannt. Er gibt zu <fn="**)">Jahrbuch a. a. O. S. 241.</fn>, dass die Scheidung der Er-
+kenntnissrichtungen, von denen ich ausgehe &2014; be-
+rechtigt? &2014; nein! &2014; dieser Ausdruck fehlt offenbar
+in dem eigenthümlichen Recensenten-Argot <g>Schmol-
+ler</g>&2019;s &2014; sondern &201E;von einer gewissen Berechtigung
+sei&201C;. &201E;<g>Aber dieser Gegensatz dürfe nicht
+als eine unüberbrückbare Kluft aufgefasst
+werden</g>.&201C; &201E;Die Wissenschaft vom Individuellen&201C; &2014;
+<g>Schmoller</g> möchte &201E;lieber sagen&201C;, die <g>descriptive</g>
+Wissenschaft <fn="***)">Ich, für meine Person, möchte dies keineswegs
+&201E;lieber sagen&201C;. Die Botanik, die Zoologie, die Petrographie
+u. s. f. sind doch sicherlich keine Wissenschaften vom <g>Indi-</g></fn> &2014; &201E;liefere die Vorarbeiten für die all-
+<pb="21"/>
+gemeine Theorie; diese Vorarbeiten seien um so voll-
+endeter, als die Erscheinungen nach allen wesentlichen
+Merkmalen, Veränderungen, Ursachen und Folgen be-
+schrieben seien. Die vollendete Beschreibung setze aber
+wieder eine vollendete Classification der Erscheinungen,
+eine vollendete Begriffsbildung, eine richtige Einreihung
+des Einzelnen unter die beobachteten Typen, eine
+völlige Uebersicht über die möglichen Ursachen voraus.
+Jede vollendete Beschreibung also sei ein Beitrag zur
+Feststellung <g>des generellen Wesens der be-
+treffenden Wissenschaft</g>.&201C;</p>
+<p>&201E;Des generellen Wesens der betreffenden Wissen-
+schaft!&201C; Was soll das heissen? Was ist &201E;das generelle
+Wesen einer Wissenschaft&201C;? Meint <g>Schmoller</g> viel-
+leicht die Erkenntniss des Generellen, (der Erscheinungs-
+formen!) auf irgend einem Gebiete der Forschung?
+Doch ich will ihm mit dergleichen Fragen nicht allzu
+lästig werden. Indess, was will überhaupt die obige Dar-
+legung mit ihrer seltsamen Terminologie?</p>
+<p>Wenn <g>Schmoller</g> in den obigen Ausführungen
+sagen wollte, dass historische Studien für den Theore-
+tiker, und umgekehrt die Kenntniss der Theorie der
+Volkswirthschaft für den Historiker von Wichtigkeit
+seien und deshalb jeder Fortschritt auf dem Gebiete
+der Geschichtsschreibung der Theorie, und umgekehrt
+<fnf><g>viduellen</g> und doch <g>descriptive</g> Wissenschaften. Ich
+habe nicht ohne triftigen Grund die alte Terminologie, welche
+die obigen Disciplinen zur &201E;historia naturalis&201C;, zu den
+&201E;historischen Wissenschaften&201C; in ganz anderem, als dem
+modernen Verstande des Wortes zählt, verlassen und die
+historischen Wissenschaften im heutigen Sinne als die &201E;Wissen-
+schaften vom Individuellen&201C; bezeichnet. <g>Schmoller</g> miss-
+versteht mich hier, wie an zahlreichen anderen Stellen, indem
+er mich zu berichtigen vermeint.</fnf>
+<pb="22"/>
+jeder Fortschritt der letzteren der Geschichtsschreibung
+zu Gute komme, so hat er Recht, vollkommen Recht,
+und es konnte nur die Frage entstehen, weshalb es
+<g>Schmoller</g>, eine so selbstverständliche Wahrheit in
+eine so unverständliche Sprache zu hüllen, beliebt?
+<g>Schmoller</g> wird doch nicht etwa seinen Lesern zu-
+muthen, den obigen Satz, und wäre er in eine noch
+seltsamere Sprache gekleidet, für eine neue, erst
+noch zu beweisende Wahrheit zu nehmen, oder ihnen
+glauben machen wollen, dass <g>mir</g> dergleichen unbe-
+kannt sei?</p>
+<p>Ich habe (in meinen &201E;Untersuchungen&201C;) darauf
+hingewiesen, dass die theoretische Forschung auf dem
+Gebiete der Volkswirthschaft in der Geschichte der
+letzteren eine höchst werthvolle empirische Grundlage
+finde, habe hervorgehoben <fn="*)">A. a. O. S. 123.</fn>, dass eine höher ent-
+wickelte Theorie der Wirthschaftserscheinungen ohne
+das Studium der Geschichte der Volkswirthschaft nicht
+denkbar sei, auch für die praktischen Wissenschaften
+von der Volkswirthschaft (die Volkswirthschaftspolitik
+und die Finanzwissenschaft) die Bedeutung des Ge-
+schichtsstudiums in nicht misszuverstehender Weise
+betont. <fn="**)">A. a. O. S. 187.</fn> Ich habe ausdrücklich die historischen
+Wissenschaften von der Volkswirthschaft als Hilfs-
+wissenschaften der politischen Oekonomie, und umge-
+kehrt diese letztere als eine Hilfswissenschaft der
+ersteren bezeichnet. <fn="***)">Ebend. S. 18.</fn></p>
+<p>Was will also <g>Schmoller</g> mit den obigen im
+Tone der Belehrung vorgetragenen Bemerkungen?</p>
+<p>Was will er damit in einer Kritik meines Buches?
+<pb="23"/>
+Doch wohl nur seinen Lesern die Meinung beibringen,
+dass mir die Trivialitäten, welche er in einer halb
+unverständlichen Sprache vorträgt, unbekannt seien?
+Er will mich über Dinge belehren, von denen ich um
+des Humors willen, welcher in gewissen Prätensionen
+der historischen Nationalökonomen liegt, nachgewiesen
+habe <fn="*)">Ebend. S. 187.</fn>, dass sie seit <g>Platon</g> und <g>Aristoteles</g> von
+den Schriftstellern über &201E;praktische Philosophie&201C; wieder-
+holt wurden und wiederholt werden!</p>
+<p>Indess selbst wenn die obigen Bemerkungen
+originell wären, wenn nicht die Patina von zwei Jahr-
+tausenden auf ihnen läge, was haben sie mit der Frage
+nach den <g>Grenzen</g> zwischen Geschichtsschreibung und
+Theorie auf dem Gebiete der Volkswirthschaft zu thun?
+Dass die Geschichte der Volkswirthschaft und nicht
+nur diese, sondern auch zahlreiche andere Disciplinen
+als Hilfswissenschaften der theoretischen National-
+ökonomie bezeichnet werden können und jeder Fort-
+schritt derselben demnach der theoretischen National-
+ökonomie zu Gute komme, ja dass alle Wissenschaften
+in einem gewissen Zusammenhange stehen, wer wird
+dies leugnen, wer hat dies je geleugnet? Nur ein
+ganz unkundiger Beurtheiler vermöchte indess daraus
+den Schluss zu ziehen, <g>dass zwischen den ein-
+zelnen Wissenschaften überhaupt keine
+festen Grenzen bestehen</g> und dass insbesondere
+die historischen Wissenschaften von der Volkswirth-
+schaft und die theoretische Nationalökonomie miteinan-
+der verwechselt werden dürfen. Und nur dagegen, gegen
+die Irrthümer, in welche unsere historischen National-
+ökonomen in dieser Rücksicht verfallen sind, habe ich
+mich gewendet. <fn="**)">Ebend. S. 11 ff.</fn></p>
+<pb="24"/>
+<p>Keine unüberbrückbare Kluft trennt die Geschichte
+von der Theorie der Volkswirthschaft, so wenig als
+die Anatomie von der Physiologie, die Mathematik von
+der Physik und der Chemie; zwischen der theoretischen
+Nationalökonomie und der Geschichte der Volkswirth-
+schaft, ja zwischen den Wissenschaften überhaupt besteht
+selbstverständlich keine so unüberbrückbare Kluft, wie
+etwa zwischen der transcendentalen Philosophie und
+einer dänischen Dogge; indess doch in jedem Falle <g>eine
+ganzbestimmte Grenze</g>, wie eine solche zwischen
+Wissenschaften eben zu bestehen vermag. Der Physio-
+log verfolgt andere wissenschaftliche Ziele als der
+Anatom, auch wenn er sich für seine Zwecke mit den
+Ergebnissen der Anatomie beschäftigt, der Physiker
+andere Ziele als der Mathematiker, auch wenn er sich
+der Ergebnisse der Mathematik für seine Zwecke be-
+dient, und das Ziel, welches sich der Bearbeiter der
+Theorie der Volkswirthschaft setzt, ist ein durchaus
+verschiedenes von jenem des Historikers auf dem
+Gebiete der Volkswirthschaft, auch wenn er für seinen
+Zweck historische Studien betreibt. &201E;Es sind <g>concrete</g>
+Thaten, Schicksale, Institutionen etc. bestimmter Völker
+und Staaten, es sind concrete Culturentwicklungen und
+Zustände, deren Erforschung die Aufgabe der Geschichte,
+beziehungsweise der (historischen!) Statistik bildet,
+während die theoretischen Socialwissenschaften uns die
+<g>Erscheinungsformen</g> der socialen Phänomene und
+die <g>Gesetze</g> ihrer Aufeinanderfolge, Co&00EB;xistenz u. s. f.
+darzulegen die Aufgabe haben.&201C; <fn="*)">&201E;Untersuchungen&201C; S. 12 ff.</fn></p>
+<p>Hier, in Rücksicht auf die Aufgaben und die
+Ziele der Forschung, bestehen jene strengen Grenzen
+zwischen den obigen Wissenschaften, welche nicht ver-
+<pb="25"/>
+wischt werden dürfen, ohne der Verwirrung und dem
+flachsten Dilettantismus Thür und Thor zu öffnen.
+Was ich der historischen Schule deutscher National-
+ökonomen zum Vorwurfe mache, ist nicht, dass sie die
+Geschichte der Volkswirthschaft <g>als Hilfswissen-
+schaft der politischen Oekonomie</g> betreibt,
+sondern, dass ein Theil ihrer Anhänger über histori-
+schen Studien die politische Oekonomie selbst aus dem
+Auge verloren hat.</p>
+<hr>
+<pb>
+<d1><b>Fünfter Brief.</b></d1>
+<p>Sie fragen mich, mein Freund, warum denn
+<g>Schmoller</g> eigentlich den selbstverständlichen Satz,
+dass die historischen Wissenschaften von der Volks-
+wirthschaft (die Geschichte und die Statistik der letztern)
+lediglich im Verhältnisse von Hilfswissenschaften zu
+der politischen Oekonomie stehen, nicht rückhaltlos
+zugebe, sein Bestreben vielmehr dahin gehe, die Grenzen
+zwischen den beiden obigen Wissensgebieten nach
+Möglichkeit zu verwirren? Die Erklärung hierfür, oder
+um mich der edlen Ausdrucksweise <g>Schmoller</g>&2019;s zu
+bedienen, die Erklärung für seine Abneigung &201E;gegen
+die <g>Scheuleder</g> wissenschaftlicher Arbeitstheilung&201C;
+liegt ziemlich nahe. Kein Vernünftiger leugnet die
+Wichtigkeit historischer Studien für die Forschung
+auf dem Gebiete der politischen Oekonomie. Niemand
+leugnet auch den Nutzen, welchen die Geschichte der
+Volkswirthschaft an sich für das Verständniss der
+volkswirthschaftlichen Erscheinungen hat. Indess dies
+vermag dem Herausgeber des Berliner Jahrbuches nicht
+zu genügen. Er will seine historisch-statistische Klein-
+malerei weiter betreiben, und doch die Prätension nicht
+<pb="27"/>
+aufgeben, für einen Bearbeiter der politischen Oekonomie
+und speciell der Theorie der Volkswirthschaft zu gelten,
+und deshalb sein Widerwille gegen die &201E;<g>Scheuleder</g>
+wissenschaftlicher Arbeitstheilung&201C;, in Wahrheit aber
+gegen jede sachgemässe Bestimmung der Grenzen
+zwischen Geschichte und Theorie der Volkswirthschaft,
+deshalb auch die von ihm zäh festgehaltene Meinung, dass
+die Geschichte der Volkswirthschaft der <g>descriptive
+Theil</g> der politischen Oekonomie sei<fn="*)">Jahrbuch a. a. O. S. 241.</fn>, während sie doch
+überhaupt kein Theil der politischen Oekonomie, sondern
+eine Hilfswissenschaft der letzteren ist. Um über diese
+allerdings schwer überbrückbare Kluft zu gelangen,
+stellt er die Theorie von der keineswegs unüber-
+brückbaren Kluft zwischen der Geschichtsschreibung
+und der Theorie auf dem Gebiete der Volkswirthschaft
+auf. &201E;Der Gegensatz zwischen den obigen Wissenschaften
+darf nicht als eine unüberbrückbare Kluft aufgefasst
+werden.&201C; Die Frage nach den Grenzen zwischen den
+historischen und theoretischen Wissenschaften ist damit
+erledigt! so recht im Geiste <g>Schmoller</g>&2019;s erledigt!</p>
+<p><i>Bienheureux les Ecrivains</i> &2014; möchte ich hier mit
+Balzac ausrufen &2014; <i>qui se contentent si facilement</i>.
+Damit <g>Schmoller</g> seine historisch-statistische Mikro-
+graphie ruhig fortsetzen könne, sollen historisch ge-
+wordene, allgemein anerkannte wissenschaftliche Classifi-
+cationen umgeworfen worden, damit er auch fürder-
+hin sich seinen Strassburger historischen Spaziergängen
+ungestört widmen könne und doch für einen Bearbeiter
+der politischen Oekonomie gelte, sollen alle wissen-
+schaftlichen Kategorien auf den Kopf gestellt werden!
+Wahrhaftig! das wäre der Mühe werth! Und darum
+noch einmal: Wer die Ergebnisse der Geschichtsforschung
+<pb="28"/>
+für die Zwecke der Forschung auf dem Gebiete der
+politischen Oekonomie verwerthet, ist allerdings ein
+politischer Oekonom, wer aber die Geschichte der Volks-
+wirthschaft selbst erforscht, ist in dieser seiner Function
+ein Geschichtsschreiber der Volkswirthschaft, ein wissen-
+schaftlicher Historiker, nebenbei gesagt, natürlich nur
+dann, wenn er mit den Quellen und der Technik der
+Geschichtsforschung genügend vertraut ist. So ist es,
+und so wird es hoffentlich bleiben, wenn auch darüber
+klar würde, dass <g>Schmoller</g> die Aufgabe der politi-
+schen Oekonomie aus dem Grunde verkannt habe.</p>
+<hr>
+<pb>
+<d1><b>Sechster Brief.</b></d1>
+<p>Hätte <g>Schmoller</g> die fundamentale Verschieden-
+heit der historischen Wissenschaften von der Volks-
+wirthschaft einerseits und der politischen Oekonomie
+andererseits, und insbesondere jene Verschiedenheit,
+welche zwischen den <g>historischen</g> Wissenschaften
+von der Volkswirthschaft und der <g>theoretischen</g>
+Volkswirthschaftslehre besteht, ohne Umschweife zuge-
+standen und nicht vielmehr eine offenliegende Wahrheit
+durch allerhand Ausflüchte zu verdunkeln versucht, so
+würde sich allerdings auch dann noch eine Differenz
+zwischen meinen Ansichten über das Verhältniss der
+Geschichte zu der politischen Oekonomie und den
+seinen herausgestellt haben.</p>
+<p>Dass die Geschichte und die Statistik der Volks-
+wirthschaft zur politischen Oekonomie überhaupt und
+zu dem theoretischen Theile der letzteren insbesondere
+lediglich im Verhältnisse von Hilfswissenschaften stehen,
+von diesen letztern streng zu unterscheidende Wissen-
+schaften seien, darüber vermag unter einigermassen sach-
+kundigen Beurtheilern allerdings kein vernünftiger
+Zweifel zu bestehen; ebensowenig aber auch darüber,
+<pb="30"/>
+dass die historischen Wissenschaften von der Volks-
+wirthschaft, nicht nur an und für sich, sondern auch in
+der obigen Rücksicht, das ist als <g>Hilfswissen-
+schaften</g> der politischen Oekonomie von Wichtigkeit
+seien. Es gibt keine Hilfswissenschaft, deren Nutzbar-
+machung für die Zwecke der Forschung auf dem Ge-
+biete jener Disciplin, zu welcher sie sich in dem hier
+in Rede stehenden Verhältnisse befindet, nicht von einer
+gewissen Bedeutung wäre. Dies liegt schon in der An-
+erkennung derselben als <g>Hilfswissenschaft</g> der
+betreffenden Disciplin. So wenig Jemand den Charakter
+der historischen Wissenschaften von der Volkswirth-
+schaft als Hilfswissenschaften der politischen Oekonomie
+zu leugnen vermag, so wenig wird er die Bedeutung
+derselben für die Forschung auf dem Gebiete dieser
+letztern in Abrede stellen können.</p>
+<p>Eine wesentlich andere Frage ist jedoch die-
+jenige nach dem relativen Masse der Berechtigung
+einzelner Richtungen der Forschung auf einem be-
+stimmten Gebiete der Erscheinungswelt. Kein Ver-
+nünftiger wird bezweifeln, dass in dieser Rücksicht
+die Möglichkeit der Unterschätzung, aber auch eine
+solche der Uebertreibung vorhanden sei.</p>
+<p>Nun weiss ich sehr wohl, dass unter allen Auf-
+gaben, welche die wissenschaftliche Discussion darbietet,
+keine schwieriger ist, als die richtigen Grenzen wissen-
+schaftlicher Bestrebungen festzustellen. Alle Wissen-
+schaft ist ihrer Idee nach unendlich; jede, wenn auch
+noch so einseitige Uebertreibung einer wissenschaftlichen
+Richtung hat ihren Nutzen und deshalb, von einem
+gewissen Standpunkte, ihre Berechtigung. Niemand
+fällt es demnach auch bei, zu behaupten, <g>dass
+selbst die einseitigste Hingabe der Ver-
+treter unserer Wissenschaft an historische</g>
+<pb="31"/>
+<g>Studien für die Forschung auf dem Gebiete
+der politischen Oekonomie jedes wie immer
+gearteten mittelbaren Nutzens entbehre</g>.
+All&2019; dies steht, wie gesagt, für keinen in der wissen-
+schaftlichen Forschung auch nur einigermassen Er-
+fahrenen in Frage.</p>
+<p>Was dagegen nicht minder feststeht, ist der
+Umstand, dass die Zahl der Bearbeiter einer Wissen-
+schaft in jedem Volke und in jedem Zeitalter eine
+begrenzte ist, und der Unendlichkeit wissenschaftlicher
+Aufgaben keine gleich unendliche Fähigkeit zur
+Lösung derselben gegenübersteht. Jede einseitige Ueber-
+treibung einzelner, wenn auch berechtigter Richtun-
+gen der Forschung ist demnach mit einer ebenso ein-
+seitigen Vernachlässigung anderer gleichbedeutend, und
+in diesem Sinne müsste die nahezu ausschliessliche
+Hingabe vieler deutscher Volkswirthe an historische
+Forschungen unter allen Umständen, d. i. selbst dann
+als eine verderbliche Einseitigkeit betrachtet werden,
+wenn die &201E;Geschichte der Volkswirthschaft&201C; in der
+That ein <g>Theil</g> der &201E;politischen Oekonomie&201C; wäre; die-
+selbe müsste auch unter der obigen Voraussetzung
+als eine Einseitigkeit, und zwar als eine verderbliche
+Einseitigkeit bezeichnet werden, weil sie mit einer
+ebenso einseitigen Vernachlässigung der theoretischen
+Forschung auf dem Gebiete unserer Wissenschaft noth-
+wendig parallel läuft, während doch eben die theore-
+tische Nationalökonomie, um ihres zurückgebliebenen
+Zustandes willen, dringend der Reform bedarf.</p>
+<p>Nun ist aber die Geschichte der Volkswirthschaft
+kein <g>Theil</g>, sondern eine <g>Hilfswissenschaft</g> der
+politischen Oekonomie &2014; eine nützliche, eine unent-
+behrliche Hilfswissenschaft, indess doch nur eine Hilfs-
+wissenschaft, und die nahezu ausschliessliche Hingabe
+<pb="32"/>
+der gelehrten deutschen Volkswirthe an die Bear-
+beitung derselben demnach eine so klar in die Augen
+fallende Einseitigkeit, dass es unbegreiflich ist, wie
+hier auch nur ein Gegensatz der Meinungen zu ent-
+stehen vermochte.</p>
+<p>Glauben Sie, dass nach dem hier Gesagten noch
+irgend ein vernünftiger Zweifel über meine Stellung
+zu der obigen Frage möglich sei? Für denjenigen, dem
+es um die Wahrheit zu thun ist, sicherlich nicht.</p>
+<p>Lassen wir, mein Freund, indem wir die Ein-
+seitigkeiten der historischen Schule deutscher Volks-
+wirthe bekämpfen, unsere Gegner deshalb immerhin
+über Verkennung ihrer Verdienste auf dem Gebiete
+der Geschichtsforschung, ja darüber klagen, dass
+uns die Bedeutung der letztern für unsere Wissen-
+schaft nicht klar sei; kein irgendwie besonnener und
+unbefangener Beurtheiler wird indess fürderhin darüber
+im Zweifel sein können, dass <g>Schmoller</g> durch der-
+gleichen Behauptungen nur den eigentlichen Gegenstand
+der Discussion zu umgehen sucht.</p>
+<p>Was ich bekämpfe, ist die obige Einseitigkeit
+der historischen Schule; wofür ich eintrete, <g>die
+Wiedereinsetzung aller berechtigten Rich-
+tungen menschlichen Erkenntnissstrebens
+auf dem Gebiete der Volkswirthschaft</g>.
+Nicht ich trage die &201E;<g>Scheuleder</g> wissenschaftlicher
+Arbeitstheilung&201C;.<fn="*)">Vgl. <g>meine</g> Untersuchungen S. XVIII. ff.</fn></p>
+<p>&201E;Wer unbefangen, insbesondere nicht als Ver-
+&q;treter einer einseitigen Richtung engagirt, <g>Menger</g>&2019;s
+&q;Darlegung auf sich wirken lässt, wird aus derselben
+&q;<g>die volle Würdigung der wechselseitigen</g>
+<pb="33"/>
+&q;<g>Bedingtheit aller Forschungsrichtungen
+&q;als Ausfluss der Veranlagung unseres
+&q;Geistes entnommen haben</g>.&201C;<fn="*)">E. <g>Sax</g>, Das Wesen und die Aufgaben der Nat.-Oek.
+Wien, 1884. S. 32.</fn></p>
+<p>Wer dagegen eben so unbefangenen Geistes
+<g>Schmoller</g>&2019;s literarischer Thätigkeit folgt, wird aus
+dem halben Dutzend Schriften, das er bisher über
+die Entwicklung der Strassburger Gewerbsverhältnisse
+veröffentlicht hat, sicherlich nichts weniger, als den
+Eindruck der Universalität, gewonnen haben.</p>
+<hr>
+<bs><g>Menger</g>, Die Irrthümer des Historismus. 3</bs>
+<pb>
+<d1><b>Siebenter Brief.</b></d1>
+<p>Nicht der wieder und immer wieder betonte
+mittelbare Nutzen historischer Studien für die Forschung
+und die Lehre auf dem Gebiete der politischen Oeko-
+nomie, sondern die Verwechslung von Theorie und Ge-
+schichtsschreibung, die einseitige Hingabe eines nicht
+geringen Theiles der deutschen Vertreter unserer Wissen-
+schaft an die Bearbeitung einer Hilfswissenschaft dieser
+letzteren, ist, was ich in meinen &201E;Untersuchungen&201C;
+bekämpft habe.</p>
+<p>Was ist der Grund dieser Einseitigkeit? Wieso,
+fragen Sie mich, ist der obige, für die Entwicklung der
+politischen Oekonomie überhaupt, und des theoretischen
+Theiles dieser letzteren insbesondere, so verderblich
+gewordene Irrthum entstanden?</p>
+<p>Ich will hier nicht ausschliesslich von <g>Schmoller</g>
+und den geistesverwandten Genossen dieses Autors
+sprechen. Ueber die speciellen Ursachen des Historismus
+dieser Schriftsteller habe ich mich bereits geäussert.
+Indess die hier angedeuteten Verhältnisse sind denn doch
+nur zufällige; eine so weit verbreitete Erscheinung, wie
+der Historismus auf dem Gebiete der deutschen National-
+<pb="35"/>
+ökonomie, kann nur das Ergebniss viel universellerer
+Ursachen sein. Die einseitige Ueberschätzung geschicht-
+licher Studien Seitens eines Theiles unserer deutschen
+Volkswirthe wurzelt denn auch in der That in einer
+Reihe von Irrthümern über das Wesen der politischen
+Oekonomie und über das Verhältniss historischer Studien
+zu dieser letzteren, in einer Reihe falscher Grund-
+auffassungen, welche unter unseren historischen Volks-
+wirthen vorherrschen und bei flüchtiger Betrachtung
+allerdings geeignet sind, dem einseitigen Historismus
+in unserer Wissenschaft den Schein der Berechtigung
+zu verleihen.</p>
+<p>Ich möchte hier vor allem der unter den deutschen
+Nationalökonomen weit verbreiteten Meinung gedenken,
+dass der Weg zu einer Reform der Politischen Oeko-
+nomie, zum mindesten <g>der nächste zu unter-
+nehmende Schritt zu einer solchen, die Er-
+forschung der Wirthschaftsgeschichte</g> sei.</p>
+<p>&201E;Es ist&201C;, schreibt <g>Schmoller</g><fn="*)">Jahrbuch, a. a. O. S. 241 ff.</fn>, &201E;keineswegs eine
+Vernachlässigung der Theorie, sondern der nothwendige
+Unterbau für sie, wenn in einer Wissenschaft zeitweise
+überwiegend descriptiv verfahren wird &2026; Dass durch
+solche Arbeiten zeitweise ein Theil der Kräfte ab-
+gehalten wird, an der Theorie fortzuarbeiten, liegt im
+Wesen wissenschaftlicher Arbeitstheilung.&201C;</p>
+<p>Dass die Geschichte und die Statistik wichtige
+Hilfswissenschaften der politischen Oekonomie und in
+diesem Sinne ein &201E;Unterbau&201C; der letzteren seien, habe
+ich, wie ich hoffe, in mehr als genügendem Masse bereits
+hervorgehoben. Aus der Bedeutung der Geschichte
+und Statistik als Hilfswissenschaften der politischen
+<bs>3*</bs>
+<pb="36"/>
+Oekonomie, und würde diese Bedeutung auch in noch
+so einseitiger Weise übertrieben, ergeben sich indess
+doch keineswegs die von <g>Schmoller</g> gezogenen Con-
+sequenzen. Sind die historischen Wissenschaften von
+der Volkswirthschaft wichtige, ja unentbehrliche Hilfs-
+wissenschaften für die theoretische Nationalökonomie,
+so kann daraus vernünftigerweise doch nur der
+Schluss gezogen werden, dass die Forschung auf dem
+Gebiete dieser letzteren die Ergebnisse der Geschichts-
+forschung und der Statistik zu sammeln und für ihre
+Zwecke zu benützen habe. Es würde daraus folgen,
+dass die Bearbeiter der politischen Oekonomie das von
+den Historikern und Statistikern erforschte historische
+und statistische Material auf das eifrigste und sorg-
+fältigste für <g>ihre</g> Zwecke &2014; für die Feststellung der
+&201E;Gesetze&201C; der volkswirthschaftlichen Erscheinungen
+u. s. f. &2014; zu sammeln und zu verwerthen haben.</p>
+<p>Nie wurde von den Historikern aller Völker der
+Culturgeschichte und der Cultur-Statistik überhaupt,
+und der Geschichte und Statistik der wirthschaftlichen
+Seite des Volkslebens insbesondere, eine grössere Auf-
+merksamkeit zugewandt, als in unseren Tagen; nie war
+noch der Umfang des von den Theoretikern auf dem
+Gebiete der Volkswirthschaft zu bewältigenden historisch-
+statistischen Materials ein grösserer, nie die Sachlage,
+selbst für jene Zweige der volkswirthschaftlichen Theorie,
+welche sich vorwiegend auf die Ergebnisse der Geschichte
+und der Statistik stützen, eine so günstige, als in
+der Gegenwart. Wahrlich, an historisch-statistischem
+Material für die theoretische Forschung auf dem Gebiete
+der Volkswirthschaft fehlt es in unseren Tagen den
+Socialphilosophen weniger, als je, und zwar selbst jenen,
+welche die obengedachten Zweige der volkswirthschaft-
+lichen Theorie cultiviren.</p>
+<pb="37"/>
+<p>Darum ist es den historischen Volkswirthen von
+der strengen Observanz <g>Schmoller</g>&2019;s indess keineswegs
+zu thun. Nicht die Nutzbarmachung der Ergebnisse
+historischer Forschung für die politische Oekonomie,
+sondern die historische Forschung selbst, insbesondere
+die historisch-statistische Kleinmalerei auf dem Gebiete
+der Volkswirthschaft ist, was die Geister der obigen
+Gruppe von Gelehrten gefangen hält, ohne dass sie doch
+auf den Anspruch verzichten wollen, für Bearbeiter
+der politischen Oekonomie zu gelten. Sie wollen von
+ihrer historischen Mikrographie nicht lassen &2014; da-
+gegen wäre nichts einzuwenden; &2014; sie wollen nichts-
+destoweniger für Bearbeiter der politischen Oekonomie,
+nicht für solche einer Hilfswissenschaft dieser letztern
+gelten &2014; selbst dazu könnte man schweigen; &2014; sie
+wollen aber überhaupt, oder doch für ungezählte
+Menschenalter die ausschliessliche, bezw. die nahezu
+ausschliessliche Herrschaft der Wirthschaftsgeschichte
+auf dem Gebiete der politischen Oekonomie, &2014; dagegen
+muss sich jeder Besonnene verwahren!</p>
+<p>Um den obigen vollständig unhaltbaren Stand-
+punkt mit dem Scheine einer gewissen Berechtigung
+zu umgeben, müssen die Geschichte und Statistik der
+Volkswirthschaft zum descriptiven &201E;<g>Theile</g>&201C; der
+politischen Oekonomie gestempelt werden, während sie
+in Wahrheit gar keine <g>Theile</g>, sondern nur Hilfs-
+wissenschaften der letztern sind; zu demselben Zwecke
+muss an der Idee festgehalten werden, dass, zum
+mindesten zunächst, nur, oder doch vorwiegend an
+diesem &201E;descriptiven Theile&201C; zu arbeiten sei.</p>
+<p>&201E;In der Zukunft &2014; meint <g>Schmoller</g> &2014; wird
+für die Nationalökonomie eine neue Epoche kommen,
+aber nur durch Verwerthung des ganzen historisch-
+descriptiven und statistischen Materiales, das jetzt ge-
+<pb="38"/>
+schaffen wird&201C;; inzwischen &201E;sei es keine Vernachlässigung
+der Theorie, sondern der nothwendige Unterbau für
+sie, wenn in unserer Wissenschaft überwiegend de-
+scriptiv verfahren werde.&201C;<fn="*)">Jahrbuch, a. a. O. S. 241 ff.</fn></p>
+<p>Mit Recht protestiren A. <g>Wagner</g> und H. <g>Dietzel</g>
+&201E;gegen diesen Wechsel mit etwas langer Verfallszeit&201C;<fn="**)">Vgl. <g>Hildebrand</g>&2019;s Jahrbücher, herausg. von
+J. <g>Conrad</g>, 1884, N. F., VIII. S. 109.</fn>
+und eben so richtig bemerkt hierzu E. <g>Sax</g><fn="***)">E. <g>Sax</g>, a. a. O., S. 3.</fn>, &201E;dass
+es ein durchaus schiefer Gedanke sei, unserer Zeit den
+Beruf zur Gewinnung einer befriedigenden Theorie der
+Volkswirthschaft auf so lange abzusprechen, bis erst
+eine unabsehbare Zahl von Forschungen auf dem Ge-
+biete der Wirthschaftsgeschichte vollbracht sein werde&201C;.
+Nur scheint es mir, dass <g>Sax</g> immer noch viel zu
+optimistisch sei, wenn er den hierzu erforderlichen
+Zeitraum nach <g>Menschenaltern</g> berechnen will.
+Sollte die Wirthschaftsgeschichte, ehe wieder an die
+Bearbeitung der theoretischen Nationalökonomie ge-
+schritten werden könne, im Geiste der historischen
+Mikrographie <g>Schmoller</g>&2019;s vollendet werden &2014; man
+denke nur an die Fleischpreise von Elberfeld! von
+Pforzheim! von Mühlheim! von Hildesheim! von Ger-
+mersheim! von Zwickau! u. s. f. &2014; so würden hierzu
+nur Aeonen ausreichen. Wie die Astronomen zur
+Berechnung ihrer gewaltigen Entfernungen den Be-
+griff von Lichtjahren in ihre Wissenschaft einführen
+mussten: so würden wir Volkswirthe zum Mindesten
+nach Lebensaltern der Sonnensysteme zu rechnen be-
+ginnen müssen, um auch nur einen annäherungsweisen
+Begriff von den Zeiträumen zu erhalten, die nöthig
+wären, um eine vollständige historisch-statistische
+<pb="39"/>
+Grundlage für die theoretische Forschung im Sinne
+<g>Schmoller</g>&2019;s zu gewinnen.</p>
+<p>Dabei wäre noch zu berücksichtigen, dass das zu
+erforschende historische Material in Folge des Um-
+standes, dass die Wirthschaftsgeschichte nicht still
+steht, sich unablässig erneuert, ja mit Rücksicht auf
+den Aufschwung der wirthschaftlichen Seite des Volks-
+lebens sich in gewissem Sinne in quadratischem Ver-
+hältnisse vermehrt, während die echte <g>Schmoller</g>&2019;sche
+Geschichtsschreibung derselben doch bestenfalls kaum
+in arithmetischer Progression zu folgen vermöchte, und
+solcherart der abenteuerliche Gedanke <g>Schmoller</g>&2019;s
+nur noch abenteuerlicher erscheint.</p>
+<p>Doch wenn wir von der besonderen Form
+<g>Schmoller</g>&2019;scher Geschichtsschreibung auf dem Ge-
+biete der Volkswirthschaft auch absehen, so bleibt noch
+immer so viel Naivetät in dem obigen Gedanken, dass
+es schwer wird, denselben ernst zu nehmen. Der
+Gedanke <g>Schmoller</g>&2019;s ist so unqualificirbar, als jener
+eines Historikers oder Statistikers, welcher seinen Fach-
+genossen den Rath ertheilen würde, für ungemessene Zeit-
+räume die historischen und statistischen Studien ruhen
+zu lassen und inzwischen ausschliesslich, oder doch vor-
+wiegend, auf dem Gebiete der Socialphilosophie zu
+dilettantiren &2014; u. zw. aus dem Grunde, weil die theoreti-
+schen Socialwissenschaften wichtige Hilfswissenschaf-
+ten der Geschichtsforschung, die Ergebnisse derselben
+jedoch noch mangelhafte seien! Nach <g>Schmoller</g>
+müsste eigentlich der gegenwärtige zurückgebliebene
+Zustand der Wissenschaften von der Volkswirthschaft
+für die Historiker und Statistiker eine Aufforderung
+sein, sich mit der Theorie, und für die Theoretiker sich
+mit Geschichte und Statistik zu befassen! Natürlich!
+Nur nicht auf dem eigenen Gebiete der Forschung
+<pb="40"/>
+arbeiten! Dies ist viel zu commun, nebenbei gesagt,
+auch viel zu mühselig und schwierig, während das
+Dilettantiren auf fremden Gebieten, eben so vornehm
+&2014; als leicht ist. Nichts in der Welt ist bequemer als
+dies &201E;ut aliquid fecisse videatur&201C; auf dem Gebiete einer
+Wissenschaft.</p>
+<p>Und selbst dagegen würde sich kaum Jemand
+wenden, würde <g>Schmoller</g> nur nicht mit der merk-
+würdigen Prätension auftreten, seine historische Mikro-
+graphie sei, ob nun überhaupt, oder doch zunächst, die
+hauptsächlich berechtigte Richtung der Forschung &2014;
+nicht etwa auf dem Gebiete der historischen Wissen-
+schaften von der Volkswirthschaft, &2014; selbst darüber
+liesse sich noch streiten &2014; sondern auf dem Gebiete der
+politischen Oekonomie!</p>
+<p><g>Schmoller</g> hat &2014; ich weiss nicht, aus welchem
+Grunde &2014; offenbar keine Ahnung davon, wie viel auf dem
+Gebiete der politischen Oekonomie, selbst auf der Grund-
+lage unserer heutigen Hilfsmittel, zu thun, und um wie
+viel wichtiger es für unsere Wissenschaft ist, dass das
+von den Historikern und Statistikern erforschte Material
+für die Zwecke der Theorie und der praktischen Wissen-
+schaften von der Volkswirthschaft verwerthet, als dass
+über irgend welche Specialissima der Volkswirthschaft,
+etwa über die Strassburger Fleischpreise oder gewisse
+Tuchmacherzünfte, (Seitens der Vertreter <g>unserer</g>
+Wissenschaft!) neues Material zu Tage gefördert werde.</p>
+<p>Glaubt übrigens <g>Schmoller</g> im Ernste, dass
+ein Theoretiker, welcher es mit seiner Aufgabe streng
+nimmt, sich um historische oder statistische Belehrung
+an die Ergebnisse <g>seiner</g> Forschung wenden werde?
+Ich will hier nicht davon sprechen, ob <g>Schmoller</g>&2019;s
+wissenschaftliches Temperament der unbefangenen Ge-
+schichtsforschung und objectiven Geschichtsdarstellung
+<pb="41"/>
+besonders förderlich sei. Ja ich möchte seine historischen
+Arbeiten sogar in ihrer Art als recht schätzenswerth
+bezeichnen. <g>Schmoller</g> wird sich indess wohl selbst
+nicht dem Glauben hingeben, dass dieselben jene Bürg-
+schaften der Verlässlichkeit gewähren, welche der
+Theoretiker von historischen und statistischen Arbeiten
+beansprucht, Bürgschaften, wie sie doch nur Historiker
+und Statistiker vom Fache zu bieten vermögen. <g>Schmol-
+ler</g>&2019;s historische und statistische Arbeiten sind jeden-
+falls sehr wackere Leistungen; indess unser Lob des
+Autors könnte ein viel uneingeschränkteres sein, wenn
+diese Arbeiten von einem Handelskammer-Secretär, dem
+Redacteur einer Gewerbe-Zeitung, oder aber dem histo-
+rischen Vereine irgend einer preussischen Provinzstadt
+herrühren würden. Historische und statistische Arbeiten
+von solcher Provenienz werden von den Theoretikern
+von vornherein mit jener Vorsicht benützt, welche den
+Bürgschaften ihrer Verlässlichkeit und der Sachkunde
+ihrer Urheber entspricht. Dass indess ein Professor
+der <g>politischen Oekonomie</g> auf Gebieten, deren
+Technik er nicht vollständig beherrscht, nahezu aus-
+schliesslich dergleichen schätzenswerthe Arbeiten zu
+Tage fördert, ist jedenfalls eine ungewöhnliche Er-
+scheinung; sie würde indess an das Lächerliche streifen,
+würde sich <g>Schmoller</g>, um der obigen Arbeiten willen,
+im Ernste für einen Geschichtsschreiber halten.</p>
+<p>Wahrlich, das Beispiel <g>Schmoller</g>&2019;s ist nicht
+so verlockend, dass irgend ein Vertreter der politischen
+Oekonomie hierdurch veranlasst werden könnte, das
+eigenste Gebiet wissenschaftlicher Forschung zu ver-
+lassen, um sich dem Dilettantenthum auf dem Gebiete
+der Geschichtsschreibung zu widmen!</p>
+<hr>
+<pb>
+<d1><b>Achter Brief.</b></d1>
+<p>Ich würde glauben, die Einwürfe der historischen
+Schule gegen meinen Standpunkt in der Frage nach
+dem Verhältnisse der politischen Oekonomie zu den
+historischen Wissenschaften von der Volkswirthschaft
+nicht zu erschöpfen, wenn ich nicht einer eigenthüm-
+lichen Form des Historismus in unserer Wissenschaft
+gedächte, welche in nicht geringerem Masse, als die in
+meinem vorigen Schreiben gekennzeichnete, zur Ueber-
+schätzung historischer Studien und zur einseitigen
+Hingabe der deutschen Volkswirthe an diese letzteren
+beigetragen hat: ich meine die unter den deutschen
+Volkswirthen weit verbreitete Ansicht, <g>dass die
+Geschichte die ausschliessliche empirische
+Grundlage, sowohl der theoretischen Volks-
+wirthschaftslehre, als auch der praktischen
+Wissenschaften von der Volkswirthschaft
+sei</g>. Die Irrthümlichkeit dieser Ansicht, sowohl rück-
+sichtlich der theoretischen Volkswirthschaftslehre, als
+auch der praktischen Wissenschaften von der Volks-
+wirthschaft, klar zu stellen, scheint mir aber um so
+wichtiger, als die in Rede stehende Lehrmeinung für
+die ganze Stellung der historischen Volkswirthe zu den
+Fragen der Methodik unserer Wissenschaft von ent-
+scheidender Bedeutung ist.</p>
+<pb="43"/>
+<p>Die Anhänger der obigen Meinung scheinen mir
+&2014; um zunächst von dem <g>Historismus in der
+theoretischen Nationalökonomie</g> zu sprechen
+&2014; vor Allem zu übersehen, dass neben der Geschichte
+auch die gemeine Lebenserfahrung (die Kenntniss der
+Motive, der Ziele, der den Erfolg bestimmenden Um-
+stände und der Erfolge individualwirthschaftlicher
+Thätigkeit) eine nothwendige Grundlage der theoreti-
+schen Volkswirthschaftslehre sei. Die complicirten Er-
+scheinungen der Volkswirthschaft sind vorwiegend
+das Ergebniss des Contactes individualwirthschaftlicher
+Bestrebungen <fn="*)">Untersuchungen, S. 232 ff.</fn>, das Verständniss dieser letzteren
+und ihrer Wechselbeziehungen ist somit die noth-
+wendige Voraussetzung jenes der ersteren. Die Ge-
+schichte der Volkswirthschaft bietet uns aber nicht die
+Kenntniss der individualwirthschaftlichen Vorgänge <fn="**)">Die theoretische Volkswirthschaftslehre hat nicht nur
+das generelle Wesen und den generellen Zusammenhang jener
+Erscheinungen der menschlichen Wirthschaft zu erforschen,
+welche, wie beispielsweise die Marktpreise, die Wechsel- und
+Effectencurse, die Geldwährung, die Banknoten, die Handels-
+krisen u. s. f. Erscheinungen der &201E;<g>Volkswirthschaft</g>&201C;,
+die Resultante des Contactes der durch den Güterverkehr zu
+einer höheren Einheit verbundenen Individualwirthschaften,
+beziehungsweise der auf die Pflege dieses Organismus von
+Individualwirthschaften gerichteten staatlichen Thätigkeit sind
+(S. 233 ff. meiner Untersuchungen), sondern auch <g>das Wesen
+der Singularerscheinungen der menschlichen
+Wirthschaft und ihren Zusammenhang mit den
+Erscheinungen der &201E;Volkswirthschaft&201C;</g> in dem
+obigen Verstande des Wortes. Die Volkswirthschaftslehre hat
+uns z. B. auch das Wesen &201E;der individuellen Bedürfnisse&201C;, das
+Wesen der &201E;Güter&201C;, ja selbst das Wesen solcher Wirthschafts-
+Phänomene darzulegen, welche, wie z. B. der &201E;Gebrauchswerth&201C;,
+durchaus subjectiver Natur, lediglich im <g>Individuum</g> real</fn>
+<pb="44"/>
+zumal ihrer psychologischen Motivirung, ja sie vermag
+uns, aus Gründen, deren ich an anderer Stelle in aus-
+führlicher Weise gedacht habe, eine solche gar nicht
+zu gewähren. <fn="*)">Ebend. S. 122.</fn> Nur wer das Wesen der Geschichts-
+schreibung völlig verkennt, vermag die Geschichte als
+die ausschliessliche empirische Grundlage der theoreti-
+schen Nationalökonomie zu bezeichnen.</p>
+<p>Noch viel weniger kann die Geschichte als die
+ausschliessliche empirische Grundlage der <g>prakti-
+schen Wissenschaften von der Volks-
+wirthschaft</g> bezeichnet werden; es ist vielmehr
+von selbst einleuchtend, dass eine auch noch so gründ-
+liche Kenntniss der Vergangenheit der Völker an und
+für sich uns nicht zu befähigen vermöchte, die Grund-
+sätze zum zweckmässigen Eingreifen in die Volks-
+wirthschaft, zum zweckmässigen Handeln auf dem Ge-
+biete dieser letztern festzustellen. Das wirthschaftliche
+Leben der Völker fördert unablässig neue Aufgaben
+der Volkswirthschaftspflege und der Finanzverwaltung
+zu Tage, deren Lösung doch nicht ausschliesslich auf
+Grundlage des Studiums der Vergangenheit, sondern
+lediglich auf der Grundlage einer weit über blos histo-
+risches und statistisches Wissen hinausreichenden Er-
+kenntniss der jeweiligen Exigenzen des Staatslebens,
+der wechselnden Auffassung von den Aufgaben staat-
+licher Thätigkeit, des Standes der technischen Wissen-
+<fnf>sind. Wie vermöchte sie die Erkenntniss des Wesens dieser
+Erscheinungen und ihres Zusammenhanges mit den Phänomenen
+der &201E;Volkswirthschaft&201C; ausschliesslich aus der Geschichte zu
+schöpfen? Die Meinung, die Geschichte sei die ausschliessliche
+empirische Grundlage der Socialwissenschaften, ist eine in die
+Augen fallende Einseitigkeit. (Vgl. S. 121 ff. meiner Unter-
+suchungen.)</fnf>
+<pb="45"/>
+schaften u. s. f. gelöst zu werden vermag. Der Histo-
+riker, &201E;der rückwärts gekehrte Prophet&201C;, kann nicht
+der allein Massgebende auf dem Gebiete der praktischen
+Wirthschafts-Wissenschaften sein. Der Historismus im
+obigen Sinne ist auch in Rücksicht auf die Volkswirth-
+schaftspolitik und die Finanzwissenschaft eine augen-
+fällige Einseitigkeit. Derselbe ist bei einer einiger-
+massen den Anforderungen des Lebens an die Wissen-
+schaft entsprechenden Auffassung der Theorie der Volks-
+wirthschaft und der praktischen Wirthschafts-Wissen-
+schaften überhaupt ganz unhaltbar und nur aus den
+Irrthümern unserer historischen Volkswirthe über das
+Wesen und die Aufgaben der politischen Oekonomie
+erklärlich.</p>
+<p>Wer in der <g>theoretischen Volkswirth-
+schaftslehre</g>, gleich den hier in Rede stehenden
+Volkswirthen, eine &201E;Wissenschaft von den Parallelismen
+der Wirthschaftsgeschichte&201C;, wer in den <g>praktischen</g>
+Wissenschaften von der Volkswirthschaft lediglich eine
+systematische Darstellung der von den hauptsächlichen
+Culturvölkern in der Vergangenheit angestrebten wirth-
+schaftlichen Ziele, der zur Erreichung derselben in der
+Vergangenheit ergriffenen Massregeln und der hier
+erzielten Erfolge erkennt: vermag in der obigen Rück-
+sicht allerdings in historischen Studien sein Genügen
+zu finden. Wer in den hier gekennzeichneten Bestre-
+bungen unserer historischen Volkswirthe dagegen nur
+besondere, wenn auch in hohem Grade schätzbare
+Zweige der Forschung auf dem Gebiete der politischen
+Oekonomie, wer in der theoretischen Volkswirthschafts-
+lehre: die Wissenschaft von den Erscheinungsformen
+und den Gesetzen der volkswirthschaftlichen Phäno-
+mene; in den praktischen Wissenschaften von der Volks-
+wirthschaft: die Wissenschaften von den Grundsätzen
+<pb="46"/>
+zur zweckmässigen Pflege der Volkswirthschaft, be-
+ziehungsweise zur zweckmässigen Regelung des Staats-
+haushaltes erkennt, wird die Geschichte und die Sta-
+tistik der Volkswirthschaft zwar als wichtige Hilfs-
+wissenschaften, niemals aber als die ausschliessliche
+empirische Grundlage der Forschung auf dem Gebiete
+der politischen Oekonomie zu bezeichnen vermögen.</p>
+<p>Indem unsere historischen, zumal unsere neu-
+historischen Volkswirthe sich nahezu ausschliesslich
+historischen Studien hingeben, verfallen sie demnach
+nicht nur in die Einseitigkeit, an Stelle jener Wissen-
+schaft, deren Bearbeitung ihnen zunächst obliegt, eine
+Hilfswissenschaft derselben zu setzen, d. i. anstatt
+die &201E;Gesetze der Volkswirthschaft&201C; und die &201E;Grund-
+sätze zum zweckmässigen Handeln auf dem Gebiete
+der Volkswirthschaft&201C; zu erforschen, empirisches Material
+zur Feststellung der obigen wissenschaftlichen Wahr-
+heiten festzustellen; ihre Einseitigkeit ist vielmehr
+eine ungleich grössere. Sie beschäftigen sich nur
+mit Einer von den zahlreichen Hilfswissenschaften
+der politischen Oekonomie und zwar noch überdies mit
+einer solchen, welche uns nur einen Theil des zur
+Feststellung der Wahrheiten dieser letzteren nöthigen
+empirischen Materials darzubieten vermag, während
+sie doch die politische Oekonomie selbst zu bearbeiten
+wähnen.</p>
+<p>Die obige Ansicht ist jener des Kärrners ver-
+gleichbar, welcher für den Architekten gelten wollte,
+weil er einige Karren Steine und Sand zum Bauwerke
+geführt hatte.</p>
+<hr>
+<pb>
+<d1><b>Neunter Brief.</b></d1>
+<p>Glauben Sie übrigens ja nicht, mein Freund, dass
+die Meinung, die Geschichte sei die ausschliessliche
+empirische Grundlage der politischen Oekonomie, der
+letzte Trumpf sei, welchen der Historismus in unserer
+Wissenschaft ausgespielt hat. Wie jede Einseitigkeit
+bis in ihre äusserste Consequenz verfolgt werden, sich
+gleichsam ausleben muss, um endlich als solche all-
+gemein erkannt zu werden, so ist auch der Historismus
+auf dem Gebiete der politischen Oekonomie bei der
+obigen Auffassung nicht stehen geblieben. Hat doch
+ein Theil unserer historischen Volkswirthe die Idee
+theoretischer und praktischer Wissenschaften von der
+Volkswirthschaft überhaupt preisgegeben, um in histo-
+rischen Darstellungen die einzig berechtigte Aufgabe
+der Forschung auf dem Gebiete der Volkswirthschaft
+zu erkennen. Indess selbst jene, welche an der Idee
+theoretischer und praktischer Wissenschaften auf dem
+obigen Gebiete von Erscheinungen mit grösserer oder
+geringerer Consequenz festhalten, haben es verstanden,
+den Historismus in der politischen Oekonomie noch
+einen Schritt über den vorhin gekennzeichneten Stand-
+punkt zu führen.</p>
+<pb="48"/>
+<p>Wer die Ergebnisse der historischen Forschung
+als die ausschliessliche empirische Grundlage der theo-
+retischen Nationalökonomie und der praktischen Wissen-
+schaften von der Volkswirthschaft auffasst, verkennt
+die Bedeutung aller übrigen empirischen, überdies aber
+jene der rationellen Grundlagen der theoretischen und
+praktischen Richtung des Erkenntnissstrebens auf dem
+Gebiete der Volkswirthschaft. Er wird in den &201E;Gesetzen
+der volkswirthschaftlichen Erscheinungen&201C; lediglich
+&201E;Entwickelungsgesetze&201C;, &201E;Parallelismen der Wirth-
+schaftsgeschichte&201C;; in der theoretischen National-
+ökonomie, nicht eine Wissenschaft von den &201E;Gesetzen
+der volkswirthschaftlichen Erscheinungen&201C;, sondern eine
+Wissenschaft dieser &201E;Parallelismen der Wirthschafts-
+geschichte&201C; erkennen; er wird durch die obige ein-
+seitige Auffassung dazu geführt werden, die praktischen
+Wissenschaften von der Volkswirthschaft, nicht als
+Darstellungen der Grundsätze zum zweckmässigen, der
+Besonderheit der Verhältnisse angemesssenen Handeln
+auf dem Gebiete der Volkswirthschaft, sondern ledig-
+lich als Darstellungen der Wirthschaftsgeschichte ent-
+lehnter Erfahrungen über die Ziele, die Massregeln und
+Erfolge der Wirthschaftspolitik und der Finanzver-
+waltung, zu betrachten u. dgl. m.</p>
+<p>So einseitig sein Standpunkt in Folge der obigen
+Auffassungen aber auch sein mag, er wird doch, weder
+die Existenz von &201E;Gesetzen&201C; der Erscheinungen, noch
+aber auch von &201E;Grundsätzen zum zweckmässigen Han-
+deln&201C; auf dem Gebiete der Volkswirthschaft überhaupt
+leugnen. Die Geschichte und die Statistik werden auch
+für ihn nur die empirische <g>Grundlage</g> sein, auf
+welcher die, wenn auch noch so einseitig aufgefassten
+Wahrheiten der theoretischen Nationalökonomie und der
+praktischen Wissenschaften von der Volkswirthschaft
+<pb="49"/>
+erst noch erforscht werden müssen. Die theoretischen
+und praktischen Erkenntnisse werden, auch noch nach
+dieser Auffassung, ein von dem historisch-statistischen
+Material, auf dessen Grundlage sie gewonnen werden
+sollen, Verschiedenes sein.</p>
+<p>Selbst diese Ansicht vom Wesen unserer Wissen-
+schaft scheint dem einseitigen Historismus einer Reihe
+deutscher Volkswirthe indess nicht genügt zu haben.
+Dieselben stellen vielmehr als Postulat der Forschung
+den Grundsatz auf, dass auch in der politischen Oeko-
+nomie, u. zw. sowohl in dem theoretischen als auch in den
+praktischen Theilen derselben, eigentlich &201E;die Geschichte
+für sich selbst zu sprechen habe,&201C; <g>an die Stelle
+von Gesetzen der volkswirthschaftlichen
+Erscheinungen und an die Stelle von Grund-
+sätzen zur zweckmässigen Förderung der
+Volkswirthschaft, beziehungsweise zur
+zweckmässigen Einrichtung des Staatshaus-
+haltes, ein nach gewissen Kategorien
+geordnetes historisch-statistisches Ma-
+terial</g> treten solle. Wenn <g>Schmoller</g> verlangt, dass
+die &201E;Nationalökonomie wesentlich descriptiv verfahren,
+und dem Studirenden ein concretes individuelles Bild,
+aber geordnet nach Begriffen, Typen und Relationen etc.,
+specialisirt bis zur Verfolgung in das Einzelne der Er-
+scheinungen und Ursachen&201C; bieten solle <fn="*)">Jahrbuch, a. a. O. S. 246.</fn>, so documentirt
+er sich hier lediglich als einen Vertreter dieser äusser-
+sten, mit der Idee der politischen Oekonomie noch ver-
+einbarlichen Form des Historismus, als Vertreter einer
+Ansicht, welche, an die Stelle der Theorie und der
+praktischen Wissenschaften von der Volkswirthschaft,
+&201E;wesentlich&201C; ein nach gewissen wissenschaftlichen Kate-
+<bs><g>Menger</g>, Die Irrthümer des Historismus. 4</bs>
+<pb="50"/>
+gorien geordnetes historisch-statistisches Material setzen
+möchte, &2014; ohne Zweifel so ziemlich der niedrigste Stand-
+punkt, auf den eine Socialwissenschaft gestellt zu
+werden vermag.</p>
+<p>Was war der Gang der Entwicklung in der
+historischen Schule der deutschen Nationalökonomie?</p>
+<p>Theorie! &2014; Theorie verbrämt mit historisch-stati-
+stischen Notizen und durchbrochen von historischen
+Excursen! &2014; Blosse Notizen und historische Excurse
+mit dem Anspruche, für eine Theorie zu gelten!</p>
+<p>Ein weiterer &201E;Fortschritt&201C; in dieser Richtung
+ist allerdings schwer möglich.</p>
+<hr>
+<pb>
+<d1><b>Zehnter Brief.</b></d1>
+<p>Auch meine Ausführungen über das <g>Verhält-
+niss der theoretischen Nationalökonomie
+zu den praktischen Wissenschaften von der
+Volkswirthschaft</g> haben <g>Schmoller</g>&2019;s Zustim-
+mung nicht zu finden vermocht. Ich hatte die theore-
+tische Nationalökonomie als die Wissenschaft gekenn-
+zeichnet, welche das generelle Wesen (die Erscheinungs-
+formen!) und den generellen Zusammenhang (die Regel-
+mässigkeiten in der Co&00EB;xistenz und der Aufeinander-
+folge &2014; die Gesetze!) der volkswirthschaftlichen Phäno-
+mene zu erforschen und darzustellen habe; die Volks-
+wirthschaftspolitik und die Finanzwissenschaft aber als
+die Wissenschaften von den Grundsätzen, den Maximen,
+nach welchen, je nach der Besonderheit der Verhält-
+nisse, die Volkswirthschaft am zweckmässigsten ge-
+fördert, beziehungsweise der Staatshaushalt am zweck-
+mässigsten eingerichtet werden könne. <fn="*)">Untersuchungen, S. 9 und 245 ff.</fn> Das Ver-
+hältniss zwischen der ersteren und den beiden letzt-
+<bs>4*</bs>
+<pb="52"/>
+genannten Wissenschaften bezeichnete ich der näheren
+Erklärung willen aber als ein solches, wie etwa jenes
+der Anatomie und Physiologie zur Chirurgie und Thera-
+pie. <fn="*)">A. a. O. S. 246.</fn> Die theoretische Volkswirthschaftslehre sei in
+ähnlicher Weise die theoretische Grundlage der prak-
+tischen Wissenschaften von der Volkswirthschaft, wie
+die Anatomie und die Physiologie die theoretische Grund-
+lage jener Wissenschaften, welche uns die Grundsätze
+und Vorgangsweisen zum zweckmässigen Eingreifen
+in den menschlichen Organismus lehren.</p>
+<p>Ich glaubte nach dem Gesagten mich für Alle,
+für welche wissenschaftliche Werke überhaupt ge-
+schrieben sind, verständlich genug ausgedrückt zu
+haben. Zum Ueberflusse fügte ich indess zu den obigen
+Ausführungen noch die Bemerkung hinzu, dass die
+praktischen Wissenschaften von der Volkswirthschaft
+selbst wieder praktischer Anwendung fähig seien, und die
+obigen Wissenschaften und die Praxis der Volkswirth-
+schaftspolitiker und der Finanzmänner desshalb nicht
+verwechselt werden dürfen, zwischen welchen vielmehr
+der nämliche Unterschied bestehe, wie etwa zwischen der
+Chirurgie und der Therapie, (welche ja auch praktische
+Wissenschaften seien!) und der Praxis wissenschaft-
+lich gebildeter Aerzte, oder wie zwischen der chemi-
+schen und der mechanischen Technologie und der Thätig-
+keit der praktischen Chemiker und Mechaniker. <fn="**)"><g>Ebend</g>., S. 245 ff.</fn></p>
+<p>Hören wir nun, was <g>Schmoller</g> gegen diese
+Ausführungen zu bemerken hat.</p>
+<p>Derselbe schreibt wörtlich: &201E;Gewiss wollen diese
+Disciplinen (die Volkswirthschaftspolitik und die Finanz-
+wissenschaft), so wie sie gewöhnlich vorgetragen werden
+<pb="53"/>
+und in älteren Lehrbüchern be- und misshandelt werden,
+zugleich praktische Anweisungen sein; die älteren theil-
+weise noch gebrauchten Bücher waren nichts als social-
+politische, verwaltungsrechtliche und finanzwissen-
+schaftliche Receptsammlungen. Aber es ist ein Fort-
+schritt der neueren Zeit, dass sie darüber hinaus ge-
+kommen ist; gerade <g>Roscher</g>&2019;s zweiter und dritter
+Band, <g>Stein</g>&2019;s und <g>Wagner</g>&2019;s Finanzwissenschaft
+repräsentiren die gelungensten Versuche diese Disci-
+plinen (die Volkswirthschaftspolitik und die Finanz-
+wissenschaft!) <g>zum Range von theoretischen
+Wissenschaften zu erheben</g>.&201C; <fn="*)"><g>Jahrbuch</g>, a. a. O. S. 245.</fn></p>
+<p><g>Schmoller</g> hält es somit für einen Mangel
+der Volkswirthschaftspolitik und der Finanzwissen-
+schaft, für eine <g>Misshandlung</g> dieser Wissenschaften,
+wenn sie, wie dies in älteren Lehrbüchern thatsächlich
+der Fall sei, &201E;<g>zugleich</g> praktische Anweisungen sein
+wollen&201C;? Was soll, mit Verlaub, eine praktische Wissen-
+schaft <fn="**)">Ich bezeichne die praktischen Wissenschaften an
+zahlreichen Stellen als <g>sogenannte</g> Kunstlehren und glaube
+mich demnach auch hier für Jedermann, der mich verstehen
+will, verständlich genug ausgedrückt zu haben.</fn> denn überhaupt anders, als eine praktische
+Anweisung im obigen Sinne &201E;sein wollen&201C;? Es gibt keine
+praktische Wissenschaft, welche an sich etwas anderes,
+als eine praktische Anweisung in dem obigen Verstande
+des Wortes ist, und die praktischen Wissenschaften
+von der Volkswirthschaft machen hiervon selbstver-
+ständlich keine Ausnahme. Sie sollen uns, nicht nur
+&201E;<g>zugleich</g>&201C;, sondern <g>überhaupt</g> die Grundsätze
+zum zweckmässigen der Verschiedenheit der Verhält-
+nisse entsprechenden Handeln auf dem Gebiete der
+<pb="54"/>
+Volkswirthschaft lehren. Worin soll also die Miss-
+handlung der praktischen Wirthschaftswissenschaften
+in den &201E;älteren Büchern&201C; bestehen? Nur in den Augen
+eines Gelehrten, in dessen Geiste eine vollständige
+Verwirrung über das Wesen der politischen Oekonomie
+und ihrer Theile herrscht, kann das Streben, die natür-
+lichen und nächsten Aufgaben der praktischen Wissen-
+schaften von der Volkswirthschaft zu lösen, als eine
+Misshandlung dieser Wissenschaften erscheinen.</p>
+<p>Freilich! <g>Schmoller</g> vermag, wie aus seinen
+Erörterungen hervorgeht, die praktischen Wissenschaf-
+ten im herrschenden Sinne des Wortes &201E;der Haupt-
+sache nach&201C; nur als <g>Receptsammlungen</g> zu denken;
+&201E;die älteren theilweise noch gebrauchten Bücher wären,
+meint <g>Schmoller</g>, sogar nichts anderes, als social-
+politische, verwaltungsrechtliche und finanzwissen-
+schaftliche Receptsammlungen gewesen&201C;.</p>
+<p>Eine Wissenschaft, welche uns die <g>Grundsätze</g>,
+die <g>Maximen</g>, zum zweckmässigen der Verschieden-
+heit der Verhältnisse entsprechenden Handeln lehrt,
+ist also eine praktische Anweisung im Sinne einer
+Receptsammlung? <g>Schmoller</g> kann eine Wissen-
+schaft von den <g>Grundsätzen</g> zur zweckmässigen
+der Verschiedenheit örtlicher und zeitlicher Verhält-
+nisse entsprechenden Pflege der Volkswirthschaft, oder
+von eben solchen <g>Grundsätzen</g> zur zweckmässigen
+Einrichtung des Staatshaushaltes, nur als eine volks-
+wirthschaftliche Receptsammlung denken? Die Chirurgie
+und die Therapie sind praktische Wissenschaften,
+folglich Receptsammlungen? Die Technologie ist eine
+Receptsammlung?</p>
+<p>Und die älteren theilweise noch gebrauchten
+Bücher über Volkswirthschaft und Finanzwissenschaft
+bis auf <g>Roscher, Wagner</g> und <g>Stein</g> waren nichts
+<pb="55"/>
+als socialpolitische, verwaltungsrechtliche und finanz-
+wissenschaftliche Receptsammlungen?</p>
+<p>Wie profund muss die Einsicht eines Autors in
+das Wesen der praktischen Wissenschaften von der
+Volkswirthschaft und seine Kenntniss der bezüglichen
+Literatur sein, damit eine solche Auffassung möglich
+werde!</p>
+<hr>
+<pb>
+<d1><b>Eilfter Brief.</b></d1>
+<p>Damit die Volkswirthschaftspolitik und die Finanz-
+wissenschaft fürderhin keine Receptsammlungen seien,
+verlangt <g>Schmoller</g>, &201E;dass man diese Disciplinen <g>zum
+Range von theoretischen Wissenschaften
+erhebe</g>&201C;, d. i. in seinem Sinne, zu theoretischen Wissen-
+schaften umgestalte; ja &201E;<g>Roscher</g>&2019;s 2. und 3. Band,
+<g>Stein</g>&2019;s und <g>Wagner</g>&2019;s Finanzwissenschaft seien be-
+reits gelungene Versuche, diese Disciplinen zum Range
+von theoretischen Wissenschaften zu erheben&201C;.</p>
+<p>Ich möchte vor allen meinen, dass sämmtliche
+Wissenschaften, ob sie nun theoretische oder praktische
+sind, den gleichen Rang aufweisen, die letzteren keinen
+geringeren, als die ersteren. Die Chirurgie und die The-
+rapie, die mechanische und die chemische Technologie,
+die Volkswirthschaftspolitik und die Finanzwissenschaft
+stellen an den Forscherfleiss und das Genie ihrer Be-
+arbeiter andere, indess sicherlich keine geringeren An-
+forderungen, als die theoretischen Wissenschaften; sie
+stehen nur in der Phantasie <g>Schmoller</g>&2019;s den ihnen
+entsprechenden theoretischen Wissenschaften &201E;im Range&201C;
+nach. Ein Tschin der Wissenschaften im Sinne <g>Schmol-</g>
+<pb="57"/>
+<g>ler</g>&2019;s existirt überhaupt nicht; die praktischen Wissen-
+schaften bedürfen der &201E;Erhebung&201C; zu Theorien nicht.</p>
+<p>Die Wissenschaften unterscheiden sich &2014; was
+<g>Schmoller</g> zu übersehen scheint &2014; nicht durch ihren
+&201E;<g>Rang</g>&201C;, sondern durch die <g>Aufgaben</g>, die sie zu
+lösen haben. Die theoretischen Wissenschaften haben
+das generelle Wesen (die Erscheinungsformen!) und die
+Regelmässigkeiten in der Co&00EB;xistenz und in der Auf-
+einanderfolge (die Gesetze!) der Erscheinungen, die
+praktischen Wissenschaften dagegen die Grundsätze zum
+zweckmässigen Handeln, zum zweckmässigen Eingreifen
+in die Erscheinungen, zu erforschen und darzustellen.
+Hierin, in der Verschiedenheit der Aufgaben liegt der
+Unterschied zwischen den theoretischen und praktischen
+Wissenschaften und die Erhebung der letzteren zu
+den ersteren ist ein Gedanke ungefähr von der näm-
+lichen Tiefe, als ob in der Baukunst die &201E;Erhebung&201C; des
+Fundamentes zur Façade, oder gar des Capitäls einer
+Säule zum Piedestal derselben angestrebt, und als eine
+epochemachende Umwälzung auf dem Gebiete der
+Architektur hingestellt werden würde. So sinnlos es
+wäre, die Chirurgie und die Therapie zur Anatomie und
+Physiologie, die chemische und die mechanische Techno-
+logie zur Chemie und Mechanik &201E;erheben&201C; zu wollen, so
+wenig kann vernünftigerweise von einer Erhebung der
+<g>praktischen Wissenschaften</g> von der Volks-
+wirthschaft zu einer <g>Theorie</g> der volkswirthschaft-
+lichen Erscheinungen die Rede sein.</p>
+<p>Jede Wissenschaft kann allerdings in einem ge-
+wissen Sinne erhoben, d. i. vervollkommnet werden,
+aber nicht etwa, wie <g>Schmoller</g> sich dies vorstellt, da-
+durch, dass wir derselben ihrer Natur widersprechende,
+anderen Wissenschaften obliegende Aufgaben zuweisen,
+sondern, indem wir die jeder Wissenschaft eigen-
+<pb="58"/>
+thümlichen Aufgaben in so vollkommener Weise, als
+dies der Zustand menschlicher Erkenntniss jeweilig
+zulässt, zu lösen unternehmen. Dies gilt selbstver-
+ständlich auch von den praktischen Wissenschaften.
+Auch diese sind unbegrenzter Vervollkommnung fähig,
+aber sicherlich nicht auf dem von <g>Schmoller</g> ge-
+planten Wege, indem wir dieselben zu <g>theoretischen</g>
+Wissenschaften umgestalten. Damit die praktischen
+Wissenschaften keine Receptsammlungen seien, muss
+man dieselben, wie ich dies ausführlich dargelegt habe <fn="*)">Untersuchungen, S. 257.</fn>,
+auf die theoretischen Wissenschaften begründen: die
+Chirurgie und die Therapie auf die Anatomie und die
+Physiologie, und zwar nicht nur auf diese, sondern,
+wie ich gezeigt habe, zugleich auf die Physik, die
+Mechanik, die Chemie u. s. f.; die mechanische und
+die chemische Technologie auf die Mechanik und
+die Chemie, indess nicht nur auf diese, sondern ebenso-
+wohl auf die Physik, die Mathematik u. s. f.; und end-
+lich die <g>praktischen Wissenschaften von der
+Volkswirthschaft</g> (die Volkswirthschaftspolitik
+und die Finanzwissenschaft!) in erster Reihe auf die
+theoretische Volkswirthschaftslehre, &2014; indess nicht
+nur auf diese, sondern auf alle jene theoretischen
+Wissenschaften, deren Kenntniss zur Feststellung der
+Grundsätze zum zweckmässigen Handeln auf dem Ge-
+biete der Volkswirthschaft erforderlich ist.</p>
+<p>So beschaffene praktische Wissenschaften haben
+ihren &201E;Rang&201C; im Kreise der Wissenschaften durch sich
+selbst &2014; sie bedürfen nicht einer anderen, als der
+eben dargestellten &201E;Erhebung&201C;, am wenigsten der
+<g>Schmoller</g>&2019;schen zu theoretischen Wissenschaften.</p>
+<p><g>Schmoller</g> gehört zu jenen Gelehrten, welche
+<pb="59"/>
+eine unüberwindliche Abneigung gegen die Behandlung
+aller aus der Natur der einzelnen Wissenschaften sich
+ergebenden Probleme haben. Keine Wissenschaft ist ihm
+in dieser Rücksicht gut genug. Er möchte die <g>Theorie</g>
+der Volkswirthschaft zu einer <g>historischen</g>, die
+<g>praktische</g> Volkswirthschaftslehre zu einer <g>theore-
+tischen</g> Wissenschaft erheben. Wäre er ein Historiker
+vom Fache, er würde die <g>Geschichte</g> zu einer &201E;Natur-
+wissenschaft&201C;, wäre er ein Therapeutiker, er würde seine
+Disciplin zu einer &201E;Physiologie&201C;, betriebe er die Botanik,
+er würde dieselbe ohne Zweifel zu einer &201E;Zoologie des
+Pflanzenreiches&201C; zu &201E;erheben&201C; suchen.</p>
+<p>Er ist das Prototyp der &201E;problematischen Natur&201C;
+auf dem Gebiete der Wissenschaft.</p>
+<hr>
+<pb>
+<d1><b>Zwölfter Brief.</b></d1>
+<p>Sie werden, mein Freund, nach dem Gesagten,
+sicherlich nicht wenig neugierig sein, zu erfahren, wie
+<g>Schmoller</g> sich eigentlich die Erhebung der <g>prak-
+tischen</g> Wissenschaften von der Volkswirthschaft
+zum Range von <g>theoretischen</g> denkt. Lassen wir
+ihn selbst uns hierüber belehren. Derselbe schreibt
+wörtlich Folgendes:</p>
+<p>&201E;<g>Die praktische Nationalökonomie
+&q;kann das Gewand der Kunstlehre voll-
+&q;ständig abstreifen</g>, wenn sie die specielle Ent-
+&q;wicklung der deutschen, eventuell dieser und der
+&q;französisch-englischen Volkswirthschaft der letzten
+&q;Jahrhunderte nach der Seite der Agrar-, Gewerbe-
+&q;und Handelspolitik, nach Ursachen und Folgen im
+&q;Einzelnen darlegt. Sie beschränkt sich dann darauf,
+&q;wesentlich descriptiv zu verfahren, ist aber so viel-
+&q;leicht ein ebenso gutes oder besseres Erziehungs-
+&q;oder Unterrichtsmittel für künftige Beamte, als wenn
+&q;sie blos Kunstlehre sein will, d. h. <g>wenn sie
+&q;freihändlerische oder staatssocialistische
+&q;Rathschläge ertheilt</g>.&201C; <fn="*)">Jahrbuch, S. 245 ff.</fn></p>
+<p>Beachten Sie, mein Freund, die köstliche Logik,
+<pb="61"/>
+welche in dem Schlusssatze dieser Ausführungen liegt.
+Doch davon nur im Vorübergehen. Untersuchen wir
+die Modalitäten, unter welchen <g>Schmoller</g>, ein mo-
+derner Apollo, der praktischen Nationalökonomie, sei-
+nem Marsyas, zwar nicht die Haut, wohl aber &201E;das
+Gewand der Kunstlehre&201C; &201E;vollständig abstreifen will&201C;.</p>
+<p>Dass die Darstellung der speciellen Entwickelung
+der deutschen, und nicht nur &201E;eventuell&201C;, sondern
+<g>jedenfalls</g> auch der &201E;englisch-französischen&201C;, über-
+dies aber doch wohl auch der italienischen, der spa-
+nischen, der portugiesischen, der holländischen, der
+amerikanischen Volkswirthschaft u. s. f., und zwar eine
+<g>alle</g> &201E;Seiten&201C; und Perioden derselben (nicht nur die
+von <g>Schmoller</g> erwähnten!) umfassende &201E;Darstellung
+derselben nach Ursachen und Folgen im Einzelnen&201C;,
+kurz und deutsch: &201E;<g>dass eine ihren Aufgaben
+entsprechende Wirthschafts-Geschichte
+der Culturvölker</g> für den Staatsmann und selbst-
+verständlich auch für den künftigen Beamten&201C;, ein
+zweckmässiges Bildungsmittel sei: darüber ist man
+doch wohl schon vor <g>Schmoller</g> im Klaren gewesen.
+Der Nutzen der Geschichte der Wirthschaftspolitik der
+einzelnen Staaten und ihres Finanzwesens, gleich wie
+der Nutzen der Finanzstatistik steht für den Bearbeiter
+der praktischen Wirtschaftswissenschaften so sehr
+ausser jedem Zweifel, so sehr ausser jeder Discussion,
+dass <g>Schmoller</g> uns mit dergleichen endlich ver-
+schonen sollte. Die Geschichte und die Statistik sind
+für den Forscher auf dem Gebiete der politischen Oe-
+konomie nützlich &2014; für den Theoretiker nützlich,
+für den Praktiker nützlich, für den Studirenden, für
+den künftigen Beamten, für jeden Menschen nützlich.
+Wie oft haben wir dies schon gehört?</p>
+<p><i>Factum est jam tritum sermone proverbium!</i></p>
+<pb="62"/>
+<p>In welcher Beziehung soll die obige Wahrheit
+indess zur Frage nach der &201E;Erhebung&201C; der praktischen
+Wissenschaften von der Volkswirthschaft zu einer
+Theorie der letztern stehen?</p>
+<p>Oder sollte <g>Schmoller</g> sich diese Erhebung
+etwa gar in der Weise denken, dass &2014;? Nein! Es ist
+unmöglich. Und doch, Sie verweisen, mein Freund, mich
+auf seine eigenen Worte. &2014; Sollte <g>Schmoller</g> etwa
+gar der Meinung sein, dass eine <g>praktische</g> Wissen-
+schaft zu einer <g>theoretischen</g> &201E;erhoben&201C; werden
+könne, indem man eine <g>historische</g> an ihre Stelle
+setzt, ihr die Aufgaben der Geschichtsforschung
+auf dem bezüglichen Wissensgebiete zuweist? Ein
+<g>Säugethier</g> soll zu einem <g>Reptil</g> erhoben werden,
+indem man einen <g>Vogel</g> an seine Stelle setzt?</p>
+<p>Nein! mein Freund, solcher Denkevolutionen
+halte ich selbst <g>Schmoller</g> nicht für fähig, in dem
+Momente nicht für fähig, wo er sich &201E;eben rüstet, nach
+längerer Unterbrechung seine Vorlesung über Methodo-
+logie der Staatswissenschaften wieder zu halten.&201C; <fn="*)">Jahrbuch, S. 239.</fn>
+Nochmals nein! solcher Widersinn ist unmöglich, zumal
+in einem für die Staatswissenschaften so feierlichen
+Momente! Lesen wir noch einmal, ehe wir unseren
+Augen trauen.</p>
+<p>&201E;Die praktische Nationalökonomie kann das Ge-
+&q;wand der Kunstlehre vollständig abstreifen, wenn
+&q;sie die <g>specielle</g> Entwicklung der deutschen, even-
+&q;tuell dieser und der französisch englischen Volks-
+&q;wirtschaft der letzten Jahrhunderte nach der Seite
+&q;der Agrar-, Gewerbe- und Handelspolitik nach Ur-
+&q;sachen und Folgen im <g>Einzelnen</g> darlegt. Sie
+&q;beschränkt sich dann darauf, <g>wesentlich de-</g>
+<pb="63"/>
+&q;<g>scriptiv</g> zu verfahren, ist aber so vielleicht ein eben
+&q;so gutes oder besseres Erziehungsmittel für künftige
+&q;Beamte, als wenn sie blos Kunstlehre sein will,
+&q;d. h. wenn sie freihändlerische oder staatssocialistische
+&q;Rathschläge ertheilt.&201C; &2014; &2014; &2014;</p>
+<p>Wenn auf dem Gebiete irgend einer andern
+<g>praktischen</g> Wissenschaft &2014; nehmen wir des Bei-
+spieles willen jenes der Chirurgie oder der Therapie &2014;
+ein Schriftsteller den Gedanken fassen würde, diese
+Disciplinen, nicht etwa auf die Physiologie und Anatomie
+(also auf die entsprechenden theoretischen Wissen-
+schaften!) zu begründen, sondern sie zu diesen letztern
+zu erheben, d. i. im Sinne <g>Schmoller</g>&2019;s zu <g>theore-
+tischen</g> Naturwissenschaften umzugestalten, so würden
+alle Fachgenossen desselben die sachkundigen Häupter
+bedenklich zu schütteln beginnen. Wenn der nämliche
+Autor aber die Chirurgie oder die Therapie gar in der
+Weise zur Physiologie oder Anatomie erheben wollte,
+dass er an ihre Stelle eine <g>historische</g> Wissenschaft,
+also etwa die Ethnographie oder die Anthropohistorie
+setzen wollte, so würde sich ihm sicherlich sofort die
+allgemeinste werkthätige Theilnahme seiner medicini-
+schen Collegen zuwenden. Und doch hätte derselbe, im
+Grunde genommen, nur nicht das richtige Terrain für
+die Publication seiner Entdeckungen erwählt; hätte
+er den nämlichen Gedanken auf dem Gebiete der poli-
+tischen Oekonomie ausgesprochen, so würde er den-
+selben nicht nur als Ergebniss seiner unermüdlichen
+historischen und philosophischen Studien bezeichnen
+können, sondern vielleicht sogar gläubige Seelen finden,
+welche dergleichen für epochemachende Wahrheiten
+hinzunehmen bereit sein würden.</p>
+<hr>
+<pb>
+<d1><b>Dreizehnter Brief.</b></d1>
+<p>Sie werfen mir ein, dass <g>Schmoller</g> über die Art
+und Weise, wie die praktischen Wirthschaftswissen-
+schaften das Gewand der Kunstlehre vollständig ab-
+streifen und zu theoretischen Wissenschaften erhoben
+werden sollen, nicht nur der im vorigen Briefe erwähnten,
+sondern auch noch einer anderer Meinung sei, und es
+demnach unbillig wäre, derselben an dieser Stelle nicht
+zu gedenken. Sie haben Recht, und ich will, um keine
+Neugierde auf die Folter zu spannen, diese zweite
+Ansicht <g>Schmoller</g>&2019;s hier sofort wiedergeben. Er
+schreibt knapp im Anschlusse an die in meinem vorigen
+Briefe citirte Stelle: &201E;Sie (die praktische Nationalöko-
+&q;nomie nämlich, welche das Gewand der Kunstlehre voll-
+&q;ständig abgestreift hat), gibt dann (!?) dem Studirenden
+&q;ein concretes individuelles Bild, aber <g>geordnet
+&q;nach den Begriffen, Typen, Relationen,
+&q;die aus der allgemeinen Theorie der Na-
+&q;tionalökonomie sich ergeben</g> und specialisirt
+&q;bis zur Verfolgung in das Einzelne der Erscheinungen
+&q;und Ursachen, welche in dem generellen und darum
+&q;abgeblassten Bilde der allgemeinen Nationalökonomie
+<pb="65"/>
+&q;entweder ganz fehlen oder zurücktreten. Und ganz
+&q;dasselbe gilt von der Finanzwissenschaft.&201C; <fn="*)">Jahrbuch, a. a. O. S. 241.</fn></p>
+<p><g>Schmoller</g> beliebe zu überlegen, dass er in
+diesem Satze seine Meinung plötzlich ändert. Um die
+<g>praktischen</g> Wissenschaften zu <g>theoretischen</g> zu
+erheben, will er von den erstern zwar, nach wie vor,
+sämmtliche <g>Grundsätze</g> zum zweckmässigen Ein-
+greifen in die Erscheinungen der Volkswirthschaft,
+also dasjenige, was dieselben eben zu praktischen Wis-
+senschaften macht, &201E;abstreifen&201C;; an diesem Gedanken
+hält er fest; er will indess, &2014; wenn ich <g>Schmoller</g>
+richtig verstanden habe &2014; an die Stelle der ihres
+&201E;Gewandes als Kunstlehren&201C; völlig entkleideten prak-
+tischen Wissenschaften, nicht mehr schlechthin die
+Wirthschaftsgeschichte, sondern geschichtlich-statisti-
+sche Darstellungen über die einzelnen Gebiete der
+Volkswirthschaft, <g>geordnet nach den Katego-
+rien</g> der <g>&201E;allgemeinen&201C; Nationalökonomie</g>
+setzen.</p>
+<p>Ich will den Grundsatz der Juristen: &201E;<i>Lex poste-
+rior derogat priori</i>&201C; auf die Ausführungen <g>Schmol-
+ler</g>&2019;s anwenden und annehmen, dass er, was auch
+sonst aus seinen Ausführungen hervorzugehen scheint,
+nicht seiner ersten, sondern seiner zweiten Meinung sei,
+und Sie fragen mich nun, was ich über die obige Art
+und Weise zu bemerken habe, in welcher <g>Schmoller</g>
+die praktischen Wissenschaften von der Volkswirth-
+schaft zu theoretischen zu &201E;erheben&201C; gedenkt?</p>
+<p>Mein den praktischen Wissenschaften von der
+Volkswirthschaft in so hohem Masse, ja bis zur voll-
+ständigen Negirung derselben als selbständige Wissen-
+schaften abgeneigter Gegner wird mir nun wohl selbst
+<bs><g>Menger</g>, Die Irrthümer des Historismus. 5</bs>
+<pb="66"/>
+nicht mehr zumuthen, dass ich mich mit der obigen
+Auffassung ernstlich befasse. Gewisse Gedanken sind
+widerlegt, sobald ihr Sinn klargestellt, sobald sie der
+Phraseologie, in welche ihr Autor sie hüllt, entkleidet
+sind. Wer die Erhebung der praktischen Wissenschaften
+von der Volkswirthschaft zu theoretischen Wissen-
+schaften damit beginnen will, dass er von denselben
+zunächst alle Grundsätze zum zweckmässigen Handeln
+auf dem Gebiete der Volkswirthschaft, also Alles, was
+die obigen Disciplinen eben zu dem macht, was sie
+sind, &201E;abstreift&201C;: mit dem ist so wenig zu rechten,
+als etwa mit einem Chirurgen, welcher einen Orga-
+nismus durch Amputirung sämmtlicher Organe rege-
+neriren wollte. &201E;Streifen wir den praktischen Wissen-
+schaften von der Volkswirthschaft alle Grundsätze
+zum zweckmässigen Handeln auf dem Gebiete der
+Volkswirthschaft&201C; ab, so bleibt dann ungefähr eben
+so viel übrig, als von einer Geschichte der Volkswirth-
+schaft, von welcher wir alle &201E;Darstellungen geschicht-
+licher Entwicklungen&201C;, als von einer theoretischen
+Nationalökonomie, von welcher wir alle &201E;Gesetze der
+volkswirthschaftlichen Erscheinungen&201C; abstreifen wür-
+den, &2014; d. i. das bekannte Messer ohne Klinge und Stiel.</p>
+<p>Doch nehmen wir an, <g>Schmoller</g> habe den
+obigen Satz im Bewusstsein der aus ihm sich ergeben-
+den Consequenzen niedergeschrieben, nehmen wir
+an, das Nirwana auf dem Gebiete der praktischen
+Wissenschaften schwebe ihm thatsächlich als Ideal,
+oder doch als erste Etape bei seinem Streben nach
+Erhebung der praktischen Wissenschaften von der
+Volkswirthschaft zu theoretischen vor: so entsteht
+dann sofort die Frage, wie er von dieser nega-
+tiven Grundlage ausgehend, seine Aufgabe lösen
+will?</p>
+<pb="67"/>
+<p>Es sollen &2014; meint <g>Schmoller</g> &2014; &201E;unter die
+Begriffe, Typen, Relationen, die aus der allgemeinen
+<g>Theorie</g> der Nationalökonomie sich ergeben&201C; (!!!), ge-
+wisse von ihm näher charakterisirte <g>historische</g>
+Darstellungen eingeordnet, resp. diese letzteren den
+bezüglichen Lehren der &201E;<g>allgemeinen</g>&201C; National-
+ökonomie hinzugefügt werden.</p>
+<p>Allerdings könnte irgend Jemand so unbescheiden
+sein, zu fragen, wie denn eine <g>theoretische</g> Wissen-
+schaft dadurch, dass man ihr <g>historische</g> Dar-
+stellungen irgend welcher Art hinzufügt, zu einer
+<g>praktischen</g> Wissenschaft werden könne?</p>
+<p><i>Quidquid non est simpliciter tale, illud non est cum
+addito tale</i>.</p>
+<p>In der Hinzufügung historischer Darstellungen
+zu einer theoretischen Wissenschaft könne &2014; so werfen
+Sie ein &2014; doch höchstens, wenn auch in noch so
+niederem Sinne, eine historische Behandlung dieser
+<g>theoretischen</g> Wissenschaft erkannt werden; es
+sei aber nicht abzusehen, wie auf diesem Wege <g>prak-
+tische</g> Wissenschaften entstehen sollen, welche das
+Gewand der Kunstlehre völlig abgestreift haben und die
+zu theoretischen Wissenschaften erhoben worden sind?</p>
+<p>Wie wenig Sie dem Gedankenfluge eines <g>Schmol-
+ler</g> zu folgen vermögen! Hören Sie doch nur, was
+er weiter schreibt:</p>
+<p>&201E;Sie (die zu einer theoretischen Wissenschaft
+&q;erhobene praktische Nationalökonomie!) gibt dann dem
+&q;Studirenden ein concretes individuelles Bild, aber
+&q;geordnet nach den Begriffen, Typen, Relationen, die
+&q;aus der allgemeinen Theorie der Nationalökonomie
+&q;sich ergeben, und specialisirt bis zur Verfolgung in
+&q;das Einzelne der Erscheinungen und Ursachen, welche
+&q;in dem generellen und darum abgeblassten Bilde der
+<bs>5*</bs>
+<pb="68"/>
+&q;allgemeinen Nationalökonomie entweder ganz fehlen
+&q;oder zurücktreten.&201C;</p>
+<p>Verstehen Sie noch immer nicht?</p>
+<p>Sie wenden ein, dass eine theoretische Wissen-
+schaft und somit auch eine solche von der Volkswirth-
+schaft uns weder ein concretes, noch ein abstractes
+<g>Bild</g>, sondern die <g>Gesetze</g> der Erscheinungen zu
+lehren habe, die Aufgabe, uns ein concretes Bild der
+Erscheinungen zu bieten, dagegen den historischen
+Wissenschaften zufalle. Wenn aber auch davon abge-
+sehen werden würde, wie vermöchte jenes abgeblasste
+Bild der Erscheinungen, welches <g>Schmoller</g> als
+<g>allgemeine</g> Nationalökonomie bezeichnet, dadurch
+dass wir demselben historische Darstellungen irgend
+welcher Art hinzufügen, zu einer &201E;<g>praktischen</g>
+Wissenschaft von der Volkswirthschaft&201C;, und zwar
+noch dazu zu einer solchen zu werden, welche zu einer
+theoretischen &201E;erhoben&201C; ist?!</p>
+<p>Sie kommen, mein Freund, schon wieder mit
+dieser unerquicklichen Frage. Ja, Sie zweifeln, dass
+es in Deutschland eine zweite Wissenschaft gebe, wo
+dergleichen im vollen Ernste vorgebracht werden
+könnte, vorgebracht von dem Herausgeber einer wissen-
+schaftlichen Fachzeitung. Es seien dies Ungeheuerlich-
+keiten, welche geradezu einen tiefen Verfall des ab-
+stracten Denkens auf dem Gebiete der politischen
+Oekonomie bekunden. Wohin, rufen Sie aus, sei es
+selbst mit den einfachsten, den fundamentalsten Be-
+griffen der Wissenschaftslehre in der neuhistorischen
+Schule deutscher Volkswirthe gekommen, wenn der-
+gleichen möglich sei? <fn="*)">Es sei hier noch bemerkt, dass aus einzelnen Stellen
+von <g>Schmoller</g>&2019;s Kritik (Vgl. S. 245) hervorgeht, dass er
+die zu theoretischen Wissenschaften erhobenen praktischen</fn></p>
+<pb="69"/>
+<p><i>&201E;Rarus.... ferme sensus communis in illa fortuna.&201C;</i></p>
+<p>So denken <g>Sie</g>.</p>
+<p>Nun hören wir aber, was <g>Schmoller</g> selbst
+hierüber denkt: &201E;Wer auf diesem Standpunkte steht
+&2014; ruft er triumphirend aus &2014; für den sind die
+methodologischen Unterschiede in der Behandlung
+der theoretischen und praktischen Nationalökonomie
+nur graduelle, keine fundamentalen, wie für Menger.
+Wer so denkt und lehrt, der kann es auch nicht für
+das schlimmste wissenschaftliche Verbrechen ansehen,
+die Methode der theoretischen und praktischen National-
+ökonomie vermischt zu haben. <fn="*)">&201E;Der Streit, ob wir es (in der politischen Oekonomie)
+&q;mit einer &201E;<g>Science</g>&201C; oder einer &201E;<g>Art</g>&201C; zu thun haben, ist
+&q;dahin geschlichtet, dass Beides vorliege: eine reine Theorie
+&q;als Grundwissenschaft und eine Kunstlehre als angewandte
+&q;Wissenschaft, wenngleich freilich die methodologischen
+&q;Consequenzen, welche diese Verschiedenartigkeit der beiden
+&q;Theile des Gesammt-Wissensgebietes nach sich zieht,
+&q;erst neuerdings in Erinnerung gebracht werden mussten.&201C;
+E. <g>Sax</g>: Das Wesen und die Aufgaben der Nationalökonomie.
+1884. S. 21 ff. Wenn <g>Sax</g> jedoch meint, dass über den</fn></p>
+<fnf>Wissenschaften von der Volkswirthschaft in dem Verhältnisse
+<g>speciellerer</g> Theile einer <g>allgemeinen</g> theoretischen
+Nationalökonomie denkt. <g>Schmoller</g> übersieht hierbei, dass
+<g>praktische</g> Wissenschaften nie in diesem Verhältnisse zu
+<g>theoretischen</g> stehen können, vielmehr sowohl die theoreti-
+schen, als auch die praktischen Wissenschaften allgemeine <g>und</g>
+specielle Theile haben. So wenig die chemische Technologie
+ein specieller oder &201E;detaillirterer&201C; Theil der Chemie, die
+Therapie ein specieller Theil der Physiologie ist, so wenig
+vermag man die praktischen Wissenschaften von der Volks-
+wirthschaft als specielle Theile einer allgemeinen National-
+ökonomie zu bezeichnen. In Wahrheit hat vielmehr die
+Volkswirthschaftspolitik ebensowohl einen allgemeinen <g>und</g>
+einen speciellen Theil, wie die theoretische Nationalökonomie.
+Das Gleiche gilt von der Finanzwissenschaft. (Vgl. <g>meine</g>
+&201E;Untersuchungen&201C; S. 247.)</fnf>
+<pb="70"/>
+<p>Scherz bei Seite, <g>Schmoller</g> hat Recht; denn
+wer auf diesem Standpunkte steht, so denkt und lehrt,
+dem ist in der That bereits <g>alles</g> Eins. Zwischen
+der Geschichte und Statistik der Volkswirthschaft
+einerseits, und der theoretischen Nationalökonomie
+andererseits, besteht dann keine unüberbrückbare Kluft
+mehr; die Volkswirthschaftspolitik und die Finanz-
+wissenschaft haben das Gewand der Kunstlehre voll-
+ständig abgestreift; dadurch dass man der <g>theore-
+tischen</g> Nationalökonomie <g>historische</g> Darstellun-
+gen hinzufügt, sind die <g>praktischen</g> Wissenschaften
+von der Volkswirthschaft zu <g>theoretischen</g> Wissen-
+schaften erhoben worden, und figuriren als speciellere
+Theile jenes allgemeineren und darum abgeblassten
+&201E;<g>Bildes</g>&201C;, als welches die theoretische Nationalöko-
+nomie sich uns fürderhin darstellt u. s. f., u. s. f.</p>
+<p>Wer hierin nicht eine eben so tiefe als philo-
+sophische Auffassung des Wesens der politischen
+Oekonomie, ihrer Theile und des Verhältnisses dieser
+letzteren zu einander und zu ihren Hilfswissenschaften
+erkennt, ist ein Unbescheidener, überdies ein philo-
+sophisch nicht genügend Gebildeter, der für seine
+scientifische Ausbildung nichts Besseres zu thun ver-
+mag, als sich zu den Füssen des Herausgebers des
+Berliner Jahrbuches zu setzen, um zu sehen und zu
+hören, wie dieser tiefsinnige Methodiker &2014; &201E;denkt
+und lehrt&201C;.</p>
+<fnf>obigen Punkt unter den Nationalökonomen kaum mehr eine
+Meinungsverschiedenheit bestehen könne, so dürfte die obige
+Stelle der <g>Schmoller</g>&2019;schen Ausführungen ein Beweis für
+das Gegentheil sein.</fnf>
+<hr>
+<pb>
+<d1><b>Vierzehnter Brief.</b></d1>
+<p>Sie sagen, dass ich über meines Gegners mangel-
+hafte Orientirung in den von ihm behandelten Fragen
+der Methodik und die Verwirrung seiner Begriffe
+geradezu Genugthuung zu empfinden scheine, während
+dieselben, in Verbindung mit dem äusseren Einflusse
+dieses Mannes auf dem Gebiete unserer Wissenschaft,
+doch zu den ernstesten Betrachtungen über den gegen-
+wärtigen Zustand der deutschen Nationalökonomie
+herausfordern.</p>
+<p>Ich weiss, mein Freund, dass es eine grosse
+Sünde ist, über das Lächerliche zu lachen; indess es
+ist so schwer gegenüber einem kahlen und hochmüthigen
+Gegner nicht in den Ton des Hohns zu verfallen. Und
+welcher andere Ton gebührt den Ausführungen eines
+Mannes, welcher ohne die geringste solide Orientirung
+in den Fragen wissenschaftlicher Methodik sich wie
+ein vollgiltiger Richter über den Werth oder Unwerth
+der Ergebnisse methodologischer Untersuchungen ge-
+bärdet? Gibt es auf dem Gebiete der Wissenschaft
+eine zu ernster Betrachtung weniger geeignete Er-
+scheinung, als die aufgeblähte Unwissenschaftlichkeit,
+welche über die Ergebnisse sorgfältiger wissenschaft-
+licher Forschung strenges Gericht hält?</p>
+<p>Discutiren Sie in ernstlicher Weise über die
+schwierigsten Fragen der Erkenntnisstheorie mit einem
+<pb="72"/>
+Manne, in dessen Geiste jedes Streben nach Reform der
+theoretischen Nationalökonomie, ja jede Pflege dieser
+letztern sich als Manchesterthum spiegelt. Discutiren
+Sie, ohne in einen heiteren Ton zu verfallen, über die
+obigen Fragen mit einem Gelehrten, dessen ganzes
+einigermassen originelles Wissen auf dem Gebiete
+der theoretischen Nationalökonomie in einem Urschleime
+historisch-statistischen Materiales besteht, mit einem
+Gelehrten, welcher die einfachsten Begriffe der Wissen-
+schaftslehre unablässig mit einander verwechselt! Und
+ein solcher Streit sollte mir Genugthuung verschaffen?
+Wären <g>Schmoller</g>&2019;s Einwendungen gegen die Er-
+gebnisse meiner methodologischen Untersuchungen mir
+nicht aus Gründen werthvoll, über welche ich mich
+in meinem ersten Briefe bereits ausgesprochen habe,
+wie gerne verzichtete ich auf die mir nichts weniger
+als erwünschte Discussion mit demselben und be-
+schränkte mich darauf, die auffälligsten Entstellungen
+meiner Ansichten in seinem Jahrbuche, in ähnlicher
+Weise richtig zu stellen, wie ich dies gegenüber einem
+geistesverwandten Genossen desselben an anderer
+Stelle gethan habe.</p>
+<p>Auch glauben Sie ja nicht, dass eine Discussion
+mit einem Gegner, wie <g>Schmoller</g>, müheloser, als
+mit einem in den behandelten Fragen noch so wohl
+orientirten Gelehrten sei. Wie leicht ist es einen solchen
+zu belehren, oder von ihm sich eines Besseren be-
+lehren zu lassen? Wie leicht ist es, &2014; im Verhältnisse
+&2014; in dem consequenten Gedankengefüge eines sach-
+kundigen Forschers einzelne Unrichtigkeiten, ja einzelne
+Inconsequenzen und Irrthümer zu entdecken, und durch
+Blosslegung und Berichtigung derselben zur Förderung
+der Wissenschaft beizutragen? Wie erfreulich überdies,
+auf diese Weise einem Autor für die Berichtigung
+<pb="73"/>
+unserer eigenen Ansichten und für die Belehrung, die
+wir aus seinen Schriften geschöpft haben, den Dank
+zu erstatten, den wir ihm schulden? Das schwierigste
+und unerquicklichste auf dem Gebiete der Wissen-
+schaft ist stets der kritische Contact mit einseitigen Ver-
+tretern praktischer Parteibestrebungen, mit Männern,
+welche ihre Einseitigkeit und die schlechten Gewohn-
+heiten des Parteikampfes auf die wissenschaftliche Dis-
+cussion übertragen; um wie viel unerfreulicher, wenn
+solche Gegner gar mit dem Anspruche überlegener
+Wissenschaftlichkeit auftreten!</p>
+<p>Wie in einer von sachkundiger Hand angelegten
+Fachbibliothek, und wäre dieselbe noch so reichhaltig,
+das Auge des Kenners leicht einzelne Lücken zu ent-
+decken vermag, in einer willkürlich zusammengewürfel-
+ten Bücherei dagegen vergeblich nach einem Ruhe-
+punkte sucht und sich schliesslich abwendet, weil
+dergleichen eigentlich die ernste Beurtheilung nicht
+herausfordert: so auch, wo es sich um die Beur-
+theilung des Wissens eines Schriftstellers handelt. Die
+Stärke des methodologischen Standpunktes <g>Schmol-
+ler</g>&2019;s liegt darin, dass derselbe unfassbar, unter
+jeder ernsten Kritik ist. Und da wollen Sie es mir
+verargen, wenn ich mich weder durch die historisch-
+philosophischen Studien, von denen er uns unab-
+lässig erzählt, noch auch durch seine Vorlesung über
+die Methodologie der Staatswissenschaften, zu welcher
+er sich eben &201E;rüstet&201C;, irre führen lasse und den
+Methodiker <g>Schmoller</g> nicht ernster nehme, als er
+es verdient?</p>
+<p>Was würden Sie z. B. dazu sagen, wenn ich die
+Gedanken <g>Schmoller</g>&2019;s über die eigentlichen metho-
+dologischen Probleme unserer Wissenschaft hier eines
+Nähern beleuchten wollte?</p>
+<pb="74"/>
+<p>Seine Gedanken über die inductive und die
+deductive Methode auf dem Gebiete unserer Wissenschaft?</p>
+<p>Die Ergebnisse seiner tiefsinnigen Untersuchungen
+über das Wesen und die Bürgschaften dieser Erkennt-
+nisswege überhaupt und in der politischen Oekonomie
+insbesondere?</p>
+<p>An Ihrem Entsetzen merke ich, wie wenig Sie
+selbst den Methodiker <g>Schmoller</g> ernst nehmen.
+Doch seien Sie unbesorgt, Sie haben dies Aeusserste
+nicht zu befürchten. Wer über die Ziele der Forschung
+auf dem Gebiete der Nationalökonomie so vollständig
+im Dunkeln tappt, wie der Herausgeber des Berliner
+Jahrbuches, dessen Gedanken über die Erkenntnisswege
+auf dem Gebiete unserer Wissenschaft sind gesichert
+gegen jeden Angriff.</p>
+<p>Nur einiger auf die von mir bereits behandelten
+erkenntnisstheoretischen Probleme Bezug nehmender
+Bemerkungen <g>Schmoller</g>&2019;s möchte ich hier noch
+gedenken, weil sie für die Art und Weise, in welcher
+von ihm Kritik geübt wird, und für seine Kampfesweise
+überaus charakteristisch sind.</p>
+<p>Ich hatte es als die Aufgabe der historischen
+Wissenschaften bezeichnet, das individuelle Wesen und
+den individuellen Zusammenhang der Menschheits-
+erscheinungen (ihre individuellen Beziehungen in Raum
+und Zeit!) zu erforschen und darzustellen.</p>
+<p>Hier ergab sich von selbst für mich die interessante
+und von den Bearbeitern der Methodik der historischen
+Wissenschaften auch bereits vielfach aufgeworfene
+Frage, in welcher Weise diese letzteren gegenüber der
+unübersehbaren Menge von Einzelerscheinungen des
+Menschenlebens ihre Aufgabe zu lösen vermögen?</p>
+<p>Die Mehrzahl der Autoren ist rücksichtlich der
+obigen Frage der Meinung, dass der Historiker die
+<pb="75"/>
+wichtigeren Menschheitserscheinungen mit Hintan-
+setzung der minder wichtigen darzustellen <fn="*)">Schon <g>Plinius</g> (cap. 5, 8, 9 und 10) schreibt, nicht
+ganz ohne Beziehung auf unsere Frage: <i>Habet quidem oratio
+et <g>historia</g> multa communia, sed plura diversa in his
+ipsis, quae communia videntur. Narrat sane ipsa, narrat
+haec, sed aliter. Huic pleraque humilia et sordida et ex
+medio petita, illi omnia recondita, splendida, excelsa
+conxeniunt. Hanc saepius ossa, musculi, nervi, illam tori
+quidem et quasi jubae decent</i>!</fn> und sich
+hierbei von seinem Tacte leiten zu lassen habe, da es
+an einem eigentlichen Principe für die Wahl der
+&201E;historischen&201C; Erscheinungen, im Gegensatze zu jenen,
+deren Darstellung nicht Sache des Geschichtsschreibers
+sei, fehle.</p>
+<p>Ich glaubte nun, für die obige interessante Frage
+in der Weise eine Lösung gefunden zu haben, dass der
+Historiker nicht lediglich einen Theil der Menschheits-
+erscheinungen zu erforschen habe, da dies ja dem Principe
+der Universalität der Wissenschaften widersprechen
+würde. Der Historiker habe vielmehr die Gesammt-
+heit der Menschheitserscheinungen darzustellen, jedoch
+all&2019; dies unter dem Gesichtspunkte collectiver Betrach-
+tung. Ich sagte: &201E;Dass die historischen Wissenschaften
+nur unter der Voraussetzung <g>collectiver</g> Betrach-
+tung der Menschheitsphänomene, und die historischen
+Wirthschaftswissenschaften insbesondere nur unter jener
+der collectiven Betrachtung der Wirtschaftsphänomene
+ihrer Aufgabe in universeller Weise zu entsprechen
+vermögen, ergibt sich mit Rücksicht auf die unüber-
+sehbare Menge von Singularerscheinungen des Menschen-
+lebens, beziehungsweise der menschlichen Wirthschaft
+und die Exigenzen der Technik wissenschaftlicher
+Darstellung von selbst. Die historischen Wissenschaften
+sind schon um ihrer universell-wissenschaftlichen Auf-
+<pb="76"/>
+gabe willen nothwendig <g>Darstellungen der
+menschlichen Wirthschaft unter dem Ge-
+sichtspunkte collectiver Betrachtung</g>&201C;. <fn="*)">&201E;Untersuchungen&201C;, S. 253 ff.</fn></p>
+<p>Und in einer Note zu den obigen Ausführungen
+sage ich:</p>
+<p>&201E;Hier ist zugleich auch die Grundlage für die
+Lösung des die Geschichtsforschung vielfach beschäf-
+tigenden Problemes zu suchen, welche Erscheinungen
+des Menschenlebens aus der unübersehbaren Menge
+derselben hervorzuheben und darzustellen, Aufgabe der
+historischen Wissenschaften sei? Diese letzteren haben
+in Wahrheit die Aufgabe, die Individualerscheinungen
+des Menschenlebens unter dem Gesichtspunkte collec-
+tiver Betrachtung darzustellen, die einzelne Erscheinung
+indessen nur insoweit, als sie für das <g>collective
+Bild des Menschenlebens</g> an sich von Bedeutung
+ist. Nur so vermögen dieselben ihrer specifischen Auf-
+gabe in universeller Weise zu genügen.&201C;</p>
+<p>Auch das was man die <g>künstlerische Auf-
+gabe der Geschichtsschreibung</g> nennt, findet in
+der obigen Auffassung vom Wesen der Geschichte und
+dem Verhältnisse derselben zu den Singularerschei-
+nungen des Menschenlebens seine ausreichende Erklä-
+rung. &201E;Die eigenthümliche Kunst des Geschichts-
+schreibers (auch jene des Statistikers!) &2014; sage ich &2014;
+besteht hauptsächlich in der Fähigkeit, uns die unüber-
+sehbare Menge von Phänomenen des Menschenlebens
+unter dem Gesichtspunkte collectiver Darstellung zum
+Bewusstsein zu bringen, uns ein collectives Bild der
+Entwicklung, beziehungsweise des Zustandes der Mensch-
+heitserscheinungen in ihrer Totalität zu bieten.&201C; <fn="**)">Ebend., S. 255. Vgl. hierzu auch S. 86 u. 122 ff.</fn></p>
+<pb="77"/>
+<p>Diese von mir aufgestellte Theorie scheint meinem
+Kritiker einigermassen gefallen zu haben; er ist so fern
+davon, sie zu bekämpfen, dass er dieselbe vielmehr
+rückhaltlos acceptirt. <fn="*)">Jahrbuch, a. a. O. S. 247.</fn> Indess in welcher für die
+Kampfesweise dieses Mannes kennzeichnenden Weise?</p>
+<p>&201E;Menger &2014; schreibt derselbe &2014; sieht nicht,
+dass alle wichtigeren volkswirthschaftlichen Erschei-
+nungen räumlich und zeitlich so umfassend sind, dass
+sie nur einer collectivistischen Betrachtung, wie sie
+die Geschichte und die Statistik anstellen, zugäng-
+lich sind. Das ist ihm verschlossen.&201C; <g>Dazu fehle
+mir das Organ</g>!</p>
+<p>Da haben Sie den <g>Schmoller</g>! den ganzen
+<g>Schmoller</g>!</p>
+<p>Dass ein Kritiker einen Autor von diesem selbst
+klar ausgesprochene Gedanken im Tone zürnender
+Ueberlegenheit entgegensetzt &2014; <g>Lessing</g> sagt irgend-
+wo: &201E;den Autor mit seinem eigenen Fette beträufelt&201C;
+&2014; ist eine Armseligkeit, welche bei einer gewissen
+Kategorie von Recensenten nicht ganz ungewöhnlich
+ist; dass aber ein Kritiker Jemand die Kenntniss
+seiner eigenen Theorie bestreitet, <g>ja ihm das Organ
+zum Verständniss derselben abspricht</g>, ist
+eine Erscheinung, welche selbst bei dem heutigen de-
+solaten Zustande eines Theiles der wissenschaftlichen
+Kritik auf dem Gebiete der politischen Oekonomie
+Deutschlands ihresgleichen sucht.</p>
+<hr>
+<pb>
+<d1><b>Fünfzehnter Brief.</b></d1>
+<p>Sie werfen mir ein, dass ein Vorgehen wie das
+in meinem vorigen Briefe geschilderte, nahezu unglaub-
+lich sei, da doch nicht angenommen werden könne,
+dass ein auf seinen wissenschaftlichen Ruf einigermassen
+bedachter Gelehrter, um gegenüber einem wissenschaft-
+lichen Gegner den Ton der Ueberlegenheit anschlagen
+zu können, also um eines geringfügigen und, mit Rück-
+sicht auf die Möglichkeit einer Berichtigung, doch nur
+vorübergehenden Eitelkeitskitzels willen, zu so aben-
+teuerlichen Mitteln greifen werde. Wie wenig Sie
+<g>Schmoller</g> kennen! Als ob derselbe seit mehr als
+einem Decennium nicht genau in der nämlichen Weise
+jeden wissenschaftlichen Gegner bekämpfte! Lesen Sie,
+mein Freund, die von mir citirten Stellen meines Werkes
+und die eben so genau citirten Stellen seiner Recension,
+verfolgen Sie seine sonstige kritische Thätigkeit, und
+Sie werden zu staunen aufhören.</p>
+<p>Und doch vermöchte man selbst über solche und ähn-
+liche Dinge hinwegzugehen, böten die Angriffe <g>Schmol-
+ler</g>&2019;s nicht eine noch viel bedenklichere Seite dar.</p>
+<pb="79"/>
+<p>Dass <g>Schmoller</g> dort, wo er meine wissen-
+schaftlichen Ansichten zum Gegenstande seiner Be-
+sprechung macht, mich oft genug das Gegentheil von
+dem sagen lässt, was ich wirklich sage, dass er mir
+Dinge, die ich selbst behaupte, in belehrendem Tone
+entgegenhält, dass er das an mir tadelt, was er an
+Anderen lobt, und was dergleichen Kunstmittel <g>Schmol-
+ler</g>&2019;scher Kritik mehr sind, lasse ich hier unerörtert.
+So auffällig auch die Missverständnisse und die Miss-
+deutungen meiner Ansichten sind, welchen ich in
+<g>Schmoller</g>&2019;s Kritik begegne, und so nahe auch die
+Frage liegt, welche Berechtigung in der wissenschaft-
+lichen Discussion so missverständliches und unüber-
+legtes Geschreibe bestenfalls habe? &2014; ich will daraus
+keinen Schluss auf die Wahrheitsliebe des Heraus-
+gebers des Berliner Jahrbuches ziehen. Befangenheit
+in vorgefassten Meinungen, Flüchtigkeit der Lectüre,
+mangelhafte Orientirung in den behandelten Materien,
+die schlechten Gewohnheiten, welche sich regelmässig
+im Gefolge handwerksmässig betriebener Kritik ein-
+zustellen pflegen, ein offenbar mehr für die niederen
+Formen des Parteikampfes, als für die wissenschaft-
+liche Discussion prädestinirtes und geschultes Naturell:
+alle diese Umstände zusammengenommen gestatten bei
+einem Manne, wie <g>Schmoller</g>, selbst die auffälligsten
+Missdeutungen fremder Meinungen als blosse Irrthümer
+zu entschuldigen.</p>
+<p>Anders dort, wo es sich um wahrheitswidrige
+Behauptungen handelt, bei welchen jedes Missver-
+ständniss durch die Natur der Sache von vorn herein
+ausgeschlossen ist, um wahrheitswidrige Behauptungen,
+welche lediglich den Zweck verfolgen, die richtige
+Würdigung eines Autors und der Ergebnisse seiner
+Forschungen bei den Fachgenossen zu verhindern.
+<pb="80"/>
+Wahrheitswidrige Behauptungen dieser Art sind Caba-
+len und kein Tadel zu hart, kein Hohn zu bitter, wenn
+es gilt, dieselben zu brandmarken.</p>
+<p><g>Schmoller</g> macht mir den Vorwurf, dass ich
+&201E;über W. <g>Roscher</g>&2019;s und B. <g>Hildebrand</g>&2019;s historische
+Arbeiten klage&201C;, <fn="*)">Ebendas. S. 242.</fn> er sucht bei seinen Lesern den
+Eindruck hervorzurufen, dass ich <g>Knies</g> mit einigen
+wenigen Worten &201E;abgethan&201C; habe <fn="**)">Ebendas. S. 250.</fn>, er bezeichnet
+mich als einen Anhänger des Manchesterthums <fn="***)">Ebendas. S. S. 241 u. 250.</fn>, im-
+putirt mir Sympathien für den Mysticismus des Savigny-
+schen Volksgeistes <fn="&2020;)">Ebendas. S. 250.</fn> u. dgl. m.</p>
+<p>Alle diese Behauptungen sind vollständig aus
+der Luft gegriffen, Unterstellungen, für welche in
+meinem Werke nicht der entfernteste Anhaltspunkt
+vorhanden ist.</p>
+<p>Ich soll über <g>Hildebrand</g>&2019;s und <g>Roscher</g>&2019;s
+historische Arbeiten geklagt haben? Die Wahrheit ist,
+dass ich über <g>Hildebrand</g>&2019;s historische Arbeiten
+nirgends ein Wort gesprochen, <g>Roscher</g>&2019;s &201E;hervor-
+ragende Verdienste um die Förderung des historischen
+Verständnisses einer Reihe wichtiger Erscheinungen
+der Volkswirtschaft&201C; aber auf der Seite 225 meiner
+&201E;Untersuchungen&201C; ausdrücklich anerkannt habe.</p>
+<p>Ich soll <g>Knies</g> in einigen von <g>Schmoller</g>
+angeführten Worten &201E;abgethan&201C; haben? Die Wahrheit
+ist, dass ich auf der Seite 228 meiner &201E;Untersuchungen&201C;
+<g>Knies als den hervorragendsten Methodiker
+der historischen Schule deutscher Volks-
+wirthe bezeichne</g>. Ich widme der Kritik seiner
+<pb="81"/>
+Lehren nicht die wenigen Worte, welche <g>Schmoller</g>
+anführt, sondern mehrere Druckseiten meiner Schrift,
+und gelange zu dem Ergebnisse, dass <g>Knies</g> den
+Ideenkreis der historischen Schule in Rücksicht auf
+die Methodik der politischen Oekonomie abschliesse;
+was nach ihm die Untersuchung über die methodischen
+Probleme der historischen Volkswirthschaftslehre zu
+Tage gefördert habe, bei diesem Autor sich zum min-
+desten bereits angedeutet finde. <fn="*)">&201E;Untersuchungen&201C;, S. 230.</fn></p>
+<p>Sie sehen mein Freund, welche Bewandtniss es
+mit der Behauptung <g>Schmoller</g>&2019;s hat, dass ich <g>Knies</g>
+mit den von ihm angeführten Worten &201E;abgethan&201C; habe.
+Sie ist ebenso wahrheitswidrig wie alle übrigen Unter-
+stellungen <g>Schmoller</g>&2019;s.</p>
+<p>Sollten auch dies nur einfache Irrthümer sein?</p>
+<p>Beachten Sie wohl, mein Freund, welche Ten-
+denz gerade aus diesen so höchst persönlichen Unter-
+stellungen hervorgeht!</p>
+<p>Doch ich hätte fast zu erwähnen vergessen, dass
+ich <g>Knies</g> nicht nur als den hervorragendsten Metho-
+diker der historischen Schule deutscher Volkswirthe
+und die Neuern in Rücksicht auf die Methodik dieser
+Schule nur als Epigonen desselben bezeichnete; ich
+habe unter diesen letzteren, und zwar wahrheitsgemäss
+an secundärer Stelle, auch <g>Schmoller</g> genannt; an
+secundärer Stelle <g>ihn</g>, den Herausgeber &201E;<g>seiner</g>&201C;
+Jahrbücher! Ich Tollkühner habe ihm nicht nur den
+gewohnten Lobestribut verweigert, sondern geradezu
+die Rücksichten verletzt, welche ich seiner privilegirten
+Stellung schuldig war und damit offenbar gewisse
+Empfindlichkeiten rege gemacht. &201E;Wenn&2019;s ihn juckt,
+so kratze er sich&201C;, hatte ich in richtiger Wür-
+<bs><g>Menger</g>, Die Irrthümer des Historismus. 6</bs>
+<pb="82"/>
+digung dieses nationalökonomischen Rhadamanthus
+gedacht. Doch <g>Schmoller</g> möchte nicht empfindlich
+erscheinen und <g>darum</g> kratzt er den <g>Roscher</g>, kratzt
+er den <g>Knies</g>, kratzt er selbst den todten <g>Hilde-
+brand</g>, &2014; weil <g>ihn</g> die verletzte Eitelkeit juckt.</p>
+<p>Erlassen Sie mir, mein Freund, mich gegen
+den Vorwurf <g>Schmoller</g>&2019;s zu vertheidigen, dass ich
+ein Anhänger der Manchesterpartei <fn="*)">Ein Anhänger der sogenannten Manchester Schule zu
+sein, ist freilich keine Unehre; es bedeutet nur das Fest-
+halten an einer Reihe wissenschaftlicher Ueberzeugungen, von
+welchen jene, dass das freie Spiel der individuellen Interessen
+dem wirthschaftlichen Gemeinwohl am förderlichsten sei, wohl
+als die wichtigste bezeichnet werden kann. Geistig hoch
+über <g>Schmoller</g> stehende, von der edelsten Wahrheitsliebe
+geleitete Socialphilosophen haben sich als Anhänger des obigen
+Grundsatzes und der aus ihm resultirenden Maximen für die
+Wirthschaftspolitik bekannt. Wie gesagt, als ein Anhänger
+der sogenannten Manchester-Schule bezeichnet zu werden, ist
+nichts, was <g>an sich</g> den geringsten Vorwurf in sich
+schliessen würde.
+Anders in dem Munde eines so einseitigen Parteigängers
+der sogenannten socialpolitischen Richtung, wie <g>Schmoller</g>.
+Das Manchesterthum in <g>seinem</g> Munde ist das Stigma,
+durch welches er jeden anders Denkenden brandmarken
+möchte, ein Schmähwort, das er seinen Gegnern zuschleudert &2014;
+wo immer es ihm an Argumenten gebricht.
+Mit Recht protestirt desshalb H. <g>Dietzel</g> (Hildebrand&2019;s
+Jahrbücher, 1884. N. F. VIII. S. 110) dagegen, dass das
+Stigma des Manchesterthums gegen Jene geschleudert werde,
+welche sich mit der exacten Analyse der volkswirthschaft-
+lichen Erscheinungen befassen.
+Das Manchesterthum hat meines Dafürhaltens mit der
+Frage nach der Berechtigung einer exacten Theorie der
+Volkswirthschaft ungefähr ebensoviel zu thun, als etwa eine
+Pulververschwörung mit der Frage nach der Berechtigung der
+theoretischen Chemie.</fn> oder ein solcher
+<pb="83"/>
+des &201E;Mysticismus des Savigny&2019;schen Volksgeistes&201C; sei.
+Beide Vorwürfe sind vollständig aus der Luft gegriffen.
+Wenn irgend etwas mit der in so vieler Rücksicht
+gehässigen Wirksamkeit <g>Schmoller</g>&2019;s auf dem Ge-
+biete unserer Wissenschaft versöhnt, so ist es der
+Umstand, dass er, und zwar mit nicht zu verkennender
+Hingebung, an der Seite verehrungswürdiger Männer
+gegen die socialen Uebelstände und für das Schicksal der
+Schwachen und Armen kämpft, ein Kampf, in welchem,
+so verschieden auch die Richtung meiner Forschungen
+ist, meine Sympathien doch ganz auf der Seite dieser
+Bestrebungen stehen. Ich möchte meine geringe Kraft
+der Erforschung jener Gesetze widmen, nach welchen
+das wirthschaftliche Leben der Menschen sich gestaltet;
+nichts liegt indess meiner Richtung ferner, als der
+Dienst im Interesse des Capitalismus. Keine Beschul-
+digung <g>Schmoller</g>&2019;s ist wahrheitswidriger, kein Vor-
+wurf frivoler, als dass ich ein Anhänger der Manchester-
+partei sei, es wäre denn, dass das Streben nach Fest-
+stellung der Gesetze der Volkswirthschaft, oder der
+Hinweis auf die Nothwendigkeit ernster Bedachtnahme
+auf die bisherigen Errungenschaften der Civilisation
+bei allen wirtschaftspolitischen Reformen schon an
+sich den obigen Vorwurf begründen könnte &2014; eine
+Idee, welche indess nur in einem ganz dissoluten
+Geiste zu entstehen vermöchte. <fn="*)">Ich bekämpfe wohl an mehreren Stellen meiner
+&201E;Untersuchungen&201C; die sogenannte &201E;<g>ethische</g>&201C; Richtung in der
+politischen Oekonomie, trenne sie indess strenge von der
+&201E;<g>socialpolitischen</g>&201C; Richtung der nationalökonomischen
+Forschung (S. 226, Not. 123).</fn></p>
+<p>Was ferner den Vorwurf betrifft, dass ich ein
+Anhänger des &201E;Mysticismus des Savigny&2019;schen Volks-
+<bs>6*</bs>
+<pb="84"/>
+geistes&201C; sei, so habe ich mich nicht nur nicht <g>für</g>,
+sondern ausdrücklich <g>gegen</g> diesen letzteren ausge-
+sprochen. Ich schreibe (S. 208 meiner Untersuchungen)
+wörtlich: &201E;Gegen diese Bestrebungen der <g>Smith</g>&2019;schen
+Schule (gegen den einseitigen Pragmatismus) eröffnete
+sich unserer Wissenschaft ein unermessliches Gebiet
+fruchtbarer Thätigkeit im Sinne der Richtung <g>Burke-
+Savigny</g>&2019;s &2014; <g>nicht einer solchen, welche
+das organisch Gewordene als unantastbar,
+gleichsam als die höhere Weisheit in mensch-
+lichen Dingen, gegen die reflectirte Ord-
+nung der socialen Verhältnisse schlechthin
+festzuhalten die Aufgabe gehabt hätte</g>. Das
+Ziel der hier in Rede stehenden Bestrebungen musste
+vielmehr das volle Verständniss der bestehenden socialen
+Einrichtungen überhaupt, und der auf organischem
+Wege entstandenen Institutionen insbesondere sein:
+<g>die Festhaltung des bewährten gegen die
+einseitig rationalistische Neuerungssucht
+auf dem Gebiete der Volkswirthschaft</g>. Es
+galt die Zersetzung der organisch gewordenen Volks-
+wirthschaft durch einen zum Theile oberflächlichen
+Pragmatismus zu verhindern, einen Pragmatismus, der
+gegen die Absicht seiner Vertreter unausweichlich zum
+Socialismus führt.&201C;</p>
+<p>Ich glaube, dass ich hier die Bestrebungen des
+&201E;Manchesterthums&201C; und des &201E;Mysticismus&201C; auf dem Ge-
+biete der Volkswirthschaft nicht vertheidige, sondern
+entsprechend meinem wissenschaftlichen Standpunkte
+in sachgemässer Weise bekämpfe, und doch schleudert
+mir <g>Schmoller</g> den Vorwurf des Mysticismus und
+des Manchesterthums entgegen &2014; dies beliebte social-
+politische Hepp! Hepp! das der Herausgeber des Berliner
+Jahrbuches jedesmal und an jeder noch so unpassen-
+<pb="85"/>
+den Stelle ertönen lässt, wenn ihm &2014; die Argumente
+ausgehen.</p>
+<p>Ich glaube mein Freund, dass wir nunmehr auch
+über die Unbefangenheit <g>Schmoller</g>&2019;s in Sachen wissen-
+schaftlicher Kritik im Klaren sind. Seine Neigung zu
+Missverständnissen ist wahrlich nicht die bedauerlichste
+Seite seiner kritischen Wirksamkeit auf dem Gebiete
+unserer Wissenschaft.</p>
+<hr>
+<pb>
+<d1><b>Sechzehnter Brief.</b></d1>
+<p>&201E;<g>Wir sind mit dem Buche fertig</g>!&201C; &2014; mit
+diesen triumphirenden Worten, aus welchen die edelste
+Genugthuung spricht, schliesst <g>Schmoller</g> die Kritik
+meines Werkes, eine Kritik, welche in Rücksicht auf
+Sachkenntniss und auf Objectivität des Urtheils, zum
+mindesten in der wissenschaftlichen Literatur, kaum
+ihres Gleichen haben dürfte.</p>
+<p>Die Zukunft, und zwar, wie ich hoffe, eine nicht
+allzu ferne Zukunft, wird darüber entscheiden, ob
+<g>Schmoller</g> mit meinen methodologischen Unter-
+suchungen, oder ich mit dem Methodiker <g>Schmoller</g>
+&201E;fertig&201C; geworden. Fast scheint die bisherige Ent-
+wickelung des durch meine Untersuchungen neu an-
+geregten methodologischen Streites darauf hinzudeuten,
+dass der Herausgeber des Berliner Jahrbuches die
+<i>toga picta</i> und die <i>tunica palmata</i> in etwas voreiliger
+Weise angelegt, ja der historischen Schule, als deren
+brüllender Löwe er auftrat, einen bösen Dienst er-
+wiesen habe.</p>
+<p>Wie dem aber auch immer sein mag, Eines scheint
+mir schon heute festzustehen. Mag der Methodiker
+<g>Schmoller</g> in Hinkunft noch so löwenhaft im Spree-
+<pb="87"/>
+sande einherschreiten, die Mähne schütteln, die Pranke
+heben, erkenntnisstheoretisch gähnen; nur Kinder und
+Thoren werden fürderhin seine methodologischen Ge-
+bärden noch ernst nehmen. Durch den weiten Riss
+in seiner gelehrten Maske wird aber mancher Wiss-
+begierige, leider vielleicht auch mancher Neugierige
+blicken und die wahre Gestalt dieses Erkenntniss-
+theoretikers mit Heiterkeit und Genugthuung betrachten.</p>
+<p>Mich aber wird für meine geringe Mühe das
+Bewusstsein entschädigen, auf dem Gebiete der deut-
+schen Nationalökonomie, in mehr als einer Rücksicht,
+ein gutes Werk gethan zu haben.</p>
+<hr>
+<pb>
+<back><c><b>Verbesserungen.</b></c>
+Seite 1, Zeile 1 von unten lies: N. F. VII. Jahrg., III. Heft, pag.
+239 etc.
+Seite 3, Zeile 13 von oben lies statt &201E;gelehrter&201C;: <g>scientifischer</g>.
+&201E; 3, &201E; 9 &201E; unten &201E; &201E; &201E;wirksamer&201C;: <g>wirksamerer</g>.
+&201E; 7, &201E; 5 &201E; oben ist das Citat: <g>Jahrbuch</g>, a. a. O.
+S. 243 und
+Seite 9, Zeile 1 von unten das Citat: <g>Briefe antiq. Inh.</g>, 56.
+<g>Brief</g> ausgefallen.
+Seite 19, Zeile 8 von oben lies: das <g>theoretische</g> Verständniss.
+&201E; 22, &201E; 3 &201E; &201E; &201E; statt &201E;konnte&201C;: <g>könnte</g>.
+&201E; 50, &201E; 5 &201E; &201E; ist nach &201E;Was war&201C;: <g>in der obigen
+Rücksicht</g> einzuschieben.
+Seite 52, Zeile 14 von oben ist &201E;zu&201C; zu streichen.
+&201E; 52, &201E; 15 &201E; &201E; lies statt &201E;hinzu&201C;: <g>zu</g>.
+<hr>
+Druck von Gottlieb Gistel &0026; Cie. Wien, Stadt, Augustinerstrasse 12.</back>
+<pb>
+<pb>
+<pb>

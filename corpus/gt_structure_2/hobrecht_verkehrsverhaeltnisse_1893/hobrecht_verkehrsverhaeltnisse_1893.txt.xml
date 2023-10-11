@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat_ohne_header.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DUMMYHEADER</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>DUMMYHEADER zur Validitätsprüfung</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="#f0001"/>
+      <pb facs="#f0002"/>
+      <pb facs="#f0003"/>
+      <pb facs="#f0004"/>
+      <pb facs="#f0005"/>
+      <pb facs="#f0006"/>
+      <pb n="[1]" facs="#f0007"/>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main"><hi rendition="#b">ENTWICKELUNG</hi><lb/>DER<lb/><hi rendition="#b">VERKEHRS-VERHÄLTNISSE<lb/>IN BERLIN</hi></titlePart>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/><lb/>
+          <titlePart type="sub">VORTRAG<lb/>GEHALTEN AM SCHINKELFEST<lb/>13. MÄRZ 1893</titlePart>
+        </docTitle>
+        <lb/>
+        <byline>VON<lb/><docAuthor><hi rendition="#b">JAMES HOBRECHT</hi></docAuthor></byline>
+        <lb/>
+        <milestone unit="section" rendition="#hr"/><lb/>
+        <docImprint>
+          <pubPlace>BERLIN</pubPlace>
+          <docDate>1893</docDate>
+          <lb/>
+          <publisher><hi rendition="#g">VERLAG VON WILHELM ERNST &amp; SOHN</hi><lb/>(VORMALS ERNST &amp; KORN)</publisher>
+        </docImprint>
+      </titlePage>
+      <lb/>
+      <pb n="[2]" facs="#f0008"/>
+      <div type="copyright">
+        <milestone unit="section" rendition="#hr"/><lb/>
+        <p rendition="#c"><hi rendition="#g">Alle Rechte vorbehalten</hi>.</p>
+        <milestone unit="section" rendition="#hr"/><lb/>
+      </div>
+    </front>
+    <body>
+      <lb/>
+      <pb n="[3]" facs="#f0009"/>
+      <div n="1">
+        <head>Meine Herren!</head>
+        <lb/>
+        <p><hi rendition="#in">A</hi>ufgefordert, den Vortrag des heutigen Abends zu halten,<lb/>muſste ich mich &#x2014; bei der Kürze der mir für Vorbereitung<lb/>zur Disposition stehenden Zeit &#x2014; zu einem mir nahe-<lb/>liegenden Thema entschlieſsen: <hi rendition="#g">Entwickelung der Ver-<lb/>kehrs-Verhältnisse in Berlin</hi> &#x2014; natürlich von einem<lb/>retrospectiven Standpunkt aus beleuchtet! An bereitliegendem<lb/>Material zur Erfüllung dieser Aufgabe fehlte es nicht; es ist<lb/>im Gegentheil für diesen Zweck in zu groſser Menge vor-<lb/>handen, aber die Vortragsbausteine zur Baustelle zu bringen,<lb/>sie zu ordnen und zusammenzufügen, konnte ohne thätigste<lb/>Mitwirkung von Freunden &#x2014; ich nenne die Herren Gottheiner<lb/>und Wattmann &#x2014; nicht gelingen; diesen dafür, &#x2014; d. h. für<lb/>mehr als ich selbst leisten konnte, &#x2014; zu danken ist der Zweck<lb/>dieser Anführung.</p>
+        <lb/>
+        <p>Die Uebersicht, welche ich über die Entwickelung der<lb/>Verkehrs-Verhältnisse Berlins zu geben gedenke, soll etwa<lb/>den Zeitraum von Einführung der Eisenbahnen bis heute um-<lb/>fassen. &#x2014;</p>
+        <lb/>
+        <p>Doch sei mir vorher ein kurzer Rückblick auf eine<lb/>frühere Zeit gestattet.</p>
+        <lb/>
+        <p>Ein Vergleich zwischen Wien und Berlin, von Herrn<lb/>Kriegsrath v. Cölln, einem Reisenden im Anfang dieses Jahr-<lb/>hunderts, erstattet, möge, wenn auch in etwas abgeschwächter<lb/>Form, hierzu dienen.</p>
+        <lb/>
+        <p>Es heiſst dort: &#x201E;Wien liegt in einem fruchtbaren Garten,<lb/>von hohen Bergen umschlossen, unter denen der Schneeberg<lb/>in Steiermark sein stets beschneites Haupt majestätisch empor-<lb/>hebt.</p>
+        <lb/>
+        <fw type="sig" place="bottom">1*</fw>
+        <lb/>
+        <pb n="4" facs="#f0010"/>
+        <p>&#x201E;Berlin liegt dagegen in den Sandwüsten Arabiens; man<lb/>mag nun hineinkommen, von welcher Seite man will, aus<lb/>Ost oder West, aus Süd oder Nord, so wird man von den<lb/>keuchenden Postpferden in einem Sandmeer fortgeschleppt;<lb/>im Sommer brennt die Sonne auf diesem Sande doppelt stark<lb/>und einige von Raupen abgefressene Kiefernstämme geben<lb/>den einzigen dürftigen Schatten, der zu finden ist. Von<lb/>Bergen findet das Auge weit und breit keine Spur, und wo<lb/>man etwa Wasser findet, da ist es ein Sumpf, um den eine<lb/>Schaar von Kiebitzen ihren angenehmen Gesang erhebt. Was<lb/>man auf den Feldern erblickt, sind einzelne Kornhalme, deren<lb/>Samen hier die Vögel verloren zu haben scheinen.</p>
+        <lb/>
+        <p>&#x201E;Man freut sich, wenn man endlich die Thurmspitzen<lb/>von Berlin erblickt; jetzt kommt aber nahe an der Barrière<lb/>dem Reisenden ein pestilenzialischer Geruch entgegen, denn<lb/>die Berliner laden allen ihren Unrath nahe vor den Tho-<lb/>ren ab.</p>
+        <lb/>
+        <p>&#x201E;Hat man im Thore die unleidliche Revision der Accise-<lb/>beamten überstanden und dem wachthabenden Officier seine<lb/>hundert Fragen beantwortet, damit er die öffentliche Neu-<lb/>gierde befriedige, so sieht man sich in die Mitte ärmlicher<lb/>Hütten, Wiesen und Felder versetzt (es wäre denn, man<lb/>passirte in die Thore der Friedrichsstadt ein); oft sieht man<lb/>aber nichts, denn der kleinste Zephir erregt einen so uner-<lb/>träglichen Staub, daſs man die Augen fest zudrücken muſs.</p>
+        <lb/>
+        <p>&#x201E;Wien hat keinen Palast oder ein öffentliches Gebäude<lb/>aufzuweisen, welches man mit dem Schlosse oder mit dem<lb/>Opern- und Zeughause, mit dem Heinrichschen Palais u. a.<lb/>in Berlin zusammenstellen könnte. Mit einem Wort: Wien<lb/>ist in Rücksicht der Bauart, der Regularität und Breite der<lb/>Straſsen mit Berlin garnicht zu vergleichen und wird dadurch<lb/>weit übertroffen.</p>
+        <lb/>
+        <p>&#x201E;Dennoch hat Wien einen Vorzug auch in dieser Hin-<lb/>sicht, den man in Berlin völlig vermiſst.</p>
+        <lb/>
+        <p>&#x201E;Das Pflaster ist in Wien aus Quadersteinen aufgeführt,<lb/>und man findet hier keine stinkende und unreine Rinnsteine<lb/>wie in Berlin, da diese dort sämtlich verdeckt sind.&#x201C;</p>
+        <lb/>
+        <pb n="5" facs="#f0011"/>
+        <p>Sehen wir nun zu, wie sich die Verhältnisse umgestaltet<lb/>haben, und ob diese damals wohl berechtigten Klagen es<lb/>auch noch heute sind.</p>
+        <lb/>
+        <p>Nicht eine Entschuldigung, wohl aber eine Erklärung<lb/>für Versäumtes und spät erst Geschehenes ist in der raschen<lb/>Bevölkerungszunahme Berlins und seinem dadurch bedingten<lb/>räumlichen Wachsthum zu erblicken.</p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>Mit einigem Schreck lese ich heute in dem Werk<lb/>&#x201E;Ueber die Reinigung und Entwässerung der Stadt Berlin&#x201C;<lb/>von Geh. Ob.-Baurath Wiebe, 1861, an dessen Abfassung ich<lb/>persönlich betheiligt war, und in welchem für ein Canali-<lb/>sations-Project die Einwohnerzahl auf 750 000 angenommen<lb/>wurde, die Worte:</p>
+        <lb/>
+        <p>&#x201E;<hi rendition="#g">Diese</hi> Zunahme der Bevölkerung, um beinahe 59 v. H.,<lb/>dürfte so reichlich bemessen sein, daſs eine baldige Ueber-<lb/>schreitung derselben nicht leicht anzunehmen ist.&#x201C;!!</p>
+        <lb/>
+        <p>Die <hi rendition="#g">Ausdehnung der Stadt</hi>, wie sie mit der Zeit<lb/>stattgefunden, erläutert dieser Stadtplan. &#x2014;</p>
+        <lb/>
+        <p>
+          <hi rendition="#c">(Demonstration.)</hi>
+        </p>
+        <lb/>
+        <p>Unter denjenigen Arbeiten, welche zum Zwecke der<lb/>Verkehrs-Erleichterung obenan stehen, sind die Straſsen-<lb/>Durchbrüche und Straſsen-Verbreiterungen zu nennen. Die<lb/>erste Grundlage für ein planmäſsiges Vorgehen nach dieser<lb/><pb n="6" facs="#f0012"/>
+Richtung ist der in den 50er Jahren auf Veranlassung des<lb/>Herrn Ministers v. d. Heydt aufgestellte Bebauungsplan. Als<lb/>polizeiliche Verordnung hat er im wesentlichen eine negative<lb/>Bedeutung; er <hi rendition="#g">verbietet</hi>, &#x2014; verbietet eine Bebauung auf<lb/>demjenigen Gebiet, welches zu Straſsen-Anlagen und Straſsen-<lb/>Verbreiterungen gebraucht wird. Aenderungen an ihm werden,<lb/>dem veränderten Bedürfniſs entsprechend, jederzeit mit Aller-<lb/>höchster Genehmigung vorgenommen. Für die Initiative zu<lb/>diesem Werk gebührt der Staatsverwaltung uneingeschränkte<lb/>Anerkennung. &#x2014;</p>
+        <lb/>
+        <p>An <hi rendition="#g">Straſsendurchlegungen</hi> und Verbreiterungen sind<lb/>in den Jahren 1851&#x2014;60 ausgeführt und haben gekostet:</p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>
+          <hi rendition="#c">desgl. in den Jahren 1861&#x2014;76.</hi>
+        </p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <lb/>
+        <lb/>
+        <pb n="7" facs="#f0013"/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <pb n="8" facs="#f0014"/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <pb n="9" facs="#f0015"/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <pb n="10" facs="#f0016"/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <pb n="11" facs="#f0017"/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>Geplant wird jetzt eine Verbreiterung der Königstraſse<lb/>und Freilegung des Schloſsplatzes bis zum Nordgiebel des<lb/>Königl. Marstall-Gebäudes.</p>
+        <lb/>
+        <p>
+          <hi rendition="#c">(Demonstration.)</hi>
+        </p>
+        <lb/>
+        <p>Wenn ich nunmehr zu der <hi rendition="#g">Befestigung</hi> &#x2014; Pflasterung<lb/>&#x2014; der Straſsen übergehe, so sei mir gestattet, zunächst eines<lb/>kurzen Gespräches Erwähnung zu thun, welches in dem Werke<lb/>&#x201E;Friedrich Saſs: Berlin in seiner neuesten Zeit und Entwicklung&#x201C;,<lb/>Leipzig 1846, angegeben ist:</p>
+        <lb/>
+        <p>&#x201E;Als Eduard Gans im Jahre 1825 in Brüssel war, traf<lb/>er dort mit dem Grafen Sieyés zusammen. Sieyés fragte:<lb/>&#x201E;Auch ich bin zu meiner Zeit in Berlin gewesen. Es sind<lb/>aber 27 Jahre her, und zwar als Gesandter der Französischen<lb/>Republik. Sind jetzt noch so viele Gegensätze als sonst vor-<lb/>handen?&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Wie,&#x201C; meinte Gans, &#x201E;Gegensätze? Bei uns ist, so viel<lb/>ich glaube, dieses Wort gar nicht anzuwenden.&#x201C;</p>
+        <lb/>
+        <pb n="12" facs="#f0018"/>
+        <p>&#x201E;Ich habe,&#x201C; erwiderte Sieyés, &#x201E;die stärksten daselbst vor-<lb/>gefunden; breite, zum Theil wohlgebaute Straſsen und das<lb/>ärgste Pflaster, das man in einer groſsen Stadt zu finden<lb/>vermöchte; Jakobiner, die bei uns alles recht fanden, was<lb/>Robespiere, Couthon, Marat Schreckliches vollführten, und in<lb/>ihrem Lande zugleich die zahmsten und titelsüchtigsten Narren<lb/>waren, die man antreffen konnte, usw.&#x201C;</p>
+        <lb/>
+        <p>In dem Werke: &#x201E;Berlin im neunzehnten Jahrhundert&#x201C;<lb/>von Adolph Streckfuſs. (II. Band Seite 508&#x2014;509), berichtet<lb/>derselbe:</p>
+        <lb/>
+        <p>&#x201E;Im Jahre 1825 sprach der König den Wunsch aus, daſs<lb/>in den besseren Stadtgegenden die sogenannten Trottoirs,<lb/>breite Granitbahnen, gelegt würden. Zuerst wurden vier<lb/>Straſsen, die Leipziger-, die Jäger-, die neue Friedrich- und<lb/>die Königstraſse als solche bezeichnet, in welchen der König<lb/>die Anlage der Trottoirs vorzugsweise wünsche; er gab das<lb/>Versprechen, daſs, wenn die Bürger sich bereit erklärten,<lb/>Trottoirs zu legen, daſs dann auch vor allen Königlichen<lb/>Gebäuden der Bürgersteig in gleicher Weise auf Königliche<lb/>Kosten verbessert werden solle.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Der Magistrat bestrebte sich, den Wünschen des Königs<lb/>zu entsprechen. Nicht nur in vier Straſsen, sondern auch in<lb/>einer Anzahl anderer bedeutender Verkehrswege gelang es,<lb/>auch in der Breitenstraſse, der Brüderstraſse, auf dem Schloſs-<lb/>platz usw. die Hauseigenthümer zu den von ihnen geforderten<lb/>Opfern zu gewinnen.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Durch eine Königliche Cabinets-Ordre vom 18. Mai 1828<lb/>wurde demnächst bestimmt, daſs überall, wo nach sach-<lb/>verständigem Ermessen die Instandsetzung der Bürgersteige<lb/>in den Straſsen Berlins und an den Plätzen polizeilich noth-<lb/>wendig erachtet werde, die Hauseigenthümer angehalten<lb/>werden sollten, Trottoirs von Granitplatten anzulegen.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Unter dem 26. Mai 1829 beschloſs die Commune, daſs<lb/>die Hauseigenthümer nur mit &#x2153; der Kosten herangezogen<lb/>werden sollten, daſs aber &#x2154; derselben durch eine neu ein-<lb/>zuführende Steuer, die Hundesteuer, aufgebracht werden<lb/>müſsten, daſs ferner die Legung der Trottoirs, soweit der<lb/><pb n="13" facs="#f0019"/>
+aus der Hundesteuer flieſsende Fonds reiche, straſsenweise<lb/>ausgeführt werde.&#x201C;</p>
+        <lb/>
+        <p>Durch die Einführung dieses Reglements gelang es bis<lb/>zum Jahre 1840, die meisten irgend belebten Straſsen der<lb/>Stadt mit Trottoirs zu versehen.</p>
+        <lb/>
+        <p>Nach diesem Reglement, das mit ganz geringen Ab-<lb/>weichungen bis zum Jahre 1862 Geltung behielt, waren bis<lb/>zum Jahre 1860 ausgeführt:</p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>Unbelegte Bürgersteige verblieben<lb/>innerhalb der Ringmauer in 70 Straſsen mit rot. 26 000 m<lb/>und auſserhalb der Ringmauer in 33 bebauten</p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>Die auf Verbesserung der Bürgersteige verwendeten<lb/>Zuschüsse betrugen seit dem Jahre 1835&#x2014;1860 rot. 700 000 &#x2133;.</p>
+        <lb/>
+        <p>Im Jahre 1862 hat das Reglement eine Abänderung dahin<lb/>erfahren, daſs statt einer Reihe Granitplatten von 3&#x2032; Breite,<lb/>deren zwei in einer Gesamtbreite von 2 m, und auſserdem die<lb/>Legung von granitnen Bordschwellen verlangt wird; daſs die<lb/>letzteren durchweg untermauert werden müssen, ist eine<lb/>weitere Forderung, die durch eine neu unterm 17. Januar 1873<lb/>veröffentlichte Polizeiverordnung bezüglich Regulirung der<lb/>Bürgersteige hinzugekommen ist; dieselbe bestimmt auſserdem,<lb/>daſs die nicht mit Platten zu belegenden Theile der Bürger-<lb/>steige mit Mosaikpflaster zu befestigen sind, und erklärt<lb/>die Befestigung der Bürgersteige mit <hi rendition="#g">Asphalt</hi> als zulässig.</p>
+        <lb/>
+        <p>In Folge dieser von der Polizeibehörde und den Gemeinde-<lb/>behörden durchgeführten Maſsregeln ist es dahin gekommen,<lb/>daſs gegenwärtig kaum noch irgend eine regulirte Straſse in<lb/>Berlin einer Trottoiranlage entbehrt. Die seitens der Stadt<lb/>den Grundbesitzern gewährte Beihülfe hat betragen in den<lb/>Jahren 1861&#x2014;1876 &#x2014; rot. 1 593 000 &#x2133;.</p>
+        <lb/>
+        <p>Das <hi rendition="#g">Straſsendammpflaster</hi>, wie schon gesagt, stand<lb/><pb n="14" facs="#f0020"/>
+hinter dem der übrigen Groſsstädte unseres Erdtheils, &#x2014; ja,<lb/>hinter dem vieler Mittelstädte, weit zurück.</p>
+        <lb/>
+        <p>Es lag dies wohl zum gröſsten Theil an den eigen-<lb/>thümlichen Ressortverhältnissen in Bezug auf die Unterhaltung<lb/>der Straſsen.</p>
+        <lb/>
+        <p>Diese war <hi rendition="#g">bis</hi> zum Jahre 1820 eine Obliegenheit der<lb/>Staatsverwaltung; nach mehrjährigen Verhandlungen kam im<lb/>Jahre 1838 zwischen der letzteren und der Stadtgemeinde<lb/>ein Abkommen zu Stande, wonach der Staat auch in Zukunft<lb/>alle vor dem 1. Januar 1837 vorhanden gewesenen öffentlichen<lb/>Straſsen und Plätze zu unterhalten verpflichtet blieb, während<lb/>die Stadt die Kosten für Neuherstellung und Unterhaltung<lb/>aller von dem genannten Zeitpunkte anzulegenden Straſsen<lb/>übernahm.</p>
+        <lb/>
+        <p>Der Staat unterzog sich hiermit einer Last, die auf die<lb/>Unterhaltung einer Straſsenfläche von etwa 1 565 000 qm fest<lb/>begrenzt war, wärend die seitens der Stadt eingegangene<lb/>Verpflichtung eine gänzlich unbegrenzte blieb; so war bei-<lb/>spielsweise der Flächeninhalt der in städtischer Unterhaltung<lb/>befindlichen gepflasterten Dammflächen im Jahre 1850 bereits<lb/>auf rot. 225 400 qm herangewachsen und hat sich bis zum<lb/>Jahre 1876 auf rot. 1 772 000 qm erhöht.</p>
+        <lb/>
+        <p>In den älteren vom Staate zu unterhaltenden Straſsen lag<lb/>zu einem groſsen Theile Rundsteinpflaster; nur in wenigen<lb/>Hauptstraſsen war Fiscus dazu übergegangen, rechtwinklig<lb/>bearbeitete Steine, vornehmlich aus märkischen Findlingen,<lb/>hier und da auch aus sächsischem Porphyr, zu verwenden,<lb/>und erst seit dem Jahre 1866 hatte man sich entschlossen,<lb/>bei Umpflasterung verkehrsreicher fiscalischer Straſsen diesen<lb/>durchgehends eine <hi rendition="#g">Unterbettung von Kies</hi> zu geben.</p>
+        <lb/>
+        <p>Die Stadt hatte bei der Anlage neuer Straſsen anfänglich<lb/>polygonale geschlagene Feld- oder Bruchsteine zur Verwen-<lb/>dung gebracht, sich dann aber, namentlich seit dem Ende<lb/>der sechziger Jahre, dazu entschlossen, bei ihren Pflaste-<lb/>rungen, wo es sich um wichtigere Straſsenzüge handelte,<lb/>regelrecht bearbeitete Bruchsteine aus sächsischem oder pfäl-<lb/><pb n="15" facs="#f0021"/>
+zischem Porphyr und aus belgischem Diorit zu verwenden<lb/>und diese <hi rendition="#g">stets</hi> auf eine 20 cm starke Kiesbettung zu legen.</p>
+        <lb/>
+        <p>Trotz aller dieser wohlgemeinten Versuche war es nicht<lb/>möglich, das Berliner Pflaster auf einen besseren Fuſs zu<lb/>bringen, so lange noch die tiefen Berliner Rinnsteine be-<lb/>stehen bleiben muſsten, da diese es verhinderten, dem Pflaster<lb/>einen seitlichen widerstandsfähigen Halt zu verschaffen, und so-<lb/>lange man sich nicht dazu verstand, den Steinen eine feste, un-<lb/>verrückbare Unterbettung zu geben. Zu der letzteren Anord-<lb/>nung, verbunden mit der Verwendung regelmäſsig gearbeiteter<lb/>Bruchsteine von eng begrenzten Abmessungen, vermochte<lb/>oder konnte die Staatsregierung bei der Abhängigkeit der ihr<lb/>zu Gebote stehenden Mittel von den Bewilligungen des Land-<lb/>tages sich nicht entschlieſsen.</p>
+        <lb/>
+        <p>Eine Wendung zum Besseren konnte daher erst ein-<lb/>treten, nachdem am 31. December 1875 der bekannte<lb/>zwischen Staatsregierung und Stadt vereinbarte Vertrag, nach<lb/>welchem letztere für eine jährliche Rente von rot. 556 000 &#x2133;<lb/>die gesamte Straſsen- und Brücken-Baulast in Berlin über-<lb/>nimmt, zum Abschluſs gelangt war.</p>
+        <lb/>
+        <p>Die gesamte am 1. Januar 1876 in der Unterhaltung der<lb/>Städtischen Bauverwaltung vereinigte Dammfläche der ge-<lb/>pflasterten Straſsen betrug in runden Zahlen 3 337 000 qm,<lb/>welche nur zum allergeringsten Theil ein besseres Pflaster<lb/>aufzuweisen hatten.</p>
+        <lb/>
+        <p>Am 1. April 1892 bezifferte sich dagegen die Damm-<lb/>fläche der gepflasterten öffentlichen Straſsen und Plätze auf<lb/><table><row><cell/></row></table>
+<pb n="16" facs="#f0022"/>
+sodaſs mit Steinen geringerer Güte noch eine Fläche von<lb/>etwa 2 205 000 qm verblieb, deren Ersatz durch besseres<lb/>Pflaster als die Aufgabe der städtischen Bauverwaltung in den<lb/>nächsten 10&#x2014;20 Jahren zu betrachten sein dürfte.</p>
+        <lb/>
+        <p>Nach Vorstehendem hat sich die Fläche der gepflasterten<lb/>Straſsen seit 1876 um etwa 55 v. H. vermehrt, und die von<lb/>der Stadtgemeinde für Pflasterungen mit besserem Material<lb/>und für die Unterhaltung des gesamten Pflasters aufgewendeten<lb/>Kosten haben in dem Zeitraum vom 1. April 1876 bis 1. April<lb/>1892 nach einer überschläglichen Ermittlung etwa betragen<lb/>51 000 000 &#x2133; oder pro Jahr etwa 3 200 000 &#x2133;; im Jahre 1850<lb/>zahlte die Stadt 6500 &#x2133;!!</p>
+        <lb/>
+        <p>Als geringste <hi rendition="#g">Breite</hi> neuanzulegender Straſsen gilt seit<lb/>Aufstellung des Bebauungsplanes das Maſs von 19 m. Daneben<lb/>gehören für gröſsere ausgedehnte Straſsenzüge Breiten von<lb/>22, 26, 30, 33, 38 m und darüber bis 68 m nicht zu den<lb/>Seltenheiten. Bei Vertheilung der Straſsenfläche zwischen<lb/>Bürgersteig und Damm wurde in der Regel mit Ausnahme<lb/>solcher Straſsen, in denen Mittelpromenaden sich herstellen<lb/>lassen, so verfahren, daſs etwa je ein Fünftel der Gesamt-<lb/>breite auf die beiderseitigen Bürgersteige, und der Rest von<lb/>3 Fünfteln auf den Fahrdamm entfiel. Es entstanden auf<lb/>solche Weise in vielen Straſsen Straſsendämme von 12 und<lb/>15 m, die für den dort vorhandenen bezw. zu erwartenden<lb/>Verkehr mehr als ausreichend waren, und die Commune<lb/>durch Herstellung und Unterhaltung dieses Pflasters un-<lb/>nöthigerweise belasteten.</p>
+        <lb/>
+        <p>Demgegenüber hat sich namentlich in den letzten Jahren,<lb/>in denen sich die unterirdischen Leitungen, die im Straſsen-<lb/>körper Raum beanspruchen, durch Erweiterung der Gas- und<lb/>Wasserleitungen, durch Hinzutreten der Entwässerungscanäle<lb/>und Röhren, durch Rohrpost-, Telegraphen-, Telephon- und<lb/>Lichtkabelleitungen in früher nicht geahnter Weise vermehrt<lb/>haben, das Bedürfniſs herausgestellt, diese Leitungen thunlichst<lb/><hi rendition="#g">unter den Bürgersteigen</hi> unterzubringen, und zu diesem<lb/>Behufe den dazu erforderlichen Raum durch Verbreiterung<lb/>der Bürgersteige, soweit es irgend ohne Schädigung des<lb/><pb n="17" facs="#f0023"/>
+Fuhrwerksverkehrs angänglich ist, auf Kosten der übermäſsig<lb/>breiten Fahrdämme zu beschaffen.</p>
+        <lb/>
+        <p>In eminentem Sinne hat zur Verkehrs-Verbesserung in<lb/>Berlin die <hi rendition="#g">Canalisation</hi> der Stadt beigetragen, denn sie hat<lb/><hi rendition="#g">jeden</hi> Straſsendamm um etwa 1,2, ja 3 m nutzbar verbreitert.</p>
+        <lb/>
+        <p>Aber wohl nur wenige Unternehmungen haben sich eines<lb/>so herzlichen Widerstandes zu erfreuen gehabt, als gerade diese.</p>
+        <lb/>
+        <p><hi rendition="#g">Wie</hi> die Zustände etwa beschaffen waren, möge man<lb/>aus einigen Sätzen einer Polizei-Verordnung vom 29. März<lb/>1836 ersehen. Es heiſst dort:</p>
+        <lb/>
+        <p>1. Der Bürgersteig, der Rinnstein und der Straſsendamm<lb/>müssen vor jedem Grundstück in dem bewohnten Theile der<lb/>Stadt wöchentlich zweimal, an jedem Mittwoch und Sonn-<lb/>abend, während der Sommermonate in den Stunden von<lb/>6&#x2014;8 Uhr, längs der ganzen Frontlinie des Grundstückes und<lb/>der Straſsendamm auf die Hälfte seiner Breite sorgfältig ge-<lb/>reinigt werden. Der Rinnstein ist bis auf die Sohle auszu-<lb/>schippen, die vorgefundenen Unreinlichkeiten sind in Haufen<lb/>zusammenzubringen und jedenfalls noch im Laufe des Tages<lb/>von der Straſse fortzuschaffen. Um bei trockener Witterung<lb/>den schädlichen Staub zu vermeiden, muſs beim Fegen des<lb/>Dammes und des Bürgersteiges zureichendes Besprengen mit<lb/>Wasser angewendet werden u. s. w.</p>
+        <lb/>
+        <p>2. Jede Verunreinigung der Straſsen durch Heraus-<lb/>werfen von Schutt, Müll, Scherben u. s. w. wie das Ausgieſsen<lb/>von Flüssigkeiten aus den Fenstern und das Ausleeren der<lb/>Schmutzeimer auf den Straſsen oder in die Rinnsteine wird<lb/>hiemit gemessenst untersagt.</p>
+        <lb/>
+        <p>3. Müssen die Höfe u. s. w.</p>
+        <lb/>
+        <p>Berlin, 19. III. 1836.</p>
+        <lb/>
+        <p>Königl. Preuſs. Gouvernement und Polizei-Präsidium.</p>
+        <lb/>
+        <p>v. <hi rendition="#g">Tippelskirch. Gerlach</hi>.</p>
+        <lb/>
+        <p>Namentlich erregten die Bestrebungen, die Unrathstoffe<lb/>schleunigst aus der Stadt zu entfernen, in ausgedehntem<lb/>Maſse den Unwillen der Sanitäts-Beamten, &#x2014; und das<lb/>Streben, die sämtlichen Dungstoffe landwirthschaftlich nutzbar<lb/><fw type="sig" place="bottom">2</fw><lb/><pb n="18" facs="#f0024"/>
+zu machen, den Unwillen der Landwirthe. Die öffentliche<lb/>Meinung war &#x2014; wie so oft &#x2014; ein Spielball, den sich Sonder-<lb/>interesse und Unkenntniſs der Dinge lustig zuwarfen.</p>
+        <lb/>
+        <p>Eine Zeitung sprach die Frage aus, ob Virchow und Ho-<lb/>brecht mehr in ein Zuchthaus oder in ein Irrenhaus gehörten.</p>
+        <lb/>
+        <p>Namentlich war es die Berieselung, welche angegriffen<lb/>wurde. So berichtet die Spenersche Zeitung vom 31. October<lb/>1871, Faucher habe in seinem vortrefflichen Buche über die<lb/>inneren Eisenbahnen Londons gesagt:</p>
+        <lb/>
+        <p><hi rendition="#g">Daſs es mit der Berieselung nichts ist, kann<lb/>doch jetzt nur noch der Eigensinn verkennen</hi>. Es<lb/><hi rendition="#g">sind ja samt und sonders ganz lächerlich verlau-<lb/>fene Spielereien gewesen</hi>.</p>
+        <lb/>
+        <p>Eine Blumenlese aus einem &#x201E;<hi rendition="#g">Aufruf an alle Mit-<lb/>bürger, denen das Wohl der Stadt wahrhaft am<lb/>Herzen liegt, die insbesondere die Ursachen der<lb/>immer heftiger werdenden Epidemien verringern<lb/>wollen</hi>&#x201C; (März 1872?) lautet also:</p>
+        <lb/>
+        <p>&#x201E;In jüngster Zeit haben sich die Vertreter dieser Idee<lb/>(Canalisation) sogar zu dem kühnen Gedanken aufgeschwun-<lb/>gen, daſs es auch der volkswirthschaftlich richtigste Weg sei,<lb/>gleichgültig, ob dabei alle Gesetze der Chemie, Physik, Me-<lb/>chanik und Volkswirthschaft auf den Kopf gestellt werden.<lb/><hi rendition="#g">Die Wissenschaft muſs umkehren, weil die Canali-<lb/>sationsmänner es wollen</hi>&#x201C; u. s. w.</p>
+        <lb/>
+        <p>Der Bau der Canalisation von Berlin begann im Jahre<lb/>1874. Dem Bau des Radial-System III, dessen Pumpstation<lb/>in der Schöneberger Straſse liegt, folgten nach einander<lb/>Radial-System I, II, IV, V, VI, VII, VIII, IX. X und XII.<lb/>Ausgeführt sind bis jetzt im ganzen 706 400 lfd. m Straſsen-<lb/>leitungen und angeschlossen an die Canalisation wurden<lb/>22 550 bebaute Grundstücke.</p>
+        <lb/>
+        <p>Entsprechend dem Ausbau der Canalisation im Innern<lb/>der Stadt wurden die Rieselfelder aptirt.</p>
+        <lb/>
+        <p>Begonnen wurde im Jahre 1875 mit dem Gute Osdorf.<lb/>Heute ist die Stadt Eigenthümerin von etwa 8200 ha Riesel-<lb/>güter, von denen ca. 5000 ha aptirt sind.</p>
+        <lb/>
+        <pb n="19" facs="#f0025"/>
+        <p>Herausgepumpt werden nach den Rieselfeldern, die theils<lb/>im Süden, theils im Norden von Berlin liegen, täglich im<lb/>Durchschnitt etwa 150 000 cbm, von denen etwa 90 000 cbm<lb/>auf den Süden, 60 000 cbm auf den Norden kommen. Die<lb/>ersteren sind in med. ca. 25 m, die letzteren ca. 35 m hoch<lb/>zu heben. Diese Arbeit wird geleistet von Pumpmaschinen<lb/>in einer Gesamtstärke von 5056 HP. Das Wasser gelangt<lb/>nach den Rieselfeldern durch Druckrohre von 1000 und<lb/>750 mm Dm., die eine Gesamtlänge von 86 400 lfd. m haben.</p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>Von besonderer Bedeutung für den Verkehr ist ferner<lb/>die <hi rendition="#g">Straſsen-Beleuchtung</hi>; sie kann in einer Darstellung<lb/>der Verkehrs-Entwicklung nicht unbeachtet bleiben.</p>
+        <lb/>
+        <p>Auch hierüber giebt uns Streckfuſs einige interessante<lb/>Notizen aus früherer Zeit. Es heiſst dort:</p>
+        <lb/>
+        <p>&#x201E;Erst im Jahre 1803 war das Erleuchtungswesen regel-<lb/>mäſsig geordnet worden. Ganz Berlin erhielt eine Beleuchtung,<lb/>während vorher in den meisten Straſsen fast vollständige<lb/>Dunkelheit geherrscht hatte. Es wurden groſse Laternen mit<lb/>Reverberen und jede mit zwei Lampen aufgestellt.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Eine besonders dazu errichtete Erleuchtungs-Invaliden-<lb/>Compagnie von 60 Mann mit einem Feldwebel und 5 Unter-<lb/>officieren besorgte, unter der Oberaufsicht eines Officiers,<lb/>das Anstecken und Reinigen der Lampen. Die Compagnie<lb/>zeichnete sich durch eine eigene Uniform, blaue Jacken mit<lb/>dunkelrothem Kragen, braune, lange Beinkleider, kurze Stiefel<lb/>und runde Hüte mit einem Schilde aus.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Die jährliche Erleuchtung Berlins kostete über 38 000 Thlr.,<lb/>wozu der König 22 853 Thlr. angewiesen hatte.&#x201C;</p>
+        <lb/>
+        <fw type="sig" place="bottom">2*</fw>
+        <lb/>
+        <pb n="20" facs="#f0026"/>
+        <p>&#x201E;Nur in den Hauptstraſsen waren Laternen in genügender<lb/>Zahl angebracht, in den Nebenstraſsen aber so vereinzelt,<lb/>daſs sie mehr dazu beitrugen, die Augen zu blenden, als die<lb/>Straſsen zu erleuchten; sie wurden auſserdem mit so wenig<lb/>Oel versehen, daſs sie spätestens gegen 12 Uhr in der Nacht<lb/>erloschen. Wer dann durch die Straſsen wandern wollte,<lb/>muſste sich mit einer eigenen Laterne versehen, wenn er<lb/>nicht in Gefahr gerathen wollte, übergefahren zu werden<lb/>oder in die tiefen Rinnsteine und Schmutzlöcher zu stürzen.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Am 21. April 1825 schloſs das Ministerium des Innern<lb/>und der Polizei mit einer englischen Gesellschaft einen Vertrag,<lb/>durch welchen diese sich verpflichtete, den gröſsten Theil der<lb/>innerhalb der Ringmauern Berlins belegenen Straſsen und<lb/>Plätze durch <hi rendition="#g">Gas</hi> zu erleuchten.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Nach diesem Vertrage belief sich die Zahl der auf-<lb/>zustellenden Laternen im Ganzen auf 2719, von denen 1789<lb/>durch Gas, 930 mit Oel erleuchtet werden sollten.</p>
+        <lb/>
+        <p>&#x201E;Am 19. September 1826 strahlten unter den Linden die<lb/>ersten Gasflammen ihr Licht aus, und damals glaubten die<lb/>Berliner, als sie in dichten Schaaren von den Linden bis zur<lb/>Schloſsbrücke auf und ab wandelten und die prächtigen Gas-<lb/>flammen anstaunten, es sei etwas Rechtes geschehen.&#x201C;</p>
+        <lb/>
+        <p>Da bald darauf aber die durch die Gesellschaft her-<lb/>gestellte Beleuchtung den Anforderungen der Behörden nicht<lb/>entsprach, wurde die Stadtverwaltung von der Regierung<lb/>aufgefordert, nach Ablauf des Vertrages die Straſsenbeleuchtung<lb/>am 1. Januar 1847 selbst zu übernehmen. Dieses geschieht.<lb/>Die Gesellschaft behielt das Recht gemäſs ihrem Vertrage<lb/>in denjenigen Straſsen, in welchen sie am 1. Januar 1847<lb/>Leitungen liegen hatte, auch fernerhin Gas an Private zu<lb/>verkaufen, und sie übt dieses Recht heute noch aus, indem sie<lb/>drei Gasanstalten im Betrieb hat.</p>
+        <lb/>
+        <p>Die Stadt baute in den Jahren 1845&#x2014;47 zwei Gasanstalten<lb/>und zwei Gasbehälteranstalten. Als die Stadt den Betrieb der<lb/>Beleuchtung übernahm, brannten 1863 Gasflammen und<lb/>1067 Oellampen. Im Jahre 1849 nach Fertigstellung der<lb/>Beleuchtungseinrichtung brannten 3216 Gasflammen und<lb/><pb n="21" facs="#f0027"/>
+46 Oellampen. Die Länge der Gasleitungen betrug insgesamt<lb/>180 km.</p>
+        <lb/>
+        <p>Im Jahre 1864 wurden die wenigen vorhandenen Oel-<lb/>lampen durch Petroleumlampen ersetzt</p>
+        <lb/>
+        <table>
+          <row>
+            <cell/>
+          </row>
+        </table>
+        <p>Die Verwendung elektrischer Lampen hatte in dem Gas-<lb/>fach Bestrebungen angeregt, durch Benutzung gröſserer Gas-<lb/>flammen gröſsere Lichtstärke zu erzielen; ein erster Versuch<lb/>fand auf dem Pariser Platz am 1. August 1881 mit 74 groſsen<lb/>Gasbrennern statt.</p>
+        <lb/>
+        <p>Mit Anwendung des <hi rendition="#g">elektrischen</hi> Lichtes wurde ein<lb/>erster Versuch durch die Firma Siemens u. Halske am 11. Aug.<lb/>1880 und zwar mit 4 Lampen auf dem Pariser Platz an-<lb/>gestellt. Im Herbst 1882 wurden der Potsdamer Platz und<lb/>die Leipziger Straſse durch 36 elektrische Bogenlampen er-<lb/>leuchtet. Der Betrieb erfolgte anfangs durch Siemens u.<lb/>Halske, sodann von 1886 an durch dle Berliner Elektricitäts-<lb/>werke. &#x2014; Kosten 29 000 &#x2133; jährlich. Am 31. August 1888<lb/>trat die Beleuchtung der Linden durch 104 Bogenlampen<lb/>ein. Kosten hierfür 96 000 &#x2133; jährlich.</p>
+        <lb/>
+        <p>Im technischen Sinn wird die Canalisation, deren ich<lb/>schon Erwähnung gethan, erst durch das Vorhandensein einer<lb/><hi rendition="#g">Wasserleitung</hi> ermöglicht.</p>
+        <lb/>
+        <p>Entstehen und Fortschritt derselben darf daher hier nicht<lb/>unbeachtet bleiben.</p>
+        <lb/>
+        <p>Auch hier erlaube ich mir den Inhalt einer Bekannt-<lb/>machung des Königl. Pol.-Präs. vom 15. März 1836, welche<lb/>für die damaligen Zustände bezeichnend ist, voranzuschicken:</p>
+        <lb/>
+        <p>
+          <hi rendition="#c">Polizeiliche Bekanntmachung.</hi>
+        </p>
+        <lb/>
+        <p>Die Bestimmung der hiesigen Feuerordnung, nach welcher<lb/>bei ausbrechendem Feuer die Bewohner der Nachbarschaft<lb/><pb n="22" facs="#f0028"/>
+verpflichtet sind, mit Wasser gefüllte Zober und Tienen vor<lb/>die Hausthüren zu stellen, und wenn der Brand abends oder<lb/>nachts ausbricht, in der nächsten Umgebung der Brandstelle<lb/>brennende Lichte an die straſsenwärts gelegenen Fenster zu<lb/>stellen, werden hierdurch usw. in Erinnerung gebracht.</p>
+        <lb/>
+        <p>Berlin, 15. III. 1836.</p>
+        <lb/>
+        <p>
+          <hi rendition="#c">Königl. Pol.-Präsid. <hi rendition="#g">Gerlach</hi>.</hi>
+        </p>
+        <lb/>
+        <p>In Bezug auf die Gewinnung von gutem Trink- und<lb/>Verbrauchswasser befand sich Berlin bis in die Mitte unseres<lb/>Jahrhunderts hinein, infolge seiner Bodenbeschaffenheit vor<lb/>vielen anderen Städten Europas in überaus günstiger Lage,<lb/>indem es in seinem Grundwasser eine durch eine groſse An-<lb/>zahl von Hof- und Straſsenbrunnen erschlossene sehr ergiebige<lb/>Quelle besaſs.</p>
+        <lb/>
+        <p>Die allmähliche Verschlechterung des Brunnenwassers,<lb/>verbunden mit dem sich von Jahr zu Jahr steigenden Be-<lb/>dürfnisse, den Inhalt der tiefen Rinnsteine und Zungenrinn-<lb/>steine durch kräftige Wasserspülung zu beseitigen, lieſs be-<lb/>reits mit dem Beginn des uns beschäftigenden Zeitabschnittes<lb/>die Frage über die Anlage einer künstlichen Wasserver-<lb/>sorgung der Stadt in lebhaften Schwung kommen. Die dar-<lb/>über geführten Verhandlungen und Berathungen führten aber<lb/>erst im Jahre 1852 zu einem Ziel, indem der damalige<lb/>Polizei-Präsident von Hinkeldey mit einem englischen Con-<lb/>sortium einen Vertrag über das Unternehmen, Berlin mit<lb/>flieſsendem Wasser zu versehen, abschloſs. Es gelang<lb/>im Frühjahr 1856 auf dem vor dem Stralauer Thor zu<lb/>einem Pumpwerk und einer Filteranlage hergerichteten<lb/>Grundstücke den Betrieb zu eröffnen. Das Anlagecapital,<lb/>anfänglich auf 1 Million Thaler geschätzt, muſste nach und<lb/>nach auf 4 000 000 Thaler erhöht worden. Die Erträgnisse<lb/>des Werkes waren zunächst mehr als unbedeutende; erst vom<lb/>Jahre 1861 an war es imstande, eine Dividende von 1 v. H.<lb/>abzuwerfen, die sich dann allerdings bis zum Jahre 1872 auf<lb/>11¼ v. H. steigerte.</p>
+        <lb/>
+        <p>Da in Bezug auf die Spülung der Rinnsteine und auch in<lb/>sonstiger Beziehung die englische Gesellschaft den über-<lb/><pb n="23" facs="#f0029"/>
+nommenen <choice><sic>Verpflichtungeu</sic><corr>Verpflichtungen</corr></choice> nicht nachkam, ja nicht nach-<lb/>kommen konnte, so entschloſs sich die Stadtgemeinde im<lb/>Jahre 1873, das ganze Werk mit sämtlichem Zubehör und<lb/>Leitungen für den Preis von 8 375 000 Mark zu erwerben<lb/>und in eigene Verwaltung zu übernehmen. Im Jahre 1874<lb/>wurden die Mittel zur Anlegung einer groſsartigen Schöpf-<lb/>und Brunnenanlage an dem Wasserbecken des Tegeler Sees,<lb/>deren Gesamtkosten auf 19 934 000 Mark veranschlagt waren,<lb/>zunächst in Höhe von 12 600 000 Mark bewilligt. Die Gröſse<lb/>des neuen Werkes war auf die Zunahme der Einwohnerschaft<lb/>bis zu 1 Million berechnet und das zu beschaffende Wasser-<lb/>quantum auf 1000 Secunden/Liter festgesetzt.</p>
+        <lb/>
+        <p>Die Eröffnung des Tegeler Werkes, zunächst zur Hälfte,<lb/>erfolgte anno 1877.</p>
+        <lb/>
+        <p>Die Gesamtanlage der Tegeler Wasserwerke, wie sie in<lb/>dem Entwurfe von 1874 den städtischen Behörden unterbreitet<lb/>worden war, wurde in den Jahren 1886 bis 1888 zum Ab-<lb/>schluſs gebracht; es war dadureh die Möglichkeit gegeben,<lb/>die Stadt Berlin in einem Zeitraum von 24 Stunden mit<lb/>86 400 cbm durch Sandfilter gereinigten Wassers zu versehen.</p>
+        <lb/>
+        <p>Indessen vor und während des Baues war man sich schon<lb/>darüber klar, daſs die in Ausführung begriffenen Werke nicht<lb/>genügten, den Wasserbedarf der Stadt über das Jahr 1888<lb/>hinaus zu decken. Eingehende Erhebungen lieſsen den süd-<lb/>östlich von Berlin belegenen Müggelsee als die geeignetste<lb/>Schöpfquelle erkennen. Das im Frühjahr 1888 durch die<lb/>städtischen Behörden für eine Wasserwerksanlage am Müggel-<lb/>see genehmigte Project sieht eine Entnahme von in maximo<lb/>2 cbm in der Secunde aus dem Müggelsee vor, sodaſs voll-<lb/>ständig ausgeführt die neuen Werke in 24 Stunden 172 800 cbm<lb/>filtrirten Wassers, und die Anlagen in Tegel und am Müggel-<lb/>see zusammen 259 000 cbm Wasser pro 24 Stunden nach<lb/>Berlin zu liefern imstande sein würden, und somit nach den<lb/>bisherigen Erfahrungen der Bedarf von 2½ Millionen Ein-<lb/>wohnern gedeckt werden könnte.</p>
+        <lb/>
+        <p>Die hierfür erforderlichen Aufwendungen beziffern sich<lb/>überschläglich auf 20 Millionen Mark, sodaſs nach Fertig-<lb/><pb n="24" facs="#f0030"/>
+stellung der jetzt im Bau begriffenen Anlagen, deren Betriebs-<lb/>eröffnung im Laufe des Jahres bevorsteht, die von der Stadt-<lb/>gemeinde für die Versorgung Berlins mit reinem Wasser an-<lb/>gekauften bezw. neu angelegten Werke einen Kostenaufwand<lb/>von mindestens etwa 48 000 000 Mark erfordert haben.</p>
+        <lb/>
+        <p>Die Entwicklung der <hi rendition="#g">Chausseen</hi> in der Umgegend von<lb/>Berlin war im allgemeinen, obwohl diese Art der Kunst-<lb/>straſsen lange bekannt und anderweitig viel angewendet war,<lb/>eine langsame.</p>
+        <lb/>
+        <p>Die Verbindung der Hauptstadt mit den Provinzen<lb/>und mit den übrigen deutschen Staaten sowie dem Auslande<lb/>wurde bis in das vierte Jahrzehnt des neunzehnten Jahr-<lb/>hunderts hinein allein durch die Landstraſsen gebildet.</p>
+        <lb/>
+        <p>Dieselben waren, wenigstens in der näheren Umgebung<lb/>Berlins, bis gegen das Ende des 18. Jahrhunderts unbefestigt;<lb/>erst um 1790 herum wurden auf Befehl Königs Friedrich<lb/>Wilhelm II. die von Berlin nach Potsdam und Charlotten-<lb/>burg führenden Straſsen kunstmäſsig befestigt und 1799 wurde<lb/>auf Veranlassung Friedrich Wilhelms III. ein Rescript er-<lb/>lassen, das die Absicht aussprach, die Hauptstraſsen um<lb/>Berlin herum auf die Länge einer Meile chaussiren zu lassen.<lb/>In der That wurden nach diesem Erlaſs die <hi rendition="#g">Frankfurter<lb/>Chaussee bis Friedrichsfelde</hi>, die <hi rendition="#g">Tegeler Chaussee<lb/>bis zum 1. Meilenstein</hi> und die nach <hi rendition="#g">Freienwalde<lb/>führende Straſse nach Weiſsensee</hi> in der Zeit von<lb/>1800&#x2014;1803 mit chausseemäſsiger Befestigung versehen; aber<lb/>die Kriegsunruhen, welche von da ab ganz Europa erschüt-<lb/>terten, unterbrachen das eben begonnene Werk vollständig,<lb/>und die Erschöpfung, welche nach Beendigung der Kriegs-<lb/>jahre auf dem preuſsischen Staate, ganz besonders auf der<lb/>Provinz Brandenburg und der Stadt Berlin lastete, lieſs auf<lb/>eine groſse Reihe von Jahren hinaus an eine Wiederaufnahme<lb/>der Arbeiten nicht denken.</p>
+        <lb/>
+        <p>Der Gedanke, Berlin mit den ihn umgebenden Orten<lb/>durch chaussirte Straſsen zu verbinden, wurde zuerst von<lb/>den dabei am meisten interessirten benachbarten Gemeinden<lb/>ländlicher und städtischer Art, gröſseren und kleineren Grund-<lb/><pb n="25" facs="#f0031"/>
+bssitzern u. s. w. aufgenommen, welche bemüht waren, in<lb/>Form von Actien das Capital zum Ausbau der Straſsen auf-<lb/>zubringen, während dasselbe aus den von den Chausseen<lb/>zu erwartenden Einnahmen verzinst und amortisirt werden<lb/>sollte.</p>
+        <lb/>
+        <p>Die Stadt Berlin wurde hierbei nicht selten von den sich<lb/>bildenden Vereinen um Unterstützung bezw. Betheiligung<lb/>angegangen.</p>
+        <lb/>
+        <p>Uebrigens waren die genannten Bestrebungen keines-<lb/>weges von leichtem oder raschem Erfolg gekrönt. Nur bei<lb/>einem einzigen Unternehmen, welches die Chaussee vor dem<lb/>Schönhauser und Prenzlauer Thore (nach Pankow und Fran-<lb/>zösisch-Buchholz) betraf, glückte es im Jahre 1825, nach<lb/>fünfjähriger Bemühung, das erforderliche Capital zusammen-<lb/>zubringen und die Befestigung der Straſsen im Sommer des<lb/>gedachten Jahres zu vollenden. Bei anderen Landstraſsen<lb/>ist es erst nach dreiſsig- und vierzigjährigen Anstrengungen<lb/>gelungen, das gewünschte Ziel zu erreichen, so beispiels-<lb/>weise bei der Landsberger Chaussee (vom <hi rendition="#g">Landsberger<lb/>Thor über Alt-Landsberg nach Proetzel</hi>), bei welcher<lb/>die im Jahre 1821 eingeleiteten Verhandlungen erst im Jahre<lb/>1852 zum Abschluſs gediehen, so die Chaussee vom <hi rendition="#g">Rosen-<lb/>thaler Thor nach Reinickendorf</hi>, zu deren Anlage be-<lb/>reits im Jahre 1822 die staatliche Genehmigung ertheilt wurde,<lb/>die aber erst in den Jahren 1848/49 durch die Stadt unter<lb/>Gewährung eines Staatszuschusses zur Ausführung gelangte.</p>
+        <lb/>
+        <p>Die im Jahre 1860 von der Stadtgemeinde Berlin zu<lb/>unterhaltenden Chausseen und chaussirten Straſsen besaſsen<lb/>eine Längenausdehnung von etwa 21 500 m, im Jahre 1877<lb/>von 26 700 m.</p>
+        <lb/>
+        <p>Infolge des unter dem 8. Juli 1875 publicirten Gesetzes<lb/>über die Dotation der Provincial- und Kreisverbände, dem-<lb/>zufolge die Stadt Berlin die bisher von der Königlichen<lb/>Ministerial-Baucommission unterhaltenen Landstraſsen und die<lb/>Chaussee im Thiergarten gegen eine jährlich zu zahlende<lb/>Rente in Höhe von 235 315 &#x2133; zu übernehmen gehalten war,<lb/>hob sich der Gesamtbestand der von der Commune Berlin<lb/><pb n="26" facs="#f0032"/>
+zu unterhaltenden Chausseen und chaussirten Straſsen auf<lb/>eine Länge von 70 600 m.</p>
+        <lb/>
+        <p>Unter Berücksichtigung der inzwischen bewirkten Pflaste-<lb/>rungen mit Steinen und Asphalt betrug die Länge der als<lb/>Chausseen noch zu unterhaltenden Straſsen am 1. April 1892:<lb/><hi rendition="#c">67 540 m mit 407 500 qm befestigter Fahrbahn.</hi></p>
+        <lb/>
+        <p>Die für diese Art der Straſsenunterhaltung aufgewen-<lb/>deten Kosten haben in den Jahren vom 1. April 1877 bis<lb/>1. April 1892 sich beziffert auf:<lb/><hi rendition="#c">rot. 5 029 000 &#x2133;, oder auf rot. 335 300 &#x2133; jährlich,</hi><lb/>während bis dahin die jährlich für Unterhaltung der Chausseen<lb/>aufzubringende Ausgabe etwa 55 000 &#x2133; betragen hat.</p>
+        <lb/>
+        <p>Nachdem ich in Vorgesagtem die Verkehrs<hi rendition="#g">straſsen</hi> und<lb/>-<hi rendition="#g">wege</hi> skizzirt, glaube ich nunmehr zu den Beförderungs-<lb/><hi rendition="#g">mitteln</hi> übergehen zu dürfen; unter diesen stehen, auch der<lb/>Zeit nach, <hi rendition="#g">Droschken und Omnibusse</hi> obenan.</p>
+        <lb/>
+        <p>Auch hier sei mir gegönnt, zunächst Artikel der Vossi-<lb/>schen Zeitung aus früheren Jahren anführen zu dürfen,<lb/>welche die damaligen Zustände aufs beste illustriren.</p>
+        <lb/>
+        <p>Ueber die <hi rendition="#g">Droschken</hi>, welche in besserer Gestalt<lb/>damals wohl zuerst eingeführt wurden, heiſst es dort unter<lb/>dem 27. 1. 37.:</p>
+        <lb/>
+        <p>&#x201E;Es scheint daher, daſs für die öffentlichen Fuhrwerke<lb/>im Innern der Stadt ebenfalls keine weitere Beschränkung<lb/>vonseiten der Behörde nöthig sein dürfte als diejenige, welche<lb/>seither bei den Wagen beobachtet wurde, die sich an den<lb/>Thoren Berlins aufstellen. Man lasse jeden Wagenbesitzer,<lb/>gleichviel ob er einen oder mehrere Wagen aufzustellen hat,<lb/>nach Ablauf des Droschkenprivilegii zu jeder Zeit zu; man<lb/>schreibe keine Taxe vor usw.&#x201C;</p>
+        <lb/>
+        <p>Ein Artikel über die Einrichtung von <hi rendition="#g">Omnibussen</hi> vom<lb/>3. 3. 37 lautet:</p>
+        <lb/>
+        <p>&#x201E;Dem in dieser Zeitung Nr. 48 enthaltenen Aufsatze,<lb/>welcher die Veranstaltung von Gesamt-Fuhrwerken für das<lb/>berlinsche Publicum betrifft, muſs in der Hauptsache völlig<lb/>beigestimmt werden, daſs die Einrichtung solcher Personen-<lb/>Fuhrwerke wünschenswerther und besser sei, die zu bestimm-<lb/><pb n="27" facs="#f0033"/>
+ten Zeitpunkten gewisse am meisten belaufene Straſsen un-<lb/>fehlbar durchfahren, und für eine billigst zu bestimmende<lb/>Bezahlung die Fahrlustigen an zu bestimmenden Orten auf-<lb/>nehmen und absetzen müssen. Wie es scheint, wird aber<lb/>dieser Zweck nur auf die nachfolgend angegebene Weise<lb/>erreicht werden können. 1) Nach Verhältniſs der Durch-<lb/>kreuzungen, in welchen das Durchschneiden Berlins von den<lb/>nöthig scheinenden Straſsen für das in Rede stehende Personen-<lb/>Fuhrwerk erforderlich gehalten werden wird, müssen 1, 2<lb/>oder sogar 3 Central-Bureaus eingerichtet werden, deren<lb/>Standpunkte am besten in der Mitte der anzuordnenden<lb/>Durchschnitt-Linie sein wird. 2) An jedem Ende dieser<lb/>Durchschnitt-Linien erhält eine Personen-Fahranstalt ihren<lb/>Standpunkt angewiesen und fährt das Publicum nur nach<lb/>dem betreffenden Centralpunkte hin, wo der von der andern<lb/>Seite entgegenkommende Personenwagen diejenigen aufnimmt,<lb/>die dorthin weiter fahren wollen, während die von entgegen-<lb/>gesetzter Seite gekommenen und weiter verlangenden Personen<lb/>des Behufs den erst gedachten Wagen besteigen. 3) Auf der<lb/>etwa 3 oder 4000 Schritt langen Strecke bis zum betreffenden<lb/>Central-Bureau werden auf jede &#x2014; circa 1000 Schritt ent-<lb/>haltende &#x2014; Entfernung Halt-Plätze bestimmt. (Jeder dieser<lb/>Zwischenräume wird wahrscheinlich mit ½ Sgr. zureichend<lb/>bezahlt werden, sodaſs die Fahrt durch ganz Berlin oder<lb/>z. B. von Tivoli bis zum Invalidenhause 6 Sgr. kosten würde.)<lb/>6) Die Central-Bureaus haben keine Geldeinnahme und keine<lb/>Sorge für die Fuhrwerks-Beschaffung, sondern nur die Auf-<lb/>sicht über die zu beobachtende Ordnung, wobei <hi rendition="#g">ihnen Gens-<lb/>darmen zu Hülfe</hi> gegeben werden können.&#x201C;</p>
+        <lb/>
+        <p>Im Laufe des Sommers 1837 scheint nun auch ein<lb/>erheblicher Fortschritt in dem Droschkenfuhrwesen eingetreten<lb/>zu sein, den uns ein Artikel der Vossischen Zeitung vom<lb/>3. October 1837 folgendermaſsen schildert:</p>
+        <lb/>
+        <p>&#x201E;Wer seit Sonntag, wo die neuen Droschken fahren, noch<lb/>einen Unterschied zwischen Berlin und London findet, muſs<lb/>ebenso unpratriotisch als parteiisch sein. Wer hat nicht über<lb/>das Gewühl der Wagen und derer, die fahren wollten, er-<lb/><pb n="28" facs="#f0034"/>
+staunen müssen? Es war nicht heiſs, nicht kalt, kein Sonnen-<lb/>brand, kein Regen, unsere alten Droschken hätten zu Dutzen-<lb/>den gestanden und sich todt ennuyirt, aber die neuen! Das<lb/>war eine andere Welt, wie rasselten und fuhren die durch<lb/>alle Straſsen, alle Wege des Thiergartens! Wie Hühner,<lb/>denen man das Futter ausstreut, eilten die Berliner von allen<lb/>Seiten zusammen, wo sich eine neue Droschke leer erblicken<lb/>lieſs, und wollten hinein. &#x2014;&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Kritiker gab es auch, und einer lieſs sich so vernehmen:<lb/>Wenn das Droschken sind, was sind denn jetzt Chaisen?<lb/>Man wird ja zuletzt ganz dumm gemacht!&#x201C; &#x2014;</p>
+        <lb/>
+        <p>&#x201E;Blöde waren indessen die Berliner nicht mit Einsteigen.<lb/>Der Punkt von den gratis mitzunehmenden Kindern unter<lb/>zwölf Jahren hatte ihnen besonders in der Ankündigung ge-<lb/>gefallen. Die Kinderköpfe guckten aus den Droschken wie<lb/>auf Raphaels Bildern die Engelsköpfchen aus den Wolken.<lb/>Eine Dame kam mit ihrer ganzen Pensionsanstalt, sieben<lb/>Mann weiblichen Geschlechts hoch, und verlangte für <hi rendition="#g">eine</hi><lb/>Person zu fahren und alle sieben Passagiere unter zwölf<lb/>Jahren gratis mitzunehmen. Der Kutscher sträubte sich,<lb/>doch sie hatte das Zeitungsblatt in der Hand und bewies ihr<lb/>Recht. Es war ein curioser Rechtshandel.&#x201C;</p>
+        <lb/>
+        <list>
+          <item>Im Jahre 1837 waren 130 Droschken</item>
+          <lb/>
+          <item>&#x201E; &#x201E; 1860 &#x201E; 1000 &#x201E;</item>
+          <lb/>
+          <item>&#x201E; &#x201E; 1876 &#x201E; 4242 &#x201E;</item>
+          <lb/>
+          <item>&#x201E; &#x201E; 1888 &#x201E; 4695 &#x201E;</item>
+          <lb/>
+          <item>&#x201E; &#x201E; 1891 &#x201E; 5600 &#x201E; in Berlin.</item>
+          <lb/>
+          <item>1846 existirte ein Omnibusverkehr auf 5 Linien mit 20 Wagen.</item>
+          <lb/>
+          <item>1860 &#x201E; &#x201E; &#x201E; &#x201E; 13 &#x201E; &#x201E; 47 &#x201E;</item>
+          <lb/>
+          <item>1864 &#x201E; &#x201E; &#x201E; &#x201E; 39 &#x201E; &#x201E; 393 &#x201E;</item>
+          <lb/>
+          <item>1865 &#x201E; &#x201E; &#x201E; &#x201E; 36 &#x201E; &#x201E; 305 &#x201E;</item>
+          <lb/>
+          <item>1866 &#x201E; &#x201E; &#x201E; &#x201E; 25 &#x201E; &#x201E; 192 &#x201E;</item>
+          <lb/>
+          <item>1876 &#x201E; &#x201E; &#x201E; &#x201E; 16 &#x201E; &#x201E; 177 &#x201E;</item>
+          <lb/>
+          <item>1885 &#x201E; &#x201E; &#x201E; &#x201E; &#x2014; &#x201E; &#x201E; 138 &#x201E;</item>
+          <lb/>
+          <item>1891 &#x201E; &#x201E; &#x201E; &#x201E; &#x2014; &#x201E; &#x201E; 255 &#x201E;</item>
+        </list>
+        <lb/>
+        <p>Befördert wurden anno 1891 28 Mill. Personen.</p>
+        <lb/>
+        <pb n="29" facs="#f0035"/>
+        <p>Als erste <hi rendition="#g">Pferdebahn</hi> wurde im Jahre 1865 am 25. August<lb/>die Berlin-Charlottenburger Pferdebahn mit 20 Wagen eröffnet.<lb/>Bis 1873 blieb diese die einzige Pferdebahn. 1872 erhielt<lb/>die &#x201E;Groſse Berliner Pferdebahn-Actiengesellschaft&#x201C; die Con-<lb/>cession für den Ausbau des Pferdebahnnetzes. Am 8. Juli<lb/>1873 fand die Eröffnung der ersten von dieser Gesellschaft<lb/>gebauten Strecke statt.</p>
+        <lb/>
+        <list>
+          <item>1873 waren im Betrieb 22 Wagen auf 12 000 m Gleis,</item>
+          <lb/>
+          <item>1876 &#x201E; &#x201E; &#x201E; 196 &#x201E; &#x201E; 90 000 &#x201E; &#x201E;</item>
+          <lb/>
+          <item>1881 &#x201E; &#x201E; &#x201E; 558 &#x201E; &#x201E; 172 000 &#x201E; &#x201E;</item>
+          <lb/>
+          <item>1888 &#x201E; &#x201E; &#x201E; 966 &#x201E; &#x201E; 285 000 &#x201E; &#x201E;</item>
+          <lb/>
+          <item>1891 &#x201E; &#x201E; &#x201E; 1220 &#x201E; &#x201E; 312 000 &#x201E; &#x201E;</item>
+        </list>
+        <lb/>
+        <p>auf denen im letztgenannten Jahr 145 Mill. Personen beför-<lb/>dert wurden.</p>
+        <lb/>
+        <p>Es existiren jetzt in Berlin 3 Pferdebahn-Actien-Gesell-<lb/>schaften:</p>
+        <lb/>
+        <list>
+          <item>1. die Berlin-Charlottenburger Pferdeeisenbahn-Gesellschaft,</item>
+          <lb/>
+          <item>2. &#x201E; Groſse Berliner &#x201E; &#x201E; &#x201E;</item>
+          <lb/>
+          <item>3. &#x201E; Neue Berliner &#x201E; &#x201E; &#x201E;</item>
+        </list>
+        <lb/>
+        <p>Dampfstraſsenbahnen innerhalb des Weichbildes von Berlin<lb/>sind nicht vorhanden, dagegen führen vom Westen Berlins Dampf-<lb/>straſsenbahnen nach dem Grunewald (seit 1885) und nach<lb/>Wilmersdorf und Steglitz (seit 1888).</p>
+        <lb/>
+        <p>Der Personenverkehr nach den an der Spree belegenen<lb/>Vororten wird auſserdem noch durch Personendampfer bewirkt,<lb/>und zwar von der Spree-Havel-Dampfschiffahrtsgesellschaft<lb/>Stern. Diese, 1888 gegründet, erwarb die der Stralauer<lb/>Dampfschiffahrtsgesellschaft sowie der Berliner Dampfschiff-<lb/>fahrtsgesellschaft gehörenden Personendampfer. Im Jahre<lb/>1891 hat sie vermittelst 33 Dampfer 446 000 Personen be-<lb/>fördert.</p>
+        <lb/>
+        <p>Ich gehe nunmehr zu dem wichtigsten Verkehrsmittel,<lb/>zu den <hi rendition="#g">Eisenbahnen</hi>, über.</p>
+        <lb/>
+        <p>Auch hier lieſs sich zunächst die öffentliche Meinung<lb/>mit der bekannten Sicherheit zur Sache vernehmen.</p>
+        <lb/>
+        <pb n="30" facs="#f0036"/>
+        <p>In dem <hi rendition="#g">Preuſsischen Bürgerblatt</hi> Nr. 38 vom Jahre<lb/>1835 heiſst es:</p>
+        <lb/>
+        <p>&#x201E;Zuletzt ist für Eisenbahnen erforderlich, daſs sie gerade<lb/>sind. Sie können nicht um Ecken herumgeführt, oder auch<lb/>nur im Bogen angelegt werden, indem sonst die Wagen durch<lb/>die Schnelligkeit ihres Laufes bei der Krümmung aus der Bahn<lb/>hinausgeschleudert werden würden.&#x201C;</p>
+        <lb/>
+        <p>Ferner in der <hi rendition="#g">Cameralistischen Zeitung</hi> Nr. 24 vom<lb/>Jahre 1837:</p>
+        <lb/>
+        <p>&#x201E;Wir wollen auch hierin einige Andeutungen folgen lassen,<lb/>die bei dem Ankauf von Actien nicht ohne Nutzen sein<lb/>dürften.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;Je kürzer die Bahn, desto sicherer der Gewinn, usw.&#x201C;</p>
+        <lb/>
+        <p>&#x201E;<hi rendition="#g">Eine Eigenthümlichkeit der Eisenbahnen ist noch<lb/>die, daſs nur die Personenfrequenz Gewinn bringt,<lb/>und der Waarentransport wenig berücksichtigt werden<lb/>darf</hi>. Hiergegen ist nicht zu streiten, da dieser Satz durch<lb/>eine mehrfältige Erfahrung in England bereits dargethan ist,<lb/>und auch in Deutschland, die Bahn von Linz nach Budweiſs<lb/>in Böhmen, auf welcher nur wenige Personen fahren, bis<lb/>jetzt nur Deficit gebracht hat.&#x201C;</p>
+        <lb/>
+        <p>Wie beschränkt der Verkehr auf den ersten Bahnen sich<lb/>gestaltete, und welche Besorgnisse man in Bezug auf den<lb/>Verkehr hatte, geht daraus hervor, daſs der Betrieb bei Nacht<lb/>untersagt war; in der <hi rendition="#g">Vossischen Zeitung</hi> vom 25. Februar<lb/>1839 lesen wir unter <hi rendition="#g">Berlin</hi>:</p>
+        <lb/>
+        <p>&#x201E;Sicherem Vernehmen nach erwartet die Direction der<lb/>Berlin-Potsdamer Eisenbahn-Gesellschaft, auf ihr Gesuch vom<lb/>25. v. Mts. die höhere Erlaubniſs zur Einrichtung von <hi rendition="#g">Fahrten<lb/>im Dunkeln mit Pferden</hi>. Nach erlangter Erlaubniſs wird<lb/>beabsichtigt, zunächst morgens vor Abgang der Dampf-<lb/>fahrten, einmal, und abends zweimal, von jeder der zwei<lb/>Residenzstädte aus, mit Pferden zu fahren. &#x2014; Die Beförderung<lb/>soll auch mit Pferden, nach einem dieserhalb contractlich<lb/>gesicherten Verhältnisse, bei zweimaligem Relais, in 1½ Stunden,<lb/><pb n="31" facs="#f0037"/>
+und also fast eben so rasch als durch Dampffahrten im Dunkeln<lb/>stattfinden.&#x201C;</p>
+        <lb/>
+        <p>Des Ferneren lesen wir in der <hi rendition="#g">Vossischen Zeitung</hi> vom<lb/>22. Juni 1839 folgende Bekanntmachungen (Billetverkauf):</p>
+        <lb/>
+        <p>&#x201E;Zu den Steglitzer Fahrten erfolgt der Billetverkauf eine<lb/>Stunde vor der Abfahrt auf dem Vorplatz links am Bahnhofe<lb/>in der Hirschelstraſse, sowohl für die Hin- als Rückfahrt, und<lb/>wird darauf aufmerksam gemacht, <hi rendition="#g">sich für letztere die<lb/>Billets gleich mit zu besorgen, da in Steglitz keine<lb/>Casse befindlich ist</hi>.&#x201C;</p>
+        <lb/>
+        <p>In <hi rendition="#g">der ersten</hi> Zeit des Eisenbahnbetriebes der Berlin-<lb/>Potsdamer Bahn waren nämlich Billets am Bahnhof überhaupt<lb/>nicht zu verkaufen, vielmehr nur in der Gropiusschen Buch-<lb/>handlung.</p>
+        <lb/>
+        <p>Die Vossische Zeitung vom 27. September 1839 enthält<lb/>folgende Bekanntmachung:</p>
+        <lb/>
+        <p>
+          <hi rendition="#c"><hi rendition="#g">Direction der Berlin-Potsdamer Eisenbahn-<lb/>Gesellschaft</hi>.</hi>
+        </p>
+        <lb/>
+        <p>
+          <hi rendition="#et"><hi rendition="#g">Berlin</hi>, 26. September 1839.</hi>
+        </p>
+        <lb/>
+        <p>&#x201E;Da die jedesmalige Heizung einer kleinen Locomotive<lb/>nicht viel mehr kostet, als wir bisher für ein Pferd pro Fahrt<lb/>bezahlten, so fallen künftig die Fahrten mit Pferden ganz weg.&#x201C;</p>
+        <lb/>
+        <p>Als Beweis der verschiedenartigen Besorgnisse sei<lb/>folgender Stadtverordnetenbeschluſs, Berlin, 19. November<lb/>1840, angeführt:</p>
+        <lb/>
+        <p>&#x201E;Der Stadtverordnete Herr Denant hat in einer uns über-<lb/>reichten Vorstellung auf die nachtheiligen Folgen aufmerksam<lb/>gemacht, welche für das hiesige Publicum rücksichts der<lb/>Holzpreise daraus entstehen können, daſs die Eisenbahn-<lb/>gesellschaften die Heizung mit Steinkohlen und Coacs auf-<lb/>geben und dafür die Holzfeuerung gewählt haben.</p>
+        <lb/>
+        <p>Wir halten diesen Gegenstand der Beachtung sehr werth,<lb/>und indem wir uns beehren, Einem Hochedlen Magistrat Ab-<lb/>schrift jener Vorstellung zu übersenden, ersuchen wir er-<lb/>gebenst, solche einer Berathung gefälligst unterwerfen und<lb/>die Frage erörtern zu wollen, was zur Abwendung der ge-<lb/><pb n="32" facs="#f0038"/>
+fürchteten Nachtheile sich etwa seitens der Communalbehörden<lb/>thun lasse.</p>
+        <lb/>
+        <p>
+          <hi rendition="#c">Stadtverordnete zu Berlin.</hi>
+        </p>
+        <lb/>
+        <p>
+          <hi rendition="#c">gez. <hi rendition="#g">Deſselmann. L. Becker</hi>.</hi>
+        </p>
+        <lb/>
+        <p>An<lb/>Einen Hochedlen Magistrat<lb/>hiesiger Residenz.</p>
+        <lb/>
+        <p>Diese Frage beschäftigt längere Zeit den Magistrat und<lb/>wird endlich durch ein 30 Seiten langes Gutachten des Stadt-<lb/>raths Risch erledigt, der empfiehlt, <hi rendition="#g">keine</hi> Maſsregeln zu<lb/>ergreifen.</p>
+        <lb/>
+        <p>Nachdem die Neugierde des Publicums in Hinsicht auf<lb/>die Eisenbahnen befriedigt war, scheint der Verkehr abge-<lb/>nommen zu haben:</p>
+        <lb/>
+        <p>Die <hi rendition="#g">Vossische Zeitung</hi> vom 6. Januar 1843 schreibt:<lb/>Auf der Berlin-Potsdamer Eisenbahn sind gefahren:</p>
+        <lb/>
+        <list>
+          <item>1839. 664 828 Personen. Einnahme 178 108 Thlr.</item>
+          <lb/>
+          <item>1840. 660 162 &#x201E; &#x201E; 174 935 &#x201E;</item>
+          <lb/>
+          <item>1841. 579 481 &#x201E; &#x201E; 157 958 &#x201E;</item>
+          <lb/>
+          <item>1842. 500 906 &#x201E; &#x201E; 145 490 &#x201E;</item>
+        </list>
+        <lb/>
+        <p>Für den Straſsen-Verkehr führten zunächst die zahl-<lb/>reichen Niveau-Uebergänge der Eisenbahnen mancherlei Be-<lb/>lästigungen mit sich.</p>
+        <lb/>
+        <p>In dem Bericht über die Gemeinde-Verwaltung der Stadt<lb/>Berlin in den Jahren 1861 bis 1876 heiſst es:</p>
+        <lb/>
+        <p>Die Polizeibehörde versuchte, die Stockungen des Straſsen-<lb/>verkehrs auf ein bestimmtes Zeitmaſs einzuschränken, indem<lb/>sie für die Berlin-Potsdam-Magdeburger und Anhalter Eisen-<lb/>bahn bestimmte, daſs auſserhalb des fahrplanmäſsigen Be-<lb/>triebes die Sperrung der beiden <choice><sic>Uferstraſseu</sic><corr>Uferstraſsen</corr></choice> des Landwehr-<lb/>canals in der Regel nicht öfter als viermal in der Stunde<lb/>stattfinden, daſs keine Sperrung länger als 7 Minuten dauern<lb/>dürfe und zwischen je zwei Sperrungen mindestens ein Zeit-<lb/>raum von 5 Minuten liegen müsse.</p>
+        <lb/>
+        <p>Erst im Jahre 1867 trat eine Besserung dadurch ein,<lb/>daſs die beiden Bahnverwaltungen sich damit einverstanden<lb/><pb n="33" facs="#f0039"/>
+erklärten, die in dem oben angeführten Regulativ auf 7 Mi-<lb/>nuten bemessene Sperrungsdauer auf 4 Minuten herabzusetzen.<lb/>Ein weiteres war nicht zu erreichen. Erst die Verhandlungen<lb/>aus Veranlassung der für den Potsdamer sowohl als für den<lb/>Anhalter Bahnhof projectirten Erweiterungsbauten gaben die<lb/>Möglichkeit, so viel zu erreichen, daſs die Gesellschaften sich<lb/>verpflichteten, die Niveaukreuzungen am Schöneberger und<lb/>Tempelhofer Ufer in Unterführungen der Straſsen umzu-<lb/>wandeln. Diese Verpflichtung ist in den Jahren 1870/71<lb/>bezw. im Jahre 1879 erfüllt worden.</p>
+        <lb/>
+        <p>Auch bei der Stettiner Bahn muſsten die Züge behufs<lb/>Rangirens über das ursprüngliche Bahnhofsterrain hinaus-<lb/>gehen und zu diesem Zwecke wurde dann die Straſsenkreu-<lb/>zung an der Liesenstraſse für den Verkehr geschlossen.</p>
+        <lb/>
+        <p>Im Jahre 1876 entschlossen sich die Staatsbehörden,<lb/>von der Bahngesellschaft eine solche Umgestaltung der Gleise<lb/>zu verlangen, daſs das <hi rendition="#g">Rangiren</hi> der Züge auf dem Niveau-<lb/>übergange gänzlich beseitigt würde.</p>
+        <lb/>
+        <p>Bei den in neuerer Zeit angelegten Bahnen: der Ost-<lb/>bahn, der Görlitzer, der Berlin-Lehrter, der Dresdener, sind<lb/>Niveaukreuzungen von Hause aus vermieden worden.</p>
+        <lb/>
+        <p>Die in den Jahren 1850 und 1851 hergestellte, jetzt<lb/>beseitigte Verbindungsbahn, welche den Stettiner mit dem<lb/>Hamburger, dem Potsdamer, dem Anhaltischen und dem<lb/>Bahnhofe der Niederschlesisch-Märkischen Eisenbahn verband,<lb/>war fast in ihrer ganzen Ausdehnung in den Straſsendamm<lb/>bestehender, zum Theil sehr frequenter Straſsen eingelegt, so-<lb/>daſs sie Straſsen, wie die Invalidenstraſse, den Platz vor dem<lb/>Brandenburger Thore, den Potsdamer und den Askanischen<lb/>Platz für einen groſsen Theil des Tages und der Nacht ihrer<lb/>eigentlichen Bestimmung entziehen muſste.</p>
+        <lb/>
+        <p>Beschwerden wurden abschlägig beschieden; ein solcher<lb/>Bescheid war folgendermaſsen motivirt: &#x201E;Auch die seiner Zeit<lb/>auſserhalb der Stadt angelegten Bahnhöfe liegen bereits im<lb/>Innern der Stadt und mit ihnen einige nicht unbedeutende<lb/>Strecken der einmündenden Eisenbahnen. Bei der fort-<lb/>schreitenden Ausdehnung Berlins wird dies noch in weit<lb/><fw type="sig" place="bottom">3</fw><lb/><pb n="34" facs="#f0040"/>
+höherem Maſse stattfinden, der Straſsen- und Bahnverkehr<lb/>auf langen Strecken nebeneinander herlaufen, und der letztere<lb/>damit das Fremdartige, wie den Anschein des Gefährlichen<lb/>verlieren, welcher jetzt noch so häufig den Wunsch, ihn von<lb/>den Straſsen entfernt zu sehen, hervorruft.&#x201C;</p>
+        <lb/>
+        <p>Doch schon nach Jahresfrist anerkannten die Staats-<lb/>behörden selbst die Unmöglichkeit des Fortbestehens <hi rendition="#g">dieser</hi><lb/>Verbindungsbahn und beschlossen, dieselbe in ihrer ganzen<lb/>Ausdehnung nach der Peripherie des städtischen Weich-<lb/>bildes hinauszulegen und derselben eine solche Richtung und<lb/>Höhenlage zu geben, daſs Niveaukreuzungen möglichst ver-<lb/>mieden würden. Das Gesetz vom 9. März 1867 genehmigte<lb/>den Bau dieser neuen Verbindungsbahn. Sie ist am 17. Juli<lb/>1871 eröffnet, sodaſs an diesem Tage der Verkehr auf den<lb/>Straſsen Berlins von einer Fessel befreit wurde, die ihm<lb/>zwanzig Jahre hindurch einige seiner Hauptadern auf die<lb/>empfindlichste Weise unterbunden hatte.</p>
+        <lb/>
+        <p>In Bezug auf die <hi rendition="#g">Eisenbahnen</hi> selbst sind folgende<lb/>Daten zu bemerken:</p>
+        <lb/>
+        <p>Am 30. October 1838 <hi rendition="#g">Berlin-Potsdamer Bahn</hi> eröffnet;<lb/>1846 bis Magdeburg verlängert. 1870&#x2014;72 Umbau des Pots-<lb/>damer Bahnhofs, Hochlegung des Bahnhofs und Ueberführung<lb/>über die Uferstraſsen am Landwehrcanal.</p>
+        <lb/>
+        <p>Am 10. September 1841 <hi rendition="#g">Sächsische (Anhalter) Bahn</hi><lb/>eröffnet; 1879 Bahnhof umgebaut und höher gelegt. Ueber-<lb/>führung der Gleise über die Canalstraſsen bewirkt.</p>
+        <lb/>
+        <p>Am 30. Juli 1842 <hi rendition="#g">Stettiner Bahn</hi> eröffnet; Bahnhofs-<lb/>umbau 1879. Ueberführung der Gleise bezw. Unterführung<lb/>der Acker- und Gartenstraſse 1891/92.</p>
+        <lb/>
+        <p>Am 23. October 1842 <hi rendition="#g">Niederschlesisch-Märkische<lb/>Bahn</hi> eröffnet.</p>
+        <lb/>
+        <p>Am 15. December 1846 <hi rendition="#g">Hamburger Bahn</hi> eröffnet.</p>
+        <lb/>
+        <p>Am 31. December 1867 <hi rendition="#g">Berlin-Görlitzer Bahn</hi> er-<lb/>öffnet.</p>
+        <lb/>
+        <p>Am 1. October 1867 <hi rendition="#g">Ostbahnanschluſs</hi> nach Berlin<lb/>fertiggestellt; 1846 war schon mit dem Bau als <hi rendition="#g">erste</hi> auf<lb/>Staatskosten gebaute Bahn begonnen.</p>
+        <lb/>
+        <pb n="35" facs="#f0041"/>
+        <p>Am 1. November 1871 <hi rendition="#g">Lehrter Bahn</hi> eröffnet.</p>
+        <lb/>
+        <p>1875. <hi rendition="#g">Berlin-Dresdner Bahn</hi> und <hi rendition="#g">Berliner Nord-<lb/>bahn</hi> eröffnet.</p>
+        <lb/>
+        <p>1850/51. <hi rendition="#g">Alte Berliner Ringbahn</hi> gebaut.</p>
+        <lb/>
+        <p>Am 17. Juni 1871 <hi rendition="#g">Neue Ringbahn</hi> eröffnet und die<lb/>alte Ringbahn cassirt.</p>
+        <lb/>
+        <p>Am 7. Februar 1882 <hi rendition="#g">Stadtbahn</hi> eröffnet.</p>
+        <lb/>
+        <p>Eine bedeutende Umwälzung hat die Stadtbahn im Fern-<lb/>verkehr bewirkt. Der Ostbahnhof ist ganz eingegangen, die<lb/>Züge wurden auf die Stadtbahn geführt. Der Niederschlesisch-<lb/>Märkische Bahnhof wurde in den Schlesischen Bahnhof um-<lb/>gebaut. Die Schnellzüge der Lehrter, Hamburger und Pots-<lb/>damer Bahn wurden auf die Stadtbahn geführt. &#x2014; Neuerdings<lb/>sind einzelne dieser Maſsregeln rückgängig gemacht wegen<lb/>Ueberlastung der Stadtbahn.</p>
+        <lb/>
+        <p>Nach Inbetriebsetzung der Stadtbahn sind der Bahnhof<lb/>Thiergarten und Bahnhof Warschauer Straſse gebaut, auch<lb/>der Bahnhof Zoologischer Garten in einen Fernbahnhof um-<lb/>gebaut.</p>
+        <lb/>
+        <p>Ueber den colossalen Verkehr auf den Eisenbahnen stehen<lb/>mir im einzelnen Zahlen nicht zu Gebote, nur den <hi rendition="#g">Ver-<lb/>kehr auf der Stadtbahn</hi> habe ich 1888 mit 22 Millionen<lb/>Personen und 1891 mit 47 Millionen Personen (Stadt- und<lb/>Ringbahn einschl. Grunewald) angegeben gefunden.</p>
+        <lb/>
+        <p>Neben den in Berlin mündenden Landstraſsen bildete die<lb/><hi rendition="#g">Spree</hi> und ihre Verzweigungen mit den Fluſsgebieten der<lb/>Oder und der Elbe die Hauptverbindung mit den östlichen<lb/>Provinzen und der Nord- und Ostsee.</p>
+        <lb/>
+        <p>Seit Menschen Gedenken spaltete der Strom sich vor<lb/>seinem Eintritt in das alte Stadtgebiet von Berlin und Kölln<lb/>in zwei Arme, die sich nach kurzem Laufe von etwa 1500 m<lb/>wieder vereinigten. Der nördliche war durch ein mit einer<lb/>Mühlenanlage verbundenes Stauwerk der Schiffahrt ver-<lb/>schlossen, während der südliche, der sogenannte Schleusen-<lb/>canal, welcher mit einer um 1450 errichteten, im Laufe der<lb/>Zeit mehrfach umgebauten Schleuse versehen ist, bis in die<lb/>Mitte dieses Jahrhunderts hinein die einzige Schiffahrtsver-<lb/><pb n="36" facs="#f0042"/>
+bindung zwischen Ober- und Unterspree, und so zwischen<lb/>Elbe und Oder geblieben ist.</p>
+        <lb/>
+        <p>Diesem unscheinbaren, häufig in seiner Bedeutung ver-<lb/>kannten und namentlich von Nichtberlinern belächelten Fluſs<lb/>verdankt die Hauptstadt des deutschen Reiches nicht zum<lb/>kleinsten Theile ihr Wachsthum und ihre Blüthe.</p>
+        <lb/>
+        <p>Die Zahl der auf der Spree innerhalb Berlins verkehren-<lb/>den Fahrzeuge belief sich im Jahre 1804 auf etwa 24 700 Stück<lb/>oder bei etwa 182 000 Einwohnern auf 13,5 Stück pro 100 Ein-<lb/>wohner und im Jahre 1840 auf etwa 48 350 Stück oder bei<lb/>etwa 328 700 Einwohnern auf 14,7 Stück pro 100 Einwohner.</p>
+        <lb/>
+        <p>Im Jahre 1845 wurde mit dem Bau des etwa 10,3 km<lb/>langen Schiffahrtscanals begonnen, welcher auf der Südseite der<lb/>Stadt oberhalb des Oberbaumes mittels einer Schiffsschleuse<lb/>und Freiarche sich abzweigte, und, indem er im allgemeinen<lb/>dem Lauf des alten Landwehrgrabens folgte, sich unmittelbar<lb/>oberhalb Charlottenburgs ebenfalls mittels Schiffsschleuse und<lb/>Freiarche mit der Unterspree wieder vereinigte.</p>
+        <lb/>
+        <p>Zwischen der Potsdamer und Anhaltischen Eisenbahn<lb/>wurde dieser Canal mit einem Hafen für etwa 35 Schiffe aus-<lb/>gestattet. Diese Anlagen waren 1850 vollendet.</p>
+        <lb/>
+        <p>Noch während der Ausführung des Landwehrcanales<lb/>wurde der sogenannte Spandauer Schiffahrtscanal, welcher<lb/>oberhalb Spandau in das Oberwasser der Havel mündet, be-<lb/>gonnen und bis zum Jahre 1859 beendet. Unmittelbar an<lb/>seinem Austritte aus der Spree erhielt der neue Wasserweg<lb/>eine zu einer Hafenanlage für 40 Schiffe, dem Humboldt-<lb/>Hafen, ausgebildete Erweiterung, der in Entfernung von<lb/>etwa 1200 m eine zweite derartige etwa gleich groſse An-<lb/>lage, der Nordhafen, folgte.</p>
+        <lb/>
+        <p>Im Jahre 1882 stellte die Königliche Staatsregierung eine<lb/>Erweiterung des Landwehrcanales her, indem sie die flachen<lb/>Erdböschungen durch schwach geneigte Revetementsmauern<lb/>ersetzte und so Raum für vier nebeneinander liegende bezw.<lb/>aneinander vorbeifahrende Fahrzeuge schaffte.</p>
+        <lb/>
+        <p>Im Jahre 1879 war die Königliche Staatsregierung daran-<lb/>gegangen, unter Zustimmung des Landtages die Märkischen<lb/><pb n="37" facs="#f0043"/>
+Wasserstraſsen zu erweitern und insbesondere durch die Regu-<lb/>lirung der Spree unterhalb Charlottenburgs gröſseren Kähnen<lb/>von 8&#x2014;10 000 Ctr. Tragfähigkeit den Weg ins Innere der<lb/>Stadt Berlin bis zum Neuen Packhof zu öffnen; sie hatte sich<lb/>dann ferner im Jahre 1886 durch den Landtag einen Credit<lb/>in Höhe von 12 600 000 &#x2133; bewilligen lassen, um durch Her-<lb/>stellung des Oder-Spree-Canales die Schiffsverbindung von<lb/>der Oder nach der Oberspree auch für Fahrzeuge gröſsester<lb/>Abmessung nutzbar zu machen. Aber trotzdem war durch<lb/>diese groſsartigen Bauanlagen jenen noch immer nicht die<lb/>Möglichkeit gewährt, aus der Oberspree in die Unterspree<lb/>und umgekehrt zu gelangen, und die dem äuſserst wichtigen<lb/>Durchgangsverkehr von der Elbe (Hamburg und Magdeburg)<lb/>nach der oberen Oder (Breslau und Cosel) durch den Auf-<lb/>stau der Spree innerhalb Berlins gezogene Schranke war<lb/>noch immer nicht beseitigt. Die Regulirung der Spree inner-<lb/>halb des Berliner Weichbildes, welche auf gemeinschaftliche<lb/>Kosten der Königlichen Staatsregierung und der Stadtgemeinde<lb/>Berlin im Jahre 1888 begonnen, und im groſsen und ganzen<lb/>im Laufe des gegenwärtigen Jahres ihre Beendigung finden<lb/>wird, hilft diesem Uebelstande ab.</p>
+        <lb/>
+        <p>Die Kosten des gesamten Entwurfes sind auf 11 000 000 &#x2133;<lb/>veranschlagt, davon entfallen 4 600 000 &#x2133; auf Arbeiten,<lb/>welche, wie die Verbreiterung des Mühlendammes, der Fischer-<lb/>brücke, der Mühlenwegbrücken usw. dem Landverkehr zu<lb/>gute kommen und deshalb von der Stadtgemeinde allein ge-<lb/>tragen werden, während der Rest von 6 400 000 &#x2133;, welche<lb/>zur Verbesserung der Wasserstraſse verwendet werden sollen,<lb/>zu gleichen Theilen der Königlichen Staatsregierung und der<lb/>Stadt zur Last fällt.</p>
+        <lb/>
+        <p>Welchen Einfluſs seit dem Beginne des uns beschäfti-<lb/>genden Zeitabschnittes die Schiffahrt für die Entwicklung von<lb/>Berlin gehabt hat, möge aus folgenden Angaben über die<lb/>Zunahme der auf den Wasserstraſsen Berlins verkehrenden<lb/>Schiffe und die durch letztere beförderten Waren erkannt<lb/>werden:</p>
+        <lb/>
+        <p>Die im Jahre 1840 im Innern Berlins die Spree befah-<lb/><pb n="38" facs="#f0044"/>
+renden Schiffsgefäſse sind, wie oben bereits angegeben, auf<lb/>etwa 48 350 Stück ermittelt worden, die durch dieselben be-<lb/>förderten Waren betrugen gegen 21 200 000 Ctr. Im Jahre<lb/>1890 dagegen war die Zahl der Fahrzeuge auf etwa 92 000<lb/>Stück angewachsen, und die von ihnen aufgenommene<lb/>Ladung hatte ein Gewicht von etwa 100 000 000 Ctrn. In<lb/>dem Zeitlauf von 48 Jahren hatte sich demnach die Zahl der<lb/>Schiffsgefäſse beinahe verdoppelt, während das Gewicht der<lb/>ihnen anvertraut gewesenen Ladung sich fast um das Fünf-<lb/>fache gehoben hatte.</p>
+        <lb/>
+        <p>Für die Anlage eines neuen Hafens, der am linken Ufer<lb/>des Landwehrcanales, auf den Ländereien des ehemaligen<lb/>Urbans, seine Stelle finden soll, haben inzwischen die städti-<lb/>schen Behörden die Mittel in Höhe von 3 800 000 &#x2133; bewilligt<lb/>und zu seiner Ausführung Auftrag gegeben. Dieser Hafen<lb/>soll etwa 70 Schiffen Raum gewähren.</p>
+        <lb/>
+        <p>Ein erhebliches Hinderniſs in einer von lebhaftem<lb/>Straſsenverkehr durchzogenen Stadt bilden die natürlichen<lb/>und künstlichen Wasserläufe. Wie wir vorher gesehen, war<lb/>Berlin seit Jahrhunderten mit solchen Wasserstraſsen reichlich<lb/>gesegnet, und auch das jetzige Jahrhundert hat es nicht daran<lb/>fehlen lassen, die Zahl derselben zu vermehren.</p>
+        <lb/>
+        <p>Ein kurz vor dem Beginn des uns beschäftigenden Zeit-<lb/>abschnittes erschienenes, lexicographisch geordnetes Handbuch<lb/>für Berlin und Potsdam giebt die Zahl der in Berlin selbst<lb/>befindlichen Brücken auf etwa 40 an, zu denen noch 20 Brücken<lb/>über die Spree, den Landwehrgraben und die Panke in der<lb/>nächsten Umgebung der Hauptstadt hinzuzurechnen sind.</p>
+        <lb/>
+        <p>Diese Brücken waren mit geringen Ausnahmen vom<lb/>Staate errichtet und auch von diesem in baulichen Würden<lb/>gehalten. Daſs dieselben in Bezug auf ihr Aeuſseres und ihre<lb/>Construction sich besonders auszeichneten, lieſs sich mit Aus-<lb/>schluſs der Langen Brücke, der seitdem verschwundenen<lb/>Herkulesbrücke, der Königsbrücke und der Schloſsbrücke,<lb/>und etwa noch der Weidendammer- und Friedrichsbrücke,<lb/>nicht behaupten. Die gröſseste Mehrzahl der Brücken, vor-<lb/>nehmlich die über die schiffbaren Wasserstraſsen, war als<lb/><pb n="39" facs="#f0045"/>
+hölzerne Lochbrücken construirt, oder besaſs einen auf<lb/>massiven Pfeilern ruhenden hölzernen Ueberbau; dazu waren<lb/>sie sämtlich mit beweglichen Klappen versehen, um bei ihrer<lb/>den angrenzenden Straſsen entsprechend tiefen Lage bei<lb/>höheren Wasserständen die Schiffsfahrzeuge durchzulassen.</p>
+        <lb/>
+        <p>Auch die Breitenabmessungen dieser Brücken waren<lb/>häufig sehr geringe und erreichten vielfach bei weitem nicht<lb/>die Breite der Straſsen, in deren Zuge sie sich befanden; so<lb/>hatte beispielsweise die Weidendammerbrücke einschlieſslich<lb/>der Bürgersteige nur eine Breite von 10 m, die Ebertsbrücke<lb/>eine solche von 8,45 m, die auf den Klappen sich bis auf<lb/>5,65 m verschmälerte.</p>
+        <lb/>
+        <p>Erst bei dem Bau des Spandauer Schiffahrtscanals ging<lb/>man dazu über, die ihn überschreitenden Brücken so hoch<lb/>zu legen, daſs die Schiffe unter denselben bei jedem Wasser-<lb/>stande passiren konnten, und die seitdem über die Wasser-<lb/>läufe Berlins errichteten Brückenbauwerke sind fast ohne<lb/>Ausnahme mit festem Ueberbau versehen worden, wie z. B.<lb/>die in den Jahren 1858&#x2014;65 vom Staate erbauten Alsen- und<lb/>Moltkebrücke und die von der Stadt in den Jahren 1870&#x2014;74<lb/>über die Oberspree errichtete Schillingsbrücke.</p>
+        <lb/>
+        <p>Durch den bei der Besprechung der öffentlichen Straſsen<lb/>bereits erwähnten, zwischen dem preuſsischen Staatsfiscus und<lb/>der Stadtgemeinde geschlossenen Vertrag, wonach die ge-<lb/>samte Straſsen- und Brückenbaulast gegen eine jährliche, vom<lb/>Staate zu zahlende Rente von rot. 556 400 Mark, die später<lb/>durch eine einmalige Zahlung von 11 128 000 Mark abgelöst<lb/>worden ist, vom 1. Januar 1876 an die Stadtgemeinde über-<lb/>ging, wurde für alle Zukunft der Stadt die Verpflichtung auf-<lb/>erlegt, die Kosten sowohl für die bauliche Erhaltung aller<lb/>im Weichbilde Berlins befindlichen Brücken als auch die für<lb/>etwa neu zu errichtende Bauwerke zu übernehmen.</p>
+        <lb/>
+        <p>Besaſs die Stadtgemeinde in ihrer Unterhaltung bis zu<lb/>dem gedachten Zeitpunkte nicht mehr als 1 Brücke über die<lb/>Spree, 3 über den Landwehr- und Luisenstädtischen Canal,<lb/>3 über den Grünen Graben und 14 über die Panke und<lb/>sonstige offene Gräben, so traten mit Abschluſs des Vertrages<lb/><pb n="40" facs="#f0046"/>
+hinzu 25 Brücken über die Spree, 16 über den Grünen Graben,<lb/>5 über den Königsgraben, 21 über den Landwehr- und den<lb/>Luisenstädtischen Canal, 4 über den Spandauer Schiffahrts-<lb/>Canal und 21 über die Panke und sonstige kleinere Gewässer.<lb/>Eine erste Folge davon war, daſs die zur Unterhaltung<lb/>der Brücken jährlich aufzuwendende Summe, welche im<lb/>Jahre 1875 sich noch auf 4605 Mark gestellt hatte, im<lb/>Jahre 1876 bis auf 156 000 Mark anschwoll und seitdem<lb/>etwa zwischen 65 000 und 110 000 Mark jährlich geschwankt<lb/>hat; die weitere, aber viel folgenschwerere Consequenz war<lb/>aber die, daſs die Stadt sofort zu einem Neubau der meisten<lb/>der von ihr übernommenen Brücken zu schreiten sich ge-<lb/>zwungen sah, da dieselben zum Theil baufällig waren und<lb/>durchweg nicht mehr genügten. In welcher Weise die Ge-<lb/>meindeverwaltung dieser ihr durch den Vertrag von 1875<lb/>übertragenen Obliegenheit nachgekommen ist, mag daraus<lb/>geschlossen werden, daſs sie seit dieser Zeit, abgesehen von<lb/>verschiedenen Brücken über die Panke und der Verbreiterung<lb/>einiger noch mit Klappen versehenen Brücken, zur Ausführung<lb/>gebracht hat:
+        <lb/>
+        <list>
+          <item>7 Brücken über die Spree,</item>
+          <lb/>
+          <item>4 Brücken über den Landwehrcanal,</item>
+          <lb/>
+          <item>2 Brücken über den Luisenstädtischen Canal,</item>
+          <lb/>
+          <item>1 Brücke über den Spandauer Schiffahrtscanal und</item>
+          <lb/>
+          <item>4 Fuſsgängerbrücken über die verschiedenen genann-<lb/>ten Wasserläufe,</item>
+        </list>
+        <lb/>
+        daſs ferner in Ausführung sich befinden über die Spree: die<lb/>Mühlendammbrücke, die Mühlenwegbrücke, die Fischerbrücke,<lb/>die Waisenbrücke, die Friedrichsbrücke und die Ebertsbrücke,<lb/>und über den Landwehrcanal die Cottbuser Brücke, Bauten,<lb/>deren Beendigung noch im Laufe dieses Jahres zu erwarten<lb/>ist. Die Kosten der in der Zeit seit 1876 neuerbauten Brücken<lb/>über die schiffbaren Wasserstraſsen Berlins haben betragen<lb/>in runder Zahl 9 900 000 Mark, die Kosten der im Bau be-<lb/>griffenen werden sich auf etwa 4 500 000 &#x2014; 5 000 000 Mark<lb/>stellen, sodaſs in den Jahren von 1876 bis Ende 1893 für<lb/><pb n="41" facs="#f0047"/>
+Verbesserung der Brücken seitens der Stadt ein Betrag von<lb/>14&#x2014;15 000 000 Mark aufgewendet sein wird.</p>
+        <lb/>
+        <p>M. H.! Ich komme zum Schluſs.</p>
+        <lb/>
+        <p>Förderndes Eingreifen und eine allzeit bewiesene Wohl-<lb/>geneigtheit der preuſsischen Fürsten &#x2014; ein unbeirrtes Vor-<lb/>angehen der Königlichen Staatsbehörden &#x2014; endlich Opfer-<lb/>willigkeit der städtischen Behörden haben in dem kurzen<lb/>Zeitraum eines halben Jahrhunderts in Berlin geschaffen, was<lb/>in seiner Gröſse vielleicht beispiellos dasteht, und thatsächlich<lb/>die Bewunderung Einsichtiger hervorruft. Wenn in der Zu-<lb/>kunft das richtige Verständniſs für die eigenen, <hi rendition="#g">wahren</hi><lb/>Interessen auf keiner Seite erlahmt, nicht Miſstrauen das be-<lb/>stehende Vertrauen ersetzt &#x2014; das Sich-Vertragen und damit<lb/><hi rendition="#g">der</hi> Vertrag das Ziel aller Betheiligten bleibt &#x2014; dann wird<lb/>auch wie bisher Verkehr, Wohlhabenheit und Leistungsfähig-<lb/>keit, &#x2014; nicht nur zum Nutzen der Gemeinde, sondern des<lb/>ganzen Landes und zur Förderung jedes vaterländischen<lb/>Zweckes in der Landes- und Reichshauptstadt zunehmen.</p>
+      </div>
+      <lb/>
+      <milestone unit="section" rendition="#hr"/>
+    </body>
+    <back>
+      <div type="imprint">
+        <p>Druck von J. <hi rendition="#g">Kerskes</hi>, Berlin C. Niederwallstr. 22</p>
+      </div>
+      <lb/>
+      <pb facs="#f0048"/>
+      <pb facs="#f0049"/>
+      <pb facs="#f0050"/>
+      <pb facs="#f0051"/>
+    </back>
+  </text>
+</TEI>

@@ -1,0 +1,1755 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front>Au&sr; der Werkstatt
+eine&sr;
+<b><g>Wörterbuchschreiber&sr;.</g></b>
+<hr>
+<g>Plaudereien</g>
+von
+<b><g>Daniel Sander&sr;.</g></b>
+<hr>
+<b>Berlin.</b>
+<g>Verlag von Han&sr; Lüstenöder</g>.
+1889.</front>
+<pb>
+<abb>
+<pb>
+<front>Au&sr; der Werkstatt
+eine&sr;
+<b><g>Wörterbuchschreiber&sr;.</g></b>
+<hr>
+<g>Plaudereien</g>
+von
+<b><g>Daniel Sander&sr;.</g></b>
+<hr>
+<b>Berlin.</b>
+<g>Verlag von Han&sr; Lüstenöder</g>.
+1889.</front>
+<pb>
+<pb>
+<front><b>Au&sr; der Werkstatt eine&sr; Wörterbuchschreiber&sr;.</b></front>
+<hr>
+<bs>1*</bs>
+<pb>
+<pb>
+<front><b>Meinem lieben &201E;Erbfreunde&201C;,</b>
+Herrn
+<g>Sanität&sr;rath</g> <aq>Dr.</aq> <g>Eduard Mayer</g>
+in Halle a/S.
+<hr>
+&1F2E; &03F1;&1FFE;&03AC; &03BD;&03CD; &03BC;&03BF;&03B9; &03BE;&03B5;&1FD6;&03BD;&03BF;&03C2; &03C0;&03B1;&03C4;&03F1;&03CE;&03CA;&03CC;&03C2; &1F10;&03C3;&03C3;&03B9; &03C0;&03B1;&03BB;&03B1;&03B9;&03CC;&03C2;.
+..... &1F44;&03C6;&03F1;&03B1; &03BA;&03B1;&1F76; &03BF;&1F35;&03B4;&03B5;
+&03B3;&03BD;&1FF6;&03C3;&03B9;&03BD;, &1F45;&03C4;&03B9; &03BE;&03B5;&1FD6;&03BD;&03BF;&03B9; &03C0;&03B1;&03C4;&03F1;&03CE;&03CA;&03BF;&03B9; &03B5;&1F50;&03C7;&03CC;&03BC;&03B5;&03D1;&0315; &03B5;&1F36;&03BD;&03B1;&03B9;.</front>
+<pb>
+<pb="VII"/>
+<d1><b><g>Vorwort.</g></b></d1>
+<hr>
+<p><in>S</in>eit einiger Zeit ist der Abenheim&2019;sche Verlag &2014;
+und damit sind auch einige Bücher von mir, insonder-
+heit auch mein &201E;Ergänzung&sr;-Wörterbuch der deutschen
+Sprache&201C;, &2014; in die Hände eine&sr; andern Besitzer&sr; über-
+gegangen. Dieser, Herr Han&sr; Lüstenöder in Berlin,
+hat nun bei mir angefragt, ob ich nicht meine Schrift:
+&201E;Au&sr; der Werkstatt eine&sr; Wörterbuchschreiber&sr;&201C;, welche
+ich in der Vorrede zu dem genannten Ergänzung&sr;-
+Wörterbuche al&sr; eine in nicht allzulanger Frist zu ver-
+öffentlichende angekündigt und welche er gern in seinem
+Verlage zu meinem siebzigsten Geburt&sr;tage mit einem
+Bildni&sr; von mir und mit einem sich auf meine, de&sr;
+Wörterbuchschreiber&sr;, Thätigkeit beziehenden Spruche
+in meiner Handschrift erscheinen lassen möchte, über-
+lassen könne und wolle.</p>
+<pb="VIII"/>
+<p>Auf diese Anfrage mußte ich erwiedern, daß ich
+auf ein so freundliche&sr; Entgegenkommen sehr gern und
+bereitwillig eingehen würde, wenn e&sr; mir bei den be-
+reit&sr; übernommenen Verpflichtungen nicht gradezu un-
+möglich wäre, die gewünschte Schrift rechtzeitig für da&sr;
+Erscheinen zu dem angegebnen Zeitpunkte fertig zu
+stellen. &201E;Sie wissen wohl,&201C; &2014; schrieb ich &2014;, &201E;daß
+ich die den Anfang meiner Schrift bildenden beiden
+ersten Plaudereien 1888 in dem Maiheft der von Paul
+Lindau herau&sr;gegebnen Monat&sr;schrift: &201A;Nord und Süd&2018;
+veröffentlicht habe; aber ich muß hinzufügen, daß ich
+zu der weitern Au&sr;arbeitung de&sr; Übrigen bi&sr;her die
+Zeit noch nicht gefunden habe und auch jetzt noch
+nicht finden kann. Da Sie nun aber Gewicht auf
+den angegebnen Zeitpunkt legen, so möchte ich Ihnen
+einen Vorschlag machen. Die in Lindau&2019;&sr; &201A;Nord und
+Süd&2018; erschienenen beiden ersten Plaudereien bilden ja
+auch schon an und für sich ein kleine&sr;, einigermaßen
+in sich abgeschlossene&sr; Ganze, al&sr; welche&sr; ich sie eben
+auch den Lesern jener Zeitschrift bieten konnte. Lassen
+Sie un&sr; also diese beiden Plaudereien al&sr; eigene&sr;
+Büchlein in einem Neudruck veröffentlichen. Ihrem
+Wunsche gemäß will ich gern für ein demnächst auf-
+zunehmende&sr; Lichtbild von mir Sorge tragen, da&sr; al&sr;
+Grundlage meine&sr; dem Büchlein beizugebenden Bild-
+<pb="IX"/>
+nisse&sr; dienen kann, und auch ein Spruch dazu &2014;
+ganz wie Sie ihn wünschen &2014; liegt schon in Bereit-
+schaft. In einem Vorwort aber&201C; &2014; ich dachte dabei
+an da&sr;, auf welchem jetzt da&sr; Auge de&sr; geneigten
+Leser&sr; ruht &2014; &201E;will ich al&sr; eine kleine Zugabe einen
+Bericht über die eigenthümlichen Umstände hinzufügen,
+durch welche der angesponnene Faden meiner Plau-
+dereien am Schluß der zweiten abgerissen worden ist,
+einen Bericht, für den ich auf die Theilnahme der
+Leser rechnen zu dürfen glaube, und außerdem will
+ich mittheilen, in welcher Beziehung der meinem Bilde
+beizugebende Spruch zu meinem Wörterbuch steht.</p>
+<p>Zu Weiterem fehlt mir, wie gesagt, augenblicklich
+die nöthige Muße und damit auch die rechte Stim-
+mung. Wollte ich jetzt daran gehen, Ihrem Wunsche
+gemäß die Plaudereien fortzuführen und zum Abschluß
+zu bringen: ich müßte &2014; selbst wenn bei der äußersten
+Anspannung meiner Kräfte e&sr; mir gelänge, die Frist
+inne zu halten &2014; doch immer befürchten, etwa&sr; Über-
+hastete&sr; und nicht voll Au&sr;gereifte&sr; darzubieten; und
+Da&sr; möchte ich niemal&sr; und unter keiner Bedingung,
+natürlich am wenigsten aber zu dem Eintritt in einen
+für mich so bedeutsamen Leben&sr;abschnitt.</p>
+<p>Lassen wir e&sr; also zunächst bei der Buchau&sr;gabe
+der bereit&sr; veröffentlichten beiden Plaudereien und
+<pb="X"/>
+warten wir den Erfolg ab. Ist dieser der von un&sr;
+gewünschte und gehoffte, so wird, fall&sr; ein gütige&sr;
+Geschick mir weiter Leben und Kraft bewahrt, e&sr; mir
+sicher an dem Willen und an der Lust nicht fehlen,
+an den abgerissenen Faden neu anzuknüpfen und ihn
+fort und bi&sr; zu Ende zu spinnen. Mit der Zeit wird
+sich dazu dann auch die nöthige Muße und damit
+auch die jetzt fehlende richtige Stimmung finden.&201C;</p>
+<p>In seiner Antwort hierauf hat Herr Lüstenöder
+meinen Vorschlag angenommen, da er &2014; obgleich er
+e&sr; ander&sr; gewünscht hätte &2014; doch die volle Berech-
+tigung meiner Au&sr;einandersetzung nicht in Abrede
+stellen könne. Und so erscheint denn diese&sr; Büchlein
+zu der von dem Verleger gewünschten Zeit, wenn
+auch zunächst noch nicht in dem von ihm gewünschten
+Umfange.</p>
+<p>Ich lasse nun ohne Weitere&sr; die oben angekün-
+digten, dem Verleger für die Buchau&sr;gabe versprochenen
+Zugaben folgen.</p>
+<p><aq>Habent &sr;ua fata libelli</aq> oder, wie e&sr; in Goethe&2019;&sr;
+Sprüchen heißt, auch Bücher haben ihr Erlebte&sr;. Da&sr;
+ist mir bei keiner meiner Schriften so auffällig und
+eindringlich zum Bewusstsein gekommen, wie bei der
+vorliegenden, die zum Abschluß und bi&sr; zum Ende zu
+bringen, mir bi&sr; heute noch nicht vergönnt war.</p>
+<pb="XI"/>
+<p>Der Herau&sr;geber einer neu zu begründenden
+Zeitschrift hatte mich um einen Beitrag ersucht und
+dazu hatte ich die im raschen Zuge unmittelbar hinter
+einander niedergeschriebenen beiden ersten Plaudereien
+bestimmt. Ich rechnete auf sofortigen Abdruck und
+meine Absicht war, unmittelbar nachdem mir die ge-
+druckten Bogen zugegangen sein würden, die im Kopf
+ziemlich fertige Fortsetzung ununterbrochen hinter ein-
+ander niederzuschreiben; aber Woche auf Woche und
+nachher Monat auf Monat verging, ohne daß mir
+die Au&sr;hängebogen zugesandt wurden. Auf meine
+Mahnung empfing ich die Mittheilung, daß unvorher-
+zusehende Hindernisse, namentlich eine schwere Erkran-
+kung de&sr; Herau&sr;geber&sr;, da&sr; Erscheinen der neuen
+Zeitschrift um ein viertel Jahr hinau&sr;geschoben hätten,
+und daran schloß sich die Bitte, mich demgemäß zu
+gedulden. Da&sr; wiederholte sich mehrmal&sr;, da die
+Krankheit de&sr; Herau&sr;geber&sr; sich sehr in die Länge
+zog. Endlich aber wurde sie doch gehoben und nun
+erfolgte die öffentliche Ankündigung der neuen Zeit-
+schrift und namentlich auch meine&sr; dabei in erster
+Stelle genannten Aufsatze&sr;.</p>
+<p>&201E;Endlich!&201C; &2014; dachte ich bei mir &2014; und: &201E;Wa&sr;
+lange währt, wird gut&201C;. Die angekündigte Zeit de&sr;
+Erscheinen&sr; rückt näher und näher; da erhalte ich
+<pb="XII"/>
+urplötzlich &2014; e&sr; war grade an meinem Geburt&sr;tag &2014;
+al&sr; eine keine&sr;weg&sr; angenehme Überraschung eine
+Drahtbotschaft, ich möchte meinen Aufsatz doch schleu-
+nigst noch einmal einsenden, da er auf räthselhafte
+und unerklärliche Weise in der Druckerei spurlo&sr; ver-
+schwunden und trotz de&sr; eifrigsten Nachsuchen&sr; nicht
+wieder aufzufinden sei.</p>
+<p>Darauf mußte ich aber antworten: Ich kann den
+Aufsatz &2014; namentlich so urplötzlich &2014; nicht noch ein-
+mal einsenden, da ich weder eine Abschrift noch einen
+Entwurf besitze, und so erschien denn der erste Band
+der Zeitschrift ohne meinen Aufsatz, aber mit der &2014;
+den Uneingeweihten wohl schwer verständlichen &2014; Be-
+merkung im Briefkasten:
+<et>&201E;Die verehrten Leser, welchen wir im ersten
+Bande eine Arbeit de&sr; .... Sprachforscher&sr; Daniel
+Sander&sr; versprachen, bitten wir um Entschuldigung,
+daß wir die Erfüllung diese&sr; Versprechen&sr; beson-
+derer Gründe halber aufschieben mußten.&201C;</et></p>
+<p>Ein zweiter Band der Zeitschrift aber ist niemal&sr;
+erschienen; und die Leser werden begreiflich finden, daß
+ich nicht daran dachte, die verlorene Arbeit, deren Er-
+scheinen sich so viele widrige Zwischenfälle in den Weg
+gestellt hatten, noch einmal zu schreiben und zu Ende
+zu führen, zumal ich durch andere inzwischen auf-
+<pb="XIII"/>
+genommene Arbeiten mehr al&sr; hinreichend in Anspruch
+genommen war. &201E;E&sr; hat eben nicht sein sollen!&201C; &2014;
+dachte ich bei mir selbst, bi&sr; mir &2014; wiederum ganz
+unerwartet &2014; die Nachricht zuging, mein Aufsatz habe
+sich in der Druckerei, eben so urplötzlich, wie er ab-
+handen gekommen, wieder angefunden; und einige
+Zeit darauf hatte ich ihn wirklich wieder in meinen
+Händen. Da beschloß ich denn, ihn ganz unverändert
+&2014; so wie er den Lesern von &201E;Nord und Süd&201C; im
+Maiheft 1888 vorgelegt worden ist &2014; zu veröffent-
+lichen und abzuwarten, ob ich später Zeit und Stim-
+mung finden würde, ihn fort und zu Ende zu führen,
+und Da&sr; will und muß ich auch jetzt noch abwarten,
+wo die beiden Plaudereien auf&sr; Neue in dieser Buch-
+au&sr;gabe veröffentlicht werden.</p>
+<p>Schließlich nun noch über den Spruch unter meinem
+Bildni&sr;!</p>
+<p>Al&sr; der Verleger mir seinen Wunsch zu erkennen
+gab, dem Buche da&sr; Bild de&sr; Siebzigjährigen bei-
+zugeben mit einem Spruche in meiner Handschrift,
+der sich auf meine langjährige rastlose Wirksamkeit
+in der &201E;Werkstatt de&sr; Wörterbuchschreiber&sr;&201C; bezöge,
+dachte ich im ersten Augenblick an den 134sten Spruch
+im 10ten Buche von <g>Rückert</g>&2019;&sr; &201E;Wei&sr;heit de&sr; Brah-
+manen&201C;:</p>
+<pb="XIV"/>
+<poem>&201E;Wenn du dich leben&sr;lang beschäftigest mit Wörtern,
+Verachten dich mit Recht, die lieber Ding&2019; erörtern.
+Wenn du dich wenigsten&sr; beschäftigtest mit Worten,
+Au&sr; welchen aufgebaut sind der Begriffe Pforten!
+Doch, wenn du wirklich dich beschäftigst mit dem Wort,
+E&sr; ist nicht&sr; Höhere&sr; zu finden hier noch dort.&201C;</poem>
+<p>Dann aber sagte ich mir sofort, nicht bloß, daß
+dieser sech&sr;zeilige Spruch schon durch seinen Umfang
+nicht zu der von dem Verleger gewählten Buchgröße
+passe, sondern auch, daß er leicht eine falsche Meinung
+über den Werth erwecken könne, welcher nach meiner
+Schätzung der Thätigkeit de&sr; Wörterbuchschreiber&sr; zu-
+kommt.</p>
+<p>Ich verkenne einerseit&sr; nicht und habe nie ver-
+kannt, wie unendlich höher da&sr; oft wie mühelo&sr; mit
+der Gewalt und Schnelle de&sr; Blitze&sr; zu Tage tretende
+Thun der von göttlichem Geiste erleuchteten und durch-
+drungenen wahren Wortschöpfer steht al&sr; die mühe-
+volle, still und langsam, aber stetig wirkende Arbeit
+der kleinern Geister, welche die von der Gesammtheit
+aller schöpferischen Geister eine&sr; Volke&sr; in den Wör-
+tern seiner Sprache niedergelegten Schätze möglichst
+vollständig und erschöpfend zu sammeln, übersichtlich
+zu ordnen und den über die ungeahnte und in der
+stetigen Fortentwicklung gradezu unerschöpflichen Fülle
+<pb="XV"/>
+seine&sr; unermeßlichen Reichthum&sr; staunenden Blicken
+de&sr; Volke&sr; zu erschließen bemüht sind; aber ich bin
+andrerseit&sr; doch auch, so sehr ich mir in aller Be-
+scheidenheit bewusst bin, nicht zu den schöpferischen
+Mehrern unserer Sprache zu gehören, weit davon
+entfernt, von der meinem innern Trieb angemessenen
+Thätigkeit und Wirksamkeit eine&sr; Sammler&sr;, Ordner&sr;,
+Hüter&sr; und Wächter&sr; de&sr; deutschen Sprachschatze&sr; ge-
+ringschätzig zu denken; und so hätte ich denn zur Ver-
+hütung von Mißverständnissen jenem oben angeführten
+sech&sr;zeiligen Spruche au&sr; <g>Rückert</g>&2019;&sr; &201E;Wei&sr;heit de&sr;
+Brahmanen&201C; etwa einen andern au&sr; derselben Quelle
+geschöpften, den 15ten de&sr; dritten Buche&sr;, hinzufügen
+müssen:</p>
+<poem>&201E;Wa&sr; deinem innern Trieb ist angemessen, treibe,
+Nur daß fein auch der Trieb ein angemeßner bleibe!
+Und, wa&sr; du liebend treibst, laß dir da&sr; Höchste gelten,
+Ohn&2019; Ander&sr;treibende mißliebig drum zu schelten.
+Sei doch in jeder Art ein Höchste&sr; offenbart;
+Du offenbare dein Höchste&sr; in deiner Art!&201C; &2014;</poem>
+<p>oder ich hätte auch, fall&sr; mir der Raum dafür zu
+Gebote gestanden hätte, eingedenk de&sr; Worte&sr;, welche&sr;
+Lessing am Schlusse seiner &201E;hamburgischen Dramaturgie&201C;
+au&sr;gesprochen, daß seine&sr; Fleiße&sr; sich Jedermann
+<pb="XVI"/>
+rühmen dürfe, vielleicht die beiden letzten Ver&sr;gebinde
+au&sr; Schiller&2019;&sr; &201E;Idealen&201C; wählen dürfen:</p>
+<poem><pv>&201E;Von all dem rauschenden Geleite
+Wer harrte liebend bei mir au&sr;?
+Wer steht mir tröstend noch zur Seite
+Und folgt mir bi&sr; zum finstern Hau&sr;?
+Du, die du alle Wunden heilest,
+Der Freundschaft leise, zarte Hand,
+De&sr; Leben&sr; Bürde liebend theileft,
+Du, die ich frühe sucht&2019; und fand,</pv>
+<pv>Und du, die gern mit ihr sich gattet,
+Wie sie, der Seele Sturm beschwört,
+Beschäftigung, die nie ermattet,
+Die langsam schafft, doch nie zerstört,
+Die zu dem Bau der Ewigkeiten
+Zwar Sandkorn nur für Sandkorn reicht,
+Doch von der großen Schuld der Zeiten
+Minuten, Tage, Jahre streicht.&201C;</pv></poem>
+<p>Doch alle diese sich mir aufdrängenden und doch
+schon au&sr; Rücksicht auf den Raum unau&sr;führbaren
+Erwägungen waren unnöthig, da vor fast 24 Jahren,
+in demselben Augenblicke, wo ich da&sr; letzte Wort meine&sr;
+großen &201E;Wörterbuche&sr; der deutschen Sprache&201C; nieder-
+geschrieben, ich im Rückblick auf die abgeschlossene
+<pb="XVII"/>
+Arbeit und die Zeit, in welcher dieser Abschluß er-
+folgte, unter die letzte Zeile meiner Handschrift für mich
+die Bemerkung gesetzt:</p>
+<p><et>&201E;beendet den 11. Juli 1865, Nachmittag 5 Minuten
+vor halb 2 Uhr.</et></p>
+<p><et>EST DEUS IN NOBIS, AGITANTE CALESCI-
+MVS ILLO.&201C;</et></p>
+<p>Ich entsinne mich de&sr; Augenblick&sr; noch sehr genau,
+e&sr; war in der glühendsten Mittag&sr;hitze de&sr; brennend
+heißen Sommertage&sr;. Wohl empfand ich hohe Freude
+darüber, daß nach jahrelanger rastloser, mühevoller
+Arbeit da&sr; Werk, zu welchem der Gott in meiner
+Brust mich nicht nur angeregt, sondern auch mir die
+Au&sr;dauer und die Kraft verliehen, zum glücklichen
+Abschluß gediehen sei; aber in da&sr; Gefühl dieser
+Freude mischte sich doch &2014; wohl mit unter dem Ein-
+fluß der drückenden Schwüle &2014; zunächst nicht (wie
+ich e&sr; mir vorher wiederholt au&sr;gemalt) da&sr; Wohl-
+gefühl der wohlverdienten Muße, die ich mir nun
+einige Zeit hindurch gönnen könnte, sondern ein ge-
+wisse&sr; beklemmende&sr; Angstgefühl, ähnlich, wie e&sr; der
+Chor in Schiller&2019;&sr; &201E;Braut von Messina&201C; au&sr;spricht:</p>
+<bs>2</bs>
+<pb="XVIII"/>
+<poem>&201E;Sage, wa&sr; werden wir jetzt beginnen, &2026;
+Au&sr;zufüllen die Leere der Stunden
+Und die lange unendliche Zeit?&201C; u. s. w.</poem>
+<p>Nun, auch darüber bin ich sehr bald hinweg-
+gekommen, da e&sr; mir auch seitdem niemal&sr; an Be-
+schäftigung und Arbeit gefehlt hat, die Schwere de&sr;
+Dasein&sr; und da&sr; ermüdende Gleichmaß der Tage zu
+ertragen.</p>
+<p>Nun aber muß ich noch auf den oben angegebenen
+bekannten, oft und viel angeführten lateinischen Ver&sr;
+au&sr; Ovid&2019;&sr; &201E;Fasten&201C; oder &201E;Festkalender&201C; (Buch <aq>VI,</aq>
+V. 5) zurückkommen. In welcher Beziehung ich diesen
+Ver&sr; seinem Inhalt nach zu meinen Arbeiten auf dem
+Gebiete unserer Muttersprache aufgefasst sehen möchte,
+bedarf keiner Erörterung, nur will ich für den de&sr;
+Latein unkundigen Leser eine deutsche Übersetzung hin-
+zufügen:</p>
+<poem>In un&sr; lebet ein Gott: er erregt un&sr; und wir erglühen;</poem>
+<p>aber, daß der lateinische Ver&sr; auch zugleich ein soge-
+nannte&sr; Chronostichon oder Eteostichon ist, d. h. in
+seinen Zahlbuchstaben da&sr; Jahr ergiebt, in welchem
+ich mein Wörterbuch der deutschen Sprache zum Ab-
+schluß gebracht, würden vielleicht die wenigsten Leser
+bemerken, wenn ich hier nicht eigen&sr; auf diese in
+<pb="XIX"/>
+früheren Zeiten vielgeübte Zahlspielerei aufmerksam
+machte und sie in der nachfolgenden Darstellung&sr;weise
+veranschaulichte:
+<et><aq>e&sr;t DeV&sr; In nobI&sr;, agItante CaLe&sr;CIMV&sr; ILLo.</aq></et></p>
+<p>Und hiermit empfehle ich mich nun dem Wohl-
+wollen der geneigten Leser, bi&sr; ich &2014; wenn e&sr; ihrem
+Wunsche so entspricht und ich die Zeit dazu finde &2014;
+an den abgerissenen Faden meiner Plaudereien an-
+knüpfend, später einmal ihn vielleicht werde fortspinnen
+und zu Ende führen können. Gott befohlen!</p>
+<p><et>Altstrelitz (Meklbg.), am Pfingst-
+sonntag, den 9. Juni 1889.</et></p>
+<p><et><b>Dan. Sander&sr;.</b></et></p>
+<bs>2*</bs>
+<pb>
+<pb="1"/>
+<p><in>I</in>n dem kurzen Vorwort, da&sr; ich meinem 1885 voll-
+ständig erschienenen &201E;Ergänzung&sr;-Wörterbuch der
+deutschen Sprache&201C; vorgesetzt, habe ich mich auf da&sr;
+unumgänglich Nothwendige beschränkt, hier, wie bei
+meinem zwanzig Jahr früher vollendeten dreibändigen
+&201E;Wörterbuch der deutschen Sprache&201C;, den mir für die
+Au&sr;arbeitung beider Werke al&sr; Richtschnur dienenden
+und nach Kräften getreulich durchgeführten Satz auf
+die Vorrede au&sr;dehnend, daß grade derartige Nach-
+schlagebücher am besten und sichersten für sich selbst
+sprechen, wenn sie nämlich den Nachschlagenden die
+gesuchte Au&sr;kunft in übersichtlicher Weise jede&sr; Mal
+möglichst leicht und schnell und dabei möglichst voll-
+ständig und erschöpfend finden lassen, und daß sie ihrem
+Zweck und ihrer Bestimmung auch am besten und
+sichersten entsprechen, je weniger der Verfasser darin
+mit seinen besonderen Ansichten und Meinungen her-
+vortritt und je mehr seine Person hinter dem für sich
+<pb="2"/>
+selbst sprechenden sachlichen Inhalt zurücktritt oder am
+besten verschwindet.</p>
+<p>In dem Vorwort zu dem zuletzt erschienenen Er-
+gänzung&sr;-Wörterbuch jedoch habe ich geglaubt, mir
+wenigsten&sr; die mehr persönliche Bemerkung gestatten
+zu dürfen:
+<et>Wa&sr; ich noch weiter über da&sr; vorliegende Werk
+und über deutsche Wörterbücher überhaupt zu sagen
+habe, überschreitet bei Weitem den Raum einer
+Vorrede; und ich verspare e&sr; mir für eine eigene
+Schrift, die ich, etwa unter dem Titel: &201E;Au&sr; der
+Werkstatt eine&sr; Wörterbuchschreiber&sr;&201C; in nicht all-
+zulanger Frist zu veröffentlichen gedenke,</et>
+und e&sr; ist mir zu meiner Freude und Genugthuung,
+wie in öffentlichen Besprechungen, so auch in Briefen
+von den verschiedensten Seiten die Aufforderung zu-
+gegangen, die angekündigte Schrift, der man gespannt
+und erwartung&sr;voll entgegensehe, möglichst bald er-
+scheinen zu lassen. So ersuche ich denn den geneigten
+Leser, in meine, de&sr; Wörterbuchschreiber&sr;, Werkstatt
+einzutreten und sich hier meine Mittheilungen und
+Plaudereien gefallen zu lassen.</p>
+<hr>
+<pb="3"/>
+<d1><aq>I.</aq></d1>
+<p><in>I</in>ch bitte, machen Sie e&sr; Sich gefälligst zunächst in
+diesem Zimmer vor der eigentlichen Werkstatt bequem
+und lassen Sie mich Ihnen hier in einer einleitenden
+Plauderei berichten, wie ich dazu gekommen, ein deutscher
+Wörterbuchschreiber zu werden.</p>
+<p>Ob überhaupt jemal&sr; Jemand bei der Beruf&sr;-
+wahl von vorn herein zu dem Entschluß gekommen
+ist, ein Wörterbuchschreiber zu werden, &2014; ich weiß
+e&sr; nicht und ich bezweifle e&sr;; jedenfall&sr; bei mir ist e&sr;
+nicht der Fall gewesen, so wenig wie bei den Brüdern
+Jakob und Wilhelm Grimm und bei Littr<aq>é</aq>.</p>
+<p>Dieser letztere eröffnet seine bekannte anmuthige
+Plauderei: &201E;Wie ich mein Wörterbuch der französischen
+Sprache zu Stande gebracht habe&201C; mit den allerding&sr;
+auf die Spitze getriebenen Worten:
+<et>&201E;Nicht&sr; hatte mich eigentlich zu einer Unter-
+nehmung der Art vorbereitet&201C;</et>
+und Jakob Grimm, in der Vorrede zu dem von ihm
+und seinem Bruder Wilhelm begonnenen &201E;Deutschen
+Wörterbuch&201C;, berichtet, al&sr; ihnen die erste Anregung
+zu dem genannten Werke 1837, wo sie ihre&sr; Amte&sr;
+<pb="4"/>
+in Göttingen entsetzt wurden, durch den Antrag der
+Weidmann&2019;schen Buchhandlung gegeben worden, ihre
+unfreiwillige Muße durch die Abfassung eine&sr; neuen
+großen Wörterbuche&sr; der deutschen Sprache au&sr;zu-
+füllen, da hätten sie zunächst einerseit&sr; sich dagegen
+al&sr; gegen etwa&sr; ihnen Fremde&sr; und fern Liegende&sr;
+gesträubt &2014; &201E;den Gedanken, den unermessenen Wort-
+vorrath der deutschen Sprache selbst einzutragen, hatten
+wir nie gehegt und schon der mühsamen Zurüstungen
+sich zu unterfangen, konnte den für die Au&sr;dauer un-
+entbehrlichen Muth auf die Probe stellen&201C;, so lauten
+Jakob Grimm&2019;&sr; Worte &2014;, andererseit&sr; aber hätte
+auch der in dem Vorschlag liegende unwiderstehliche
+Reiz allen von vorn herein klar erkannten oder nur
+dunkel geahnten Schwierigkeiten die Spitze geboten,
+so daß schließlich die beiden Brüder &201E;willige&sr; und
+beherzte&sr; Entschlusse&sr; ohne lange&sr; Fackeln da&sr; dar-
+gereichte Geschäft übernahmen.&201C;</p>
+<p>Soll ich nun aber weiter von mir selbst berichten,
+wie ich allmählich dazu gekommen, ein deutscher Wörter-
+buchschreiber zu werden, so muß ich schon ein wenig
+weiter au&sr;holen.</p>
+<p>Ich habe da&sr; Glück gehabt, meine erste Jugend-
+bildung in der Schule meine&sr; Geburt&sr;orte&sr; Altstrelitz
+zu empfangen, an deren Spitze damal&sr; al&sr; Leiter
+<pb="5"/>
+<aq>Dr.</aq> J. Lehfeldt (später mit seinem Schwager <aq>Dr.</aq> Moritz
+Veit, Begründer und Besitzer der Veit&2019;schen Verlag&sr;-
+buchhandlung) und neben ihm al&sr; zweiter Lehrer
+J. Zedner (später Bibliothekar an dem brittischen
+Museum in London) standen. So weit ich au&sr; meiner
+Erinnerung über mich selbst in jenen Kinderjahren
+urtheilen kann, war ich ein Knabe, der allerding&sr; da&sr;
+in der Schule Gelehrte ziemlich schnell, leicht und sicher
+erfaßte, aber namentlich bei den häu&sr;lichen Arbeiten
+sich gar manche Flüchtigkeiten und Nachlässigkeiten zu
+Schulden kommen ließ und der nach Kinderart viel
+mehr an&sr; Spielen und Collen al&sr; an&sr; Lernen dachte.
+Wenn ich gefragt wurde, wa&sr; ich dereinst werden
+wolle, lautete die Antwort: &201E;Natürlich Kaufmann, wie
+mein Vater.&201C; Und wa&sr; hätte der Knabe ander&sr; ant-
+worten können und sollen, der mit vollstem Rechte in
+seinem Vater da&sr; beste Musterbild sah und verehrte,
+wie er ihn in der ganzen Stadt, bei Hoch und Niedrig,
+bei Arm und Reich verehrt sah? Kannten diesen doch
+Alle hier al&sr; den besten Sohn gegen seine armen
+Eltern, al&sr; den gütigsten und liebevollsten Vater gegen
+seine beiden Kinder, meinen um zwei Jahr ältern Bruder
+und mich, dessen Geburt meiner Mutter da&sr; Leben
+gekostet hatte. Kannte doch die ganze Stadt ihn al&sr;
+bieder und rechtschaffen, al&sr; anspruch&sr;- und bedürfni&sr;-
+<pb="6"/>
+lo&sr; für sich, al&sr; milde und freigebig gegen Noth-
+leidende, al&sr; nach Kräften hilf&sr;bereit gegen Alle in
+allen Lagen. Ich bin auf meinem Leben&sr;wege sehr
+vielen Männern begegnet, die meinen Vater an Gaben
+de&sr; Geiste&sr; und an geistiger Au&sr;bildung weit, weit
+überragt haben, aber keinem einzigen, der ihn an
+Herzen&sr;bildung, an Wohlwollen gegen alle Menschen,
+an Bieder- und Gradsinn übertroffen hätte, keinem,
+in dem mehr die Goethe&2019;sche Forderung verkörpert zu
+Cage getreten wäre:</p>
+<poem>&201E;Der edle Mensch
+Sei hilfreich und gut!
+Unermüdet schaff&2019; er
+Da&sr; Nützliche, Rechte,
+Sei un&sr; ein Vorbild
+Jener geahneten Wesen!&201C;</poem>
+<p>Al&sr; Kind hätte ich natürlich Da&sr;, wa&sr; ich hier
+über meinen Vater gesagt, nicht in Worte zu fassen
+vermocht und auch von Andern habe ich, so viel ich
+weiß, e&sr; so im Zusammenhang nicht gehört, sondern
+mehr nur gelegentlich in einzelnen zerstreuten und ab-
+gerissenen Au&sr;rufen und Andeutungen; aber gefühlt
+habe ich e&sr;, so lange ich denken kann, wie im eigenen
+Herzen, so in dem von allen Bewohnern unsere&sr;
+Städtchen&sr; gegen meinen Vater unwillkürlich sich kund-
+<pb="7"/>
+gebenden Benehmen deutlich au&sr;gesprochen. Und heute
+glaube ich, zu erkennen, daß ich, wenn ich al&sr; Kind
+auf die Frage: &201E;Wa&sr; willst du werden?&201C; die zuver-
+sichtliche Antwort gab: &201E;Natürlich Kaufmann, wie mein
+Vater&201C;, eigentlich und im Grunde nicht den Wunsch
+damit au&sr;drücken wollte, den Beruf meine&sr; Vater&sr;
+zu ergreifen, sondern vielmehr &2014; obgleich mir Da&sr;
+auch im späteren Leben&sr;alter noch lange nicht zum
+klaren Bewusstsein gekommen &2014; den Wunsch, ich
+möchte, e&sr; sei, in welchem Beruf e&sr; wolle, meinem
+Vater, wenn nicht gleich, doch einigermaßen ähnlich
+werden, wie in der Chat mein Bruder, der meine&sr;
+Vater&sr; Geschäft übernommen und noch heute fort-
+führt, ihm ähnlich geworden ist.</p>
+<p>Doch Dem sei, wie ihm wolle, meine Umgebung
+und ich selbst faßten meinen wieder und immer wie-
+der au&sr;gesprochenen Wunsch, einmal Kaufmann, wie
+mein Vater, zu werden, so, wie er nach dem Wort-
+laut allerding&sr; einzig und allein aufzufassen war: nur
+mein Vater selbst hatte, bestimmt durch da&sr; Urtheil
+meiner beiden oben genannten Lehrer über meine Be-
+gabung, einen andern Leben&sr;beruf für mich in&sr; Auge
+gefasst, und wünschte, daß ich studieren solle. Ich be-
+wundere noch heute den erzieherischen Scharfblick meiner
+beiden Lehrer, die trotz meiner oben erwähnten Flüchtig-
+<pb="8"/>
+keit und de&sr; Mangel&sr; an dem zum erfolgreichen Stu-
+dium so unumgänglich nothwendigen ernsten und au&sr;-
+dauerndem Fleiße, von welchem sie doch wohl einen,
+wenn auch höchst winzigen und noch sehr eingehüllten
+und versteckten Keim bei mir mußten entdeckt haben,
+mich meinem Vater wiederholt al&sr; zum Studium ge-
+eignet und berufen, bezeichnet hatten.</p>
+<p>Die Sache kam für mich zum ersten Mal zur
+Sprache, al&sr; meine beiden mehr genannten Lehrer von
+der Schule abgingen und ich gleichzeitig auf eine andere
+Lehranstalt geschickt werden sollte. Al&sr; ich bei dieser
+Gelegenheit meinen Wunsch au&sr;sprach, Kaufmann zu
+werden, sagte mir mein Vater in seiner gewohnten
+liebevollen Weise und auch mir vollkommen einleuchtend:</p>
+<p>&201E;Bei einem zwölfjährigen Knaben ist e&sr; natürlich
+noch nicht an der Zeit, über seinen Lebenberuf zu ent-
+scheiden. E&sr; ist mein Wunsch, daß du studierst, und
+ich werde dich deßhalb nach Neustrelitz auf&sr; Gymna-
+sium geben, wo du, wie ich höre, nach Certia kommen
+wirst. Sei dort recht fleißig und, wenn du dann nach
+Sekunda gekommen und in dieser Klasse ein Jahr ge-
+wesen sein wirst, ist e&sr; immer noch Zeit genug, eine
+Beruf&sr;wahl für dich zu treffen.&201C;</p>
+<p>So kam ich denn auf da&sr; Neustrelitzer Gymna-
+sium nach Certia. Vor meinen neuen Mitschülern hatte
+<pb="9"/>
+ich eine tüchtige Grundlage im Englischen und im
+Französischen vorau&sr;, welche beiden Sprachen auf der
+Altstrelitzer Schule mit al&sr; Hauptgegenstände behandelt
+worden waren, während auf dem Gymnasium damal&sr;
+vom Englischen überhaupt nicht die Rede war und im
+Französischen auch nur Privatunterricht ertheilt wurde,
+an welchem nur Einzelne theilnahmen, und auch diese
+meisten&sr; mehr, um allerlei Ungehörigkeiten und Unfug
+zu treiben, al&sr; um wirklich die Sprache zu erlernen.
+Dagegen war in der Altstrelitzer Schule da&sr; Griechische
+gar nicht gelehrt worden, allerding&sr; hatte mein Vater
+mir in der letzten Zeit bei einem tüchtigen Primaner
+Privatunterricht im Griechischen ertheilen lassen; aber
+Da&sr;, wa&sr; ich mir hier in den verhältni&sr;mäßig we-
+nigen Stunden hatte aneignen können, reichte doch
+für da&sr; in Certia Geforderte nicht au&sr; und hier
+hatten meine neuen Mitschüler einen bedeutenden Vor-
+sprung vor mir. Da&sr; fühlte und merkte ich bald und
+ich sagte mir, daß ich sehr tüchtig nacharbeiten müsse,
+um sie hier einzuholen und dann, gleichen Schritt mit
+ihnen haltend, vorwärt&sr; zu kommen. Ich sagte mir,
+daß ich e&sr; müsse, und, weil ich e&sr; mußte, wollte ich
+e&sr; auch und in der Chat war ich nach nicht gar
+langer Zeit auch hier mit in der Reihe und konnte
+ohne Schwierigkeit mit fortschreiten. Dieser zum ersten
+<pb="10"/>
+Mal mir deutlich erkennbar durch ernsten Willen
+errungene Fortschritt kam mir auch ferner für mein
+ganze&sr; Leben zu Gute. Ich hatte zum ersten Mal
+nicht bloß begriffen, sondern auch an mir selbst er-
+probt, daß der Mensch, wa&sr; er seinen Fähigkeiten
+gemäß ernstlich will, auch wirklich kann und wie viel
+ein solcher ernstlicher Wille und, ihm entsprechend, un-
+verrückt auf&sr; Ziel blickende, stetig und unverdrossen
+schrittweise vorrückende Arbeit vermag.</p>
+<p>Von einem Lehrfach muß ich nun noch beson-
+der&sr; sprechen, von der Mathematik. E&sr; herrschte da-
+mal&sr; &2014; und herrscht vielleicht noch &2014; bei den Schü-
+lern und auch bei einem großen Cheil der Lehrer die
+Ansicht, e&sr; bedürfe für diese&sr; Fach einer ganz beson-
+deren eigengearteten Anlage und, wem diese einmal
+von der Natur versagt sei, Der komme auch bei an-
+gestrengtem Fleiße darin niemal&sr; recht vorwärt&sr;. Nach
+meiner Überzeugung war e&sr; eben diese fast al&sr; ein
+keine&sr; Beweise&sr; bedürfender Grundsatz geltende An-
+sicht, welche in der Chat viele durchau&sr; begabte
+Schüler verhinderte, sich in den ersten Anfängen
+gründlich und lückenlo&sr; zu befestigen, um dann auf
+der so gewonnenen festen Grundlage schritt- und
+stufenweise sicher immer weiter fortbauen zu können,
+wa&sr; freilich bei dieser au&sr; folgerechten Schlüssen und
+<pb="11"/>
+Ketten von Schlüssen bestehenden Wissenschaft vor
+Allem ganz unerläßlich ist. Wenn ihnen dann aber
+bei dem ihnen zugemutheten Fortschreiten zum Be-
+wusstsein kam, daß die ihnen al&sr; bündig vorgetra-
+genen Schlußfolgerungen für sie so zu sagen in der
+Luft schwebten und darum haltlo&sr; sofort in sich zu-
+sammenstürzten, so suchten sie den gut zu machenden
+Fehler nicht darin, daß sie versäumt hatten, die noth-
+wendige Grundlage in sich fest zu legen, sondern in
+einem ihnen angeborenen Mangel der besonderen und
+eigenartigen Begabung für Mathematik. Doch Dem
+sei, wie ihm wolle, jedenfall&sr; war damal&sr; auf dem
+Neustrelitzer Gymnasium die Zahl der Schüler, die in
+der Mathematik wirklich Genügende&sr; leisteten, eine
+nur sehr mäßige und, da ich fortwährend an der
+Spitze derselben stand, so galt ich bald nach dem da-
+mal&sr; dort herrschenden Sprachgebrauch al&sr; &201E;<g>der</g>
+Mathematiker&201C; &03BA;&03B1;&03C4;&0315; &1F10;&03BE;&03BF;&03C7;&03AE;&03BD;.</p>
+<p>Ich komme nun auf die Wahl meine&sr; Leben&sr;-
+berufe&sr; zurück. Nachdem ich ein Jahr in Sekunda
+gewesen, fragte mich mein Vater, ob ich nun noch
+nicht dem Gedanken an da&sr; Studium, für welche&sr;
+auch meine jetzigen Lehrer mich geeignet und berufen
+hielten, mehr Geschmack abgewonnen hätte. Ich erklärte
+meinem Vater, daß ich allerding&sr; noch immer lieber
+<pb="12"/>
+Kaufmann werden al&sr; studieren, aber auch ohne Wider-
+streben und bereitwillig mich seiner Bestimmung fügen
+würde, wenn er da&sr; Studium für mich vorzöge. Ähnliche&sr;
+wiederholte sich dann noch öfter, namentlich, al&sr; ich nach
+Prima versetzt worden, und schließlich, al&sr; ich ein gute&sr;
+Zeugni&sr; der Reife für die Hochschule in der Casche hatte.</p>
+<p>Ich erfuhr nun, daß e&sr; immer meine&sr; Vater&sr;
+Liebling&sr;wunsch gewesen, mich dereinst al&sr; einen tüch-
+tigen Arzt zu sehen. Sehr begreiflich; denn mein Vater
+war von der Natur mit einem scharfen und klaren
+ärztlichen Blick au&sr;gerüstet und er hatte sich im innigen
+Umgange mit einem befreundeten Arzte<fn="*)"><aq>Dr.</aq> Ascher, gestorben in Orenburg.</fn> und einem
+befreundeten Apotheker<fn="**)">Friedrich Mayer, gestorben in Friedland, Vater de&sr;
+<aq>Dr.</aq> Eduard Mayer in Halle, dem ich diese Plaudereien ge-
+widmet,
+<c>&201E;daß auch die Andern</c>
+Schaun, daß wir Freunde zu sein au&sr; Väterzeiten un&sr; rühmen&201C;.</fn> auch eine unverächtliche ärzt-
+liche Kenntni&sr; angeeignet und ich bin überzeugt, daß
+er, wenn e&sr; die Verhältnisse in seiner Jugend ihm ge-
+stattet hätten, zu studieren, gewiß ein sehr tüchtiger
+Arzt geworden wäre. Al&sr; ich nun aber meinem Vater
+sagte, daß ich zu dem Beruf eine&sr; Arzte&sr; in mir durch-
+au&sr; keine Neigung verspürte, wohl aber eine bestimmt
+<pb="13"/>
+au&sr;gesprochene zu dem eine&sr; Lehrer&sr; und Jugend-
+bildner&sr;, war er auch damit sofort zufrieden und ein-
+verstanden und so bezog ich denn die Hochschule mit
+dem auch von meinem Vater gut geheißenen Vorsatz,
+mich für den jetzt erwählten Beruf möglichst vielseitig
+au&sr;- und vorzubilden, wobei mein Hauptaugenmerk
+einerseit&sr; auf Mathematik und Naturwissenschaften,
+andererseit&sr; auf Sprachen gerichtet war.</p>
+<p>Ich darf sagen, daß ich auf der Hochschule, wie
+ich e&sr; schon auf dem Gymnasium gethan, meine Zeit
+gehörig au&sr;genutzt. Zu besonderer Freude und zum
+großen Vortheil für meine Beschäftigung mit dem
+Griechischen gereichte mir der rege freundschaftliche Ver-
+kehr mit den damal&sr; in Berlin studierenden Griechen,
+au&sr; deren Munde ich gelegentlich eine ziemlich ansehn-
+liche Menge von Volk&sr;-Liedern und -Sagen hervor-
+zulocken und aufzuzeichnen wußte. Ich fand Gelegen-
+heit, noch vor dem Abschluß meiner Studentenzeit
+wenigsten&sr; einen Cheil davon in Übersetzungen in
+einem Büchlein zu veröffentlichen, da&sr; ich in Gemein-
+schaft mit zwei auf der Hochschule gewonnenen Freun-
+den, Moritz Carriere (jetzt in München) und dem treff-
+lichen, leider zu früh dahingeschiedenen Heinr. Bernh.
+Oppenheim, unter dem Citel: &201E;Neugriechische Volk&sr;-
+und Freiheit&sr;lieder. Zum Besten der unglücklichen
+<bs>3</bs>
+<pb="14"/>
+Candioten. Grünberg und Leipzig, 1842. Verlag von
+W. Levysohn&201C; herau&sr;gab. Kurz darauf, nachdem ich
+auch die Doktorwürde erworben, wurde mir in meiner
+Vaterstadt die Leitung derselben Schule übertragen, in
+der ich selbst, wie oben berichtet, meine erste Jugend-
+bildung empfangen hatte.</p>
+<p>In diesem Amte, dem ich mich mit Lust und Liebe,
+mit dem größten Eifer und mit der vollsten Hingebung
+widmete, habe ich dann nahe zehn der schönsten Jahre
+meine&sr; Leben&sr;, bi&sr; zum Eingehen der trefflich ge-
+deihenden Schule, zugebracht. In dieser ganzen Zeit
+bildete meine Schule und die Sorge für die mir an-
+vertraute Jugend den Mittelpunkt meine&sr; Denken&sr;,
+Leben&sr;, Weben&sr;, Wirken&sr; und Schaffen&sr;. Die wenigen
+mir frei bleibenden Stunden wurden zum größten Cheil
+durch schriftstellerische Chätigkeit au&sr;gefüllt. So erschien
+1844 mein &201E;Volk&sr;leben der Neugriechen, dargestellt und
+erklärt au&sr; Liedern, Sprichwörtern und Kunstgedichten&201C;
+in Mannheim bei Bassermann und ferner war ich al&sr;
+Mitarbeiter an verschiedenen Zeitschriften thätig, na-
+mentlich an dem Herrig&2019;schen &201E;Archiv für da&sr; Studium
+der neueren Sprachen&201C;, an den (Berliner) &201E;Jahr-
+büchern für wissenschaftliche Kritik&201C;, wie an den da-
+mal&sr; von Fleckeisen und Klotz geleiteten &201E;Jahrbüchern
+für Philologie und Pädagogik&201C;.</p>
+<pb="15"/>
+<p>Für diese letzte Zeitschrift hatte ich auch eine ein-
+gehende Beurtheilung de&sr; Grimm&2019;schen &201E;deutschen
+Wörterbuche&sr;&201C; bestimmt, von welchem eben die beiden
+ersten Lieferungen erschienen waren. Meine Arbeit
+wurde mir, nachdem sie ungebührlich lange Zeit zu-
+rückgehalten worden war, unter einem nichtigen und
+leicht durchsichtigen Vorwande zurückgeschickt und ich
+ließ sie nun al&sr; eigene&sr; Heft in Hamburg bei Hoff-
+mann und Campe erscheinen, wo schon früher die von
+Adolf Glaßbrenner und mir gemeinschaftlich verfaßten
+&201E;Xenien der Gegenwart&201C; erschienen waren. Meine Be-
+urtheilung erregte Aufsehen, sie wurde vielfach heftig
+angegriffen und geschmäht, aber, da ich nirgend einen
+Cadel au&sr;gesprochen, ohne ihn sachlich auf gute, ein-
+leuchtende und schwer widerlegbare Gründe gestützt zu
+haben, so wurde meine&sr; Wissen&sr; nirgend auch nur
+der Versuch einer wirklichen Widerlegung gemacht
+und manche unabhängigen Blätter hatten den Muth,
+unverblendet, durch die &2014; wie auch ich rückhaltlo&sr;
+au&sr;gesprochen hatte &2014; mit vollstem Recht gefeierten
+Namen, die Stichhaltigkeit meiner gegen da&sr; Grimm&2019;-
+sche Wörterbuch gemachten Au&sr;stellungen anzuerkennen.
+Inzwischen waren zwei neue Lieferungen de&sr; Grimm&2019;-
+schen Wörterbuche&sr; erschienen, die zu einer weiteren
+Beleuchtung und Beurtheilung anzuregen, wohl geeignet
+<bs>3*</bs>
+<pb="16"/>
+waren, und so ließ ich denn auf die Aufforderung
+meine&sr; Verleger&sr; dem ersten Hefte ein zweite&sr; folgen,
+da&sr; die gleiche Aufnahme fand.</p>
+<p>Die beiden Hefte hatten auf mich unter Anderen
+auch da&sr; Augenmerk der J. J. Weber&2019;schen Verlag&sr;-
+buchhandlung in Leipzig gerichtet, die seit Jahren den
+Wunsch und die Absicht gehegt, ein deutsche&sr; Wörter-
+buch nicht für den au&sr;schließlichen Krei&sr; der Sprach-
+gelehrten, sondern zum Gebrauch für alle gebildeten
+und bildung&sr;beflissenen Deutschen zu verlegen. Durch
+die Vermittelung de&sr; Verlag&sr;buchhändler&sr; Otto Wigand
+in Leipzig ging mir die Anfrage zu, ob ich geneigt
+wäre, die Au&sr;arbeitung eine&sr; derartigen Werke&sr; zu
+übernehmen. E&sr; war eben damal&sr; die Schule, an
+deren Spitze ich bi&sr; dahin al&sr; Leiter gestanden hatte,
+eingegangen, aber gleichzeitig war mir von Frank-
+furt a. M. au&sr; die Leitung einer ähnlichen, nur viel
+größeren Anstalt angetragen worden, und so war ich
+denn vor eine für mein künftige&sr; Leben au&sr;schlag-
+gebende und entscheidende Zwiewahl gestellt. Beide
+sich mir so eröffnenden Au&sr;sichten hatten für mich ihr
+sehr An- und Verlockende&sr;. Leichter, bequemer und
+sicherer war für mich jedenfall&sr; die Frankfurter Stel-
+lung, in der ich auf der bereit&sr; von mir bi&sr; dahin
+mit gutem und anerkanntem Erfolge beschrittenen Bahn
+<pb="17"/>
+nur gleichmäßig fortzuschreiten hatte; außerdem bot sie
+nicht nur mir selbst für meine Leben&sr;zeit ein sichere&sr;
+Au&sr;kommen, sondern auch eine Versorgung für meine
+Hinterbliebenen. Andrerseit&sr; aber war, während ich
+mich eingehend mit der Beurtheilung de&sr; Grimm&2019;schen
+Werke&sr; beschäftigt hatte, vor meinen Geist in immer
+schärferen, bestimmteren und klareren Umrissen, da&sr;
+Bild eine&sr; deutschen Wörterbuche&sr; getreten, wie ich
+e&sr; nach Maßgabe meiner Kräfte zu Nutzen und
+Frommen meine&sr; Volke&sr; ihm al&sr; eine hoffentlich will-
+kommene Gabe darbringen zu können hoffen durfte,
+und diese&sr; Bild stimmte im Großen und Ganzen mit
+dem Bilde überein, da&sr; sich unabhängig von mir die
+Weber&2019;sche Verlag&sr;buchhandlung für da&sr; von ihr lange
+gewünschte und geplante Wörterbuch entworfen hatte,
+ein Werk, zu dessen Au&sr;führung nach vielfachen, oft
+wiederholten und erneuerten Fehlversuchen sie endlich
+in mir den rechten Mann gefunden zu haben hoffte
+oder, wie sie sagte, überzeugt war, wie denn auch alle
+Einzelheiten, die ich in späteren Verhandlungen bei
+der näheren Au&sr;einandersetzung und Entwickelung
+meine&sr; Plane&sr; ihr darlegte, schließlich ihre volle Zu-
+stimmung und Billigung fanden. Der Gedanke, ein
+für mein Volk nützliche&sr; Werk schaffen zu können,
+hatte e&sr; mir angethan und fiel bei meinem Hin- und
+<pb="18"/>
+Herwägen schwer in die Wagschale zu Gunsten de&sr;
+Wörterbuche&sr;, während für die Gegenschale sich die
+Erwägung geltend machte, daß ich nach den bi&sr;-
+herigen Erfahrungen und Erfolgen ganz zweifello&sr;
+mich der Frankfurter Stelle vollkommen gewachsen
+fühlen durfte, daß ich in derselben nur eine mir
+ihrer Art nach bereit&sr; bekannte und jedenfall&sr; weit
+weniger schwere und drückende Last auf die Schulter
+nahm und daß sie, wie gesagt, mir und den Meinen
+eine sichere Zukunft verbürgte. Ich habe lange hin-
+und hergeschwankt und in jener Zeit gründlich da&sr;
+horazische:</p>
+<poem><aq>Ver&sr;ate diu, quid ferre recu&sr;ent,
+quid valeant humeri</aq><fn="*)">Wäget wohl vorher, wa&sr; eure Schultern
+Vermögen oder nicht, eh&2019; ihr die Last
+Zu tragen übernehmt. Übersetzung von Wieland.</fn></poem>
+<p>erkennen und würdigen gelernt, und, al&sr; ich mich
+schließlich entscheiden mußte, entschied ich mich, zwar
+nicht leichten Herzen&sr;, aber doch getrosten Muthe&sr;
+für da&sr; Wörterbuch.</p>
+<p>Bei einem derartigen Entschluß wirken in der
+Regel eine Menge verschiedenartige, dem Menschen
+selbst nicht alle zum klaren Bewusstsein kommende
+<pb="19"/>
+Gründe zusammen und gewiß war e&sr; auch bei mir
+der Fall; schwerlich hätte ich sie damal&sr; alle namhaft
+machen können und kann e&sr; heute noch weniger. Doch
+glaube ich, daß zu den au&sr;schlaggebenden Etwa&sr; ge-
+hörte, da&sr; manchen Andern grade eher zurückge-
+schreckt hätte.</p>
+<p>&0391;&1F50;&03C4;&1F78;&03C2; &03B3;&1F70;&03F1; &1F10;&03C6;&03AD;&03BB;&03BA;&03B5;&03C4;&03B1;&03B9; &1F04;&03BD;&03B4;&03F1;&03B1; &03C3;&03AF;&03B4;&03B7;&03F1;&03BF;&03C2;, da&sr; Schwert selbst
+ziehet den Mann an, wie e&sr; bei Vater Homer heißt.
+Ich mußte von vorn herein sehr wohl und hatte e&sr;
+mir von vorn herein sehr klar gemacht, daß, sobald
+ich die Verpflichtung übernahm, da&sr; Wörterbuch nach
+dem von mir entworfenen und festgesetzten Plan inner-
+halb eine&sr; bestimmten absehbaren Zeitraum&sr; voll-
+ständig von A bi&sr; Z au&sr;zuarbeiten, ich mir damit
+eine Bürde auflud, die ungebeugt und ungebrochen
+bi&sr; an&sr; Endziel zu tragen, nicht allzuviele Schultern
+kräftig und stark genug sein würden; aber ich hatte
+bei meinem bi&sr;herigen Wirken erprobt, daß ich meiner
+Kraft ein nicht gewöhnliche&sr; Maß von Arbeit zu-
+muthen dürfte; ich wußte, daß ich in Dem, wa&sr; ich
+ernstlich wollte, nicht leicht ermatten, daß e&sr; mir an
+unverdrossenem Fleiß und zäher Au&sr;dauer nicht fehlen
+würde, und so durfte nach redlicher Selbstprüfung ich
+hoffen, daß mit Gotte&sr; Hilfe bei voller Anspannung
+meiner ganzen Arbeit&sr;kraft ich da&sr; Werk, dessen
+<pb="20"/>
+Schwierigkeit mich eben reizte, in der festgesetzten Frist
+glücklich werde zu Ende führen können. Gott hat mir
+beigestanden und der Erfolg hat bewiesen, daß mein
+allerding&sr; kühne&sr; Vertrauen auf die eigene Kraft doch
+kein vermessene&sr; gewesen.</p>
+<p>Die freundlichen Leser, die bi&sr; hierher meinen
+Mittheilungen gefolgt, wissen nun, wie ich keine&sr;weg&sr;
+von vorn herein au&sr; eigenem, innerem Criebe, &2014;
+sondern vielmehr allmählich durch die Bestimmung
+und die Einwirkung anderer Personen und der Ver-
+hältnisse zu einem deutschen Wörterbuchschreiber ge-
+worden. Macht doch in der Regel überhaupt nicht
+der Mensch die Verhältnisse, sondern die Verhältnisse
+machen ihn.</p>
+<p>Ich weiß sehr wohl, daß ich in dieser meiner
+ersten Mittheilung mich etwa&sr; kürzer hätte fassen
+können; aber, wenn ich hier von der Freiheit der
+Plauderei Gebrauch &2014; doch hoffentlich keinen Miß-
+brauch &2014; gemacht, so leitete mich dabei nicht bloß
+der leicht begreifliche Wunsch, die sich hier ungesucht
+bietende und gern ergriffene Gelegenheit zu benutzen
+und meinem trefflichen Vater ein kleine&sr; Gedächtni&sr;
+zu stiften, sondern ich hoffte auch zugleich, durch meine
+Erzählung manchen Eltern einen bei der Beruf&sr;wahl
+ihrer Kinder beherzigen&sr;werthen Wink und Rath zu geben.</p>
+<pb="21"/>
+<p>Ich habe im Leben nur zu oft gesehen, daß
+liebevolle Eltern auf die Antwort, welche ein Kind
+auf die Frage: &201E;Wa&sr; willst du werden?&201C; giebt, zumal
+wenn e&sr; heranwachsend dieselbe mit einer gewissen
+Zähigkeit festhält und wiederholt, ein gar zu große&sr;
+und unverhältni&sr;mäßige&sr; Gewicht legen, al&sr; spräche
+sich in einer solchen Antwort in der Chat immer eine
+bestimmte Neigung und eine besondere Begabung für
+den von dem Kinde genannten Beruf au&sr;. Man
+sollte doch aber wohl erwägen, daß, wenn ein Knabe
+auf die Frage, wa&sr; er werden wolle, den Beruf
+seine&sr; Vater&sr; nennt, sich darin oft nur der kindische
+oder kindliche Nachahmung&sr;trieb äußert, daß der
+Knabe, der erhitzt und aufgeregt durch da&sr; Lesen
+seine&sr; Robinson und wunderbarer, abenteuerlicher
+Seereisen, e&sr; al&sr; seinen höchsten Wunsch bezeichnet,
+ein Seemann zu werden, meist nicht die geringste
+Ahnung von diesem Berufe, seinen Beschwerden und
+Gefahren hat, &2014; daß überhaupt Kinder über einen
+Beruf fast immer nur nach Äußerlichkeiten urtheilen
+und urtheilen können, ohne die Licht- und Schatten-
+seiten zu kennen und ohne zu einem wirklichen Urtheil
+über ihre Befähigung für den Beruf irgend berechtigt
+zu sein. Sorgfältige Eltern und Erzieher werden in
+der Regel besser und richtiger erkennen, wozu ein Kind
+<pb="22"/>
+wirklich befähigt und berufen ist, und, wenn sie unter
+Berücksichtigung aller einschlägigen Verhältnisse e&sr; dazu
+hinleiten und vernünftig de&sr; Kinde&sr; Wahl lenken und
+bestimmen, so verfahren sie liebevoller und erweisen
+dem Kinde eine größere Wohlthat, al&sr; wenn sie den
+oft unverständigen Wunsch eine&sr; unreifen Knaben al&sr;
+au&sr;schlag- und maßgebend ansehen und ihn, weil er
+e&sr; urtheillo&sr; und unbedacht wünscht, einen Beruf er-
+greifen lassen, der nicht für ihn und für den er nicht
+passt und den ergriffen zu haben, er im späteren Leben
+oft bitter bereut.</p>
+<hr>
+<d1><aq>II.</aq></d1>
+<p>&201E;<in>D</in>u hast die Leser in deine Werkstatt eintreten heißen,
+um ihnen dort Mittheilungen au&sr; der Werk-
+statt zu machen, aber, wa&sr; wir bi&sr;her von dir gehört,
+war doch eigentlich nur ein Bericht, wie du überhaupt
+dazu gekommen, ein Wörterbuch zu schreiben. So
+führe un&sr; doch endlich in deiner Werkstatt selbst
+umher, zeige und erkläre un&sr; deren Einrichtung,
+<pb="23"/>
+dein Handwerk&sr;zeug u. s. w. Du hast zu deinem Werk
+offenbar mancherlei Stoff gebraucht. Wer hat ihn
+dir geliefert oder woher hast du ihn genommen?
+Welche Anordnung hast du getroffen, um au&sr; der &2014;
+wie man sich ohne Weitere&sr; denken kann &2014; ver-
+wirrenden, kaum zu bewältigenden und zu übersehen-
+den Fülle de&sr; Stoffe&sr; den für die Verarbeitung im
+Augenblick grade erforderlichen und nothwendigen
+immer gleich zur Hand zu haben? Und wenn du
+dann alle grade nöthigen Stoffe zur Hand hattest,
+welche&sr; Verfahren&sr; bedientest du dich, um au&sr; den
+vielerlei verschiedenartigen, die doch wohl jedenfall&sr;
+noch einer Vorbereitung und Vorbearbeitung bedurften,
+auf deinem &2014; darf ich sagen? &2014; Webstuhle ein gleich-
+mäßige&sr; Gespinnst und Gewebe herzustellen, da&sr; sich
+im gehörigen Verhältni&sr; dem Ganzen deine&sr; Wörter-
+buche&sr; richtig einfügte? u. s. w. Siehst du, Herr Wörter-
+buchschreiber, Da&sr; sind Fragen, auf die wir von dir
+gehörige Antwort und Au&sr;kunft haben möchten.&201C;</p>
+<p>Wenn so oder in ähnlicher Weise ein minder ge-
+duldiger Leser da&sr; Wort nimmt, so muß ich ihm frei-
+lich vollkommen Recht geben; aber er wird mir wohl
+auch zugestehen, daß sich nicht alle seine Fragen gleich-
+zeitig und auf einmal beantworten lassen, und ich hoffe,
+er und alle meine Leser räumen mir bereitwillig da&sr;
+<pb="24"/>
+Recht ein, bei meinen weitern Plaudereien gelegentlich
+und, ohne daß ich mich an eine allzustrenge Ordnung
+und Reihenfolge binde, eine Frage nach der anderen,
+bald mehr, bald minder eingehend zu beantworten,
+etwa wie e&sr; der Werkführer thut, wenn er werthe
+Gäste in der Werkstatt umherführt und an irgend
+einen Gegenstand, der sich ihnen grade zum Anblick
+darbietet, Mittheilungen anknüpft, von denen er an-
+nimmt, daß sie den Antheil der den Werkraum Durch-
+musternden erregen könnten.</p>
+<p>Treten wir also nun in die Arbeit&sr;stätte selbst
+ein und sprechen wir zunächst von den ersten und
+nothwendigsten Hilf&sr;mitteln de&sr; Wörterbuchschreiber&sr;.</p>
+<p>Sie denken Sich ohne Weitere&sr; und begreifen
+sofort, daß er sich, wenn e&sr; sich nicht etwa um eine
+Sprache handelt, in der e&sr; überhaupt noch kein Wörter-
+buch giebt, zunächst alle seine selbständigen Vorgänger
+möglichst vollständig zu verschaffen suchen wird, da e&sr;
+sich eigentlich doch nur darum handeln kann, den be-
+reit&sr; von diesen zusammengebrachten und in bestimmter
+Ordnung eingereiheten Stoff zu ergänzen, zu vervoll-
+ständigen, zu erweitern, zu berichtigen u. s. w., indem
+man Fehlende&sr; hinzufügt, namentlich übersehene oder
+neu hinzugekommene Wörter, Wortverbindungen,
+Reden&sr;arten und eigenartige Anwendungen, wie auch
+<pb="25"/>
+den früheren Sammlern entgangene oder erst nach
+ihrer Zeit au&sr;gebildete eigenthümliche und besondere
+Bedeutungen von Wörtern ein- und nachträgt, irrige
+und falsche oder doch au&sr; einseitigen, beschränkten und
+unzureichenden Beobachtungen abgezogene Bemer-
+kungen, Regeln und Vorschriften über den Sprach-
+gebrauch verbessert und umgestaltet u. ä. m.</p>
+<p>Nehmen nun schon die Wörterbücher meiner selb-
+ständigen Vorgänger in meiner Werkstatt einen immer-
+hin ansehnlichen Raum ein, so verschwinden sie doch
+gegen die übrigen Bücher und Schriften, au&sr; welchen
+ich den im heutigen Gebrauch lebenden Wortschatz
+unserer unerschöpflich reichen Muttersprache möglichst
+vollständig zu gewinnen und mit den nöthigen Be-
+legen in mein Wörterbuch einzutragen beflissen war.</p>
+<p>&201E;Wörterbuch der deutschen Sprache. Mit Be-
+legen von Luther bi&sr; auf die Gegenwart&201C;, hatte ich
+auf den Titel meine&sr; Werke&sr; gesetzt und so handelte
+e&sr; sich also um da&sr; Schriftthum von reichlich vierte-
+halb Jahrhunderten. Natürlich ist Da&sr; nicht so zu
+verstehen, al&sr; ob ich &2014; oder al&sr; ob überhaupt irgend
+Jemand &2014; alle&sr; da&sr; in diesem weiten Zeitraume in
+deutscher Sprache Erschienene oder auch nur da&sr; von
+dem Erschienenen in irgend einem Abdruck Erhaltene
+&2014; in stetigem Rückblick auf da&sr; darau&sr; für da&sr;
+<pb="26"/>
+Wörterbuch zu Gewinnende &2014; von A bi&sr; Z hätte durch-
+lesen, au&sr;ziehen und au&sr;nützen können. E&sr; bleibt
+immerhin noch eine Riesenaufgabe, wenn man au&sr;
+diesem ungeheuren Wust auch nur die hervorragen-
+deren Schriften au&sr;wählt, die durch ihre Bedeutsam-
+keit und ihren inneren Werth e&sr; verdienen, al&sr; gültige
+Zeugen und Gewähr&sr;männer für da&sr; Vorkommen von
+Au&sr;drücken, Redewendungen und Reden&sr;arten, Wort-
+fügungen und Wortbedeutungen aufgerufen zu werden
+oder die selbst nachwei&sr;bar auf die Au&sr;- und Fort-
+bildung der Sprache einen namhaften und beachten&sr;-
+werthen Einfluß geübt. E&sr; soll damit durchau&sr; nicht
+gesagt sein, daß nicht auch in den unbeachtet ge-
+bliebenen Schriften sich manche&sr; für da&sr; Wörterbuch
+Beachten&sr;werthe und wohl zu Verwerthende findet,
+aber welcher Bergmann würde daran gehen, Schutt-
+halden au&sr;zuklauben, so lange sich ihm noch reiche und
+ergiebige edle Erzadern zur Au&sr;beutung darbieten?
+Dazu kommt noch, daß Demjenigen, welcher die Fülle
+der mit gutem Bedacht au&sr;gewählten Schriften sorg-
+sam und getreulich zur möglichst vollständigen und er-
+schöpfenden Au&sr;nutzung für da&sr; Wörterbuch durch-
+mustert, fast ganz von selbst der Zufall auch eine nicht
+geringe Anzahl anderer, ursprünglich nicht mitgewählter
+Schriften in die Hände spielt, in denen er mit geschärftem
+<pb="27"/>
+Blick oft sehr wohl verwerthbare und werthvolle Be-
+lege entdeckt, die er, sich seine&sr; guten Finderglücke&sr;
+freuend, in die für da&sr; Wörterbuch angelegten Vor-
+rath&sr;behälter einträgt. Auch hatte ich mich de&sr; Glücke&sr;
+zu erfreuen, daß, sowohl bei meinem Wörterbuche der
+deutschen Sprache, wie späterhin bei meinem Ergän-
+zung&sr;-Wörterbuche, persönlich mir ganz Fernstehende mir
+unaufgefordert und au&sr; eigenem Antriebe reiche Bei-
+steuern von höchst erwünschten Belegstellen zusandten,
+die zur wesentlichen Bereicherung meiner eigenen
+Sammlungen dienten. Besonder&sr; hervorheben muß ich
+e&sr;, daß ich bei den von mir au&sr;gewählten Schriften
+mich durchau&sr; nicht bloß auf die wissenschaftlichen und
+schönwissenschaftlichen beschränkt, sondern ganz eigen&sr;
+und geflissentlich auch die fachwissenschaftlichen mit in
+den Krei&sr; hineingezogen, wie ich e&sr; denn in noch
+weiterem Umfange al&sr; eine meiner Hauptaufgaben
+ansah, in meinem Wörterbuche nicht nur die Bücher-
+sprache, sondern zugleich auch die Sprache de&sr; gewöhn-
+lichen Leben&sr;, de&sr; Handel&sr; und Wandel&sr;, de&sr; allge-
+meinen Verkehr&sr;, der Handwerke, Künste, Fabriken und
+der verschiedenen Beruf&sr;arten mit aufzunehmen, zu wür-
+dern und zu erklären, wofür, wo die Bücher nicht au&sr;-
+reichten, au&sr; mündlicher Unterhaltung mir Belehrung und
+Au&sr;kunft zu verschaffen, ich mir angelegen sein ließ.</p>
+<pb="28"/>
+<p>Welche Masse von Büchern mir den Stoff ge-
+liefert, mag man annähernd erkennen, wenn man sich
+die Mühe nehmen will, da&sr; am Schluß meine&sr; &201E;Wörter-
+buche&sr; der deutschen Sprache&201C; (in der zweiten Hälfte
+de&sr; zweiten Bande&sr;, S. 1816 ff.) enthaltene und hier
+30 Spalten, jede zu etwa 80 Zeilen, füllende &201E;Quellen-
+verzeichni&sr;&201C; etwa&sr; genauer anzusehen. Absichtlich
+sind darin, wie dort eigen&sr; hervorgehoben ist, Werke,
+au&sr; denen nur vereinzelte Belegstellen entnommen sind,
+nicht besonder&sr; &2014; und eben so wenig die in den
+Sammelwerken enthaltenen Schriftsteller einzeln &2014; auf-
+geführt. Man erwäge dabei, wa&sr; in einem der-
+artigen Quellenverzeichni&sr; oft eine oder zwei Zeilen
+für eine Fülle de&sr; durchzuarbeitenden Stoffe&sr; in sich
+schließen, wa&sr; e&sr; Beispiel&sr; halber besagen will, wenn
+e&sr; hier heißt:
+<et>&201E;<g>Goethe</g>, J. W., 1749&2014;1832. Sämmtliche Werke
+in 40 Bdn. &204A;c. &2014; oder:</et>
+<et>&201E;<g>Luther</g>, Mart., 1483&2014;1546. Die Bibel nach
+der letzten von <g>Luther</g> selbst revidierten Au&sr;g., ge-
+druckt zu Wittenberg durch Han&sr; Lufft. 1545. &2014;
+Bücher und Schriften nach der Jenaer Folio-Au&sr;-
+gabe, angeführt nach Band und Blattzahl&201C; u. A. m.</et></p>
+<p>Die für da&sr; &201E;Ergänzung&sr;-Wörterbuch&201C; hinzu-
+gekommenen Schriften würden außerdem für sich
+<pb="29"/>
+noch einen ziemlich bedeutenden Umfang in Anspruch
+nehmen.</p>
+<p>Diese große Menge von Schriften au&sr; mehr al&sr;
+viertehalb Jahrhunderten war natürlich niemal&sr; gleich-
+zeitig auf einem Haufen in meiner Werkstatt oder, wie
+man sonst mein mäßig große&sr; Arbeit&sr;zimmer nennen
+will. Sie hätten darin, so sehr e&sr; auch zu Zeiten mit
+Büchern angefüllt und überfüllt war, nimmermehr zu-
+gleich Raum gefunden. Vielmehr behielt ich in meinem
+eigentlichen Arbeit&sr;raume größtentheil&sr; nur die Bücher,
+die ich eben unau&sr;gesetzt und fortwährend gleich zur
+Hand haben wollte und mußte; die übrigen Bände
+wanderten, sobald die darau&sr; für da&sr; Wörterbuch zu
+benutzenden Belegstellen möglichst vollständig entnommen
+waren, hinau&sr;, um anderen eben so für da&sr; Wörter-
+buch au&sr;zuziehenden Platz zu machen.</p>
+<p>Diejenigen, die bi&sr; hierher meiner Plauderei zu
+folgen die Freundlichkeit und Geduld gehabt, werden
+darau&sr;, denke ich, eine genügende Übersicht gewonnen
+haben über die Menge von Schriften, au&sr; denen ich
+den im Wörterbuch weiter zu verarbeitenden Stoff ge-
+zogen. Ich möchte hier nun die Mittheilung anreihen,
+auf welche Weise dieser Stoff au&sr; den Schriften au&sr;-
+gezogen worden und wie dann die auf solche Weise
+au&sr; den verschiedenen Werken zusammengebrachte Fülle
+<bs>4</bs>
+<pb="30"/>
+der später al&sr; Beispiele und Belege zu benutzenden
+Stellen, wenn auch nicht endgültig, so doch wenigsten&sr;
+vorläufig in einer einigermaßen übersichtlichen und die
+Möglichkeit einer weiteren Ordnung gewährenden An-
+ordnung zusammengestellt und eingefacht worden sind.</p>
+<p>Ich glaube, ich komme am schnellsten und kürzesten
+zum Ziel und mache mich auch den meiner Plauderei
+Folgenden am deutlichsten, wenn ich sie einlade, gemein-
+sam mit mir etwa da&sr; erste kleine Gedicht unter
+Goethe&2019;&sr; Liedern in möglichster Vollständigkeit für da&sr;
+Wörterbuch au&sr;zuziehen. Ich darf, wie bi&sr;her, auch
+hier wohl von der Freiheit der Plauderei Gebrauch
+machen, gelegentlich einzelne mir wünschen&sr;werth oder
+nothwendig erscheinende Abschweifungen einzuflechten.</p>
+<p>Da&sr; kleine zwölfzeilige Gedicht, da&sr; in der von
+mir zu Grunde gelegten vierzigbändigen Au&sr;gabe sich
+im ersten Bande, Seite 10 findet, hat den Titel: &201E;<g>Vor-
+klage</g>&201C; und lautet:</p>
+<poem><pv>Wie nimmt ein leidenschaftlich Stammeln
+Geschrieben sich so seltsam au&sr;!
+Nun soll ich gar von Hau&sr; zu Hau&sr;
+Die losen Blätter alle sammeln.</pv>
+<pv>Wa&sr; eine lange, weite Strecke
+Im Leben von einander stand,
+Da&sr; kommt nun unter <g>einer</g> Decke
+Dem guten Leser in die Hand.</pv>
+<pb="31"/>
+<pv>Doch schäme dich nicht der Gebrechen,
+Vollende schnell da&sr; kleine Buch;
+Die Welt ist voller Widerspruch:
+Und sollte sich&2019;&sr; nicht widersprechen?</pv></poem>
+<p>Sehen wir un&sr; nun da&sr; Gedicht in Bezug auf
+die darau&sr; für da&sr; Wörterbuch zu gewinnende Au&sr;-
+beute recht sorgfältig an, so drängt sich un&sr; gleich bei
+der Überschrift die Frage auf: warum hat der Dichter
+diese Überschrift gewählt? und in welchem Sinne ist
+da&sr; Wort &201E;Vorklage&201C; hier zu fassen? Lassen wir zu-
+nächst die Antwort auf sich beruhen und schreiben wir
+auf einen Zettel:</p>
+<p><g>Vorklage</g>. G. 1, 10 (d. h. so viel wie: Goethe,
+Band 1, Seite 10).</p>
+<p>Davon, daß da&sr; mittlere Ver&sr;gebinde in seiner
+Reimstellung mit den beiden anderen nicht überein-
+stimmt, sehen wir hier natürlich ab, al&sr; ohne Belang
+für da&sr; Wörterbuch, und machen un&sr; zunächst den
+Gedankengang de&sr; Dichter&sr; klar.</p>
+<p>Er ist zu dem Entschluß gekommen, seine bi&sr;her
+zerstreuten Lieder zu sammeln; aber nun kommt ihm
+ein Bedenken: er fühlt, seine bei den verschiedensten
+Gelegenheiten entstandenen Lieder waren der ungesucht
+hervorbrechende Au&sr;druck seiner jede&sr;maligen augen-
+blicklichen Stimmung, er hat darin nicht seine Ge-
+<bs>4*</bs>
+<pb="32"/>
+danken in wohlgeordneter Fassung au&sr;gesprochen, son-
+dern, von seinen Gefühlen leidenschaftlich erregt und
+überwältigt, sie, seiner kaum selbst vollbewusst, gleich-
+sam stammelnd hervorgestoßen; und darum nahm sich
+schon da&sr; einzelne Lied, wie e&sr; schriftlich aufgezeichnet
+worden, seltsam und befremdlich genug au&sr;. Da&sr;
+Befremden muß sich aber noch in hohem Grade stei-
+gern, wenn die bei den verschiedensten, zeitlich weit
+au&sr; einander liegenden Gelegenheiten und unter den
+widersprechendsten und wechselndsten Stimmungen ent-
+standenen Lieder, zu einem Buche vereinigt, unver-
+mittelt neben einander &2014;, al&sr; ständen sie, eine hinter
+einander fortlaufende Reihe bildend, in unmittelbarem
+Zusammenhange, &2014; wenn sie, sag&2019; ich, so mit all
+ihren Widersprüchen dem Leser vor die Augen kom-
+men; aber der Dichter weiß sich über die ihm auf-
+steigenden Zweifel hinwegzuhelfen und ermannt sich zu
+dem Entschlusse, ohne lange&sr; Bedenken sein kleine&sr;
+Buch fertig zu stellen. Sei doch, sagt er, die ganze
+Welt in sich voller Widersprüche: warum solle denn
+nicht auch sein Büchlein sich widersprechen dürfen?</p>
+<p>Damit ist auch der Titel de&sr; von dem Dichter
+seinem Liederbuch voraufgeschickten Gedichte&sr; erklärt,
+in welchem er Da&sr;, wa&sr; die Leser seinem Buche vor-
+werfen können, e&sr; selbst beklagend, bereitwillig zugesteht,
+<pb="33"/>
+aber nach Möglichkeit zu entschuldigen sucht, so der An-
+klage und Beschuldigung seiten&sr; der Leser zuvorkom-
+mend und vorbauend.</p>
+<p>Gehen wir nun aber in&sr; Einzelne und fragen
+un&sr;, für welche im Wörterbuch zu behandelnden Au&sr;-
+drücke zunächst die beiden ersten Zeilen de&sr; Gedichte&sr;
+passende und verwerthbare Beispiele oder Belege lie-
+fern können. Zuerst finden wir: &201E;<g>au&sr;nehmen</g>&201C;, al&sr;
+rückbezügliche&sr; Zeitwort, in der Wendung: &201E;Etwa&sr;
+nimmt sich so und so au&sr;.&201C; Wir setzen also auf einen
+au&sr;zufüllenden Zettel al&sr; Stichwort oben:</p>
+<p><b><fr>Au&sr;nehmen</fr></b> <aq>refl.</aq> [d. h. <aq>verbum reflexivum</aq> oder
+rückbezügliche&sr; Zeitwort]
+und darunter die Belegstelle:</p>
+<p>Wie <g>nimmt</g> ein leidenschaftlich Stammeln &007C; ge-
+schrieben sich so seltsam <g>au&sr;</g>! G. 1, 10.</p>
+<p>Dieselbe Belegstelle setzen wir auf einen folgenden
+Zettel, nur daß wir die&sr;mal nicht <g>au&sr;nehmen</g> durch
+Unterstreichen hervorheben, sondern &201E;<g>leidenschaftlich</g>&201C;,
+da&sr; wir auch al&sr; doppelt unterstrichene&sr; Stichwort zur
+Überschrift wählen, mit hinzugefügtem <aq>a.</aq> [d. h. Adjectiv
+und Adverb oder: Eigenschaft&sr;- und Umstand&sr;wort].</p>
+<p>Auf dem folgenden Zettel gestaltet sich die Über-
+schrift etwa so: <b><fr>Schreiben</fr></b> <aq>tr.</aq> [d. h. <aq>verbum tran&sr;itivum</aq>
+oder zielende&sr; Zeitwort], im Gegensatz zu sprechen &204A;c.
+<pb="34"/>
+und auf einem weiteren Zettel fügen wir zu dem Stich-
+wort &204A;c. <b><fr>seltsam</fr></b> außer der Bezeichnung <aq>a.</aq> (s. o.) etwa
+noch einige erklärende oder sinnverwandte Au&sr;drücke,
+wie: &201E;befremdend, befremdlich, sonderbar, eigenartig,
+eigenthümlich&201C;.</p>
+<p>Da ich planmäßig in meinem Wörterbuch die
+Formwörter nur kurz berührt habe, ihre au&sr;führliche
+Erörterung einem eigenen Buche vorbehaltend, so bin
+ich auch hier über da&sr; an der Spitze de&sr; Gedichte&sr;
+stehende au&sr;rufende Fürwort &201E;wie&201C; hinweggegangen,
+obgleich für da&sr; Wörterbuch der Formwörter unter
+diesem Stichwort die beiden ersten Verse wohl al&sr;
+Beleg verzeichnet zu werden verdient hätten, in so
+fern der Au&sr;ruf eine verschiedene Abschattung de&sr;
+Sinne&sr; zeigt, je nachdem da&sr; sich anschließende Ad-
+verb unmittelbar auf da&sr; &201E;<g>wie</g>&201C; folgt oder &2014; wie
+in dem Gedichte &2014; davon getrennt ist, vgl.: &201E;<g>Wie
+(so) seltsam</g> nimmt sich da&sr; Stammeln au&sr;!&201C; und:
+&201E;<g>Wie</g> nimmt e&sr; sich <g>(so) seltsam</g> au&sr;!&201C;</p>
+<p>Doch für un&sr; hier kommt e&sr; ja überhaupt nicht
+darauf an, ob wir au&sr; einem Gedichte für da&sr; Wörter-
+buch einen Zettel mehr oder weniger gewinnen, son-
+dern vielmehr nur, beispiel&sr;weise zu zeigen, wie sich
+die au&sr;zuziehenden Zettel gestalten. So übergehe ich
+denn auch unter den au&sr; dem dritten und vierten
+<pb="35"/>
+Verse für da&sr; Wörterbuch zu gewinnenden Zetteln
+diejenigen, an deren Spitze al&sr; Stichwörter &201E;<g>nun</g>&201C;
+und &201E;<g>gar</g>&201C; zu setzen wären, und begnüge mich, hier
+folgende Stichwörter herzusetzen: <b><fr>Hau&sr;</fr></b> <aq>n.:</aq> von <g>Hau&sr;</g>
+zu <g>Hau&sr;</g> = von einem Hau&sr; zum andern [gehend]
+&204A;c. &2014; <b><fr>lose</fr></b> <aq>a.</aq> &2014; <b><fr>Blatt</fr></b> <aq>n.</aq> zum Schreiben, zu Aufzeich-
+nungen dienende&sr; &2014; oder: damit versehene&sr;, beschrie-
+bene&sr;; &2014; <b><fr>sammeln</fr></b> <aq>tr.</aq></p>
+<p>Die au&sr; dem zweiten Ver&sr;gebinde zu gewinnen-
+den Belegstellen stehen bezüglich unter den Stich-
+wörtern: <b><fr>lang</fr></b> <aq>a.;</aq> <b><fr>weit</fr></b> <aq>a.;</aq> <b><fr>Strecke</fr></b> <aq>f.;</aq> <b><fr>Leben</fr></b> <aq>n.;</aq>
+<b><fr>stehen</fr></b> <aq>intr[an&sr;it].;</aq> von (oder au&sr;) einander <g>stehen</g>,
+entfernt sein &204A;c. &2014; <b><fr>kommen</fr></b> <aq>intr.:</aq> Einem in die Hand
+(vergl. in Jemande&sr; Hand) <g>kommen</g>; <b><fr>Decke</fr></b> <aq>f.:</aq> eine&sr;
+Buche&sr; = Umschlag, Einband, Deckel; <b><fr>gut</fr></b> <aq>a.:</aq> der
+<g>gute</g> Leser, vergl. gütig, geneigt, wohlwollend. &2014;
+<b><fr>Leser</fr></b> <aq>m.;</aq> <b><fr>Hand</fr></b> <aq>f.:</aq> Einem in die <g>Hand</g> kommen
+(s. d.).</p>
+<p>Schließlich finden sich die au&sr; den letzten 4 Zeilen
+zu ziehenden Zettel unter den Stichwörtern: <b><fr>schämen,</fr></b>
+<aq>refl.,</aq> mit Genit. &2014; <b><fr>Gebrechen</fr></b> <aq>n.,</aq> vgl. Fehler, Mangel,
+Unvollkommenheit &204A;c. &2014; <b><fr>vollenden</fr></b> <aq>tr.;</aq> <b><fr>schnell</fr></b> <aq>a.</aq> =
+ohne lange&sr; Bedenken &204A;c., vgl. <g>schnell</g> entschlossen &204A;c.;
+&2014; <b><fr>Buch</fr></b> <aq>n.;</aq> <b><fr>West</fr></b> <aq>f.;</aq> <b><fr>voll</fr></b> <aq>a.</aq> (<g>voller</g>, im Positiv);
+<b><fr>Widerspruch</fr></b> <aq>m.;</aq> <b><fr>widersprechen</fr></b> <aq>intr.</aq></p>
+<pb="36"/>
+<p>In dem Goethe&2019;schen Gedicht wird da&sr; geschrie-
+bene Lied dem sich der Brust unwillkürlich, wenn auch
+in gestammelten Lauten, entringenden entgegenge-
+stellt. Da&sr; erinnert mich an ein Rückert&2019;sche&sr; Sinn-
+gedicht, au&sr; welchem wir noch einige weitere Beleg-
+stellen für da&sr; Wörterbuch au&sr;heben und auf Zetteln
+verzeichnen wollen. Da&sr; Gedicht findet sich al&sr;
+Rückert&2019;&sr; Beisteuer in dem 1840 von <aq>Dr.</aq> Heinrich
+Meyer herau&sr;gegebenen Guttenberg&sr;-Album S. 106
+und lautet:</p>
+<poem>Vier Jahrhunderte sind geschwunden,
+Seit du die schwarze Kunst erfunden;
+Wa&sr; hat sie der Welt für Gewinn gebracht?
+Den Bücherhaufen größer gemacht. 4
+Dir mögen die Wissenschaften danken
+Für die Erweitrung der Geiste&sr;schranken,
+Die Weltverbreitung der Gedanken.
+Die Poesie steht gedankenvoll 8
+Und weiß nicht, wa&sr; sie sagen soll.
+Al&sr; sie, statt gesungen, ward gesprochen,
+War ihr der eine Fittig gebrochen;
+Al&sr; sie, statt gesprochen, ward geschrieben, 12
+Ist im andern Fittig kein Kiel geblieben.
+Nun, statt geschrieben, sie wird gedruckt,
+Hat sie de&sr; Tode&sr; Krampf durchzuckt.
+Nur die Kritik 16
+Und die Politik,
+<pb="37"/>
+Die beiden Tode der Poesie,
+Ohne Druckerschwärze, wa&sr; wären sie?
+Drum mögen dir diese beiden huldigen, 20
+Die Poesie lässt sich entschuldigen.</poem>
+<p>Man sieht sofort, daß ich zunächst die Verse 10
+bi&sr; 15 im Auge hatte, und diese liefern un&sr; auch für
+unsere Sammlung Zettel, je mit den an die Spitze zu
+stellenden zielenden Zeitwörtern: <b><fr>singen; sprechen;
+schreiben; drucken</fr></b> al&sr; Stichwörtern. Andere darau&sr;
+für da&sr; Wörterbuch zu verwerthende Zettel führen al&sr;
+Überschrift die Stichwörter: <b><fr>Fittig</fr></b> <aq>m.;</aq> <b><fr>Kiel</fr></b> <aq>m.</aq> <b><fr>blei-
+ben</fr></b> <aq>intr.;</aq> <b><fr>Krampf</fr></b> <aq>m.</aq> <b><fr>(Tode&sr;krampf); durchzucken</fr></b> <aq>tr.</aq>
+&2014; Zettel, die sich au&sr; andern Versen de&sr; Gedichte&sr;
+für da&sr; Wörterbuch gewinnen lassen, fallen z. B. unter
+die Stichwörter: <b><fr>Jahrhundert</fr></b> <aq>n.</aq> und <b><fr>schwinden,</fr></b> <aq>intr.</aq>
+(V. 1). &2014; <b><fr>schwarz</fr></b> <aq>a.</aq> und <b><fr>Kunst</fr></b> <aq>f.</aq> (V. 2). &2014; <b><fr>Gewinn</fr></b> <aq>m.</aq>
+und <b><fr>bringen</fr></b> <aq>tr.</aq> (V. 3). &2014; <b><fr>Bücherhaufen</fr></b> <aq>m.;</aq> <b><fr>groß</fr></b> <aq>a.</aq>
+(größer machen, vgl. vergrößern) (V. 4). &2014; <b><fr>Wissen-
+schaft</fr></b> <aq>f.,</aq> im Gegensatz zur Poesie, vgl.: schöne <g>Wissen-
+schaften</g>, und <b><fr>danken</fr></b> <aq>intr.</aq> (V. 5). &2014; <b><fr>Erweitrung</fr></b> <aq>f.</aq>
+und <b><fr>Geiste&sr;schranke</fr></b> <aq>f.</aq> (V. 6). &2014; <b><fr>Weltverbreitung</fr></b> <aq>f.</aq>
+und <b><fr>Gedanke</fr></b> <aq>m.</aq> (V. 7). &2014; <b><fr>gedankenvoll</fr></b> <aq>a.</aq> (V. 8).
+Ferner z. B.: <b><fr>Tod</fr></b> <aq>m.,</aq> Mehrzahl: die Tode (V. 18).
+&2014; <b><fr>Druckerschwärze</fr></b> <aq>f.</aq> (V. 19). &2014; <b><fr>huldigen</fr></b> <aq>intr.</aq>
+(V. 20). &2014; <b><fr>entschuldigen</fr></b> <aq>tr., refl.:</aq> sich entschuldigen
+<pb="38"/>
+= sein Nicht-Erscheinen, sein Au&sr;bleiben entschuldigen
+(V. 21).</p>
+<p>Au&sr; dem Gesagten wird, denke ich, vollständig
+klar geworden sein, auf welche Weise die Zettel für
+da&sr; Wörterbuch au&sr; den Schriften au&sr;gezogen und
+hergestellt werden, &2014; natürlich nicht, um sammt und
+sonder&sr; vollständig an ihrer Stelle in&sr; Wörterbuch
+aufgenommen zu werden, sondern vielmehr, um die
+nothwendige oder doch wünschen&sr;werthe Fülle de&sr;
+Stoffe&sr; zu bieten, au&sr; welcher dann jede&sr; Mal nur
+die bedeutsamsten, bewei&sr;kräftigsten und schlagendsten
+Belege au&sr;zuheben und au&sr;zuwählen sind. Die an-
+deren Zettel sind darum doch nicht nutzlo&sr;, sie liefern
+die Beispiele für die keiner besondern Belege bedür-
+fenden und doch so nothwendigen, möglichst vollständig
+aufzuführenden allgemein üblichen Bedeutungen, An-
+wendungen, Verbindungen und Fügungen der einzelnen
+Wörter; und eine reiche Fülle, selbst Überfülle von
+Zetteln erweist sich al&sr; vortheilhaft, weil in einer der-
+artigen Zettelwirthschaft auch bei der aufmerksamsten
+Sorgfalt und größten Achtsamkeit man kaum je ganz
+wird vermeiden können, daß sich Manche&sr; &2014; ver-
+zettele, sei e&sr;, daß einzelne Zettel ganz verloren gehen
+oder doch wenigsten&sr; verkramt werden, in ein falsche&sr;
+Fach hineingerathen oder Ähnliche&sr; mehr, so daß,
+<pb="39"/>
+wenn nicht mehrere Zettel für Ein und Da&sr;selbe vor-
+handen sind, die Gefahr nahe liegt, etwa&sr; Beachten&sr;-
+und Erwähnen&sr;werthe&sr; an der richtigen Stelle zu
+übersehen und au&sr;zulassen. Daß sich in der Her-
+stellung der Zettel manche Abkürzungen und Verein-
+fachungen bei der Au&sr;führung fast von selbst ergeben,
+mag hier wenigsten&sr; im Vorübergehen erwähnt werden.</p>
+<p>Aber wie werden nun diese Zettel, jeder an der
+gehörigen Stelle, untergebracht, so daß man bei der
+Au&sr;arbeitung eine&sr; bestimmten Worte&sr; die dafür ge-
+sammelten und zu verwerthenden Aufzeichnungen alle
+übersichtlich zur Hand hat?</p>
+<p>Die erste vorläufige Sonderung und Ordnung der
+Zettel geschieht nach dem Anfang&sr;buchstaben der Stich-
+wörter. Man braucht ein besondere&sr; Behältni&sr; für
+<b><fr>A</fr></b> al&sr; Anfang&sr;buchstaben, ein andere&sr; für <b><fr>B</fr></b> u. s. w.
+Der Umfang dieser Behältnisse ist verschieden, ähnlich
+wie der für die Fächer in einem Setzkasten, und richtet
+sich danach, wie häufig ein bestimmter Buchstabe im
+Anfange deutscher Wörter etwa auftritt. Man sieht
+von vorn herein, daß man für <b><fr>C</fr></b> und <b><fr>Q</fr></b> al&sr; An-
+fang&sr;buchstaben mit einem geringen Raum au&sr;reicht,
+daß dagegen <b><fr>S</fr></b> einen ganz unverhältni&sr;mäßig großen
+Raum in Anspruch nimmt, so daß man sich veranlasst
+findet, wenn nicht von vorn herein, doch jedenfall&sr;
+<pb="40"/>
+sehr bald Unterabtheilungen zu machen und statt eine&sr;
+einzigen Behälter&sr; für <b><fr>S</fr></b> mehrere zu wählen, etwa
+einen eigenen für <g>Sa</g> und eigene andere für <g>Sch,
+Se, Si, Sk, So, Sp, St, Su</g> u. ä. m.</p>
+<p>Hätte ich mich nun dafür entschieden, wie e&sr; die
+Grimm und die meisten Verfasser deutscher Wörter-
+bücher gethan, die aufzunehmenden Wörter &2014; gleich-
+viel, ob e&sr; Grundwörter oder Zusammensetzungen sind
+&2014; unterschiedlo&sr; und gleichmäßig hinter einander, rein
+nach ihrer Reihenfolge im Abece, aufzuführen, so würde
+z. B. der erste der hier von un&sr; gewonnenen Zettel,
+mit dem Stichworte: <b><fr>Vorklage</fr></b> in da&sr; Behältni&sr; für
+<b><fr>V</fr></b> gelegt worden sein, der zweite mit dem Stichworte:
+<b><fr>au&sr;nehmen</fr></b> in da&sr; für <b><fr>A</fr></b> u. s. w. Ich aber bin nach
+allseitiger Prüfung und Erwägung aller einschlägigen
+Verhältnisse zu der unerschütterlichen Überzeugung ge-
+langt, daß nach der Eigenart unserer Sprache eine
+innere Vollständigkeit de&sr; Wörterbuche&sr; nur erreichbar
+ist, wenn hier die Zusammensetzungen unter den Grund-
+wörtern behandelt werden, allerding&sr; aber &2014; so weit
+sie eine besondere Besprechung erheischen &2014; der
+schnellen Übersichtlichkeit halber streng nach der Reihen-
+folge de&sr; Abece. Darauf werde ich an anderer Stelle
+noch au&sr;führlich und eingehend zurückkommen. Jeden-
+fall&sr; aber folgt darau&sr;, daß nach der Anordnung, die
+<pb="41"/>
+ich für da&sr; Wörterbuch al&sr; die zweckmäßigste erkannt
+und gewählt, <g>Vorklage</g> unter <g>Klage, au&sr;nehmen</g>
+unter <g>nehmen</g> zu behandeln ist und daß demgemäß
+hier die beiden Zettel bezüglich nicht in die Behälter
+für <b><fr>V</fr></b> und <b><fr>A</fr></b>, sondern in die für <b><fr>K</fr></b> und <b><fr>N</fr></b> zu legen
+sind. Ähnliche&sr; gilt für alle Zusammensetzungen über-
+haupt, auch da, wo da&sr; Grundwort allein an und
+für sich wenig oder nicht üblich ist. Sehen wir un&sr;
+z. B. die Zusammensetzungen in unserer bi&sr;herigen
+kleinen Zettelsammlung an. Wir werden hier au&sr;
+dem Goethe&2019;schen Gedicht <g>Gebrechen</g> al&sr; zusammen-
+gesetzt au&sr; <g>brechen</g> (mit der Vorsilbe <g>ge-</g>) in da&sr;
+Behältni&sr; für <b><fr>B</fr></b> legen, <g>Widerspruch</g> nach dem
+Grundwort <g>Spruch</g> in da&sr; Fach für <b><fr>Sp</fr></b> und eben so
+<g>widersprechen</g> nach dem Grundwort <g>sprechen</g>;
+ferner au&sr; dem Rückert&2019;schen Gedicht: <g>Jahrhun-
+dert</g> <aq>n.</aq> nach dem Grundwort: da&sr; <g>Hundert</g> in den
+Behälter für <b><fr>H</fr></b>; <g>Gewinn</g> <aq>m.</aq> nach dem allerding&sr;
+für sich allein nur selten noch vorkommenden Grund-
+wort: der <g>Winn</g> dem <b><fr>W</fr></b> zutheilen; <g>Bücherhaufen</g>
+(Grundwort: <g>Haufen</g>) dem <b><fr>H</fr></b>, <g>Erweit(e)rung</g> nebst
+<g>erweitern</g> (Grundwort: <g>weitern</g>) dem <b><fr>W</fr></b>, <g>Geiste&sr;-
+schranke</g> (Grundwort: <g>Schranke</g>) dem <b><fr>Sch.</fr></b> Ferner
+ist für <g>Weltverbreitung</g> da&sr; Grundwort: <g>Ver-
+breitung</g>, da&sr; nach der Einrichtung meine&sr; Wörter-
+<pb="42"/>
+buche&sr; unter <g>verbreiten</g> zu besprechen ist, wie diese&sr;
+selbst wieder unter dem Grundworte <g>breiten</g>. Dem-
+gemäß legen wir den Zettel mit dem Belege für
+<g>Weltverbreitung</g> in da&sr; für <b><fr>B</fr></b> bestimmte Behält-
+ni&sr; u. s. w.</p>
+<p>Wie nun die weitere Sonderung und Vertheilung
+der Zettel vor sich geht, begreift sich ohne Weitere&sr;.
+Nimmt man z. B. da&sr; geräumige Behältni&sr; vor,
+welche&sr; alle für die Au&sr;arbeitung de&sr; Buchstaben <b><fr>A</fr></b>
+im Wörterbuch bestimmten Zettel in sich schließt, so
+richtet man bei den Stichwörtern da&sr; Augenmerk auf
+die dem <b><fr>A</fr></b> unmittelbar folgenden Buchstaben. Man
+hat eine genügende Anzahl kleinerer Behälter, die den
+Anfängen: A, <g>Aa, Ab, Ach, Ack, Ad, Ae, Af, Ag,
+Ah, Ai, Ak, Al</g> u. s. w. entsprechen. In diese ordnet
+man ohne Schwierigkeit sämmtliche Zettel für <b><fr>A</fr></b> ein.
+Die weitere Sonderung erfolgt in ganz gleicher Weise,
+nur daß man jetzt da&sr; Augenmerk bezüglich auf den
+dritten &204A;c. der Anfang&sr;buchstaben im Stichworte richtet,
+und so gewinnt man z. B. au&sr; dem Behälter für <g>Aa</g>
+die weiter geordneten Zettel für <g>Aa, Aach, Aak,
+Aal, aalen, aalicht, Aam, Aap, Aar, aasen,
+Aaser, aa&sr;haft, aasig</g> u. s. w.</p>
+<p>Kommen wir nun zu den mit <g>Ab</g> beginnenden
+Zetteln, so tritt hier besonder&sr; scharf der Unterschied
+<pb="43"/>
+in der Anordnung&sr;weise der Zusammensetzungen bei
+mir und bei Andern hervor.</p>
+<p>Da, wo die Zusammensetzungen mit den Grund-
+wörtern unterschiedlo&sr;, al&sr; wären sie gleichberechtigt,
+in ganz gleicher Reihe nach der Folge de&sr; Abece auf-
+marschieren, folgen unmittelbar auf <g>Ab</g> (al&sr; Adverb),
+die mit dieser Vorsilbe gebildeten Zusammensetzungen,
+die bei mir den bezüglichen Grundwörtern zugeordnet
+sind. So folgen dort auch auf da&sr; Hauptwort <g>Abend</g>
+die Zusammensetzungen, in welchen diese&sr; Wort al&sr;
+Bestimmung&sr;wort die erste Hälfte bildet. In dem
+Grimm&2019;schen Wörterbuch z. B. sind derartiger Zu-
+sammensetzungen etwa 100 aufgeführt. Welche Will-
+kürlichkeit und Lückenhaftigkeit aber hierbei herrscht,
+zeigt sich unwiderleglich, wenn man sieht, daß ich in
+meiner kritischen Beleuchtung de&sr; Grimm&2019;schen Wörter-
+buch&sr; (Heft <aq>I</aq>, S. 24 ff. und Heft <aq>II</aq>, S. 229 ff.) und in
+meinem Programm eine&sr; neuen deutschen Wörterbuche&sr;
+S. 17 eine größere Zahl eben so zur Aufnahme be-
+rechtigter, aber bei Grimm fehlender derartiger Zu-
+sammensetzungen habe nachtragen können. In meiner
+Zettelsammlung haben diese mehr al&sr; 200 mit &201E;Abend&201C;
+beginnenden Zusammensetzungen ihre Stelle nicht unter
+&201E;<g>Abend</g>&201C; gefunden, sondern, wie gesagt, jede&sr; Mal
+unter dem betreffenden Grundworte. Sehen wir un&sr;
+<pb="44"/>
+im Grimm&2019;schen Wörterbuch wenigsten&sr; die ersten vier
+der unmittelbar hinter &201E;Abend&201C;, eben so wie diese&sr;, al&sr;
+eigene, selbständige Artikel aufgeführten Wörter an.
+Da treffen wir zuerst:</p>
+<p><aq>ABENDANDACHT, f. &sr;eine abendandacht halten.</aq>
+Da&sr; ist Alle&sr;, wa&sr; der Nachschlagende hier findet, und,
+wenn er über die Bedeutung de&sr; Worte&sr; Weitere&sr; er-
+fahren will, bleibt ihm Nicht&sr; übrig, al&sr; da&sr; Wort
+<g>Andacht</g> nachzuschlagen. Hier findet er denn auch in
+der That unter Anderem:
+<et>&201E;Zumal wird unter <g>Andacht</g> da&sr; Gebet ver-
+standen, seine Andacht verrichten, solche Gebete heißen
+<g>Morgen-</g> und <g>Abendandachten</g>&201C;.</et></p>
+<p>Ist e&sr; da nicht viel einfacher, gleich eine Anord-
+nung zu treffen, nach welcher der Nachschlagende von
+vorn herein weiß, daß er die Au&sr;kunft über <g>Abend-
+andacht</g> unter dem Grundwort <g>Andacht</g> zu suchen
+hat, welche&sr;, al&sr; selbst zusammengesetzt, er in <b><fr>D</fr></b> unter
+dem &201E;außer in Zusammensetzungen ungewöhnlichen&201C;
+weiblichen Hauptwort <g>Dacht</g> findet, wie Da&sr; in meinem
+Wörterbuch der Fall ist? Auf diese Weise gewinnt
+man nicht nur an Raum und erspart gleichzeitig dem
+Suchenden die Mühe eine&sr; vergeblichen und unnützen
+Nachschlagen&sr;, sondern e&sr; fällt auch auf da&sr; gesuchte
+Wort durch die Stelle, an der e&sr; beispiel&sr;weise neben
+<pb="45"/>
+anderen ähnlichen und in unerschöpflicher Anzahl nach
+Ähnlichkeit zu bildenden Zusammensetzungen steht, so-
+fort die richtige und gehörige Beleuchtung, s. mein
+Wörterbuch, wo unter <g>Andacht</g> in der engern Be-
+deutung: Gebet, anbetende Verehrung, Religion&sr;-
+übung u. s. w. beispiel&sr;weise meiner Zettelsammlung
+auch folgende Belege entnommen sind: Den &2026; Kopf
+eine&sr; Jupiter&sr; &2026; Meine <g>Morgen</g>-A. an ihn richten.
+Goethe 23, 181 &2026; Gebetformel zu <g>Morgen-</g> und
+<g>Abend-A&2014;en</g>. Klencke, Parnaß zu Braunschweig
+1, 15 &204A;c. Nach dieser Anordnung begreift man an
+dieser Stelle sofort, ohne daß e&sr; besonder&sr; einer
+Einzel-Au&sr;führung und -Aufzählung bedürfte, daß
+sich zahlreiche ähnliche Zusammensetzungen bilden lassen,
+z. B.: <g>Mittag&sr;-, Vesper-, Sonntag&sr;-, Werktag&sr;-,
+Fest-, Oster-, Weihnacht&sr;-Andacht</g> u. s. w. und
+welche&sr; ihre Bedeutung ist. Wenn aber diese und
+ähnliche Zusammensetzungen nach ihren Anfang&sr;buch-
+staben in alphabetischer Reihe au&sr; einander gerissen und
+zerstreut sämmtlich &2014; eben so wie <g>Abendandacht</g> &2014;
+im Wörterbuch aufgeführt werden sollen: wie will
+man da auf eine auch nur einigermaßen erschöpfende
+Vollständigkeit rechnen? (So fehlen z. B. in den bi&sr;
+jetzt erschienenen Bänden de&sr; Grimm&2019;schen Wörter-
+buche&sr;: <g>Din&sr;tag&sr;-, Fest-, Freitag&sr;-, Karfreitag&sr;-</g>
+<bs>5</bs>
+<pb="46"/>
+<g>Andacht</g>) und, wenn willkürlich nur die von den
+Sammlern zufällig aufgezeichneten Zusammensetzungen
+dieser Art dem Wörterbuch einverleibt werden, ist diese
+die Au&sr;kunftsuchenden in andern Fällen zum vergeb-
+lichen Nachschlagen verlockende Weise nicht die un-
+nützeste Raumverschwendung?</p>
+<p>Auf <g>Abendandacht</g> folgt im Grimm&2019;schen
+Wörterbuch:</p>
+<p><aq>&201E;ABENDBESUCH, m. nnl.</aq> [= neuniederländisch]
+<aq>avondbezoek, den man abend&sr; macht oder empfängt.&201C;</aq></p>
+<p>Bei mir steht die&sr; Wort nicht al&sr; eigener, beson-
+derer Artikel, sondern unter <g>Besuch</g> (s. <g>Such</g>) in der
+Bedeutung Visite &204A;c. (mit einem Belege au&sr; Goethe),
+al&sr; Beispiel der Zusammensetzungen, von denen ich hier
+mit Rücksicht auf den Raum nur die andern mit dem
+Buchstaben <b><fr>A</fr></b> beginnenden hersetzen will: <g>Abschied&sr;-,
+Anstand&sr;-, Antritt&sr;-Besuch</g>. Diese gewiß eben so
+zur Aufnahme berechtigten Zusammensetzungen fehlen
+im Grimm&2019;schen Wörterbuch. E&sr; wird vergönnt sein,
+au&sr; dem Vorwort zu meinem Ergänzung&sr;-Wörterbuch
+hier einen Satz zu wiederholen. &201E;Ich habe,&201C; heißt
+e&sr; dort, &201E;in Betreff der Zusammensetzungen, die au&sr;
+dem Wesen unserer Sprache selbst geschöpfte und durch
+den Erfolg meine&sr; großen Wörterbuche&sr; bewährte
+Anordnung&sr;weise fest haltend, von vorn herein auf
+<pb="47"/>
+eine rein äußerliche und dabei doch nie ganz zu er-
+reichende Vollständigkeit verzichten können, mich auf
+eine sorgfältige Au&sr;wahl wirklich bezeichnender und
+maßgebender Zusammensetzungen beschränkend, nach
+deren Ähnlichkeit man jede&sr; Mal leicht unzählige
+andere wird bilden und verstehen können. In einer
+die Grundwörter und die Zusammensetzungen durch
+einander wirrenden und sie, al&sr; wären sie gleich
+berechtigt, nach ihrer Reihenfolge im Abece hinter
+einander aufführenden Anordnung hätte die innere
+Vollständigkeit in den Zusammensetzungen selbst nicht
+auf dem Drei- und Vierfachen de&sr; Umfange&sr; erreicht
+werden können.&201C; Hinzufügen möchte ich nur noch,
+daß, wenn man einmal bei der Entwerfung de&sr;
+Plane&sr; und Grundrisse&sr; zu einem Bau für die licht-
+volle Anordnung Sorge zu tragen, versäumt hat, e&sr;
+ein vergebliche&sr; Bemühen ist, hintennach da&sr; Licht &2014;
+und sei e&sr; in Scheffelsäcken &2014; von außen hineintragen
+zu wollen.</p>
+<p>In Bezug auf da&sr; nun im Grimm&2019;schen Wörter-
+buch folgende &201E;<g>Abendbetglocke</g>&201C; könnte ich nur da&sr;
+Gesagte mit anderen Beispielen wiederholen und eben
+so bei dem darauf folgenden:</p>
+<p><aq>ABENDBLATT, n. abend&sr; au&sr;gegebne zeitung,
+&sr;chw.</aq> [= schwedisch] <aq>aftonbladet</aq> [lie&sr;: <aq>aftonblad</aq>], dem
+<bs>5*</bs>
+<pb="48"/>
+ich zunächst einfach au&sr; der au&sr;führlichen Behandlung
+de&sr; Worte&sr; <g>Blatt</g> in meinem Wörterbuch folgende
+Stelle gegenüberstellen möchte:
+<et>&201E;Blätter, öffentliche Blätter: Zeitungen, Zeit-
+schriften: Die Nachricht hat in allen Blättern ge-
+standen. Er redigiert ein kritische&sr; Blatt. Blätter
+für litterarische Unterhaltung. Wer hätte auf
+deutsche Blätter Acht, &007C; Morgen&sr;, Abend&sr; und
+Mitternacht. G[oethe] 3, 129, und viele Zusammen-
+setzungen, welche Zeit de&sr; Erscheinen&sr;, Inhalt,
+Leserkrei&sr;, Zweck, Prei&sr; angeben, z. B.: Die Morgen-,
+die Abend-, die Nachmittag&sr;- und Mitternacht&sr;blätter.
+Immermann M. 1, 140; Tage&sr;blätter (Börne 2, 108);
+Wochenblättlein (Hebel 3, 204); Sonntag&sr;-B.; Zeit-
+(Immermann 12, 141), Zeitung&sr;blatt (Freiligrath 1, 109),
+Amt&sr;-, Bezirk&sr;-, Krei&sr;-, Provinzial-, Volk&sr;-, Schul-,
+Ergänzung&sr;-, Unterhaltung&sr;-, Konversation&sr;-, Mode-,
+Haupt-, Bei- (Auerbach Leb. 1, 105), Partei-, Pfennig-,
+Riesen-B. (Kohl Engl. 2, 13, von sehr großem Format)
+u. ä. m.&201C;</et></p>
+<p>Da aber, möchte man weiter fragen, <g>Abendblatt</g>
+im Grimm&2019;schen Wörterbuch unter einem eigenen Stich-
+wort behandelt ist, warum fehlt denn z. B. <g>Abend-
+zeitung</g> und da&sr; doch wohl eine besondere Besprechung
+herau&sr;fordernde: <g>Abendpost</g>, vgl. in meinem Wörter-
+<pb="49"/>
+buch unter dem Grundworte <g>Post</g>, da&sr; Folgende:
+&201E;.... auch al&sr; Titel von Zeitschriften, z. B. Ost-
+deutsche P., redigiert von Kuranda &204A;c. (s. Schnell-,
+Morgen-P.) &2026; Zusammensetzungen (vgl. entsprechend
+die von &201A;Zug&2018; in Beziehung auf Eisenbahnen), z. B.
+nach der Zeit, beziehung&sr;weise de&sr; Abgang&sr;- oder der
+Ankunft: Die <g>Zehnuhr-, Früh-, Morgen-, Abend-,
+Mittag&sr;-P</g>. Die <g>Montag&sr;-P</g>., z. B. auch al&sr; Titel
+von Zeitungen &204A;c.&201C;</p>
+<p>An diesen Bemerkungen zu den ersten vier mit
+<g>Abend</g> al&sr; Bestimmung&sr;wort gebildeten Zusammen-
+setzungen de&sr; Grimm&2019;schen Wörterbuche&sr; kann ich e&sr;
+hier um so füglicher genug sein lassen, al&sr; sich doch
+noch wohl in einer späteren Plauderei von den in&sr;
+Wörterbuch aufzunehmenden Zusammensetzungen zu
+sprechen, Anlaß und Gelegenheit findet.</p>
+<p>Ich bemerke also hier nur, auf die Ordnung der
+gesammelten Zettel zurückkommend, daß plangemäß die
+mit dem Bestimmung&sr;wort <g>Abend</g> beginnenden Zu-
+sammensetzungen nicht unter <g>Abend</g>, sondern unter
+da&sr; jede&sr;malige Grundwort einzuordnen sind. Da-
+gegen finden sich in dem für <g>Abend</g> bestimmten Fach
+eine Menge Zettel zusammen, bei deren Stichwörtern
+<g>Abend</g> da&sr; Grundwort der Zusammensetzung ist. Die
+Verarbeitung all dieser Zettel giebt ein gute&sr; Beispiel
+<pb="50"/>
+dafür ab, wie e&sr; durch die Zusammenordnung de&sr;
+Zusammengehörigen möglich wird, auf einem ver-
+hältni&sr;mäßig sehr geringen Raum die massenhaft vor-
+liegenden und nach Ähnlichkeit in&sr; Unendliche zu ver-
+mehrenden Zusammensetzungen in einer da&sr; Wesent-
+liche möglichst erschöpfenden Weise zu behandeln. Und
+so lasse ich denn zum Schluß dieser zweiten Plauderei
+au&sr; meinem Wörterbuch nachstehende unter <g>Abend</g>
+sich findende Stellen hier folgen und für sich sprechen:</p>
+<p><b><fr>&201E;Abend</fr></b> <aq>m.</aq> &2026;: 3) Wie der Beginn der Nacht,
+so namentlich bei Festen oder in Verbindung mit
+&201A;heilig&2018; der Vorabend, Tag vorher. Sprichwort: Ge-
+winnen ist der Abend vom Verlieren. Lessing 11, 653 &204A;c.
+Gewöhnlich: Der heilige A., Christ-, Weihnacht&sr;-, Jo-
+hanni&sr;-A. &204A;c.</p>
+<p>Anm. In Zusammensetzungen bleibt Tag weg;
+der Thoma&sr;tag ist z. B. der 21. December; Thoma&sr;-
+tag Abend der Abend de&sr; 21. Dec., aber: Am S.
+Thoma&sr;abend, den 20. Dec. Stumpf, Schweiz. Chron.
+726 a; S. Katharinen-, S. Mathi&sr;-, Palm-, Fest-Abend.
+Eben so verschieden Sonntagabend, Ende de&sr; Sonn-
+tag&sr;; Sonnabend, der Tag vorher und dazu: Sonn-
+abend A., ähnlich wie Weihnacht&sr;nacht &204A;c.&201C;</p>
+<p>In dem eigenen Absatz aber, der dann die Zu-
+sammensetzungen bringt, heißt e&sr; weiter, wobei die in
+<pb="51"/>
+eckigen Klammern beigefügten Zahlen auf da&sr; Voran-
+gegangene zurückweisen:</p>
+<p>&201E;Zusammensetzungen mit den Namen aller Feste [3],
+Wochentage, Monate, Jahre&sr;zeiten: Pfingst-, Mittwoch-,
+December-, Frühling&sr;- &204A;c., ferner [2] und nach der
+Art, wie &2014; und dem Ort, wo man Abende zubringt
+&204A;c., z. B.: Ball-; Beicht-; Boston-; Erden- [auf der Erde
+zugebrachter] Sali&sr; 40; Erzähl-; Gebirg&sr;-; Gewitter-;
+Himmel&sr;-: Erst am H. [al&sr; e&sr; am Himmel Abend
+wurde] Schubart 3, 54; Kneip-; Lese-; Nebel-; Schau-
+spiel-; Spiel-; Theater-; Thee-; Trink-; Zank-; Zauber-
+[zaubervoller A.] Hölderlin, Hyper. 233 u. v. a.&201C;</p>
+<p>E&sr; lagen in dem für <g>Abend</g> und die Zusammen-
+setzungen dienenden Zettelfach mir noch Belegstellen
+für sehr viele andere, ähnliche Zusammensetzungen
+vor; aber e&sr; war niemal&sr; meine Absicht gewesen, die
+gesammelten Zettel auch sämmtlich vollständig in&sr;
+Wörterbuch aufzunehmen, sondern vielmehr, au&sr; dieser
+Überfülle unter Au&sr;scheidung de&sr; Entbehrlichen eine
+genügende Au&sr;wahl de&sr; Nothwendigen zu treffen und
+also z. B. für die Zusammensetzungen bestimmte Ver-
+treter au&sr;zuheben, nach denen der Nachschlagende ohne
+Weitere&sr; da&sr; Vorkommen und die Bedeutung von
+zahlreichen ähnlichen entnimmt, wie in dem vorliegen-
+den Falle z. B. zu <g>Pfingst-</g> auch <g>Oster-</g> &204A;c., zu <g>Mitt-</g>
+<pb="52"/>
+<g>woch-</g> auch <g>Din&sr;tag-</g> &204A;c., zu <g>December-</g> auch <g>Ja-
+nuar-</g> &204A;c., zu <g>Frühling&sr;-</g> auch <g>Lenz-, Herbst-</g> &204A;c.,
+ferner zu <g>Ball-</g> auch <g>Tanz-</g>, zu <g>Boston-</g> auch <g>Whist-,
+Skat-, Schach-</g> &204A;c. <g>Abend</g> u. s. w., und bei den au&sr;-
+gewählten Vertretern wurde auch nur in einzelnen
+wenigen Fällen, wo e&sr; der Nachschlagende vielleicht
+besonder&sr; wünschen zu können schien, die genaue Be-
+legstelle au&sr; den Zetteln hinzugefügt. So konnte an
+dieser Stelle über sehr viele Zusammensetzungen mit
+dem Grundwort <g>Abend</g>, die bei einer anderen An-
+ordnung, wenn man auch nur annähernd eine einiger-
+maßen erschöpfende Vollständigkeit erreichen wollte,
+einen ungemein großen Raum erfordert hätten, in
+wenigen Zeilen da&sr; Nöthige gesagt werden. Freilich
+blieben, nachdem durch die zusammenfassende Be-
+sprechung eine große Anzahl der Zusammensetzungen
+von <g>Abend</g> erledigt war, immerhin noch einzelne zu-
+rück, die noch eine besondere Besprechung oder we-
+nigsten&sr; besondere Bemerkungen nothwendig machten,
+und diese noch nicht erledigten Zusammensetzungen
+findet man denn auch durch besonderen Druck hervor-
+gehoben, übersichtlich nach der Reihenfolge de&sr; Abece
+geordnet, in meinem Wörterbuch einzeln besprochen.</p>
+<p>Ich will mit Rücksicht auf den Raum darau&sr;
+nur sehr Wenige&sr; hersetzen. Eine Bedeutung de&sr;
+<pb="53"/>
+Worte&sr; <g>Sommerabend</g> ist durch da&sr; Vorangegangene
+bereit&sr; erledigt. Darum steht unter diesem Wort auch
+die Hinweisung: &201E;s. o.&201C;, aber mit der Hinzufügung:
+&201E;auch der Punkt am Himmel, wo die Sonne beim
+Anfang de&sr; Sommer&sr; untergeht&201C;, und danach genügt
+kurz darauf bei <g>Winterabend</g> der Hinwei&sr;: siehe
+Sommer-A., wie andrerseit&sr; (s. o.) unter <g>Sonnabend</g>
+der bloße in eckige Klammern gesetzte Hinwei&sr; au&sr;-
+reicht: [3 und Anm.].</p>
+<p>Man ersieht au&sr; dem Gesagten, welche Vortheile
+die von mir gewählte Anordnung&sr;weise, die Zusammen-
+setzungen unter ihrem Grundworte zu behandeln in
+Bezug auf Kürze und innere Vollständigkeit gewährt,
+aber außerdem schützt sie auch den Wörterbuchschreiber,
+weil er mit dem Grundworte zugleich die ganze Fülle
+der Zusammensetzungen überblickt, weit mehr vor der
+Gefahr, Sachen, welche eine Besprechung verdienen
+oder erheischen, zu übersehen und an der gehörigen
+Stelle unbesprochen zu lassen.</p>
+<p>So ist e&sr; z. B. sehr auffällig und befremdend,
+daß unter <g>Abend</g> in dem Grimm&2019;schen Wörterbuch
+die Verbindung &201E;der heilige Abend&201C; im Sinne von
+Vorabend (<aq>la veille</aq>) ganz unerwähnt geblieben ist,
+zumal doch schon Frisch, Adelung, Campe &204A;c. diese
+Anwendung aufgeführt haben und außerdem (s. o.)
+<pb="54"/>
+dazu Lessing noch au&sr;drücklich auf da&sr; Sprichwort hin-
+gewiesen hatte: &201E;Gewinnen ist der Abend von Ver-
+lieren&201C;. Einer solchen Au&sr;lassung würde aber Jakob
+Grimm viel weniger au&sr;gesetzt gewesen sein, wenn
+ihm mit den Belegen für <g>Abend</g> zugleich auch z. B.
+die für <g>Weihnacht&sr;-, Christ-, Thoma&sr;-, Andrea&sr;-</g>,
+&204A;c. <g>Abend</g> vorgelegen hätten, wie denn z. B. im 2. Bd.
+de&sr; Grimm&2019;schen Wörterbuche&sr; Spalte 620 aufgeführt ist:</p>
+<p><aq>&201E;CHRISTABEND, m. die&sr; ante fe&sr;tum Chri&sr;ti na-
+tale proximu&sr;. Kri&sr;tabend. my&sr;t. 27, 3.&201C;</aq></p>
+<p>Hiermit aber will ich, um nicht durch übermäßige
+Länge der einzelnen Plaudereien zu ermüden und die
+Geduld auf eine allzuharte Probe zu stellen, diese meine
+zweite Plauderei schließen.</p>
+<hr>
+<pb>
+<pb>
+<pb>
+<pb>
+<back><hr>
+Druck von Oscar Brandstetter in Leipzig.
+<hr></back>
+<pb>
+<pb>
+<pb>

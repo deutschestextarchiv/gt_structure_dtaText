@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.deutschestextarchiv.de/basisformat_ohne_header.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>DUMMYHEADER</title>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <p>DUMMYHEADER zur Validitätsprüfung</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <front>
+      <pb facs="#f0001"/>
+      <pb facs="#f0002"/>
+      <pb facs="#f0003"/>
+      <pb facs="#f0004"/>
+      <pb facs="#f0005"/>
+      <pb facs="#f0006"/>
+      <pb n="[I]" facs="#f0007"/>
+      <titlePage type="main">
+        <docTitle>
+          <titlePart type="main"><hi rendition="#b">Verhandlungen</hi><lb/>des<lb/>naturforschenden Vereines<lb/><hi rendition="#b">in Brünn.</hi></titlePart>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <titlePart type="volume"><hi rendition="#g">IV. Band</hi><lb/>1865.</titlePart>
+        </docTitle>
+        <lb/>
+        <milestone unit="section" rendition="#hr"/>
+        <docImprint>
+          <pubPlace>Brünn,</pubPlace>
+          <docDate>1866.</docDate>
+          <lb/>
+          <publisher><hi rendition="#g">Im Verlage des Vereines</hi>.</publisher>
+        </docImprint>
+        <lb/>
+      </titlePage>
+      <pb n="[II]" facs="#f0008"/>
+      <div type="imprint">
+        <p rendition="#c">Druck von B&#x0159;e&#x017E;a, Winiker &amp; Comp. in Brünn.</p>
+      </div>
+      <lb/>
+      <pb n="[III]" facs="#f0009"/>
+      <div type="contents">
+        <head>Inhalts-Verzeichniss.</head>
+        <lb/>
+        <milestone unit="section" rendition="#hr"/>
+        <list>
+          <item>
+            <hi rendition="#c"><hi rendition="#b"><hi rendition="#g">Sitzungs-Berichte</hi>.</hi></hi>
+          </item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 11. Jänner.</hi></item>
+          <lb/>
+          <item>
+            <hi rendition="#right">Seite</hi>
+          </item>
+          <lb/>
+          <item>Eingelaufene Gegenstände <ref>3</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Makowsky A.</hi> Ueber <choice><sic>Derwin&#x2019;s</sic><corr>Darwin&#x2019;s</corr></choice> Theorie der organischen Schöpfung  <ref>10</ref></item>
+          <lb/>
+          <item>Ausschussanträge  <ref>18</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>18</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 8. Februar.</hi><lb/>Eingelaufene Gegenstände <ref>19</ref></item>
+          <lb/>
+          <item><hi rendition="#i"><choice><sic>Mendl</sic><corr>Mendel</corr></choice> G.</hi> Ueber Pflanzenhybriden  <ref>20</ref></item>
+          <lb/>
+          <item>Ausschussantrag  <ref>20</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>21</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 8. März.</hi><lb/>Eingelaufene Gegenstände <ref>22</ref></item>
+          <lb/>
+          <item><hi rendition="#i"><choice><sic>Mendl</sic><corr>Mendel</corr></choice> G.</hi> Ueber Pflanzenhybriden  <ref>25</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Makowsky A.</hi> Lose Thon-Eisen-Granaten  <ref>26</ref></item>
+          <lb/>
+          <item>&#x201E; &#x201E; Merkwürdige Sandstein-Concretionen  <ref>26</ref></item>
+          <lb/>
+          <item>Ausschussanträge  <ref>26</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Oxelik Dr. P.</hi> Antrag  <ref>26</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>27</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 12. April.</hi><lb/>Eingelaufene Gegenstände  <ref>28</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Makowsky A.</hi> Ueber Meteoriten  <ref>30</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Erythronium Dens canis zur Cultur empfohlen  <ref>31</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>31</ref></item>
+          <lb/>
+          <fw type="sig" place="bottom">*</fw>
+          <lb/>
+          <pb n="IV" facs="#f0010"/>
+          <item><hi rendition="#c">Sitzung am 10. Mai.</hi></item>
+          <lb/>
+          <item>
+            <hi rendition="#right">Seite</hi>
+          </item>
+          <lb/>
+          <item>Eingelaufene Gegenstände  <ref>33</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Kalmus Dr. J.</hi> Anzeige des Ablebens zweier Mitglieder <ref>33</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Schwippel Dr. C.</hi> Porträt des Herrn Vereinspräsidenten  <ref>34</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Ueber die mathematische Gestalt der Erde und die Entwicklung<lb/>unserer Kenntnisse von derselben  <ref>34</ref></item>
+          <lb/>
+          <item>Ausschussanträge  <ref>37</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>38</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 14. Juni.</hi>Eingelaufene Gegenstände  <ref>39</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Ueber die mathematische Gestalt der Erde etc. <ref>42</ref></item>
+          <lb/>
+          <item><hi rendition="#i"><choice><sic>Mendl</sic><corr>Mendel</corr></choice> G.</hi> Pflanzenbastarde <ref>52</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>52</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 12. Juli.</hi><lb/>Eingelaufene Gegenstände  <ref>53</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Czermak Fr.</hi> Ueber zwei neue Methoden der chemischen Analyse  <ref>54</ref></item>
+          <lb/>
+          <item>Bericht des Redactions-Comités  <ref>54</ref></item>
+          <lb/>
+          <item>Ausschussanträge  <ref>55</ref></item>
+          <lb/>
+          <item>Vertagung der Sitzungen  <ref>55</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>55</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 11. October.</hi><lb/>Eingelaufene Gegenstände  <ref>57</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Kalmus Dr. J.</hi> Niederlegung der Secretärsstelle  <ref>60</ref></item>
+          <lb/>
+          <item>Wahl eines <choice><sic>Stelivertreters</sic><corr>Stellvertreters</corr></choice>  <ref>60</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Schwippel Dr. C.</hi> Forschungen auf mineralogischem und geognost. Gebiete . 61<lb/><hi rendition="#i">Makowsky A.</hi> Massenhaftes Auftreten der Raupen von Vanessa Cardui in<lb/>Mähren  <ref>61</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Todesanzeige Encke&#x2019;s  <ref>63</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>63</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 8. November.</hi><lb/>Eingelaufene Gegenstände  <ref>64</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Kellner M.</hi> Schenkung an den Verein <ref>65</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Theimer C.</hi> Neue Fundorte von Pflanzen  <ref>66</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Greiner Ad.</hi> Muttermale  <ref>66</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Makowsky A.</hi> Ueber erratische Blöcke <ref>67</ref></item>
+          <lb/>
+          <item>Ausschussantrag  <ref>74</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>74</ref></item>
+          <lb/>
+          <item><hi rendition="#c">Sitzung am 13. December.</hi><lb/>Eingelaufene Gegenstände  <ref>75</ref></item>
+          <lb/>
+          <item>Dank für an Schulen überlassene Naturalien  <ref>77</ref></item>
+          <lb/>
+          <pb n="V" facs="#f0011"/>
+          <item>
+            <hi rendition="#right">Seite</hi>
+          </item>
+          <lb/>
+          <item><hi rendition="#i">Umlauff C.</hi> Meteorologische Beobachtungen  <ref>77</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Stoisner C.</hi> Algen aus der Umgebung von Chrostau  <ref>77</ref></item>
+          <lb/>
+          <item><hi rendition="#i">R&#x0153;mer C.</hi> Neue Funde für die Namiester Flora  <ref>79</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Haslinger F.</hi> Bericht über eine Excursion auf die Polauerberge  <ref>79</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Botanische Notizen  <ref>80</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Wildner F.</hi> Ueber Pygæra Timon  <ref>85</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Salix Caprea mit abnormen Reproductionsorganen  <ref>87</ref></item>
+          <lb/>
+          <item>Ausschussantrag  <ref>88</ref></item>
+          <lb/>
+          <item>Neugewählte Mitglieder  <ref>88</ref></item>
+          <lb/>
+          <item>Jahres-Versammlung am 21. December.<lb/>Eingelaufene Gegenstände  <ref>89</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Rechenschaftsbericht  <ref>90</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Czermak Fr.</hi> Bericht über den Stand der Bibliothek  <ref>96</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Makowsky A.</hi> Bericht über den Stand der Naturalien-Sammlungen  <ref>98</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Czermak Fr.</hi> Cassabericht  <ref>100</ref></item>
+          <lb/>
+          <item>Ausschussanträge  <ref>102</ref></item>
+          <lb/>
+          <item>Ergebniss der Wahlen  <ref>103</ref></item>
+          <lb/>
+          <item>Wahl eines Ehrenmitgliedes  <ref>104</ref></item>
+          <lb/>
+          <item><hi rendition="#b">Abhandlungen.</hi><lb/><hi rendition="#i">Mendel Gregor</hi>. Versuche über Pflanzen-Hybriden  <ref>3</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Gartner Anton</hi>. Die Geometrinen und Mikrolepidopteren des Brünner Faunen-<lb/>Gebietes  <ref>48</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Koller Dr. Marian</hi>. Ueber Aenderungen, welche der Stundenwinkel eines<lb/>Sternes in einem gegebenen Verticale durch die Fehler des Instrumen-<lb/>tes erleidet  <ref>271</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Oborny A.</hi> Ueber einige Gypsvorkommnisse Mährens und speciell das von<lb/>Koberitz nächst Austerlitz.  <ref>278</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Niessl G. v.</hi> Vorarbeiten zu einer Cryptogamenflora Mährens und Oesterr.<lb/>Schlesiens. III. Höhere Sporenpflanzen  <ref>284</ref></item>
+          <lb/>
+          <item><hi rendition="#i">Mendel Gregor</hi>. Meteorologische Beobachtungen aus Mähren und Schlesien<lb/>für das Jahr 1865  <ref>318</ref></item>
+        </list>
+      </div>
+      <lb/>
+      <milestone unit="section" rendition="#hr"/>
+      <pb n="[1]" facs="#f0012"/>
+    </front>
+    <body>
+      <div n="1">
+        <head>Abhandlungen.</head>
+        <lb/>
+        <milestone unit="section" rendition="#hr"/>
+        <fw type="sig" place="bottom">1</fw>
+        <lb/>
+        <pb n="[2]" facs="#f0013"/>
+        <pb n="[3]" facs="#f0014"/>
+        <div n="2">
+          <head><hi rendition="#b">Versuche über Pflanzen-Hybriden.</hi><lb/>Von<lb/><hi rendition="#b"><hi rendition="#g">Gregor Mendel</hi>.</hi></head>
+          <lb/>
+          <p>
+            <hi rendition="#c">(Vorgelegt in den Sitzungen vom 8. Februar und 8. März 1865.)</hi>
+          </p>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head><hi rendition="#g">Einleitende Bemerkungen</hi>.</head>
+            <lb/>
+            <p>Künstliche Befruchtungen, welche an Zierpflanzen desshalb<lb/>vorgenommen wurden, um neue Farben-Varianten zu erzielen,<lb/>waren die Veranlassung zu den Versuchen, die her besprochen<lb/>werden sollen. Die auffallende Regelmässigkeit, mit welcher die-<lb/>selben Hybridformen immer wiederkehrten, so oft die Befruch-<lb/>tung zwischen gleichen Arten geschah, gab die Anregung zu<lb/>weiteren Experimenten, deren Aufgabe es war, die Entwicklung<lb/>der Hybriden in ihren Nachkommen zu verfolgen.</p>
+            <lb/>
+            <p>Dieser Aufgabe haben sorgfältige Beobachter, wie <hi rendition="#g">Köl-<lb/>reuter, Gärtner, Herbert, Lecocq, Wichura</hi> u. a. einen<lb/>Theil ihres Lebens mit unermüdlicher Ausdauer geopfert. Na-<lb/>mentlich hat Gärtner in seinem Werke &#x201E;die Bastarderzeugung<lb/>im Pflanzenreiche&#x201C; sehr schätzbare Beobachtungen niedergelegt,<lb/>und in neuester Zeit wurden von Wichura gründliche Unter-<lb/>suchungen über die Bastarde der Weiden veröffentlicht. Wenn<lb/>es noch nicht gelungen ist, ein allgemein giltiges Gesetz für die<lb/>Bildung und Entwicklung der Hybriden aufzustellen, so kann<lb/>das Niemanden Wunder nehmen, der den Umfang der Aufgabe<lb/>kennt und die Schwierigkeiten zu würdigen weiss, mit denen<lb/>Versuche dieser Art zu kämpfen haben. Eine endgiltige Ent-<lb/>scheidung kann erst dann erfolgen, bis <hi rendition="#g">Detail-Versuche</hi> aus<lb/>den verschiedensten Pflanzen-Familien vorliegen. Wer die Ar-<lb/><fw type="sig" place="bottom">1*</fw><lb/><pb n="4" facs="#f0015"/>
+beiten auf diesem Gebiete überblickt, wird zu der Ueberzeugung<lb/>gelangen, dass unter den zahlreichen Versuchen keiner in dem<lb/>Umfange und in der Weise durchgeführt ist, dass es möglich<lb/>wäre, die Anzahl der verschiedenen Formen zu bestimmen, unter<lb/>welchen die Nachkommen der Hybriden auftreten, dass man<lb/>diese Formen mit Sicherheit in den einzelnen Generationen ord-<lb/>nen und die gegenseitigen numerischen Verhältnisse feststellen<lb/>könnte. Es gehört allerdings einiger Muth dazu, sich einer so<lb/>weit reichenden Arbeit zu unterziehen; indessen scheint es der<lb/>einzig richtige Weg zu sein, auf dem endlich die Lösung einer<lb/>Frage erreicht werden kann, welche für die Entwicklungs-Ge-<lb/>schichte der organischen Formen von nicht zu unterschätzender<lb/>Bedeutung ist.</p>
+            <lb/>
+            <p>Die vorliegende Abhandlung bespricht die Probe eines sol-<lb/>chen Detail-Versuches. Derselbe wurde sachgemäss auf eine klei-<lb/>nere Pflanzengruppe beschränkt und ist nun nach Verlauf von<lb/>acht Jahren im Wesentlichen abgeschlossen. Ob der Plan, nach<lb/>welchem die einzelnen Experimente geordnet und durchgeführt<lb/>wurden, der gestellten Aufgabe entspricht, darüber möge eine<lb/>wohlwollende Beurtheilung entscheiden.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <pb n="[5]" facs="#f0016"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Auswahl der Versuchspflanzen.</hi>
+            </head>
+            <lb/>
+            <p>Der Werth und die Geltung eines jeden Experimentes wird durch<lb/>die Tauglichkeit der dazu benützten Hilfsmittel, sowie durch die zweck-<lb/>mässige Anwendung derselben bedingt. Auch in dem vorliegenden<lb/>Falle kann es nicht gleichgiltig sein, welche Pflanzenarten als Trä-<lb/>ger der Versuche gewählt und in welcher Weise diese durchgeführt<lb/>wurden.</p>
+            <lb/>
+            <p>Die Auswahl der Pflanzengruppe, welche für Versuche dieser Art<lb/>dienen soll, muss mit möglichster Vorsicht geschehen, wenn man nicht<lb/>in Vorhinein allen Erfolg in Frage stellen will.</p>
+            <lb/>
+            <p>Die Versuchspflanzen müssen nothwendig</p>
+            <lb/>
+            <p>1. Constant differirende Merkmale besitzen.</p>
+            <lb/>
+            <p>2. Die Hybriden derselben müssen während der Blüthezeit vor-<lb/>der Einwirkung jedes fremdartigen Pollens geschützt sein oder leicht<lb/>geschützt werden können.</p>
+            <lb/>
+            <p>3. Dürfen die Hybriden und ihre Nachkommen in den aufeinander<lb/>folgenden Generationen keine merkliche Störung in der Fruchtbarkeit<lb/>erleiden.</p>
+            <lb/>
+            <p>Fälschungen durch fremden Pollen, wenn solche im Verlaufe des<lb/>Versuches vorkämen und nicht erkannt würden, müssten zu ganz irrigen<lb/>Ansichten führen. Verminderte Fruchtbarkeit, oder gänzliche Sterilität<lb/>einzelner Formen, wie sie unter den Nachkommen vieler Hybriden auf-<lb/>treten, würden die Versuche sehr erschweren oder ganz vereiteln. Um<lb/>die Beziehungen zu erkennen, in welchen die Hybridformen zu einander<lb/>selbst und zu ihren Stammarten stehen, erscheint es als nothwendig,<lb/>dass die Glieder der Entwicklungsreihe in jeder einzelnen Generation<lb/><hi rendition="#g">vollzählig</hi> der Beobachtung unterzogen werden.</p>
+            <lb/>
+            <p>Eine besondere Aufmerksamkeit wurde gleich Anfangs den <hi rendition="#g">Le-<lb/>guminosen</hi> wegen ihres eigenthümlichen Blüthenbaues zugewendet.<lb/>Versuche, welche mit mehreren Gliedern dieser Familie angestellt wur-<lb/>den, führten zu dem Resultate, dass das Genus <hi rendition="#g">Pisum</hi> den gestellten<lb/><pb n="6" facs="#f0017"/>
+Auforderungen hinreichend entspreche. Einige ganz selbstständige For-<lb/>men aus diesem Geschlechte besitzen constante, leicht und sicher zu<lb/>unterscheidende Merkmale, und geben bei gegenseitiger Kreuzung in<lb/>ihren Hybriden vollkommen fruchtbare Nachkommen. Auch kann eine<lb/>Störung durch fremde Pollen nicht leicht eintreten, da die Befruchtungs-<lb/>Organe vom Schiffchen enge umschlossen sind und die Antheren schon<lb/>in der Knospe platzen, wodurch die Narbe noch vor dem Aufblühen<lb/>mit Pollen überdeckt wird. Dieser Umstand ist von besonderer Wich-<lb/>tigkeit. Als weitere Vorzüge verdienen noch Erwähnung die leichte<lb/>Cultur dieser Pflanze im freien Lande und in Töpfen, sowie die ver-<lb/>hältnissmässig kurze Vegetationsdauer derselben. Die künstliche Be-<lb/>fruchtung ist allerdings etwas umständlich, gelingt jedoch fast immer.<lb/>Zu diesem Zwecke wird die noch nicht vollkommen entwickelte Knospe<lb/>geöffnet, das Schiffchen entfernt und jeder Staubfaden mittelst einer<lb/>Pinçette behutsam herausgenommen, worauf dann die Narbe sogleich<lb/>mit den fremden Pollen belegt werden kann.</p>
+            <lb/>
+            <p>Aus mehreren Samenhandlungen wurden im Ganzen 34 mehr<lb/>oder weniger verschiedene Erbsensorten bezogen und einer zweijährigen<lb/>Probe unterworfen. Bei einer Sorte wurden unter einer grösseren Anzahl<lb/>gleicher Pflanzen einige bedeutend abweichende Formen bemerkt. Diese<lb/>variirten jedoch im nächsten Jahre nicht und stimmten mit einer anderen,<lb/>aus derselben Samenhandlung bezogenen Art vollständig überein; ohne<lb/>Zweifel waren die Samen blos zufällig beigemengt. Alle anderen Sorten<lb/>gaben durchaus gleiche und constante Nachkommen, in den beiden Probe-<lb/>jahren wenigstens war eine wesentliche Abänderung nicht zu bemerken.<lb/>Für die Befruchtung wurden 22 davon ausgewählt und jährlich, wäh-<lb/>rend der ganzen Versuchsdauer angebaut. Sie bewährten sich ohne alle<lb/>Ausnahme.</p>
+            <lb/>
+            <p>Die systematische Einreihung derselben ist schwierig und unsicher.<lb/>Wollte man die schärfste Bestimmung des Artbegriffes in Anwendung<lb/>bringen, nach welcher zu einer Art nur jene Individuen gehören, die<lb/>unter völlig gleichen Verhältnissen auch völlig gleiche Merkmale zeigen,<lb/>so könnten nicht zwei davon zu einer Art gezählt werden. Nach der<lb/>Meinung der Fachgelehrten indessen gehört die Mehrzahl der Species<lb/>Pisum sativum an, während die übrigen bald als Unterarten von P.<lb/>sativum, bald als selbstständige Arten angesehen und geschrieben wur-<lb/>den, wie P. quadratum, P. saccharatum, P. umbellatum. Uebrigens bleibt<lb/><pb n="7" facs="#f0018"/>
+die Rangordnung, welche man denselben im Systeme gibt, für die in<lb/>Rede stehenden Versuche völlig gleichgiltig. So wenig man eine scharfe<lb/>Unterscheidungslinie zwischen Species und Varietäten zu ziehen vermag,<lb/>eben so wenig ist es bis jetzt gelungen, einen gründlichen Unterschied<lb/>zwischen den Hybriden der Species und Varietäten aufzustellen.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Eintheilung und Ordnung der Versuche.</hi>
+            </head>
+            <lb/>
+            <p>Werden zwei Pflanzen, welche in einem oder mehreren Merkmalen<lb/>constant verschieden sind, durch Befruchtung verbunden, so gehen, wie<lb/>zahlreiche Versuche beweisen, die gemeinsamen Merkmale unverändert<lb/>auf die Hybriden und ihre Nachkommen über; je zwei differirende hin-<lb/>gegen vereinigen sich an der Hybride zu einem neuen Merkmale, wel-<lb/>ches gewöhnlich an den Nachkommen derselben Veränderungen unter-<lb/>worfen ist. Diese Veränderungen für je zwei differirende Merkmale zu<lb/>beobachten und das Gesetz zu ermitteln, nach welchem dieselben in den<lb/>aufeinander folgenden Generationen eintreten, war die Aufgabe des<lb/>Versuches. Derselbe zerfällt daher in eben so viele einzelne Experi-<lb/>mente, als constant differirende Merkmale an den Versuchspflanzen vor-<lb/>kommen.</p>
+            <lb/>
+            <p>Die verschiedenen, zur Befruchtung ausgewählten Erbsenformen<lb/>zeigten Unterschiede in der Länge und Färbung des Stengels, in der<lb/>Grösse und Gestalt der Blätter, in der Stellung, Farbe und Grösse der<lb/>Blüthen, in der Länge der Blüthenstiele, in der Farbe, Gestalt und<lb/>Grösse der Hülsen, in der Gestalt und Grösse der Samen, in der Fär-<lb/>bung der Samenschale und des Albumens. Ein Theil der angeführten<lb/>Merkmale lässt jedoch eine sichere und scharfe Trennung nicht zu,<lb/>indem der Unterschied auf einem oft schwierig zu bestimmenden &#x201E;mehr<lb/>oder weniger&#x201C; beruht. Solche Merkmale waren für die Einzel-Versuche<lb/>nicht verwendbar, diese konnten sich nur auf Charactere beschränken,<lb/>die an den Pflanzen deutlich und entschieden hervortreten. Der Erfolg<lb/>musste endlich zeigen, ob sie in hybrider Vereinigung sämmtlich ein<lb/>übereinstimmendes Verhalten beobachten, und ob daraus auch ein Ur-<lb/>theil über jene Merkmale möglich wird, welche eine untergeordnete<lb/>typische Bedeutung haben.</p>
+            <lb/>
+            <p>Die Merkmale, welche in die Versuche aufgenommen wurden, be-<lb/>ziehen sich:</p>
+            <lb/>
+            <pb n="8" facs="#f0019"/>
+            <p>1. Auf den <hi rendition="#g">Unterschied in der Gestalt der reifen Sa-<lb/>men</hi>. Diese sind entweder kugelrund oder rundlich, die Einsenkungen,<lb/>wenn welche an der Oberfläche vorkommen, immer nur seicht, oder sie<lb/>sind unregelmässig kantig, tief runzlig (P. quadratum).</p>
+            <lb/>
+            <p>2. Auf den <hi rendition="#g">Unterschied in der Färbung des Samen-<lb/>Albumens</hi> (Endosperm&#x2019;s). Das Albumen der reifen Samen ist entweder<lb/>blassgelb, hellgelb und orange gefärbt, oder es besitzt eine mehr oder<lb/>weniger intensiv grüne Farbe. Dieser Farbenunterschied ist an den Sa-<lb/>men deutlich zu erkennen, da ihre Schalen durchscheinend sind.</p>
+            <lb/>
+            <p>3. Auf den <hi rendition="#g">Unterschied in der Färbung der Samen-<lb/>schale</hi>. Diese ist entweder weiss gefärbt, womit auch constant die<lb/>weisse Blüthenfarbe verbunden ist, oder sie ist grau, graubraun, leder-<lb/>braun mit oder ohne violetter Punctirung, dann erscheint die Farbe der<lb/>Fahne violett, die der Flügel purpurn, und der Stengel an den Blatt-<lb/>achseln röthlich gezeichnet. Die grauen Samenschalen werden im ko-<lb/>chenden Wasser schwarzbraun.</p>
+            <lb/>
+            <p>4. Auf den <hi rendition="#g">Unterschied in der Form der reifen Hülse</hi>.<lb/>Diese ist entweder einfach gewölbt, nie stellenweise verengt, oder sie<lb/>ist zwischen den Samen tief eingeschnürt und mehr oder weniger runz-<lb/>lig (P. saccharatum).</p>
+            <lb/>
+            <p>5. Auf den <hi rendition="#g">Unterschied in der Farbe der unreifen<lb/>Hülse</hi>. Sie ist entweder licht- bis dunkelgrün oder lebhaft gelb ge-<lb/>färbt, an welcher Färbung auch Stengel, Blattrippen und Kelch theil-<lb/>nehmen<note place="foot" n="*)">Eine Art besitzt eine schöne braunrothe Hülsenfarbe, welche gegen die<lb/>Zeit der Reife hin in Violett und Blau übergeht. Der Versuch über<lb/>dieses Merkmal wurde erst im verflossenen Jahre begonnen.</note>.</p>
+            <lb/>
+            <p>6. Auf den <hi rendition="#g">Unterschied in der Stellung der Blüthen</hi>.<lb/>Sie sind entweder axenständig, d. i. längs der Axe vertheilt, oder sie<lb/>sind endständig, am Ende der Axe gehäuft und fast in eine kurze<lb/>Trugdolde gestellt; dabei ist der obere Theil des Stengels im Quer-<lb/>schnitte mehr oder weniger erweitert (P. umbellatum).</p>
+            <lb/>
+            <p>7. <hi rendition="#g">Auf den Unterschied in der Axenlänge</hi>. Die Länge<lb/>der Axe ist bei einzelnen Formen sehr verschieden, jedoch für jede in-<lb/>sofern ein constantes Merkmal, als dieselbe bei gesunden Pflanzen, die<lb/>in gleichem Boden gezogen werden, nur unbedeutenden Aenderungen<lb/>unterliegt. Bei den Versuchen über dieses Merkmal wurde der sicheren<lb/><pb n="9" facs="#f0020"/>
+Unterscheidung wegen stets die lange Axe von 6&#x2014;7' mit der kur-<lb/>zen von ¾ bis 1½' verbunden.</p>
+            <lb/>
+            <p>In zwei von den angeführten differirenden Merkmalen wurden<lb/>durch Befruchtung vereinigt. Für den</p>
+            <lb/>
+            <table>
+              <row>
+                <cell/>
+              </row>
+            </table>
+            <p>Von einer grösseren Anzahl Pflanzen derselben Art wurden zur<lb/>Befruchtung nur die kräftigsten ausgewählt. Schwache Exemplare geben<lb/>immer unsichere <choice><sic>Resnltate</sic><corr>Resultate</corr></choice>, weil schon in der ersten Generation der Hy-<lb/>briden und noch mehr in der folgenden manche Abkömmlinge entweder<lb/>gar nicht zur Blüthe gelangen, oder doch wenige und schlechte Samen<lb/>bilden.</p>
+            <lb/>
+            <p>Ferner wurde bei sämmtlichen Versuchen die wechselseitige Kreu-<lb/>zung durchgeführt, in der Weise nämlich, dass jene der beiden Arten,<lb/>welche bei einer Anzahl Befruchtungen als Samenpflanze diente, bei der<lb/>anderen als Pollenpflanze verwendet wurde.</p>
+            <lb/>
+            <p>Die Pflanzen wurden auf Gartenbeeten, ein kleiner Theil in Tö-<lb/>pfen gezogen, und mittelst Stäben, Baumzweigen und gespannten Schnü-<lb/>ren in der natürlichen aufrechten Stellung erhalten. Für jeden Versuch<lb/>wurde eine Anzahl Topfpflanzen während der Blüthezeit in ein Ge-<lb/>wächshaus gestellt, sie sollten für den Hauptversuch im Garten als Con-<lb/>trolle dienen bezüglich möglicher Störungen durch Insecten. Unter jenen,<lb/>welche die Erbsenpflanze besuchen, könnte die Käferspecies Bruchus<lb/>pisi dem Versuche gefährlich werden, falls sie in grösserer Menge er-<lb/>scheint. Das Weibchen dieser Art legt bekanntlich seine Eier in die<lb/>Blüthe und öffnet dabei das Schiffchen; an den Tarsen eines Exempla-<lb/>res, welches in einer Blüthe gefangen wurde, konnten unter der Loupe<lb/>deutlich einige Pollenzellen bemerkt werden. Es muss hier noch eines<lb/>Umstandes Erwähnung geschehen, der möglicher Weise die Einmengung<lb/>fremden Pollens veranlassen könnte. Es kommt nämlich in einzelnen<lb/>seltenen Fällen vor, dass gewisse Theile der übrigens ganz normal ent-<lb/>wickelten Blüthe verkümmern, wodurch eine theilweise Entblössung der<lb/><pb n="10" facs="#f0021"/>
+Befruchtungs-Organe herbeigeführt wird. So wurde eine mangelhafte<lb/>Entwicklung des Schiffchens beobachtet, wobei Griffel und Antheren zum<lb/>Theile unbedeckt blieben. Auch geschieht es bisweilen, dass der Pollen<lb/>nicht zur vollen Ausbildung gelangt. In diesem Falle findet während<lb/>des Blühens eine allmälige Verlängerung des Griffels statt, bis die<lb/>Narbe an der Spitze des Schiffchens hervortritt. Diese merkwürdige<lb/>Erscheinung wurde auch an Hybriden von Phaseolus und Lathyrus<lb/>beobachtet.</p>
+            <lb/>
+            <p>Die Gefahr einer Fälschung durch fremden Pollen ist jedoch bei<lb/>Pisum eine sehr geringe und vermag keineswegs das Resultat im gros-<lb/>sen Ganzen zu stören. Unter mehr als 10,000 Pflanzen, welche genauer<lb/>untersucht wurden, kam der Fall nur einige wenige Male vor, dass eine<lb/>Einmengung nicht zu bezweifeln war. Da im Gewächshause niemals<lb/>eine solche Störung beobachtet wurde, liegt wohl die Vermuthung nahe,<lb/>dass Bruchus pisi und vielleicht auch die angeführten Abnormitäten im<lb/>Blüthenbau die Schuld daran tragen.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Die Gestalt der Hybriden.</hi>
+            </head>
+            <lb/>
+            <p>Schon die Versuche, welche in früheren Jahren an Zierpflanzen<lb/>vorgenommen wurden, lieferten den Beweis, dass die Hybriden in der<lb/>Regel nicht die genaue Mittelform zwischen den Stammarten darstellen.<lb/>Bei einzelnen mehr in die Augen springenden Merkmalen, wie bei sol-<lb/>chen, die sich auf die Gestalt und Grösse der Blätter, auf die Behaa-<lb/>rung der einzelnen Theile u. s. w. beziehen, wird in der That die Mit-<lb/>telbildung fast immer ersichtlich; in anderen Fällen hingegen besitzt<lb/>das eine der beiden Stamm-Merkmale ein so grosses Uebergewicht, dass<lb/>es schwierig oder ganz unmöglich ist, das andere an der Hybride auf-<lb/>zufinden.</p>
+            <lb/>
+            <p>Eben so verhält es sich mit den Hybriden bei Pisum. Jedes von<lb/>den 7 Hybriden-Merkmalen gleicht dem einen der beiden Stamm-Merk-<lb/>male entweder so vollkommen, dass das andere der Beobachtung ent-<lb/>schwindet, oder ist demselben so ähnlich, dass eine sichere Unterschei-<lb/>dung nicht stattfinden kann. Dieser Umstand ist von grosser Wichtig-<lb/>keit für die Bestimmung und Einreihung der Formen, unter welchen die<lb/>Nachkommen der Hybriden erscheinen. In der weiteren Besprechung<lb/><pb n="11" facs="#f0022"/>
+werden jene Merkmale, welche ganz oder fast unverändert in die Hy-<lb/>bride-Verbindung übergehen, somit selbst die Hybriden-Merkmale reprä-<lb/>sentiren, als <hi rendition="#g">dominirende</hi>, und jene, welche in der Verbindung la-<lb/>tent werden, als <hi rendition="#g">recessive</hi> bezeichnet. Der Ausdruck &#x201E;recessiv&#x201C; wurde<lb/>desshalb gewählt, weil die damit benannten Merkmale an den Hybriden<lb/>zurücktreten oder ganz verschwinden, jedoch unter den Nachkommen<lb/>derselben, wie später gezeigt wird, wieder unverändert zum Vorscheine<lb/>kommen.</p>
+            <lb/>
+            <p>Es wurde ferner durch sämmtliche Versuche erwiesen, dass es<lb/>völlig gleichgiltig ist, ob das dominirende Merkmal der Samen- oder<lb/>Pollenpflanze angehört; die Hybridform bleibt in beiden Fällen genau<lb/>dieselbe. Diese interessante Erscheinung wird auch von <hi rendition="#g">Gärtner</hi> her-<lb/>vorgehoben, mit dem Bemerken, dass selbst der geübteste Kenner nicht<lb/>im Stande ist, an einer Hybride zu unterscheiden, welche von den bei-<lb/>den verbundenen Arten die Samen- oder Pollenpflanze war.</p>
+            <lb/>
+            <p>Von den differirenden Merkmalen, welche in die Versuche einge-<lb/>führt wurden, sind nachfolgende dominirend:</p>
+            <lb/>
+            <list>
+              <item>1. Die runde oder rundliche Samenform mit oder ohne seichte<lb/>Einsenkungen.</item>
+              <lb/>
+              <item>2. Die gelbe Färbung des Samen-Albumens.</item>
+              <lb/>
+              <item>3. Die graue, graubraune oder lederbraune Farbe der Samen-<lb/>schale, in Verbindung mit violett-rother Blüthe und röthlicher Mackel<lb/>in den Blattachseln.</item>
+              <lb/>
+              <item>4. Die einfach gewölbte Form der Hülse.</item>
+              <lb/>
+              <item>5. Die grüne Färbung der unreifen Hülse, in Verbindung mit der<lb/>gleichen Farbe des Stengels, der Blattrippen und des Kelches.</item>
+              <lb/>
+              <item>6. Die Vertheilung der Blüthen längs des Stengels.</item>
+              <lb/>
+              <item>7. Das Längenmass der grösseren Axe.</item>
+            </list>
+            <lb/>
+            <p>Was das letzte Merkmal anbelangt, muss bemerkt werden, dass<lb/>die längere der beiden Stamm-Axen von der Hybride gewöhnlich noch<lb/>übertroffen wird, was vielleicht nur der grossen Ueppigkeit zuzuschrei-<lb/>ben ist, welche in allen Pflanzentheilen auftritt, wenn Axen von sehr<lb/>verschiedener Länge verbunden sind. So z. B. gaben bei wiederholtem<lb/>Versuche Axen von 1' und 6' Länge in hybrider Vereinigung ohne<lb/>Ausnahme Axen, deren Länge zwischen 6 und 7½' schwankte. <hi rendition="#g">Die<lb/>Hybriden der Samenschale</hi> sind öfter mehr punctirt, auch fliessen<lb/>die Puncte bisweilen in kleinere bläulich-violette Flecke zusammen. Die<lb/><pb n="12" facs="#f0023"/>
+Punctirung erscheint häufig auch dann, wenn sie selbst dem Stamm-<lb/>Merkmale fehlt.</p>
+            <lb/>
+            <p>Die Hybridformen der <hi rendition="#g">Samen-Gestalt</hi> und des <hi rendition="#g">Albumens</hi><lb/>entwickeln sich unmittelbar nach der künstlichen Befruchtung durch<lb/>die blosse Einwirkung des fremden Pollens. Sie können daher schon<lb/>im ersten Versuchsjahre beobachtet werden, während alle übrigen selbst-<lb/>verständlich erst im folgenden Jahre an jenen Pflanzen hervortreten,<lb/>welche aus den befruchteten Samen gezogen werden.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Die erste Generation der Hybriden.</hi>
+            </head>
+            <lb/>
+            <p>In dieser Generation treten <hi rendition="#g">nebst den dominirenden</hi> Merk-<lb/>malen auch die <hi rendition="#g">recessiven</hi> in ihrer vollen Eigenthümlichkeit wieder<lb/>auf, und zwar in dem entschieden ausgesprochenen Durchschnitts-Ver-<lb/>hältnisse 3:1, so dass unter je 4 Pflanzen aus dieser Generation 3 den<lb/>dominirenden und eine den recessiven Character erhalten. Es gilt das<lb/>ohne Ausnahme für alle Merkmale, welche in die Versuche aufgenom-<lb/>men waren. Die kantig runzlige Gestalt der Samen, die grüne Färbung<lb/>des Albumens, die weisse Farbe der Samenschale und der Blüthe, die<lb/>Einschnürungen an den Hülsen, die gelbe Farbe der unreifen Hülse, des<lb/>Stengels, Kelches und der Blattrippen, der trugdoldenförmige Blüthen-<lb/>stand und die zwergartige Axe kommen in dem angeführten numeri-<lb/>schen Verhältnisse wieder zum Vorscheine ohne irgend einer wesentli-<lb/>chen Abänderung. <hi rendition="#g">Uebergangsformen wurden bei keinem Ver-<lb/>suche beobachtet</hi>.</p>
+            <lb/>
+            <p>Da die Hybriden, welche aus wechselseitiger Kreuzung hervor-<lb/>gingen, eine völlige Gestalt besassen und auch in ihrer Weiterentwick-<lb/>lung keine bemerkenswerthe Abweichung ersichtlich wurde, konnten die<lb/>beiderseitigen Resultate für jeden Versuch unter eine Rechnung gebracht<lb/>werden. Die Verhältnisszahlen, welche für je zwei differirende Merk-<lb/>male gewonnen wurden, sind folgende:</p>
+            <lb/>
+            <p>1. <hi rendition="#g">Versuch</hi>. Gestalt der Samen. Von 253 Hybriden wurden im<lb/>zweiten Versuchsjahre 7324 Samen erhalten. Darunter waren rund oder<lb/>rundlich 5474, und kantig runzlig 1850 Samen. Daraus ergibt sich das<lb/>Verhältniss 2,96:1.</p>
+            <lb/>
+            <p>2. <hi rendition="#g">Versuch</hi>. Färbung des Albumens. 258 Pflanzen gaben 8023<lb/>Samen, 6022 gelbe und 2001 grüne; daher stehen jene zu diesen im<lb/>Verhältnisse 3,01:1.</p>
+            <lb/>
+            <pb n="13" facs="#f0024"/>
+            <p>Bei diesen beiden Versuchen erhält man gewöhnlich aus jeder<lb/>Hülse beiderlei Samen. Bei gut ausgebildeten Hülsen, welche durch-<lb/>schnittlich 6 bis 9 Samen enthielten, kam es öfters vor, dass sämmt-<lb/>liche Samen rund (Versuch 1) oder sämmtliche gelb (Versuch 2) wa-<lb/>ren; hingegen wurden mehr als 5 kantige oder 5 grüne in einer Hülse<lb/>niemals beobachtet. Es scheint keinen Unterschied zu machen, ob die<lb/>Hülse sich früher oder später an der Hybride entwickelt, ob sie der<lb/>Hauptaxe oder einer Nebenaxe angehört. An einigen wenigen Pflanzen<lb/>kamen in den zuerst gebildeten Hülsen nur einzelne Samen zur Ent-<lb/>wicklung, und diese besassen dann ausschliesslich das eine der beiden<lb/>Merkmale; in den später gebildeten Hülsen blieb jedoch das Verhält-<lb/>niss normal. So wie in einzelnen Hülsen, ebenso variirt die Verthei-<lb/>lung der Merkmale auch bei einzelnen Pflanzen. Zur Veranschaulichung<lb/>mögen die ersten 10 Glieder aus beiden Versuchsreihen dienen:</p>
+            <lb/>
+            <table>
+              <row>
+                <cell/>
+              </row>
+            </table>
+            <p>Als Extreme in der Vertheilung der beiden Samen-Merkmale an<lb/><hi rendition="#g">einer</hi> Pflanze wurden beobachtet bei dem 1. Versuche 43 runde und<lb/>nur 2 kantige, ferner 14 runde und 15 kantige Samen. Bei dem 2.<lb/>Versuche 32 gelbe und nur 1 grüner Same, aber auch 20 gelbe und<lb/>19 grüne.</p>
+            <lb/>
+            <p>Diese beiden Versuche sind wichtig für die Feststellung der mitt-<lb/>leren Verhältnisszahlen, weil sie bei einer geringeren Anzahl von Ver-<lb/>suchspflanzen sehr bedeutende Durchschnitte möglich machen. Bei der<lb/>Abzählung der Samen wird jedoch, namentlich beim 2. Versuche, einige<lb/><pb n="14" facs="#f0025"/>
+Aufmerksamkeit erfordert, da bei einzelnen Samen mancher Pflanzen<lb/>die grüne Färbung des Albumens weniger entwickelt wird und anfäng-<lb/>lich leicht übersehen werden kann. Die Ursache des theilweisen Ver-<lb/>schwindens der grünen Färbung steht mit dem Hybriden-Character der<lb/>Pflanzen in keinem Zusammenhange, indem dasselbe an der Stamm-<lb/>pflanze ebenfalls vorkommt; auch beschränkt sich diese Eigenthümlich-<lb/>keit nur auf das Individuum und vererbt sich nicht auf die Nachkom-<lb/>men. An luxurirenden Pflanzen wurde diese Erscheinung öfter beobach-<lb/>tet. Samen, welche während ihrer Entwicklung von Insecten beschädigt<lb/>wurden, variiren oft in Farbe und Gestalt, jedoch sind bei einiger<lb/>Uebung im Sortiren Fehler leicht zu vermeiden. Es ist fast überflüssig<lb/>zu erwähnen, dass die Hülsen so lange an der Pflanze bleiben müssen,<lb/>bis sie vollkommen ausgereift und trocken geworden sind, weil erst<lb/>dann die Gestalt und Färbung der Samen vollständig entwickelt ist.</p>
+            <lb/>
+            <p>3. <hi rendition="#g">Versuch</hi>. Farbe der Samenschale. Unter 929 Pflanzen brach-<lb/>ten 705 violett-rothe Blüthen und graubraune Samenschalen; 224 hat-<lb/>ten weisse Blüthen und weisse Samenschalen. Daraus ergibt sich das<lb/>Verhältniss 3,15:1.</p>
+            <lb/>
+            <p>4. <hi rendition="#g">Versuch</hi>. Gestalt der Hülsen. Von 1181 Pflanzen hatten 882<lb/>einfach gewölbte, 299 eingeschnürte Hülsen. Daher das Verhältniss<lb/>2,95:1.</p>
+            <lb/>
+            <p>5. <hi rendition="#g">Versuch</hi>. Färbung der unreifen Hülse. Die Zahl der Ver-<lb/>suchspflanzen betrug 580, wovon 428 grüne und 152 gelbe Hülsen<lb/>besassen. Daher stehen jene zu diesen in dem Verhältnisse 2,82:1.</p>
+            <lb/>
+            <p>6. <hi rendition="#g">Versuch</hi>. Stellung der Blüthen. Unter 858 Fällen waren die<lb/>Blüthen 651mal axenständig und 207mal endständig. Daraus das Ver-<lb/>hältniss 3,14:1.</p>
+            <lb/>
+            <p>7. <hi rendition="#g">Versuch</hi>. Länge der Axe. Von 1064 Pflanzen hatten 787<lb/>die lange, 277 die kurze Axe. Daher das gegenseitige Verhältniss 2,84:1.<lb/>Bei diesem Versuche wurden die zwergartigen Pflanzen behutsam aus-<lb/>gehoben und auf eigene Beete versetzt. Diese Vorsicht war nothwen-<lb/>dig, weil sie sonst mitten unter ihren hochrankenden Geschwistern hät-<lb/>ten verkümmern müssen. Sie sind schon in der ersten Jugendzeit an<lb/>dem gedrungenen Wuchse und den dunkelgrünen dicken Blättern leicht<lb/>zu unterscheiden.</p>
+            <lb/>
+            <p>Werden die Resultate sämmtlicher Versuche zusammengefasst, so<lb/><pb n="15" facs="#f0026"/>
+ergibt sich zwischen der Anzahl der Formen mit dem dominirenden<lb/>und recessiven Merkmale das Durchschnitts-Verhältniss 2,98:1 oder<lb/>3:1.</p>
+            <lb/>
+            <p>Das dominirende Merkmal kann hier eine <hi rendition="#g">doppelte Bedeutung</hi><lb/>haben, nämlich die des Stamm-Characters oder des Hybriden-Merkmales.<lb/>In welcher von beiden Bedeutungen dasselbe in jedem einzelnen Falle<lb/>vorkommt, darüber kann nur die nächste Generation entscheiden. Als<lb/>Stamm-Merkmal muss dasselbe unverändert auf sämmtliche Nachkom-<lb/>men übergehen, als Hybrides-Merkmal hingegen ein gleiches Verhalten<lb/>wie in der ersten Generation beobachten.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Die zweite Generation der Hybriden.</hi>
+            </head>
+            <lb/>
+            <p>Jene Formen, welche in der ersten Generation den recessiven<lb/>Character erhalten, variiren in der zweiten Generation in Bezug<lb/>auf diesen Character nicht mehr, sie bleiben in ihren Nachkommen<lb/><hi rendition="#g">constant</hi>.</p>
+            <lb/>
+            <p>Anders verhält es sich mit jenen, welche in der ersten Genera-<lb/>tion das dominirende Merkmal besitzen. Von diesen geben <hi rendition="#g">zwei</hi><lb/>Theile Nachkommen, welche in dem Verhältnisse 3:1 das dominirende<lb/>und recessive Merkmal an sich tragen, somit genau dasselbe Verhalten<lb/>zeigen, wie die Hybridformen; nur <hi rendition="#g">ein</hi> Theil bleibt mit dem domini-<lb/>renden Merkmale constant.</p>
+            <lb/>
+            <p>Die einzelnen Versuche lieferten nachfolgende Resultate:</p>
+            <lb/>
+            <p>1. <hi rendition="#g">Versuch</hi>. Unter 565 Pflanzen, welche aus runden Samen der<lb/>ersten Generation gezogen wurden, brachten 193 wieder nur runde<lb/>Samen und blieben demnach in diesem Merkmale constant; 372 aber<lb/>gaben runde und kantige Samen zugleich, in dem Verhältnisse 3:1.<lb/>Die Anzahl der Hybriden verhielt sich daher zu der Zahl der Constan-<lb/>ten wie 1,93:1.</p>
+            <lb/>
+            <p>2. <hi rendition="#g">Versuch</hi>. Von 519 Pflanzen, welche aus Samen gezogen<lb/>wurden, deren Albumen in der ersten Generation die gelbe Färbung<lb/>hatte, gaben 166 ausschliesslich gelbe, 353 aber gelbe und grüne Sa-<lb/>men in dem Verhältnisse 3:1. Es erfolgte daher eine Theilung in hy-<lb/>bride und constante Formen nach dem Verhältnisse 2,13:1.</p>
+            <lb/>
+            <pb n="16" facs="#f0027"/>
+            <p>Für jeden einzelnen von den nachfolgenden Versuchen wurden<lb/>100 Pflanzen ausgewählt, welche in der ersten Generation das domi-<lb/>nirende Merkmal besassen, und um die Bedeutung desselben zu prüfen,<lb/>von jeder 10 Samen angebaut.</p>
+            <lb/>
+            <p>3. <hi rendition="#g">Versuch</hi>. Die Nachkommen von 36 Pflanzen brachten aus-<lb/>schliesslich graubraune Samenschalen; von 64 Pflanzen wurden theils<lb/>graubraune, theils weisse erhalten.</p>
+            <lb/>
+            <p>4. <hi rendition="#g">Versuch</hi>. Die Nachkommen von 29 Pflanzen hatten nur ein-<lb/>fach gewölbte Hülsen, von 71 hingegen theils gewölbte, theils ein-<lb/>geschnürte.</p>
+            <lb/>
+            <p>5. <hi rendition="#g">Versuch</hi>. Die Nachkommen von 40 Pflanzen hatten blos<lb/>grüne Hülsen, die von 60 Pflanzen theils grüne, theils gelbe.</p>
+            <lb/>
+            <p>6. <hi rendition="#g">Versuch</hi>. Die Nachkommen von 33 Pflanzen hatten blos<lb/>axenständige Blüthen, bei 67 hingegen waren sie theils axenständig,<lb/>theils endständig.</p>
+            <lb/>
+            <p>7. <hi rendition="#g">Versuch</hi>. Die Nachkommen von 28 Pflanzen erhielten die<lb/>lange Axe, die von 72 Pflanzen theils die lange, theils die kurze.</p>
+            <lb/>
+            <p>Bei jedem dieser Versuche wird eine bestimmte Anzahl Pflanzen mit<lb/>dem dominirenden Merkmale constant. Für die Beurtheilung des Verhält-<lb/>nisses, in welchem die Ausscheidung der Formen mit dem constant blei-<lb/>benden Merkmale erfolgt, sind die beiden ersten Versuche von beson-<lb/>derem Gewichte, weil bei diesen eine grössere Anzahl Pflanzen vergli-<lb/>chen werden konnte. Die Verhältnisse 1,93:1 und 2,13:1 geben zusammen<lb/>fast genau das Durchschnitts-Verhältniss 2:1. Der 6. Versuch hat ein ganz<lb/>übereinstimmendes Resultat, bei den anderen schwankt das Verhältniss<lb/>mehr oder weniger, wie es bei der geringen Anzahl von 100 Versuchs-<lb/>pflanzen nicht anders zu erwarten war. Der 5. Versuch, welcher die<lb/>grösste Abweichung zeigte, wurde wiederholt, und dann, statt des Ver-<lb/>hältnisses 60:40, das Verhältniss 65:35 erhalten. <hi rendition="#g">Das Durchschnitts-<lb/>Verhältniss 2:1 erscheint demnach als gesichert</hi>. Es ist da-<lb/>mit erwiesen, dass von jenen Formen, welche in der ersten Generation<lb/>das dominirende Merkmal besitzen, zwei Theile den hybriden Charac-<lb/>ter an sich tragen, ein Theil aber mit dem dominirenden Merkmale<lb/>constant bleibt.</p>
+            <lb/>
+            <p>Das Verhältniss 3:1, nach welchem die Vertheilung des domini-<lb/>renden und recessiven Characters in der ersten Generation erfolgt, löst<lb/>sich demnach für alle Versuche in die Verhältnisse 2:1:1 auf, wenn<lb/><pb n="17" facs="#f0028"/>
+man zugleich das dominirende Merkmal in seiner Bedeutung als hybri-<lb/>des Merkmal und als Stamm-Character unterscheidet. Da die Glieder<lb/>der ersten Generation unmittelbar aus den Samen der Hybriden her-<lb/>vorgehen, <hi rendition="#g">wird es nun ersichtlich, dass die Hybriden je<lb/>zweier differirender Merkmale Samen bilden, von denen<lb/>die eine Hälfte wieder die Hybridform entwickelt, wäh-<lb/>rend die andere Pflanzen gibt, welche constant bleiben,<lb/>und zu gleichen Theilen den dominirenden und recessiven<lb/>Character erhalten</hi>.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Die weiteren Generationen der Hybriden.</hi>
+            </head>
+            <lb/>
+            <p>Die Verhältnisse, nach welchen sich die Abkömmlinge der Hybri-<lb/>den in der ersten und zweiten Generation entwickeln und theilen, gel-<lb/>ten wahrscheinlich für alle weiteren Geschlechter. Der 1. und 2. Ver-<lb/>such sind nun schon durch 6 Generationen, der 3. und 7. durch 5, der<lb/>4., 5., 6. durch 4 Generationen durchgeführt, obwohl von der 3. Ge-<lb/>neration angefangen mit einer kleinen Anzahl Pflanzen, ohne dass irgend<lb/>welche Abweichung bemerkbar wäre. Die Nachkommen der Hybriden<lb/>theilten sich in jeder Generation nach den Verhältnissen 2:1:1 in Hy-<lb/>bride und constante Formen.</p>
+            <lb/>
+            <p>Bezeichnet <hi rendition="#i">A</hi> das eine der beiden constanten Merkmale, z. B.<lb/>das dominirende, <hi rendition="#i">a</hi> das recessive, und <hi rendition="#i">Aa</hi> die Hybridform, in welcher<lb/>beide vereinigt sind, so ergibt der Ausdruck:<lb/><hi rendition="#c"><hi rendition="#i">A + 2 Aa + a</hi></hi><lb/>die Entwicklungsreihe für die Nachkommen der Hybriden je zweier dif-<lb/>ferirender Merkmale.</p>
+            <lb/>
+            <p>Die von Gärtner, Kölreuter und Anderen gemachte Wahrneh-<lb/>mung, dass Hybriden die Neigung besitzen zu den Stammarten zurück-<lb/>zukehren, ist auch durch die besprochenen Versuche bestätigt. Es lässt<lb/>sich zeigen, dass die Zahl der Hybriden, welche aus einer Befruchtung<lb/>stammen, gegen die Anzahl der constant gewordenen Formen und ihrer<lb/>Nachkommen von Generation zu Generation um ein Bedeutendes zu-<lb/>rückbleibt, ohne dass sie jedoch ganz verschwinden könnten. Nimmt<lb/>man durchschnittlich für alle Pflanzen in allen Generationen eine gleich<lb/>grosse Fruchtbarkeit an, erwägt man ferner, dass jede Hybride Samen<lb/><fw type="sig" place="bottom">2</fw><lb/><pb n="18" facs="#f0029"/>
+bildet, aus denen zur Hälfte wieder Hybriden hervorgehen, während die<lb/>andere Hälfte mit beiden Merkmalen zu gleichen Theilen constant wird,<lb/>so ergeben sich die Zahlenverhältnisse für die Nachkommen in jeder<lb/>Generation aus folgender Zusammenstellung, wobei <hi rendition="#i">A</hi> und <hi rendition="#i">a</hi> wieder die<lb/>beiden Stamm-Merkmale und <hi rendition="#i">Aa</hi> die Hybridform bezeichnet. Der Kürze<lb/>wegen möge die Annahme gelten, dass jede Pflanze in jeder Generation<lb/>nur 4 Samen bildet.</p>
+            <lb/>
+            <table>
+              <row>
+                <cell/>
+              </row>
+            </table>
+            <p>In der 10. Generation z. B. ist 2<hi rendition="#sup">n</hi>&#x2014;1 = 1023. Es gibt somit<lb/>unter je 2048 Pflanzen, welche aus dieser Generation hervorgehen,<lb/>1023 mit dem constanten dominirenden, 1023 mit dem recessiven Merk-<lb/>male und nur 2 Hybriden.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Die Nachkommen der Hybriden, in welchen mehrere<lb/>differirende Merkmale verbunden sind.</hi>
+            </head>
+            <lb/>
+            <p>Für die eben besprochenen Versuche wurden Pflanzen verwendet,<lb/>welche nur in einem wesentlichen Merkmale verschieden waren. Die<lb/>nächste Aufgabe bestand darin, zu untersuchen, ob das gefundene Ent-<lb/>wicklungs-Gesetz auch dann für je zwei differirende Merkmale gelte,<lb/>wenn mehrere verschiedene Charactere durch Befruchtung in der Hy-<lb/>bride vereinigt sind.</p>
+            <lb/>
+            <p>Was die Gestalt der Hybriden in diesem Falle anbelangt, zeig-<lb/>ten die Versuche übereinstimmend, dass dieselbe stets jener der beiden<lb/>Stammpflanzen näher steht, welche die grössere Anzahl von dominiren-<lb/>den Merkmalen besitzt. Hat z. B. die Samenpflanze eine kurze Axe,<lb/>endständige weisse Blüthen und einfach gewölbte Hülsen; die Pollen-<lb/>pflanze hingegen eine lange Axe, axenständige violett-rothe Blüthen<lb/>und eingeschnürte Hülsen, so erinnert die Hybride nur durch die Hül-<lb/>senform an die Samenpflanze, in den übrigen Merkmalen stimmt sie mit<lb/><pb n="19" facs="#f0030"/>
+der Pollenpflanze überein. Besitzt eine der beiden Stammarten nur do-<lb/>minirende Merkmale, dann ist die Hybride von derselben kaum oder<lb/>gar nicht zu unterscheiden.</p>
+            <lb/>
+            <p>Mit einer grösseren Anzahl Pflanzen wurden zwei Versuche durch-<lb/>geführt. Bei dem ersten Versuche waren die Stammpflanzen in der Ge-<lb/>stalt der Samen und in der Färbung des Albumens verschieden; bei<lb/>dem zweiten in der Gestalt der Samen, in der Färbung des Albumens<lb/>und in der Farbe der Samenschale. Versuche mit Samen-Merkmalen<lb/>führen am einfachsten und sichersten zum Ziele.</p>
+            <lb/>
+            <p>Um eine leichtere Uebersicht zu gewinnen, werden bei diesen<lb/>Versuchen die differirenden Merkmale der Samenpflanze mit <hi rendition="#i">A, B, C</hi>,<lb/>jene der Pollenpflanze mit <hi rendition="#i">a, b, c</hi> und die Hybridformen dieser Merk-<lb/>male mit <hi rendition="#i">Aa, Bb, Cc</hi> bezeichnet.</p>
+            <lb/>
+            <p><hi rendition="#g">Erster Versuch</hi>: <hi rendition="#i">AB</hi> Samenpflanze, <hi rendition="#i">ab</hi> Pollenpflanze,<lb/><hi rendition="#i">A</hi> Gestalt rund, <hi rendition="#i">a</hi> Gestalt kantig,<lb/><hi rendition="#i">B</hi> Albumen gelb, <hi rendition="#i">b</hi> Albumen grün.</p>
+            <lb/>
+            <p>Die befruchteten Samen erschienen rund und gelb, jenen der Sa-<lb/>menpflanze ähnlich. Die daraus gezogenen Pflanzen gaben Samen von<lb/>viererlei Art, welche oft gemeinschaftlich in einer Hülse lagen. Im Gan-<lb/>zen wurden von 15 Pflanzen 556 Samen erhalten, von diesen waren:<lb/><hi rendition="#c">315 rund und gelb,<lb/>101 kantig und gelb,<lb/>108 rund und grün,<lb/>32 kantig und grün.</hi></p>
+            <lb/>
+            <p>Alle wurden im nächsten Jahre angebaut. Von den runden gelben<lb/>Samen gingen 11 nicht auf und 3 Pflanzen kamen nicht zur Frucht-<lb/>bildung. Unter den übrigen Pflanzen hatten:<lb/>38 runde gelbe Samen .............. <hi rendition="#i">AB</hi><lb/>65 runde gelbe und grüne Samen .......... <hi rendition="#i">ABb</hi><lb/>60 runde gelbe und kantige gelbe Samen ....... <hi rendition="#i">AaB</hi><lb/>138 runde gelbe und grüne, kantige gelbe und grüne Samen <hi rendition="#i">AaBb</hi></p>
+            <lb/>
+            <p>Von den kantigen gelben Samen kamen 96 Pflanzen zur Frucht-<lb/>bildung, wovon 28 nur kantige gelbe Samen hatten . .. <hi rendition="#i">aB</hi><lb/>68 kantige, gelbe und grüne Samen ..... <hi rendition="#i">aBb</hi></p>
+            <lb/>
+            <p>Von 108 runden grünen Samen brachten 102 Pflanzen Früchte,<lb/>davon hatten: 35 nur runde grüne Samen ......... <hi rendition="#i">Ab</hi><lb/>67 runde und kantige grüne Samen ..... <hi rendition="#i">Aab</hi></p>
+            <lb/>
+            <fw type="sig" place="bottom">2*</fw>
+            <lb/>
+            <pb n="20" facs="#f0031"/>
+            <p>Die kantigen grünen Samen gaben 30 Pflanzen mit durchaus<lb/>gleichen Samen; sie blieben constant ............ <hi rendition="#i">ab</hi></p>
+            <lb/>
+            <p>Die Nachkommen der Hybriden erscheinen demnach unter 9 ver-<lb/>schiedenen Formen und zum Theile in sehr ungleicher Anzahl. Man<lb/>erhält, wenn dieselben zusammengestellt und geordnet werden:</p>
+            <lb/>
+            <table>
+              <row>
+                <cell/>
+              </row>
+            </table>
+            <p>Sämmtliche Formen lassen sich in 3 wesentlich verschiedene Ab-<lb/>theilungen bringen. Die erste umfasst jene mit der Bezeichnung <hi rendition="#i">AB,<lb/>Ab, aB, ab</hi>; sie besitzen nur constante Merkmale und ändern sich in<lb/>den nächsten Generationen nicht mehr. Jede dieser Formen ist durch-<lb/>schnittlich 33mal vertreten. Die zweite Gruppe enthält die Formen <hi rendition="#i">ABb,<lb/>aBb, AaB, Aab</hi>; diese sind in einem Merkmale constant, in dem ande-<lb/>ren hybrid, und variiren in der nächsten Generation nur hinsichtlich<lb/>des hybriden Merkmales. Jede davon erscheint im Durchschnitte 65mal.<lb/>Die Form <hi rendition="#i">AaBb</hi> kommt 138mal vor, ist in beiden Merkmalen hybrid,<lb/>und verhält sich genau so, wie die Hybride, von der sie abstammt.</p>
+            <lb/>
+            <p>Vergleicht man die Anzahl, in welcher die Formen dieser Ab-<lb/>theilungen vorkommen, so sind die Durchschnitts-Verhältnisse 1:2:4<lb/>nicht zu verkennen. Die Zahlen 33, 65, 138 geben ganz günstige An-<lb/>näherungswerthe an die Verhältnisszahlen 33, 66, 132.</p>
+            <lb/>
+            <p>Die Entwicklungsreihe besteht demnach aus 9 Gliedern. 4 davon<lb/>kommen in derselben je einmal vor und sind in beiden Merkmalen con-<lb/>stant; die Formen <hi rendition="#i">AB, ab</hi> gleichen den Stammarten, die beiden ande-<lb/>ren stellen die ausserdem noch möglichen constanten Combinationen<lb/>zwischen den verbundenen Merkmalen <hi rendition="#i">A, a, B, b</hi> vor. Vier Glieder<lb/>kommen je zweimal vor und sind in einem Merkmale constant, in dem<lb/>anderen hybrid. Ein Glied tritt viermal auf und ist in beiden Merk-<lb/>malen hybrid. Daher entwickeln sich die Nachkommen der Hybriden,<lb/>wenn in denselben zweierlei differirende Merkmale verbunden sind, nach<lb/>dem Ausdrucke:<lb/><pb n="21" facs="#f0032"/>
+<hi rendition="#i">AB + Ab + aB + ab + 2 ABb + 2 aBb + 2 AaB + 2 Aab + 4 AaBb</hi>.</p>
+            <lb/>
+            <p>Diese Entwicklungsreihe ist unbestritten eine Combinationsreihe,<lb/>in welcher die beiden Entwicklungsreihen für die Merkmale <hi rendition="#i">A</hi> und <hi rendition="#i">a,<lb/>B</hi> und <hi rendition="#i">b</hi> gliedweise verbunden sind. Man erhält die Glieder der Reihe<lb/>vollzählig durch die Combinirung der Ausdrücke:</p><lb/><p rendition="#c"><hi rendition="#i">A + 2 Aa + a<lb/>B + 2 Bb + b</hi></p>
+            <lb/>
+           <table>               
+  <row>                 
+    <cell rows="4"><hi rendition="#g">Zweiter Versuch</hi>:</cell>                 
+    <cell rendition="#right"><hi rendition="#i">ABC</hi></cell>
+    <cell>Samenpflanze,</cell>
+    <cell rendition="#right"><hi rendition="#i">abc</hi></cell>
+    <cell>Pollenpflanze.</cell>
+  </row><lb/>
+  <row>                 
+    <cell rendition="#right"><hi rendition="#i">A</hi></cell>
+    <cell>Gestalt rund,</cell>
+    <cell rendition="#right"><hi rendition="#i">a</hi></cell>
+    <cell>Gestalt kantig.</cell>
+  </row><lb/>
+  <row>                 
+    <cell rendition="#right"><hi rendition="#i">B</hi></cell>
+    <cell>Albumen gelb,</cell>
+    <cell rendition="#right"><hi rendition="#i">b</hi></cell>
+    <cell>Albumen grün.</cell>
+  </row><lb/>
+  <row>                 
+    <cell rendition="#right"><hi rendition="#i">C</hi></cell>
+    <cell>Schale graubraun,</cell>
+    <cell rendition="#right"><hi rendition="#i">c</hi></cell>
+    <cell>Schale weiss.</cell>
+  </row>             
+</table><lb/>
+            <p>Dieser Versuch wurde in ganz ähnlicher Weise wie der vorange-<lb/>hende durchgeführt. Er nahm unter allen Versuchen die meiste Zeit<lb/>und Mühe in Anspruch. Von 24 Hybriden wurden im Ganzen 687 Sa-<lb/>men erhalten, welche sämmtlich punctirt, graubraun oder graugrün ge-<lb/>färbt, rund oder kantig waren. Davon kamen im folgenden Jahre 639<lb/>Pflanzen zur Fruchtbildung, und wie die weiteren Untersuchungen zeig-<lb/>ten, befanden sich darunter:</p>
+<table>
+        <row>
+          <cell>8</cell>
+          <cell>Pflanzen</cell>
+          <cell><hi rendition="#i">ABC</hi></cell>
+          <cell>22</cell>
+          <cell>Pflanzen</cell>
+          <cell><hi rendition="#i">ABCc</hi></cell>
+          <cell>45</cell>
+          <cell>Pflanzen</cell>
+          <cell><hi rendition="#i">ABbCc</hi></cell>
+        </row><lb/>
+        <row>
+          <cell>14</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">ABc</hi></cell>
+          <cell>17</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AbCc</hi></cell>
+          <cell>36</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">aBbCc</hi></cell>
+        </row><lb/>
+        <row>
+          <cell>9</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AbC</hi></cell>
+          <cell>25</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">aBCc</hi></cell>
+          <cell>38</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AaBCc</hi></cell>
+        </row><lb/>
+        <row>
+          <cell>11</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">Abc</hi></cell>
+          <cell>20</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">abCc</hi></cell>
+          <cell>40</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AabCc</hi></cell>
+        </row><lb/>
+        <row>
+          <cell>8</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">aBC</hi></cell>
+          <cell>15</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">ABbC</hi></cell>
+          <cell>49</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AaBbC</hi></cell>
+        </row><lb/>
+        <row>
+          <cell>10</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">aBc</hi></cell>
+          <cell>18</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">ABbc</hi></cell>
+          <cell>48</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AaBbc</hi></cell>
+        </row><lb/>
+        <row>
+          <cell>10</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">abC</hi></cell>
+          <cell>19</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">aBbC</hi></cell>
+          <cell/>
+          <cell/>
+          <cell/>
+        </row><lb/>
+        <row>
+          <cell>7</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">abc</hi></cell>
+          <cell>24</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">aBbc</hi></cell>
+          <cell/>
+          <cell/>
+          <cell/>
+        </row><lb/>
+        <row>
+          <cell/>
+          <cell/>
+          <cell/>
+          <cell>14</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AaBC</hi></cell>
+          <cell>78</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AaBbCc</hi></cell>
+        </row><lb/>
+        <row>
+          <cell/>
+          <cell/>
+          <cell/>
+          <cell>18</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AaBc</hi></cell>
+          <cell/>
+          <cell/>
+          <cell/>
+        </row><lb/>
+        <row>
+          <cell/>
+          <cell/>
+          <cell/>
+          <cell>20</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">AabC</hi></cell>
+          <cell/>
+          <cell/>
+          <cell/>
+        </row><lb/>
+        <row>
+          <cell/>
+          <cell/>
+          <cell/>
+          <cell>16</cell>
+          <cell><hi rendition="#c">&#x3003;</hi></cell>
+          <cell><hi rendition="#i">Aabc</hi></cell>
+          <cell/>
+          <cell/>
+          <cell/>
+        </row>
+      </table>
+            <lb/>
+            <p>Die Entwicklungsreihe umfasst 27 Glieder. Davon sind 8 in allen<lb/>Merkmalen constant, und jede kommt durchschnittlich 10mal vor; 12<lb/>sind in zwei Merkmalen constant, in dem dritten hybrid, jede erscheint<lb/>im Durchschnitte 19mal; 6 sind in einem Merkmale constant, in den<lb/>beiden anderen hybrid, jede davon tritt durchschnittlich 43mal auf;<lb/><pb n="22" facs="#f0033"/>
+eine Form kommt 78mal vor und ist in sämmtlichen Merkmalen hybrid.<lb/>Die Verhältnisse 10:19:43:78 kommen den Verhältnissen 10:20:<lb/>40:80 oder 1:2:4:8 so nahe, dass letztere ohne Zweifel die rich-<lb/>tigen Werthe darstellen.</p>
+            <lb/>
+            <p>Die Entwicklung der Hybriden, wenn ihre Stammarten in 3 Merk-<lb/>malen verschieden sind, erfolgt daher nach dem Ausdrucke:<lb/><hi rendition="#c"><hi rendition="#i">ABC + ABc + AbC + Abc + aBC + aBc + abC + abc + 2 ABCc +<lb/>2 AbCc + 2 aBCc + 2 abCc + 2 ABbC + 2 ABbc + 2 aBbC + 2 aBbc +<lb/>2 AaBC + 2 AaBc + 2 AabC + 2 Aabc + 4 ABbCc + 4 aBbCc +<lb/>4 AaBCc + 4 AabCc + 4 AaBbC + 4 AaBbc + 8 AaBbCc</hi>.</hi></p>
+            <lb/>
+            <p>Auch hier liegt eine Combinationsreihe vor, in welcher die Ent-<lb/>wicklungsreihe für die Merkmale <hi rendition="#i">A</hi> und <hi rendition="#i">a, B</hi> und <hi rendition="#i">b, C</hi> und <hi rendition="#i">c</hi> mit ein-<lb/>ander verbunden sind. Die Ausdrücke:<lb/><hi rendition="#c"><hi rendition="#i">A + 2 Aa + a<lb/>B + 2 Bb + b<lb/>C + 2 Cc + c</hi></hi><lb/>geben sämmtliche Glieder der Reihe. Die constanten Verbindungen,<lb/>welche in derselben vorkommen, entsprechen allen Combinationen, wel-<lb/>che zwischen den Merkmalen <hi rendition="#i">A, B, C, a, b, c</hi> möglich sind; zwei davon,<lb/><hi rendition="#i">ABC</hi> und <hi rendition="#i">abc</hi> gleichen den beiden Stammpflanzen.</p>
+            <lb/>
+            <p>Ausserdem wurden noch mehrere Experimente mit einer geringeren<lb/>Anzahl Versuchspflanzen durchgeführt, bei welchen die übrigen Merk-<lb/>male zu zwei und drei hybrid verbunden waren; alle lieferten annähernd<lb/>gleiche Resultate. Es unterliegt daher keinem Zweifel, dass für sämmt-<lb/>liche in die Versuche aufgenommenen Merkmale der Satz Giltigkeit<lb/>habe: <hi rendition="#g">die Nachkommen der Hybriden, in welchen mehrere<lb/>wesentlich verschiedene Merkmale vereinigt sind, stel-<lb/>len die Glieder einer Combinationsreihe vor, in welchen<lb/>die Entwicklungsreihen für je zwei differirende Merkmale<lb/>verbunden sind</hi>. Damit ist zugleich erwiesen, dass <hi rendition="#g">das Verhalten<lb/>je zweier differirender Merkmale in hybrider Verbindung<lb/>unabhängig ist von den anderweitigen Unterschieden an<lb/>den beiden Stammpflanzen</hi>.</p>
+            <lb/>
+            <p>Bezeichnet <hi rendition="#i">n</hi> die Anzahl der characteristischen Unterschiede an<lb/>den beiden Stammpflanzen, so gibt 3<hi rendition="#sup">n</hi> die Gliederzahl der Combinations-<lb/>reihe, 4<hi rendition="#sup">n</hi> die Anzahl der Individuen, welche in die Reihe gehören, und<lb/><pb n="23" facs="#f0034"/>
+2<hi rendition="#sup">n</hi> die Zahl der Verbindungen, welche constant bleiben. So enthält z. B.<lb/>die Reihe, wenn die Stammarten in 4 Merkmalen verschieden sind,<lb/>3<hi rendition="#sup">4</hi> = 81 Glieder, 4<hi rendition="#sup">4</hi> = 256 Individuen und 2<hi rendition="#sup">4</hi> = 16 constante Formen;<lb/>oder was dasselbe ist, unter je 256 Nachkommen der Hybriden gibt es<lb/>81 verschiedene Verbindungen, von denen 16 constant sind.</p>
+            <lb/>
+            <p>Alle constanten Verbindungen, welche bei Pisum durch Combini-<lb/>rung der angeführten 7 characteristischen Merkmale möglich sind, wur-<lb/>den durch wiederholte Kreuzung auch wirklich erhalten. Ihre Zahl ist<lb/>durch 2<hi rendition="#sup">7</hi> = 128 gegeben. Damit ist zugleich der factische Beweis ge-<lb/>liefert, <hi rendition="#g">dass constante Merkmale, welche an verschiedenen<lb/>Formen einer Pflanzensippe vorkommen, auf dem Wege<lb/>der wiederholten künstlichen Befruchtung in alle Verbin-<lb/>dungen treten können, welche nach den Regeln der Com-<lb/>bination möglich sind</hi>.</p>
+            <lb/>
+            <p>Ueber die Blüthezeit der Hybriden sind die Versuche noch nicht<lb/>abgeschlossen. So viel kann indessen schon angegeben werden, dass<lb/>dieselbe fast genau in der Mitte zwischen jener der Samen- und Pol-<lb/>lenpflanze steht, und die Entwicklung der Hybriden bezüglich dieses<lb/>Merkmales wahrscheinlich in der nämlichen Weise erfolgt, wie es für<lb/>die übrigen Merkmale der Fall ist. Die Formen, welche für Versuche<lb/>dieser Art gewählt werden, müssen in der mittleren Blüthezeit wenig-<lb/>stens um 20 Tage verschieden sein; ferner ist nothwendig, dass die<lb/>Samen beim Anbaue alle gleich tief in die Erde versenkt werden, um<lb/>ein gleichzeitiges Keimen zu erzielen, dass ferner während der ganzen<lb/>Blüthezeit grössere Schwankungen in der Temperatur und die dadurch<lb/>bewirkte theilweise Beschleunigung oder Verzögerung des Aufblühens<lb/>in Rechnung gezogen werden. Man sieht, dass dieser Versuch mancher-<lb/>lei Schwierigkeiten zu überwinden hat und grosse Aufmerksamkeit er-<lb/>fordert.</p>
+            <lb/>
+            <p>Versuchen wir die gewonnenen Resultate kurz zusammenzufassen,<lb/>so finden wir, dass jene differirenden Merkmale, welche an den Ver-<lb/>suchspflanzen eine leichte und sichere Unterscheidung zulassen, in hy-<lb/>brider Vereinigung ein <hi rendition="#g">völlig übereinstimmendes Verhalten<lb/>beobachten</hi>. Die Nachkommen der Hybriden je zweier differirender<lb/>Merkmale sind zur Hälfte wieder Hybriden, während die andere Hälfte<lb/>zu gleichen Theilen mit dem Character der Samen- und Pollenpflanze<lb/>constant wird. Sind mehrere differirende Merkmale durch Befruchtung<lb/><pb n="24" facs="#f0035"/>
+in einer Hybride vereinigt, so bilden die Nachkommen derselben die<lb/>Glieder einer Combinationsreihe, in welcher die Entwicklungsreihen für<lb/>je zwei differirende Merkmale vereinigt sind.</p>
+            <lb/>
+            <p>Die vollkommene Uebereinstimmung, welche sämmtliche, dem Ver-<lb/>suche unterzogenen Charactere zeigen, erlaubt wohl und rechtfertigt die<lb/>Annahme, dass auch ein gleiches Verhalten den übrigen Merkmalen zu-<lb/>komme, welche weniger scharf an den Pflanzen hervortreten, und dess-<lb/>halb in die Einzel-Versuche nicht aufgenommen werden konnten. Ein<lb/>Experiment über Blüthenstiele von verschiedener Länge gab im Gan-<lb/>zen ein ziemlich befriedigendes Resultat, obgleich die Unterscheidung<lb/>und Einreihung der Formen nicht mit jener Sicherheit erfolgen konnte,<lb/>welche für correcte Versuche unerlässlich ist.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Die Befruchtungs-Zellen der Hybriden.</hi>
+            </head>
+            <lb/>
+            <p>Die Resultate, zu welchen die vorausgeschickten Versuche führ-<lb/>ten, veranlassten weitere Experimente, deren Erfolg geeignet erscheint,<lb/>Aufschlüsse über die Beschaffenheit der Keim- und Pollenzellen der<lb/>Hybriden zu geben. Einen wichtigen Anhaltspunct bietet bei Pisum der<lb/>Umstand, dass unter den Nachkommen der Hybriden constante Formen<lb/>auftreten, und zwar in allen Combinirungen der verbundenen Merkmale.<lb/>Soweit die Erfahrung reicht, finden wir es überall bestätigt, dass con-<lb/>stante Nachkommen nur dann gebildet werden können, wenn die Keim-<lb/>zellen und der befruchtende Pollen gleichartig, somit beide mit der An-<lb/>lage ausgerüstet sind, völlig gleiche Individuen zu beleben, wie das bei<lb/>der normalen Befruchtung der reinen Arten der Fall ist. Wir müssen<lb/>es daher als nothwendig erachten, dass auch bei Erzeugung der con-<lb/>stanten Formen an der Hybridpflanze vollkommen gleiche Factoren zu-<lb/>sammenwirken. Da die verschiedenen constanten Formen an <hi rendition="#g">einer</hi><lb/>Pflanze, ja in <hi rendition="#g">einer</hi> Blüthe derselben erzeugt werden, erscheint die<lb/>Annahme folgerichtig, dass in den Fruchtknoten der Hybriden so vie-<lb/>lerlei Keimzellen (Keimbläschen) und in den Antheren so vielerlei Pol-<lb/>lenzellen gebildet werden, als <hi rendition="#g">constante</hi> Combinationsformen möglich<lb/>sind, und dass diese Keim- und Pollenzellen ihrer inneren Beschaffen-<lb/>heit nach den einzelnen Formen entsprechen.</p>
+            <lb/>
+            <p>In der That lässt sich auf theoretischem Wege zeigen, dass diese<lb/>Annahme vollständig ausreichen würde, um die Entwicklung der Hybri-<lb/><pb n="25" facs="#f0036"/>
+den in den einzelnen Generationen zu erklären, wenn man zugleich<lb/>voraussetzen dürfte, dass die verschiedenen Arten von Keim- und Pol-<lb/>lenzellen an der Hybride durchschnittlich in gleicher Anzahl gebildet<lb/>werden.</p>
+            <lb/>
+            <p>Um diese Voraussetzungen auf experimentellem Wege einer Prü-<lb/>fung zu unterziehen, wurden folgende Versuche ausgewählt: Zwei For-<lb/>men, welche in der Gestalt der Samen und in der Färbung des Albu-<lb/>mens constant verschieden waren, wurden durch Befruchtung verbunden.</p>
+            <lb/>
+            <p>Werden die differirenden Merkmale wieder mit <hi rendition="#i">A, B, a, b</hi> bezeich-<lb/>net, so war:<lb/><table><row><cell/></row></table></p>
+            <p>Die künstlich befruchteten Samen wurden sammt mehreren Samen<lb/>der beiden Stammpflanzen angebaut, und davon die kräftigsten Exem-<lb/>plare für die wechselseitige Kreuzung bestimmt. Befruchtet wurde:<lb/><hi rendition="#c">1. Die Hybride mit dem Pollen von <hi rendition="#i">AB</hi>.<lb/>2. Die Hybride &#x201E; &#x201E; &#x201E; &#x201E; <hi rendition="#i">ab</hi>.<lb/>3. <hi rendition="#i">AB</hi> &#x201E; &#x201E; &#x201E; der Hybride.<lb/>4. <hi rendition="#i">ab</hi> &#x201E; &#x201E; &#x201E; der Hybride.</hi></p>
+            <lb/>
+            <p>Für jeden von diesen 4 Versuchen wurden an 3 Pflanzen sämmt-<lb/>liche Blüthen befruchtet. War die obige Annahme richtig, so mussten<lb/>sich an den Hybriden Keim- und Pollenzellen von den Formen <hi rendition="#i">AB,<lb/>Ab, aB, ab</hi> entwickeln, und es wurden verbunden:<lb/>1. Die Keimzellen <hi rendition="#i">AB, Ab, aB, ab</hi> mit den Pollenzellen <hi rendition="#i">AB</hi>.<lb/>2. &#x201E; <hi rendition="#i">AB, Ab, aB, ab</hi> &#x201E; <hi rendition="#i">ab</hi>.<lb/>3. &#x201E; <hi rendition="#i">AB</hi> &#x201E; <hi rendition="#i">AB, Ab, aB, ab</hi>.<lb/>4. &#x201E; <hi rendition="#i">ab</hi> &#x201E; <hi rendition="#i">AB, Ab, aB, ab</hi>.</p>
+            <lb/>
+            <p>Aus jedem von diesen Versuchen konnten dann nur folgende For-<lb/>men hervorgehen:<lb/><hi rendition="#c">1. <hi rendition="#i">AB, ABb, AaB, AaBb</hi>.<lb/>2. <hi rendition="#i">AaBb, Aab, aBb, ab</hi>.<lb/>3. <hi rendition="#i">AB, ABb, AaB, AaBb</hi>.<lb/>4. <hi rendition="#i">AaBb, Aab, aBb, ab</hi>.</hi></p>
+            <lb/>
+            <pb n="26" facs="#f0037"/>
+            <p>Wurden ferner die einzelnen Formen der Keim- und Pollenzellen<lb/>von der Hybride durchschnittlich in gleicher Anzahl gebildet, so muss-<lb/>ten bei jedem Versuche die angeführten 4 Verbindungen in numerischer<lb/>Beziehung gleich stehen. Eine vollkommene Uebereinstimmung der Zah-<lb/>lenverhältnisse war indessen nicht zu erwarten, da bei jeder Befruch-<lb/>tung, auch bei der normalen, einzelne Keimzellen unentwickelt bleiben<lb/>oder später verkümmern, und selbst manche von den gut ausgebilde-<lb/>ten Samen nach dem Anbaue nicht zum Keimen gelangen. Auch be-<lb/>schränkt sich die gemachte Voraussetzung darauf, dass bei der Bildung<lb/>der verschiedenartigen Keim- und Pollenzellen die gleiche Anzahl an-<lb/>gestrebt werde, ohne dass diese an jeder einzelnen Hybride mit ma-<lb/>thematischer Genauigkeit erreicht werden müsste.</p>
+            <lb/>
+            <p>Der <hi rendition="#g">erste</hi> und <hi rendition="#g">zweite</hi> Versuch hatten vorzugsweise den Zweck,<lb/>die Beschaffenheit der hybriden Keimzellen zu prüfen, so wie der <hi rendition="#g">dritte</hi><lb/>und <hi rendition="#g">vierte</hi> Versuch über die Pollenzellen zu entscheiden hatte. Wie<lb/>aus der obigen Zusammenstellung hervorgeht, mussten der erste und<lb/>dritte Versuch, ebenso der zweite und vierte ganz gleiche Verbindun-<lb/>gen liefern, auch sollte der Erfolg schon im zweiten Jahre an der Ge-<lb/>stalt und Färbung der künstlich befruchteten Samen theilweise ersicht-<lb/>lich sein. Bei dem ersten und dritten Versuche kommen die dominiren-<lb/>den Merkmale der Gestalt und Farbe <hi rendition="#i">A</hi> und <hi rendition="#i">B</hi> in jeder Verbindung<lb/>vor, und zwar zum Theile constant, zum Theile in hybrider Vereini-<lb/>gung mit den recessiven Characteren <hi rendition="#i">a</hi> und <hi rendition="#i">b</hi>, wesshalb sie sämmtli-<lb/>chen Samen ihre Eigenthümlichkeit aufprägen müssen. Alle Samen soll-<lb/>ten daher, wenn die Voraussetzung eine richtige war, rund und gelb<lb/>erscheinen. Bei dem zweiten und vierten Versuche hingegen ist eine<lb/>Verbindung hybrid in Gestalt und Farbe, daher sind die Samen rund<lb/>und gelb; eine andere ist hybrid in der Gestalt und constant in dem<lb/>recessiven Merkmale der Farbe, daher die Samen rund und grün; die<lb/>dritte ist constant in dem recessiven Merkmale der Gestalt und hybrid<lb/>in der Farbe, daher die Samen kantig und gelb; die vierte ist con-<lb/>stant in beiden recessiven Merkmalen, daher die Samen kantig und grün.<lb/>Bei diesen beiden Versuchen waren daher viererlei Samen zu erwarten,<lb/>nämlich: runde gelbe, runde grüne, kantige gelbe, kantige grüne.</p>
+            <lb/>
+            <p>Die Ernte entsprach den gestellten Anforderungen vollkommen.</p>
+            <lb/>
+            <p>Es wurden erhalten bei dem<lb/><hi rendition="#et">1. Versuche 98 ausschliesslich runde gelbe Samen;<lb/>3. &#x201E; 94 &#x201E; &#x201E; &#x201E; &#x201E;</hi></p>
+            <lb/>
+            <pb n="27" facs="#f0038"/>
+            <p>2. Versuche 31 runde gelbe, 26 runde grüne, 27 kantige gelbe,<lb/>26 kantige grüne Samen;</p>
+            <lb/>
+            <p>4. Versuche 24 runde gelbe, 25 runde grüne, 22 kantige gelbe,<lb/>27 kantige grüne Samen.</p>
+            <lb/>
+            <p>An einem günstigen Erfolge war nun kaum mehr zu zweifeln, die<lb/>nächste Generation müsste die endgiltige Entscheidung bringen. Von<lb/>den angebauten Samen kamen im folgenden Jahre bei dem ersten Ver-<lb/>suche 90, bei dem dritten 87 Pflanzen zur Fruchtbildung; von diesen<lb/>brachten bei dem<lb/><table><row><cell/></row></table></p>
+            <p>Bei dem zweiten und vierten Versuche gaben die runden und<lb/>gelben Samen Pflanzen mit runden und kantigen, gelben und grünen<lb/>Samen ....................... <hi rendition="#i">AaBb</hi>.</p>
+            <lb/>
+            <p>Von den runden grünen Samen wurden Pflanzen erhalten<lb/>mit runden und kantigen grünen Samen ......... <hi rendition="#i">Aab</hi>.</p>
+            <lb/>
+            <p>Die kantigen gelben Samen gaben Pflanzen mit kantigen<lb/>gelben und grünen Samen ............... <hi rendition="#i">aBb</hi>.</p>
+            <lb/>
+            <p>Aus den kantigen grünen Samen wurden Pflanzen gezo-<lb/>gen, die wieder nur kantige grüne Samen brachten ..... <hi rendition="#i">ab</hi>.</p>
+            <lb/>
+            <p>Obwohl auch bei diesen beiden Versuchen einige Samen nicht<lb/>keimten, konnte dadurch in den schon im vorhergehenden Jahre gefun-<lb/>denen Zahlen nichts geändert werden, da jede Samenart Pflanzen gab,<lb/>die in Bezug auf die Samen unter sich gleich und von den anderen<lb/>verschieden waren. Es brachten daher:<lb/><table><row><cell/></row></table></p>
+            <p>Bei allen Versuchen erschienen daher sämmtliche Formen, welche<lb/>die gemachte Voraussetzung verlangte, und zwar in nahezu gleicher<lb/>Anzahl.</p>
+            <lb/>
+            <pb n="28" facs="#f0039"/>
+            <p>Bei einer weiteren Probe wurden die Merkmale der <hi rendition="#g">Blüthen-<lb/>farbe und Axenlänge</hi> in die Versuche aufgenommen, und die Aus-<lb/>wahl so getroffen, dass im dritten Versuchsjahre jedes Merkmal an der<lb/><hi rendition="#g">Hälfte</hi> sämmtlicher Pflanzen hervortreten musste, falls die obige An-<lb/>nahme ihre Richtigkeit hatte. <hi rendition="#i">A, B, a, b</hi> dienen wieder zur Bezeich-<lb/>nung der verschiedenen Merkmale.</p>
+            <lb/>
+            <p>
+              <hi rendition="#c"><hi rendition="#i">A</hi> Blüthen violett-roth, <hi rendition="#i">a</hi> Blüthen weiss.<lb/><hi rendition="#i">B</hi> Axe lang, <hi rendition="#i">b</hi> Axe kurz.</hi>
+            </p>
+            <lb/>
+            <p>Die Form <hi rendition="#i">Ab</hi> wurde befruchtet mit <hi rendition="#i">ab</hi>, woraus die Hybride <hi rendition="#i">Aab</hi><lb/>hervorging. Ferner wurde befruchtet <hi rendition="#i">aB</hi> gleichfalls mit <hi rendition="#i">ab</hi>, daraus die<lb/>Hybride <hi rendition="#i">aBb</hi>. Im zweiten Jahre wurde für die weitere Befruchtung die<lb/>Hybride <hi rendition="#i">Aab</hi> als Samenpflanze, die andere <hi rendition="#i">aBb</hi> als Pollenpflanze ver-<lb/>wendet.</p>
+            <lb/>
+            <p>
+              <hi rendition="#c">Samenpflanze <hi rendition="#i">Aab</hi>, Pollenpflanze <hi rendition="#i">aBb</hi>.<lb/>Mögliche Keimzellen <hi rendition="#i">Ab, ab</hi>, Pollenzellen <hi rendition="#i">aB, ab</hi>.</hi>
+            </p>
+            <lb/>
+            <p>Aus der Befruchtung zwischen den möglichen Keim- und Pollen-<lb/>zellen mussten 4 Verbindungen hervorgehen, nämlich:<lb/><hi rendition="#c"><hi rendition="#i">AaBb + aBb + Aab + ab</hi>.</hi></p>
+            <lb/>
+            <p>Daraus wird ersichtlich, dass nach obiger Voraussetzung im drit-<lb/>ten Versuchsjahre von sämmtlichen Pflanzen<lb/><hi rendition="#et">die <hi rendition="#g">Hälfte</hi> violett-rothe Blüthen haben sollte (<hi rendition="#i">Aa</hi>) ... Glieder: 1·3<lb/>&#x201E; weisse Blüthe (<hi rendition="#i">a</hi>) ........... &#x201E; 2·4<lb/>&#x201E; eine lange Axe (<hi rendition="#i">Bb</hi>) .......... &#x201E; 1·2<lb/>&#x201E; eine kurze Axe (<hi rendition="#i">b</hi>) .......... &#x201E; 3·4</hi></p>
+            <lb/>
+            <p>Aus 45 Befruchtungen des zweiten Jahres wurden 187 Samen<lb/>erhalten, wovon im dritten Jahre 166 Pflanzen zur Blüthe gelangten.<lb/>Darunter erschienen die einzelnen Glieder in folgender Anzahl:<lb/><table><row><cell/></row></table></p>
+            <p>Es kam daher die violett-rothe Blüthenfarbe (<hi rendition="#i">Aa</hi>) an 85 Pflanzen vor<lb/><hi rendition="#et">&#x201E; weisse &#x201E; (<hi rendition="#i">a</hi>) &#x201E; 81 &#x201E; &#x201E;<lb/>&#x201E; lange Axe (<hi rendition="#i">Bb</hi>) &#x201E; 87 &#x201E; &#x201E;<lb/>&#x201E; kurze &#x201E; (<hi rendition="#i">b</hi>) &#x201E; 79 &#x201E; &#x201E;</hi></p>
+            <lb/>
+            <pb n="29" facs="#f0040"/>
+            <p>Die aufgestellte Ansicht findet auch in diesem Versuche eine aus-<lb/>reichende Bestätigung.</p>
+            <lb/>
+            <p>Für die Merkmale der <hi rendition="#g">Hülsenform, Hülsenfarbe und<lb/>Blüthenstellung</hi> wurden ebenfalls Versuche im Kleinen angestellt<lb/>und ganz gleich stimmende Resultate erhalten. Alle Verbindungen, wel-<lb/>che durch die Vereinigung der verschiedenen Merkmale möglich wurden,<lb/>erschienen pünctlich und in nahezu gleicher Anzahl.</p>
+            <lb/>
+            <p>Es ist daher auch auf experimentellem Wege die Annahme ge-<lb/>rechtfertigt, <hi rendition="#g">dass die Erbsen-Hybriden Keim- und Pollen-<lb/>zellen bilden, welche ihrer Beschaffenheit nach in glei-<lb/>cher Anzahl allen constanten Formen entsprechen, wel-<lb/>che aus der Combinirung der durch Befruchtung vereinig-<lb/>ten Merkmale hervorgehen</hi>.</p>
+            <lb/>
+            <p>Die Verschiedenheit der Formen unter den Nachkommen der Hy-<lb/>briden, sowie die Zahlenverhältnisse, in welchen dieselben beobachtet<lb/>werden, finden in dem eben erwiesenen Satze eine hinreichende Erklä-<lb/>rung. Den einfachsten Fall bietet die Entwicklungsreihe für <hi rendition="#g">je zwei<lb/>differirende Merkmale</hi>. Diese Reihe wird bekanntlich durch den<lb/>Ausdruck: <hi rendition="#i">A + 2 Aa + a</hi> bezeichnet, wobei <hi rendition="#i">A</hi> und <hi rendition="#i">a</hi> die Formen mit<lb/>den constant differirenden Merkmalen und <hi rendition="#i">Aa</hi> die Hybrid-Gestalt beider<lb/>bedeuten. Sie enthält unter 3 verschiedenen Gliedern 4 Individuen. Bei<lb/>der Bildung derselben werden Pollen- und Keimzellen von der Form <hi rendition="#i">A</hi><lb/>und <hi rendition="#i">a</hi> durchschnittlich zu gleichen Theilen in die Befruchtung treten,<lb/>daher jede Form zweimal, da 4 Individuen gebildet werden. Es neh-<lb/>men demnach an der Befruchtung theil:<lb/><hi rendition="#c">die Pollenzellen <hi rendition="#i">A + A + a + a</hi><lb/>die Keimzellen <hi rendition="#i">A + A + a + a</hi></hi></p>
+            <lb/>
+            <p>Es bleibt ganz dem Zufalle überlassen, welche von den beiden<lb/>Pollenarten sich mit jeder einzelnen Keimzelle verbindet. Indessen wird<lb/>es nach den Regeln der Wahrscheinlichkeit im Durchschnitte vieler<lb/>Fälle immer geschehen, dass sich jede Pollenform <hi rendition="#i">A</hi> und <hi rendition="#i">a</hi> gleich oft<lb/>mit jeder Keimzellform <hi rendition="#i">A</hi> und <hi rendition="#i">a</hi> vereinigt; es wird daher eine von<lb/>den beiden Pollenzellen <hi rendition="#i">A</hi> mit einer Keimzelle <hi rendition="#i">A</hi>, die andere mit einer<lb/>Keimzelle <hi rendition="#i">a</hi> bei der Befruchtung zusammentreffen, und eben so eine<lb/>Pollenzelle <hi rendition="#i">a</hi> mit einer Keimzelle <hi rendition="#i">A</hi>, die andere mit <hi rendition="#i">a</hi> verbunden<lb/>werden.</p>
+            <lb/>
+            <pb n="30" facs="#f0041"/>
+            <figure/>
+            <p>Das Ergebniss der Befruchtung lässt sich dadurch anschaulich<lb/>machen, dass die Bezeichnungen für die verbundenen Keim- und Pollen-<lb/>zellen in Bruchform angesetzt werden, und zwar für die Pollenzellen<lb/>über, für die Keimzellen unter dem Striche. Man erhält in dem vor-<lb/>liegenden Falle:<lb/><formula/></p>
+            <p>Bei dem ersten und vierten Gliede sind Keim- und Pollenzellen<lb/>gleichartig, daher müssen die Producte ihrer Verbindung constant sein,<lb/>nämlich <hi rendition="#i">A</hi> und <hi rendition="#i">a</hi>; bei dem zweiten und dritten hingegen erfolgt aber-<lb/>mals eine Vereinigung der beiden differirenden Stamm-Merkmale, daher<lb/>auch die aus diesen Befruchtungen hervorgehenden Formen mit der<lb/>Hybride, von welcher sie abstammen, ganz identisch sind. <hi rendition="#g">Es findet<lb/>demnach eine wiederholte Hybridisirung statt</hi>. Daraus er-<lb/>klärt sich die auffallende Erscheinung, dass die Hybriden im Stande<lb/>sind, nebst den beiden Stammformen auch Nachkommen zu erzeugen,<lb/>die ihnen selbst gleich sind; <formula/> und <formula/> geben beide dieselbe Verbin-<lb/>dung <hi rendition="#i">Aa</hi>, da es, wie schon früher angeführt wurde, für den Erfolg der<lb/>Befruchtung keinen Unterschied macht, welches von den beiden Merk-<lb/>malen der Pollen- oder Keimzelle angehört. Es ist daher<lb/><formula/></p>
+            <p>So gestaltet sich der <hi rendition="#g">mittlere</hi> Verlauf bei der Selbstbefruch-<lb/>tung der Hybriden, wenn in denselben zwei differirende Merkmale ver-<lb/>einigt sind. In einzelnen Blüthen und an einzelnen Pflanzen kann je-<lb/>doch das Verhältniss, in welchem die Formen der Reihe gebildet wer-<lb/>den, nicht unbedeutende Störungen erleiden. Abgesehen davon, dass<lb/>die Anzahl, in welcher beiderlei Keimzellen im Fruchtknoten vorkom-<lb/>men, nur im Durchschnitte als gleich angenommen werden kann, bleibt<lb/>es ganz dem Zufalle überlassen, welche von den beiden Pollenarten<lb/>an jeder einzelnen Keimzelle die Befruchtung vollzieht. Desshalb müs-<lb/><pb n="31" facs="#f0042"/>
+sen die Einzelwerthe nothwendig Schwankungen unterliegen, und es<lb/>sind selbst extreme Fälle möglich, wie sie früher bei den Versuchen<lb/>über die Gestalt der Samen und die Färbung des Albumens angeführt<lb/>wurden. Die wahren Verhältnisszahlen können nur durch das Mittel<lb/>gegeben werden, welches aus der Summe möglichst vieler Einzelwerthe<lb/>gezogen wird; je grösser ihre Anzahl, desto genauer wird das blos<lb/>Zufällige eliminirt.</p>
+            <lb/>
+            <p>Die Entwicklungsreihe für Hybriden, in denen <hi rendition="#g">zweierlei dif-<lb/>ferirende Merkmale</hi> verbunden sind, enthält unter 16 Individuen<lb/>9 verschiedene Formen, nämlich: <hi rendition="#i">AB + Ab + aB + ab + 2 ABb +<lb/>2 aBb + 2 AaB + 2 Aab + 4 AaBb</hi>. Zwischen den verschiedenen Merk-<lb/>malen der Stammpflanzen <hi rendition="#i">A, a</hi> und <hi rendition="#i">B, b</hi> sind 4 constante Combinatio-<lb/>nen möglich, daher erzeugt auch die Hybride die entsprechenden 4<lb/>Formen von Keim- und Pollenzellen: <hi rendition="#i">AB, Ab, aB, ab</hi>, und jede davon<lb/>wird im Durchschnitte 4mal in Befruchtung treten, da in der Reihe<lb/>16 Individuen enthalten sind. Daher nehmen an der Befruchtung<lb/>Theil die<lb/>Pollenzellen: <hi rendition="#i">AB + AB + AB + AB + Ab + Ab + Ab + Ab + aB +<lb/>aB + aB + aB + ab + ab + ab + ab</hi>.<lb/>Keimzellen: <hi rendition="#i">AB + AB + AB + AB + Ab + Ab + Ab + Ab + aB +<lb/>aB + aB + aB + ab + ab + ab + ab</hi>.</p>
+            <lb/>
+            <p>Im mittleren Verlaufe der Befruchtung verbindet sich jede Pol-<lb/>lenform gleich oft mit jeder Keimzellform, daher jede von den 4 Pol-<lb/>lenzellen <hi rendition="#i">AB</hi> einmal mit einer von den Keimzellarten <hi rendition="#i">AB, Ab, aB, ab</hi>.<lb/>Genau eben so erfolgt die Vereinigung der übrigen Pollenzellen von<lb/>den Formen <hi rendition="#i">Ab, aB, ab</hi> mit allen anderen Keimzellen. Man erhält<lb/>demnach:<lb/><formula/>
+<formula/>, oder<lb/><hi rendition="#c"><hi rendition="#i">AB + ABb + AaB + AaBb + ABb + Ab + AaBb + Aab + AaB +<lb/>AaBb + aB + aBb + AaBb + Aab + aBb + ab + AB + Ab + aB +<lb/>ab + 2 ABb + 2 aBb + 2 AaB + 2 Aab + 4 AaBb</hi>.</hi></p>
+            <lb/>
+            <p>In ganz ähnlicher Weise erklärt sich die Entwicklungsreihe der<lb/>Hybriden, wenn in denselben <hi rendition="#g">dreierlei differirende Merkmale</hi><lb/><pb n="32" facs="#f0043"/>
+verbunden sind. Die Hybride bildet 8 verschiedene Formen von Keim-<lb/>und Pollenzellen: <hi rendition="#i">ABC, ABc, AbC, Abc, aBC, aBc, abC, abc</hi>, und jede<lb/>Pollenform vereinigt sich wieder durchschnittlich einmal mit jeder Keim-<lb/>zellform.</p>
+            <lb/>
+            <p>Das Gesetz der Combinirung der differirenden Merkmale, nach<lb/>welchem die Entwicklung der Hybriden erfolgt, findet demnach seine<lb/>Begründung und Erklärung in dem erwiesenen Satze, dass die Hybri-<lb/>den Keim- und Pollenzellen erzeugen, welche in gleicher Anzahl allen<lb/>constanten Formen entsprechen, die aus der Combinirung der durch Be-<lb/>fruchtung vereinigter Merkmale hervorgehen.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Versuche über die Hybriden anderer Pflanzenarten.</hi>
+            </head>
+            <lb/>
+            <p>Es wird die Aufgabe weiterer Versuche sein, zu ermitteln, ob das<lb/>für Pisum gefundene Entwicklungsgesetz auch bei den Hybriden ande-<lb/>rer Pflanzen Geltung habe. Zu diesem Zwecke wurden in der letzten<lb/>Zeit mehrere Versuche eingeleitet. Beendet sind zwei kleinere Experi-<lb/>mente mit Phaseolus-Arten, welche hier Erwähnung finden mögen.</p>
+            <lb/>
+            <p>Ein Versuch mit Phaseolus vulgaris und Phaseolus nanus L. gab<lb/>ein ganz übereinstimmendes Resultat. Ph. nanus hatte nebst der zwerg-<lb/>artigen Axe grüne einfach gewölbte Hülsen, Ph. vulgaris hingegen eine<lb/>10&#x2014;12' hohe Axe und gelb gefärbte, zur Zeit der Reife eingeschnürte<lb/>Hülsen. Die Zahlenverhältnisse, in welchen die verschiedenen Formen<lb/>in den einzelnen Generationen vorkamen, waren dieselben wie bei Pi-<lb/>sum. Auch die Entwicklung der constanten Verbindungen erfolgte nach<lb/>dem Gesetze der einfachen Combinirung der Merkmale, genau so, wie<lb/>es bei Pisum der Fall ist. Es wurden erhalten:<lb/><table><row><cell/></row></table></p>
+            <pb n="33" facs="#f0044"/>
+            <p>Die grüne Hülsenfarbe, die gewölbte Form der Hülse und die<lb/>hohe Axe waren, wie bei Pisum, dominirende Merkmale.</p>
+            <lb/>
+            <p>Ein anderer Versuch mit zwei sehr verschiedenen Phaseolus-Arten<lb/>hatte nur einen theilweisen Erfolg. Als <hi rendition="#g">Samenpflanze</hi> diente Ph.<lb/>nanus L., eine ganz constante Art mit weissen Blüthen in kurzen Trau-<lb/>ben und kleinen weissen Samen in geraden, gewölbten und glatten<lb/>Hülsen; als <hi rendition="#g">Pollenpflanze</hi> Ph. multiflorus W. mit hohem windenden<lb/>Stengel, purpurrothen Blüthen in sehr langen Trauben, rauhen sichel-<lb/>förmig gekrümmten Hülsen und grossen Samen, welche auf pfirsich-<lb/>blüthrothem Grunde schwarz gefleckt und geflammt sind.</p>
+            <lb/>
+            <p>Die Hybride hatte mit der Pollenpflanze die grösste Aehnlich-<lb/>keit, nur die Blüthen erschienen weniger intensiv gefärbt. Ihre Frucht-<lb/>barkeit war eine sehr beschränkte, von 17 Pflanzen, die zusammen<lb/>viele hundert Blüthen entwickelten, wurden im Ganzen nur 49 Samen<lb/>geerntet. Diese waren von mittlerer Grösse und besassen eine ähnliche<lb/>Zeichnung wie Ph. multiflorus; auch die Grundfarbe war nicht wesent-<lb/>lich verschieden. Im nächsten Jahre wurden davon 44 Pflanzen erhal-<lb/>ten, von denen nur 31 zur Blüthe gelangten. Die Merkmale von Ph.<lb/>nanus, welche in der Hybride sämmtlich latent wurden, kamen in ver-<lb/>schiedenen Combinirungen wieder zum Vorscheine, das Verhältniss der-<lb/>selben zu den dominirenden musste jedoch bei der geringen Anzahl<lb/>von Versuchspflanzen sehr schwankend bleiben; bei einzelnen Merkma-<lb/>len, wie bei jenen der Axe und der Hülsenform, war dasselbe indessen<lb/>wie bei Pisum fast genau 1:3.</p>
+            <lb/>
+            <p>So gering auch der Erfolg dieses Versuches für die Feststellung<lb/>der Zahlenverhältnisse sein mag, in welchen die verschiedenen Formen<lb/>vorkamen, so bietet er doch anderseits den Fall einer <hi rendition="#g">merkwürdigen<lb/>Farbenwandlung</hi> an den Blüthen und Samen der Hybriden dar.<lb/>Bei Pisum treten bekanntlich die Merkmale der Blüthen- und Samen-<lb/>farbe in der ersten und den weiteren Generationen unverändert hervor<lb/>und die Nachkommen der Hybriden tragen ausschliesslich das eine oder<lb/>das andere der beiden Stamm-Merkmale an sich. Anders verhält sich<lb/>die Sache bei dem vorliegenden Versuche. Die weisse Blumen- und Sa-<lb/>menfarbe von Ph. nanus erschien allerdings gleich in der ersten Gene-<lb/>ration an einem ziemlich fruchtbaren Exemplare, allein die übrigen 30<lb/>Pflanzen entwickelten Blüthenfarben, die verschiedene Abstufungen von<lb/><fw type="sig" place="bottom">3</fw><lb/><pb n="34" facs="#f0045"/>
+Purpurroth bis Blassviolett darstellen. Die Färbung der Samenschale<lb/>war nicht minder verschieden, als die der Blüthe. Keine Pflanze konnte<lb/>als vollkommen fruchtbar gelten, manche setzten gar keine Früchte an,<lb/>bei anderen entwickelten sich dieselben erst aus den letzten Blüthen<lb/>und kamen nicht mehr zur Reife, nur von 15 Pflanzen wurden gut<lb/>ausgebildete Samen geerntet. Die meiste Neigung zur Unfruchtbarkeit<lb/>zeigten die Formen mit vorherrschend rother Blüthe, indem von 16<lb/>Pflanzen nur 4 reife Samen gaben. Drei davon hatten eine ähnliche<lb/>Samenzeichnung wie Ph. multiflorus, jedoch eine mehr oder weniger<lb/>blasse Grundfarbe, die vierte Pflanze brachte nur einen Samen von ein-<lb/>fach brauner Färbung. Die Formen mit überwiegend violetter Blüthen-<lb/>farbe hatten dunkelbraune, schwarzbraune und ganz schwarze Samen.</p>
+            <lb/>
+            <p>Der Versuch wurde noch durch zwei Generationen unter gleich<lb/>ungünstigen Verhältnissen fortgeführt, da selbst unter den Nachkommen<lb/>ziemlich fruchtbarer Pflanzen wieder ein Theil wenig fruchtbar oder<lb/>ganz steril wurde. Andere Blüthen- und Samenfarben, als die angeführ-<lb/>ten, kamen weiter nicht vor. Die Formen, welche in der ersten Gene-<lb/>ration eines oder mehrere von den recessiven Merkmalen erhielten, blie-<lb/>ben in Bezug auf diese ohne Ausnahme constant. Auch von jenen Pflan-<lb/>zen, welche violette Blüthen und braune oder schwarze Samen besassen,<lb/>änderten einzelne in den nächsten Generationen die Blumen- und Sa-<lb/>menfarbe nicht mehr, die Mehrzahl jedoch erzeugte nebst ganz gleichen<lb/>Nachkommen auch solche, welche weisse Blüthen und eben so gefarbte<lb/>Samenschalen erhielten. Die roth blühenden Pflanzen blieben so wenig<lb/>fruchtbar, dass sich über ihre Weiterentwicklung nichts mit Bestimmt-<lb/>heit sagen lässt.</p>
+            <lb/>
+            <p>Ungeachtet der vielen Störungen, mit welchen die Beobachtung<lb/>zu kämpfen hatte, geht doch soviel aus diesem Versuche hervor, dass<lb/>die Entwicklung der Hybriden in Bezug auf jene Merkmale, welche die<lb/>Gestalt der Pflanze betreffen, nach demselben Gesetze wie bei Pisum<lb/>erfolgt. Rücksichtlich der Farbenmerkmale scheint es allerdings schwie-<lb/>rig zu sein, eine genügende Uebereinstimmung aufzufinden. Abgesehen<lb/>davon, dass aus der Verbindung einer weissen und purpurrothen Fär-<lb/>bung eine ganze Reihe von Farben hervorgeht, von Purpur bis Blass-<lb/>violett und Weiss, muss auch der Umstand auffallen, dass unter 31 blü-<lb/>henden Pflanzen nur eine den recessiven Character der weissen Fär-<lb/><pb n="35" facs="#f0046"/>
+bung erhielt, während das bei Pisum durchschnittlich schon an jeder<lb/>vierten Pflanze der Fall ist.</p>
+            <lb/>
+            <p>Aber auch diese räthselhaften Erscheinungen würden sich wahr-<lb/>scheinlich nach dem für Pisum geltenden Gesetze erklären lassen, wenn<lb/>man voraussetzen dürfte, dass die Blumen- und Samenfarbe des Ph.<lb/>multiflorus aus zwei oder mehreren ganz selbsständigen Farben zusam-<lb/>mengesetzt sei, die sich einzeln ebenso verhalten, wie jedes andere<lb/>constante Merkmal an der Pflanze. Wäre die Blüthenfarbe <hi rendition="#i">A</hi> zusam-<lb/>mengesetzt aus den selbstständigen Merkmalen <hi rendition="#i">A</hi><hi rendition="#sub">1</hi> + <hi rendition="#i">A</hi><hi rendition="#sub">2</hi> + ...., welche<lb/>den Gesammt-Eindruck der purpurrothen Färbung hervorrufen, so müssten<lb/>durch Befruchtung mit dem differirenden Merkmale der weissen Farbe <hi rendition="#i">a</hi><lb/>die hybriden Verbindungen <hi rendition="#i">A</hi><hi rendition="#sub">1</hi> <hi rendition="#i">a</hi> + <hi rendition="#i">A</hi><hi rendition="#sub">2</hi> <hi rendition="#i">a</hi> + .... gebildet werden, und ähu-<lb/>lich würde es sich mit der correspondirenden Färbung der Samenschale<lb/>verhalten. Nach der obigen Voraussetzung wäre jede von diesen hy-<lb/>briden Farbenverbindungen selbstständig und würde sich demnach ganz<lb/>unabhängig von den übrigen entwickeln. Man sieht dann leicht ein, dass<lb/>aus der Combinirung der einzelnen Entwicklungsreihen eine vollständige<lb/>Farbenreihe hervorgehen müsste. Wäre z. B. <hi rendition="#i">A</hi> = <hi rendition="#i">A</hi><hi rendition="#sub">1</hi> + <hi rendition="#i">A</hi><hi rendition="#sub">2</hi>, so entspre-<lb/>chen den Hybriden <hi rendition="#i">A</hi><hi rendition="#sub">1</hi> <hi rendition="#i">a</hi> und <hi rendition="#i">A</hi><hi rendition="#sub">2</hi> <hi rendition="#i">a</hi> die Entwicklungsreihen<lb/><hi rendition="#c"><hi rendition="#i">A</hi><hi rendition="#sub">1</hi> + 2 <hi rendition="#i">A</hi><hi rendition="#sub">1</hi> <hi rendition="#i">a</hi> + <hi rendition="#i">a</hi><lb/><hi rendition="#i">A</hi><hi rendition="#sub">2</hi> + 2 <hi rendition="#i">A</hi><hi rendition="#sub">2</hi> <hi rendition="#i">a</hi> + <hi rendition="#i">a</hi>.</hi></p>
+            <lb/>
+            <p>Die Glieder dieser Reihen können in 9 verschiedene Verbin-<lb/>dungen treten und jede davon stellt die Bezeichnung für eine andere<lb/>Farbe vor:</p>
+            <lb/>
+            <table>
+              <row>
+                <cell/>
+              </row>
+            </table>
+            <p>Die den einzelnen Verbindungen vorausgesetzten Zahlen geben<lb/>zugleich an, wie viele Pflanzen mit der entsprechenden Färbung in die<lb/>Reihe gehören. Da die Summe derselben 16 beträgt, so sind sämmt-<lb/>liche Farben im Durchschnitte auf je 16 Pflanzen vertheilt, jedoch wie<lb/>die Reihe selbst zeigt, in ungleichen Verhältnissen.</p>
+            <lb/>
+            <p>Würde die Farbenentwicklung wirklich in dieser Weise erfolgen,<lb/>so könnte auch der oben angeführte Fall eine Erklärung finden, dass<lb/>nämlich die weisse Blüthen- und Hülsenfarbe unter 31 Pflanzen der<lb/>ersten Generation nur einmal vorkam. Diese Färbung ist in der Reihe<lb/><fw type="sig" place="bottom">3*</fw><lb/><pb n="36" facs="#f0047"/>
+nur einmal enthalten, und könnte daher auch nur im Durchschnitte<lb/>unter je 16, bei drei Farbenmerkmalen sogar nur unter 64 Pflanzen<lb/>einmal entwickelt werden.</p>
+            <lb/>
+            <p>Es darf jedoch nicht vergessen werden, dass die hier versuchte<lb/>Erklärung auf einer blossen Vermuthung beruht, die weiter nichts für<lb/>sich hat, als das sehr unvollständige Resultat des eben besprochenen<lb/>Versuches. Es wäre übrigens eine lohnende Arbeit, die Farbenentwick-<lb/>lung der Hybriden durch ähnliche Versuche weiter zu verfolgen, da es<lb/>wahrscheinlich ist, dass wir auf diesem Wege die ausserordentliche Man-<lb/>nigfaltigkeit in der <hi rendition="#g">Färbung unserer Zierblumen</hi> begreifen<lb/>lernen.</p>
+            <lb/>
+            <p>Bis jetzt ist mit Sicherheit kaum mehr bekannt, als dass die Blü-<lb/>thenfarbe bei den meisten Zierpflanzen ein äusserst veränderliches Merk-<lb/>mal ist. Man hat häufig die Meinung ausgesprochen, dass die Stabilität<lb/>der Arten durch die Cultur in hohem Grade erschüttert oder ganz ge-<lb/>brochen werde, und ist sehr geneigt, die Entwicklung der Culturformen<lb/>als eine regellose und zufällige hinzustellen; dabei wird gewöhnlich auf<lb/>die Färbung der Zierpflanzen, als Muster aller Unbeständigkeit, hinge-<lb/>wiesen. Es ist jedoch nicht einzusehen, warum das blosse Versetzen in<lb/>den Gartengrund eine so durchgreifende und nachhaltige Revolution<lb/>im Pflanzen-Organismus zur Folge haben müsse. Niemand wird im Ernste<lb/>behaupten wollen, dass die Entwicklung der Pflanze im freien Lande<lb/>durch andere Gesetze geleitet wird, als am Gartenbeete. Hier wie dort<lb/>müssen typische Abänderungen auftreten, wenn die Lebensbedingungen<lb/>für eine Art geändert werden und diese die Fähigkeit besitzt, sich den<lb/>neuen Verhältnissen anzupassen. Es wird gerne zugegeben, dass durch<lb/>die Cultur die Entstehung neuer Varietäten begünstigt und durch die<lb/>Hand des Menschen manche Abänderung erhalten wird, welche im freien<lb/>Zustande unterliegen müsste, allein nichts berechtigt uns zu der Annahme,<lb/>dass die Neigung zur Varietätenbildung so ausserordentlich gesteigert<lb/>werde, dass die Arten bald alle Selbstständigkeit verlieren und ihre<lb/>Nachkommen in einer endlosen Reihe höchst veränderlicher Formen aus-<lb/>einander gehen. Wäre die Aenderung in den Vegetations-Bedingungen<lb/>die alleinige Ursache der Variabilität, so dürfte man erwarten, dass<lb/>jene Culturpflanzen, welche Jahrhunderte hindurch unter fast gleichen<lb/>Verhältnissen angebaut wurden, wieder an Selbstständigkeit gewonnen<lb/>hätten. Das ist bekanntlich nicht der Fall, da gerade unter diesen nicht<lb/><pb n="37" facs="#f0048"/>
+blos die verschiedensten, sondern auch die veränderlichsten Formen ge-<lb/>funden werden. Nur die Leguminosen, wie Pisum, Phaseolus, Lens, deren<lb/>Befruchtungs-Organe durch das Schiffchen geschützt sind, machen davon<lb/>eine bemerkenswerthe Ausnahme. Auch da sind während einer mehr als<lb/>1000jährigen Cultur unter den mannigfaltigsten Verhältnissen zahlreiche<lb/>Varietäten entstanden, diese behaupten jedoch unter gleich bleibenden<lb/>Lebensbedingungen eine Selbstständigkeit, wie sie wild wachsenden Ar-<lb/>ten zukommt.</p>
+            <lb/>
+            <p>Es bleibt mehr als wahrscheinlich, dass für die Veränderlichkeit<lb/>der Culturgewächse ein Factor thätig ist, dem bisher wenig Aufmerk-<lb/>samkeit zugewendet wurde. Verschiedene Erfahrungen drängen zu der<lb/>Ansicht, dass unsere Culturpflanzen mit wenigen Ausnahmen <hi rendition="#g">Glieder<lb/>verschiedener Hybridreihen</hi> sind, deren gesetzmässige Weiter-<lb/>entwicklung durch häufige Zwischenkreuzungen abgeändert und aufge-<lb/>halten wird. Es ist der Umstand nicht zu übersehen, dass die cultivir-<lb/>ten Gewächse meistens in grösserer Anzahl neben einander gezogen<lb/>werden, wodurch für die wechselseitige Befruchtung zwischen den vor-<lb/>handenen Varietäten und mit den Arten selbst die günstigste Gelegen-<lb/>heit geboten wird. Die Wahrscheinlichkeit dieser Ansicht wird durch<lb/>die Thatsache unterstützt, dass unter dem grossen Heere veränderlicher<lb/>Formen immer einzelne gefunden werden, welche in dem einen oder<lb/>anderen Merkmale constant bleiben, wenn nur jeder fremde Einfluss<lb/>sorgfältig abgehalten wird. Diese Formen entwickeln sich genau eben<lb/>so, wie gewisse Glieder der zusammengesetzten Hybridreihen. Auch bei<lb/>dem empfindlichsten aller Merkmale, bei jenem der Farbe, kann es der<lb/>aufmerksamen Beobachtung nicht entgehen, dass an den einzelnen For-<lb/>men die Neigung zur Veränderlichkeit in sehr verschiedenem Grade<lb/>vorkommt. Unter Pflanzen, die aus <hi rendition="#g">einer</hi> spontanen Befruchtung stam-<lb/>men, gibt es oft solche, deren Nachkommen in Beschaffenheit und An-<lb/>ordnung der Farben weit auseinandergehen, während andere wenig ab-<lb/>weichende Formen liefern, und unter einer grösseren Anzahl einzelne<lb/>getroffen werden, welche ihre Blumenfarbe unverändert auf die Nach-<lb/>kommen übertragen. Die cultivirten Dianthus-Arten geben dafür einen<lb/>lehrreichen Beleg. Ein weiss blühendes Exemplar von Dianthus Caryophyl-<lb/>lus, welches selbst von einer weissblumigen Varietät abstammte, wurde<lb/>während der Blüthezeit in einem Glashause abgesperrt; die zahlreich<lb/>davon gewonnenen Samen gaben Pflanzen mit durchaus gleicher weisser<lb/><pb n="38" facs="#f0049"/>
+Blüthenfarbe. Ein ähnliches Resultat wurde von einer rothen, etwas ins<lb/>Violette schimmernden und einer weissen roth gestreiften Abart erhalten.<lb/>Viele andere hingegen, welche auf dieselbe Weise geschützt wurden, gaben<lb/>mehr oder weniger verschieden gefärbte und gezeichnete Nachkommen.</p>
+            <lb/>
+            <p>Wer die Färbungen, welche bei Zierpflanzen aus gleicher Befruch-<lb/>tung hervorgehen, überblickt, wird sich nicht leicht der Ueberzeugung<lb/>verschliessen können, dass auch hier die Entwicklung nach einem be-<lb/>stimmten Gesetze erfolgt, welches möglicherweise seinen Ausdruck in<lb/>der <hi rendition="#g">Combinirung mehrerer selbstständiger Farbenmerk-<lb/>male</hi> findet.</p>
+          </div>
+          <lb/>
+          <milestone unit="section" rendition="#hr"/>
+          <div n="3">
+            <head>
+              <hi rendition="#b">Schluss-Bemerkungen.</hi>
+            </head>
+            <lb/>
+            <p>Es dürfte nicht ohne Interesse sein, die bei Pisum gemachten<lb/>Beobachtungen mit den Resultaten zu vergleichen, zu welchen die bei-<lb/>den Autoritäten in diesem Fache, <hi rendition="#g">Kölreuter</hi> und <hi rendition="#g">Gärtner</hi>, bei ihren<lb/>Forschungen gelangt sind. Nach der übereinstimmenden Ansicht beider<lb/>halten die Hybriden der äusseren Erscheinung nach entweder die Mit-<lb/>telform zwischen den Stammarten, oder sie sind dem Typus der einen<lb/>oder der anderen näher gerückt, manchmal von denselben kaum zu un-<lb/>terscheiden. Aus den Samen derselben gehen gewöhnlich, wenn die Be-<lb/>fruchtung durch den eigenen Pollen geschah, verschiedene von dem nor-<lb/>malen Typus abweichende Formen hervor. In der Regel behält die<lb/>Mehrzahl der Individuen aus einer Befruchtung die Form der Hybride<lb/>bei, wahrend andere wenige der Samenpflanze ähnlicher werden und ein<lb/>oder das andere Individuum der Pollenpflanze nahe kommt. Das gilt<lb/>jedoch nicht von allen Hybriden ohne Ausnahme. Bei einzelnen sind die<lb/>Nachkommen theils der einen, theils der anderen Stammpflanze näher<lb/>gerückt, oder sie neigen sich sämmtlich mehr nach der einen oder der<lb/>anderen Seite hin; bei einigen aber <hi rendition="#g">bleiben sie der Hybride voll-<lb/>kommen gleich</hi> und pflanzen sich unverändert fort. Die Hybriden<lb/>der Varietäten verhalten sich wie die Species-Hybriden, nur besitzen<lb/>sie eine noch grössere Veränderlichkeit der Gestalten und eine mehr<lb/>ausgesprochene Neigung, zu den Stammformen zurückzukehren.</p>
+            <lb/>
+            <p>In Bezug auf die <hi rendition="#g">Gestalt</hi> der Hybriden und ihre in der Regel<lb/>erfolgende <hi rendition="#g">Entwicklung</hi> ist eine Uebereinstimmung mit den bei Pi-<lb/>sum gemachten Beobachtungen nicht zu verkennen. Anders verhält es<lb/><pb n="39" facs="#f0050"/>
+sich mit den erwähnten Ausnahms-Fällen. Gärtner gesteht selbst, dass<lb/>die genaue Bestimmung, ob eine Form mehr der einen oder der ande-<lb/>ren von den beiden Stammarten ähnlich sei, öfter grosse Schwierigkei-<lb/>ten habe, indem dabei sehr viel auf die subjective Anschauung des<lb/>Beobachters ankommt. Es konnte jedoch auch ein anderer Umstand<lb/>dazu beitragen, dass die Resultate trotz der sorgfaltigsten Beobachtung<lb/>und Unterscheidung schwankend und unsicher wurden. Für die Ver-<lb/>suche dienten grösstentheils Pflanzen, welche als gute Arten gelten und<lb/>in einer grösseren Anzahl von Merkmalen verschieden sind. Nebst den<lb/>scharf hervortretenden Characteren müssen da, wo es sich im Allge-<lb/>meinen um eine grössere oder geringere Aehnlichkeit handelt, auch jene<lb/>Merkmale eingerechnet werden, welche oft schwer mit Worten zu fas-<lb/>sen sind, aber dennoch hinreichen, wie jeder Pflanzenkenner weiss, um<lb/>den Formen ein fremdartiges Aussehen zu geben. Wird angenommen,<lb/>dass die Entwicklung der Hybriden nach dem für Pisum geltenden Ge-<lb/>setze erfolgte, so musste die Reihe bei jedem einzelnen Versuche sehr<lb/>viele Formen umfassen, da die Gliederzahl bekanntlich mit der An-<lb/>zahl der differirenden Merkmale nach den Potenzen von 3 zunimmt. Bei<lb/>einer verhältnissmässig kleinen Anzahl von Versuchspflanzen konnte dann<lb/>das Resultat nur annähernd richtig sein und in einzelnen Fällen nicht<lb/>unbedeutend abweichen. Wären z. B. die beiden Stammarten in 7 Merk-<lb/>malen verschieden, und würden aus den Samen ihrer Hybriden zur Be-<lb/>urtheilung des Verwandtschafts-Grades der Nachkommen 100 bis 200<lb/>Pflanzen gezogen, so sehen wir leicht ein, wie unsicher das Urtheil<lb/>ausfallen müsste, da für 7 differirende Merkmale die Entwicklungsreihe<lb/>16,384 Individuen unter 2187 verschiedenen Formen enthält. Es könnte<lb/>sich bald die eine, bald die andere Verwandtschaft mehr geltend ma-<lb/>chen, je nachdem der Zufall dem Beobachter diese oder jene Formen<lb/>in grösserer Anzahl in die Hand spielt.</p>
+            <lb/>
+            <p>Kommen ferner unter den differirenden Merkmalen zugleich <hi rendition="#g">do-<lb/>minirende</hi> vor, welche ganz oder fast unverändert auf die Hybride<lb/>übergehen, dann muss an den Gliedern der Entwicklungsreihe immer<lb/>jene der beiden Stammarten mehr hervortreten, welche die grössere<lb/>Anzahl der dominirenden Merkmale besitzt. In dem früher bei Pisum<lb/>für dreierlei differirende Merkmale angeführten Versuche gehörten die<lb/>dominirenden Charactere sämmtlich der Samenpflanze an. Obwohl die<lb/>Glieder der Reihe sich ihrer inneren Beschaffenheit nach gleichmässig<lb/><pb n="40" facs="#f0051"/>
+zu beiden Stammpflanzen hinneigen, erhielt doch bei diesem Versuche<lb/>der Typus der Samenpflanze ein so bedeutendes Uebergewicht, dass<lb/>unter je 64 Pflanzen der ersten Generation 54 derselben ganz gleich<lb/>kamen, oder nur in einem Merkmale verschieden waren. Man sieht, wie<lb/>gewagt es unter Umständen sein kann, bei Hybriden aus der äusseren<lb/>Uebereinstimmung Schlüsse auf ihre innere Verwandtschaft zu ziehen.</p>
+            <lb/>
+            <p>Gärtner erwähnt, dass in jenen Fällen, wo die Entwicklung eine<lb/>regelmässige war, unter den Nachkommen der Hybriden nicht die bei-<lb/>den Stammarten selbst erhalten wurden, sondern nur einzelne ihnen nä-<lb/>her verwandte Individuen. Bei sehr ausgedehnten Entwicklungsreihen<lb/>konnte es in der That nicht anders eintreffen. Für 7 differirende Merk-<lb/>male z. B. kommen unter mehr als 16,000 Nachkommen der Hybride<lb/>die beiden Stammformen nur je einmal vor. Es ist demnach nicht leicht<lb/>möglich, dass dieselben schon unter einer geringen Anzahl von Versuchs-<lb/>pflanzen erhalten werden; mit einiger Wahrscheinlichkeit darf man je-<lb/>doch auf das Erscheinen einzelner Formen rechnen, die demselben in<lb/>der Reihe nahe stehen.</p>
+            <lb/>
+            <p>Einer <hi rendition="#g">wesentlichen Verschiedenheit</hi> begegnen wir bei<lb/>jenen Hybriden, welche in ihren Nachkommen constant bleiben und sich<lb/>eben so wie die reinen Arten fortpflanzen. Nach Gärtner gehören hie-<lb/>her die <hi rendition="#g">ausgezeichnet fruchtbaren</hi> Hybriden: Aquilegia atropur-<lb/>purea-canadensis, Lavatera pseudolbia-thuringiaca, Geum urbano-rivale und<lb/>einige Dianthus-Hybriden; nach Wichura die Hybriden der Weidenarten.<lb/>Für die Entwicklungsgeschichte der Pflanzen ist dieser Umstand von<lb/>besonderer Wichtigkeit, weil constante Hybriden die Bedeutung <hi rendition="#g">neuer<lb/>Arten</hi> erlangen. Die Richtigkeit des Sachverhaltes ist durch vorzügli-<lb/>che Beobachter verbürgt und kann nicht in Zweifel gezogen werden.<lb/>Gärtner hatte Gelegenheit, den Dianthus Armeria-deltoides bis in die<lb/>10. Generation zu verfolgen, da sich derselbe regelmässig im Garten<lb/>von selbst fortpflanzte.</p>
+            <lb/>
+            <p>Bei Pisum wurde es durch Versuche erwiesen, dass die Hybriden<lb/><hi rendition="#g">verschiedenartige</hi> Keim- und Pollen-Zellen bilden, und dass hierin<lb/>der Grund für die Veränderlichkeit ihrer Nachkommen liegt. Auch bei<lb/>anderen Hybriden, deren Nachkommen sich ähnlich verhalten, dürfen<lb/>wir eine gleiche Ursache voraussetzen; für jene hingegen, welche con-<lb/>stant bleiben, scheint die Annahme zulässig, dass ihre Befruchtungszel-<lb/>len gleichartig sind und mit der Hybriden-Grundzelle übereinstimmen.<lb/>Nach der Ansicht berühmter Physiologen vereinigen sich bei den<lb/><pb n="41" facs="#f0052"/>
+Phanerogamen zu dem Zwecke der Fortpflanzung je eine Keim- und<lb/>Pollenzelle zu einer einzigen Zelle <note place="foot" n="*)">Bei Pisum ist es wohl ausser Zweifel gestellt, dass zur Bildung des neuen<lb/>Embryo eine vollständige Vereinigung der Elemente beider Befruchtungs-<lb/>zellen stattfinden müsse. Wie wollte man es sonst erklären, dass unter<lb/>den Nachkommen der Hybriden beide Stammformen in gleicher Anzahl<lb/>und mit allen ihren Eigenthümlichkeiten wieder hervortreten? Wäre der<lb/>Einfluss des Keimsackes auf die Pollenzelle nur ein äusserer, wäre dem-<lb/>selben blos die Rolle einer Amme zugetheilt, dann könnte der Erfolg<lb/>einer jeden künstlichen Befruchtung kein anderer sein, als dass die ent-<lb/>wickelte Hybride ausschliesslich der Pollenpflanze gleich käme, oder ihr<lb/>doch sehr nahe stände. Das haben die bisherigen Versuche in keinerlei<lb/>Weise bestätigt. Ein gründlicher Beweis für die vollkommene Vereini-<lb/>gung des Inhaltes beider Zellen liegt wohl in der allseitig bestätigten<lb/>Erfahrung, dass es für die Gestalt der Hybride gleichgiltig ist, welche<lb/>von den Stammformen die Samen- oder Pollenpflanze war.</note>, welche sich durch Stoffaufnahme<lb/>und Bildung neuer Zellen zu einem selbstständigen Organismus weiter<lb/>zu entwickeln vermag. Diese Entwicklung erfolgt nach einem constan-<lb/>ten Gesetze, welches in der materiellen Beschaffenheit und Anordnung<lb/>der Elemente begründet ist, die in der Zelle zur lebensfähigen Vereini-<lb/>gung gelangten. Sind die Fortpflanzungszellen gleichartig und stimmen<lb/>dieselben mit der Grundzelle der Mutterpflanze überein, dann wird die<lb/>Entwicklung des neuen Individuums durch dasselbe Gesetz geleitet, wel-<lb/>ches für die Mutterpflanze gilt. Gelingt es, eine Keimzelle mit einer<lb/><hi rendition="#g">ungleichartigen</hi> Pollenzelle zu verbinden, so müssen wir annehmen,<lb/>dass zwischen jenen Elementen beider Zellen, welche die gegenseitigen<lb/>Unterschiede bedingen, irgend eine Ausgleichung stattfindet. Die daraus<lb/>hervorgehende Vermittlungszelle wird zur Grundlage des Hybriden-Or-<lb/>ganismus, dessen Entwicklung nothwendig nach einem anderen Gesetze<lb/>erfolgt, als bei jeder der beiden Stammarten. Wird die Ausgleichung<lb/>als eine vollständige angenommen, in dem Sinne nämlich, dass der hy-<lb/>bride Embryo aus gleichartigen Zellen gebildet wird, in welchen die<lb/>Differenzen <hi rendition="#g">gänzlich und bleibend vermittelt</hi> sind, so würde<lb/>sich als weitere Folgerung ergeben, dass die Hybride, wie jede andere<lb/>selbstständige Pflanzenart, in ihren Nachkommen constant bleiben werde.<lb/>Die Fortpflanzungszellen, welche in dem Fruchtknoten und den Anthe-<lb/>ren derselben gebildet werden, sind gleichartig und stimmen mit der<lb/>zu Grunde liegenden Vermittlungszelle überein.</p>
+            <lb/>
+            <pb n="42" facs="#f0053"/>
+            <p>Bezüglich jener Hybriden, deren Nachkommen <hi rendition="#g">veränderlich</hi><lb/>sind, dürfte man vielleicht annehmen, dass zwischen den differirenden<lb/>Elementen der Keim- und Pollenzelle wohl insofern eine Vermittlung<lb/>stattfindet, dass noch die Bildung einer Zelle als Grundlage der Hy-<lb/>bride möglich wird, dass jedoch die Ausgleichung der widerstrebenden<lb/>Elemente nur eine vorübergehende sei und nicht über das Leben der<lb/>Hybridpflanze hinausreiche. Da in dem Habitus derselben während der<lb/>ganzen Vegetationsdauer keine Aenderungen wahrnehmbar sind, müssten<lb/>wir weiter folgern, dass es den differirenden Elementen erst bei der<lb/>Entwicklung der Befruchtungszellen gelinge, aus der erzwungenen Ver-<lb/>bindung herauszutreten. Bei der Bildung dieser Zellen betheiligen sich<lb/>alle vorhandenen Elemente in völlig freier und gleichmässiger Anord-<lb/>nung, wobei nur die differirenden sich gegenseitig ausschliessen. Auf<lb/>diese Weise würde die Entstehung so vielerlei Keim- und Pollenzellen<lb/>ermöglicht, als die bildungsfähigen Elemente Combinationen zulassen.</p>
+            <lb/>
+            <p>Die hier versuchte Zurückführung des wesentlichen Unterschiedes<lb/>in der Entwicklung der Hybriden auf eine <hi rendition="#g">dauernde oder vorüber-<lb/>gehende Verbindung</hi> der differirenden Zellelemente kann selbstver-<lb/>ständlich nur den Werth einer Hypothese ansprechen, für welche bei<lb/>dem Mangel an sicheren Daten noch ein weiterer Spielraum offen stände.<lb/>Einige Berechtigung für die ausgesprochene Ansicht liegt in dem für<lb/>Pisum geführten Beweise, dass das Verhalten je zweier differirender<lb/>Merkmale in hybrider Vereinigung unabhängig ist von den anderweiti-<lb/>gen Unterschieden zwischen den beiden Stammpflanzen, und ferner, dass<lb/>die Hybride so vielerlei Keim- und Pollenzellen erzeugt, als constante<lb/>Combinationsformen möglich sind. Die unterscheidenden Merkmale zweier<lb/>Pflanzen können zuletzt doch nur auf Differenzen in der Beschaffen-<lb/>heit und Gruppirung der Elemente beruhen, welche in den Grundzellen<lb/>derselben in lebendiger Wechselwirkung stehen.</p>
+            <lb/>
+            <p>Die Geltung der für Pisum aufgestellten Sätze bedarf allerdings<lb/>selbst noch der Bestätigung, und es wäre desshalb eine Wiederholung<lb/>wenigstens der wichtigeren Versuche wünschenswerth, z. B. jener über<lb/>die Beschaffenheit der hybriden Befruchtungszellen. Dem einzelnen Be-<lb/>obachter kann leicht ein Differentiale entgehen, welches, wenn es auch<lb/>anfangs unbedeutend scheint, doch so anwachsen kann, dass es für das<lb/>Gesammt-Resultat nicht vernachlässigt werden darf. Ob die veränderli-<lb/>chen Hybriden anderer Pflanzenarten ein ganz übereinstimmendes Ver-<lb/><pb n="43" facs="#f0054"/>
+halten beobachten, muss gleichfalls erst durch Versuche entschieden<lb/>werden; indessen dürfte man vermuthen, dass in wichtigen Puncten<lb/>eine principielle Verschiedenheit nicht vorkommen könne, da die <hi rendition="#g">Ein-<lb/>heit</hi> im Entwicklungsplane des organischen Lebens ausser Frage steht.</p>
+            <lb/>
+            <p>Zum Schlusse verdienen noch eine besondere Erwähnung die von<lb/>Kölreuter, Gärtner u. a. durchgeführten Versuche über die <hi rendition="#g">Umwand-<lb/>lung einer Art in eine andere durch künstliche Befruch-<lb/>tung</hi>. Diesen Experimenten wurde eine besondere Wichtigkeit beige-<lb/>legt, Gärtner rechnet dieselben zu den &#x201E;allerschwierigsten in der Ba-<lb/>starderzeugung.&#x201C;</p>
+            <lb/>
+            <p>Sollte eine Art <hi rendition="#i">A</hi> in eine andere <hi rendition="#i">B</hi> verwandelt werden, so wur-<lb/>den beide durch Befruchtung verbunden und die erhaltenen Hybriden<lb/>abermals mit dem Pollen von <hi rendition="#i">B</hi> befruchtet; dann wurde aus den ver-<lb/>schiedenen Abkömmlingen derselben jene Form ausgewählt, welche der<lb/>Art <hi rendition="#i">B</hi> am nächsten stand und wiederholt mit dieser befruchtet, und<lb/>sofort, bis man endlich eine Form erhielt, welche der <hi rendition="#i">B</hi> gleich kam<lb/>und in ihren Nachkommen constant blieb. Damit war die Art <hi rendition="#i">A</hi> in die<lb/>andere Art <hi rendition="#i">B</hi> umgewandelt. Gärtner allein hat 30 derartige Versuche<lb/>mit Pflanzen aus den Geschlechtern: Aquilegia, Dianthus, Geum, Lava-<lb/>tera, Lychnis, Malva, Nicotiana und Oenothera durchgeführt. Die Um-<lb/>wandlungsdauer war nicht für alle Arten eine gleiche. Während bei<lb/>einzelnen eine 3malige Befruchtung hinreichte, musste diese bei ande-<lb/>ren 5- bis 6mal wiederholt werden; auch für die nämlichen Arten wur-<lb/>den bei verschiedenen Versuchen Schwankungen beobachtet. Gärtner<lb/>schreibt diese Verschiedenheit dem Umstande zu, dass &#x201E;die typische<lb/>Kraft, womit eine Art bei der Zeugung zur Veränderung und Umbil-<lb/>dung des mütterlichen Typus wirkt, bei den verschiedenen Gewächsen<lb/>sehr verschieden ist, und dass folglich die Perioden, innerhalb welcher<lb/>und die Anzahl von Generationen, durch welche die eine Art in die<lb/>andere umgewandelt wird, auch verschieden sein müssen, und die Um-<lb/>wandlung bei manchen Arten durch mehr, bei anderen aber durch we-<lb/>niger Generationen vollbracht wird.&#x201C; Ferner bemerkt derselbe Beobach-<lb/>ter, &#x201E;dass es auch bei dem Umwandlungsgeschäfte darauf ankommt,<lb/>welcher Typus und welches Individuum zu der weiteren Umwandlung<lb/>gewählt wird.&#x201C;</p>
+            <lb/>
+            <p>Dürfte man voraussetzen, dass bei diesen Versuchen die Entwick-<lb/>lung der Formen auf eine ähnliche Weise wie bei Pisum erfolgte, so<lb/><pb n="44" facs="#f0055"/>
+              würde der ganze Umwandlungsprocess eine ziemlich einfache Erklärung<lb/>finden. Die Hybride bildet so vielerlei Keimzellen, als die in ihr ver-<lb/>einigten Merkmale constante Combinationen zulassen, und eine davon<lb/>ist immer gleichartig mit den befruchtenden Pollenzellen. Demnach ist<lb/>für alle derartigen Versuche die Möglichkeit vorhanden, dass schon aus<lb/>der zweiten Befruchtung eine constante Form gewonnen wird, welche<lb/>der Pollenpflanze gleichkommt. Ob dieselbe aber wirklich erhalten wird,<lb/>hängt in jedem einzelnen Falle von der Zahl der Versuchspflanzen ab,<lb/>sowie von der Anzahl der differirenden Merkmale, welche durch die Be-<lb/>fruchtung vereinigt wurden. Nehmen wir z. B. an, die für den Versuch<lb/>bestimmten Pflanzen wären in 3 Merkmalen verschieden <choice><sic>nnd</sic><corr>und</corr></choice> es sollte<lb/>die Art <hi rendition="#i">ABC</hi> in die andere <hi rendition="#i">abc</hi> durch wiederholte Befruchtung mit dem<lb/>Pollen derselben umgewandelt werden. Die aus der ersten Befruchtung<lb/>hervorgehende Hybride bildet 8 verschiedene Arten von Keimzellen<lb/>nämlich:<lb/><hi rendition="#c"><hi rendition="#i">ABC, ABc, AbC, aBC, Abc, aBc, abC, abc.</hi></hi></p>
+            <lb/>
+            <p>Diese werden im zweiten Versuchsjahre abermals mit den Pollen-<lb/>zellen <hi rendition="#i">abc</hi> verbunden und man erhält die Reihe:<lb/><hi rendition="#i">AaBbCc</hi> + <hi rendition="#i">AaBbc</hi> + <hi rendition="#i">AabCc</hi> + <hi rendition="#i">aBbCc</hi> + <hi rendition="#i">Aabc</hi> + <hi rendition="#i">aBbc</hi> + <hi rendition="#i">abCc</hi> + <hi rendition="#i">abc.</hi></p>
+            <lb/>
+            <p>Da die Form <hi rendition="#i">abc</hi> in der 8gliedrigen Reihe einmal vorkommt, so<lb/>ist es wenig wahrscheinlich, dass sie unter den Versuchspflanzen fehlen<lb/>könnte, wenn diese auch nur in einer geringeren Anzahl gezogen wür-<lb/>den, und die Umwandlung wäre schon nach zweimaliger Befruchtung<lb/>vollendet. Sollte sie zufällig nicht erhalten werden, so müsste die Be-<lb/>fruchtung an einer der nächst verwandten Verbindungen <hi rendition="#i">Aabc, aBbc,<lb/>abCc</hi> wiederholt werden. Es wird ersichtlich, dass sich ein derartiges<lb/>Experiment desto länger hinausziehen müsse, <hi rendition="#g">je kleiner die Anzahl<lb/>der Versuchspflanzen und je grösser die Zahl der differi-<lb/>renden Merkmale</hi> an den beiden Stammarten ist, dass ferner bei<lb/>den nämlichen Arten leicht eine Verschiebung um eine, selbst um zwei<lb/>Generationen vorkommen könne, wie es Gärtner beobachtet hat. Die<lb/>Umwandlung weit abstehender Arten kann immerhin erst im 5. oder 6.<lb/>Versuchsjahre beendet sein, indem die Anzahl der verschiedenen Keim-<lb/>zellen, welche an der Hybride gebildet werden, mit den differirenden<lb/>Merkmalen nach den Potenzen von 2 zunimmt.</p>
+            <lb/>
+            <pb n="45" facs="#f0056"/>
+            <p>Gärtner fand durch wiederholte Versuche, dass die <hi rendition="#g">wechselsei-<lb/>tige</hi> Umwandlungsdauer für manche Arten verschieden ist, so dass<lb/>öfter eine Art <hi rendition="#i">A</hi> in eine andere <hi rendition="#i">B</hi> um eine Generation früher verwan-<lb/>delt werden kann, als die Art <hi rendition="#i">B</hi> in die andere <hi rendition="#i">A</hi>. Er leitet daraus zu-<lb/>gleich den Beweis ab, dass die Ansicht Kölreuter&#x2019;s doch nicht ganz<lb/>stichhältig sei, nach welcher &#x201E;die beiden Naturen bei den Bastarden<lb/>einander das vollkommenste Gleichgewicht halten.&#x201C; Es scheint jedoch,<lb/>dass Kölreuter diesen Tadel nicht verdient, dass vielmehr Gärtner dabei<lb/>ein wichtiges Moment übersehen hat, auf welches er an einer anderen<lb/>Stelle selbst aufmerksam macht, dass es nämlich &#x201E;darauf ankommt, wel-<lb/>ches Individuum zur weiteren Umwandlung gewählt wird.&#x201C; Versuche,<lb/>welche in dieser Beziehung mit zwei Pisum-Arten angestellt wurden,<lb/>weisen darauf hin, dass es für die Auswahl der tauglichsten Individuen<lb/>zu dem Zwecke der weiteren Befruchtung einen grossen Unterschied<lb/>machen könne, <hi rendition="#g">welche</hi> von zwei Arten in die andere umgewandelt<lb/>wird. Die beiden Versuchspflanzen waren in 5 Merkmalen verschieden,<lb/>zugleich besass die Art <hi rendition="#i">A</hi> sämmtliche dominirende, die andere <hi rendition="#i">B</hi> sämmt-<lb/>liche recessive Merkmale. Für die wechselseitige Umwandlung wurde <hi rendition="#i">A</hi><lb/>mit dem Pollen von <hi rendition="#i">B</hi> und umgekehrt <hi rendition="#i">B</hi> mit jenem von <hi rendition="#i">A</hi> befruchtet, dann<lb/>dasselbe an den beiderlei Hybriden im nächsten Jahre wiederholt. Bei<lb/>dem ersten Versuche <formula/> waren im 3. Versuchsjahse für die Auswahl<lb/>der Individuen zur weiteren Befruchtung 87 Pflanzen vorhanden, und<lb/>zwar <hi rendition="#g">in den möglichen 32 Formen</hi>; für den zweiten Versuch<lb/><formula/> wurden 73 Pflanzen erhalten, welche in ihrem Habitus durchgehends<lb/><hi rendition="#g">mit der Pollenpflanze übereinstimmten</hi>, jedoch ihrer inneren<lb/>Beschaffenheit nach eben so verschieden sein mussten, wie die Formen<lb/>des anderen Versuches. Eine berechnete Auswahl war daher blos bei<lb/>dem ersten Versuche möglich, bei dem zweiten mussten auf den blos-<lb/>sen Zufall hin, einige Pflanzen ausgeschieden werden. Von den letzte-<lb/>ren wurde nur ein Theil der Blüthen mit dem Pollen von <hi rendition="#i">A</hi> befruch-<lb/>tet, der andere hingegen der Selbstbefruchtung überlassen. Unter je 5<lb/>Pflanzen, welche für die beiden Versuche zur Befruchtung verwendet<lb/>waren, stimmten, wie der nächstjährige Anbau zeigte, mit der Pollen-<lb/>pflanze überein:</p>
+            <lb/>
+            <pb n="46" facs="#f0057"/>
+            <table>
+              <row>
+                <cell/>
+              </row>
+            </table>
+            <p>Für den ersten Versuch war damit die Umwandlung beendet, bei<lb/>dem zweiten, der nicht weiter fortgesetzt wurde, hätte wahrscheinlich<lb/>noch eine zweimalige Befruchtung stattfinden müssen.</p>
+            <lb/>
+            <p>Wenn auch der Fall nicht häufig vorkommen dürfte, dass die<lb/>dominirenden Merkmale ausschliesslich der einen oder der anderen<lb/>Stammpflanze angehören, so wird es doch immer einen Unterschied<lb/>machen, <hi rendition="#g">welche</hi> von beiden die grössere Anzahl besitzt. Kommt die<lb/>Mehrzahl der dominirenden Merkmale der Pollenpflanze zu, dann wird<lb/>die Auswahl der Formen für die weitere Befruchtung einen geringeren<lb/>Grad von Sicherheit gewähren, als in dem umgekehrten Falle, was<lb/>eine Verzögerung in der Umwandlungsdauer zur Folge haben muss,<lb/>vorausgesetzt, dass man den Versuch erst dann als beendet ansieht,<lb/>wenn eine Form erhalten wird, die nicht nur in ihrer Gestalt der<lb/>Pollenpflanze gleichkommt, sondern auch wie diese in den Nachkommen<lb/>constant bleibt.</p>
+            <lb/>
+            <p>Durch den Erfolg der Umwandlungs-Versuche wurde Gärtner be-<lb/>wogen, sich gegen die Meinung derjenigen Naturforscher zu kehren,<lb/>welche die Stabilität der Pflanzenspecies bestreiten und eine stäte<lb/>Fortbildung der Gewächsarten annehmen. Es sieht in der vollendeten<lb/>Umwandlung einer Art in die andere den unzweideutigen Beweis, dass<lb/>der Species feste Grenzen gesteckt sind, über welche hinaus sie sich<lb/>nicht zu ändern vermag. Wenn auch dieser Ansicht eine bedingungs-<lb/>lose Geltung nicht zuerkannt werden kann, so findet sich doch ander-<lb/>seits in den von Gärtner angestellten Versuchen eine beachtenswerthe<lb/>Bestätigung der früher über die Veränderlichkeit der Culturpflanzen<lb/>ausgesprochenen Vermuthung.</p>
+            <lb/>
+            <pb n="47" facs="#f0058"/>
+            <p>Unter den Versuchsarten kommen cultivirte Gewächse vor, wie<lb/>Aquilegia atropurpurea und canadensis, Dianthus Caryophyllus, chinen-<lb/>sis und japonicus, Nicotiana rustica und paniculata, und auch diese<lb/>hatten nach einer 4- bis 5maligen hybriden Verbindung nichts von<lb/>ihrer Selbstständigkeit verloren.</p>
+          </div>
+        </div>
+        <lb/>
+        <milestone unit="section" rendition="#hr"/>
+      </div>
+    </body>
+  </text>
+</TEI>

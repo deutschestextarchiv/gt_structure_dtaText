@@ -1,0 +1,1248 @@
+<pb>
+<front><b>CENTRALBLATT</b>
+DER
+<b>BAUVERWALTUNG.</b>
+<hr>
+HERAUSGEGEBEN
+IM
+<b>MINISTERIUM DER ÖFFENTLICHEN ARBEITEN.</b>
+<hr>
+<b>REDACTEURE:
+<g>OTTO SARRAZIN</g> <k>usd</k> <g>OSKAR HOSSFELD</g>.</b>
+<hr>
+<b>JAHRGANG X.
+1890.</b>
+<abb>
+BERLIN.
+<g>VERLAG VON ERNST & KORN</g>
+(WILHELM ERNST).</front>
+<pb>
+<pb>
+<con><b>Inhalts-Verzeichniß des X. Jahrgangs, 1890.</b></con>
+<hr>
+<pb="353"/>
+<hr>
+<d1><b>Die modernen Aufgaben des großstädtischen Straßenbaues mit Rücksicht auf die
+Unterbringung der Versorgungsnetze.</b></d1>
+<p><c>(Vortrag, gehalten auf der IX. Wanderversammlung des Verbandes deutscher Architekten- und Ingenieur-Vereine in Hamburg
+von Baurath Dr. James <b>Hobrecht,</b> Stadtbaurath in Berlin.)</c></p>
+<cb>
+<p>Meine Herren!</p>
+<p>Das Thema, welches mir für einen Vortrag seitens des Verbands-
+Vorstandes der deutschen Architekten- und Ingenieur-Vereine gestellt
+wurde, lautet:</p>
+<p>&201E;Die modernen Aufgaben des großstädtischen Straßen-
+baues mit Rücksicht auf die Unterbringung der Versorgungs-
+netze&201C;.</p>
+<p>Ich muß vorab bemerken, daß dieses Thema, so verlockend es
+auf den ersten Anblick zu sein scheint, und so sehr es einen Gegen-
+stand berührt, der die Verwaltungen aller großen Städte gewisser-
+maßen in Athem erhält, doch recht wenig geeignet ist, die Hörer,
+und damit den Vortragenden selbst, befriedigen zu können; denn
+wenn es allgemein wohl als erwünscht bezeichnet werden darf, daß
+aus der Besprechung eines so ungewöhnlich wichtigen Gegenstandes,
+von einer so hervorragenden Tribüne herab wie diejenige, auf welcher
+ich mich zur Zeit befinde, auch die Namhaftmachung eines Abhülfs-
+mittels gegen die allseits empfundenen Schwierigkeiten &2014; gewisser-
+maßen eines Specificums gegen die Krankheit, an welcher großstädtische
+Straßen durch die Versorgungsnetze leiden &2014; sich ergebe, so ist
+auf ein solches Ergebniß im vorliegenden Falle nicht zu rechnen.
+Zunächst weil niemand imstande ist, Umfang und Maß aller Ver-
+sorgungsnetze, welche beanspruchen möchten, sich in die Straßen-
+körper einzubauen, zu bestimmen. Zahl und Art derselben wächst von
+Jahr zu Jahr; nur wer sich der irrthümlichen Auffassung hingiebt,
+die Ansprüche großstädtischer Bevölkerungen könnten überhaupt
+gesättigt werden, die Erfindung werde aufhören thätig zu sein, oder
+das Capital möchte erlahmen, nützlichen Erfindungen die Wege zur
+Ausführung zu bahnen, wird darüber anders zu denken vermögen.</p>
+<p>Hatte man früher sich meistens nur mit der Sorge zu beschäf-
+tigen, Gas- und Wasserleitungen in den Straßen unterzubringen, so
+gilt es jetzt schon, sich um einen angemessenen Platz für die <g>Ent-
+wässerungsl</g>eitungen, die elektrischen <g>Beleuchtungsk</g>abel, die
+verschiedensten Arten von Telegraphenkabeln, Telephonleitungen,
+Druckluft- oder Druckwasserleitungen usw. zu mühen; ein Ende ist
+in dieser Beziehung kaum abzusehen.</p>
+<p>Ferner sind die Verhältnisse in Bezug auf Lage, Breite, Gefälle,
+Grundwasserstand, Bodenbeschaffenheit in den verschiedenen Städten
+so außerordentlich verschieden, daß auch hieran die Verkündigung
+eines <g>allgemein</g> gültigen Recepts gegen die erwähnten Erscheinungen
+scheitern muß. Schon die Verschiedenheit in der Vermögenslage
+<cb>
+der Städte hat nothwendigerweise zur Folge, daß Stadt-Umgestal-
+tungen, namentlich Straßendurchbrüche und Straßenverbreiterungen,
+welche sonst ein wirksamstes Heilmittel wären, hier thunlich, dort
+aber ganz unmöglich erscheinen. Die Aufstellung eines Normal-
+Querschnitts für Straßen, der uns eine wohlabgemessene Anordnung
+der Leitungen nach ihrer Höhen- und Breitenlage zeigte, wäre in
+der That kaum mehr als ein Hirngespinnst, &2014; etwa ebenso werthlos
+wie ein Normal-Grundriß für alle Hochbauten.</p>
+<p>Um der Frage nun aber doch näher zu treten, wird es nützlich
+sein, zunächst die Versorgungs-Netze, welche jetzt schon Straßen-
+raum beanspruchen, zusammenzustellen. Als solche wären zu nennen:
+1. Die Wasserleitung zur Versorgung der Wohnungen mit
+Wasser für alle Arten des häuslichen Bedarfs;
+2. Druckwasserleitungen zur Verrichtung von Arbeiten;
+3. Gasleitungen zur Beleuchtung der Straßen und Häuser und
+zum Betrieb von Maschinen;
+4. Entwässerungsleitungen zur Fortführung von Regen und Ab-
+wässern aus Straßen und Häusern;
+5. gesonderte Entwässerungs-Leitungen für gebrauchte Wässer,
+welche nicht verunreinigt sind, wie Kühlwässer, und für solche,
+welche, wie Condensationswässer, zu hoch temperirt sind, oder welche
+chemische Beimischungen haben, die, weil sie zerstörend auf Back-
+stein und Mörtel wirken, von der Aufnahme in die gewöhnlichen
+Entwässerungsleitungen ausgeschlossen werden müssen;
+6. elektrische Beleuchtungsleitungen und zwar:
+a) entweder Kabel, oder
+b) Schienen, welche in Kästen (Monier-Kästen) oder Röhren
+untergebracht werden;
+7. Telegraphenleitungen für verschiedene Zwecke, und danach
+gesonderte Systeme bildend, wie:
+a) für das Reich (auswärtiges Amt, Militär),
+b) für polizeiliche Zwecke,
+c) für Feuerlösch-Zwecke,
+d) für Zwecke der Post;
+8. pneumatische Leitungen für Depeschen-Beförderung;
+9. Telephonleitungen. Nachdem die weitere Ausbildung <g>ober-
+irdischer</g> Telephon-Netze vieler Orten sich als unmöglich heraus-
+gestellt hat, werden jetzt die Leitungen unterirdisch verlegt. Bei-
+spielsweise beansprucht die Telephon-Verwaltung in Berlin mehrfach
+<pb="354"/>
+<kt><g>Centralblatt der Bauverwaltung.</g> <b>30. August 1890.</b></kt>
+<cb>
+Raum für zwei eiserne Parallelleitungen nebeneinander von je 40 cm
+Durchmesser;
+10. elektrische oder pneumatische Leitungen zum Betrieb öffent-
+licher Uhren;
+11. Druckluft-Leitungen zum Betrieb von Maschinen für Klein-
+gewerbe, zum Betrieb von Maschinen für elektrische Beleuchtungen,
+zur Ventilation oder Kühlung von Räumen verschiedener Art;
+12. Betriebskabelleitungen, meist in gemauerten Canälen für
+Kabelbahnen und elektrische Bahnen und unterhalb derselben
+usw. usw.</p>
+<p>Dabei ist im einzelnen zu beachten,
+1. daß vielfach vorgenannte Versorgungen, wie namentlich die-
+jenigen mit Gas und Wasser, nicht <g>einheitliche</g> sind, sondern
+theils durch die Gemeinden, theils durch Actien-Gesellschaften,
+welche auf Grund von Concessionen oft ausgedehnte und lange
+dauernde Berechtigungen erworben haben, bewirkt werden, sodaß
+dann oft mehrere sonst gleichwerthige Gas-, mehrere Wasser-Rohre
+in einer Straße nebeneinanderliegen;
+2. daß infolge der zunehmenden Bevölkerung und des gesteigerten
+Verkehrs fast alle vorgenannten Leitungen in kürzerer oder längerer
+Frist eine Vermehrung oder Vergrößerung erfahren, d. h. also ver-
+mehrten Straßenraum beanspruchen, während anderseits
+3. der verfügbare Raum in den Straßen, namentlich den Haupt-
+straßen, durch Anlage von Straßenbahnen aller Art an sich be-
+schränkt wird, und endlich in dem Verlangen, ein gutes, ja ein
+bestes Pflaster zu haben, der Straßendamm seiner ganzen Breite
+nach eine feste Unterlage erhält; es ergiebt sich dann hieraus, daß,
+theils absichtlich, theils gezwungen, nur die <g>Bürgersteige</g> zur
+Unterbringung der Versorgungs-Netze verfügbar bleiben;
+4. daß, da aus allen den vorgenannten Versorgungs-Netzen Haus-
+anschlußleitungen in verschiedenster Höhenlage die Bürgersteige
+queren, der dort etwa noch für Längsleitungen verfügbare Raum,
+wenn nicht vernichtet, so doch auf ein Minimum eingeschränkt wird;
+5. daß die oben erwähnte Verlegenheit sich an den Straßen-
+kreuzungen und Straßenecken bis zur größtmöglichen Höhe
+steigert, da dort noch ein besonderer Raum für Wasser- oder Gas-
+Schieber, für Revisionsbrunnen der Canalisation, der Beleuchtungs-,
+Telephon- und Telegraphen-Kabel usw. vorhanden sein muß.</p>
+<p>M. H. Nothstände aus vorgenannten Ursachen hat man wohl
+zuerst in der größten der Großstädte, in London empfunden; dort
+begann man am frühesten mit der Ausführung der Versorgungs-
+Netze; dort hat man &2014; wie es scheint, ohne Ahnung der späteren
+Entwicklung der Versorgungsleitungen und der Stadt &2014; ziemlich
+unbeschränkt Concessionen an Actien-Unternehmungen zur Aus-
+führung der Versorgungs-Netze und zum Betriebe derselben ertheilt.
+Zudem sind die Straßen dort meist eng und unregelmäßig. So ließ
+denn schon eine Zeichnung in einem Blaubuch des englischen Par-
+laments aus den fünfziger Jahren, welche das Bild einer abgedeckten
+Straße gab, erkennen, daß dieselbe ihrer <g>ganzen</g> Breite nach mit
+eisernen Röhren, ein Rohr unmittelbar neben dem anderen, belegt
+war. Die Röhren waren von sehr verschiedenem Durchmesser und
+gehörten verschiedenen Versorgungs-Gesellschaften an. So war es
+denn auch oft vorgekommen, daß theils aus Unkenntniß, theils viel-
+leicht in schlimmerer Absicht die eine Gesellschaft die Röhren einer
+anderen Gesellschaft zur Versorgung anliegender Grundstücke ange-
+bohrt hatte und fortgesetzt fremden, ihr nicht gehörigen Stoff,
+Wasser oder Gas, verkaufte. Aufs störendste wurden ferner die un-
+unterbrochenen Aufgrabungen und Pflasteraufbrüche bei Rohrver-
+legungen, Rohrveränderungen und Rohr-Ausbesserungen empfunden.
+Wie heute überall, erregten sie dort schon vor fast einem halben
+Jahrhundert das allgemeinste Aergerniß. So lange sie unvermeidlich
+blieben, so lange war an eine Erfüllung der Hoffnung, eine definitive
+Straßendecke herzustellen und sie zu erhalten, nicht zu denken; sie
+sind es, welche denn auch bald das Bestreben anfachten, Abhülfe-
+maßregeln zu ergreifen.</p>
+<p>Es liegt nahe, und es lag auch vor Jahrzehnten in London schon
+nahe, diese Abhülfemaßregel darin zu suchen, daß genügend ge-
+räumige Tunnel in den Straßen unter dem Pflaster erbaut werden,
+in welchen sämtliche Leitungen ihren Platz finden. Wie man damals
+diese Tunnel, welche den Namen <g>&201E;Subways&201C;</g> führen, in <g>England</g>
+als das Heilmittel ansah, welches alle Schmerzen stillen würde,
+so ist diese Ansicht auch <g>bei uns</g> heute vielfach vertreten, und der
+deutsche Techniker muß es sich gefallen lassen, oft die vorwurfs-
+volle Frage zu hören: warum wird denn nicht endlich, wie in London
+oder Paris, mit der Untertunnelung aller Straßen angefangen, um
+der nimmer endenden Buddelei &2014; wie man in Berlin zu sagen be-
+liebt &2014; einen Riegel vorzuschieben? Da also in der Subway-Anlage
+in Wirklichkeit oder in Einbildung die Lösung der Frage liegen
+soll, sehe ich mich genöthigt, gerade hierauf etwas näher einzugehen,
+und nachzuforschen, wieweit obige Behauptung für London und
+Paris zutrifft.</p>
+<cb>
+<p>Im Jahre 1864 wurde in London eine Gesetzvorlage unter dem
+Namen &201E;Metropolitan Subways Bill&201C; vor das Parlament gebracht.
+Zwei höchst umfangreiche Blaubücher, das eine aus dem Jahre 1864,
+das andere aus dem Jahre 1867, theilen uns in der bekannten Form
+von Fragen und Antworten auf 658 Folioseiten die endlosen Ver-
+handlungen mit, welche die von dem Parlament zur Voruntersuchung
+eingesetzten Commissionen mit den namhaftesten englischen In-
+genieuren und den Vertretern der betheiligten Gesellschaften auf-
+nahmen. Folgendes aus diesen Verhandlungen dürfte mittheilungs-
+werth sein. Zunächst wurde die Zahl der stattgehabten Straßenauf-
+brüche festgestellt. Es ergab sich beispielsweise, daß &2014; abgesehen
+von anderen Stadttheilen &2014; in dem Kirchspiel St. Martin in the
+fields das Straßenpflaster im Jahre 1856 1256 mal, in den 7 Jahren
+von 1856 bis 1863 10377 mal von den verschiedenen Gas- und
+Wassergesellschaften aufgebrochen wurde; in dem Kirchspiel Mary-
+lebone haben in den Jahren 1859 bis 1863, also in 5 Jahren 44932
+Aufgrabungen stattgefunden usw. Die Zahl der damals von dem
+Metropolitan Board of Works schon ausgeführten Subways war eine
+geringe, die Länge derselben eine unbedeutende. Zu verzeichnen
+sind in London nur ein Subway in Coventgarden, 450 Fuß lang
+(Halbkreis, 6&frac12;&2032; Rad.) und ein solcher in Southwark (6&2032; Rad.) in Länge
+von 3400 Fuß.</p>
+<p>In Nottingham waren außerdem einzelne Subways durch den
+Ingenieur Tarbotton ausgeführt,
+so in der Victoria Street in Länge von 430&2032; (10&2032; breit)
+in der Queen Street &201E; &201E; &201E; 100&2032; (8&2032; breit)
+und in der Lister Street &201E; &201E; &201E; 450&2032; (10&2032; breit).</p>
+<p>Diese Subways hatten zum Theil einen befestigten Boden, zum
+Theil nicht, wie denn auch Röhren in die Fußböden der Subways
+gebettet wurden. Sie sind mit Seitengalerieen in etwa 3&2032; Breite für
+je zwei Häuser versehen. Diese Galerieen reichen bis zu den unter
+den Bürgersteigen belegenen Kellern. Die Subways sind mit Venti-
+lationsschächten in Entfernungen von je 25&2032; bis 100&2032; versehen. In
+diesen wenigen Subways lagerten Gas- und Wasserröhren von sehr
+geringem Durchmesser (6&2033;), desgleichen Telegraphenleitungen.</p>
+<p>Die Frage, welche nun bei den erwähnten Verhandlungen im
+Vordergrund steht, ist diejenige, ob die Gefahr der Gasexplosionen
+die Aufnahme von Gasröhren in die Subways gestatte oder nicht.</p>
+<p>Namhafteste Ingenieure, wie Bazzalgette, Marrable, Carpmeal
+Isaacs, Hemans, Tarbotton aus Nottingham, R. Jones &2014; welcher
+jedoch die Ventilationsschächte nicht weiter als 20&2032; von einander
+stellen will &2014;, Bramwell, Easton und andere leugnen jede Gefahr,
+während Ingenieure, deren Ruf ebenfalls ein bedeutender ist, wie
+Simpson, Bateman, der Erbauer der Glasgower Wasserwerke, Hay-
+wood, Hawksley und eine große Zahl von den bei den Gaswerken
+beschäftigten Ingenieuren eine ernstliche Gefahr als mehr oder
+minder vorhanden behaupten. Dr. Letheby hält die Gefahr für vor-
+handen, Dr. Frankland bestreitet sie. Was die bei den Gaswerken
+und zum Theil auch bei den Wasserwerken beschäftigten Ingenieure
+anbetrifft, so ist zu bemerken, daß diese überhaupt den Anlagen von
+Subways feindlich entgegenstehen, daß aber hierbei, wie auch zu-
+gestanden wird, die Besorgniß, daß die Kosten für die Gesellschaften
+gewaltig anwachsen würden, mitbestimmend war.</p>
+<p>Im einzelnen geht aus diesen Verhandlungen folgendes hervor.</p>
+<p>Gasexplosionen sind, wenn auch nicht gerade in den wenigen
+Subways, in erschreckend großer Zahl vorgekommen. Nur der Gas-
+ingenieur Innes erwähnt einer Explosion in einem kleinen Subway,
+eigentlich nur einer Unterführung, unter dem Ship-Hotel in Greenwich,
+welche der Gesellschaft 500 £ kostete; dabei wurde ein Mann ge-
+tödtet, ein anderer schwer, ein dritter leichter durch Brandwunden
+verletzt; er theilt mit, daß das Gasrohr dann aus diesem Subway,
+der 8&2032; hoch, 7&2032; breit war, entfernt wurde.</p>
+<p>Der französische Ingenieur Belgrand, der wie fast alle französi-
+schen Ingenieure sich gegen die Aufnahme der Gasröhren in die
+Subways ausspricht, erwähnt, daß in der Galerie des Martyrs, einer
+alten Anlage, ein Gasrohr vorhanden gewesen sei, daß dieses aber
+später aus Besorgniß vor Explosionen fortgenommen sei; er erwähnt
+ferner der bekannten schweren Explosion an dem Pont d&2019;Austerlitz.
+Doch muß ich hierbei bemerken, daß die englischen Ingenieure nach
+eigenen Untersuchungen das Zutreffende dieses Falls als eines Be-
+weises gegen die Subways entschieden bestreiten. Aber die Ab-
+neigung Belgrands gegen Gasleitungen in den Subways ist so groß,
+daß er sich die Worte eines seiner untergebenen Ingenieure aneignet:
+&201E;the day, upon which these pipes are placed in sewers, I shall not
+go into them, without having made my will previously&201C;.</p>
+<p>Die explosible Mischung des Gases wird, auch wohl nach der
+Beschaffenheit des Gases, verschieden angegeben
+gleich 1 Theil Gas zu 6 bis 8 Theilen Luft
+1 &201E; &201E; &201E; 8 bis 9 &201E; &201E;
+1 &201E; &201E; &201E; 6 bis 15 &201E; &201E;
+wobei die Mischung 1 : 12 die gefährlichste sein soll. Von anderen
+<pb="355"/>
+<kt><b>Nr. 35.</b> <g>Centralblatt der Bauverwaltung.</g></kt>
+<cb>
+werden die Mischungen von 1 : 10 und 1 : 8 bis 9 als die gefährlichsten
+bezeichnet. Die Mischung ist eine mechanische und entsprechend
+dem Mindergewicht des Gases auch eine leichtere als diejenige der
+atmosphärischen Luft. Eine Erstickungsgefahr liegt nach Frankland
+bei einer Mischung von 1 : 14 bis 16, ja bei 1 : 20 vor.</p>
+<p>Die Volumen-Veränderung bei der Explosion von Gas ist eine
+erheblich geringere als bei Schießpulver, nämlich 1 : 5 gegen 1 : 480
+(nach Dr. Frankland).</p>
+<p>Der wie es scheint unvermeidliche Gasverlust (leakage) in den
+Röhrennetzen der Gasanstalten wird allseitig zugegeben und auf 10
+bis 25 pCt., dann auch auf 12&frac12; pCt. angegeben. Das Gas entweicht
+vorzugsweise durch die Muffenverbindungen, aber &2014; nach Simpson
+and Brothers &2014; auch &201E;trough the substance of the iron&201C;!</p>
+<p>Es sind vorzugsweise die Temperatur-Unterschiede, welche bei
+eintretender Kälte die Röhren aus den Muffen ziehen und Gasverluste
+erzeugen. Nach Messungen von Walker sei aber der Temperatur-
+Unterschied in einem Subway erheblich geringer als außerhalb; bei
+50º F. äußerem Tem-
+<abb>
+<ab>Volks-Kaffee- und Speisehalle am America-Kai.
+<b>Aus &201E;Hamburg und seine Bauten&201C;.</b></ab>
+peratur-Unterschied sei
+in einem Subway nur
+ein solcher von 17º fest-
+gestellt worden, während
+Hawksley behauptet,
+daß die Temperatur in
+den Subways um 30º
+schwanke.</p>
+<p>Boulnois theilt mit,
+daß auf eine Rohrlänge
+von 9&2032; bei einem Tem-
+peratur-Unterschied von
+30º ein Längenunter-
+schied von 1/50&2033; eintrete,
+während Barlow bei 10º
+Temperatur-Aenderung
+einen Längenunterschied
+von 4&2033; auf die englische
+Meile angiebt.</p>
+<p>Von den Gegnern
+der Subways wird nun
+in Beziehung auf diese
+überhaupt, und nicht
+nur in Rücksicht auf
+Gasleitungen, besonders
+hervorgehoben:
+daß keine natür-
+liche, allenfalls nur eine
+künstliche Ventilation
+imstande sei, die Ge-
+fahr der Explosion aus-
+zuschließen, daß die
+Ventilationsschächte durch Straßenschmutz in den Gittern sich ver-
+stopfen würden;
+daß Erstickungsgefahr vorliege, und daß es nicht möglich sein
+würde, die Arbeiter in die Subways hineinzubringen, jedenfalls nur
+gegen erheblich erhöhte Löhne;
+daß im Falle von Ohnmachten niemand wagen würde hinein-
+zugehen, um die Betroffenen zu retten, und daß Erstickung und Tod
+die Folge sein würde;
+daß die städtische Verwaltung ersatzpflichtig gemacht werden
+müßte, wenn sie die Gesellschaften zwänge, die Röhren in die Sub-
+ways zu legen; Mr. Innes sagt: &201E;if they are compelled to go into a
+dangerous position, they ought to be protected from the consequences
+of the position&201C;;
+daß nur bei künstlichem Licht gearbeitet werden könne;
+daß baldigst kein Platz mehr in den Subways sein würde für
+weitere Versorgungsleitungen;
+daß man keinen Platz habe für einen Arbeitsweg im Innern zum
+Transport der Röhren;
+daß es schwer halten und störend sein würde, die Röhren durch
+Oeffnungen in den Gewölben in die Subways zu bringen;
+daß bei einer Explosion auch andere Röhren in den Subways
+(Wasserleitung usw.) zerstört werden und dadurch neue Gefahren
+entstehen würden;
+daß die Muffen-Verbindungen durch die Erschütterungen der
+darübergehenden Wagen gelockert werden würden;
+daß die Luft der Sewers und Gas durch die Seiten-Galerieen
+in die Kohlenkeller und durch diese in die Häuser dringen würde;
+daß die Bleiröhren im Innern der Subways durch die Arbeiter
+anderer Gesellschaften gestohlen werden würden;
+daß die Sewers Ueberschwemmungen der Subways herbeiführen
+würden;
+<cb>
+daß im Falle eines Aufruhrs in den Subways Gasröhren vom
+Pöbel zerschlagen werden könnten, und daß dann unabsehbare Ge-
+fahren eintreten würden;
+daß bei Tage und bei Nacht in den Subways eine stete Aufsicht
+und Ueberwachung statthaben müßte;
+daß endlich aus allen diesen Gründen die Anlage von Subways
+eine überaus theure werden würde, und daß das Publicum die Kosten
+tragen müßte.</p>
+<p>Hawksley sagt: &201E;we should only be too glad, to avail ourselves
+of these advantages, if the disadvantages were not ten times greater
+than the advantages; I mean ten times greater, not as regards simply
+the company, but as regards the public&201C;.</p>
+<p>Wenn ich von allen diesen Behauptungen das Gegentheil sagen
+wollte, so würde das etwa der Inhalt von dem sein, was die Freunde
+der Subways meinen. Sie betonen besonders, daß die Rohre in den
+Subways in gutem Anstrich und guter Pflege gehalten werden können,
+und daß demgemäß das Verrosten derselben thunlichst verhütet wird.</p>
+<p>Von besonderem In-
+teresse möchten noch
+einige Versuche sein, die
+Dr. Frankland bei dieser
+Gelegenheit über die Ge-
+fährlichkeit von Gas-
+leitungen in Subways
+angestellt hat. Im South-
+wark-Street-Subway
+bohrte er in das Gasrohr,
+etwa in der Mitte zwi-
+schen zwei Ventilations-
+schächten, ein Loch von
+5/8&2033; Durchmesser. Das
+Gas entwich während
+15 Minuten; nach je
+5 Minuten wurde der
+Procentsatz des Gases
+unter dem Gewölbe und
+an den nächstgelegenen
+Ventilationsschächten
+gemessen; derselbe
+schwankte zwischen 1
+und höchstenfalls 2&frac12;.
+Der Gasdruck im Rohr
+war 9/10&2033;. Des weiteren
+wurde ein Loch von
+1&frac12; Zoll Durchmesser in
+das Gasrohr gebohrt.
+Das Gas strömte 15 Mi-
+nuten lang aus. In-
+folge stärkerer Venti-
+lation wurde nur 1,9 pCt.
+Gas in der Luftmischung gemessen; dann wurde das Gas ange-
+steckt, welches mit einer 4&2014;5 Fuß langen Flamme brannte.
+Endlich wurden zwei Oeffnungen von je 1&frac12;&2033; Durchmesser ge-
+macht und blieben 16 Minuten offen. Es wurde eine 3 procentige
+Mischung beobachtet; zu einer Explosion würde eine mindestens
+6 procentige gehören. Frankland schließt daraus, daß die Ventilation
+eine vollkommene sei, daß in dem Maße, in welchem die Gasaus-
+strömung stattfinde, der Zug sich vermehre, und daß somit eine Ge-
+fahr als ausgeschlossen zu betrachten sei.</p>
+<p>Nach einigen zunächst vergeblichen Anläufen kam nun ein Gesetz,
+the Metropolitan-Subways Act, 1868, zu Stande.</p>
+<p>Das Gesetz beschränkt sich auf als solche bereits genehmigte
+Subways, welche der Board of Works ausführt. Nach diesem Gesetz
+werden die Gas-, Wasser- und Telegraphen-Gesellschaften gezwungen,
+die Rohre in diese Subways zu legen. 20 &00A3; Strafe werden für jeden
+Fall, daß das Pflaster später dort aufgebrochen wird, festgesetzt; wenn
+schon in die Straßendämme verlegt gewesene Rohre in den Sub-
+ways placirt werden, so geschieht dies auf Kosten des Board, der
+letztere in Ventilation und baulichen Würden zu erhalten hat. Die
+einzelnen Leitungen in den Subways haben die betreffenden Gesell-
+schaften zu unterhalten unter Aufsicht eines Beamten des Board.</p>
+<p>Ein späteres Gesetz, die London Subways Act 1869, sprach den
+Zwang zur Einlegung von Leitungen unter fast gleichen Bedingungen
+für einzelne weiter benannte Straßen &2014; Holborn Viaduct &2014; und
+namentlich einzelne <g>neue Straßen</g> aus.</p>
+<p>Zur Zeit liegt dem Parlament zur Berathung ein Gesetz, The
+London Subways und Overhead wires Act 1890, vor. Danach soll
+der London-County-Council (eine neue Art Provincialbehörde an
+Stelle des Metropolitan Board of Works) berechtigt sein, nach eigenem
+Ermessen wo und wie er will fortan Subways zu bauen und zu unter-
+halten. Er erhält die Enteignungsbefugniß; die Gesellschaften haben
+<pb="356"/>
+<kt><g>Centralblatt der Bauverwaltung.</g> <b>30. August 1890.</b></kt>
+<cb>
+auf Erfordern Auskunft zu geben und Zeichnung ihrer bestehenden
+Anlagen einzureichen; die Gesellschaften müssen mindestens 1 Monat
+vor Beginn von neuen Arbeiten
+<abb>
+<ab>Alte Speicher am Mattentwietenfleth.
+<b>Aus &201E;Hamburg und seine Bauten&201C;.</b></ab>
+in den Straßen den Consens
+des Council einholen. Wenn
+in der Straße, in welcher eine
+Leitung gelegt werden soll, ein
+Subway ist, hat der Council das
+Recht, zu verlangen, daß die-
+selbe in den Subway gelegt
+werde; dasselbe gilt, wenn auch
+noch kein Subway vorhanden,
+einen solchen aber dort in
+angemessener Zeit zu bauen be-
+schlossen ist. Der Council hat
+das Recht, zu verlangen, daß,
+wenn er einen Subway baut, die
+Gesellschaften ihre Leitungen
+aus den Straßen fortnehmen und
+in denselben legen; der Council
+hat das Recht, eine angemessene
+Abgabe für Benutzung des Sub-
+ways von den Gesellschaften zu
+verlangen; der Council kann ver-
+langen, daß, wenn er einen
+neuen Subway baut, die Gesell-
+schaften gegen Entschädigung
+den Bau hindernde Leitungen
+fortnehmen müssen. Nach Er-
+laß dieses Gesetzes ist es ver-
+boten, eine oberirdische Draht-
+leitung ohne besondere Geneh-
+migung des Councils auszuführen.</p>
+<p>Mir scheint der wesentliche
+Inhalt dieser Gesetzvorlage &2014;
+abgesehen von polizeilichen Ein-
+schränkungen bei oberirdischen
+Drahtleitungen, die sich bei uns
+von selbst verstehen &2014; der zu
+sein, daß der County Council
+fortan berechtigt sein soll, Sub-
+ways da zu bauen, wo er es für
+gut hält, und ohne daß jedes-
+mal eine besondere Parlaments-
+acte hierfür erlassen wird.</p>
+<p>Ich möchte nun noch in
+Bezug auf Paris hinzufügen, daß
+dort nichts weniger vorhanden ist als, wie man vielfach glaubt, eine
+<cb>
+planmäßige Subway-Anlage, oder daß die Versorgungsrohre in die
+&201E;Egouts&201C; aufgenommen wären. Zunächst steht dem doch entgegen,
+daß, wenn die Egouts auch
+in einzelnen Strecken ausreichend
+groß sind, um manche Rohre
+aufnehmen zu können, dies doch
+bei der weitaus größten Zahl
+von Canälen nicht der Fall ist.
+Gasleitungen in die Egouts auf-
+zunehmen, ist aus Besorgniß
+vor Erstickungen und Explosionen
+verboten. Die Poppsche Druck-
+luftleitung ist in Egouts gelegt,
+&2014; wie man mir sagte, zur
+Unzufriedenheit beider Theile.
+Wasserleitungsröhren liegen zum
+Theil in Egouts, zum größeren
+Theile im Erdreich. Die elektri-
+schen Beleuchtungskabel liegen
+unter dem Bürgersteig. M. E.
+sind, wenn Subways überhaupt
+erbaut werden, Seitengalerieen,
+welche die Hausleitungen auf-
+nehmen, eine nothwendige Folge,
+da sonst die Wandungen der
+Subways stets durchbrochen wer-
+den und die Straßen dann für
+diese Querleitungen doch auf-
+gebrochen werden müßten; die
+Egouts in Paris haben nun aber
+solche Seitengalerieen nicht oder
+nur zum kleinsten Theil. Daß in
+den Egouts doch eigentlich nur der
+Raum, welcher bei Regenfluthen
+wasserfrei bleibt, zur Aufnahme
+von Leitungsröhren gebraucht wer-
+den kann und darf, muß als selbst-
+verständlich vorausgesetzt werden.</p>
+<p>Was in London und anderen
+englischen Städten <g>mehr</g> als in
+andern Ländern zur Erbauung
+von Subways, wo solche ausführ-
+bar wären, drängt, ist der Um-
+stand, daß der Raum unter den
+Bürgersteigen zur Unterbringung
+von Versorgungsnetzen nicht zur
+Verfügung steht, da hier zu den
+einzelnen Gebäuden gehörige Kohlenkeller liegen.</p>
+<p><et>(Fortsetzung folgt.)</et></p>
+<pb="375"/>
+<kt><b>Nr. 36.</b> <g>Centralblatt der Bauverwaltung.</g></kt>
+<hr>
+<d1><b>Die modernen Aufgaben des großstädtischen Straßenbaues mit Rücksicht auf die
+Unterbringung der Versorgungsnetze.</b></d1>
+<p><c>Von Stadtbaurath <b>Dr. J. Hobrecht</b> in Berlin.
+(Fortsetzung).</c></p>
+<cb>
+<p>M. H. Fasse ich nun das Vorgesagte zusammen, so ist es m. E.
+nicht angängig, <g>grundsätzlich</g> Subways, so empfehlenswerth sie
+unter besonderen Umständen und namentlich bei <g>Neua</g>nlage ein-
+zelner Straßen sein mögen, als das Mittel anzusehen, wodurch
+das Einlegen der Versorgungsnetze in die Straßendämme und
+Bürgersteige, und damit weiter das häufige Aufbrechen des Pflasters
+vermieden werden könnte; Gasröhren in die Subways zu legen ist,
+man sage was man wolle, nicht als vollständig gefahrlos zu be-
+zeichnen; die Canalisation wird nur unter seltenen Umständen mit
+den Subways verbunden werden können, in den meisten Fällen
+<g>nicht,</g> da ein Anschwellen des Wassers in den Canälen bis zum
+Scheitel, ja, bis zur Straßenhöhe, sodaß also die Canäle unter Druck
+stehen, als möglich und unter Umständen als unvermeidlich zuzugeben
+ist. Canäle, bei welchen derartiges nicht vorkommen kann, würden
+meist unrationell groß gemacht werden müssen, und oft würde dann
+für sie allein die Straßendammbreite nicht ausreichen; es ist kaum
+möglich, Subways so groß anzulegen, daß sie den zukünftigen, mög-
+lichen Ansprüchen genügen, namentlich dann nicht, wenn wirklich
+genügend Platz rund um ein jedes Rohr verbleibt, um es auswechseln
+zu können, um die Muffenverbindungen, den Anstrich, die Seiten-
+anschlüsse usw. bequem ausführen zu können; man denke nur an
+den Raum, den die unentbehrlichen Schieber in den großen Leitungen
+verlangen müssen. Die Kosten sind zweifelsohne gewaltige, denn,
+wie die ausgehängten Zeichnungen<fn="*)">Die Zeichnungen folgen in der nächsten Nummer d. Bl.</fn> lehren, ist fast das ganze Straßen-
+areal einer Stadt gewissermaßen mit einem Untergeschoß zu bebauen,
+stark genug, um jede Verkehrsbelastung tragen zu können.</p>
+<p>Ob es vom Standpunkt der öffentlichen Gesundheitspflege aus,
+namentlich bei Epidemieen, als zulässig erachtet werden kann, das
+Innere aller Häuser einer Stadt und dessen Luft gewissermaßen durch
+ein gemeinsames Kellergeschoß in Verbindung zu setzen, lasse ich da-
+hingestellt; ich möchte eine solche Gefahr nicht unbedingt ableugnen.</p>
+<p>Daß endlich in vielen Städten &2014; London kennt freilich derartiges
+kaum &2014; der hohe Grundwasserstand und der Rückstau hoher Fluß-
+wasserstände dem Bau ausreichend großer und damit <g>tiefer</g> Subways
+außerordentlich große Schwierigkeiten bereiten würde, ist leicht
+einzusehen. Gelingt es auch, diese Schwierigkeiten technisch zu über-
+winden, namentlich wenn keine Kosten gespart werden, so werden
+die Subways, soweit sie im Grundwasser stehen, doch immer feucht
+und dumpfig sein. Das Eisen der Leitungen wird dann wiederum vor-
+zugsweise gern rosten; nicht befestigter Boden der Subways zur Auf-
+nahme von Röhren ist natürlich ganz ausgeschlossen und, wie gesagt,
+in gleicher Weise die Hineinlegung der Canalisation in die Subways.</p>
+<p>Ich bin der Ansicht,
+1. daß die Anlage von Kohlenkellern oder ähnlichen Bauten
+unter den Bürgersteigen, wie in London, eine Ungehörigkeit ist,
+2. daß der Bürgersteig zunächst der eigentlich richtige Platz
+zur Unterbringung der Versorgungsnetze ist und bleibt,
+3. daß es sich deshalb grundsätzlich empfiehlt, dort die Ver-
+sorgungsnetze, und zwar in das Erdreich, einzubetten,
+4. daß definitives Pflaster unter keinen Umständen früher ausge-
+führt werden sollte, bevor nicht die Versorgungsleitungen, und nament-
+lich die Canalisation, sich dort an ihrer richtigen Stelle befinden.</p>
+<p>Es ist eine Frage, die sich aufdrängt und auch als unberechtigt
+nicht von der Hand gewiesen werden kann, ob es richtig ist, die
+Straßendämme in ihrer <g>ganzen</g> Breite mit definitivem Pflaster zu
+versehen. Ist schon sicher die Hoffnung, die sich in der Bezeichnung
+&201E;definitiv&201C; ausspricht, eine unrichtige &2014; was in der Welt hätte über-
+haupt, und was nun gar in großstädtischen Anlagen einen dauernden
+Bestand? &2014;, so bedarf es wirklich nur einiger Erfahrung, um mit
+Bestimmtheit vorauszusehen, daß nach längerer oder kürzerer Frist
+die Ansprüche der Versorgungsnetze an diesem Definitivum wieder
+rütteln werden.</p>
+<p>Man könnte nun meinen, daß es richtig sein möchte, das defini-
+tive Pflaster, wenn auch nicht ganz aufzugeben, so doch auf den mitt-
+leren Theil der Straßendämme zu beschränken, sodaß zu beiden
+Seiten des Dammes ein nicht definitiv befestigter Streifen verbliebe,
+der, als Reserve für die Versorgungsnetze, leichter aufgebrochen und
+leichter wiederhergestellt werden könnte. Bei näherer Erwägung
+<cb>
+wird aber auch dieser Gedanke aufgegeben werden müssen. Ließe
+er sich allenfalls bei Steinpflaster zur Ausführung bringen, so ist er
+doch ganz undurchführbar bei Asphalt, und diesem gehört mehr
+und mehr die Zukunft: Hunderten von Petitionen um Asphaltirung
+einer Straße steht noch nicht eine einzige um Herstellung eines
+definitiven Steinpflasters gegenüber. Der wesentlichste Vortheil des
+Asphalts ist, wie bekannt, die Geräuschlosigkeit; auf diesen Vortheil
+müßte aber nicht allein Verzicht geleistet werden, wenn Seitenstreifen
+des Dammes mit Stein gepflastert werden, nein &2014; es würde ein für
+die Gehörnerven geradezu unerträglicher Zustand geschaffen werden;
+viel leichter ist es, ein gleichmäßiges Rollen der Wagen über Stein-
+pflaster zu hören, als den steten Wechsel von Stein auf Asphalt
+und umgekehrt. Wir mögen uns damit trösten, daß außer der
+Straßenbefestigung auf sehr vielen anderen Gebieten &2014; ich nenne
+nur die Eisenbahnen &2014; das Definitivum sich entsetzlich schnell
+wieder als ein Provisorium entpuppt, aber ändern können wir diesen
+Zustand nicht.</p>
+<p>Ich möchte hier nicht unerwähnt lassen, daß es eine auch erfüll-
+bare Aufgabe ist, die Bürgersteig-Befestigung so einzurichten, daß sie
+für Luft, Gas und Wasser eine nicht undurchdringliche Decke bildet;
+Undichtigkeiten der Leitungen müssen sich erkennbar machen können;
+dem aus den Röhren entweichenden Gas und Wasser darf nicht als
+einziger Weg der in die Gebäude belassen werden, in denen sie un-
+absehbaren Schaden anrichten können.</p>
+<p>M. H. Wenn nun aber in der Erbauung von Subways nur ausnahms-
+weise ein Mittel erblickt werden kann, den vorhandenen und stetig
+wachsenden Uebelständen der Straßenaufbrüche zu begegnen, wenn
+ferner die Aufnahme der Leitungen in die Bürgersteige ihre Grenze
+hat, so müssen wir versuchen, in einer anderen, wenn auch weniger
+entschiedenen, weniger imponirenden Weise der Sache beizukommen;
+auf den Glanz eines kühnen chirurgischen Schnittes müssen wir dann
+freilich Verzicht leisten.</p>
+<p>Um die großen Städte herum, außerhalb des Weichbildes der-
+selben sehen wir fast ausnahmslos <g>Vorstädte,</g> theils ältere An-
+siedelungen, die ursprünglich weit von der Stadt entfernt waren,
+jetzt in ihrer unmittelbaren Nähe dank dem Vordringen der
+letzteren liegen, theils neuere, meist aus großstädtischer Initiative
+entstandene Bildungen. Unter den verschiedenen und zahlreichen
+Gründen, denen diese Vorstädte ihr Entstehen oder ihre Entwicklung
+verdanken, steht obenan, daß eine Reihe von Verordnungen, nament-
+lich baupolizeilicher Natur, welche die Großstadt treffen, dort kaum
+Gültigkeit haben, und daß gewinnbringender Speculation dort die
+Thüren offen stehen. Oft führen sich solche Unternehmungen als
+Villen-Colonieen ein, die, je nachdem, entweder dem Begüterten den
+Genuß reiner Luft und nervenstärkender Ruhe, oder dem Armen
+die Wohlthat einer kleinen billigen Wohnung, auch wohl gar eines
+kleinen eigenen Besitzes gegen ratenweise Abzahlung gewährleisten
+wollen. Ist aber diese Lockspeise verzehrt, so ändern sich die Ver-
+hältnisse: kann nur irgendwie auf <g>Miether</g> gerechnet werden, so
+entstehen auch dort die üblichen mehrstöckigen Casernen, mit Brand-
+mauern aneinandergelehnt, mit den kleinen Höfen und der nichts
+weniger als nervenstärkenden Hauspolizei. Dann ist der Weg
+höchster Ausnutzung des Grund und Bodens als Baustelle betreten,
+und die Speculation gelangt in ihr bestimmtes, wenn auch noch mehr
+oder minder günstiges Fahrwasser.</p>
+<p>Die Ansprüche an Post, Telegraphie, Telephonie, an Eisenbahnen,
+Pferdebahnen usw. für solche Vorstädte wachsen üppig empor;
+Entrüstungs-Versammlungen über schlechte Behandlung mit dem
+Hinweis darauf, daß zwar die Einwohnerzahl eine solche Anlage
+wohl noch nicht rechtfertige, aber die Anlage eine Einwohnerzahl
+<g>schaffen</g> werde, welche dann die Anlage rentabel mache, lösen
+sich mit Petitionen dringlichster Art ab. Den lautesten Rednern
+winkt der Kranz der Gemeindevertretung.</p>
+<p>So entstehen für die Großstadt die Uebelstände, daß sich Vor-
+städte um sie lagern, die, was Richtung, Breite oder Gefälle der
+dortigen Straßenzüge anbetrifft, oft ohne jede Rücksicht auf etwaige
+Bedürfnisse der ersteren angelegt sind, und daß dabei in der Regel
+die Gemeindevertretungen in diesen Vorstädten zu nichts weniger
+als zu einem billigen Entgegenkommen geneigt sind.</p>
+<p>Erwägt man nun, daß es gerade die vorstädtischen Gebiete sind
+<pb="376"/>
+<kt><g>Centralblatt der Bauverwaltung.</g> <b>6. September 1890.</b></kt>
+<cb>
+welche zumeist <g>Stämme</g> von Versorgungsleitungen aufzunehmen haben,
+und daß bei der Autonomie der Vorstädte jede Anlage einer Leitung
+dortselbst eine Ablehnung oder eine Genehmigung unter den erschwer-
+endsten Bedingungen zu erfahren hat, so wird man zugeben müssen,
+daß hier ganz besonders eine Quelle jener Beklemmungen liegt, unter
+denen der vorwärts drängende Organismus der großen Städte leidet.</p>
+<p>Ich habe gesagt, daß die Vorstädte die Stämme der Leitungs-
+netze mehr und mehr aufzunehmen haben. Lassen Sie mich dies
+erläutern. Unter den Leitungen nehmen den ersten Platz die Zu-
+leitungen von Gas und Wasser und die Ableitungen der Abwässer
+ein. Die Gasanstalten mit ihren riesigen Fabricationsgebäuden und
+zahlreichen Gasbehältern, ihren Kohlenplätzen, ihrer unerläßlichen
+Zugänglichkeit von Wasserwegen oder Eisenbahnen finden innerhalb
+des Weichbildes räumlich den Platz nicht mehr, um ein erweiterungs-
+fähiges Werk anlegen zu können; sie müssen hinaus in die Vorstädte.
+Von dort aus gehen dann 1 m und über 1 m große Leitungen in reich-
+licher Zahl in die Großstadt hinein. Aehnlich ist es mit den Wasser-
+werken, bei denen der Gesichtspunkt der Gewinnung <g>reinen</g> Wassers,
+wie solches sich wohl nie innerhalb des Weichbildes großer Städte
+findet, zur Hinauslegung der Centralstelle nöthigt; auch hier sind es
+die im Durchmesser größten Leitungen, welche die Vorstädte kreuzen.</p>
+<p>Die Stammleitungen der Canalisation, die &201E;Extension Sewers&201C;,
+wie sie die Engländer nennen, nehmen eine umgekehrte Richtung an,
+aber auch sie können vorstädtischem Gebiet, vorstädtischen Straßen
+nicht aus dem Wege gehen, wenn sie, wie üblich und meist noth-
+wendig, dem Gefälle des Flusses folgen, der die Großstadt durch-
+fließt. Sind es Rieselgüter, welche die Abwässer aufzunehmen haben,
+so müssen auch hier die Stämme der Druckrohrleitungen die Vorstädte
+auf ihrem Wege nach den dahinter gelegenen Rieselfeldern kreuzen.
+Wie oft kommt es dann vor, daß bei der Wahl der Tracen nicht die
+im technischen Sinne rationellsten, sondern solche gewählt werden,
+welche sich schließlich im Kampf mit den Vorstädten und ihren Inter-
+essen als die allein durchführbaren erweisen. Und der daraus ent-
+springende Nachtheil schwillt oft ins ungebührliche an, wenn die
+Einmündungspunkte der großen Stammleitungen an dem Weichbilde
+nicht auf Straßenzüge treffen, die für ihre Aufnahme geeignet sind.</p>
+<p>Ich will die Vorstädte und ihre Verwaltungen nicht einer be-
+sonderen Fiscalität anklagen; diese Eigenschaft ist so verbreitet,
+daß sich keine Verwaltung, nicht die der großen Städte, nicht die
+anderer Communalverbände, auch nicht diejenige des Staates, davon
+freisprechen kann. Genommen wird von andern überall das, was
+genommen werden kann, was sich bei der Nothlage des anderen
+erreichen läßt. Die Eisenbahnen vor allem haben ihre financielle
+Prosperität im Auge und legen sich mit ihren breiten und <g>hohen</g>
+Dämmen oder ihren Einschnitten unbekümmert um zahllose Interessen,
+namentlich diejenigen des <g>späteren</g> Verkehrs &2014; preuß. Gesetz vom
+3. Nov. 1838 &2014; und um diejenigen der Versorgungs-Systeme durch
+und um die Großstädte.</p>
+<p>Alles dieses weist uns darauf hin, daß hier ein Zustand vorliegt,
+der im Interesse der großstädtischen Versorgungsnetze einer Abhülfe
+bedarf. Und hier helfend einzugreifen ist Sache des Staates, Sache
+der Gesetzgebung.</p>
+<p>Nicht die Eingemeindung einzelner Vorstädte, die nach jahrelangen
+Verhandlungen, in denen die beiderseitigen Ansprüche aus der Ver-
+gangenheit, die für die Gegenwart nur einen verschwindenden, für
+die Zukunft gar keinen Werth haben, aufgerechnet werden, zu Stande
+kommt, sondern die Schaffung neuer administrativer Verbände, aus-
+gedehnt auf das ganze Gebiet, soweit sich die vitalen Interessen der
+Großstädte erstrecken, das ist der Weg, der zum Ziele führen kann.
+Interessen, die wahrhaft gemeinschaftliche sind, dürfen nicht in ihrer
+gegenwärtigen Trennung und getrennten Vertretung erhalten bleiben;
+sie dürfen nicht, wie in der Fabel der Magen und die Glieder, sich
+gegenseitig bekämpfen und hindern, sondern müssen sich verschmelzen
+und fördern. Dazu bedarf es einer <g>Corporation,</g> einer <g>corpo-
+rativen Einigung,</g> welche sich, wenn nicht anders, so doch durch
+eine Majorität zu einer That reif macht.</p>
+<p>Wenn auch nicht in den alten Stadttheilen mit ihren gegebenen
+und ohne gewaltigen Kostenaufwand kaum abänderungsfähigen Ver-
+hältnissen, so kann doch in allen neu anzulegenden Straßen den
+Gemeinden durch Gesetz die Befugniß verliehen werden, der Stadt-
+entwicklung nur eine solche Bahn zu geben, daß die Interessen der
+Gemeinde, soweit sie die Versorgungsnetze betreffen, gewahrt werden.</p>
+<p>Für das Königreich Preußen ist ein solches Gesetz unter dem
+<cb>
+2. Juli 1875 erlassen. Dasselbe ermöglicht den Gemeinden die An-
+legung und Veränderung von Straßen und Plätzen nach dem Bedürf-
+nisse der näheren Zukunft durch Aufstellung von Bebauungs-Plänen.
+Ist dies geschehen, so tritt damit von selbst die Beschränkung des
+Grund-Eigenthümers, über die Fluchtlinien hinaus zu bauen, ein; Orts-
+statute sind zulässig, nach denen örtlich bestimmt werden kann, was
+unter einer für den Anbau fertig gestellten Straße zu verstehen sei, und
+nur an solchen Straßen dürfen Wohngebäude mit Ausgang errichtet
+werden; eine Entschädigung kann für eine Beschränkung der Baufrei-
+heit dann nicht gefordert werden; desgleichen können die Kosten der
+Neuanlegung einer Straße von den angrenzenden Eigenthümern bei Er-
+richtung neuer Gebäude an dieser Straße wieder eingezogen werden.</p>
+<p>Ich halte mich für verpflichtet, auf dieses Gesetz umsomehr hin-
+zuweisen, als in einzelnen zum deutschen Reich gehörigen Bundes-
+staaten ein gleiches oder ähnliches Gesetz fehlt und auch innerhalb
+Preußens vielfach von diesem Gesetz, damit also von der Befugniß, die
+Herrschaft bei Neuanlage von Straßen auszuüben, auch im Interesse
+der zweckmäßigen Unterbringung der Versorgungs-Leitungen seitens
+der Gemeinden nicht der Gebrauch gemacht wird, den es verdient.</p>
+<p>Es bedarf kaum der Erwähnung, daß in der Aufstellung von
+Bebauungsplänen ein Mittel gegeben ist, wenigstens die Nöthe, welche
+dort in der Zukunft die Unterbringung der Versorgungsnetze bereiten
+kann, zu beseitigen oder zu mildern. Je seltener bei Aufstellung
+solcher Pläne an die Versorgungsnetze gedacht worden ist und
+meistens noch wird, um so nothwendiger wird dies für die Zukunft
+sein. Die Anordnung mächtiger Diagonal- oder Radial-Straßen, die
+für alle Leitungen von innen heraus oder von außen herein den
+kürzesten Weg bieten, ist dabei vor allem geboten. Für diese können
+die Abmessungen kaum groß genug genommen werden, denn sie bieten
+die passende Gelegenheit, um auch die Bauten zur Bewältigung des
+großstädtischen Verkehrs &2014; Hochbahnen, Stadtbahnen, Trambahnen
+&2014; dort anzulegen.</p>
+<p>Je mehr &2014; und namentlich in Großstädten &2014; es Gebrauch wird,
+die Straßendämme in definitiver Weise zu befestigen, je mehr zu
+Unterlagen der Befestigungsdecken starke Betonschichten verwendet
+werden, umsomehr auch wird es Regel werden, die Leitungen in die
+Bürgersteige zu verlegen; auch die dadurch bedingte Abkürzung der
+Hausanschlußleitungen drängt darauf hin.</p>
+<p>Es ergiebt sich hieraus die Nothwendigkeit, in der Straßenein-
+theilung den <g>Bürgersteigen</g> eine möglichst große Breite zu geben,
+ja, wenn die Straßenbreite im ganzen nicht über ein gewisses Maß
+hinaus ausgedehnt werden kann, diese Bürgersteigbreite auf Kosten
+der Straßendammbreite zu ermöglichen. Sichert man sich hierdurch
+dort für die Ansprüche der Zukunft einen möglichst geräumigen
+Platz, so verleiht man auch den Straßen überhaupt ein gefälligeres
+Ansehen. Endlich verdient der Fußgängerverkehr in Großstädten
+eine Berücksichtigung, die oft nicht genügend anerkannt wird, während
+umgekehrt dem Wagenverkehr Opfer gebracht werden, die er theils
+nicht braucht, theils nicht verdient. Auf eines freilich muß der
+Wagenverkehr in der Regel in großen Städten verzichten, nämlich
+auf schnelles Fahren und, damit in Verbindung, auf Vorbeifahren.
+Ein großer Theil der Wagen, alle Lastwagen, fahren so wie so nur
+Schritt; soll nun dem leichteren Personenfuhrwerk die Möglichkeit
+gegeben werden, außer der Reihe sich zu bewegen und vorbeizueilen,
+so beansprucht dies eine Verbreiterung des Straßendammes, deren
+Kosten und Schwierigkeiten ganz außer Verhältniß zu der dadurch
+erreichten Annehmlichkeit stehen. Es ist gewiß sehr schön, daß in
+Großstädten dem eleganteren Wagenverkehr, der ohne ein gewisses
+Tempo nicht zu denken ist, einzelne luxuriöser gestaltete Wege offen
+gehalten und bereitet werden, daß aber die große Menge der Verkehrs-
+straßen hierauf Rücksicht zu nehmen habe, ist unrichtig. Dem Noth-
+wendigen muß das Angenehme nachstehen. Bewegen sich die Fuhrwerke
+in gleichmäßigem Schritt, in gleichmäßiger langer Reihe, so ist es &2014;
+man denke nur an den Strand, an die City-Straßen in London &2014;
+kaum glaublich, welch eine Fülle von Lasten, welch eine Wagenzahl
+ordnungsmäßig und ununterbrochen in Bewegung erhalten wird.
+Nicht unerwähnt mag hierbei auch bleiben, daß für den Fußgänger-
+verkehr, wenn er zur Benutzung des Straßendammes genöthigt ist,
+nichts so gefährlich wird, als gerade ein breiter Straßendamm, der
+ein ungeordnetes Fahren in verschiedener Geschwindigkeit ermöglicht.
+Die Sicherung des Fußgängerverkehrs ist es, welcher neben der leich-
+teren Unterbringung der Versorgungsnetze verhältnißmäßig schmälere
+Fahrdämme und breitere Bürgersteige dienen.</p>
+<p><et>(Schluß folgt.)</et></p>
+<hr>
+<pb="386"/>
+<kt><g>Centralblatt der Bauverwaltung.</g> <b>13. September 1890.</b></kt>
+<hr>
+<d1><b>Die modernen Aufgaben des großstädtischen Straßenbaues mit Rücksicht auf die
+Unterbringung der Versorgungsnetze.</b></d1>
+<p><c>(Schluß.)</c></p>
+<cb>
+<p>Vor allem ist es eine Aufgabe der Großstädte, nicht länger zu
+dulden, daß Versorgungsnetze irgend welcher Art, welche man ja
+geradezu als Lebensnerven bezeichnen kann, in Besitz und Ver-
+waltung concessionirter Privat-Gesellschaften bleiben, oder daß neue
+Concessionen der Art ertheilt werden. Eine Concession, ein Vertrag
+gewährt Rechte. Nun ist nie-
+<abb>
+<ab>Querschnitt <i>A-B</i>.</ab>
+mand, auch der gewandteste
+Rechtsverständige nicht, dem
+die Ausfertigung der Concession
+anvertraut wird, imstande, bei
+dem Wachsthum der Großstädte,
+dem Auftreten neuer Bedürf-
+nisse, der regen Erfindung be-
+züglich der technischen Form,
+in der den Bedürfnissen ge-
+nügt wird, anzugeben, welche
+tief einschneidende Bedeutung
+<g>solche</g> verliehenen Rechte in
+der Zukunft haben können, wie
+sehr sie hindern und hemmen
+können, welche Opfer gebracht
+werden müssen, um sie ge-
+gebenenfalls abzulösen. Die Ver-
+waltungen der Großstädte üben
+Hoheitsrechte aus, und sie dürfen
+auf Straßen und Plä-
+tzen, also auf öffent-
+<abb>
+<ab>Grundriß.
+<b>Straße mit Leitungstunnel in London.</b>
+(Vgl. hierzu Seite 375 in Nr. 36 d. Bl.)</ab>
+lichem Grund und
+Boden, diese Rechte
+mit keinem Privaten
+theilen. Daß dieser
+im Streitfalle nur
+seine Privatrechte
+wahrnimmt, ist na-
+türlich und von
+seinem Standpunkt
+auch gerechtfertigt;
+daß aber dann die
+öffentlichen Inter-
+essen darunter leiden,
+ist selbstverständlich,
+und zuerst diejenigen,
+welche bei der Ver-
+theilung, Größenbe-
+messung, Trace, Hö-
+henlage usw. der Ver-
+sorgungs-Leitungen
+auftauchen.</p>
+<p>Wenn es sich
+darum handelt, eine
+Stadt mit Leitungen
+zu versehen, um ir-
+gend eine Art der
+Versorgung, z. B. mit
+Gas, Wasser, Druck-
+luft usw. eintreten
+zu lassen, so ist es
+üblich, den sogenann-
+ten Maximalconsum
+für die <g>ganze</g> Stadt
+festzustellen.</p>
+<p>Es wird die Einwohnerzahl und die jährliche procentualische
+Steigerung derselben in der Vergangenheit ermittelt; daraus wird
+berechnet, daß nach einer Reihe von Jahren, für welche man noch,
+weitgegriffen, die Leistungsfähigkeit des Werkes ausreichend haben
+will, die Einwohnerzahl eine solche oder eine solche sein werde.</p>
+<p>Diese Zahl, mit einem Maximal-Consum auf den Kopf und Tag
+multiplicirt, ergiebt die Stoffmenge, auf welche sich das Versorgungs-
+werk einzurichten hat. Dann wird in ähnlicher Weise die Ausdeh-
+nung des Leitungsnetzes bestimmt, indem auf Grund der Erfahrungen,
+die die Vergangenheit an die Hand giebt, die räumliche Vergröße-
+<cb>
+rung der Stadt &2014; wiederum weit gegriffen und für eine längere Reihe
+von Jahren &2014; in Betracht gezogen wird.</p>
+<p>Wenn es sich wirklich um Großstädte handelt, kann dieses Ver-
+fahren nicht als das richtige bezeichnet werden. Es wird zunächst
+wohl zugegeben werden können, daß es für Werke derart beziehent-
+lich ihrer <g>Größe</g> technisch
+eine Grenze giebt, über die
+hinaus financiell ein Vortheil
+aus einer Vergrößerung nicht
+mehr erwächst, insofern sich
+dabei die Kosten für eine ge-
+lieferte Stoff-Einheit nicht weiter
+vermindern, sondern die gleichen
+bleiben. Eine solche Grenze
+liegt in der Stärke der ein-
+zelnen Maschinen, die über ein
+gewisses Maß hinaus gehen zu
+lassen unwirthschaftlich sein
+würde, in dem Durchmesser der
+eisernen Hauptleitungen, in der
+bereits erreichten vollkommenen
+Ausnutzung der Bedienungs-
+und Aufsichtskräfte, der Bau-
+lichkeiten und der verfügbaren
+Baustelle.</p>
+<p>Wenn also, wie
+es bei Großstädten
+in der Regel der Fall
+sein wird, der Ge-
+samtconsum erheb-
+lich noch die Lei-
+stungsfähigkeit einer
+einzelnen solchen be-
+grenzten Station über-
+steigt, so wird es
+schon zulässig, ja in
+vielen Fällen auch
+wirthschaftlich rich-
+tig sein, die Versor-
+gung von einer Stelle
+aus aufzugeben und
+mehrere einzelne
+Stationen anzulegen.</p>
+<p>Aber es ist für
+mich hier nicht Auf-
+gabe, die Theilung
+aus <g>wirthschaft-
+lichen</g> Gründen zu
+empfehlen. Ich habe
+hier nur nachweisen
+wollen, daß eine
+Theilung, die aus
+andern Gründen ge-
+fordert werden muß,
+keinesweges aus
+wirthschaftlichen
+Gründen unausführ-
+bar erscheint. Diese
+Gründe bestehen aber
+darin, daß die Lei-
+stungsfähigkeit eines
+Werkes, welches ein räumlich bestimmt <g>abgegrenztes</g> Gebiet
+versorgen soll, nicht aus höchst unsicheren Wahrscheinlichkeitszahlen
+ermittelt, nicht für einen mehr oder minder langen, schließlich
+doch willkürlich gegriffenen Zeitraum festgestellt zu werden braucht,
+sondern daß sie &2014; wenigstens der Hauptsache nach &2014; aus einem
+<g>stabilen</g> Maximalconsum ermittelt werden kann, und daß die
+Leitungen, angemessen in dem räumlich fest begrenzten Bezirk ver-
+theilt und danach berechnet, im wesentlichen einer Vermehrung oder
+Vergrößerung auch in der Zukunft nicht bedürfen werden.</p>
+<p>Ich will hier Beispiele anführen: Es giebt wohl keine Stadt,
+<pb="387"/>
+<kt><b>Nr. 37.</b> <g>Centralblatt der Bauverwaltung.</g></kt>
+<cb>
+welche nicht sich genöthigt gesehen hätte, mindestens in den Boden-
+falten, welche nach dem Flusse zu sich öffnen, Entwässerungs-
+leitungen zu bauen. Sicher und nachweislich hat man dabei die
+Leitung nicht am letzten Hause begonnen, sondern in Erwartung
+weiterer städtischer Ausdehnung der Leitung anfänglich größere
+Maße gegeben, um sie nach oben hin fortsetzen zu können. Was
+hat diese Aufmerksamkeit genützt? Wir sehen jetzt, daß auch die
+weitgehendste Fürsorge in dieser Beziehung längst durch die Ent-
+wicklung überholt ist. Nicht allein, daß die Verlängerung der
+Leitungen, schließlich in kleinster zulässiger Abmessung, weit über
+das rechnerisch bestimmte Maß hinaus vor sich gegangen, &2014; nein,
+man hat auf einmal wieder ein größeres Profil oberhalb an das kleinere
+unterhalb angeschlossen und sogar die Sohle der oben angeflickten
+Leitung, da die alte mit Gefälle sich der Oberfläche zu sehr näherte,
+plötzlich beliebig
+<abb>
+<ab>Holzstich v. O. Ebel.</ab>
+<ab><b>Kaiser Wilhelm-Denkmal an der Porta Westfalica.</b>
+Entwurf von Bruno <b>Schmitz</b> in Berlin. Ein erster Preis.</ab>
+tiefer gelegt. Na-
+türlich war es nur
+eine Täuschung,
+davon einen Erfolg
+zu erwarten, aber
+geschehen ist es im
+Drange der Noth in
+zahlreichen Fällen.</p>
+<p>Als im Jahr 1860
+eine preußische Tech-
+niker-Commission
+die Entwässerungs-
+anlagen des Auslan-
+des studirte und ihren
+Reisebericht nebst
+einem generellen Ent-
+wässerungsplane für
+Berlin veröffentlichte,
+glaubte sie das
+äußerste gethan zu
+haben, wenn sie für
+Berlin eine größte
+Einwohnerzahl von
+775 000 in Ansatz
+brachte. Es heißt
+in jenem Bericht:
+&201E;Diese Zunahme der
+Bevölkerung um bei-
+nahe 59 pCt. dürfte
+so reichlich gerechnet
+sein, daß eine baldige
+Ueberschreitung der-
+selben nicht leicht
+anzunehmen ist.&201C;
+Wenn wir aber nun
+sehen, welch ein schwerer Irrthum in jener Annahme lag, wenn wir
+wissen, daß in noch nicht 30 Jahren jene Annahme um weitere 50 pCt.
+hinter der Wirklichkeit zurückgeblieben ist, so mache ich doch
+daraus niemandem einen Vorwurf; ich müßte mir ihn vor allem selbst
+machen, da ich seiner Zeit an jener Arbeit betheiligt war. Wären
+aber die Röhren und Canäle nach dem damaligen Entwurf, welcher
+die ganze Stadt in ein System zusammenfaßte, gelegt worden, sie
+hätten, zum größeren Theil wenigstens, seitdem schon herausge-
+nommen und durch größere ersetzt werden müssen.</p>
+<p>Wird nun nach dem von mir empfohlenen und bei der jetzigen
+Entwässerung Berlins zur Ausführung gebrachten Verfahren die
+ganze Stadt räumlich in einzelne Systeme zerlegt, so ist jede spätere
+unvorhergesehene und nicht vorherzusehende peripherische <g>Ver-
+größerung</g> des einzelnen Versorgungsgebiets ausgeschlossen; aus-
+geschlossen ist auch, wenigstens im wesentlichen, eine Vermehrung
+oder Vergrößerung der Stoffmenge, auf welche sich das einzelne
+Werk einzurichten hat. Wie schon gesagt, ist diese Stoffmenge ein
+Product, dessen beide Factoren erstens die Bevölkerungszahl und
+zweitens die Beanspruchung auf den Kopf und Tag an das Werk
+sind. Ist das System räumlich begrenzt, so fällt jede Unsicherheit
+bezüglich des ersten Factors ganz und gar fort; man kann mit Be-
+stimmtheit sagen, daß die Bevölkerungsdichtigkeit über ein gewisses
+Maß hinaus, welches dann allerdings überall zu Grunde zu legen
+ist, nicht steigt. Ja, die Erfahrung hat gelehrt, daß die Dichtigkeit
+der Bevölkerung in einer Großstadt abzunehmen pflegt, sobald ein
+gewisser, hoher Grad großstädtischer Entwicklung erreicht ist oder
+überschritten wird.</p>
+<p>Weniger sicher ist freilich die Bestimmung des zweiten Factors,
+aber auch hier liegen Erfahrungen genug vor, wie diejenige über den
+Maximalconsum an Wasser auf den Kopf und Tag, über den Gas-
+verbrauch auf den Kopf und Tag, über die abzuleitende Regenmenge
+<cb>
+für die Flächeneinheit in der Secunde usw., welche, unter Hinzu-
+rechnung eines gewissen Sicherheits-Coefficienten, es möglich machen,
+für die Versorgungsnetze eine Größe zu ermitteln, die dauernd ge-
+nügt, und welche daher ein Herausnehmen und Verändern der
+Leitungen unnöthig macht.</p>
+<p>Unerläßlich erscheint in Großstädten endlich, daß die Verwal-
+tung der verschiedenen Versorgungswerke, wenigstens so weit als es
+sich um die Versorgungsnetze handelt, technisch in einer Hand ruhe.</p>
+<p>Darf ich also noch einmal die Maßnahmen kurz aufführen, die
+nach meinem Ermessen, abgesehen von dem oben über die Einbettung
+der Versorgungsnetze in die Bürgersteige bereits Gesagten, geeignet
+sind der Noth der Großstädte auf diesem Gebiet zu steuern, so sind
+dies folgende:
+1. Subways, wo deren Erbauung <g>möglich</g> ist, und wo sie nach
+den gegebenen Ver-
+hältnissen eine durch-
+greifende Ordnung
+und Unterbringung
+der Leitungen <g>dau-
+ernd</g> in Aussicht
+stellen.
+2. Herstellung
+eines <g>administra-
+tiven Verbandes</g>
+der <g>Großstädte
+und ihrer Vororte</g>.
+3. Erlaß eines
+<g>die Feststellung
+der Bebauungs-
+pläne und die Aus-
+führung neuer
+Straßen regeln-
+den Gesetzes nach
+Art des in Preu-
+ßen gültigen Ge-
+setzes vom 2. Juli</g>
+1875, wo solches noch
+nicht vorhanden, und
+Erlaß der nach die-
+sem Gesetz zulässigen
+Ortsstatute, wo dies
+noch nicht geschehen.
+4. Eintheilung
+neuer Straßen der-
+art, daß mehr als
+bisher den <g>Bürger-
+steigen</g> eine größere
+<g>Breite</g>, nöthigen-
+falls auf Kosten der
+Straßendämme, ge-
+geben wird; auch selbst bei schon vorhandenen Straßen wird es sich
+sehr empfehlen, zu prüfen, ob eine Anordnung in dem angedeuteten
+Sinne nicht vom Verkehrs-Standpunkt zulässig und vom Standpunkt
+der Versorgungsnetze aus sehr wünschenswerth ist.
+5. Nichtertheilung weiterer <g>Concessionen an Privat-Unter-
+nehmer</g> (Actien-Gesellschaften) zur Ausführung und financiellen
+Ausbeutung von Versorgungsnetzen irgend welcher Art; wo solche
+Concessionen aber bestehen, <g>Ablösung</g> derselben.
+6. <g>Theilung</g> jeder Versorgungsanlage einer Stadt <g>in be-
+stimmte räumlich abgetrennte Einzelsysteme</g>.
+7. Stellung der verschiedenen Versorgungswerke der Großstadt
+unter eine und dieselbe technische Leitung.</p>
+<p>Und nun, m. H., nur noch wenige Worte. Es ist eine billige
+Weisheit, vor <g>erkannten</g> Schädlichkeiten zu warnen, aber in Vor-
+aussicht die nachtheiligen Einflüsse zu erkennen, welche die Begleiter
+von Zuständen sind, die wir erstreben, von Genüssen, die wir begehren,
+ist verdienstlich. Der Geschichtschreiber weiß heute davon zu erzählen,
+wie der römische Caesarismus den Schwerpunkt der Reichsverwaltung
+den Freigelassenen und den Prätorianern zuschob und damit den Zer-
+fall einer Weltherrschaft bedingte; daß aber eine hochmüthige, stets
+erobernde Republik zu einem Caesar führen mußte, sagten zur richtigen
+Zeit nur wenige, und diesen wenigen wurde es nicht geglaubt.</p>
+<p>Es ist jetzt, wie niemand leugnen wird, eine Art Sport ge-
+worden, Großstädte mit einander in Vergleich zu stellen und
+derjenigen den Preis zuzuerkennen, welche es im Wachsthum, in der
+Einwohnerzahl, in öffentlich Einrichtungen am weitesten gebracht
+hat. Unentgeltliche Schulen, Feriencolonieen, Stadtmissionen, Fach-
+schulen, Volksbäder, Asyle, Bürger-Rettungshäuser und ähnliches in
+hunderterlei Gestalt erfüllt die Seele der dabei Thätigen mit Selbst-
+zufriedenheit und tugendlichem Muth; es ist ein Retten des Geistes,
+des Körpers, der unsterblichen Seele unserer armen oder verkommenen
+<pb="388"/>
+<kt><g>Centralblatt der Bauverwaltung.</g> <b>13. September 1890.</b></kt>
+<cb>
+Mitmenschen, das unsere Brust schwellt, das unsern philantropischen
+Charakter stählt.</p>
+<p>&201E;Berlin wird Weltstadt&201C; rief man begeistert vor Jahren aus;
+&201E;Berlin ist Weltstadt&201C; flüstern jetzt dort schon Tausende.</p>
+<p>Ich meine, ein solches Wachsthum hat auch seine Kehrseite!</p>
+<p>Ein geistvoller Kritiker der Nationalzeitung schließt seinen Be-
+richt über das eben stattgehabte Schützenfest in Berlin mit den Worten:
+&201E;So bietet der Schützenplatz für Fremde wie für Einheimische unend-
+lich viel des Sehenswerthen. Kurz zuvor aber, ehe man dort ankommt,
+sieht man zur linken Hand ein Kornfeld, das recht schön steht, und
+zur rechten einen Acker mit Kartoffeln, die eben blühen. Berliner,
+die dergleichen noch nie gesehen haben &2014; und wie groß mag ihre
+Zahl sein! &2014; seien darauf aufmerksam gemacht; diese beiden Eigen-
+thümlichkeiten lohnen allein schon eine Fahrt nach Pankow!&201C;</p>
+<p>Es wird leider ein solches Urtheil nicht wohl bestritten werden
+können. Einfachheit, Naturnähe, ungekünstelte Verhältnisse schwinden
+aus den Großstädten; Gemachtheit in der Lebensführung und Lebens-
+weise nehmen zu, eine einheitliche Betriebs-Organisation im Wohnen,
+Miethen, in der Bedienung, im Bezug der Lebensmittel, in der Art
+der Vergnügungen und Genüsse entwickelt sich und bezwingt
+immer gebieterischer alles individuelle Leben. Licht in mancherlei
+Gestalt, Wasser, Luft, Unterhaltung, gleiches Zeitmaß, fehlerlos
+bis auf den Bruchtheil von Secunden, Paket-Vertheilung und Arbeits-
+kraft vermitteln jetzt schon Central-Versorgungen in größeren
+Städten durch Leitungen. Die Versendung von Nahrungsmitteln
+außer dem Wasser scheint technisch wenigstens keine unüberwind-
+lichen Schwierigkeiten zu haben. Ist erst die Sitte des warmen Bades
+eine allgemeine geworden &2014; wer hindert, das erwärmte Badewasser
+jeder Familie in die Badestube durch Druckröhren zu fördern? Ja,
+daß die winterliche Heizung einer ganzen Stadt &2014; wie jetzt ganzer
+Häuser &2014; mehr oder minder centralisirt werden kann, unterliegt
+keinem Zweifel usw. Solche Centralversorgungen liefern das Be-
+gehrte unzweifelhaft billiger als es durch die Einzelbereitung ge-
+schieht, und sie sind darum, für sich genommen, nützlich. Wenn es
+nun gar einmal dahin käme, daß das Dienstbotenverhältniß als eine
+<cb>
+moderne Sclaverei angesehen wird &2014; was gar nicht so fern liegt &2014;,
+und daß die Hausarbeit der Dienstboten als geradezu unsittlich be-
+zeichnet wird, wie es die Nähmaschinenverkäufer thun, wenn sie von
+der Handarbeit des Nähens und des Strickens reden, so ist weiterer
+und weitester Entwicklung, wie angedeutet, Thor und Thür geöffnet.
+Man darf sich dann vielleicht vorstellen, daß der wesentlichste
+Bestandtheil einer menschlichen Wohnung eine Wand mit Hähnen
+ist, die geöffnet, mit Knöpfen, die gedrückt werden. Großes und
+Gewaltiges ist es zweifelsohne, was solchergestalt geschaffen werden
+kann &2014; aber ich meine, es kommt nicht darauf an und ist nicht
+unser Lebenszweck, daß wir Großes und Gewaltiges <g>schaffen;</g>
+sondern daß wir, wenn möglich, selbst groß und gewaltig <g>seien,</g>
+und <g>dieses</g> Ziel erreicht der Weg, der die <g>Eigenart</g> schafft und
+erhält, der davor bewahrt, in heerdenhafte Allgemeinheit zu versinken,
+der uns mehr unserem eigenen geistigen und wirthschaftlichen Ge-
+staltungstrieb überläßt. Dann möchten wir leichtlich unsere Auf-
+gabe als Mensch vollkommener erfüllen als die, denen der geistige und
+physische Bedarf durch centrale Versorgungsleitungen zugeführt wird.</p>
+<p>Und so sei gesagt, daß wir das Wachsthum großer Städte &2014;
+Weltstädte &2014;, wenn wir es auch nicht hindern dürfen und ganz
+sicher auch nicht können, doch nicht als ein Ziel ansehen sollten,
+dem wir durchaus zustreben müßten. Die wachsende Schwierigkeit
+bei Unterbringung der Versorgungsnetze ist doch nur <g>eine</g> der vielen
+Sorgen, welche das riesenhafte Anwachsen der Großstädte ehrlichen
+Verwaltungen bereiten wird und schon bereitet.</p>
+<p>Nehmen aber die Großstädte auch ferner intensiv und extensiv
+noch in ihrem Wachsthum zu, dann wird der Tag kommen, wo den ge-
+bieterischen Forderungen der Versorgungsnetze gegenüber außer den
+Bürgersteigen die Straßendämme für die Versorgungsnetze Preis ge-
+geben werden müssen, und dann hat das Definitivum der Straßendamm-
+Befestigung ein Ende! Aber ehe dieser Augenblick eintritt, wird sich
+gewiß schon herausgestellt haben, daß Subways, wo solche ausgeführt
+sind, trotz weitgegriffenster Bemessung, den wachsenden Ansprüchen
+nicht mehr zu genügen vermögen. Und dieses möchte ich dann für
+das Bedenklichere halten.</p>
+<p><et><g>Hobrecht.</g></et></p>

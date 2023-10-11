@@ -1,0 +1,1229 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b><g>ANNALEN</g></b>
+DER
+<b>PHYSIK UND CHEMIE.</b>
+<g>NEUE FOLGE</g>.
+<b>BAND V.</b></front>
+<pb>
+<pb>
+<front><b><g>ANNALEN</g></b>
+DER
+<b>PHYSIK UND CHEMIE.</b>
+<g>NEUE FOLGE</g>.
+<b>BAND V.</b>
+DER GANZEN FOLGE ZWEIHUNDERT EINUNDVIERZIGSTER.
+<g>UNTER MITWIRKUNG</g>
+DER PHYSIKALISCHEN GESELLSCHAFT IN BERLIN
+UND INSBESONDERE DES HERRN
+H. <g>HELMHOLTZ</g>
+HERAUSGEGEBEN VON
+<b>G. <g>WIEDEMANN</g>.</b>
+NEBST DREI FIGURENTAFELN.
+LEIPZIG, 1878.
+VERLAG VON JOHANN AMBROSIUS BARTH.</front>
+<pb>
+<pb>
+<con><c><g>Inhalt</g>.</c>
+<c><g>Neue Folge. Band</g> V.</c>
+<hr>
+<c><b>Neuntes Heft</b>.</c>
+Seite
+I. W. <g>Beetz</g>. Ueber die Electricitätserregung beim Contact
+fester und gasförmiger Körper _ _ 1
+II. E. <g>Dorn</g>. Ueber die galvanischen Ströme, welche beim
+Strömen von Flüssigkeiten durch Röhren erzeugt werden _ _ 20
+III. G. <g>Wiedemann</g>. Ueber die Dissociation der gelösten
+Eisenoxydsalze _ _ 45
+IV. L. <g>Hermann</g>. Versuche über das Verhalten der Phase
+und der Klangzusammensetzung bei der telephonischen
+Uebertragung _ _ 83
+V. A. <g>Winkelmann</g>. Ueber die Abweichung einiger Gase
+vom Boyle&2019;schen Gesetze bei 0° und 100° _ _ 92
+VI. Ph. <g>von Jolly</g>. Die Anwendung der Waage auf Probleme
+der Gravitation _ _ 112
+VII. J. <g>Fröhlich</g>. Ein neuer Satz in der Theorie der Diffrac-
+tion und dessen Anwendung _ _ 134
+VIII. E. <g>Wiedemann</g>. Ueber die Beziehung zwischen Refrac-
+tionsäquivalent und Weglänge _ _ 142
+IX. H. <g>Fritsch</g>. Ueber die Erregung der Electricität durch
+Druck und Reibung _ _ 143
+<c><i>Geschlossen am 5. August 1878</i>.</c>
+<pb="VI"/>
+<kt><i>Inhalt</i>.</kt>
+<c><b>Zehntes Heft</b>.</c>
+Seite
+I. F. <g>Narr</g>. Ueber das Verhalten der Electricität in ver-
+dünnten Gasen _ _ 145
+II. A. L. <g>Holz</g>. Ueber die Coercitivkraft des Magneteisen-
+steines und des glasharten Stahles _ _ 169
+III. F. <g>Braun</g>. Ueber die Electricitätsentwickelung als Aequi-
+valent chemischer Prozesse _ _ 182
+IV. V. <g>Strouhal</g>. Ueber eine besondere Art der Tonerregung _ _ 216
+V. K. R. <g>Koch</g>. Ueber die Bestimmung des Elasticitäts-
+co&00EB;fficienten aus der Biegung kurzer Stäbchen _ _ 251
+VI. R. <g>Schneider</g>. Bemerkungen, das Atomgewicht des An-
+timons betreffend _ _ 265
+VII. L. <g>Ditscheiner</g>. Ueber den galvanischen Widerstand
+eines ebenen Ringes _ _ 282
+VIII. H. <g>Haga</g>. Erwiderungen auf Hrn. Prof. Edlund&2019;s &201E;Be-
+merkungen über die beim Ausströmen der Flüssigkeiten
+durch Röhren entstehende electromotorische Kraft&201C; _ _ 287
+<c><i>Geschlossen am 1. October 1878</i>.</c>
+<c><b>Elftes Heft</b>.</c>
+I. F. <g>Auerbach</g>. Der Durchgang des galvanischen Stromes
+durch das Eisen _ _ 289
+II. C. <g>Fromme</g>. Magnetische Experimentaluntersuchungen _ _ 345
+III. F. <g>Exner</g>. Ueber die galvanische Polarisation des
+Platins in Wasser _ _ 388
+IV. A. <g>Ritter</g>. Untersuchungen über die Höhe der Atmo-
+sphäre und die Constitution gasförmiger Weltkörper _ _ 405
+V. F. <g>Kolá&010D;ek</g>. Ueber den Einfluss des capillaren
+Oberflächendruckes auf die Fortpflanzungsgeschwindig-
+keit von Wasserwellen _ _ 425
+VI. L. <g>Boltzmann</g>. Zur Theorie der elastischen Nachwir-
+kung _ _ 430
+<c><i>Geschlossen am 8. November 1877</i>.</c>
+<pb="VII"/>
+<kt><i>Inhalt</i>.</kt>
+<c><b>Zwölftes Heft</b>.</c>
+Seite
+I. F. <g>Niemöller</g>. Electrodynamische Versuche mit defor-
+mirbaren Stromleitern _ _ 433
+II. H. <g>Helmholtz</g>. Telephon und Klangfarbe _ _ 448
+III. R. <g>Nahrwold</g>. Ueber die Luftelectricität _ _ 460
+IV. E. <g>Wiedemann</g>. Untersuchungen über die Natur der
+Spectra (1. Theorie. 2. Spectra gemischter Gase) _ _ 500
+V. D. J. <g>Korteweg</g>. Ueber die Fortpflanzungsgeschwindig-
+keit des Schalles in elastischen Röhren _ _ 525
+VI. A. <g>Ritter</g>. Untersuchungen über die Höhe der Atmo-
+sphäre und die Constitution gasförmiger Weltkörper _ _ 543
+VII. R. <g>Rühlmann</g>. Ableitung der Formeln für Messungen
+der Meerestiefen mit Hülfe des Manometers _ _ 558
+VIII. E. <g>Wundt</g>. Krystallographische Untersuchungen des
+Methenylorthophenylendiamins _ _ 566
+IX. A. <g>Sadebeck</g>. Optische Untersuchung der Krystalle des
+Methenylorthophenylendiamins _ _ 572
+X. A. <g>Sadebeck</g>. Krystallform der Salicylsäure _ _ 574
+XI. A. <g>Sadebeck</g>. Zwei neue regelmässige Verwachsungen
+verschiedener Mineralien _ _ 576
+Berichtigungen _ _ 580
+Namenregister zum Jahrgang 1878 _ _ 581
+<c><i>Geschlossen am 1. December 1878</i>.</c></con>
+<hr>
+<pb="216"/>
+<kt><i>V. Strouhal</i>.</kt>
+<d1>IV. <b><i>Ueber eine besondere Art der Tonerregung;
+von Dr. V. Strouhal</i></b>.</d1>
+<p><c>(Vorgetragen in der physikalisch-medicinischen Gesellschaft in Würzburg,
+am 16. Februar 1878. <fn="1)">Vgl. Sitzungsber. 1878.</fn></c></p>
+<hr>
+<d2>§. 1. <g>Einleitung</g>.</d2>
+<p><in>D</in>ie sämmtlichen, bis jetzt untersuchten Fälle, in denen
+eine Tonbildung stattfindet, lassen sich je nach der Art
+und Weise, in welcher periodische Luftbewegung angeregt
+wird, auf zwei Hauptarten der Tonerregung zurückführen.</p>
+<p><g>Erstens</g> können nämlich periodische Lufterschüt-
+terungen auf mechanische Weise, also durch regelmässig
+und hinreichend rasch aufeinander folgende Schläge, Stösse
+u. s. w. erzeugt werden. Hieher gehören also die Töne
+der Savart&2019;schen Sirenen, der Sirene von Seebeck und
+Cagniard la Tour, die Trevelyan&2019;schen Töne u. s. w.</p>
+<p><g>Zweitens</g> kann ein Ton dadurch erzeugt werden,
+dass ein in bestimmter Weise begrenzter Körper durch
+äussere Anregung in eigenartigen Bewegungszustand, näm-
+lich in stehende Schwingungen versetzt wird und in diesem
+Zustande die periodischen Lufterschütterungen veranlasst.
+Hierzu eignen sich in erster Reihe elastische Körper,
+sowohl feste als gasförmige, weniger die fast unelastischen
+tropfbaren Körper. Hierher gehören also Töne von Stimm-
+gabeln, Glocken, Scheiben, Platten, Stäben, gespannten
+Drähten und Saiten, Töne der chemischer Harmonica,
+schliesslich Töne sämmtlicher musikalischer Instrumente,
+bei denen ausserdem oft tönende feste Körper und mit-
+tönende Luftmassen in mannigfaltiger Weise combinirt
+vorkommen.</p>
+<p>Den Gegenstand der vorliegenden Arbeit bildet nun
+eine <g>dritte</g> Art der Tonerregung und zwar von allen die
+einfachste, eine Art, welche zwar im Principe nicht un-
+<pb="217"/>
+<kt><i>V. Strouhal</i>.</kt>
+bekannt, jedoch einer Untersuchung bis jetzt nicht unter-
+zogen wurde. Es ist bekannt, dass durch rasches Schwingen
+eines Stabes, einer Klinge, einer Peitsche u. a. in der Luft
+ein Ton entsteht; nicht weniger bekannt sind auch die
+hieher gehörigen Töne, die durch Luftströmungen an aus-
+gespannten Drähten, scharfen Kanten, Spalten u. dergl.
+entstehen. Töne dieser Art, die aus später anzuführenden
+Gründen am passendsten als <g>Reibungstöne</g> zu bezeichnen
+sind, bilden den Gegenstand vorliegender Untersuchungen.
+In der That können sie in keine der beiden oben an-
+geführten Kategorien eingereiht werden, vielmehr kommt
+hier die periodische Luftbewegung in einer besonderen,
+eigenartigen Weise zu Stande.</p>
+<d2>§. 2. <g>Bedingungen für die Reinheit der Reibungstöne</g>.</d2>
+<p>Schon die einfachsten hieher gehörigen Versuche
+führen zur Kenntniss der Bedingungen, welche erfüllt
+werden müssen, wenn der in oben erwähnter Weise ent-
+stehende Ton ein reiner sein soll. Schwingt man einen
+Stab durch die Luft, so entsteht ein Ton; seine Höhe ist
+jedoch keine bestimmte, sondern durch die <g>Geschwindig-
+keit</g> bedingt, mit welcher der Stab durch die Luft geführt
+wurde. Daraus ergibt sich aber sofort, dass der so erhaltene
+Ton kein reiner sein kann, wenn nicht alle Theile des Stabes
+mit gleicher Geschwindigkeit durch die Luft geführt werden.
+Mit anderen Worten: Die Bewegung des Stabes muss eine
+Translationsbewegung sein. Diese Bedingung für die Rein-
+heit des Tones ist jedoch keine hinreichende. Wiederholt
+man den Versuch mit Stäben verschiedenen <g>Querschnittes</g>,
+so überzeugt man sich ebenso, dass unter sonst gleichen
+Umständen der Ton mit dem Querschnitte des Stabes sich
+ändert. Welchen Einfluss also die äussere Formbeschaffen-
+heit des Körpers auf den bei seiner Translationsbewegung
+in der Luft entstehenden Ton auch sonst haben mag, so
+viel steht fest, dass der Ton nur dann ein reiner, ein ein-
+facher sein kann, wenn bezüglich der Bewegungsrichtung
+<pb="218"/>
+<kt><i>V. Strouhal</i>.</kt>
+der Querschnitt des Körpers überall derselbe ist. Mit
+anderen Worten: Der Körper muss ein cylindrischer sein.</p>
+<p>Ob nun die beiden Bedingungen, die wir so als noth-
+wendig für die Reinheit und Einfachheit des Tones erkannt
+haben, dafür auch hinreichend sind, insbesondere, ob die
+Richtung der Translationsbewegung, welche wir als ver-
+schieden von der Axenrichtung des cylindrischen Körpers
+annehmen, eine constante sein muss oder auch variabel
+sein kann, ob also der Körper sich stets mit derselben
+Fläche voran bewegen muss, lässt sich vorläufig nicht ent-
+scheiden, da dies von der Frage abhängt, ob die Form
+oder die Grösse des Querschnittes Einfluss auf die Ton-
+höhe ausüben.</p>
+<p>Eine länger andauernde Translationsbewegung, wie
+solche zu praktischen Versuchen wünschenswerth ist, lässt
+sich jedoch nicht so einfach herstellen, dagegen sehr ein-
+fach eine Rotationsbewegung; diese letztere, falls sie die
+erstere vertreten darf, muss dann um eine Axe stattfinden,
+welche der Axe des cylindrischen Körpers parallel und von
+derselben hinreichend entfernt ist.</p>
+<p>Die höchst einfache, dieser Ueberlegung entsprechende
+Vorrichtung, deren ich mich bei vorliegender Untersuchung
+bediente, zeigt schematisch Taf. II Fig. 3 an. Eine vertical
+stehende Holzsäule <i>K</i> ist unten an eine mit einer Rinne
+versehene Holzscheibe <i>s</i> befestigt, mittelst welcher sie durch
+ein Schwungrad <i>S</i> in rotirende Bewegung versetzt werden
+kann.</p>
+<p>Die Säule <i>K</i> trägt zwei gegeneinander verschiebbare
+Arme <i>A</i>, die zur Aufnahme des in der Luft zu bewegen-
+den festen Körpers <i>M</i> dienen.</p>
+<p>Die vorliegenden ersten Mittheilungen über den an-
+geführten Gegenstand beschränken sich auf cylindrische
+Körper im engeren Sinne des Wortes, also auf die <g>kreis-
+förmig</g> cylindrischen. Grösstentheils waren es Drähte ver-
+schiedener Sorte, daneben auch Glasstäbe und Glasröhren,
+die bei den nun folgenden Versuchen als zu dem Zwecke
+am geeignetsten angewandt wurden.</p>
+<pb="219"/>
+<kt><i>V. Strouhal</i>.</kt>
+<d2>§. 3. <g>Beobachtungsverfahren</g>.</d2>
+<p>Behufs einer mehr orientirenden und nur qualitativen
+Voruntersuchung wurden zwischen zwei Scheiben, die ur-
+sprünglich an Stelle der beiden Arme <i>A</i> mit der Säule <i>K</i>
+fest verbunden waren, einige Drähte nacheinander aus-
+gespannt, parallel der Axe der Säule <i>K</i>. Beim Drehen
+des Schwungrades entstand ein ziemlich klarer pfeifender
+Ton, der, bei kleinerer Drehungsgeschwindigkeit schwächer
+und tiefer, beim Anwachsen derselben allmählich stärker und
+höher wurde, in der Weise, dass <g>sowohl dessen Stärke
+als dessen Höhe mit der Drehungsgeschwindigkeit
+continuirlich zunahm</g>. Für einen seitwärts stehenden
+Beobachter trat gleichzeitig als Folge der Bewegung der
+Tonquelle ein merkliches Auf- und Abschweben des Tones
+auf, sowohl in seiner Höhe, dem Doppler&2019;schen Principe ge-
+mäss, als auch in seiner Stärke, welches sich bei mässigerer
+Drehungsgeschwindigkeit mehr in letzterer als in ersterer
+Beziehung geltend machte und, wie natürlich, bei Anwen-
+dung eines Auscultationsrohres in der Verlängerung der
+Holzsäule aufhörte. Auf einer bestimmten Höhe blieb der
+Ton nur bei einer bestimmten gleichmässigen Drehungs-
+geschwindigkeit und jede Ungleichmässigkeit in der letzteren
+zeigte sich sofort durch Aenderung der Tonhöhe in ziem-
+lich empfindlicher Weise an.</p>
+<p>Beim Uebergange von qualitativen zu quantitativen
+Versuchen musste also einer, längere Zeit andauernden
+und innerhalb derselben möglichst gleichmässigen Drehung
+die grösste Aufmerksamkeit zugewendet werden. In Er-
+mangelung eines geräuschlos, gleichmässig und mit will-
+kürlich abzuändernder Geschwindigkeit arbeitenden Motors
+wurde die Drehung mit der Hand ausgeführt; durch längere
+Uebung gelang es, die Drehung des Schwungrades so gleich-
+mässig zu führen, dass der Ton bis auf sehr geringe Schwan-
+kungen auf bestimmter Höhe durch längere Zeitdauer er-
+halten blieb. Doch auch diese Schwankungen selbst wurden
+dadurch möglichst unschädlich gemacht, dass diese Zeit-
+<pb="220"/>
+<kt><i>V. Strouhal</i>.</kt>
+dauer recht gross, nie unter einer Minute, in der Regel zwei
+bis drei Minuten lang gewählt wurde; auf diese Weise durfte
+angenommen werden, dass die im positiven sowohl wie im
+negativen Sinne stattfindenden geringen Schwankungen im
+Mittel sich so aufheben, dass dann die mittlere Tonhöhe
+sehr nahe die bestimmt gewünschte gewesen. In der That
+schien es vortheilhafter eine Tonhöhe bestimmt und den
+Verhältnissen angemessen zu wählen und für diese die ent-
+sprechende Drehungsgeschwindigkeit zu bestimmen als um-
+gekehrt für eine bestimmt gewählte Drehungsgeschwindig-
+keit die entsprechende Tonhöhe festzustellen.</p>
+<p>Die Bestimmungen der Tonhöhe wurden mittelst eines
+Monochords ausgeführt. Dabei wurde als Einheit die Ton-
+höhe einer Stimmgabel &2014; eines Stimm-<i>a</i><do>1</do> &2014; zu Grunde ge-
+legt, deren absolute Tonhöhe <i>n</i> mit einem König&2019;schen
+Phonautographen <i>n</i> = 417 gefunden wurde. Auf diese Ein-
+heit beziehen sich also die Angaben der relativen Ton-
+höhe <i>k</i> des beobachteten Tones, dessen absolute Tonhöhe
+<i>N</i> = 417 . <i>k</i> sich ergibt.</p>
+<p>Um die der beobachteten Tonhöhe entsprechende mitt-
+lere Bewegungsgeschwindigkeit des festen Körpers <i>M</i>
+zu bestimmen, wurde zunächst durch Zählen der Um-
+drehungen des Schwungrades innerhalb einer gleichzeitig
+beobachteten Zeitdauer die mittlere Drehungsgeschwindig-
+keit <i>U</i> des Schwungrades ermittelt; aus dieser ergab sich
+die mittlere Drehungsgeschwindigkeit der Holzsäule durch
+Bestimmung des Verhältnisses der Radien <i>R</i> und <i>r</i> des
+Schwungrades <i>S</i> und der Scheibe <i>s</i>; durch Messung des
+Abstandes <i>L</i> des festen Körpers <i>M</i> von der Axe der Säule
+<i>K</i>&2014; oder vielmehr durch Messung des doppelten Abstandes
+2 <i>L</i>&2014; erhielt man schliesslich die mittlere Geschwindigkeit:
+<formel>
+der Bewegung dieses festen Körpers, welcher die beobachtete
+absolute Tonhöhe <i>N</i> entsprach, in der Luft, deren Tem-
+peratur <i>t</i> und Druck <i>b</i> auch gleichzeitig notirt wurde.</p>
+<pb="221"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Diese so erhaltene Geschwindigkeit <i>V</i> blieb allerdings
+noch mit einem Fehler behaftet, insofern nämlich, als durch
+Drehung der Holzsäule <i>K</i> die dieselbe umgebende Luft
+ebenfalls im gewissen Betrage in Mitbewegung versetzt
+wurde. Dieser Umstand veranlasste auch die Entfernung
+der beiden Scheiben, welche beim Drehen jene Mitbewegung
+der Luft bedeutend unterstützt hatten und aus dem Grunde
+durch die beiden Holzarme ersetzt wurden.</p>
+<p>Was das Verhältniss <formel> betrifft, so war zu erwarten,
+dass für dasselbe nicht das Verhältniss der geometrischen
+Radien der beiden Scheiben genommen werden dürfe, da
+ja die Bewegung des Schwungrades durch eine Schnur,
+deren Spannung nicht constant bleiben konnte, auf die
+Scheibe übertragen wurde. Das Zählen der Umdrehungs-
+anzahl des Schwungrades und der Holzsäule hat nicht nur
+diese Erwartung bestätigt, sondern auch gezeigt, dass das-
+selbe auch für verschiedene Drehungsgeschwindigkeiten ein
+wenig verschieden sich ergibt. Desswegen wurde bei den
+Versuchen dieses Verhältniss für jede zu beobachtende Ton-
+höhe eigens bestimmt und zwar, zur Controle, sowohl zu
+Anfang als auch zu Ende jeder Beobachtungsreihe, und
+der Mittelwerth der Reduction zu Grunde gelegt.</p>
+<d2>§. 4. <g>Unabhängigkeit der Tonhöhe von der Spannung
+des Drahtes</g>.</d2>
+<p>Es war vor Allem wichtig zu entscheiden, ob, bei
+sonst gleichen Umständen, die Spannung des Drahtes einen
+Einfluss auf die Höhe des Reibungstones ausübe, um so
+mehr, als die Ansicht, dass dies der Fall sei, die nächst-
+liegende ist und wohl auch die verbreitetste sein dürfte.
+Zahlreiche Versuche ergaben indessen in unzweifelhafter
+Weise, <g>dass ein solcher Einfluss durchaus nicht
+bestehe</g>.</p>
+<p>Als Beispiel mögen folgende Beobachtungen dienen:</p>
+<p>Ein Kupferdraht von einer Länge <i>l</i> = 0,49 m und
+von einem Durchmesser <i>D</i> = 1,217 mm wurde im Abstande
+<pb="222"/>
+<kt><i>V. Strouhal</i>.</kt>
+<i>L</i> = 0,402 m von der Axe der Säule <i>K</i> ausgespannt. Der
+zur Beobachtung gewählte Ton war die Doppeloctave der
+Stimmgabel, also die relative Tonhöhe <i>k</i> = 4, die absolute
+Tonhöhe <i>N</i> = 1668.</p>
+<p>Die beobachteten Geschwindigkeiten V waren einmal bei
+einfacher Spannung (I. und II.), sodann bei etwa andert-
+halbfacher Spannung (III. und IV.):</p>
+<tab>
+<p>Das Verhältniss <formel> ergab sich vor und nach den Be-
+obachtungen <formel> = 4,104, resp. 4,096.</p>
+<p>Am anderen Tage wurden mit demselben Drahte einige
+weitere Beobachtungsreihen vorgenommen. Der zur Beob-
+achtung gewählte Ton war die Duodecim der Stimmgabel,
+also die relative Tonhöhe <i>k</i> = 3, die absolute Tonhöhe
+<i>N</i> = 1251.</p>
+<p>Der Draht wurde zunächst mit sehr geringer, dann
+mit mehr als doppelter Spannung an den Holzarmen be-
+festigt.</p>
+<p>Die beobachteten Geschwindigkeiten waren:</p>
+<tab>
+<pb="223"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Das Verhältniss <formel> war vor und nach den Beob-
+achtungen <formel> = 4,108, resp. 4,094.</p>
+<p>Nach diesen und vielen anderen ähnlichen Versuchen
+konnte als erstes Resultat der Satz aufgestellt werden:
+<g>Die Höhe des Reibungstones ist von der Span-
+nung des denselben erzeugenden Drahtes unab-
+hängig</g>.</p>
+<d2>§. 5. <g>Unabhängigkeit der Tonhöhe von der Länge des
+Drahtes</g>.</d2>
+<p><g>Ebenso wie die Spannung ist auch die Länge
+des Drahtes nicht von Einfluss auf die Höhe des
+Reibungstones, wohl aber auf dessen Intensität</g>.
+Je länger der ausgespannte Draht, desto stärker ist unter
+sonst gleichen Umständen der Reibungston.</p>
+<p>Als Beispiel, in wiefern die Versuche für die Einfluss-
+losigkeit der Drahtlänge auf die Höhe des Reibungstones
+sprechen, mögen folgende Beobachtungsreihen dienen.</p>
+<p>Ein Kupferdraht von einem Durchmesser <i>D</i> = 1,258 mm
+wurde in einer Entfernung <i>L</i> = 0,340 m von der Axe der
+Holzsäule ausgespannt und zwar betrug dessen Länge bei
+den beiden ersteren Beobachtungsreihen <i>l</i> = 0,75 m, dagegen
+bei den beiden letzteren <i>l</i> = 0,37 m, also ungefähr die Hälfte.</p>
+<p>Der zu Beobachtung gewählte Ton war die Undecime
+der Stimmgabel, also die relative Tonhöhe <i>k</i> = <formel>, die ab-
+solute Tonhöhe <i>N</i> = 1112.</p>
+<p>Die Beobachtungen ergaben folgendes:</p>
+<tab>
+<pb="224"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p><formel> war vor und nach den Beobachtungen 4,097
+und 4,096.</p>
+<p>Die Resultate stimmen also nicht vollkommen überein,
+indem für denselben beobachteten Ton die Geschwindig-
+keit der Bewegung bei grösserer Drahtlänge sich ein wenig
+kleiner herausstellt. Wenn auch das Gewicht der Resul-
+tate der I. und II. Reihe ein grösseres ist als jenes der
+III. und IV. Reihe, was dadurch erklärt wird, dass bei
+den beiden ersteren Reihen der Reibungston intensiver
+und daher genauer zu beobachten war, so ist doch jene
+Nichtübereinstimmung weniger auf Beobachtungsfehler als
+vielmehr auf den Umstand zurückzuführen, dass bei grösserer
+Drahtlänge und also auch bei grösserem Abstande der beiden
+Holzarme voneinander die Luft weniger in Mitbewegung
+versetzt wird als bei kleinerer Drahtlänge.</p>
+<p>Bei allen weiter unten beschriebenen Versuchen wurde,
+wo nicht anders angegeben, die Länge der Drähte ungefähr
+gleich 0,7 m als die passendste gewählt.</p>
+<d2>§. 6. <g>Abhängigkeit der Tonhöhe von der Bewegungs-
+geschwindigkeit des Drahtes</g>.</d2>
+<p>Abgesehen von den Veränderungen, welche in der
+Luftbeschaffenheit durch Schwankungen der Temperatur,
+des Luftdruckes u. a. eintreten und von denen man an-
+nehmen durfte, dass sie, innerhalb der engen Grenzen, in
+denen sie sich unter gewöhnlichen Umständen bei den
+Beobachtungen bewegten, auf diese letzteren einen nur
+secundären Einfluss ausübten, blieben also nur noch zwei
+Grössen zu berücksichtigen, von welchen die Höhe des
+durch Bewegung verschiedener Drähte, oder allgemein,
+verschiedener cylindrischer Körper in der Luft mittlerer
+Beschaffenheit entstehenden Reibungstones als abhängig
+betrachtet werden musste: die Bewegungsgeschwindigkeit <i>V</i>
+und der Durchmesser <i>D</i> jenes cylindrischen Körpers.</p>
+<p>Die Ermittelung des Abhängigkeitsgesetzes, insofern
+dies auf experimentellem Wege möglich, war also das
+nächste Ziel weiterer Versuche.</p>
+<pb="225"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Wir wollen zunächst an die bereits in §. 4 mit-
+getheilten Beobachtungsresultate anknüpfen. Für den
+Durchmesser <i>D</i> = 1,217 mm ergaben sich im Mittel fol-
+gende zusammengehörige Werthe von Bewegungsgeschwin-
+digkeit und Tonhöhe:</p>
+<tab>
+<p>Das Verhältniss <formel> ist also sehr nahe constant, woraus
+sich eine <g>Proportionalität</g> zwischen der Tonhöhe <i>N</i> und
+der Bewegungsgeschwindigkeit <i>V</i> ergeben würde.</p>
+<p>Um vor allem zu prüfen, inwiefern dieses Ergeb-
+niss streng gültig ist, lag der Gedanke am nächsten,
+zwei Drähte von derselben Drahtsorte in verschiedenen
+Abständen <i>L</i> und <i>L'</i> von der Axe der Holzsäule der-
+selben parallel auszuspannen und die beiden Töne <i>N</i> und
+<i>N'</i>, die beim schnellen Drehen gleichzeitig entstehen, zu
+beobachten. Da bei dieser Anordnung <formel> ist, so
+müsste, das Proportionalitätsgesetz <formel> angenommen,
+stets <formel> sein, d. h. die relative Tonhöhe müsste
+von der Drehungsgeschwindigkeit unabhängig sein und dem
+Verhältnisse <formel> entsprechen. Für den Versuch war es
+natürlich am zweckmässigsten, dieses Verhältniss einem
+harmonischen Tonintervalle entsprechend zu wählen, also
+am einfachsten der Octave oder der Quint. Auf diese
+Weise ergab sich, dass in der That das Gesetz der
+Proportionalität zwischen der Tonhöhe <i>N</i> und der Be-
+wegungsgeschwindigkeit <i>V</i> wenn nicht streng, so doch mit
+grosser Annäherung besteht.</p>
+<p>Vollkommen befriedigen konnte der Versuch aus dem
+Grunde nicht, weil die beiden zu vergleichenden Töne,
+besonders wenn das Intervall derselben grösser war, nicht
+mit gleicher Intensität auftraten, wodurch das Urtheil über
+deren Consonanz natürlich erschwert wurde.</p>
+<bs>Ann. d. Phys. u. Chem. N. F. V. 15</bs>
+<pb="226"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Um sich nun von diesem Umstande unabhängig zu
+machen, wurde an die Holzscheibe eine Sirene von
+Pappe mit einer zweckmässig gewählten Löcheranzahl be-
+festigt und ein Draht von passendem Durchmesser in
+einem solchen Abstand von der Holzsäule angebracht,
+dass bei einer bestimmten mässigen Geschwindigkeit der-
+selbe Reibungston auftrat, wie wenn die Sirene angeblasen
+wurde.</p>
+<p>Bei gesteigerter Umdrehungsgeschwindigkeit blieb die
+Identität beider Töne in der That wesentlich ungeändert,
+man konnte jedoch beobachten, dass der Reibungston bei
+wachsender Drehungsgeschwindigkeit dem Sirenentone ein
+wenig vorauseilte, ein Umstand, der entweder auf eine nicht
+vollständige Gültigkeit des Proportionalitätsgesetzes zurück-
+zuführen wäre, oder aber, bei Annahme desselben, darauf
+hinweisen würde, dass die Luft verhältnissmässig weniger
+bei grösseren als bei kleineren Drehungsgeschwindigkeiten
+in Mitbewegung versetzt wird.</p>
+<d2>§. 7. <g>Beobachtungsresultate</g> I.</d2>
+<p>Nach diesen mehr qualitativen Versuchen wurden die
+quantitativen wiederum aufgenommen und fortgesetzt. Die
+Resultate derselben sind weiter unten in übersichtlicher
+Zusammenstellung, geordnet nach dem Durchmesser <i>D</i> des
+angewandten cylindrischen Körpers mitgetheilt. Wie früher
+bedeutet <i>L</i> den Abstand dieses cylindrischen Körpers von
+der Axe der Holzsäule, <i>V</i> den aus 10 Beobachtungen be-
+rechneten Mittelwerth derjenigen Geschwindigkeit, bei wel-
+cher der Reibungston von der relativen Höhe <i>k</i> und von
+der absoluten <i>N</i> entsteht; gleichzeitig folgt auch das Ver-
+hältniss <formel>, berechnet zur Beurtheilung der Gültigkeit des
+Proportionalitätsgesetzes zwischen Tonhöhe <i>N</i> und Bewe-
+gungsgeschwindigkeit <i>V</i>.</p>
+<tab>
+<pb="227"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<bs>15 *</bs>
+<pb="228"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<p>Der mittlere Durchmesser <i>D</i> der angewandten Drähte
+wurde durch Wägung bestimmt; dabei wurde als speci-
+fisches Gewicht bei Messingdrähten 8,4, bei Kupferdrähten
+8,9 angenommen; der Fehler der Bestimmung dürfte also
+selten ein Procent übersteigen. Bei den dickeren Glas-
+stäben und Glasröhren wurde <i>D</i> durch Volumenmessung
+ermittelt, indem der Körper bis zu einer bestimmten Länge
+in eine gewogene Menge Quecksilber oder Wasser einge-
+taucht und die Gewichtsabnahme derselben bestimmt wurde;
+um aber auch den Einfluss eines nicht vollkommen kreis-
+förmigen Querschnittes derselben zu eliminiren, wurden
+ihnen bei der Beobachtung zwei um 90° voneinander ver-
+schiedene Stellungen ertheilt und das Mittel aus den bei-
+den für jede Stellung erhaltenen Werthen der Bewegungs-
+geschwindigkeit als dem beobachteten Reibungstone ent-
+sprechend angenommen.</p>
+<p>Sämmtliche Beobachtungen wurden bei der gewöhn-
+lichen, zwischen 16° und 20° schwankenden Zimmertem-
+peratur angestellt.</p>
+<d2>§. 8. <g>Folgerungen</g>.</d2>
+<p>Auf Grundlage der im vorigen Paragraphen mitge-
+theilten Beobachtungen ist man wohl berechtigt, innerhalb
+der Grenzen, in denen sie sich bewegen, zwischen der Be-
+wegungsgeschwindigkeit <i>V</i> und der Tonhöhe <i>N</i> das Gesetz
+<pb="229"/>
+<kt><i>V. Strouhal</i>.</kt>
+der Proportionalität anzunehmen. Allerdings zeigt sich
+im ganzen bei einem bestimmten Werthe von <i>D</i> in dem
+Verhältnisse <formel> ein Gang, indem dasselbe mit wachsen-
+der Geschwindigkeit <i>V</i> ebenfalls ein wenig zunimmt. Ausser-
+dem ist nicht zu leugnen, dass die Bewegungsgeschwindig-
+keit <i>V</i> innerhalb Grenzen variirt, die weniger weit, als es
+wünschenswerth wäre, voneinander entfernt sind. Dies ist
+jedoch in der Natur der Sache selbst begründet. Es wurde
+bereits früher erwähnt, dass der Reibungston mit abneh-
+mender Geschwindigkeit <i>V</i> nicht nur an Höhe, sondern
+auch an Intensität abnimmt; diese letztere ist bei Ge-
+schwindigkeiten, welche unter 5<formel> liegen, schon so gering,
+dass eine Beurtheilung der Tonhöhe mit jener Sicherheit,
+wie solche nöthig ist, nur sehr schwer, und unter 3<formel> gar
+nicht möglich ist. Auf der andern Seite konnte man aber
+mit der Drehungsgeschwindigkeit wegen der zunehmenden
+Centrifugalkraft und der dadurch entstehenden unvermeid-
+lichen Geräusche auch nicht über eine gewisse Grenze
+hinausgehen. Jedenfalls ist man aber vollkommen berech-
+tigt, jenes Proportionalitätsgesetz als erste Annäherung
+gelten zu lassen, um so mehr, als der Gedanke nahe liegt,
+die in den Beobachtungen auftretenden Abweichungen von
+demselben durch den Einfluss einer Mitbewegung der Luft
+zu erklären.</p>
+<p>Sieht man nun von diesen Abweichungen gänzlich ab
+und nimmt den Mittelwerth der einzelnen Werthe <formel> als
+dem betreffenden Durchmesser <i>D</i> des Drahtes entsprechend
+an, so ist dieser Mittelwerth desto grösser, je kleiner
+der Durchmesser und beide ändern sich in der Weise,
+dass ihr Product nahezu dasselbe bleibt, unabhängig
+von der Substanz des betreffenden cylindrischen Kör-
+pers. In der That, nimmt man für <i>D</i> dieselbe Längen-
+einheit an wie für <i>V</i> und berechnet zu jedem Mittelwerthe
+<formel> das Product <i>D</i><formel>, so erhält man:</p>
+<pb="230"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<p>Aus dieser Zusammenstellung ist ersichtlich, dass zu-
+nächst die Substanz des cylindrischen Körpers ohne Ein-
+fluss auf den Reibungston ist, sowie ferner, dass man in
+der That mit grosser Wahrscheinlichkeit das Gesetz der
+umgekehrten Proportionalität zwischen <i>D</i> und <formel> anneh-
+men und somit <i>D</i><formel> = <i>C</i> setzen darf. Wenn auch ein-
+zelne Werthe des Productes <i>D</i><formel> etwas mehr von dem
+Mittelwerthe <i>C</i> = 0,185 abweichen, so zeigt sich doch in
+den Abweichungen sämmtlicher Werthe im ganzen kein
+entschiedener Gang, so dass die obige Annahme gewiss
+nicht unberechtigt ist. Und so gelangen wir schliesslich
+mit grosser Annäherung zu dem einfachen Gesetze:
+d. h. <formel>
+<g>Bei einer Translationsbewegung eines kreisför-
+mig cylindrischen Körpers von beliebiger Sub-
+stanz mit einer zu seiner Axe senkrechten Rich-
+tung in der Luft entsteht ein Ton, dessen Höhe
+der Bewegungsgeschwindigkeit direct und seinem
+Durchmesser umgekehrt proportional ist</g>.</p>
+<d2>§. 9. <g>Anwendungen</g>.</d2>
+<p>Aus der zum Schlusse des vorigen Paragraphen auf-
+gestellten Gleichung ergibt sich:
+<formel>
+In dieser Form gibt die Gleichung ein einfaches Mittel
+an, die relative Geschwindigkeit eines cylindrischen Kör-
+pers bei seiner Translationsbewegung in der Luft auf
+akustischem Wege zu bestimmen, sei es, dass der Körper
+in ruhender Luft sich bewegt, oder dass die Luft gegen
+den ruhenden Körper strömt, wie dies z. B. bei Luftströ-
+<pb="231"/>
+<kt><i>V. Strouhal</i>.</kt>
+mungen in der Atmosphäre der Fall ist. Der Reibungs-
+ton, der dann z. B. an den frei ausgespannten Telegraphen-
+drähten vorzüglich zu beobachten ist, gibt durch seine
+momentane Tonhöhe zugleich die momentane Geschwindig-
+keit der Luftströmung an und durch sein Auf- und Ab-
+schweben auch die gleichzeitige Geschwindigkeitsänderung
+derselben. Die an meteorologischen Beobachtungsstationen
+gebrauchten Anemometer geben gerade die momentan wirk-
+lich stattfindende Geschwindigkeit der Luftströmung nicht
+an, sondern nur die einer längeren Zeitdauer entsprechende
+mittlere. Nun ist es allerdings richtig, dass hauptsächlich
+diese als meteorologisches Element von Wichtigkeit ist
+und nicht die momentane; dagegen sind die Maximal-
+geschwindigkeiten der Luftstösse wohl nicht ohne Bedeu-
+tung und Interesse und gerade diese werden, wie bekannt,
+durch Anemographen, insofern sie aus dem durch letztere
+registrirten Luftdrucke berechnet werden können, nur in
+unsicherer Weise ermittelt. Doch auch abgesehen davon,
+eignet sich jene akustische Methode durch ihre Empfind-
+lichkeit und verhältnissmässig grosse Genauigkeit mehr als
+jede andere zum Studium der bei Stürmen in der Atmo-
+sphäre stattfindenden eigenartigen Luftbewegung und könnte
+überdies auch bei manchen physikalischen Versuchen, wo
+es sich um qualitative und quantitative Bestimmungen der
+relativen Bewegungsgeschwindigkeit fester Körper in der
+Luft handelt, mit Vortheil angewendet werden.</p>
+<d2>§. 10. <g>Anregung der Drahttöne durch Reibungstöne</g>.</d2>
+<p>Ich gehe nun zur Besprechung einer Erscheinung über,
+welche wohl in mancher Beziehung zu den interessantesten
+akustischen Erscheinungen gezählt werden darf.</p>
+<p>Wendet man zur Erzeugung der Reibungstöne dünne
+<g>elastische</g> Drähte an und lässt man die Umdrehungs-
+geschwindigkeit langsam und allmählich anwachsen, so be-
+merkt man, dass von den ebenfalls langsam und allmählich
+anwachsenden Reibungstönen einige intensiver vor anderen
+hervortreten. Hält man nun bei solchen mit der Steige-
+<pb="232"/>
+<kt><i>V. Strouhal</i>.</kt>
+rung der Geschwindigkeit an und sucht die eben stattfin-
+dende und dem betreffenden Tone entsprechende möglichst
+gleichmässig einzuhalten, so schwillt der Ton immer mehr
+und mehr an, bis er schliesslich in einen klaren, inten-
+siven übergeht, &2014; es ist der durch den Reibungston ange-
+regte, ihn übertönende <g>Drahtton</g>. Lässt man nun die
+Drehungsgeschwindigkeit wieder allmählich anwachsen, so
+wird der Drahtton immer schwächer und schwächer, bis
+er schliesslich gänzlich erlischt, während der Reibungston
+ihm in der Höhe vorausgeeilt ist. Nach und nach wird
+aber der letztere wieder durch einen Drahtton, &2014; den nächst
+höheren <g>Oberton</g> des ausgespannten Drahtes &2014; verstärkt,
+der wiederum wie der frühere hell und intensiv ertönt,
+wenn man möglichst gleichmässig diejenige Bewegungs-
+geschwindigkeit einhält, welche dem Reibungstone von
+gleicher Tonhöhe entspricht.</p>
+<p>Soll der Versuch gut gelingen, so sind einige Vor-
+sichtsmaassregeln zu beachten. Der Draht muss zunächst
+zwischen zwei scharfen Kanten, am besten Metallkanten,
+ausgespannt sein und zwar der Drehungsaxe möglichst
+parallel. Ausserdem ist es, wenn auch nicht immer noth-
+wendig, so doch stets vortheilhaft, wenn man den Draht,
+bevor man ihn zu dem Versuche anwendet, eine Zeit lang
+durch Anhängen von Gewichten frei spannt, wodurch er
+gedehnt und torsionsfrei gemacht wird. Stellt man dann
+den Versuch in der Weise an, dass man, von einer grösse-
+ren Drehungsgeschwindigkeit ausgehend, dieselbe langsam
+und allmählich abnehmen lässt, so überzeugt man sich,
+dass die Drahttöne, jedesmal durch Reibungstöne von
+gleicher Höhe angeregt, selbst dann klar und intensiv
+ertönen, wenn diese letzteren nur sehr schwach oder schliess-
+lich gar nicht mehr vernehmbar sind. Und so kann man
+eine ganze Reihe von Obertönen des Drahtes, bei dünne-
+ren Drähten bis über 25, sozusagen isolirt und, was beson-
+ders bemerkenswerth ist, beliebig lange und in gleich-
+mässiger Stärke andauernd zur Darstellung bringen, was
+wohl auf keine andere, bis jetzt bekannte Weise möglich ist.</p>
+<pb="233"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Die <g>Intensität</g>, mit welcher die Obertöne des aus-
+gespannten Drahtes auftreten, ist im allgemeinen um so
+grösser, je längere Drähte man anwendet; sonst ist die-
+selbe bei einzelnen Obertönen keineswegs immer gleich.
+Dann und wann kam es vor, dass einige von den Ober-
+tönen nur undeutlich und schwach zu Gehör gebracht
+werden konnten; in der Regel ertönten die allermeisten
+klar und hell, aber darunter wieder einige besonders sonor
+und intensiv. Obertöne letzterer Art traten schon auf,
+wenn der Reibungston ihnen nur nahe kam und tönten
+nach, wenn derselbe ihnen schon beträchtlich vorausgeeilt
+war. Wenn dann zwei so stark auftretende Obertöne von
+höherer Ordnung waren und daher einander nahe lagen,
+so trat der folgende schon auf, wenn der vorhergehende
+noch nachtönte und auf die Weise ertönten sie beide
+gleichzeitig mit ziemlich grosser Intensität nebeneinander,
+so dass es besonderer Aufmerksamkeit im Einhalten rich-
+tiger Drehungsgeschwindigkeit bedurfte, um nur einen von
+beiden durch längere Zeit zur Darstellung zu bringen.
+Dies war natürlich um so schwieriger, je grösser die Ord-
+nungszahl der Obertöne überhaupt gewesen, es übersprangen
+dann dieselben ineinander so leicht oder ertönten zwei, ja
+selbst drei gleichzeitig, so dass unter solchen Umständen
+eine quantitative Beobachtung unmöglich war; gewiss ein
+bemerkenswerthes Beispiel von Uebereinanderlagerung meh-
+rerer schon an und für sich nicht einfachster Schwingungs-
+formen und der so entstehenden Complicirtheit in der
+Schwingungsweise des Drahtes.</p>
+<p>Es ist selbstverständlich, dass ähnliche Erscheinungen,
+wie sie bei Drähten, die in der Luft bewegt werden, auf-
+treten, auch dann sich geltend machen, wenn umgekehrt
+die Luft gegen ruhende ausgespannte Drähte gleichmässig
+ausströmt. Dies ist bei der Aeolsharfe der Fall. Die bei
+derselben stattfindende Tonerregung wird durch die eben
+beschriebenen analogen Erscheinungen in das richtige Licht
+gestellt und auf ihre wahre Ursache zurückgeführt.</p>
+<p>In ähnlicher Weise, wie bei Drähten, wurden die Ober-
+<pb="234"/>
+<kt><i>V. Strouhal</i>.</kt>
+töne auch bei Holzstäbchen von rechteckigem Querschnitt
+beobachtet, und zwar bei diesen früher als bei jenen. Die
+Drähte, welche nämlich bei den §. 7 mitgetheilten Beob-
+achtungen angewandt wurden, waren meistens weiche
+Kupferdrähte; aber auch bei den Messingdrähten wurden
+Eigentöne nicht beobachtet, theils deswegen, weil stets ein
+Ton von bestimmter Höhe gewählt und diesem entspre-
+chend die Drehungsgeschwindigkeit eingehalten wurde,
+theils auch deswegen, weil die Drähte nicht zwischen zwei
+scharfen Kanten ausgespannt waren.</p>
+<p>Es wurde bereits früher erwähnt, dass die Reibungs-
+töne bei Geschwindigkeiten, die unter 5 <formel> liegen, wegen
+ihrer geringen Intensität nur sehr schwach oder gar nicht
+zu beobachten sind. In dem eben besprochenen Princip,
+Drahttöne durch Anregung derselben durch Reibungstöne
+hervorzurufen, liegt nun offenbar ein Mittel, diese letzteren
+selbst in den intensiv auftretenden und, sozusagen, sie ver-
+tretenden Drahttönen zu beobachten und in ihren Be-
+ziehungen zur Bewegungsgeschwindigkeit zu verfolgen. Auf
+diese Weise war es möglich, die früheren Beobachtungs-
+reihen zu erweitern und wesentlich zu vervollständigen.</p>
+<p>In der That gewinnt man durch Verwendung der
+Drahttöne an Stelle der Reibungstöne auch an Genauigkeit
+der Beobachtung. Zunächst lassen sich die <g>Geschwin-
+digkeitsbestimmungen</g> genauer ausführen. Wenn es
+auch richtig ist, dass der Draht, einmal zum intensiven
+Tönen gebracht, selbst dann noch nachtönt, wenn der an-
+regende Reibungston in seiner Höhe dem Drahtton infolge
+einer Aenderung der richtigen Bewegungsgeschwindigkeit
+entweder ein wenig vorausgeeilt ist oder hinter demselben
+ein wenig zurückbleibt, so erkennt man diese Geschwin-
+digkeitsänderung an der Intensität des Drahttones, der
+dadurch etwas gedämpft wird oder schliesslich vollständig
+erlischt. Auch die <g>Tonhöhebestimmungen</g> werden in
+dem Maasse leichter und genauer als der Drahtton klarer
+und intensiver ertönt als der Reibungston.</p>
+<pb="235"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Die im nächsten Paragraphen folgende Zusammen-
+stellung enthält eine Reihe von Beobachtungsresultaten,
+die nach jenem Princip bei verschiedenen Drähten gewon-
+nen wurden. Darin bedeutet <i>V</i> diejenige Bewegungs-
+geschwindigkeit, bei welcher der Oberton von der Ord-
+nungszahl <i>h</i> des ausgespannten Drahtes am intensivsten
+ertönt und zwar ist <i>V</i> der aus fünf einzelnen Bestim-
+mungen berechnete Mittelwerth. Ferner ist <i>N</i> die mit
+Hülfe des Monochords bestimmte absolute Tonhöhe des
+beobachteten Obertones; in der Regel wurde bei dem (ver-
+ticalen) Monochord ein Draht von derselben Sorte ange-
+wandt, wie derjenige war, dessen Obertöne beobachtet
+wurden. Die Tonhöhebestimmungen dürften selten um
+mehr als ein Procent fehlerhaft sein.</p>
+<p>Um die Genauigkeit derselben zu beurtheilen, ist in
+der Columne <formel> aus der absoluten Höhe <i>N</i> des beobach-
+teten Obertones und aus dessen Ordnungszahl <i>h</i>, die nach
+der vor der Beobachtung bestimmten Höhe des Grund-
+tones abgeleitet wurde, diese Höhe berechnet; in der Ueber-
+einstimmung dieser einzelnen Werthe <i>N</i> hat man ein un-
+gefähres Maass für die Genauigkeit der einzelnen Tonhöhe-
+bestimmungen. Einzelne Abweichungen können allerdings
+auch darin ihren Grund haben, dass die Spannung des
+Drahtes infolge von Temperaturschwankungen, insofern
+diese auf die den Draht spannenden Holzarme nicht ohne
+Einfluss sind, oder infolge auftretender grösserer Centri-
+fugalkraft eine Aenderung erleiden konnte. Solche Ab-
+weichungen haben aber natürlich keinen Einfluss auf den
+eigentlichen Zweck der Beobachtungen, weil ja auch die
+Bewegungsgeschwindigkeit, bei welcher ein Reibungston
+von gleicher Höhe wie der Oberton des Drahtes entsteht,
+jenen Abweichungen entsprechend sich ändert. Selbst-
+verständlich wurden die Beobachtungen nicht unmit-
+telbar, nachdem der Draht ausgespannt wurde, vorge-
+nommen, sondern mindestens einen halben Tag später, so
+dass vorausgesetzt werden konnte, dass der Draht sich
+<pb="236"/>
+<kt><i>V. Strouhal</i>.</kt>
+nicht mehr weiter dehnt und dass auch die Holzarme einen
+bestimmten Spannungszustand angenommen haben.</p>
+<p>In der letzten Columne ist schliesslich, wie früher,
+das Verhältniss <formel> berechnet.</p>
+<p>Ausserdem ist unter <i>l</i> die Länge des ausgespannten
+Drahtes mitgetheilt, sowie endlich unter <i>t</i> und <i>b</i><do>0</do> die mitt-
+lere Temperatur und der mittlere Barometerstand während
+der Beobachtung.</p>
+<p>Die mit einem · bezeichneten Zahlen sind der Voll-
+ständigkeit wegen aus den benachbarten durch Interpola-
+tion berechnet; sie konnten nicht durch Beobachtung ge-
+wonnen werden, weil der betreffende Oberton des Drahtes
+zu schwach und matt ertönte, als dass er mit derselben
+Sicherheit wie die übrigen hätte beobachtet werden können.</p>
+<d2>§. 11. <g>Beobachtungsresultate</g> II.</d2>
+<tab>
+<pb="237"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<pb="238"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<pb="239"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<d2>§. 12. <g>Folgerungen</g>.</d2>
+<p>Aus dieser Zusammenstellung ersieht man vor allem,
+dass der Gang, welcher bereits bei den §. 7 mitge-
+theilten Beobachtungen in dem Verhältnisse <formel> auftrat,
+hier nur noch viel entschiedener sich geltend macht, dass
+somit die angenäherte Constanz, welche dieses Verhältniss
+für die grösseren Geschwindigkeiten der früheren Versuche
+besass, bei den geringeren Geschwindigkeiten der dünnen
+Drähte ihre Gültigkeit mehr und mehr verliert. Indessen
+zeigt eine nähere Betrachtung der zusammengehörigen
+Werthepaare von <i>V</i> und <i>N</i>, dass die Zunahme in der
+Tonhöhe ungefähr gleichen Schritt hält mit der Zunahme
+in der Bewegungsgeschwindigkeit. Die Beobachtungsfehler
+treten nicht so stark hervor, wenn man diese Zunahme
+<i>&0394; N</i> und <i>&0394; V</i> in der Weise bildet, dass man die ganze Be-
+obachtungsreihe in zwei Hälften theilt und in bekannter
+Weise die 1. Beobachtung mit der (<i>n</i> + 1) ten, die 2. mit
+der (<i>n</i> + 2) ten u. s. w. combinirt. Berechnet man dann
+das Verhältniss <formel>, so zeigt sich, dass dasselbe mit der
+Geschwindigkeit im ganzen wächst, jedoch stets langsamer
+und allmählicher, so dass man zu der Annahme geneigt
+wäre, dass dasselbe einem Grenzwerthe sich nähert.</p>
+<p>Die folgende Zusammenstellung enthält in den ersten
+3 Columnen zu jedem Durchmesser <i>D</i> den Mittelwerth aus
+<pb="240"/>
+<kt><i>V. Strouhal</i>.</kt>
+den einzelnen Bestimmungen von <formel> angegeben, sowie
+auch deren Product <i>D</i> <formel> berechnet, wobei für den Durch-
+messer <i>D</i> dieselbe Längeneinheit wie für die Geschwindigkeit
+<i>V</i> zu Grunde gelegt ist. Daran schliessen sich in den letz-
+ten drei Columnen die §. 7 mitgetheilten Beobachtungen an.</p>
+<tab>
+<p>Der Gang in dem Producte <i>D</i> <formel> ist jedenfalls be-
+merkenswerth. Bei sehr dünnen Drähten zeigt sich eine
+Zunahme desselben mit dem Durchmesser <i>D</i> in entschie-
+dener Weise an, bei dickeren aber hört diese auf und der
+Werth des Productes schwankt nur noch um einen Mittel-
+werth.</p>
+<p>Um diese verschiedenen Beziehungen, wie sie sich durch
+die Rechnung ergaben, in leichterer und mehr übersicht-
+licher Weise beurtheilen zu können, sind die Beobachtungs-
+resultate der beiden §§. 7 und 11 in Tafel II Fig. 4
+graphisch dargestellt. Als Abscisse ist die Bewegungs-
+geschwindigkeit <i>V</i>, als Ordinate die ihr entsprechende Ton-
+höhe <i>N</i> aufgetragen. Es zeigt sich, dass die Punkte
+(<i>V, N</i>) sich nahezu in Geraden reihen, um so mehr, je
+weiter sie sich vom Anfangspunkte der Coordinaten ent-
+fernen, dass jedoch diese Geraden, rückwärts verlängert,
+nicht durch den Anfangspunkt, sondern an diesem vorbei
+verlaufen mit einer um so grösseren Abweichung, je
+grösser ihre Steigung ist. Dadurch erklärt sich, warum
+<formel> im ganzen nur wenig sich ändert und warum auch
+<formel> bei früheren Beobachtungen, dagegen nicht bei späteren
+<pb="241"/>
+<kt><i>V. Strouhal</i>.</kt>
+sich als sehr nahe constant erwiesen hat. In der That
+ist der Gang in <formel> desto kleiner, je grösser der Durch-
+messer <i>D</i> und die Geschwindigkeit <i>V</i> ist, dagegen tritt er
+um so mehr auf, je kleiner diese beiden Grössen sind, was
+eben bei den späteren Beobachtungen der Fall war.</p>
+<p>Da für <i>V</i> = <i>O</i> nothwendig auch <i>N</i> = <i>O</i> angenommen
+werden muss und mithin die Curve, welche die Beziehung
+zwischen <i>N</i> und <i>V</i> graphisch darstellt, den Anfangspunkt
+der Coordinaten enthalten muss, so sind jene Geraden als
+asymptotische Aeste dieser Curve aufzufassen, welche vom
+Anfangspunkte ausgehend, nach und nach ihren Asymp-
+toten sich anschmiegt. Die Steigung tg <i>&03B1;</i> dieser Asymp-
+toten ist um so grösser, je kleiner der Durchmesser <i>D</i> ist.
+Berücksichtigt man nun, dass tg <i>&03B1;</i> um so mehr dem Verhält-
+nisse <formel> gleichkommt, je weiter die Punkte (<i>V, N</i>) liegen,
+aus denen es abgeleitet ist, und dass andererseits das Pro-
+duct <i>D</i> <formel> sich nahezu als constant erwiesen hat, so folgt
+daraus mit grosser Wahrscheinlichkeit, dass allgemein
+<i>D</i> tg <i>&03B1;</i> constant ist und dass bei dünneren Drähten <i>D</i> <formel>
+nur deswegen kleiner sich ergab, weil die Punkte (<i>V, N</i>),
+aus denen <formel> abgeleitet ist, der grösseren Steigung der
+Asymptoten gegenüber nicht hinreichend weit liegen, so
+dass tg <i>&03B1;</i> &gt; <formel> ist.</p>
+<p>Die früher abgeleitete Beziehung:
+<formel>
+wäre dann als nicht der Curve:
+<formel>,
+sondern einer, ihren Asymptoten parallelen und durch den
+Anfangspunkt der Coordinaten gehenden Geraden ent-
+sprechend aufzufassen und die Gleichung der Curve selbst
+in der Form:
+<bs>Ann. d. Phys. u. Chem. N. F. V. 16</bs>
+<pb="242"/>
+<kt><i>V. Strouhal</i>.</kt>
+<formel>
+anzunehmen, so dass:
+<formel>
+und <i>f'</i> (<i>V</i>) eine Function wäre, die mit zunehmender Ge-
+schwindigkeit <i>V</i> einem endlichen positiven Grenzwerthe
+sich nähert.</p>
+<p>Ueber das Auftreten der Function <i>f</i> (<i>V</i>) ist eine
+doppelte Annahme möglich. Entweder ist dasselbe, ganz
+oder zum Theil, durch die Natur der beobachteten Er-
+scheinung selbst begründet, oder es verräth sich in jener
+Function eine andere fremde Erscheinung, die die erstere
+störend beeinflusst. Eine solche ist wirklich vorhanden;
+es ist dies die durch Drehung der Holzsäule, der Holz-
+arme und des Drahtes veranlasste Mitbewegung der Luft.
+Infolge derselben ist die beobachtete Geschwindigkeit <i>V</i>
+stets zu gross, da für die Tonerregung nur die relative
+Geschwindigkeit des Drahtes gegen die Luft maassgebend
+ist, die dann aus der beobachteten Geschwindigkeit <i>V</i> durch
+Subtraction jenes Betrages <i>&03C6;</i> (<i>V</i>) erhalten wird, der auf
+die Mitbewegung der Luft entfällt. Jedenfalls ist also
+<i>&03C6;</i> (<i>V</i>) als Theil in <i>f</i> (<i>V</i>) enthalten; ob aber die beiden
+Functionen identisch sind, kann natürlich aus den Beob-
+achtungen nicht bewiesen werden.</p>
+<p>Dass die Mitbewegung der Luft sich in der That in
+der eben beschriebenen Weise äussert, zeigt sich aus der
+Beobachtungsreihe XIV. Unter sonst gleichen Umständen
+wurden die Beobachtungen einmal bei kleinerer, das an-
+deremal bei grösserer und zur Controle abermals bei der-
+selben kleineren Distanz <i>L</i> des Drahtes von der Drehungs-
+axe angestellt. Es ergaben sich nun sämmtliche Tonhöhen
+grösser bei grösserem und kleiner bei kleinerem Abstande
+<i>L</i>, entsprechend der Mitbewegung der Luft, welche im
+ersteren Falle kleiner ist als im letzteren, und zwar so,
+dass die beiden Geraden, in welche sich in beiden Fällen
+<pb="243"/>
+<kt><i>V. Strouhal</i>.</kt>
+die Punkte (<i>V, N</i>) reihen, einander parallel verlaufen. Es
+ist daher die Annahme nicht unwahrscheinlich, dass die
+Punkte (<i>V, N</i>), falls die Mitbewegung der Luft gar nicht
+vorhanden wäre, sich in Geraden reihen würden, welche
+durch den Anfangspunkt der Coordinaten hindurch gehen,
+so dass dann die Gleichung:
+<formel>
+als der wahre Ausdruck des Gesetzes zu betrachten wäre,
+nach welchem die Höhe des Reibungstones von dem Durch-
+messer des cylindrischen Körpers und dessen Bewegungs-
+geschwindigkeit in der Luft abhängt.</p>
+<p>Ja, es würde dann wieder umgekehrt in der Beobach-
+tung der Reibungstöne ein Mittel liegen, um die Natur
+der Function <i>f</i> (<i>V</i>), die die Mitbewegung der Luft, erzeugt
+durch Drehung eines cylindrischen Körpers um seine eigene
+Axe, darstellt und in welcher <i>L</i> als arbiträre Constante
+enthalten ist, experimentell zu ermitteln und dadurch auf
+den Reibungsco&00EB;fficienten zwischen Luft und festen Kör-
+pern, sowie zwischen den Luftschichten selbst Schlüsse zu
+ziehen, eine Aufgabe, deren Lösung, ursprünglich nicht
+beabsichtigt, späteren Versuchen vorbehalten bleiben muss.
+Aus dem Grunde wurden die Abstände <i>L</i>, bis auf wenige
+Ausnahmen, stets nahe gleich gewählt.</p>
+<d2>§. 13. <g>Einfluss der Temperatur</g>.</d2>
+<p>Die Constante <i>C</i>, welche für die Luft charakteristisch
+ist und deren Werth sich nahe = 0,200 für die mittleren
+Luftverhältnisse ergeben hat, wird, wie schon im voraus
+zu erwarten ist, sich ändern, wenn die Luftbeschaffenheit
+durch Aenderungen im Druck, Temperatur u. s. w. eine
+andere wird.</p>
+<p>Um insbesondere den Einfluss der Temperatur zu
+ermitteln, wurden mit zwei Drähten nacheinander je zwei
+Beobachtungsreihen bei verschiedenen Temperaturen an-
+gestellt.</p>
+<bs>16*</bs>
+<pb="244"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Die Beobachtungsresultate enthält die folgende Zu-
+sammenstellung. Zur Vergleichung sind zu den, bei
+höherer Temperatur beobachteten Tonhöhen <i>N</i> diejenigen
+Tonhöhen <i>N'</i> hinzugefügt, welche man bei derselben Ge-
+schwindigkeit <i>V</i> bei niederer Temperatur beobachtet hätte,
+wie sie durch Interpolation aus den bei dieser niederen
+Temperatur wirklich beobachteten Tonhöhen berechnet
+wurden.</p>
+<tab>
+<pb="245"/>
+<kt><i>V. Strouhal</i>.</kt>
+<tab>
+<p>Durch Vergleichung der beobachteten Tonhöhen <i>N</i>
+für die höhere Temperatur <i>t</i> und der berechneten <i>N'</i> für
+die tiefere Temperatur <i>t'</i>, beide gleichen Geschwindig-
+keiten <i>V</i> gehörig, zeigt sich also, dass bei höherer Tem-
+peratur der Ton ein tieferer wird, ein Resultat, welches
+überraschend ist und die Verschiedenartigkeit dieser Ton-
+erregung anderen gegenüber charakterisirt. Für quan-
+titative Bestimmung dieses Temperatureinflusses kann man
+aus den beiden Beobachtungsreihen keinen Schluss mit
+Sicherheit ziehen und es müssen zu dem Zwecke noch
+weitere Versuche angestellt werden.</p>
+<p>Es mag übrigens nicht unerwähnt bleiben, dass der
+Drahtton, während er unter gewöhnlichen Temperatur-
+verhältnissen klar und intensiv auftritt, bei den höheren
+Temperaturen, unter welchen die Beobachtungen angestellt
+wurden, nicht zu dieser vollen Klarheit und Intensität
+gebracht werden konnte, vielmehr nur matt und gedämpft
+ertönte und schon bei geringen Aenderungen der richtigen
+Umdrehungsgeschwindigkeit vollends erlosch, eine Erschei-
+nung, die wohl im Zusammenhange mit dem bedeutenden
+Einflusse der Temperatur auf die elastische Nachwirkung
+steht.</p>
+<d2>§. 14. <g>Anregung der Pfeifentöne durch Reibungstöne</g>.</d2>
+<p>Der im §. 10 beschriebene Vorgang der Anregung
+der Drahttöne durch Reibungstöne findet eine Parallele
+in der vollkommen analogen Tonerregung bei Pfeifen.
+Bei diesen (Zungenpfeifen ausgenommen) strömt die Luft
+<pb="246"/>
+<kt><i>V. Strouhal</i>.</kt>
+jedesmal gegen eine scharfe Kante, in der Regel aus einer
+spaltförmigen Oeffnung. Dadurch entsteht ein Reibungs-
+ton, dessen Höhe unter sonst gleichen Umständen durch
+die Geschwindigkeit der Luftströmung bestimmt wird und
+mit dieser continuirlich variirt. Man kann diesen Ton
+sehr gut isolirt beobachten, wenn man aus einer spalt-
+förmigen Oeffnung die Luft gegen irgend eine scharfe
+Kante, z. B. Messerschneide u. a. bläst.</p>
+<p>Die in der Pfeife über der scharfen Kante befindliche
+Luftsäule geräth in stehende Schwingungen am leichtesten,
+also, wie man zu sagen pflegt, die Pfeife spricht am besten
+an, wenn der Reibungston von einer Höhe ist, die den
+Dimensionen jener Luftsäule entspricht, gerade so, wie
+auch der Draht in stehende Schwingungen geräth, wenn
+der durch seine Bewegung entstehende Reibungston den
+Dimensionen und der Spannung des Drahtes entspricht.</p>
+<p>Ein Unterschied zwischen der Anregung eines Luft-
+tones und Drahttones besteht allerdings, indem eine Luft-
+säule bedeutend leichter eine ihr zutreffende Schwingungs-
+form annimmt als ein Draht. Nun zeigte sich schon bei
+diesem, dass der Drahtton, besonders wenn derselbe intensiv
+und sonor ertönt, schon dann auftritt, wenn der Reibungs-
+ton ihm in der Höhe nur nahe kommt. Dies ist bei den
+Pfeifen in noch höherem Grade der Fall.</p>
+<p>Wenn es also auch richtig ist, dass die Pfeife dann
+am besten anspricht, wenn der an der Kante entstehende
+Reibungston von derselben Höhe ist wie der Pfeifenton,
+so steht damit die Thatsache nicht in Widerspruch, dass
+die Pfeife auch dann anspricht, wenn man die Geschwin-
+digkeit der Luftströmung beträchtlich vergrössert. Kommt
+aber dabei der Reibungston in seiner Höhe einem Ober-
+tone der Pfeife nahe, so überspringt sofort der frühere
+Pfeifenton in den nächsten Oberton, und auch dieser über-
+springt in seinen nächst benachbarten, wenn die Geschwin-
+digkeit der Luftströmung noch mehr gesteigert wird.</p>
+<pb="247"/>
+<kt><i>V. Strouhal</i>.</kt>
+<d2>§. 15. <g>Theoretisches</g>.</d2>
+<p>Die durch Beobachtungen gewonnenen Gesetze der
+Luftreibungstöne zeigen, dass diese Art der Tonerregung
+in ihrem Wesen von allen sonstigen verschieden sein muss.
+Denn wenn auch die Stärke des Anblasens oder Anschlagens
+eines musikalischen Instrumentes bekanntlich nicht ohne
+Einfluss auf die Tonhöhe ist, so sind diese Einwirkungen
+immer von untergeordnetem Betrage. Hier aber findet, wie
+wir gesehen haben, ein ungefähr gleichmässiges Wachsen
+der Höhe des Reibungstones mit der Bewegungsgeschwin-
+digkeit des denselben erzeugenden festen Körpers statt.
+Demgemäss wird man auf eine Erklärung durch die An-
+regung eines in den räumlichen Verhältnissen begründeten
+Eigentones des festen Körpers von vornherein verzichten
+müssen.</p>
+<p>Wollte man etwa die ringförmige, den Draht um-
+gebende Luftmasse ins Auge fassen, so ist zu beachten, dass
+bei den zu den Beobachtungen angewandten cylindrischen
+Körpern die Dimensionen des Luftringes Tönen entsprechen
+würden, die weit über die Grenze der Wahrnehmbarkeit
+liegen. Ein in der Luft bewegter Draht von beispielsweise
+1 mm Dicke gibt je nach der Geschwindigkeit verschieden
+hohe aber deutlich wahrnehmbare Töne. Eine ringförmige,
+den Draht umschliessende Pfeife von etwa 3 mm Länge,
+also in diesem Falle, bei der einfachsten Schwingungsweise,
+von 3 mm Wellenlänge müsste bei 333 m Schallgeschwindig-
+keit einen Ton von 111000 Schwingungen geben; ihr tiefster
+Ton würde also weit über die Hörgrenze fallen.</p>
+<p>Eine erschöpfende Theorie der Reibungstöne zu geben
+bin ich bis jetzt nicht im Stande. Soviel scheint jedoch
+ausser allem Zweifel zu stehen, dass die Entstehung
+periodischer Luftbewegung bei gleichförmiger Bewegung
+eines festen Körpers in der Luft auf Reibung zurück-
+zuführen ist, sowohl auf die äussere, welche zwischen dem
+festen Körper und den Luftschichten, als auch auf die
+<pb="248"/>
+<kt><i>V. Strouhal</i>.</kt>
+innere, welche zwischen den einzelnen Luftschichten selbst
+stattfindet.</p>
+<p>Wenn ein cylindrischer Körper in der als ruhend
+gedachten Luft aus dem Zustande relativer Ruhe in jenen
+relativer Bewegung übergeht, und zwar, wie wir der Ein-
+fachheit wegen annehmen wollen, in einer gegen seine Axe
+senkrechten Richtung, so ist die nächste Folge dieses
+Ueberganges eine Aenderung der Dichtigkeitsverhältnisse
+in der den Körper umgebenden Luft, es entsteht eine Ver-
+dichtung vor und eine Verdünnung hinter dem Körper.
+Bei der dadurch entstandenen Druckdifferenz wirkt die
+äussere Reibung einem Ausgleiche gegenüber verzögernd,
+und wir können die Wirkung dieser äusseren Reibung
+dahin auffassen, dass ein Ausgleich in den veränderten
+Dichtigkeitsverhältnissen erst dann eintritt, wenn die Druck-
+differenz zu einem gewissen bestimmten Betrage anwächst.
+Dadurch würde längst des Querschnittes des cylindrischen
+Körpers ein discontinuirliches Abreissen der Luft erfolgen
+und zwar in einer Periode, welche jener bestimmten Druck-
+differenz entspricht.</p>
+<p>Auf Grundlage dieser Annahme über die Ursache der
+periodischen Luftbewegung lassen sich nun einige mit den
+Beobachtungen vollkommen übereinstimmende Folgerungen
+ziehen.</p>
+<p>Zunächst ist klar, dass unter solchen Umständen die
+Spannung des cylindrischen Körpers keinen Einfluss auf
+jene periodische Luftbewegung ausüben kann. Die That-
+sache ferner, dass dafür auch die Substanz des cylindrischen
+Körpers gleichgültig ist, würde zu der Folgerung führen,
+dass die äussere Reibung nicht zwischen Körper und den
+äusseren Luftschichten, sondern zwischen diesen und der
+dem Körper innig adhärirenden Luftschicht stattfindet, eine
+Annahme, zu welcher bereits wie bekannt, auch andere über
+äussere Reibung angestellte Versuche geführt haben. Ferner
+sieht man ebenso leicht ein, warum die Länge des cylin-
+drischen Körpers nicht von Einfluss auf die Höhe des
+Reibungstones ist, wohl aber auf dessen Intensität.</p>
+<pb="249"/>
+<kt><i>V. Strouhal</i>.</kt>
+<p>Dagegen ist klar, dass die Dauer der Periode, in
+welcher das Abreissen der Luft längs des Querschnittes
+eines cylindrischen Körpers eintritt, sowohl von der Ge-
+schwindigkeit der Bewegung desselben als auch von dessen
+Durchmesser abhängig ist.</p>
+<p>In ersterer Beziehung wird die bestimmte Druck-
+differenz, bei welcher das Abreissen der Luft unter sonst
+gleichen Umständen eintritt, um so früher erreicht, je
+rascher sich der Körper bewegt, und es wird somit bei
+zunehmender Bewegungsgeschwindigkeit die Dauer jener
+Periode eine kürzere und der Reibungston dadurch ein
+höherer werden.</p>
+<p>In letzterer Beziehung wird bei derselben Bewegungs-
+geschwindigkeit die Druckdifferenz, bei welcher das Ab-
+reissen der Luft längs des Querschnittes des cylindrischen
+Körpers eintritt, eine um so grössere sein müssen, je grösser
+sein Durchmesser ist, also auch die Fläche, von welcher die
+verdichtete Luft abreissen soll, indem mit der Vergrösserung
+der Fläche, an welcher die Luft adhärirt, auch die Kraft
+zunimmt, welche zur Ueberwindung dieser Adhäsion noth-
+wendig ist.</p>
+<p>Wenn dann die Periode, in welcher jenes Abreissen
+stattfindet, von derselben Dauer ist, wie die Periode, in
+welcher der feste Körper, zum Tönen gebracht, schwingen
+würde, so wirkt jenes regelmässig erfolgende Abreissen
+längs des Querschnittes des Körpers wie ein im bestimm-
+ten Tempo wiederkehrender Impuls, der, wenn auch an
+sich schwach, doch in seiner regelmässigen und den Eigen-
+schwingungen des cylindrischen Körpers entsprechenden
+Wiederkehr den Körper zum intensiven Tönen bringen
+kann. Dadurch erklärt sich die Anregung der Eigentöne
+von Drähten, Stäbchen u. s. w. durch Reibungstöne, und
+in ähnlicher Weise die Wirkung derselben auf bestimmt
+begrenzte Luftsäulen, die ebenso durch Reibungstöne zum
+Mittönen gebracht werden.</p>
+<p>Es wurde früher hervorgehoben, dass die Reibungstöne
+mit der Bewegungsgeschwindigkeit des festen cylindrischen
+<pb="250"/>
+<kt><i>V. Strouhal</i>.</kt>
+Körpers nicht nur an Höhe, sondern auch an Intensität
+zunehmen. Auch diese Thatsache lässt sich mit obiger
+Annahme in Uebereinstimmung bringen. Die Stärke der
+Wahrnehmung des Schalles hängt von der Grösse der
+mechanischen Wirkung, d. h. der lebendigen Kraft der
+Bewegung der Luftschichten ab, und diese wird bei der-
+selben Schwingungsamplitude, welche wiederum durch die
+betreffende Druckdifferenz bestimmt wird, um so grösser
+sein, je rascher die Schwingungen vor sich gehen, also je
+höher der Ton wird.</p>
+<p>Die bei verschiedenen Lufttemperaturen angestellten
+Beobachtungen haben gezeigt, dass die Höhe des Reibungs-
+tones unter sonst gleichen Umständen bei zunehmender
+Temperatur abnimmt. Es liegt nun der Gedanke am
+nächsten, dass unter sonst gleichen Umständen der Ton
+bei zunehmender äusserer Reibung ein tieferer wird, indem
+dadurch das Abreissen der Schichten des Mediums ver-
+zögert wird. In der That zeigte sich bei einigen, unter
+Wasser angestellten Versuchen, dass ein daselbst rasch
+geschwungener mässig dicker Stahldraht ebenfalls einen
+Ton erzeugt, aber einen viel tieferen als in der Luft. Nun
+nimmt, wie die Versuche ergeben haben, der Reibungston
+in der Luft mit zunehmender Temperatur ab. Diese That-
+sache wird also auf Grund obiger Annahme zu der Fol-
+gerung führen, dass der äussere Reibungsco&00EB;fficient mit
+der Temperatur zunehme, dass er sich also ebenso ver-
+halte, wie der innere Reibungsco&00EB;fficient, welche Annahme
+in Uebereinstimmung mit der Anschauung ist, dass auch
+die sogenannte äussere Reibung, ebenso wie die innere,
+eine Reibung zwischen den Luftschichten selbst ist, näm-
+lich den äusseren und der dem Körper innig adhärirenden
+Luftschicht.</p>
+<p>Obgleich sich also auf Grund unserer Annahme über
+die Art und Weise der Entstehung der Reibungstöne
+die durch Beobachtung gewonnenen Thatsachen ziemlich
+befriedigend erklären lassen, so dass es wahrscheinlich ist,
+dass durch dieselbe das Wesen der Erscheinung wenigstens
+<pb="251"/>
+<kt><i>K. R. Koch</i>.</kt>
+annähernd erfasst ist, so ist es wohl sicher, dass die Einzel-
+heiten des Vorganges durch jene Annahme keineswegs
+erschöpft sind. Es muss weiteren Versuchen überlassen
+bleiben, den Gegenstand sowohl vom akustischen Gesichts-
+punkte aus weiter zu verfolgen, als auch von dem viel
+wichtigeren, die akustischen Erscheinungen zum Studium
+der Reibungsverhältnisse zu verwenden.</p>
+<p>Die Versuche wurden im physikalischen Laboratorium
+der Universität Würzburg angestellt; ich erfülle hiermit die
+ehrenvolle Pflicht, Hrn. Prof. Dr. F. <g>Kohlrausch</g>, auf
+dessen Anregung die vorliegende Arbeit entstanden, meinen
+tiefgefühlten Dank für seine freundliche Unterstützung mit
+Rath und That auszusprechen.</p>
+<p><g>Würzburg</g>, 10. Mai 1878.</p>
+<hr>
+<pb>
+<pb>

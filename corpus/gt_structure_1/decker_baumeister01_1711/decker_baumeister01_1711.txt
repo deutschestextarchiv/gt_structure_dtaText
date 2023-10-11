@@ -1,0 +1,829 @@
+<pb>
+<front><b><in>F</in>ürstlicher <in>G</in>aumeister/</b>
+Oder:
+<b><aq><in>A</in>RCHITECTURA <in>C</in>IVILIS,</aq></b>
+<in>W</in>ie
+<b><in>G</in>rosser <in>F</in>ürsten und <in>H</in>erren <in>P</in>alläste/ mit ihren <in>H</in>öfen/ <in>L</in>ust-</b>
+<in>H</in>äusern/ <in>G</in>ärten/ <in>G</in>rotten/ <aq>Orangeri</aq>en/ und anderen darzu
+gehörigen <in>G</in>ebäuden füglich anzulegen/ und nach heutiger
+<in>A</in>rt au&sr;zuzieren;
+<b><in>S</in>usamt den <in>G</in>rund-<in>R</in>issen und <in>D</in>urchschnitten/ auch vornehmsten <in>G</in>e-</b>
+mächern und <in>S</in>äälen eine&sr; ordentlichen <in>F</in>ürstlichen
+<in>P</in>allaste&sr;;
+<b><in>E</in>rster <in>T</in>heil/</b>
+<aq>Inventi</aq>rt und gezeichnet/
+Durch
+<in>P</in>aulu&sr; <in>D</in>ecker/ <in>H</in>och-<in>F</in>ürstl. <in>P</in>faltz-<in>S</in>ultzbach. <aq>Architect.</aq>
+Verlegt von
+<in>J</in>eremia&sr; <in>W</in>olff/ Kunsthändler in Augspurg.
+<aq>Cum Gratia &amp; Privilegio Sacr&00E6; C&00E6;s. Maj.</aq>
+<hr>
+<in>A</in>UGSPURG/
+Gedruckt bey Peter Detleffsen/ <aq>Anno M DCC XI.</aq></front>
+<pb>
+<abb>
+<pb>
+<ded><et><in>D</in>enen <in>H</in>och-<in>E</in>delgebohrn-<in>H</in>och-<in>W</in>olgebohrn-
+<in>W</in>ol-<in>E</in>delgebohrn-<in>W</in>ol-<in>E</in>del-<in>G</in>estreng- und
+<in>H</in>ochweisen/</et>
+<b><g><in>H</in>errn <in>J</in>oseph <in>A</in>drian <in>I</in>mhof/</g></b>
+<et>von <in>S</in>pihlberg und <in>O</in>ber-<in>S</in>chwambach/</et>
+<g><in>H</in>errn <in>G</in>ottfried <in>A</in>mmann/</g>
+<et><in>G</in>eeder der <in>R</in>öm. <in>K</in>ayserl. <in>M</in>ajestät <in>R</in>äthen und <in>S</in>tadt-<in>P</in>flegeren.</et>
+<in>H</in>errn <in>J</in>ohann <in>G</in>eorg <in>R</in>ehm/
+<in>H</in>errn <in>J</in>oha&tn; <in>M</in>ilhelm <in>L</in>angenmantel von <in>M</in>estheim/
+<in>H</in>errn <in>F</in>rantz <in>A</in>lbrecht <in>Z</in>ech von <in>D</in>eubach/
+<et><in>F</in>reyherrn von <in>S</in>ultz/ <in>H</in>errn auf <in>H</in>ardt/</et>
+<in>H</in>errn <in>P</in>aul von <in>S</in>tetten/
+<in>H</in>errn <in>M</in>arx <in>C</in>hristoph <in>M</in>elser/
+<et><in>G</in>eheimen <in>R</in>äthen.</et>
+<et>Wie auch</et>
+<in>H</in>errn <in>J</in>ohann <in>J</in>acob <in>I</in>mhof/
+<in>H</in>errn <in>J</in>ohann <in>C</in>hristoph <in>I</in>llsung/
+<in>H</in>errn <in>C</in>hristoph <in>S</in>igmund <in>A</in>mmann/
+<in>H</in>errn <in>J</in>acob <in>B</in>ayern/
+<et><aq>Respect.</aq> verordnet- und <aq>alternier</aq>enden Baumeisteren.</et>
+<et><in>M</in>einen <in>G</in>nädig-hochgeneigt- und <in>G</in>ro&sr;g. gebietenden
+<in>H</in>errn und <in>O</in>bern.</et></ded>
+<pb>
+<cb>
+<d1><in>H</in>och-Edelgebohrne/ <in>H</in>ochwolgebohrner/ <in>W</in>ol-Edel-
+gebohrn-<in>W</in>ol-<in>E</in>dl-<in>G</in>estreng- und <in>H</in>ochweise
+<in>G</in>nädig-<in>H</in>ochgeneigt- und <in>G</in>roßg. gebietende <in>H</in>erren/</d1>
+<p><in>I</in>Ndeme <in>E</in>uer <in>G</in>nad. <in>H</in>ochadl. <in>H</in>errl. <in>G</in>estr. und <in>G</in>roßg. gegen-
+wärtige&sr; <aq>Architectur</aq>-Werck zu <aq>dedicir</aq>en Vorhaben&sr; bin; möch-
+ten mich hieran fast irr und abwendig machen/ jene verächtliche Wor-
+te de&sr; <aq>Martiali&sr;</aq>:</p>
+<p><et><aq>Si duri puer ingenii videtur, Pr&00E6;conem facia&sr; vel <i>Ar-
+chitectum</i>.</aq></et></p>
+<p>Allein/ gleichwie eine&sr; theil&sr; davor gehalten und angemerckt wird/ daß <aq>Martiali&sr;</aq>
+an bemeldtem Orth entweder <aq>comparativè ad arte&sr; sublimiore&sr;,</aq> oder sonst
+<aq>abusivè</aq> rede/ und die rechte und echte Bau-Kunst allda von ihme nicht ver-
+standen werde; also/ und andern theil&sr;/ e&sr; mag auch <aq>Martiali&sr;</aq> damit gemeint
+haben/ wa&sr; er wolle/ so ist diese <aq>noble</aq> Kunst und Wissenschafft schon längst so
+belobt und hoch geachtet/ daß da ich dieselbe jetzo mit vielen Worten zu rühmen/
+mich unternehmen und bemühen würde/ mir nicht unbillich/ wie jenem/ der zu
+<aq>Thebe</aq> den <aq>Herculem Thebanum,</aq> in einer offentlichen Versammlung und
+Rede zu loben/ auffgestanden und angefangen/ zugeruffen werden möchte: <aq>Her-
+culem, (Architecturam) laudaturu&sr; e&sr;, quem (quam) nemo vituperat.</aq>
+Auf diese&sr; hin nun die wahre <aq>Motiv</aq> und Absicht dieser unterthänig-gehorsa-
+men <aq>Dedication,</aq> zu eröffnen und vorstellig zu machen/ so ist selbige keine andere/
+al&sr; diese: daß nehmlich/ da au&sr; dieser meiner werthen Vatter-Stadt so viel
+und mancherley Kunst-Stücke und Schrifften hervor und in die Welt kommen;
+ja eben dieselbe selbst verschiedne Kunst-Gebäu zur Bewunder- und Ergötzung
+<aq>pr&00E6;senti</aq>ert und darstellet; ich auch meine&sr; wenigen Orth&sr;/ in meiner <aq>Pro-
+fession,</aq> kein faul- und müssige&sr; Mit-Glied der Bürgerlichen Gesellschafft zu
+seyn/ durch <aq>Edier</aq>- und Verlegung diese&sr; Werck&sr; <aq>temoigni</aq>ren und zeigen;
+mittelst gegenwärtiger Zuschrifft aber/ meinen <in>H</in>ochgebiethend- und <in>W</in>erthisten
+<in>H</in>erren und <in>O</in>bern/ so vornehmlich die <aq>Disposition, Direction</aq> und Obsicht
+<cb>
+der Gebäuen haben und tragen/ meine unterthänig-auffrichtige <aq>Devotion,</aq>
+Hochachtung und Ergebenheit offentlich beglauben wollen. Und gleichwie ich
+demnach nicht zweiffle/ <in>E</in>uer <in>G</in>nad. <in>H</in>ochadl. <in>H</in>errl. <in>G</in>estr. und <in>G</in>roßg.
+werden diese <aq>patrioti</aq>sch gemeinte Zuschrifft und überreichende <aq>Exemplar</aq>ien/
+mit Stadt-vätterlichen Hulden und Handen auff- und annehmen; also empfehle
+mich auch sonsten zu <in>D</in>ero stät&sr;wührig-hohen Ober-Herrlichen <aq>Propension</aq>
+und <aq>Patrocinanz:</aq> unter Hertz-eyffrigsten Anwunsch/ daß der Allgewaltige
+<in>G</in>Ott/ und <in>H</in>Err Himmel&sr; und der Erden/ nicht nur <in>D</in>ieselbe und <in>I</in>hre
+Hochwerthe Angehörde mit unverrucktem hohen Wolwesen allermildist segnen;
+sondern auch da&sr; gantze Gebäu hiesigen Regiment&sr;- und Burgerlichen Stadt-
+Wesen&sr;/ wiederum in beglückt- und <aq>flori&sr;sant</aq>en Stand zu setzen/ auch darinnen
+biß an&sr; Ende der Welt/ unzerrüttet zu erhalten/ allergnädigst geruhen wolle:
+mit schuldigster <aq>Submission</aq> unau&sr;gesetzt verharrend</p>
+<clos><et><in>E</in>uer <in>G</in>nad. <in>H</in>ochadl. <in>H</in>errl. <in>G</in>estr.
+und <in>G</in>ro&sr;g.</et>
+<et>Unterthänig-tre#-gehorsamer
+Burger:</et>
+<et>Jeremia&sr; Wolff/ Kunsthändler allhier
+in Augspurg.</et></clos>
+<cw><in>E</in>rklä-</cw>
+<pb>
+<cb>
+<hr>
+<d1><in>E</in>rklärung de&sr; <in>T</in>itul-<in>K</in>upffer&sr;.</d1>
+<p><in>D</in>Amit der Geneigte Leser meine Gedancken/ von dem Titul-Kupffer/ so dem gantzen Werck
+voran stehet/ und am ersten in die Augen fället/ nur ein wenig wissen möge/ so stellet sich hier
+die Gottheit für/ mit einer Flamme auf dem Haupt und in Wolcken/ durch eine <aq>Glorie,</aq> sich
+hernieder lassend; in der einen Hand hält sie den Scepter/ al&sr; Regentin der Welt/ benebenst einer
+Tafel/ auf welcher die Abzeichnung eine&sr; Gebäude&sr; zu sehen ist; mit der andern Hand/ überreicht
+Sie der Ihr zur Seiten stehenden <aq>Architectur,</aq> einen Circul und Winckel-Maaß/ anzudeuten/ Sie
+pflantze Ihr hiemit den gehörigen Verstand und Weißheit ein/ allerley Sachen schicklich und zier-
+lich au&sr;zuarbeiten. Die <aq>Architectur</aq> begleitet ein <aq>Geniu&sr;,</aq> tragende ein Wasser-Waage in der
+Hand/ und haltende eine andere Tafel in der Hand/ worauff der Grund-Riß eine&sr; Gebäude&sr; ste-
+het; der <aq>Geniu&sr;</aq> selbst sieht mit seinen Augen auf einen zu seinen Füssen liegenden Quadraten. Die
+Mahlerey/ al&sr; der <aq>Architectur</aq> getreue Gehülffin/ welche die angelegten Wercke und Gebäude an-
+schnlich schmücket und zieret/ kniet neben der <aq>Architectur,</aq> und um sie herum liegen ihre bekandte
+und gewöhnliche Werck-Zeuge. Der Drey-Fuß/ auf welchem besagte Künste/ der Gottheit ein
+wolriechende&sr; Opffer bringen/ zielet dahin/ daß diese edle Künste sich GOtt widmen/ und Ihm zu
+Ehren allerhand Gebäude/ z. E. Tempel/ Schulen/ Altäre u. s. f. auffrichten. Neben dem Drey-
+Fuß findet sich ein alter Mann/ mit einem Spiegel in der Hand/ welcher die kluge Anweisung/
+durch die man zu den Künsten gelangen muß/ vorstellig macht. Hart an ihm kommt die Bild-
+hauer-Kunst hastig herzu gelauffen und herzu geeilet/ und hält in ihren Armen ein <aq>Modell</aq> von ei-
+ner <aq>Statua,</aq> zu bemercken/ daß schöne Gebäude durch die <aq>Statu</aq>en am besten au&sr;geschmückt und le-
+bendig gemacht werden. Zunächst der Gottheit zeigen sich zwey Engel in einer <aq>Glorie,</aq> und tra-
+gen eine Sternen-Crone/ anzudeuten/ die wahren <aq>Virtuos</aq>en erlangten nicht allein in ihrem Leben
+allbereit grosse Ehr und <aq>Estime;</aq> sondern ihr Ruhm bleibe/ nach ihrem Tod/ unsterblich. Noch
+mehr oben folget ein anderer Engel in der <aq>Gloric,</aq> und trägt in einer Hand ein <aq>Cornu-Copi&00E6;</aq> mit
+verschiedenen Früchten; in der andern aber hält er eine guldene Kette/ daran kostbahre <aq>Medail</aq>-
+len hangen/ und geht seine Absicht dahin/ daß wahre <aq>Virtuos</aq>en/ durch ihre Geschicklichkeit grosser
+Herren Gnade erlangen/ und nicht selten Reichthum und Vergnügen sich erwerben. In der Fer-
+<et>ne ist auf der einen Seite/ der Tempel der Ehren/ auf der andern ein Lust-
+Gebäude entworffen.</et></p>
+<hr>
+<d1><b><in>V</in>orrede de&sr;</b> <aq>Inventori&sr;.</aq></d1>
+<sal><in>H</in>ochgeneigter und <in>H</in>ochgeehrter <in>L</in>eser!</sal>
+<p><in>F</in>Ndem die heutige <aq>Civil</aq> Bau-Kunst/ nicht nur bloß und allein/ wie bey ihrem ersten Ursprung
+und vor uralten Zeiten geschchen ist/ auf die unentbehrliche Nothdurfft und auf etwelche
+Bequemlichkeit de&sr; Menschlichen Leben&sr;/ ihr Absehen richtet; sondern sich auch höchsten Fleisse&sr;
+angelegen seyn lässet/ die auffzuführende Gebäude/ in einer netten Zierlichkeit vorzustellen; so thut
+sie diese&sr; Letztere absonderlich/ wann für einen grossen Herrn ein Pallast anzulegen und auffzurich-
+ten ist/ der über Land und Leute zu gebieten hat/ und dessen hoher <aq>Character,</aq> welcher Ihm von
+GOtt dem HErrn beygeleget worden/ auch an der äusserlichen <aq>Magnificence</aq> seine&sr; Staat&sr; und
+Aufführen&sr;/ sich erkenntlich zeiget. Dann weil Regierende Fürsten und Herren/ in allen Stücken/
+vor andern Leuten/ einen grossen Vorzug haben/ so ist nicht&sr; billicher&sr;/ al&sr; daß man Ihnen auch
+solche Wohnungen zurichte/ in denen die Kunst so hoch gestiegen/ um wie hoch Durchleuchtige
+Printzen die übrige Menschen in der Welt/ an Hoheit überstiegen haben. Ob ich mir nun wol
+die ehrgeitzige Gedancken nicht beykommen lasse/ daß ich mich für einen besondern vornehmen und
+au&sr;gelernten Fürstlichen Bau-Meister au&sr;geben wolte/ da ich vielmehr eine Ehre darau&sr; suche/
+wann ich anderer <aq>Virtuos</aq>en und vollkomnere Künstler/ emsigen Nacheyferer mich nennen darff;
+so habe ich mich doch/ auf de&sr; Herrn Verleger&sr; Ansinnen und Ersuchen/ endlich bereden lassen/
+gegenwärtige Einleitung zur <aq>Civil</aq>-Bau-Kunst/ insonderheit hoher Häupter der Welt Palläste
+<cb>
+#chicklich anzulegen/ der Welt mitzutheilen/ mit der redlichen und hoffentlich von allen unparthey-
+ischen für Loben&sr;-würdig zu haltenden <aq>Intention, ut doc#ndo discam,</aq> daß ich noch immer meh-
+rer&sr; zu lernen mich befleisse/ wann ich andern zu dieser hichst-gepriesenen Kunst mich zu einem
+Anweiser darbiete. Der Augenschein wird e&sr; geben/ daß e&sr; nicht alltägliche/ gemeine und über-
+all vorkommende Erfindungen seyn; sondern solche/ in we#hen die Reglen der <aq>Symmetric</aq> so wol/
+al&sr; die Abwechßlung in den Zierathen in Obacht genomnen worden; damit die jenigen/ welchen
+diese&sr; Werck sonderbahr dienen soll/ durchgehend&sr; in ihr#m Vorhaben/ einen zulänglichen Be-
+huff/ und merckliche Erleichterung finden. Im gegenwä#tigen Werck stelle ich vor die Anlegung
+eine&sr; Pallaste&sr;/ welchen ein grosser Herr/ der entweder S#lbsten in seinen Landen Krieg geführet/
+oder der auch nur sonsten eine&sr; gewaltigen Fürsten <aq>Armé# commandi</aq>rt hat/ sich zur Wohnung
+erbauen könte. Ich habe die Mittel-Grösse mit Fleiß ervöhlet/ und den besagten Pallast weder
+allzu groß noch gar zu klein machen wollen/ weil ich mich beduncken lassen/ diese Art komme am
+öfftern und gemeiniglich vor/ und e&sr; seyen die Unkosten/ zu desselben Auffrichtung/ noch wol zu
+bestreiten. E&sr; wird erwehnter Pallast beede&sr; von ausse#/ in seiner <aq>Fa&00E7;ade,</aq> und von innen mit
+seinen vornehmsten Gemächern/ zusamt denen darzu gehörigen <aq>Ornament</aq>en/ auf allen Seiten vor
+Augen geleget; er hat einen Vorhoff/ welcher mit einethalben <aq>Oval</aq>-Rundung/ von eissernen
+Getter-Werck/ eingefasst wird/ und in diese&sr; Vorhoffe&sr; Mitte/ just gegen dem Haupt-Portal
+über/ kommt ein halb-runder Triumph-Bogen/ mit dr#en grossen Thüren oder Durchfahrten/
+zu sehen; die beeden Ecke desselben aber schliessen zwey ge#n einander überstehende grosse Thürne/
+welche mit ihren darauff gesetzten Glocken-Spielen den g#ntzen Vorhoff völlig au&sr;machen. Die
+beeden Seiten-Höffe werden von Säulen und Laub-Vercken/ nach der Dorischen Ordnung/
+umfassct. In deren einen kan man de&sr; Regierenden Pintzen Gemahlin/ nebst ihrem Frauen-
+Zimmer/ <aq>logir</aq>en; in dem andern haben die geheime Rat#&sr;-Cammern/ die <aq>Collegia,</aq> die Cantzley
+mit dem <aq>Archiv</aq> u.s.w. ihren gehörigen und räumlichen Platz. An diesem Pallast befindet sich
+ingleichen ein schöner und grosser Garten/ mit seinen da#u erforderten Gebäuden/ den ich zwar
+bißhero noch nicht im Kupffer vorgestellet; sondern ihn/ mit noch mehr andern Fürstlichen Pallä-
+sten und Lust-Häusern/ biß zu dem Anhang diese&sr; erster Theil&sr; verspahret/ weil ich dem Herrn
+Verleger/ in Herau&sr;gebung diese&sr; Werck&sr;/ nicht länge#erhinderlich seyn wollen/ welche&sr; noth-
+wendig hätte seyn müssen/ wo ich alle&sr;/ wa&sr; in bemeld#m Anhang vorkommen wird/ noch all-
+hier beygefügt hätte. Nach Vollendung und völliger Au&sr;fertigung de&sr; jetzt gleich versproche-
+nen Anhang&sr;/ mache ich mich anheischig/ in dem ander# Theil diese&sr; Werck&sr; einen Königlichen
+Pallast zu <aq>pr&00E6;sentir</aq>en/ und mit demselbigen auf eine gliche Art/ al&sr; in diesem Werck geschehen
+ist/ zu verfahren/ nemlich die unterschiedliche Arten dess#ben/ mit allen Durchschnitten/ Grund-
+Rissen/ vornehmsten Säälen/ und derselbigen anständige Zierathen/ abzubilden; worzu ein An-
+hang kommen soll/ von Triumph-Bögen/ Ehren-Säulen <aq>Castri&sr; dolori&sr; &amp;c.</aq> Hülfft mir GOtt
+weiter/ so soll darnach ein dritter Theil folgen/ der unt#schiedliche Lust-Häuser/ Gärten/ <aq>Oran-
+geri</aq>en/ Grotten und Grotten-Häuser/ mit allem Zugeht/ in sich halten soll. Der vierdte Theil
+soll die Risse von Kirchen und Capellen begreiffen: und #tztlich der fünffte Rath-Häuser/ Schu-
+len/ Spittäle/ <aq>Beurs</aq>en/ Zeug-Häuser/ &rr;c. vor Augen leg#. Der geneigte Leser wird mit seiner
+gütigen <aq>Approbation</aq> meinen Fleiß mercklich ermunter/ und mich zur unverdroßnen Verfer-
+tigung de&sr; Werck&sr; anfrischen: der ich Ihn Göttlicher L#bhut/ und mich seiner guten Gewogen-
+heit bestermassen empfehle.</p>
+<date><et><fr>Nümberg den</fr> 30. <aq>Martii</aq> 1711.</et></date>
+<clos><aq>P.</aq> <in>D</in>ecker/ <aq>Architect.</aq></clos>
+<abb>
+<bs>A</bs><cw><aq>I.</aq> Zum</cw>
+<pb>
+<cb>
+<hr>
+<li><c><aq>I.</aq></c></li>
+<li><in>Z</in>Um Anfang zeiget sich der Grund-Riß unter der Erden/ nemlich da&sr; Keller-Geschoß eine&sr;
+Fürstlichen Pallast&sr;.</li>
+<li><c><aq>II.</aq></c></li>
+<li>Hierauff folget der Grund-Riß v# dem ersten/ oder Boden-Geschoß ausser der Erden.</li>
+<li><c><aq>III.</aq></c></li>
+<li>Nechst diesem kommt der dritte G#und-Riß von dem Haupt- oder Prunck-Geschoß.</li>
+<li><c><aq>IV.</aq></c></li>
+<li>Hier ist ein Auffriß eine&sr; Pallas# an der vördern <aq>Fa&00E7;ade</aq> gegen Mittag/ den ein Printz/
+welcher im Krieg gedienet/ sich könte ba#en lassen.</li>
+<li><c><aq>V.</aq></c></li>
+<li>Allhier ist da&sr; <aq>Perspective</aq> de&sr; vo#igen Pallaste&sr;/ zusamt denen darzu gehörigen Seiten-
+Gebäuden/ mit der grossen <aq>Oval</aq>-runde# freyen Treppen/ auf welcher man mit einer <aq>Carosse</aq> hin-
+auff fahren/ und unten dem <aq>Porticu (G#lerie)</aq> absteigen kan. Die Ordnung an dem Gebäude
+diese&sr; Pallaste&sr; ist Corinthisch. Die Fenster haben durchgehend&sr; doppelte Weite zur Höhe/
+nemlich sie sind 5. Schuh weit/ und 10 Schuh hoch. Die grossen Fenster an dem <aq>Porticu (Ga-
+lerie)</aq> welche in den ersten Saal gehen/ #aben dritthalbmahl/ mit ihren Bogen/ die Weite zu ihrer
+Höhe. Die Einfassung der Fenster ab#/ bekommt ein fünfftheil von der Breite de&sr; Fenster&sr; in
+Lichten. Wiederum die halben oder B#stard-Fenster/ haben vier Theile zur Höhe/ von fünffen
+ihre Breite in Lichten. Man möchte#ben an den Krantz de&sr; <aq>Porticu&sr; (Galerie)</aq> einen grossen
+Schild zur Zierde anhefften/ in welchen#de&sr; innwohnenden Fürsten Nahmen oder Wappen/ von
+etlichen frey schwebenden Sieg&sr;-Bild#n getragen oder gehalten wird. Vornen an/ vor der
+freyen Treppen/ kan man auch de&sr; Für#en <aq>Statuam</aq> zu Pferd/ au&sr; Meßing gegossen/ auf einem
+<aq>Piedestal</aq> auffrichten/ woran unterschie#liche Sclaven gefesselt liegen. Gegen dieser <aq>Statua</aq> über
+könte eine Triumph-Säule kommen/ #elche zwar in diesem gegenwärtigen Auffriß nicht ange-
+deutet/ sondern mit Fleiß au&sr;gelassen w#rden/ damit man dem Gebäude den <aq>Prospect</aq> nicht neh-
+me; man hat sie aber in dem grossen #ß besonder&sr; gezeichnet. An die vier Ecken der Seiten-
+Flügel kämen <aq>Ba&sr;sin&sr;,</aq> mit verschiedenen <aq>#tatuen</aq> von Flüssen. Endlich wäre da&sr; gantze Gebäude
+mit einem grossen Vorhoff/ von einem #eern zierlichen Gatter-Werck einzufassen.</li>
+<li><c><aq>VI.</aq></c></li>
+<li>Nun zeiget sich die Garten-Seit#iese&sr; Pallaste&sr;/ mit dem halben Durchschnitt von allen
+und jeden Stock-Wercken/ benebst den #äulen und Lauben/ durch welche man au&sr; den Gemä-
+chern der drey untersten Stock-Wercke#decket/ zu den Seiten-Gebäuden/ in welchen die Fürstin
+ihre Bewohnung hat/ gelangen kan. #bermahl kan hier zur Zierde/ über den Bogen de&sr; mitt-
+lern grossen Fenster&sr; an dem <aq>Porticu (G#llerie)</aq> eine messinge in Feuer verguldete Taffel/ auf wel-
+cher die Jahr-Zahl zu sehen/ gesetzt wer#n. Und die freye Treppen an mehrgedachtem <aq>Porticu,</aq>
+ist wiederum auch mit etlichen <aq>Ba&sr;sin&sr;</aq> u#d vielen <aq>Statu</aq>en eingefaßt. Der Garte selbst mit seinen
+Lust-Gebäuden ist in diesem Riß nicht #tworffen; er wird aber besonder&sr; in dem Anhang diese&sr;
+ersten Theil&sr; zu sehen seyn.</li>
+<li><c><aq>VII.</aq></c></li>
+<li>Diß ist der Auffriß eine&sr; Seiten-#ebäude&sr;/ mit und neben dem Durchschnitt de&sr; grossen
+Hinter-Hause&sr;.</li>
+<li><c><aq>VIII.</aq></c></li>
+<li>Der Auffriß de&sr; andern Seiten-#bäude&sr; kommt gegenwärtig zum Vorschein/ zusamt al-
+len Gemächern/ wie da&sr; Gebäude gege# Niedergang der Sonnen anzusehen ist. E&sr; ist weiter&sr;
+ein Stück von der Einfassung de&sr; Gar#&sr; angedeutet.</li>
+<li><c><aq>IX.</aq></c></li>
+<li>Anjetzt folget der Grund-Riß de&sr;#rsten Saale&sr;/ in welchen man von der inwendigen gros-
+sen Treppen/ so ein Grund-Riß de&sr; Ha#t-Geschosse&sr; mit <aq>C.D.</aq> der Saal selbsten aber mit <aq>F.</aq> be-
+zeichnet ist/ alsobalden kommt.</li>
+<li><c><aq>X.</aq></c></li>
+<li>In diesem Blat ist vorgestellt die #te Seite de&sr; Saal&sr;/ bey dem Haupt-Eingang/ wo
+man von der grossen Treppe her/ in d#selbigen gelanget. Gleich über dem Eingang sitzet die
+<cb>
+Majestätt/ mit einigen zu ihren Füssen angefesselten Sclaven/ in einer von guldenen Rosen besetz-
+ten Eiche. Ober derselbigen/ an dem gantz verguldten Bogen/ <aq>pr&00E6;sentir</aq>en sich zwey <aq>Genii,</aq> so da
+eine flache im Feuer verguldte Kugel/ mit der Schlangen umwunden/ bey sich haben/ in welcher
+de&sr; Printzen Nahmen gesetzt werden kan. Leichtigkeit halben/ kan man die Säulen von Holtz
+und inwendig hohl machen; dazu möchten sie etwan blau <aq>marmori</aq>rt/ und die Hohl-Kellen/ wie
+auch da&sr; Schafft-Gesimb&sr;/ zusamt dem <aq>Capitello,</aq> mit rothen Metall oder Gold überzogen
+werden. Sonsten werden alle <aq>Ornamenta</aq> diese&sr; Saal&sr; verguldet/ dargegen die <aq>Statu</aq>en, z. E.
+<aq>Hercule&sr;, Palla&sr;, &amp;c. &amp;c.</aq> werden <aq>metallisi</aq>rt/ oder au&sr; weissem Marmor gemacht. Die auffzu-
+hängende Tapeten/ auf welchen der Fürstlichen Ahnen Thaten zu schen/ müssen wie Mahlereyen
+gewürcket/ die Kopffe darüber von Kupffer getrieben/ und im Feuer verguldet seyn. Die Histo-
+rien über denselbigen/ kan man grün in grün mahlen/ und mit Gold auffhöhen. Endlich wird
+der obere Auffsatz gantz und gar von <aq>Strucco</aq> und verguldet/ die Wolcken aber zusamt den Frucht-
+Gehängen/ Vögeln und Decken/ müssen mit natürlichen Farben gemahlet/ und dann letztlich die
+Decken über den Schilden roth und mit Gold eingefaßt werden.</li>
+<li><c><aq>XI.</aq></c></li>
+<li>Allhier ist die andere schmahle Seite de&sr; Saal&sr;/ welche an die Zimmer stößt zu schauen.</li>
+<li><c><aq>XII.</aq></c></li>
+<li>Ferner kommt die dritte Seite de&sr; Saal&sr;/ mit denen Fenstern/ gegen dem Garten zu.</li>
+<li><c><aq>XIII.</aq></c></li>
+<li>Da&sr; <aq>Opti</aq>sche Decken-Stuck/ welche&sr; auf flachen Boden <aq>à fre&sr;que</aq> zu mahlen ist/ und sich
+in seinem Auffriß anjetzo vorstellig macht/ ist etwa&sr; au&sr;führlicher zu beschreiben: E&sr; <aq>pr&00E6;senti</aq>rt
+sich aber zuvörderst auf den Wolcken/ in einer <aq>Glorie,</aq> die Göttliche Allmacht/ von welcher zu-
+gleich/ al&sr; au&sr; dem Mittel-Punct/ da&sr; Licht da&sr; gantze Werck beleuchtet; in der einen Hand
+trägt sie einen Scepter/ die andere legt sie auf die vor ihr liegende Welt-Kugel/ auf dem Haupt
+hat sie drey Feuer-Flammen. Zu ihrer lincken Seiten sitzet die hohe Weißheit/ mit Sternen be-
+krönet/ reichende einem <aq>Genio</aq> unterschiedliche Schlüssel dar/ auf daß er sie denen etwa&sr; weiter
+unten sitzenden freyen Künsten zustellen solle/ alle Geheimnusse und Wissenschafften damit auffzu-
+schliessen. Auf ihrer rechten Seite befindet sich die Göttliche Ehre/ mit einer Krone so wol al&sr; mit
+Sternen um da&sr; Haupt gezieret/ und auf eine Trompete sich lehnende. Zum andern zeiget sich
+die Göttliche Liebe/ mit einem Hertze auf der Stirne; Sie wird begleitet von der allgemeinen Si-
+cherheit/ bey welcher ein <aq>Geniu&sr;</aq> stehet/ der mit einem Täublein spielet/ die Sicherheit aber selb-
+sten hat/ zum Zeichen der Beständig- oder Dauerhafftigkeit/ eine Säule bey sich. Zum dritten
+wird in denen Wolcken der Göttliche Schutz gesehen/ und die Göttliche Führung/ welche beede zu-
+sammen dem vor ihnen herschwebenden Glücke anbefehlen/ daß e&sr; sich mit der auf der vierdten
+Seite in denen Wolcken au&sr; einer <aq>Glorie</aq> anko&tm;enden Ewigkeit vereinigen/ und die in ihren Hän-
+den tragende Cronen und Sieg&sr;-Palmen unabläßlich den Tugendhafften mittheilen soll. Die
+Ewigkeit selbsten bringet eine Sternen-Crone/ und ist ein <aq>Geniu&sr;</aq> bey ihr/ welcher eine in den
+Schwantz sich beissende Schlange um den Leib hat/ au&sr; dem zunächst sich befindenden <aq>Cornu-Co-
+pi&00E6;</aq> fallen allerhand Blumen herab. Da&sr; Unter-Gebäude hat wiederum vier grosse Oeffnun-
+gen; in der ersten derselben sitzet die Gerechtigkeit mit der Waag/ da&sr; Gesetz mit der Tafel/ fer-
+ner die Demuth/ und die durch ein Kind vorgebildete Zufriedenheit. Ober dem Gesetz/ (welche
+man auch zwar für die wahre Gotte&sr;furcht halten möchte/ indem ein Drey-Fuß bey ihr stehet/
+auf welchem ein wolriechende&sr; Opffer lieget) fleugt ein Adler nach dem Himmel zu/ au&sr; welchem
+durch die Wolcken einige Strahlen der Gottheit hervor leuchten; und diß bemercket die wahre
+und immerwährende Ruhe/ zu welcher ein tugendhaffter Mensch/ nach vieler Mühe und Arbeit/
+endlich gelanget/ angesehen je näher ein Mensch bey GOtt ist/ je weniger Sorg und Bekümmer-
+nuß er hat/ und ist diese&sr; eben der glückseelige Außgang de&sr; Leben&sr;/ den ein warhafftig Tugend-
+Liebender auf die Letzte zu gewarten hat. Solcher wird abgebildet mit einem hell-leuchtenden
+Stern auf dem Haupt/ die lincke Hand auf die Schooß legend/ und in der rechten eine Korn-
+Aehre haltend. In der andern Oeffnung stellet sich die Tugend gewaffnet für/ und vertreibet da-
+mit den Neyd und die Zwietracht au&sr; dieser Wohnung; unter ihr stehet die Hülffe oder der Bey-
+stand ihr zu Seiten/ der sich auf einen Stock von Weinreben steuret; und der wahren Tugend Eh-
+ren-Lohn wird/ durch einen <aq>Genium</aq> mit einer Crone in der Hand/ vorgestellet. Etwa&sr; über der
+Tugend Haupt hinauff ko&tm;t ein anderer <aq>Geniu&sr;,</aq> mit einem Rauch-Faß in der Hand/ mit welchem
+<cw>die</cw>
+<pb>
+<cb>
+die bösen Geister vertreibet. Noch weiter oben streuen zwey <aq>Gratien,</aq> au&sr; einem Korbe/ Blumen
+herab. In der dritten Oeffnung befindet sich die wahre Freundschafft/ welche in der einen Hand
+einen Schlüssel hält/ und mit der andern einen Hund umbarmet/ ihre Treue damit anzudeuten.
+Sie wird <aq>embarassi</aq>rt/ von der ihr zur rechten Hand sitzenden Leutseeligkeit/ die da eine Säule in
+den Händen gefasst hält/ zu bemercken/ die Freundschafft müsse beständig seyn. Zur lincken Hand
+der Freundschafft ist noch eine Weib&sr;-Person zu sehen/ mit vielen zusammen gebundenen Rohren/
+vorstellende die Unzertrennlichkeit oder Unverbrüchlichkeit der wahren geschlossenen Freundschafft.
+Uber diese sämtlich flieget ein <aq>Geniu&sr;</aq> mit einer Taube/ al&sr; dem Zeichen der liebreichen Freund-
+schafft/ und eine <aq>Gratia</aq> streuct über sie alle Blumen au&sr; der Höhe herab. Die vierdte Oeffnung
+besitzet die Glückseeligkeit/ auf deren Schooß ein Lamm ruhet; Sie ist vergesellschafftet mit der Ver-
+gnügung/ welche in der einen Hand einen Apffel/ und in der andern einen Palm-Zweig trägt;
+bey ihnen findet sich die Friedfertigkeit ein/ so da mit einer Fackel einige Krieg&sr;-Geräthe anzündet/
+und in der einen Hand einen Oel-Zweig hält. Uber diß sind noch vier Ecken vorgestellet und
+au&sr;gezieret/ in deren ersteren sich die straffende und strenge Gerechtigkeit/ gewaffnet und in vollem
+Eyfer darzeiget/ mit der einen Hand da&sr; Schwerdt zum Streich zuckende/ um die Boßhafften
+nach Gebühr abzustraffen; damit sie nun nicht zu streng verfahre/ flieget ihr auf einer Wolcke
+die Gelindig- oder Mildigkeit zu/ hält ihr mit einer Hand den mit dem Schwerdt au&sr;gereckten
+Arm/ und fällt ihr mit der andern Hand/ in welcher sie einen Oel- und einen Palm-Zweig trägt/
+um den Halß/ anzudeuten/ daß die Strenge der Gerechtigkeit öffter&sr; müsse mit Glimpff und Ge-
+lindigkeit gemildert werden. Nächst ihr zur Seiten stehet ein <aq>Geniu&sr;</aq> mit einem Zaum/ die Unge-
+horsamen und Widerspänstigen damit zu lencken und zu bändigen. Au&sr; den Wolcken kommen
+zwey <aq>Genii</aq> herfür/ welche diese Tugenden mit dem Wasser der Unsterblichkeit begiessen/ alldiewei-
+len doch gerechte und dabey milde Handhaber und Verwalter der Gesetze/ allbereit in diesem Le-
+ben unsterbliche&sr; Lob verdienen/ und lebend vergöttert werden. In dem andern Ecke sitzet die
+hohe Vernunfft/ welche ihre Durchdringlichkeit mit einem blossen Schwerdt zu erkennen gibt;
+Zu ihren Füssen ruhet ein Löwe/ deme ein kleine&sr; Kind einen Zaum anleget/ und damit andeutet/
+daß diese Tugend alle&sr; besänfftigen und die wildesten Leute unterthänig machen könne/ in&sr;gemein
+auch die gantze Welt regiere. Zu allerunterst liegen zwey Sclaven/ al&sr; von der Vernunfft be-
+meistert und bezwungen. Da&sr; dritte Ecke nimmt die <aq>Magnificenz</aq> ein/ welche/ um ihren Glantz
+und Hoheit anzudeuten/ ein <aq>Geniu&sr;</aq> mit einem feurigen Schwerdt bedienet. Sie trägt auf ihrem
+Haupt eine Crone/ und halt in der Hand Blitzen und Donner-Keile/ weil sie alle&sr; <aq>penetri</aq>ret.
+Unter ihren Füssen ruhet ein alter Mann/ der einen vornehmen <aq>Minister</aq> und Rath bedeutet/
+welcher Ihr auf einem Küssen Schlüssel und Cronen in die Höhe zureichet. Diesem sitzet eine
+Weib&sr;-Person zur Seite/ so der Unterthanen Liebe und Hochachtung gegen die Obern vorstellig
+macht/ um welcher willen Sie die eine Hand auf die Brust leget/ die andere aber au&sr;strecket und
+au&sr;breitet. Letzlich ist in dem vierdten Eck die Freygebigkeit anzutreffen/ welche mit freyer Hand
+denen um sich und unter sich gestellten Personen/ allerhand Geschencke mittheilet.</li>
+<li><c><aq>XIV.</aq></c></li>
+<li>Dieser Riß enthält den Grund-Riß de&sr; ersten Vor-Gemach&sr; zu dem <aq>Audienz</aq>-Zimmer.</li>
+<li><c><aq>XV.</aq></c></li>
+<li>Der erste Auffzug der Fenster-Seite de&sr; ersten Vor-Gemach&sr;/ zu dem <aq>Audienz</aq>-Zimmer
+kommt nun zum Vorschein/ in welchem alle Geschichten de&sr; Heydnischen Gotte&sr; <aq>Appollini&sr;</aq> ab-
+gebildet/ und mit <aq>Grote&sr;qven</aq> vermischt sind. Diese können auf einem röthlichten/ oder grünen
+Grund von Gold gemacht/ und mit denn <aq>Coulcur&sr;</aq> (Farben) auf unterschiedliche Art <aq>varii</aq>rt wer-
+den/ dabey aber müssen alle Zierrathen <aq>(Ornemen&sr;)</aq> verguldet seyn. Im übrigen hat diese&sr; Ge-
+mach vier Theil zur Länge/ und fünff zu seiner Breite.</li>
+<li><c><aq>XVI.</aq></c></li>
+<li>Die lange Seite diese&sr; mehr-erwehnten ersten Vor-Gemach&sr; zu dem <aq>Audienz</aq>-Zimmer/ zu-
+samt dem Camin/ hat diese Abbildung.</li>
+<li><c><aq>XVII.</aq></c></li>
+<li>Und der dritte Auffzug der Seite/ gegen den Fenstern de&sr; ersten Vorgemach&sr; über/ <aq>pr&00E6;sen</aq>-
+t<aq>i</aq>rt sich solcher Gestalt.</li>
+<li><c><aq>XVIII.</aq></c></li>
+<li>Hierauf wird da&sr; <aq>Platfond,</aq> oder da&sr; Decken-Stuck diese&sr; Gemach&sr; in Entwurff vorgestel-
+<cb>
+let/ welche&sr; an sich selbst blau und auf Gold-Grund kan gemahlet seyn/ au&sr;genommen die Frucht-
+Gehänge/ Gefässe <aq>&amp;c. &amp;c.</aq> so da ihre natürlio#e Farben haben müssen. Ein gleiche&sr; ist zu beob-
+achten bey der Historie selbsten/ welche den <aq>A#ollinem</aq> im <aq>Zodiaco,</aq> mit denen bey sich habenden
+<aq>Hori&sr;</aq> und <aq>Gratien</aq> darstellet. In den vier m#ttlern Theilen diese&sr; <aq>Platfond&sr;</aq> sind in <aq>Grote&sr;qven</aq>
+die jenige Thiere abgebildet/ unter deren Gesta#t ehmal&sr; die Heyden dem <aq>Apollini</aq> Opffer gebracht
+haben/ al&sr; z. E. der Wolff/ ein Ochse/ <aq>(Api&sr;)</aq> da&sr; Crocodill/ der Löwe &rr;c. &rr;c. Nicht weniger sind
+entworffen die Vögel/ welche man von der H#yden Seite/ dem <aq>Apollini</aq> geheiliget/ z. E. der Ha-
+bicht so die Taube zerreisset/ der Falck oder Ha#icht/ der den Griechischen Priestern/ ein Buch mit ro-
+then Buchstaben geschrieben/ und in welchem die Reguln ihre&sr; Gotte&sr;-Dienste&sr; begriffen gewesen/
+nacher <aq>Theben</aq> gebracht; ferner die Schröt#/ die Käfer/ die Schwanen/ die Hahnen u. s. f. In
+den vier Ecken sind zu sehen die ordentlichen vier Jahre&sr;-Zeiten/ deren jedwede sich an dem bey sich
+führenden Himmel&sr;-Zeichen erkenntlich macht/ allwo zugleich auf beeden Seiten nicht nur zwey
+Tugend-Bilder ruhen mit den Früchten derf#lbigen Jahre&sr;-Zeit; sondern über diß in den untern
+<aq>Oval</aq>en ist da&sr; jenige zu schauen/ wa&sr; in einem jedweden Quadrat de&sr; Jahr&sr;/ in gemeinem Leben
+gewöhnlich und üblich ist.</li>
+<li><c><aq>XIX.</aq></c></li>
+<li>De&sr; andern Vor-Gemach&sr; vor dem <aq>Audienz</aq>-Zimmer Grund-Riß/ ist hiemit gezeichnet/
+welcher in allen die <aq>Geometri</aq>sche <aq>Proportion</aq> mit dem vorigen hat.</li>
+<li><c><aq>XX.</aq></c></li>
+<li>Der Auffriß der einen Seite diese&sr; zwey#en Vor-Gemach&sr;/ noch vor dem <aq>Audienz</aq>-Zi&tm;er/
+gegen die Fenster über/ enthält in lauter <aq>Grote&sr;qven</aq> da&sr; Leben de&sr; berühmten Trojanischen Hel-
+den <aq>&00C6;ne&00E6;,</aq> und dessen fürnehmste Thaten/ unt# welche eine und andere Sinn-Bilder/ so sich zu die-
+ser Historie schicken/ untermischt sind. Alle&sr; Leisten-Werck/ alle Gesimb&sr;/ und andere <aq>Ornamen-
+ta</aq> müssen hier wieder verguldet werden.</li>
+<li><c><aq>XXI.</aq></c></li>
+<li>Der zweyte Auffriß der andern Seite de&sr; Vor-Gemach&sr; an dem <aq>Audienz</aq>-Zimmer/ gegen
+dem Garten über/ fallt auf diese Weiß in die Augen.</li>
+<li><c><aq>XXII.</aq></c></li>
+<li>Und hiemit wird der dritte Auffriß de&sr; #offt-besagten Vor-Gemach&sr;/ benebenst dem Camin/
+auffgestellet.</li>
+<li><c><aq>XXIII.</aq></c></li>
+<li>Da&sr; <aq>Platfond</aq> oder die Decke diese&sr; Gemach&sr;/ besteht au&sr; denn übrigen Geschichten de&sr; <aq>&00C6;ne&00E6;,</aq>
+und dessen auf die Letzte erfolgter Vergötterung. Dieweilen nun die Beschreibung der Geschichte
+so wol/ al&sr; die Art/ wie sie soll gemahlet werden/ auf dem Kupffer-Blat selbsten umständlich zu le-
+sen ist/ so wird der geneigte Leser/ solche allda nachzusehen/ hingewiesen.</li>
+<li><c><aq>XXIV.</aq></c></li>
+<li>Nunmehro wird man/ nach <aq>Passir</aq>ung der zweyen Vor-Gemächer/ in da&sr; <aq>Audienz</aq>-Zimmer
+selbsten eingelassen. Die erste/ nach dem Garten zu sehende Seite/ hat auf ihren Fenstern einige
+nach dem Leben gemachte Schlachten und Belagerungen/ welche in verguldete Ramen zu fassen
+und auffzustellen sind. Im gantzen Zimmer müssen abermahl&sr; alle <aq>Ornamenta,</aq> al&sr; da&sr; Haupt-
+Gesimb&sr;/ da&sr; <aq>Capitello,</aq> die Hohl-Kellen/ da&sr; Schafft-Gesimb&sr; &rr;c. reichlich verguldet/ der Grund
+aber/ damit e&sr; desto herrlicher und ansehnlicher stehe/ weiß <aq>marmor</aq>irt seyn. In die Einschnitte
+der Fenster-Schenckel können/ in verguldten Ramen/ auf Kupffer von Firniß <aq>polir</aq>te Marmor-Ta-
+feln/ die unterschiedlicher Farben seyn/ eingesetzt werden/ diese werden ohne da&sr; wie Glaß seyn/ wor-
+innen sich alle&sr; wieder <aq>repr&00E6;sentir</aq>et. Zwischen dieselbige nun können auff&sr; neue entweder ge-
+mahlte/ oder von Kupffer getriebene und im Feuer verguldte Tugend-Bilder zu stehen kommen/ wel-
+che zumahl ihr Absehen auf die Tugenden deß in diesem Pallast wohnenden Herrn haben. Die
+zwey oben in denn Bogen befindliche Adler/ bemercken die Großmüthigkeit und die Gotte&sr;furcht.
+In der Mitte kommt au&sr; einer <aq>Glorie</aq> die Ewigkeit/ welche Cron und Scepter darbringet. Diese
+Vorstellung wird au&sr; Gyp&sr; gemacht/ an da&sr; Haupt-Gesimb&sr; befestigt/ und gantz verguldet.
+Damit alle&sr; durchsichtig herau&sr; komme/ kan man darzwischen an unterschiedliche Oerter gelbe&sr;
+Glaß einlegen/ und weiter brennende Lampen darzwischen hängen/ welche so dann ihr Licht auf
+da&sr; Glaß und Gold werffen/ und einen solchen Glantz von sich geben werden/ daß man glauben
+wird/ man sehe in den Himmel und Ewigkeit selbsten hinein. Noch hangen zwischen denen Bö-
+<bs>B</bs><cw>gen/</cw>
+<pb>
+<cb>
+gen/ so auch gantz zu vergulden sind/ wiederum <aq>met#lisir</aq>te Tugend-Bilder/ z. E. die Mässigkeit/
+Freygebigkeit &rr;c. Die noch mehrer&sr; hier vorkomm#de Frucht-Scheuren/ Blumen/ <aq>Armatur</aq>en/
+und dergleichen/ mögen äu&sr;geschnitten und mit natüli#chen Farben bemahlet werden.</li>
+<li><c><aq>XXV.</aq></c></li>
+<li>Die andere Seite de&sr; <aq>Audienz</aq>-Zimmer&sr;/ so li#er sich vorstellet/ und auf welcher der Camin
+sich befindet/ wird gleich der ersten au&sr;gezieret/ und h#at an dem obern Auff-Satz/ in denn Bögen
+so wol/ al&sr; zwischen denselben/ gleiche mit denen vorigen übereinstimmende Tugenden und Sinn
+Bilder.</li>
+<li><c><aq>XXVI.</aq></c></li>
+<li>Die dritte Seite de&sr; <aq>Audienz</aq>-Zimmer&sr; läßt sich hiemit sehen; in dieser stehet der Fürstliche
+Stuhl/ der von Silber getrieben/ und dessen <aq>Ornamenta,</aq> vor allen aber die <aq>Glorie,</aq> vergüldet seyn
+müssen. Die Niche/ worein besagter Fürstl. Stuhl/ oder Königl. Thron gestellt wird/ ist mit Spie-
+gel-Glaß und verguldeten Rahmen eingelegt/ damit sich alle&sr; wider <aq>repr&00E6;senti</aq>re. Die gewundene
+Säulen/ so diesen Thron umfassen/ können nicht weniger gantz verguldet seyn. Die Decke oder
+der Umhang herum ist au&sr;wendig rother Purpur/ daran kommen guldene <aq>Frange&sr;,</aq> und wird der
+Purpur mit einem puren Gold-Stuck gefüttert. Der <aq>Baldachin</aq> oder Himmel über dem Stuhl
+ist wieder gantz verguldet/ doch so/ daß der Grund matt ist/ und die Gesimse <aq>polie</aq>rt seyn; ferner
+werden die Geschling-Wercke an der Friese diese&sr; Himmel&sr; blau auf Gold gemahlet. An dem
+Schild/ worein de&sr; Fürsten Nahme mit verzognen Buchstaben kommt/ müssen die Palmen grün
+seyn/ die abhangende <aq>Campanen</aq> aber werden mit kostbahren Steinen versetzt. Zunächst an dem
+Stuhl zeigen sich zwey <aq>Genii</aq> (Schutz-Geister) mit feurigen Schwerdten und Schilden/ Sie selb-
+sten sind au&sr; weissen Marmor verfertigt. In die Gefässe an den Säulen sollen wol-riechende
+Blumen und lebendige köstliche Bäume gesetzt werden. In denen zweyen weiter vorkommenden
+Nichen oder Bilder-Blinden/ welche abermal&sr; einen vom besten Spiegel-Glaß eingelegten Grund
+haben/ sind auf <aq>Postement</aq>en die Bildnuß zweyer Römischer Kayser von weissem Marmor auff-
+gestellt/ al&sr; Exempel der Gütig- und Gelindigkeit/ so die <aq>Supplicir</aq>ende gerne und gnädig anhören/
+und sind Sie <aq>Trajanu&sr;</aq> und <aq>Antoniu&sr; Piu&sr;.</aq> Uber dem Thron befindet sich in einer <aq>Glorie</aq> da&sr;
+Göttliche Gesetz; in die andere zwey Bögen aber kommen Sinn-Bilder/ z. E. in den einen ein Adler/
+der seine Jungen an der Sonne <aq>probie</aq>rt/ ob sie denselben Glantz vertragen können oder nicht?
+worauff er die ihm zugehörige annehmt/ die untauglichen aber verwirfft; in den andern wieder
+ein in der Lufft daher fliegender Adler/ der in den Schnabel einen Donner-Keil/ in den Klauen ei-
+nen Oel-Zweig trägt/ und ein Exempel beede&sr; der Strenge und der Lindigkeit ist; dann mit dem
+Donner-Keil drohet er die/ so sich ihm widersetzen/ zu zerschmettern; der Oel-Zweig dargegen be-
+deutet den Frieden und da&sr; Gute/ so Er allen denen/ welche sich Ihm untergeben/ zubringet. Noch
+weiter sind darneben andere den vorigen gleich überstehenden Tugend-Bildern ähnliche Tugenden/
+al&sr; die Gerechtigkeit/ die Liebe u. s. f. zu sehen/ welche auf oben allbereit beschriebene Maaß müssen
+vorgestellt und gemahlet seyn.</li>
+<li><c><aq>XXVII.</aq></c></li>
+<li>Der <aq>Platfond</aq> de&sr; <aq>Audienz</aq>-Zimmer&sr; ist hier abgezeichnet.</li>
+<li><c><aq>XXVIII.</aq></c></li>
+<li>Anjetzt kommen wir zu der ersten Seite der <aq>Parade</aq>-Kammer. Auf dieser stehet der Camin/
+so <aq>marmori</aq>rt ist an sich selbst/ dessen Zierathen aber verguldet seyn. Auf denselben kan eine kost-
+bahre Schlag-Uhr gestellet werden/ und hinter dieser kan ein Spiegel seyn/ auf welchen da&sr; Schnitz-
+Werck/ so verguldet werden muß/ gelegt wird. Die Tapeten de&sr; Zimmer&sr; sind au&sr; bunten Far-
+ben gewürcket/ und mit guldenen <aq>Tressen</aq> nnd <aq>Frangen</aq> eingefasst. Die Thüren diese&sr; Zimmer&sr;
+haben allhier keine Fliegen; sondern an statt derselben/ Tapeten von eitel Gold-Stücken. Die Hi-
+storien über den Thüren/ so zugleich den Auffsatz der Thüren machen/ stellen eine&sr; Theil&sr; für die
+Delila/ wie sie dem Simson da&sr; Haupt beschohren/ ander&sr; Theil&sr; die Jael und den Sissera: kön-
+nen roth oder auch wol grün <aq>metallisi</aq>rt/ und mit guldenen Rahmen eingefaßt seyn. Ubrigen&sr; ist
+da&sr; völlige Haupt-zusamt dem Fuß-Gesimb&sr; diese&sr; Zimmer&sr; verguldet.</li>
+<li><c><aq>XXIX.</aq></c></li>
+<li>Diese&sr; ist die andere Seite der <aq>Parade</aq>-Kammer/ benebst der <aq>Alcove</aq> und dem Bett.</li>
+<li><c><aq>XXX.</aq></c></li>
+<li>Die dritte Seite der <aq>Parade</aq>-Kammer/ ist auf solche Weise anzusehen. Hier kan man einen
+<cb>
+grossen Spiegel stellen/ daß er gerad gegen den Camin ko&tm;t. Uber den Thüren sind noch zwey Hi-
+storien gemahlt/ die Judith/ welche dem <aq>Holeferne&sr;</aq> da&sr; Haupt abschlägt/ und der David mit dem
+Riesen Goliath. Auch diese zwey Historien sind denn andern beeden gerad entgegen gesetzt/ und
+müssen eben so/ wie jene/ gemahlt und verfertigt werden.</li>
+<li><c><aq>XXXI.</aq></c></li>
+<li>Der <aq>Platfond</aq> oder Decken-Stuck diese&sr; <aq>Parade</aq>-Zimmer&sr; wird hier vorgestellet. Solche
+wird au&sr; <aq>Stucco</aq> oder Gypß gemacht/ durch und durch verguldet/ und in die Oeffnungen/ wo sie
+durchgebrochen sind/ wird eine Lufft gemahlet. Ingleichen werden die Kinder und die Blumen-
+Krüge/ welche auf der <aq>Gallerie</aq> stehen/ und damit jene spielen/ von natürlichen Farben gemahlet.
+Um diese gantze Decke her solte nicht übel stehen/ wann man auf einen Gold-Grund mit roth oder
+blau/ al&sr; <aq>passo relievo, Ovidi</aq>sche Historien oder Fabeln abbildete/ die man auch allhier angezeiget:
+al&sr; erstlich ist zu schauen <aq>Perseu&sr;,</aq> wie er der <aq>Medus&00E6;</aq> den Kopff abhauet; darnach <aq>Alpheu&sr;</aq> und
+<aq>Arethusa,</aq> die in einen Brunnen verwandelt worden; ferner <aq>Apollo,</aq> wie er dem von ihm über-
+wundenen <aq>Marsy&00E6;</aq> die Haut abziehet; wiederum die <aq>Juno,</aq> welche von ihrem Gemahl dem <aq>Jupiter</aq>
+bittet/ daß er die von ihm in eine Kuhe verwandelte <aq>Jo</aq> schencken möchte; ferner <aq>Pan</aq> und <aq>Syringe,</aq>
+die in ein Rohr verwandelt ward; weiter der <aq>Proserpin&00E6;</aq> Raub von <aq>Plutone; item</aq> die von der er-
+zürnten <aq>Palla&sr;</aq> in eine Spinne verkehrte <aq>Arachne;</aq> noch weiter der Streit der <aq>Musen</aq> mit dem <aq>Py-
+ren&00E6;o;</aq> dergleichen der die Schiff-Leute in <aq>Delphin</aq>en verkehrende <aq>Bacchu&sr;;</aq> weiter der in sich selbst
+verliebte und nach seinem Tod in eine Blume verwandelte <aq>Narcissu&sr;;</aq> letztlich die <aq>Cere&sr;,</aq> so den sie
+verspottenden <aq>Stellionem</aq> in eine Eidex umkehret. In die Mitte dieser Decke kommt eine <aq>Glorie</aq>
+mit vielen Tugend-Bildern/ zusamt einem in denen Wolcken stehenden Gebäude/ in welchem die Tu-
+gend von der Ehre gecrönet wird. Sothane&sr; mittlere Stuck wird zwar gemahlet/ jedoch die
+Wolcken/ so sich um den Krantz/ der diese Mahlerey einfasset/ herum ziehen/ werden von <aq>Stucco</aq>
+erhoben gemacht/ und so dann erst gemahlet/ damit sie desto natürlicher scheinen/ und sich desto
+besser mit der andern Lufft vereinigen.</li>
+<li><c><aq>XXXII.</aq></c></li>
+<li>Nunmehro werden wir in da&sr; Vor-<aq>Cabinet</aq> de&sr; Printzen eingeführet/ und kommet hier die
+schmahle Seite desselben zum Vorschein.</li>
+<li><c><aq>XXXIII.</aq></c></li>
+<li>Die längere Seite diese&sr; Vor-<aq>Cabinet</aq>&sr; <aq>pr&00E6;senti</aq>ret sich hiemit.</li>
+<li><c><aq>XXXIV.</aq></c></li>
+<li>Da&sr; Decken-Stuck besagten Vor-<aq>Cabinet</aq>&sr; folget hierauff in seinem Entwurff.</li>
+<li><c><aq>XXXV.</aq></c></li>
+<li>Anjetzo gelangen wir in de&sr; Fürsten Schlaff-Gemach/ und wird allhier die schmahle Seite
+desselben vorgestellet. Da&sr; gantze Zimmer ist von lauter Tappeten behangen und au&sr;gezieret;
+der Camin kan mit Spiegel-Glaß eingelegt und allenthalben verguldet werden/ an demselben ist die
+Historie gemahlet/ wie die Kayserin <aq>Fausta,</aq> ihrem Gemahl <aq>Constantino M.</aq> zur Bezeugung ihrer
+Ehlichen Treue/ ihre&sr; Vatter&sr; <aq>Maximiniani Herculei,</aq> böse&sr; gegen ihm gefasste&sr; Vorhaben/ durch
+einen Brieff/ entdecket. Die <aq>Ornamenta</aq> und da&sr; Haupt-Gesimb&sr; wird allhier abermahl ver-
+guldet.</li>
+<li><c><aq>XXXVI.</aq></c></li>
+<li>Die lange Seite de&sr; Fürstl. Schlaff-Gemach&sr;/ begreifft zugleich de&sr; Printzen Bett. Diese&sr;
+ist gantz verguldet/ und mit Sammet/ oder seidenen <aq>Etoffe&sr;</aq> reichlich überzogen und umhangen.
+In die Tappeten sind lauter Landschafften/ von bunten Farben/ gewürcket. Um da&sr; Bett kan
+man ein von Holtz künstlich geschnittene&sr; und verguldte Gelender ziehen/ und auf dessen <aq>Posta-
+ment</aq>e Gefässe von wolriechenden Blumen setzen.</li>
+<li><c><aq>XXXVII.</aq></c></li>
+<li>Da&sr; hier entworffene <aq>Platfond</aq> de&sr; Schlaff-Gemache&sr;/ wird von <aq>Stucco</aq> au&sr;gefertigt/ und
+kan völlig verguldet werden. E&sr; werden aber in diesem Decken-Stuck die vier Tage&sr;-Zeiten/
+Morgen/ Mittag/ Abend und Mitternacht abgebildet. In der Mitte <aq>pr&00E6;sentir</aq>et sich eine <aq>Glorie,</aq>
+worinnen der völlige Rath der Götter erscheinet. Diese/ benebenst der völligen übrigen Lufft/ muß
+mit Farben gemahlet seyn.</li>
+<li><c><aq>XXXVIII.</aq></c></li>
+<li>Auf diese&sr; Zimmer stellet sich nunmehro der Speiß-Saal vor/ und ist davon allhier der
+Grund-Riß.</li>
+<cw><aq>XXXIX.</aq></cw>
+<pb>
+<cb>
+<li><c><aq>XXXIX.</aq></c></li>
+<li>Die eine Seite de&sr; Speiß-Saal&sr;/ zumahl wie er bey dem Eingang in denselben anzuschauen
+ist/ kommt in diesem Blat für Augen. Hieselbst mögen/ wie allbereit oben bey dem Haupt-Saal
+ist erinnert worden/ die Säulen auf gleiche Art/ jedoch von anderer Farb <aq>marmori</aq>rt werden/ et-
+wan dem <aq>Marmor, Brocatelle</aq> genandt/ ähnlich und gleich/ der au&sr; Spanien gebracht wird/ und
+sehr rar und kostbahr ist. Wiewol man dabey zu mercken und in Obacht zu nehmen hat/ daß
+die Füllungen/ beede&sr; unter und ober dem Kämpffer/ wiederum au&sr; einer andern Art Marmor
+bestehen/ und man damit beständig umwechseln müsse. Ebener massen muß die Wand um den
+gantzen Saal herum/ also gemacht werden/ daß sie sich zu der Farb de&sr; Marmor&sr;/ den man sich
+belieben lassen/ schicke/ und kein Ubelstand herau&sr; komme. Die Fenster-Schenckel möchte man et-
+wan von Mosaischer Arbeit/ welche&sr; eine Art die mit gefärbten Steinen und Gläsern einlegen/
+wird verfertigen/ auf daß die Figuren in rechter Mahler Haltung herau&sr; kommen. Die Rah-
+men/ und wa&sr; noch für <aq>Ornamenta</aq> allhier sind/ z. E. da&sr; Haupt-Gesimb&sr;/ <aq>Capitello,</aq> Schafft-
+Gesimb&sr; &rr;c. &rr;c. werden sämtlich verguldet. In den Camin kan man ferner ein grosse&sr; und an-
+sehnliche&sr; Spiegel-Glaß einlegen; da&sr; übrige aber am Camin von Marmor und Gold au&sr;zieren.
+Der obere Auffsatz käme gut herau&sr;/ wann er selbsten gemahlet/ der Krantz um denselbigen von
+<aq>Stucco</aq> geführt/ und gleich denen <aq>Ornament</aq>en vergüldet würde.</li>
+<li><c><aq>XL.</aq></c></li>
+<li>Hierauff haben wir die andere/ und zwar die Fenster-Seite de&sr; Speiß-Saal&sr;/ auf diesem
+Kupffer zu sehen.</li>
+<li><c><aq>XLI.</aq></c></li>
+<li>Da&sr; <aq>Platfond</aq> oder Decken-Stuck/ stellt auf <aq>Opti</aq>sche Art/ au&sr; der alten Römer Gebräuchen/
+eine Hochzeit für/ da zuförderst Braut und Bräutigam einander die Hände geben/ und ist die
+Braut mit dem bekandten Schleyer/ den die Römer <aq>flammeum</aq> nennen/ bedecket. <aq>Hymen&00E6;u&sr;</aq>
+trägt ihnen die Hochzeit-Fackeln für/ dabey findet sich eine Weib&sr;-Person mit einer Turtel-Taube/
+die ehliche Treu zum guten Glück abzubilden; eine andere Weib&sr;-Person träget Blumen zu/ wel-
+che man in&sr;gemein bey Hochzeiten au&sr;gestreuet hat. Ein fliegender <aq>Geniu&sr;</aq> bringet Frucht-Ge-
+hänge/ und zieret damit die Thür-Pfosten und Säulen au&sr;; ein anderer <aq>Nuntiu&sr;,</aq> hält in seiner
+Hand ein zusamm gerollte&sr; Papier/ worauff die Hochzeit-Verse geschrieben stehen. Uber ihnen
+kommt <aq>Juno</aq> in den Wolcken/ die getroffene Ehe zu bestättigen/ und die verheyrathete Personen zu
+vereinigen: Sie hat zu Gefährtinnen die <aq>Concordiam</aq> mit dem Horn de&sr; Uberflusse&sr;/ und die <aq>Cy-
+belen,</aq> welche mit ihrer Krafft die Leibe&sr; Fruchtbarkeit befördert. Höher über ihnen zeiget sich
+<aq>Ph&0153;bu&sr;,</aq> oder die auffgehende Sonne/ mit ihren <aq>Hori&sr;.</aq> In denen zweyen <aq>Altanen</aq> befinden sich
+theil&sr; unterschiedliche <aq>Musicant</aq>en/ so auf lieblichen <aq>Instrument</aq>en spielen/ theil&sr; Kinder/ welche die
+Säulen mit Frucht-Gehängen au&sr;zieren. Um da&sr; gantze Stuck herum stellen sich allerhand Fi-
+guren dar/ so zur Zubereitung der Mahlzeit behülfflich seyn/ und die Speisen mit dem Geträncke zu
+tragen. Noch mehr oben über den Wolcken/ sitzet auf einem erhabenen Stuhl und unter einer
+<aq>Cupala</aq> in den Wolcken/ <aq>Jupiter,</aq> vergesellschafftet mit <aq>Neptuno</aq> und <aq>Plutone,</aq> anzuzeigen/ daß diese
+drey Haupt-Götter längsten&sr; vorhero diese getroffene Ehe gesehen und beschlossen. Etwa&sr; unter
+ihnen in den Wolcken kommt der völlige Götter-Rath/ au&sr; welchem ein jedweder an dem abson-
+derlich bey sich habenden Zeichen unschwehr zu erkennen ist.</li>
+<li><c><aq>XLII.</aq></c></li>
+<li>Auf diesem Blat ist der Grund-Riß zu dem Vor-Gemach de&sr; Prunck- oder <aq>Parade</aq>-Zimmer&sr;
+enthalten.</li>
+<li><c><aq>XLIII.</aq></c></li>
+<li>Hiemit bekommen wir die schmahle Seite de&sr; Vor-Gemach&sr;/ an dem <aq>Parade</aq>- oder Prunck-
+Zimmer/ zu schauen. E&sr; ist allda der Camin befindlich/ und wird solche&sr; durchau&sr; mit gewürck-
+ten Tappeten von <aq>Grode&sr;qven</aq> au&sr;<aq>staffi</aq>rt.</li>
+<li><c><aq>XLIV.</aq></c></li>
+<li>Dieser Auffriß weiset un&sr; ferner/ die lange Seite de&sr; Vor-Gemach&sr; vor dem <aq>Parade</aq>-Zim-
+mer/ an welcher die Fenster stehen.</li>
+<li><c><aq>XLV.</aq></c></li>
+<li>Die der nechst vorhergehenden Seite gegen über stehende dritte längere Seite de&sr; Vor-Ge-
+mach&sr;/ stellt sich auf sothane Weise den Augen für. Dieweil nun/ angezeigter massen nach/ da&sr;
+<cb>
+Vor-Gemach mit einander soll <aq>tape</aq>ziert seyn/ so wird in diesen entworffenen Tapeten <aq>Apollo</aq> im
+<aq>Zodiaco</aq> eingewürcket vorgestellet. An den vier Ecken sieht man die vier Jahr&sr;-Zeiten/ und in
+der Mitte den <aq>Saturnum</aq> oder da&sr; Bild der Zeit mit der Sense. Alle&sr; und jede&sr; sind <aq>Grode&sr;qven</aq>
+mit bunten Farben gewürcket.</li>
+<li><c><aq>XLVI.</aq></c></li>
+<li>Da&sr; zu dem Vor-Gemach de&sr; <aq>Parade</aq>-Zimmer&sr; gehörige <aq>Platfond,</aq> oder Decken-Stuck/ wel-
+che&sr; man entweder <aq>à fresco</aq> mahlen/ oder au&sr; <aq>Stucco</aq> arbeiten und gantz vergülden kan/ begreifft
+in den vier Ecken/ und in so viel <aq>Oval</aq>en/ vier besondere Götter und Göttinnen/ nemlich den <aq>Apolli-
+nem,</aq> die <aq>Junonem,</aq> den <aq>Neptunum,</aq> die <aq>Cybelen,</aq> durch welche man die vier gemeine <aq>Elementa</aq> an-
+deutet. Eine jedwede von diesen Gottheiten hat zwey Tugend-Bilder zur Seiten. <aq>Apollo,</aq> der
+da&sr; Element de&sr; Feuer&sr; abbildet/ hat mit sich die Klugheit und Mässigkeit/ und soll davon die Be-
+deutung seyn: hierdurch mache er den Erdboden fruchtbar/ wann er die Hitz der Sonnen weder zu
+starck noch zu gering seyn lasse/ auf daß die Erd-Gewächse/ von welchen die Menschen ihre Nah-
+rung und Unterhalt bekommen/ zu ihrer rechten Zeitigung gelangen. <aq>Juno,</aq> in dem Element der
+Lufft/ hat zu Begleiterinnen/ die Liebe und die Treue; jene ist ein Kenn-Zeichen Göttlicher Barm-
+hertzigkeit/ daß nemlich der Allerhöchste den Menschen/ nicht nach Verdiensten und nach ihren Sün-
+den lohnet/ auch die Erd-Gewächse/ wie e&sr; ihm gar ein leichte&sr; und alsobalden möglich wäre/ nicht
+mit Blitzen/ Do&tn;er/ Hagel und Schlossen/ welche au&sr; der Lufft herkommen/ zu Grund richtet; son-
+dern seine zärtliche Gütigkeit allenthalben vorschlagen läßt; Diese/ die Treue/ ist ein Merckmahl/
+daß GOtt der HErr au&sr; de&tn; Wolcken in der Lufft/ Früh- und Spat-Regen/ auch ander&sr; beque-
+me&sr; Gewitter gibt/ zum besten de&sr; Erdboden&sr;; und verkündiget diese&sr; Gute/ so man von ihm zu
+hoffen hat/ der Oel-Zweig/ welchen die Treue in der rechten Hand führet. <aq>Neptunu&sr;,</aq> dem da&sr; E-
+lement de&sr; Wasser&sr; zuko&tm;t/ hat neben sich/ die Stärcke und die Geschwindigkeit/ al&sr; die genauesten
+Eigenschafften diese&sr; Element&sr;/ und hält er durch die Stärcke den schnellen Lauff de&sr; Wasser&sr; ein/
+damit e&sr; nicht au&sr; seinen Schrancken trette/ und Schaden anrichte. <aq>Cybele,</aq> derer man da&sr; Ele-
+ment der Erden zueignet/ hat zur Gesellschafft/ die Gerechtigkeit und den Frieden/ sothane Tugenden/
+durch welche der Erd-Boden in seinem Flor erhalten/ und am glücklichsten regiert wird. In der
+Mitte diese&sr; <aq>Platfond&sr;</aq> erscheinet in einer <aq>Glorie Jupiter</aq> auf denn Wolcken/ um ihn herum sitzen die
+Ahnen und Vorfahren de&sr; jenigen Fürsten/ welcher diesen Pallast bewohnet/ al&sr; Götter herum/
+und wird der letzt-verstorbne Herr/ al&sr; Vatter de&sr; nunmehro regierenden Printzen&sr;/ au&sr; Befehl
+der Ewigkeit/ die gar nahe dabey sitzet/ und an den Sternen um da&sr; Haupt kennbar ist/ durch die
+Zeit/ zu denen schon oben sich befindenden vergötterten oder verewigten Ahnen getragen/ um in de-
+ren Gesellschafft auffgenommen zu werden.</li>
+<li><c><aq>XLVII.</aq></c></li>
+<li>Die erste Seite von dem Cabinet de&sr; Fürsten/ ist hieranff anzuschauen/ dessen Form und Art
+in dem nachstchenden 48. Kupffer-Blat schrifftlich entworffen und angezeigt ist. Hier ist nur die-
+se&sr; noch anzumercken/ daß der Krantz oder da&sr; Haupt-Gesimb&sr;/ mit denen darauff sitzenden <aq>Sta-
+tuen</aq> oder Bildern/ gantz verguldet werden muß. Die Thüren/ welche man sonsten gewöhnlicher
+massen/ von Schrein-Werck oder Tischler-Arbeit verfertigen läßt/ sind gegenwärtig von dem schön-
+sten Cristallen-Glaß gemacht. Die Einfassung und Pfosten kommen von schwartzen Eben-Holtz/
+darauff man die verguldete Zierrathen leget; wie dann auch der völlige Auffsatz der Thür muß
+verguldet werden/ jedoch ohne die hieher gehörige Mahlerey und ohne die in denen Gefässen befind-
+liche Blumen; al&sr; welche mit lebendigen Farben vorzustellen seyn.</li>
+<li><c><aq>XLVIII.</aq></c></li>
+<li>De&sr; Cabinet&sr; andre Seite kommt hiemit zum Vorschein/ und ist/ wie schon erwehnt worden/
+in der unten angesetzten Schrifft mit mehrern enthalten/ wie die Art de&sr; Cabinet&sr; anzulegen seye.
+Nur ist anbey diese&sr; noch zu behalten/ daß in denen Schilden/ de&sr; inwohnenden oder Regierenden
+Fürsten Nahme/ mit verzogenen Buchstaben/ erhoben stehen kan.</li>
+<li><c><aq>XLIX.</aq></c></li>
+<li>Auch hier bey der Decke oder <aq>Platfond</aq> de&sr; Cabinet&sr;/ ist in der unten angefügten Schrifft/ die
+Anlegung desselben begriffen. Weiter aber ist dabey in acht zu nehmen/ daß der Grund/ auf wel-
+chen man die Gläser einleget/ müsse röthlicht oder Fleisch-färbicht seyn. In die offene Plätze der
+Schilden muß allezeit de&sr; in diesem Pallast sich auffhaltenden Printzen/ zusamt dessen Gemahlin
+Nahme/ Wechsel&sr;-weise gesetzt werden. Im übrigen kan man ebenfall&sr; Historien halb erhoben
+<bs>C</bs><cw>darein</cw>
+<pb>
+<cb>
+darein mahlen. Ferner möchte man da&sr; völlige <aq>Platfond</aq> oder Decken-Stuck/ von einem recht
+starcken Pappen-Deckel au&sr;schneiden/ und mit höltzernen Leisten an den Boden/ oder an die Decke
+selbst bestigen/ und al&sr;dann die Gläser darauff einlegen.</li>
+<li><c><aq>L.</aq></c></li>
+<li>An da&sr; Cabinet de&sr; Printzen/ stößt eine <aq>Galarie</aq> an/ von welcher allhier die erste schmahle
+Seite sich weiset.</li>
+<li><c><aq>LI.</aq></c></li>
+<li>Die lange Seite der <aq>Galerie,</aq> welche gegen die Fenster überkommt/ stellt sich in diesem Auffriß
+vor. Die Anlegung derselbigen aber/ gibt sich au&sr; der unten am Kupffer-Blat hingesetzten
+Schrifft.</li>
+<li><c><aq>LII.</aq></c></li>
+<li>Auf diesem Kupffer-Blat zeiget sich der Grund-Riß zu dem Spatzier-Saal de&sr; Pallaste&sr;.</li>
+<li><c><aq>LIII.</aq></c></li>
+<li>Der Auffzug von der schmahlen Seite de&sr; Spatzier-Saal&sr; ist allhier auffgerissen/ und in
+der beygefügten Schrifft schon sattsam erkläret.</li>
+<li><c><aq>LIV.</aq></c></li>
+<li>Der langen Seite von dem Spatzier-Saal Auffzug wird hier vorgestellet. E&sr; wird derselbe
+auf zweyen Seiten von Fenstern beleuchtet und hell gemacht/ er gehet durch zwey Stock-Werck
+hindurch biß unter da&sr; Dach/ und bekommt also eine zimliche Höhe. Zwischen denen obern und
+untern Fenstern können/ auf beederley Seiten gegen einander über/ schöne Mahlereyen und Kunst-
+Stücke auffgehangen werden. Zur völligen Erläuterung mag man die Unterschrifft de&sr; vor-
+hergehenden 53. Kupffer-Blat&sr; nachsehen.</li>
+<li><c><aq>LV.</aq></c></li>
+<li>Auf diesem Kupffer haben wir die eine Seite/ der zur Andacht gewidmeten Fürstl. Capelle/
+und zwar die jenige Seite/ bey welcher der Eingang in dieselbige ist/ und woran der Fürstl. Stuhl/
+dem Gotte&sr;-Dienst beyzuwohnen/ sich befindet. In diesem Letztern/ nemlich im Stuhl de&sr; Prin-
+tzen/ ist ein Camin enthalten. Um die Wände desselbigen herum/ zwischen denen empor stehenden
+Säulen/ wie auch an die Fenster-Schenckel/ schicken sich von Mosaischer Arbeit eingelegte Taffeln/
+mit verguldten Rahmen/ so da die vornehmsten Historien de&sr; Leben&sr; Christi können vorstellig ma-
+chen. Die flache Wand kan weiß <aq>marmori</aq>rt/ und mit andern bund-färbigen Marmor-Tafeln in
+guldenen Rahmen eingelegt seyn/ die Thür-Flügel aber kan man <aq>metallisi</aq>ren. Von dem obern
+<cb>
+Auffsatz über dem Fürstl. Stuhl/ oder von der <aq>Gallerie</aq> ist zu mercken/ daß er den fünfften Theil der
+Höhe der darunter stehenden Ordnung hat/ auf dieselbige werden Tugend-Bilder/ al&sr; hier die Ge-
+dult und die Hoffnung gesetzt. Die <aq>Cupala</aq> ist ebner massen weiß/ mit verguldten <aq>Ornament</aq>en/
+und mit darein gemahlten Geistlichen Historien gezieret.</li>
+<li><c><aq>LVI.</aq></c></li>
+<li>Die andere Seite der Hoff-Capelle/ so hier sich zeiget/ begreiffet da&sr; darzu gehörige Orgel-
+Werck. An diesem sind die Pfeiffen allesamt Säulen von der Corinthischen Ordnung/ die man zu-
+gleich versilbern soll/ die <aq>Capitelli</aq> daran aber/ und da&sr; Schafft-Gesim&sr; müssen verguldet seyn.
+Eine gantz und gar verguldete <aq>Glorie</aq> kommt über dem Orgel-Werck zu stehen/ dieselbige <aq>pr&00E6;sen</aq>-
+tiert von lauter Engeln einen <aq>Music</aq>-Chor/ mit verschiedenen und denn gewöhnlichsten <aq>Instrumen</aq>-
+ten. Unterhalb de&sr; Orgel-Werck&sr;/ sind schwebende Figuren/ eine rothe Decke haltende/ und also
+gestaltet/ gleich al&sr; wann sie da&sr; offt-besagte Orgel-Werck tragen hülffen.</li>
+<li><c><aq>LVII.</aq></c></li>
+<li>Die dritte vorkommende Seite der Capelle/ hat den Predigt-Stnhl/ den die vier so genand-
+ten grössere Proscheten tragen/ neben welchem/ etwa&sr; höher und weiter hinauff/ auf <aq>Postament</aq>en
+zwey Engel mit Rauch-Fassen stehen/ so zwey <aq>Oval</aq>-Schilde noch weiter neben sich haben/ in wel-
+chen au&sr; dem Leben Christ/ seine Tauff am Jordan/ und die Offenbahrung gegen die Heyden abge-
+schildert stehen. Auf der Cantzel stehen zwey andre Engel mit Palmen-Zweigen/ welche man al&sr;
+Bottschaffter de&sr; Evangelii halten und achten mag/ gleich wie auf dem Deckel der Cantzel noch
+mehr Engel in Wolcken/ die Gesetz-Tafeln tragen. Noch wa&sr; höher hinauff sitzen zwey Tugend-
+Bilder/ nemlich der Glaub und die Liebe/ und wiederum über diesen tragen zwey Engel einen
+Schild mit einer Cron/ darinn de&sr; Regierenden Herrn Nahme mit verzognen Bnchstaben enthal-
+ten. Sonsten kommen noch weiter&sr; auf beede Seiten/ emige von den Gemählden au&sr; dem Le-
+ben und Geschichten Christi de&sr; HErrn.</li>
+<li><c><aq>LVIII.</aq></c></li>
+<li>Mit dem Altar pranget die vierdte Seite dieser Fürstl. Capelle/ welchen man hier in seinen ge-
+hörigen Grund-Riß geleget.</li>
+<li><c><aq>LIX.</aq></c></li>
+<li>Weil die Kupffer-Platte selbsten/ den Altar/ mit seinen Außzierungen/ genugsam beschreibet/
+so wird sich der Geneigte Leser gefallen lassen/ in selbiger sich zu erschen.</li>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb>
+<abb>

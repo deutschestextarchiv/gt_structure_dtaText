@@ -1,0 +1,1768 @@
+<pb>
+<pb>
+<front><aq><b>Ex Libri&sr;
+a Dr Gu&sr;tavo Milch&sr;ack</b>
+Bibliothecae Guelferbytanae Praefecto
+multa opera collecti&sr; et
+iu&sr;&sr;u Reipublicae Brun&sr;vicen&sr;i&sr;
+magni&sr; impen&sr;i&sr; emti&sr;
+MDCCCCXX.</aq></front>
+<pb>
+<front><aq>Karl Wilhelm Ramler&sr;
+<b>O D E N.</b></aq>
+<abb>
+<hr>
+<aq><g>Berlin,
+bey Christian Friedrich Vos&sr;.
+1767.</g></aq></front>
+<pb>
+<pb>
+<hr>
+<con><aq><c><b>Innhalt.</b></c>
+1. <in>A</in>n den König _ _ 1
+2. An den Apoll, bey Eröffnung de&sr;
+Opernhause&sr; zu Berlin _ _ 5
+3. Amynt und Chloe _ _ 7
+4. Sehnsucht nach dem Winter _ _ 9
+5. Auf einen Granatapfel, der in
+Berlin zur Reife gekommen war _ _ 13
+6. Die Wiederkehr _ _ 17
+7. An die Stadt Berlin _ _ 19
+8. An die Feinde de&sr; König&sr; _ _ 24
+9. Lied der Nymphe Persante _ _ 29
+10. Auf ein Geschütz _ _ 34
+11. An den Fabiu&sr; _ _ 39
+12. An seinen Arzt _ _ 42
+13. An Lycida&sr;. _ _ 44</aq>
+<pb>
+<aq>14. An Herrn Christian Gottfried Krause _ _ 47
+15. An die Göttinn der Eintracht _ _ 49
+16. Auf die Wiederkunft de&sr; König&sr; _ _ 52
+17. An Hymen _ _ 57
+18. An die Muse _ _ 61
+19. Glauku&sr; Wahrsagung _ _ 66
+20. Der Triumph _ _ 76
+21. An den Herrn Generalmajor von
+Buddenbrook _ _ 82
+22. Ptolomäu&sr; Evergete&sr; und Berenice _ _ 85
+23. Abschied von den Helden _ _ 92
+24. Der May, eine musikalische Idylle _ _ 97
+25. Ino, eine Kantate _ _ 104</aq></con>
+<hr>
+<pb>
+<hr>
+<d1><aq><g>An den König.
+1766.</g></aq></d1>
+<poem><aq><in>F</in>riedrich! du, dem ein Gott da&sr;
+<et>für die Sterblichen</et>
+Zu gefährliche Loo&sr; eine&sr; Monarchen gab,
+Und, o Wunder! der du glorreich dein
+<et>Loo&sr; erfüllst,</et>
+Siehe! deiner von Ruhm trunkenen Tage
+<et>sind</et>
+Zwanzig tausend entflohn! Ihnen folgt
+<et>allzubald</et>
+Jede&sr; Denkmaal von dir; alle die Tem-
+<et>pel, der</et></aq>
+<bs><aq>A</aq></bs>
+<pb="2"/>
+<aq>Palla&sr;, und dem Apoll, und dem verwundeten
+Kriege&sr;gotte geweiht, werden Ruinen seyn.
+Zwar da&sr; Jahrbuch der Welt nennt, wann
+<et>der Eifergeist</et>
+Stolzer Könige schläst, dich den Eroberer,
+Dich den Gros&sr;en: doch ach! heis&sr;t dies&sr;
+<et>ein Leben für</et>
+Deine Tugenden? So lebt in Europen&sr; und
+In der älteren Welt Asien&sr; mancher Fürst,
+Dir an Wei&sr;heit nicht gleich. Selbst der
+<et>unsterbliche</et>
+Macedonier, wie lebt er? bewundert, und
+Nicht geliebt; denn er fand keinen Dir-
+<et>cäischen</et>
+Herold, dessen Gesang weiter, al&sr; Phidia&sr;
+Marmor, oder Apell&sr; athmende Farbe,
+<et>strebt. &2014;</et>
+Aber, siehe! wie lebt Cäsar Oktaviu&sr;</aq>
+<pb="3"/>
+<aq>Durch den Edeln in Rom? (Edel im
+<et>Buche der</et>
+Gros&sr;en Götter, obgleich nicht auf der
+<et>Rolle de&sr;</et>
+Censor&sr;:) ewig geliebt, ewig ein Muster der
+Väter jegliche&sr; Volk&sr;. &2014; Glücklicher
+<et>Barde, der</et>
+Unverdächtig, ein Lob, reiner al&sr; beider
+<et>Lob,</et>
+In sein Saitenspiel singt! Glücklicher
+<et>Barde, der</et>
+Nicht den Feldherrn allein, und den ge-
+<et>schäfftigen</et>
+Lande&sr;fürsten in dir; der auch den Vater de&sr;
+Hause&sr;, der auch den Freund, der auch den
+<et>fröhlichen</et>
+Weisen, gros&sr; in der Kunst jeder Kamöne,
+<et>singt!</et></aq>
+<bs><aq>A</aq> 2</bs>
+<pb="4"/>
+<aq>Götter! wäre doch ich dieser beneidete
+Barde! selber zu schwach, aber durch
+<et>meinen Held,</et>
+Und die Sprache gestärkt, die wie Kalliopen&sr;
+Tuba tönet: wie weit lies&sr; ich euch
+<et>hinter mir,</et>
+Sänger Heinrich&sr;! und dich, ganze Zunft
+<et>Ludewig&sr;!</et></aq></poem>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>An den Apoll.</g>
+Bey Eröffnung de&sr; Opernhause&sr; zu Berlin.</aq></d1>
+<poem><aq><in>A</in>pollo! (denn dir hat Friedrich den
+<et>Tempel</et>
+Auf Stufen erhöht, mit Säulen umpflanzet,
+Und deinen Spielen eingeweiht:
+Melpomene singt in Eraton&sr; Laute,
+Terpsichore tanzt in Waffen, im Schleyer,
+Dir menschliche Geschichten vor;)</aq>
+<bs><aq>A</aq> 3</bs>
+<pb="6"/>
+<aq>Vergönne doch auch der süs&sr;en Cythere
+Den Zutritt, und o! dem freundlichen
+<et>Amor,</et>
+Der leichtgerüstet vor ihr hüpft;
+Den Grazien, die der Gürtel entbehren,
+Der Suada, mit hold einladenden Lippen,
+Und allem jungen Göttervolk!
+Komm, Freude, du Kind der Hebe!
+<et>komm, Lachen,</et>
+Die Hände gestemmt in keuchende Seiten!
+Und du, schalkhafter kleiner Scherz!</aq></poem>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>Amynt und Chloe.</g></aq></d1>
+<poem><aq><in>I</in>ch bin&sr;, o Chloe! fleuch nicht mit
+<et>nacketem Fus&sr;</et>
+Durch diese Dornen! fleuch nicht den
+<et>frommen Amynt!</et>
+Hier ist dein Kranz, hier ist dein Gürtel!
+Komm, bade sicher, ich störe dich
+<et>nicht.</et></aq>
+<bs><aq>A</aq> 4</bs>
+<pb="8"/>
+<aq>Sieh her! ich eile zurück, und hänge
+<et>den Raub</et>
+An diesen Weydenbaum auf. &2012; &2012; Ach!
+<et>stürze doch nicht!</et>
+E&sr; folgt dir ja kein wilder Satyr,
+Kein ungezähmter Cyklope dir nach. &2014;
+Dich, schlanke&sr;, flüchtige&sr; Reh, dich hab&2019;
+<et>ich erhascht!</et>
+Nun widerstrebe nicht mehr! Nimm Gürtel
+<et>und Kranz,</et>
+Und weihe sie der strengen Göttinn,
+An deren ödem Altare du dienst.</aq></poem>
+<hr>
+<pb>
+<abb>
+<d1><aq>Sehnsucht nach dem Winter.
+1744.</aq></d1>
+<pv><aq><in>D</in>ie Stürme befahren die Luft, verhüllen
+<et>den Himmel in Wolken,</et>
+Und jagen donnernde Ströme durch&sr;
+<et>Land.</et>
+Die Wälder stehen entblös&sr;t; da&sr; Laub der
+<et>geselligen Linde</et>
+Wird weit umher in die Thäler geführt.</aq></pv>
+<bs><aq>A</aq> 5</bs>
+<pb="10"/>
+<pv><aq>Der Weinstock, ein dürre&sr; Gesträuch &2012; &2012; Wa&sr;
+<et>klag&2019; ich den göttlichen Weinstock?</et>
+Auf! Freunde, trinket sein schäumende&sr;
+<et>Blut,</et>
+Und las&sr;t den Autumnu&sr; entfliehn mit au&sr;-
+<et>geleeretem Füllhorn,</et>
+Und ruft den Winter im Tannenkranz
+<et>her.</et></aq></pv>
+<pv><aq>Er deckt den donnernden Strom mit
+<et>diamantenem Schilde,</et>
+Der alle Pfeile der Sonne ver-
+<et>höhnt,</et>
+Und füllt mit Blüthe den Wald, das&sr; alle
+<et>Thiere sich wundern,</et>
+Und säet Lilien über da&sr; Thal.</aq></pv>
+<pb="11"/>
+<pv><aq>Dann zittern die Bräute nicht mehr in wan-
+<et>kender Gondel; sie fliegen</et>
+Beherzt auf gleitenden Wagen dahin:
+Der Liebling erwärmet sich dann im Her-
+<et>meline der Nymphe,</et>
+Die Nymphe lächelt, und wehret ihm
+<et>falsch.</et></aq></pv>
+<pv><aq>Dann baden die Knaben nicht mehr, und
+<et>schwimmen nicht unter den Fischen;</et>
+Sie gehn auf harten Gewässern
+<et>einher,</et>
+Und haben Schuhe von Stal: der Mann der
+<et>freundlichen Venu&sr;</et>
+Verbarg der Blitze Geschwindigkeit
+<et>drein.</et></aq></pv>
+<pb="12"/>
+<pv><aq>O Winter! eile voll Zorn, und nimm den
+<et>kältesten Ostwind,</et>
+Und treib die Krieger au&sr; Böhmen
+<et>zurück,</et>
+Und meinen erstarreten Kleist. Noch hab&2019;
+<et>ich ihm seine Lykori&sr;,</et>
+Und Wein von mürrischem Alter be-
+<et>wahrt.</et></aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq>Auf einen Granatapfel,
+der in Berlin zur Reife gekommen war.
+1749.</aq></d1>
+<pv><aq><in>F</in>ind&2019; ich dich hier in deiner grünen
+<et>Krone!</et>
+Zerspaltest du die purpurrothe Brust
+An dieser Sonn&2019;! o Liebling der Pomone,
+O Proserpinen&sr; Apfel, die mit Lust
+Und Wollust deine goldnen Körner
+Im Reich de&sr; Höllengotte&sr; as&sr;,
+Und allen Nektar ferner
+Und den Olymp vergas&sr;.</aq></pv>
+<pb="14"/>
+<pv><aq>Der Erdball ändert sich! Da&sr; Meer
+<et>entfliehet,</et>
+Und macht dem Pfluge Raum; der Fel&sr;
+<et>sinkt ein;</et>
+Und, o Berlin! dein dürrer Boden blühet:
+Pomona füllt ihr Horn in dir allein;
+In dir kann Flora, nach Begehren,
+Sich tausendfache Kränze drehn,
+Und ganz verdeckt in Aehren
+Die blonde Cere&sr; gehn.</aq></pv>
+<pv><aq>Und fremde Bäum&2019;, ihr junge&sr; Haupt
+<et>umschoren,</et>
+Bringt dir Sylvan, und zieht ein La-
+<et>byrinth</et>
+Von Büschen auf vor deinen offnen Thoren,
+Die mir und diesen Künsten offen sind,
+Die jetzt auf Flügeln Dädal&sr; eilen,
+Hoch über Meer und über Land,
+Bleymas&sr;e, Meis&sr;el, Feilen
+In ihrer harten Hand.</aq></pv>
+<pb="15"/>
+<pv><aq>Urplötzlich sind der Felsen graue Rücken
+Zu Tempeln und Palästen au&sr;gehöhlt,
+Die rund umher der Pyrrha Kinder
+<et>schmücken,</et>
+Noch halb den Steinen gleich, und halb
+<et>beseelt.</et>
+Ihr Götter! prächtig au&sr; Ruinen
+Erhebt sich euer Pantheon:
+Die Weisen alle dienen,
+Die Völker lernen schon.</aq></pv>
+<pv><aq>Sagt, Sterbliche, den Sphären ihre
+<et>Zahlen,</et>
+Und lehrt dem wilden Winde seinen Lauf,
+Und wägt den Mond, und spaltet Sonnen-
+<et>stralen,</et>
+Deckt die Geburt de&sr; alten Golde&sr; auf,
+Und steiget an der Wesen Kette
+Bi&sr; dahin, wo den höchsten Ring
+Zev&sr; an sein Ruhebette
+Zu seinen Füs&sr;en hieng.</aq></pv>
+<pb="16"/>
+<pv><aq>Wohl dir, o du, durch meinen Freund
+<et>regieret,</et>
+Athen an Geist, voll Muth, wie Sparta
+<et>war:</et>
+E&sr; zog, von Kastor&sr; Liede gern verführet,
+Zum Kampf hinau&sr; mit aufgebundnem
+<et>Haar;</et>
+Die Feinde, die den Kampf verloren,
+Erwiederten, (nicht ohne Neid!)
+Die Stadt sey nur geboren
+Zu Waffen und zum Streit. &2014;</aq></pv>
+<pv><aq>So sang Kalliope, die, voll Entzücken,
+Mit ihrer kriegerischen Tuba kam,
+Und, nicht gesehn von ungeweihten
+<et>Blicken,</et>
+Den Weg zum Tempel de&sr; Apollo nahm,
+Wo schon mit Lauten und mit Flöten,
+Verlarvt und im Zypressenkranz
+Sich ihre Schwestern drehten
+Im schönsten Reihentanz.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>Die Wiederkehr.</g></aq></d1>
+<poem><aq><in>I</in>ch, Kalliopen&sr; oft heimlich entflohener
+Jünger, der ich, zu lange! dir,
+Strenge Kritika, dir, Schwester der eitelen
+Pansophia, gefolget bin,
+Kehre reuevoll um, eile voll Sehnsucht der
+Allgefälligen Göttinn zu.
+Denn mein Tadel</aq> <fn="(*)"><aq>Kein schriftlicher, sondern ein mündlicher.
+Der Verfasser hat vor und nach dem Jahre 1750 an kei-
+ner einzigen kritischen Schrift Antheil gehabt: man
+nehme da&sr; Lehrbuch au&sr;, vor welchem sein Name
+steht.</aq></fn><aq>, obgleich ganz in
+<et>den lautersten</et>
+Honig eingetaucht, schmerzete</aq>
+<bs><aq>B</aq></bs>
+<pb="18"/>
+<aq>Meinen Selim; und noch schwäret sein
+<et>kranke&sr; Herz.</et>
+Ja! nun weih ich mich ewig der
+Holden Muse! Mit ihr sang ich der Wälder
+<et>Lob,</et>
+Sang Lyäen&sr; und Amor&sr; Lob:
+Und mich liebte mein Freund. &2014; O! sich
+<et>geliebt zu sehn,</et>
+Welche Seligkeit! Liebe, dich
+Tauscht mein trunkener Geist nicht um
+<et>da&sr; Zeigen mit</et>
+Fingern, um der Versammelung
+Händeklatschen, de&sr; Volk&sr; ehrebezeu-
+<et>gende&sr;</et>
+Aufstehn; dich um Gespräche mit
+Gros&sr;en Königen nicht, noch um die
+<et>schmeichelnde</et>
+Tafel ihrer Gewaltigen.</aq></poem>
+<hr>
+<pb>
+<abb>
+<d1><aq>An die Stadt Berlin.
+1759.</aq></d1>
+<pv><aq><in>I</in>ch sahe sie! (mir zittern die Gebeine!)
+Ich sah, glückselige&sr; Berlin,
+Die Göttinn deine&sr; Strom&sr; vor deinem
+<et>Tannenhaine</et>
+Mit ihren Schwänen ziehn!</aq></pv>
+<pv><aq>Vergönne mir, Najade, nachzulallen,
+Wa&sr; mein erstaunte&sr; Ohr durchdrang,
+Und wa&sr; dein Göttermund den Faunen
+<et>sang, und allen</et>
+Hamadryaden sang. &2014; &2014;</aq></pv>
+<bs><aq>B</aq> 2</bs>
+<pb="20"/>
+<pv><aq>Sey mir gegrüs&sr;t, Augusta, meine
+<et>Krone!</et>
+Die Städte Deutschland&sr; bücken sich!
+E&sr; hören meinen Stolz Belt, Donau,
+<et>Wolga, Rhone,</et>
+Und weichen hinter mich!</aq></pv>
+<pv><aq>Wa&sr; fürchten wir, ist gleich die Zahl
+<et>de&sr; Feinde&sr;</et>
+Wie dieser beiden Ufer Sand?
+O Tochter! hast du nicht zur Seite meine&sr;
+<et>Freunde&sr;</et>
+Stet&sr; einen Gott erkannt?</aq></pv>
+<pv><aq>Stritt Jupiter nicht selbst mit Friedrich&sr;
+<et>Volke,</et>
+Und donnerte den Feind zurück?
+Warf nicht der Kriege&sr;gott einst plötzlich
+<et>eine Wolke</et>
+Vor seine&sr; Mörder&sr; Blick?</aq></pv>
+<pb="21"/>
+<pv><aq>Sah ich nicht jüngst, (al&sr; er vom fernen
+<et>Süden</et>
+Den Riesen au&sr; der Mitternacht
+Sein Heer entgegen ris&sr;, ein kleine&sr; Heer
+<et>von Müden,</et>
+Bereit zur zehnten Schlacht,)</aq></pv>
+<pv><aq>Wie da&sr; Panier, von seiner Hand
+<et>gefasset,</et>
+Zur drohenden Aegide ward?
+Die Feinde sahn den Schild der Palla&sr;,
+<et>die sie hasset:</et>
+Und hafteten erstarrt</aq></pv>
+<pv><aq>Am Boden; &2014; bi&sr; sie durch sein Heer
+<et>zerschlagen,</et>
+Da&sr; unaufhaltsam weiter drang,
+Wie Halmen von de&sr; Himmel&sr; Schlossen
+<et>niederlagen</et>
+Dreyhundert Hufen lang.</aq></pv>
+<bs><aq>B</aq> 3</bs>
+<pb="22"/>
+<pv><aq>Ja, dinget nur die halbe Welt zu-
+<et>sammen,</et>
+Und raset wider Einen Mann,
+Und wendet wider ihn Verrath, Nacht,
+<et>Meyneid, Flammen,</et>
+Den ganzen Orku&sr; an:</aq></pv>
+<pv><aq>Borussien&sr; gerechter Held soll sie-
+<et>gen!</et>
+Die Götter schützen ihren Sohn.
+Bald wird er im Triumph zu seinen Kin-
+<et>dern fliegen.</et>
+Er kömmt, ich seh ihn schon!</aq></pv>
+<pv><aq>Er kömmt, da&sr; Haupt mit Stralen
+<et>rund umwunden,</et>
+Wie Deliu&sr; Apollo kam,
+Al&sr; er den Python schlug und ihm mit
+<et>tausend Wunden</et>
+Die schwarze Seele nahm.</aq></pv>
+<pb="23"/>
+<pv><aq>Eilt, ihn in Erz den Enkeln auf-
+<et>zustellen!</et>
+Eilt, einen Tempel ihm zu weihn
+Am Rande meine&sr; Strom&sr;! ich brenne,
+<et>seine Schwellen</et>
+Mit Bluhmen zu bestreun.</aq></pv>
+<hr>
+<bs><aq>B</aq> 4</bs>
+<pb>
+<abb>
+<d1><aq>An die Feinde de&sr; König&sr;.
+1760.</aq></d1>
+<pv><aq><in>W</in>ie lange schwingt die rasende
+<et>Megäre</et>
+Die Fackel? Götter dieser Welt,
+Warum verfolgt ihr ihn, zu seiner eignen
+<et>Ehre,</et>
+Den unbezwungnen Held?</aq></pv>
+<pb="25"/>
+<pv><aq>Ist&sr; möglich? machen euch so viel
+<et>Gefahren,</et>
+Mit welchen ihr ihn ringen saht,
+So viele Kronen, die mit Blut zu kaufen
+<et>waren,</et>
+So manche Götterthat,</aq></pv>
+<pv><aq>So manch von ihm zertretne&sr; Un-
+<et>geheuer</et>
+Nicht wieder zur Versöhnung Lust?
+So lange loderte der Rache schwarze&sr;
+<et>Feuer</et>
+In keine&sr; Gotte&sr; Brust.</aq></pv>
+<pv><aq>Al&sr; Herkul&sr; Arm den Löwen erst
+<et>erdrückte,</et>
+Der in Nemäen&sr; Felsen lag,
+Und, mit der Panzerhaut bedeckt, sein
+<et>Rachschwerdt zückte,</et>
+Und schnell, und Schlag auf Schlag,</aq></pv>
+<bs><aq>B</aq> 5</bs>
+<pb="26"/>
+<pv><aq>Der Hydra, die ihn zu ermüden
+<et>wagte,</et>
+Ihr immer wachsend Leben nahm,
+Obgleich die Fersen ihm ein kriechend
+<et>Seethier nagte,</et>
+Da&sr; gieng und wiederkam;</aq></pv>
+<pv><aq>Und dann die falsche Brut der Stym-
+<et>phaliden,</et>
+Die wild au&sr; ehrnen Schnäbeln schrien,
+Mit ehrnen Klauen raubten, und den Kampf
+<et>vermieden,</et>
+Au&sr; Sumpf und Busch zu ziehn,</aq></pv>
+<pv><aq>Ein Mittel traf; (denn diese zu
+<et>erlegen,</et>
+War nur ein Spiel für Herkul&sr; Hand;)
+Und drauf au&sr; Thrazien die Rosse, die
+<et>den Segen</et>
+Der Felder weggebrannt,</aq></pv>
+<pb="27"/>
+<pv><aq>Und flammenathmend in die Hütten
+<et>drangen,</et>
+Und ihren Schlund, da&sr; offne Grab,
+Mit Menschen fülleten, lebendig aufge-
+<et>sangen</et>
+Dem wilde Viehe gab:</aq></pv>
+<pv><aq>Da sank der Zorn der reuerfüllten
+<et>Götter;</et>
+Und Juno, frey von Rachbegier,
+Brach au&sr;: Sohn Jupiter&sr;, der Sterblichen
+<et>Erretter,</et>
+O! mehr ein Gott, al&sr; wir!</aq></pv>
+<pv><aq>Geneus&sr;, geneus&sr; der Ruh, die dir
+<et>entzogen,</et>
+Seit ich dies&sr; Feuer angefacht,
+Und alle Himmlischen, durch meine Wut
+<et>betrogen,</et>
+Auf dich entbrannt gemacht!</aq></pv>
+<pb="28"/>
+<pv><aq>Geneus&sr; der Opfer, die von beiden
+<et>Enden</et>
+Der Erde, künftig jedermann
+Dir bringen wird, nicht un&sr;! und nimm
+<et>von meinen Händen</et>
+Den ersten Nektar an.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq>Lied der Nymphe Persante.
+Den 24 September 1760.</aq></d1>
+<arg><aq>(Nachdem die Festung Kolberg von dem Russischen
+Heere einmal zu Lande, und zum zweyten mal von
+der Russischen und Schwedischen Seemacht vergeblich
+belagert worden war.)</aq></arg>
+<pv><aq><in>E</in>r siegt! mein Perseu&sr; siegt! &2014; Ihr
+<et>Freudenzähren,</et>
+Erstickt nicht meinen Lobgesang! &2014;
+O Fluten meine&sr; Strom&sr;, erzählt in allen
+<et>Meeren</et>
+De&sr; Drachen Untergang!</aq></pv>
+<pb="30"/>
+<pv><aq>Hier, wo der Belt, mein Kolberg zu
+<et>verschonen,</et>
+Mit Dünen sein Gestad&2019; umzieht,
+Sas&sr; ich, und sang entzückt den horchenden
+<et>Tritonen</et>
+Von meinem Freund&2019; ein Lied.</aq></pv>
+<pv><aq>&q;Er schlug da&sr; Raubthier jüngst, da&sr;
+<et>der beschneyte</et>
+&q;Riphäu&sr; auf mich au&sr;gespien,
+&q;Al&sr; ich, verlassen von den Göttern, seine
+<et>Beute</et>
+&q;Unwiederbringlich schien. &2014;</aq></pv>
+<pv><aq>Ich sprach&sr;: al&sr; ich urplötzlich einen
+<et>Drachen</et>
+Au&sr; blauer Tiefe steigen sah
+Mit sunfzig aufgeris&sr;nen feuerspeynden
+<et>Rachen:</et>
+Ohnmächtig lag ich da.</aq></pv>
+<pb="31"/>
+<pv><aq>Mein Perseu&sr; flog in diesem Augen-
+<et>blicke</et>
+Herab von seiner Warte, schwang
+Sein glorreich Eisen, hielt den Tod im
+<et>Meer zurücke</et>
+Dreymal neun Tage lang.</aq></pv>
+<pv><aq>Ha! welche Flammenströme schos&sr; die
+<et>Hyder</et>
+Nach seinem Leben! &2014; Endlich fand
+Mein Flehn der Götter Ohr: und Waffen
+<et>fielen nieder</et>
+Da, wo mein Gastfreund stand.</aq></pv>
+<pv><aq>So bald ihm Pluton&sr; Helm da&sr; Haupt
+<et>verhüllte,</et>
+Ihn Herme&sr; Flügel trug, der Speer
+Der schrecklichen Minerva seine Rechte
+<et>füllte:</et>
+Stürzt&2019; er die Pest in&sr; Meer.</aq></pv>
+<pb="32"/>
+<pv><aq>Von meinen Lippen soll sein Lob
+<et>erschallen,</et>
+Ich feyre dankbar meinen Held,
+So lang&2019; in diese&sr; Hafen&sr; Arme Segel
+<et>wallen</et>
+Vom Ostwind&2019; aufgeschwellt.</aq></pv>
+<pv><aq>Ihm selbst will ich, wann er den Strand
+<et>begrüs&sr;et,</et>
+Auf seine Wege Kalmu&sr; streun
+Und Muscheln; denn mein Flus&sr; ist arm:
+<et>kein Goldsand flies&sr;et,</et>
+Kaum Ambra rollt hinein.</aq></pv>
+<pv><aq>Und du, mein Barde, der du vor den
+<et>Thoren</et>
+Von deiner mütterlichen Stadt
+Einst Lieder lalletest, wenn sie, die dich
+<et>geboren,</et>
+Noch deine Liebe hat:</aq></pv>
+<pb="33"/>
+<pv><aq>So singe meinen Liebling, meinen
+<et>Retter</et>
+In jene Laute, die dir jüngst
+Besaitet ward, in welche du den Kampf
+<et>der Götter</et>
+Mit den Titanen singst.</aq></pv>
+<hr>
+<bs><aq>C</aq></bs>
+<pb>
+<abb>
+<d1><aq><g>Auf ein Geschütz.</g>
+Berlin, den 3 October 1760.</aq></d1>
+<arg><aq>(Al&sr; von der Ru&sr;sischen Artillerie eine Kugel au&sr;
+einer ungewöhnlichen Ferne bi&sr; mitten in die Stadt
+getrieben wurde.)</aq></arg>
+<pv><aq><in>O</in> du, dem glühend Eisen, donnernd
+<et>Feuer</et>
+Au&sr; offnem Aetnaschlunde flammt,
+Die frommen Dichter zu zerschmettern,
+<et>Ungeheuer,</et>
+Da&sr; au&sr; der Hölle stammt!</aq></pv>
+<pb="35"/>
+<pv><aq>Wer zur Verheerung blühender Ge-
+<et>schlechter</et>
+Dich an da&sr; Sonnenlicht gebracht,
+Hat ohne Reue seine Mutter, seine
+<et>Töchter</et>
+Frohlockend umgebracht.</aq></pv>
+<pv><aq>Ganz nahe war ich schon dem Styx,
+<et>ganz nahe</et>
+Dem giftgeschwollnen Cerberu&sr;;
+Ich hörte schon da&sr; Rad Ixion&sr; rasseln,
+<et>sahe</et>
+Die Brut de&sr; Danau&sr;,</aq></pv>
+<pv><aq>Verdammt zum Spott bey bodenlosen
+<et>Fässern;</et>
+Und Mino&sr; Antlitz, und da&sr; Feld
+Elysien&sr;; den gros&sr;en Ahnherrn eine&sr;
+<et>grössern</et>
+Urenkel&sr;, und sein Zelt</aq></pv>
+<bs><aq>C</aq> 2</bs>
+<pb="36"/>
+<pv><aq>Voll tapfrer Brennen sah ich: ihre
+<et>Lieder,</et>
+Ihr Fest bey jedem Freudenmahl
+Ist er, der wider sech&sr; Monarchen sicht,
+<et>und wider</et>
+Satrapen ohne Zahl.</aq></pv>
+<pv><aq>Schon säng&2019; ich seine jüngste That: wie
+<et>brausend</et>
+Ein Meer von Feinden ihn umfieng,
+Er aber seinen Weg hindurch auf zehen-
+<et>tausend</et>
+Zertretnen Schedeln gieng.</aq></pv>
+<pv><aq>Alcäu&sr; würde jetzt mein Lied be-
+<et>neiden,</et>
+Schon säh ich Cäsarn lauschend nahn,
+Mit ihm den weisen Antonin, und den
+<et>von beiden</et>
+Gefeyrten Julian.</aq></pv>
+<pb="37"/>
+<pv><aq>Allein Merkur stand neben mir, und
+<et>wandte</et>
+Durch seinen wunderbaren Stab
+Den Ball, der mich in&sr; Reich der Nacht
+<et>zu schleudern brannte,</et>
+Von meinen Schläfen ab.</aq></pv>
+<pv><aq>Denn ich soll noch die Laute stärker
+<et>schlagen,</et>
+Wann er durch Weihrauchwolken zeucht,
+Die Kriege&sr;furie gefesselt an dem Wa-
+<et>gen</et>
+De&sr; Ueberwinder&sr; keucht;</aq></pv>
+<pv><aq>Wann er, auf einem Throne von
+<et>Trophäen,</et>
+Rund um sich her der Künste Kranz,
+Und wir im Musentempel seine Siege
+<et>sehen</et>
+Versteckt in Spiel und Tanz;</aq></pv>
+<bs><aq>C</aq> 3</bs>
+<pb="38"/>
+<pv><aq>Wann er, ein Gott Osir! durch unsre
+<et>Fluren</et>
+Im seligsten Triumphe fährt,
+Indes&sr; der Ueberflus&sr; auf jede seiner
+<et>Spuren</et>
+Ein ganze&sr; Füllhorn leert.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq>An den Fabiu&sr;.</aq></d1>
+<arg><c><aq>Nach der Schlacht bey Torgau.
+Den 3 November</aq> 1760.</c></arg>
+<pv><aq><in>O</in> Fabiu&sr;! gereut dich nach drey
+<et>Iahren</et>
+Dein glückliche&sr; Verziehn?
+Wo waren deine Felsen? Waren
+Die Felsen nicht mehr steil für ihn?</aq></pv>
+<bs><aq>C</aq> 4</bs>
+<pb="40"/>
+<pv><aq>Vergissest du, wie man bey Nacht dem
+<et>Sieger</et>
+In&sr; müde Lager streift?
+Und wie man eine Hand voll Krieger
+Mit einem Ocean ersäuft?</aq></pv>
+<pv><aq>Und wie man bund&sr;verwandte Na-
+<et>tionen</et>
+Bequem zur Schlachtbank schickt,
+Indessen man, sein Heer zu schonen,
+Von sichrer Höh weit um sich blickt?</aq></pv>
+<pv><aq>Wer nimmt sich nun der Diener armer
+<et>Staaten</et>
+Der hohen Bassen an,
+Und straft den stolzen Potentaten,
+Der selbst regieren will, und kann?</aq></pv>
+<pb="41"/>
+<pv><aq>Wer rächt die Feldherrn, die nach
+<et>Ehre dürsten,</et>
+Nach Beute lüstern sind,
+An diesem wunderbaren Fürsten,
+Der seine Schlachten selbst gewinnt?</aq></pv>
+<pv><aq>Und ach! wer rächt die Zunft der
+<et>schönen Geister,</et>
+Nun du geschlagen bist,
+An einem Könige, der Meister
+In allen ihren Künsten ist?</aq></pv>
+<pv><aq>Weh deinem Pontifex, der stet&sr; die
+<et>Layen</et>
+Mit Wundern hintergeht!
+Er kann ja keinen Degen weihen,
+Der wider Palla&sr; Helm besteht.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>An seinen Arzt.</g></aq></d1>
+<arg><c><aq>Berlin, den 24 Jenner</aq> 1762.</c></arg>
+<pv><aq><in>M</in>ein Arzt, mein Freund, o! las&sr; mich
+<et>ihn entsiegeln,</et>
+Den Hochheim&sr; edle Kelter zwang,
+Und jenen, alt al&sr; ich, der einst auf Tar-
+<et>zal&sr; Hügeln</et>
+Die Morgensonne trank!</aq></pv>
+<pb="43"/>
+<pv><aq>Das&sr; ich dies&sr; thrazisch kalte Fieber
+<et>höhne,</et>
+Da&sr; um mein Eingeweide schleicht,
+Und hohe säkularische Päanen töne;
+(Denn <g>Friederich</g> erreicht</aq></pv>
+<pv><aq>Heut seiner Jahre Mittag, den Phalangen
+Europen&sr; nicht, auch nicht der Wut
+Der Horden Asien&sr; bezwinglich, noch den
+<et>Schlangen</et>
+Der Eumenidenbrut;)</aq></pv>
+<pv><aq>Und trunkne Jubel jauchze, das&sr; von
+<et>allen</et>
+Feindinnen nur Theresia
+Noch trotzen darf; das&sr; Tanaquil jüngsthin
+<et>gefallen,</et>
+Und nun Kleopatra.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>An Lycida&sr;.</g></aq></d1>
+<pv><aq><in>W</in>en feine Mutter unter den zärtlichen
+Gesängen heller Nachtigallchör&2019; empfieng,
+Wer ihr in ihren Götterträumen
+Nächtlich al&sr; Schwan sich vom Busen
+<et>lo&sr;wand,</et></aq></pv>
+<pv><aq>Hängt nicht erstrittne Fahnen, und Schlüssel
+<et>von</et>
+Bezwungner Städte Thoren, und feindliche
+Galeerenschnäbel in Gradiven&sr;
+Blutige Tempel auf; keine Schiffe,</aq></pv>
+<pb="45"/>
+<pv><aq>Mit Künsten aller Völker, mit jeder
+<et>Frucht</et>
+Der sonnenrothen Berge, de&sr; kalten
+<et>Meer&sr;,</et>
+Der aufgedeckten Hölle wuchernd,
+Fliegen für ihn um die beiden Pole.</aq></pv>
+<pv><aq>Ununterwiesen wird er al&sr; Knabe schon
+Die Frühling&sr;bluhme singen, und froh
+<et>bestürzt</et>
+Sich einen Dichter grüs&sr;en hören.
+Ihm wird die jüngste der Charitinnen,</aq></pv>
+<pv><aq>Die wohlbewachte Scham, sich zur Füh-
+<et>rerinn</et>
+Entbieten. Ihm wird Palla&sr; die Wolke von
+Den Augen nehmen, das&sr; ihr Jünger
+Wahrheit und blendenden Trug er-
+<et>kenne.</et></aq></pv>
+<pb="46"/>
+<pv><aq>In Wäldern wird er einsam den Vater
+<et>der</et>
+Natur verehren. Endlich, o Lycida&sr;,
+Erwartet er, gleich eine&sr; fremden
+Manne&sr; Besuche den Tod mit Gleich-
+<et>muth.</et></aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq>An
+Herrn Christian Gottfried Krause.</aq>
+<g>1762.</g></d1>
+<pv><aq><in>M</in>ein Krause, den nicht der Themi&sr;
+<et>Orakel,</et>
+Der Zank am Altar&2019;, im Tempel der
+<et>Aufruhr</et>
+Entwöhnten zärtliche Lieder
+Au&sr; siebenfach tönenden Saiten zu
+<et>ziehn,</et></aq></pv>
+<pb="48"/>
+<pv><aq>Las&sr; andre den Sieg de&sr; feurigen Heinrich&sr;,
+Den schnellen Triumph de&sr; Löwen besingen,
+Der, selbst im Schlummer erschrecklich,
+Die Lybischen Wüsten in Ehrfurcht
+<et>erhält;</et></aq></pv>
+<pv><aq>Und endlich, gereizt vom drohenden Pan-
+<et>ther,</et>
+Den nimmer umsonst gewageten Sprung
+<et>thut,</et>
+Im Bauch de&sr; Feinde&sr; die Klauen,
+Im Nacken den zähnebewaffneten
+<et>Schlund.</et></aq></pv>
+<pv><aq>Ich singe mit dir die sanfteren Siege
+Der Daphne, da&sr; Glück um Iri&sr; zu
+<et>brennen,</et>
+Um euch, ihr leuchtenden Augen!
+Dich, strebender Busen! dich, Gra-
+<et>zienmund!</et></aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq>An die Göttinn der Eintracht.</aq>
+<g>1762.</g></d1>
+<pv><aq><in>K</in>onkordia! &2014; durch dich rollt jede
+<et>Sphäre;</et>
+Und wo dein Fus&sr; ein Land betrat,
+Da zeichneten volkreiche Städte, Tänze,
+<et>Chöre</et>
+Der Jungfraun deinen Pfad:</aq></pv>
+<bs><aq>D</aq></bs>
+<pb="50"/>
+<pv><aq>(Doch Drat und Beil trägt dir mit
+<et>schnellem Schritte,</et>
+Die Blicke drohend, taub da&sr; Ohr,
+Der Brüder Blut, der Ehen Schmach, den
+<et>Raub der Hütte</et>
+Zu rächen, Ate vor:)</aq></pv>
+<pv><aq>Zu dir erheben au&sr; zerstörten Städ-
+<et>ten,</et>
+Zu dir auf Trümmern um den Strand,
+Zu dir auf Saaten, die de&sr; Rosse&sr; Huf
+<et>zertreten,</et>
+Die Völker Mund und Hand;</aq></pv>
+<pv><aq>Zu dir die Pflanzstadt ungeborner
+<et>Söhne,</et>
+Die deiner milden Künst&2019; entbehrt: &2014;
+Das&sr; doch dein Geist den Zorn der Könige
+<et>versöhne,</et>
+Der itzt die Welt verheert.</aq></pv>
+<pb="51"/>
+<pv><aq>Dir hat dein Freund, Teutonien&sr;
+<et>Erretter,</et>
+Der Held, der dreymal Frieden heischt,
+Bevor sein schwerer Arm durch sieben
+<et>Donnerwetter</et>
+Der Fürsten Raubsucht täuscht,</aq></pv>
+<pv><aq>Vereint mit Suecien durch deine Bande,
+Und mit Ruthenien vertraut,
+Nach langer Arbeit einen Tempel an dem
+<et>Rande</et>
+De&sr; alten Belt&sr; erbaut.</aq></pv>
+<pv><aq>Schränkt sich Semirami&sr; in ihre weiten
+Fruchtreichen Dynastien ein:
+So wird er mit entzückter Seele dir den
+<et>zweyten</et>
+Auf den Sudeten weihn.</aq></pv>
+<hr>
+<bs><aq>D</aq> 2</bs>
+<pb>
+<abb>
+<d1><aq>Auf die Wiederkunft de&sr; Könige&sr;.
+Berlin, den 30 März</aq> 1763.</d1>
+<pv><aq><in>D</in>er Held, um den du bebtest, wann
+<et>im Streite,</et>
+Wohin ihn dein Verhängnis&sr; trug,
+Der ehrne Donner von den Bergen ihm
+<et>zur Seite</et>
+Die Feldherrn niederschlug:</aq></pv>
+<pb="53"/>
+<pv><aq>Da wider ihn mehr Feinde sich ge-
+<et>sellten,</et>
+Al&sr; dir die Nachwelt glauben darf,
+Und er sich mit entschlos&sr;ner Seele zweyen
+<et>Welten</et>
+Allein entgegen warf;</aq></pv>
+<pv><aq>Dein König, o Berlin, durch den du
+<et>weiser,</et>
+Al&sr; alle deine Schwestern bist,
+Voll Künste deine Thore, Felsen deine
+<et>Häuser,</et>
+Die Flur ein Garten ist;</aq></pv>
+<pv><aq>Dein Vater, der dich oft in deinem
+<et>Mangel</et>
+Gespeist, &2014; kehrt wieder in dein Land,
+Und hat in Fesseln an der Höllenpforten
+<et>Angel</et>
+Die Zwietracht hingebannt.</aq></pv>
+<bs><aq>D</aq> 3</bs>
+<pb="54"/>
+<pv><aq>Fall&2019; an sein Herz, o Königinn, mit
+<et>Zähren</et>
+Der Freude! Fleuch an seine Brust,
+Amalia, von deinen frommen Dank-
+<et>altären,</et>
+Und rede, wenn die Lust</aq></pv>
+<pv><aq>Dich reden läs&sr;t! Vermählte seiner
+<et>Brüder,</et>
+Küs&sr;t sein friedselig Angesicht:
+Willkommen, Schutzgeist deine&sr; Volke&sr;!
+<et>und sagt wieder:</et>
+Willkommen! und mehr nicht.</aq></pv>
+<pv><aq>Ihr Jungfraun deckt mit immergrünen
+<et>Zweigen,</et>
+Mit einem ganzen Lorbeerhain
+Den Weg! mischt Bluhmen, die der offnen
+<et>Erd&2019; entsteigen,</et>
+Und frühe Blüthe drein!</aq></pv>
+<pb="55"/>
+<pv><aq>Ihr edeln Mütter, opfert Spece-
+<et>reyen,</et>
+Die Maraba den Tempeln zollt,
+Da wo sein goldner Wagen durch ge-
+<et>drängte Reihen</et>
+Entzückter Augen rollt.</aq></pv>
+<pv><aq>Heil un&sr;, das&sr; unser Morgen in die
+<et>Tage</et>
+De&sr; <g>einzigen Monarchen</g> fiel!
+So sagt ihr Jünglinge. Du, Chor der Alten,
+<et>sage:</et>
+Heil un&sr;, das&sr; wir da&sr; Ziel</aq></pv>
+<pv><aq>So viel gekrönter Thaten sahn! wir
+<et>sterben</et>
+Von Wonne trunken: <g>Friederich</g>
+Bleibt hinter un&sr;; ihr stolzen Enkel sollt
+<et>ihn erben!</et>
+Triumph! so sag&2019; auch ich,</aq></pv>
+<bs><aq>D</aq> 4</bs>
+<pb="56"/>
+<pv><aq>Wenn, unter hohen, jubelvollen Zun-
+<et>gen,</et>
+<g>Ein</g> süs&sr;er Ton auch mir gerieth:
+Triumph! ich hab&2019; ein Lied dem Gött-
+<et>lichen gesungen,</et>
+Und ihm gefällt mein Lied.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>An Hymen.</g></aq></d1>
+<pv><aq><in>L</in>yäen&sr; und Cytheren&sr; Sohn,
+Im schönsten Rausch geboren,
+Gott Hymen, der du dir zum Thron
+Da&sr; Hochzeitbett erkohren!</aq></pv>
+<pv><aq>Dir fleht der sorgenvolle Grei&sr;:
+O Stifter der Geschlechter,
+Nimm, wa&sr; ich nicht zu schützen weis&sr;,
+Nimm mir die gros&sr;en Töchter!</aq></pv>
+<bs><aq>D</aq> 5</bs>
+<pb="58"/>
+<pv><aq>Dir schmückt da&sr; fromme Mädchen sich
+Bey seinem Morgenliede;
+Der weise Jüngling hofft auf dich,
+De&sr; falschen Amor&sr; müde.</aq></pv>
+<pv><aq>Dich rufen junge Wittwen an
+Im hochbetrübten Schleyer;
+Im Flohr bekennt der Trauermann
+Dir sein gewaltig Feuer.</aq></pv>
+<pv><aq>Du, mehr al&sr; andre Götter werth,
+Dir flehen auch die Prinzen:
+Erfülle, wa&sr; der Krieg geleert,
+Erfüll&2019; un&sr; die Provinzen!</aq></pv>
+<pb="59"/>
+<pv><aq>O! wenn dich noch ein Opferschmau&sr;
+Herab vom Himmel ziehet:
+So komm in meine&sr; Leukon&sr; Hau&sr;,
+Der am Altare knieet!</aq></pv>
+<pv><aq>O komm! zwey Ring&2019; an Einer Hand,
+Und um die Schläfe Myrthen,
+Und um den Arm ein goldne&sr; Band,
+Da&sr; Knie der Braut zu gürten,</aq></pv>
+<pv><aq>Die, wann von Wein und Liebe voll,
+Ein Gast zu viel begehret,
+Und sie doch etwa&sr; missen soll,
+Am liebsten Band entbehret.</aq></pv>
+<pb="60"/>
+<pv><aq>Die Schaar der trunknen Räuber theilt
+Sich in die goldne Beute:
+Sie flieht indes&sr;, der Liebling eilt,
+Und giebt ihr da&sr; Geleite.</aq></pv>
+<hr>
+<pb="61"/>
+<abb>
+<d1><aq><g>An die Muse.</g></aq></d1>
+<pv><aq><in>W</in>illst du den allerhöchsten Zev&sr; er-
+<et>höhen,</et>
+Der sein allmächtig Haupt bewegt,
+Und den Olymp erschüttert? oder Athe-
+<et>näen,</et>
+In diesem Haupt gepflegt,</aq></pv>
+<pb="62"/>
+<pv><aq>Die mit bestälter Esche, nimmer
+<et>müde,</et>
+Den rasenden Encelado&sr;
+Zurücke warf, und mit der ewigen
+<et>Aegide</et>
+Da&sr; felsigte Geschos&sr;?</aq></pv>
+<pv><aq>Singst du den <g>ersten König</g> in die
+<et>Saite,</et>
+Die Patareu&sr; dir aufgespannt?
+Ihn? oder <g>seinen Bruder?</g> oder wählst
+<et>du heute</et>
+Den <g>Gwelfen Ferdinand?</g></aq></pv>
+<pv><aq>In königlicher Wei&sr;heit unterwie-
+<et>sen,</et>
+Zu Kriege&sr;tugenden erhitzt,
+Sind beide hoher Hymnen werth. &2014; Bald
+<et>singe diesen,</et>
+O Muse! jenen itzt.</aq></pv>
+<pb="63"/>
+<pv><aq>Wohlan, mein Lied! spann&2019; alle deine
+<et>Segel</et>
+Bi&sr; an den Wimpel auf, und sprich:
+Al&sr; der Monarch, den Sprea, Viadru&sr; und
+<et>Pregel</et>
+Anbeten, <g>Friederich-</g></aq></pv>
+<pv><aq><g>Arminiu&sr;,</g> von Galliern befallen,
+Beraubt durch den erkauften Nord,
+Mit seinem Schwerdte nicht allgegenwär-
+<et>tig allen</et>
+Begegnen konnte, dort,</aq></pv>
+<pv><aq>Dem wilden Ost, und hier, dem falschen
+<et>Süden:</et>
+Da brach, gleich einem Meteor,
+Da&sr; den Orion au&sr;löscht und die Tynda-
+<et>riden,</et>
+<g>Prinz Heinrich&sr;</g> Geist hervor.</aq></pv>
+<pb="64"/>
+<pv><aq>Al&sr; Jüngling schlief er ehmal&sr; in der
+<et>Höhle</et>
+Aonien&sr;, und war die Lust
+Der Musen; itzt erhöheten sie seine
+<et>Seele:</et>
+Mit unbewegter Brust</aq></pv>
+<pv><aq>Hielt er der Söhne Teut&sr; verschworne
+<et>Heere</et>
+Zurück von unsrer Flur; (so stand
+Da&sr; Isthmische Gebirge, trennte beide
+<et>Meere,</et>
+Ward zweyer Völker Band;)</aq></pv>
+<pv><aq>Und plötzlich schlug er die betäubten
+<et>Schaaren,</et>
+Und krönete, dies&sr; war der Schlus&sr;
+Der Götter! jene zwölf Herkulischen
+<et>Gefahren</et>
+De&sr; <g>Deutschen Geniu&sr;.</g></aq></pv>
+<pb="65"/>
+<pv><aq>Wagst du noch mehr zu singen? &2014;
+<et>Das&sr; der Sieger,</et>
+So weit er in der Feinde Land
+Mit seinem Lager flog, gesegnet, seine
+<et>Krieger</et>
+Zum Wohlthun au&sr;gesandt?</aq></pv>
+<pv><aq>Selbst unerforschlich, jeden Anschlag
+<et>kannte?</et>
+Früh thätig, jeden hintertrieb? &2014;
+Nein; sage, das&sr; ihn <g>Friedrich</g> selbst
+<et>den Feldherrn nannte,</et>
+Der ohne Fehler blieb.</aq></pv>
+<hr>
+<bs><aq>E</aq></bs>
+<pb>
+<abb>
+<d1><aq>Glauku&sr; Wahrsagung.</aq></d1>
+<arg><aq>(Al&sr; die Französische Flotte au&sr; dem Hafen von
+Brest nach Amerika segelte.)</aq></arg>
+<pv><aq><in>A</in>l&sr; Ludewig&sr; Pilot mit stolzer Flotte
+Westgallien&sr; beschäumte&sr; Thor
+Verlies&sr;, hub Glauku&sr; au&sr; der tiefen Fel-
+<et>sengrotte</et>
+Sein blaue&sr; Haupt empor:</aq></pv>
+<pv><aq>Unglücklicher! der schon, von Hoff-
+<et>nung trunken,</et>
+De&sr; Ocean&sr; Gebieter ist,
+Du führst in deinen Schiffen einen Feuer-
+<et>funken,</et>
+Der beide Welten fris&sr;t!</aq></pv>
+<pb="67"/>
+<pv><aq>Bald nimmt der Abgrund eine My-
+<et>riade</et>
+Zu früh entleibter Seelen ein;
+Bald werdet ihr im Meer der Hayen, am
+<et>Gestade</et>
+Der Aaren Beute seyn!</aq></pv>
+<pv><aq>Die Götter, die jetzt lachend mit euch
+<et>ziehen,</et>
+Bereuen ihr geschenkte&sr; Glück,
+Verachten euren Uebermuth, und alle
+<et>fliehen</et>
+Nach Albion zurück:</aq></pv>
+<pv><aq>Das&sr; Albion der meerumflos&sr;nen
+<et>Erde</et>
+Gerechte Frieden&sr;richterinn,
+Da&sr; Schrecken der beraubten Oceane
+<et>werde,</et>
+Der Inseln Königinn;</aq></pv>
+<bs><aq>E</aq> 2</bs>
+<pb="68"/>
+<pv><aq>Ihr aber, flüchtig unter jeder Zone,
+So manchen schwimmenden Palast,
+Und Port, und Meer, und Eyland, und der
+<et>Kolombone</et>
+Durchströmte Flur verlas&sr;t.</aq></pv>
+<pv><aq>O weiche Söhne tapfrer Franken,
+<et>sprechet</et>
+Helvetien um Männer an!
+O! plündert unbewehrte Fürstenthümer!
+<et>brechet</et>
+Mit Wagen, Ros&sr; und Mann</aq></pv>
+<pv><aq>In eurer Väter alte Sitze! schreitet
+Kühn über den gehörnten Rhein,
+Sucht Palla&sr; Liebling auf, der für sein
+<et>Erbe streitet,</et>
+Und, eurer Macht zu klein,</aq></pv>
+<pb="69"/>
+<pv><aq>Und von verschwornen Barbarn über-
+<et>fallen,</et>
+Einst wanken mus&sr;: erdrücket ihn! &2014;
+Ihr unter den verschwornen sollt, ihr un-
+<et>ter allen</et>
+Allein mit Schande fliehn!</aq></pv>
+<pv><aq>Der Ort, wo sieben Krieger funfzig
+<et>jagen,</et>
+Ob ihr ihn zu vernichten sucht,
+Ein Brandmaal wird er euch, worauf in
+<et>späten Tagen</et>
+Ein bes&sr;rer Enkel flucht.</aq></pv>
+<pv><aq>Ob alle Reisigen au&sr; euren Vesten,
+Ob eine neue Helene
+Euch alle Prinzen au&sr; Lutetien&sr; Pa-
+<et>lästen</et>
+Zu Feldherrn sendete:</aq></pv>
+<bs><aq>E</aq> 3</bs>
+<pb="70"/>
+<pv><aq>Dort auf den Gräbern Römscher Le-
+<et>gionen</et>
+Erwartet eure Tapferkeit
+Ein Fürst, den Jupiter, der Hirtenstäb&2019;
+<et>und Kronen</et>
+Au&sr; Einer Urne streut,</aq></pv>
+<pv><aq>Nicht zum Monarchen, aber zum Ver-
+<et>gnügen</et>
+De&sr; menschlichen Geschlecht&sr; erkohr.
+Ha! welch ein lauter Päan steigt von sei-
+<et>nen Siegen</et>
+In mein entzückte&sr; Ohr!</aq></pv>
+<pv><aq>&q;Also zerbrach mit sieggewohnter
+<et>Rechte</et>
+&q;Der Alkumena Sohn, im Zorn,
+&q;Dem wandelbaren Gotte da&sr; zum Blutgefechte
+&q;Wild aufgeworfne Horn;</aq></pv>
+<pb="71"/>
+<pv><aq>&q;Also entkräftete der göttergleiche
+&q;Ulys&sr; den Riesen, der an Macht
+&q;Dreyhundertmal ihn übertraf, mit Einen
+<et>Streiche,</et>
+&q;Nicht ohne Muth vollbracht:</aq></pv>
+<pv><aq>&q;Also besieget euch, auf eure Listen
+&q;Und Punischen Betrug entbrannt,
+&q;Ein Held, den Palla&sr; und der <g>Brennen</g>
+<et><g>Friedrich</g> rüsten,</et>
+&q;Der <g>Gwelfe Ferdinand;</g></aq></pv>
+<pv><aq>Und so mit ewig unerschöpften
+<et>Witze</et>
+&q;Verhönt er euch, die ihr den Streit
+&q;Durch stärkre Heere, Wälle, donnernde
+<et>Geschütze</et>
+&q;Zu führen muthig seyd.</aq></pv>
+<bs><aq>E</aq> 4</bs>
+<pb="72"/>
+<pv><aq>&q;So bald sein himmlisch Feuer wenig
+<et>Britten</et>
+&q;Und Deutschland&sr; jugendlichen Rest
+&q;Beseelt: ein Wunder allen, welche Kre-
+<et>feld&sr; Hütten</et>
+&q;Bewohnen, und da&sr; Nest</aq></pv>
+<pv><aq>&q;De&sr; hohen Roncevall&sr;, und die Gefilde
+&q;Wodurch der Esse Gies&sr;bach rinnt.
+&q;Hier sahen euch, gelehnt auf ihre gold-
+<et>nen Schilde,</et>
+&q;Sein Ahnherr Witekind,</aq></pv>
+<pv><aq>&q;Und der Cheru&sr;kerfürst, der gros&sr;e
+<et>Schatten</et>
+&q;De&sr; Legionentödter&sr; fliehn:
+&q;Zehn Parasangen hinter eurer Flucht
+<et>die Matten</et>
+&q;Voll Raub und voll Ruin.</aq></pv>
+<pb="73"/>
+<pv><aq>&q;Vergeblich flieht ihr diesen Feind, ge-
+<et>schwinder</et>
+&q;Al&sr; Kraniche den Adler; setzt
+&q;Vergeblich zwischen euch und euren Ue-
+<et>berwinder</et>
+&q;Jetzt Berge, Ströme jetzt:</aq></pv>
+<pv><aq>&q;Auf ungezähmten Rossen, mit der Flamme
+&q;De&sr; Schwerdte&sr;, zürnet hinter euch
+&q;Ein zweyter <g>Ferdinand</g> au&sr; diesem Göt-
+<et>terstamme,</et>
+&q;Dem Sohn der Theti&sr; gleich,</aq></pv>
+<pv><aq>&q;Nicht wundenfrey, doch unverkürtzt
+<et>an Jahren:</et>
+(&q;Geh, lebe! war der Parze Schlus&sr;,
+&q;Nach deinem Vater spät ein Kriege&sr;gott
+<et>der Schaaren</et>
+&q;Am stillen Ockaru&sr;.)</aq></pv>
+<bs><aq>E</aq> 5</bs>
+<pb="74"/>
+<pv><aq>&q;Ihm folgen seine Brüder; alle glühen
+&q;Nach Ehre: Kriege&sr;donner, wie
+&q;Die Scipionen, und im Frieden, von
+<et>Thalien</et>
+&q;Geliebet, so wie sie.</aq></pv>
+<pv><aq>&q;Ein Eigenthum durch alle Folge-
+<et>zeiten</et>
+&q;Von Braunschweig&sr; Helden: jeder spannt
+&q;De&sr; Gotte&sr; Silberbogen und de&sr; Gotte&sr;
+<et>Saiten</et>
+&q;Mit gleich geübter Hand.</aq></pv>
+<pv><aq>&201D;Und dennoch übersteigt so weit und
+<et>weiter</et>
+&q;De&sr; Herzen&sr; Güte diesen Werth,
+&q;Al&sr; jenen Sonnenball der gros&sr;e Tag, der
+<et>heiter</et>
+&q;Durch alle Himmel fährt.&201E;</aq></pv>
+<pb="75"/>
+<pv><aq>So, gleich Arion&sr; Liede, gleich dem
+<et>Tone,</et>
+Der Götter und Delphine zwang,
+So, zu de&sr; Gwelfen Ruhm, de&sr; Burboni-
+<et>den Hohne,</et>
+Teutonien&sr; Gesang. &2014;</aq></pv>
+<pv><aq>Du stehst beschämt, o Burbon&sr; Enkel? &2014;
+<et>Höre</et>
+Ein nie zuvor geträumte&sr; Glück!
+De&sr; Britten schwacher Kriege&sr;dämon giebt
+<et>dir Ehre</et>
+Und Land und Meer zurück.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>Der Triumph.</g></aq></d1>
+<poem><aq><in>S</in>chäme dich, Kamill,
+Das&sr; du mit vier Sonnenpferden
+In dein errettete&sr; Rom zogst!
+Und du, Romulischer Feinde
+Glücklicher Sieger, o Juliu&sr;,
+Das&sr; dich, mit goldenen Städten und
+<et>Schlachten,</et></aq>
+<pb="77"/>
+<aq>Und mit Adlern und Spolien
+Deiner Brüder umgeben,
+Zum hohen Kapitol dein stolzer Wagen
+<et>trug. &2014;</et>
+<g>Friederich,</g> ein Prinz der Brennen,
+Ward angefallen von Völkern Hungarien&sr;,
+Von Illyrien&sr; Reitern und Dacien&sr;:
+Alle dem Zepter der Königinn zin&sr;bar,
+Die Vindobonen&sr; saatenreiche Fluren,
+Und Austrasien&sr; Auen beherrscht,
+Und der Bajonen Gebirge,
+Und Hesperien&sr; goldene Gärten;
+Dieser erhabenen Fürstinn,
+Deren Wohlfahrt vom Himmel in
+Sieben Sprachen erflehet wird;</aq>
+<pb="78"/>
+<aq>Deren Heere, geführt vom Stab&2019; Eugen&sr;,
+Ehmal&sr; unbezwinglich, &2014; und itzt
+Verbunden waren mit allen, die
+Am Mäotischen, Kaspischen, Finnischen
+Sunde wohnen, den rauhen
+Samojeden, den Ostiaken,
+Und dem Tartar am Sangarflus&sr;:
+Einer Monarchinn dienstbar, einer,
+Die den weiten Umkrei&sr;
+Ihrer Welten nicht kennt.
+Auch trat zu ihnen der Söhne Sarmatien&sr;
+Selbsterwähleter König,
+Und stellte seine Sachsen, ein treue&sr; Volk,
+Mitten auf den Pfad de&sr; Sieger&sr;,
+Unter eine Felsenburg.</aq>
+<pb="79"/>
+<aq>Und die hohen Satrapen Germanien&sr;
+Fielen zahlreich dem Bunde bey.
+Und die theur erkauften Suenonen
+Drangen au&sr; dem beeisten Norden hervor:
+Enkel der Helden, mit denen ein Jüngling
+Europen und Asien schreckte.
+Und Gallien, da&sr; an zwey Meeren thront,
+Dessen Fahnen und Wimpel
+Unter allen Himmeln wehn,
+Lies&sr; seinen Schwarm au&sr;,
+Gleich dem Heere schwirrender Grillen,
+Die vor sich her ein blühend Land,
+Und hinter sich Wüsten sehn. &2014;
+Aber, Thalia, las&sr; ab
+Die Flotten und Fus&sr;knecht&2019; und Reiter
+<et>zu zählen!</et></aq>
+<pb="80"/>
+<aq><g>Friederich,</g> so sage, bekriegt
+Von scheelsüchtigen, oder getäuschten,
+Oder gezwungenen Fürsten,
+Kehrte, nach sieben blutigen Jahren,
+So mächtig zurück, al&sr; er au&sr;zog,
+Nur an Ehre grösser,
+Und triumphirte nicht. &2014;
+Siehe! er lenkt unsern Ehrenbogen au&sr;,
+Und unsern goldbehängten Rossen,
+Und besteigt den pralenden Wagen nicht!
+Denn sich selbst mit eine&sr; Gotte&sr; Zufriedenheit
+Ansehn, ist der Triumphe
+Allerhöchster. &2014; Und de&sr; Dichter&sr;
+Allerhöchster Triumph ist,
+Diesen König besingen.</aq>
+<pb="81"/>
+<aq>Drum schweige du nie von ihm, mein Lied,
+Stolzer, al&sr; der Ge&00EF;sche
+Und der Thebanische Päan,
+Keinem Golde feil,
+Auch selbst dem seinigen nicht.
+Und ob er auch diesen Triumph verlenkt,
+Und, deiner Töne nicht gewohnt,
+Sein Ohr zu Gallien&sr; Schwänen neigt:
+So singe du doch den Brennu&sr;söhnen
+Ihren Erretter unnachgesungen.</aq></poem>
+<hr>
+<bs><aq>F</aq></bs>
+<pb>
+<abb>
+<d1><aq>An
+<g>den Herrn General-Major
+von Buddenbrook,</g>
+bey Uebersendung einiger heroischen Oden.</aq></d1>
+<pv><aq><in>D</in>er du den Kriege&sr;geist in der Ge-
+<et>schichte liebest</et>
+Und in der Poesie;
+Und Deutsche Redlichkeit bey Welscher
+<et>Klugheit übest,</et>
+(Die schwerste Harmonie!)</aq></pv>
+<pb="83"/>
+<pv><aq>Empfiehl, o Buddenbrook, mir nicht
+<et>die Heldensöhne</et>
+Von Sparta, Rom, Athen;
+Verlange nicht durch mich auf väterlicher
+<et>Scene</et>
+Dein Liebling&sr;volk zu sehn.</aq></pv>
+<pv><aq>Ein Dichter, unerlöst von fremder Sor-
+<et>ge, singet</et>
+Ein leichtere&sr; Gedicht;
+Kornelljen&sr; Diadem, Voltären&sr; Kranz er-
+<et>ringet</et>
+Der müde Kämpfer nicht.</aq></pv>
+<pv><aq>Al&sr; Ludwig&sr; Maler sich de&sr; jüngern
+<et>Ammon&sr; Züge</et>
+Durch Kodomannu&sr; Land
+(Dem stolzen Gallier ein Vorbild eigner
+<et>Siege!)</et>
+Zu schildern unterwand:</aq></pv>
+<bs><aq>F</aq> 2</bs>
+<pb="84"/>
+<pv><aq>Da richtete sein Arm nicht Fechter ab,
+<et>nicht Schützen,</et>
+Erzog nicht Ros&sr; und Mann;
+Denn Künste dieser Art, wie sehr sie Krie-
+<et>gern nützen,</et>
+Stehn tausend Händen an.</aq></pv>
+<pv><aq>Und hätte sein Geschick ihm diese&sr;
+<et>Loo&sr; beschieden:</et>
+Dann hätt&2019; er au&sr; der Schlacht
+Am Graniku&sr; un&sr; nicht den gros&sr;en Phi-
+<et>lippiden</et>
+Bi&sr; Babylon gebracht. &2014;</aq></pv>
+<pv><aq>Freund deine&sr; Könige&sr;, nimm kleine
+<et>Siege&sr;lieder,</et>
+Nimm, wa&sr; ich geben kann,
+Ein Opfer <g>Friederich&sr;</g> und seiner tapfern
+<et>Brüder,</et>
+Mein achte&sr; Lustrum an!</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>Ptolomäu&sr; Evergete&sr;
+und Berenice.
+1765.</g></aq></d1>
+<sp><aq>Ptolomäu&sr;.</aq></sp>
+<pv><aq><in>O</in> Berenice! schöner al&sr; der Morgen,
+Für mich geboren, lange mir verborgen,
+Ich sahe dich, ich liebte dich:
+Doch ach! wa&sr; fühltest du für mich?</aq></pv>
+<bs><aq>F</aq> 3</bs>
+<pb="86"/>
+<sp><aq>Berenice.</aq></sp>
+<pv><aq>Ich fühlte deine feuervollen Blicke,
+Und wandte schnell die meinigen zu-
+<et>rücke:</et>
+Schon traut&2019; ich ihnen selbst nicht mehr;
+Denn ach! sie liebten dich zu sehr.</aq></pv>
+<sp><aq>Ptolomäu&sr;.</aq></sp>
+<pv><aq>Nach dir kann nicht&sr; hinfort mein Herz
+<et>gewinnen,</et>
+Nach dir auch nicht die schönste der Göt-
+<et>tinnen:</et>
+Vergeblich böte sie mir heut
+Mit ihrer Hand Unsterblichkeit.</aq></pv>
+<pb="87"/>
+<sp><aq>Berenice.</aq></sp>
+<pv><aq>Vor dir hat nicht&sr; mein junge&sr; Herz
+<et>gerühret;</et>
+Nun würde dir&sr; durch keinen Gott ent-
+<et>führet,</et>
+Und gäb&2019; er mir mit seiner Hand
+Die Gottheit über Meer und Land.</aq></pv>
+<sp><aq>Ptolomäu&sr;.</aq></sp>
+<pv><aq>Ach! willst du mir nicht bald dein
+<et>zweyte&sr; Leben,</et>
+Dein Ebenbild in einer Tochter ge-
+<et>ben?</et>
+Nicht dieser Augen schlauen Witz?
+Nicht diesen Mund, der Suada Sitz?</aq></pv>
+<bs><aq>F</aq> 4</bs>
+<pb="88"/>
+<sp><aq>Berenice.</aq></sp>
+<pv><aq>Dein sey da&sr; Ebenbild de&sr; ersten
+<et>Sohne&sr;!</et>
+Wann dich dereinst die Sorgen deine&sr;
+<et>Throne&sr;</et>
+Au&sr; meiner Arme Banden ziehn,
+Umarm&2019; ich doch, statt deiner, ihn.</aq></pv>
+<sp><aq>Ptolomäu&sr;.</aq></sp>
+<pv><aq>Wenn mich und dich die Göttinn Isi&sr;
+<et>liebet,</et>
+Und mir dein Bild in einem Sohne
+<et>giebet:</et>
+So bring&2019; ich diese Schal&2019; ihr dar,
+Die Zeuginn unsre&sr; Bunde&sr; war.</aq></pv>
+<pb="89"/>
+<sp><aq>Berenice.</aq></sp>
+<pv><aq>Und wenn die Götter mir dein Bild
+<et>verleihen,</et>
+So will ich ihnen diese Locke weihen.
+Die funfzehn oder sechzehn Jahr
+Die Zierde meiner Scheitel war.</aq></pv>
+<sp><aq>Ptolomäu&sr;.</aq></sp>
+<pv><aq>Ach! soll ein Stal dies&sr; schöne Haar
+<et>verletzen,</et>
+So mus&sr; ein Gott e&sr; an den Pol ver-
+<et>setzen;</et>
+Dort ist der Raum noch nicht gefüllt,
+Dort flamm&2019; e&sr; al&sr; ein Sternenbild.</aq></pv>
+<bs><aq>F</aq> 5</bs>
+<pb="90"/>
+<sp><aq>Berenice.</aq></sp>
+<pv><aq>Bi&sr; in den Himmel fliege deine
+<et>Schale!</et>
+Dort werde sie, bey jedem Freuden-
+<et>mahle,</et>
+Voll Nektar, der die Götter tränkt,
+Und voll Unsterblichkeit geschenkt.</aq></pv>
+<sp><aq>Ptolomäu&sr;.</aq></sp>
+<pv><aq>Wann, spät nach mir, dich selbst der
+<et>Himmel fodert,</et>
+Dann thronest du wo deine Locke lo-
+<et>dert:</et>
+Der ganze Norden ehret dich;
+Doch lange nicht so sehr, al&sr; ich.</aq></pv>
+<pb="91"/>
+<sp><aq>Berenice.</aq></sp>
+<pv><aq>Mit mir zugleich geneus&sr; im Sternen-
+<et>saale</et>
+Den Göttertrank au&sr; deiner goldnen
+<et>Schale.</et>
+Geliebter! kann er süs&sr;er seyn,
+Al&sr; dieser hochzeitliche Wein?</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq>Abschied von den Helden.</aq></d1>
+<pv><aq><in>N</in>icht <g>Friedrich&sr;</g> Helden, welche der
+<et>Brenne liebt,</et>
+Schwerin und Heinrich, Bevern und
+<et>Winterfeld,</et>
+Nicht jeder Gwelfe nur und Seidlitz
+Sind der gewaltigen Hymne würdig.</aq></pv>
+<pv>Auch ihr, der Staaten friedliche Wächter,
+<et>habt</et>
+Ein hohe&sr; Recht an unsern geflügelten
+Gesängen; auch der tapfre Richter
+Mächtiger Frevel und armer Unschuld;</pv>
+<pb="93"/>
+<pv><aq>Auch deren Geist dem immer erneuerten
+Geschlecht der Menschen Güter und Künste
+<et>fand;</et>
+Auch wer allwachsam seinen Bürgern
+Ueberflus&sr;, Sitte, Gesundheit au&sr;-
+<et>theilt.</et></aq></pv>
+<pv><aq>Noch viele goldne Pfeile ruhn unversucht
+Im Köcher eine&sr; Dichter&sr;, der frühe schon
+Sein Leben ganz den liederreichen
+Schwestern Uranien&sr; angelobt hat;</aq></pv>
+<pv><aq>Der, hoffend auf die Krone der After-
+<et>welt,</et>
+Den bürgerlichen Ehren entsagete;
+Der alle Wege, die zum Reichthum,
+Führen, verlies&sr;: ein zufriedner Jüng-
+<et>ling.</et></aq></pv>
+<pb="94"/>
+<pv><aq>Verleiht, bevor dies&sr; Haupthaar der Reif
+<et>umzieht,</et>
+Ein guter Gott mir Einen Aonischen
+Mit Bächen und Gebüsch durchflochtnen
+Winkel der Erde: so sollen alle</aq></pv>
+<pv><aq>Durch alle Winde fliegen, den Weisesten
+Ein süs&sr;er Klang, dem Ohre de&sr; blöden
+<et>Volk&sr;</et>
+Unmerklich. &2014; Ungeschwächt soll ihre
+Töne der Brittische Barde trinken;</aq></pv>
+<pv><aq>Sie sollen hell den Himmel Ausonien&sr;
+Durchwirbeln; (dort war ehmal&sr; ihr Vater-
+<et>herd:)</et>
+Auch Gallien&sr; vergnügter Sänger
+Höre den Nachhall, nicht ohne Scheel-
+<et>sucht.</et></aq></pv>
+<hr>
+<pb>
+<back><d1><aq><g>Anhang.</g></aq></d1></back>
+<pb>
+<pb>
+<abb>
+<d1><aq><g>Der May,</g>
+eine musikalische Idylle.</aq></d1>
+<sp><aq>Daphni&sr;.</aq></sp>
+<pv><aq><in>W</in>illkommen, allmächtiger May!
+Schönster unter den zwölf Göttern,
+Die dort am Himmel im Kreise sich lagern!
+Du krönest mit Segen da&sr; Jahr.</aq></pv>
+<bs><aq>G</aq></bs>
+<pb="89"/>
+<sp><aq>Phylli&sr;.</aq></sp>
+<pv><aq>Willkommen, allgütiger May!
+Bester unter allen Göttern,
+Die Feld und Garten mit Früchten erfüllen!
+Du segnest mit Liebe die Welt.</aq></pv>
+<sp><aq>Daphni&sr;.</aq></sp>
+<pv><aq>Ich sah den jungen May:
+Seine Silberglocken
+Hiengen um den Schlaf.
+Al&sr; er vom Himmel fuhr,
+Blühten alle Wipfel;
+Al&sr; er den Boden trat,
+Lies&sr; er Violen und Hyacinthen im Fus&sr;-
+<et>tritt zurücke.</et></aq></pv>
+<pb="99"/>
+<sp><aq>Phylli&sr;.</aq></sp>
+<pv><aq>Ich sah den jungen May:
+Einen Kranz von Myrthen
+In der rechten Hand.
+Al&sr; er vom Himmel fuhr,
+Sangen ihm die Lerchen;
+Al&sr; er zur Erde sank,
+Seufzten vor Liebe die Nachtigallen au&sr;
+<et>allen Gebüschen.</et></aq></pv>
+<sp><aq>Daphni&sr;.</aq></sp>
+<pv><aq>Willkommen, allmächtiger May!
+Schönster unter den zwölf Göttern!
+Du krönest mit Segen da&sr; Jahr.</aq></pv>
+<bs><aq>G</aq> 2</bs>
+<pb="100"/>
+<sp><aq>Phylli&sr;.</aq></sp>
+<pv><aq>Willkommen, allgütiger May!
+Bester unter allen Göttern!
+Du segnest mit Liebe die Welt.</aq></pv>
+<sp><aq>Daphni&sr;.</aq></sp>
+<pv><aq>Seht, die Traube bricht hervor
+Unter jungen Rebenblättern,
+Und verkündigt Most!
+Diese&sr; machen die fröhlichen Götter,
+Bacchu&sr; und der May.
+Muntre Schäfer, las&sr;t un&sr; trinken:
+Eine Schale dem May, und eine dem
+<et>Bacchu&sr; zur Ehre.</et></aq></pv>
+<pb="101"/>
+<sp><aq>Phylli&sr;.</aq></sp>
+<pv><aq>Seht, der Wiese junge&sr; Grün,
+Laue Lüste, Wohlgerüche
+Laden un&sr; zum Tanz!
+Diese&sr; wollen die fröhlichen Götter,
+Amor und der May.
+Schäferinnen, las&sr;t un&sr; tanzen:
+Einen Reihen dem May, und einen dem
+<et>Amor zur Ehre.</et></aq></pv>
+<sp><aq>Daphni&sr;.</aq></sp>
+<pv><aq>Willkommen, allmächtiger May!
+Du krönest mit Segen da&sr; Jahr.</aq></pv>
+<sp><aq>Phylli&sr;.</aq></sp>
+<pv><aq>Willkommen, allgütiger May!
+Du segnest mit Liebe die Welt.</aq></pv>
+<bs><aq>G</aq> 3</bs>
+<pb="102"/>
+<sp><aq>Daphni&sr;.</aq></sp>
+<pv><aq>Glücklich ist der Hirt,
+Der im May die Welt erblickte,
+Wann die Rose die Knospe durchbricht:
+Seine Kindheit hauchte Freude,
+Freude düftet sein Alter dereinst.</aq></pv>
+<sp><aq>Phylli&sr;.</aq></sp>
+<pv><aq>Glücklich ist der Hirt,
+Den im May die Hirtinn liebet,
+Wann der Weinstock die Pappel umarmt:
+Seine Jugend liebt sie zärtlich,
+Zärtlich liebt sie sein Alter dereinst.</aq></pv>
+<pb="103"/>
+<sp><aq>Daphni&sr; und Phylli&sr;.</aq></sp>
+<pv><aq>Ihr Kinder de&sr; Mayen, lobsinget dem
+<et>May!</et>
+Sein Einflus&sr; beseligt die ganze Natur.</aq></pv>
+<hr>
+<pb>
+<abb>
+<d1><aq><g>Ino,
+eine Kantate.</g></aq></d1>
+<pv><aq><in>W</in>ohin? wo soll ich hin?
+Mein rasender Gemahl verfolgt mich. Ohne
+<et>Retter</et>
+Irr&2019; ich umher, so weit da&sr; Land mich
+<et>trägt, und bin</et>
+Entdeckt, wohin ich irre. Keine Höhle,
+Kein Busch, kein Sumpf verbirget mich.
+Ha! nun erkenn&2019; ich dich,
+Grausame Königinn der Götter!</aq></pv>
+<pb="105"/>
+<pv><aq>Ungöttliche Saturnia,
+Wird Rachsucht dich ewig entflam-
+<et>men?</et>
+Wer kann mein Mitleid verdammen?
+Ich hab&2019; ein Götterkind ernährt.</aq></pv>
+<pv><aq>Du hast dich an Semelen ja
+Mit Jupiter&sr; Blitze gerochen:
+Wa&sr; hat die Schwester verbrochen?
+War meine That de&sr; Tode&sr; werth?</aq></pv>
+<pv><aq>Ungöttliche Saturnia,
+Wird Rachsucht dich ewig entflammen?
+Wer kann mein Mitleid verdammen?
+Ich hab&2019; ein Götterkind ernährt.</aq></pv>
+<pb="106"/>
+<poem><aq>O all&2019; ihr Mächte de&sr; Olympu&sr;,
+Ist kein Erbarmen unter euch?
+Hier schwank&2019; ich unter der geliebten Last,
+Die mein zerfleischter Arm umfas&sr;t;
+Hier fliehet, dem gescheuchten Rehe,
+Der aufgejagten Gemse gleich,
+Die königliche Tochter Kadmu&sr;; springt
+Von Klipp&2019; auf Klippe, dringt
+Durch Dorn und Hecken. &2014; &2014;
+Nein, weiter kann ich nicht;
+Ich kann nicht höher klimmen. &2012; &2012; &2012; Götter!
+Ach! rettet, rettet mich! ich sehe
+Den Athama&sr;! an seinen Händen klebt
+Noch seine&sr; Sohne&sr; Blut.
+Er eilt, auch diesen zu zerschmettern.</aq>
+<pb="107"/>
+<aq>O Meer! o Erde! er ist da!
+Ich hör ihn schreyen! er ist da!
+Ich hör ihn keuchen! Itzt ergreift er
+<et>mich! &2014; &2014;</et>
+Du blauer Abgrund, nimm von dieser
+<et>Felsenspitze</et>
+Den armen Melicerte&sr; auf!
+Nimm der gequälten Ino Seele! &2014; &2014;
+<et>(Die Instrumente begleiten den schreck-
+lichen Fall, und kündigen hierauf die
+nachfolgende Verwunderung an.)</et>
+Wo bin ich? o Himmel!
+Ich athme noch Leben?
+O Wunder! ich walle
+Im Meere? mich heben
+Die Wellen empor? &2014; &2014; &2014;</aq></poem>
+<pb="108"/>
+<pv><aq>O wehe! mein Sohn!
+Er ist mir im Falle
+Den Armen entflohn.</aq></pv>
+<pv><aq>Mitleidiger Retter,
+Wa&sr; hilft mir mein Leben?
+Ach! gieb mir den Sohn!</aq></pv>
+<pv><aq>O wehe! mein Sohn!
+Er ist mir entfallen!
+Er ist mir entflohn! &2014;</aq></pv>
+<pv><aq>Ich seh ihn, ihr Götter!
+Von Nymphen umgeben:
+Stolz ragt er hervor.</aq></pv>
+<pb="109"/>
+<pv><aq>Wem dank&2019; ich dies&sr; Leben,
+Dies&sr; bessere Leben?
+Wem dank&2019; ich den Sohn?</aq></pv>
+<pv><aq>Ich seh ihn, von Göttern
+Und Nymphen umgeben:
+Stolz ragt er hervor.</aq></pv>
+<pv><aq>Wo sind wir? o Himmel!
+Wir athmen? wir leben?
+O Wunder! wir wallen
+Im Meere? un&sr; heben
+Die Wellen empor? &2014; &2014; &2014;</aq></pv>
+<bs><aq>H</aq></bs>
+<pb="110"/>
+<poem><aq>Ihr hängt um meine Schläfe zackigte
+<et>Korallen?</et>
+Und Perlen in mein Haar?
+Ich dank&2019; euch, Töchter Dori&sr;! &2014; &2014;
+<et>Seht, o seht die Schaar</et>
+Der freudetrunknen blauen Götter!
+Sie flechten Schilf und Loto&sr;blätter
+Um meine&sr; Sohne&sr; Haar. &2014; &2014;
+Wie gütig, wie vertraut empfanget ihr
+Zwey Sterbliche, wie wir!
+Ihr gebt un&sr; eure Götterkränze,
+Und zieht un&sr; mit euch unter eure
+<et>Tänze! &2014; &2014; &2014;</et></aq></poem>
+<fn><aq>(Die Instrumente begleiten den Tanz, und
+spielen hierauf den Gesang der Trito-
+nen und Nere&00EF;den vor, welcher anfangt:
+Leukothea ist zur Göttinn aufgenommen.)</aq></fn>
+<pb="111"/>
+<poem><aq>Ungewohnte Symphonieen
+Schlagen mein entzückte&sr; Ohr.
+Panope, dein ganzer Chor,
+Und die blasenden Tritonen
+Rufen laut:
+<et>&q;Leukothea</et>
+&q;Ist zur Göttinn aufgenommen!
+&q;Gott Palämon, sey willkommen!
+&q;Sey gegrüs&sr;t, Leukothea!
+Meynt ihr mich, ihr Nere&00EF;den?
+Nehmt ihr mich zur Schwester an?
+Meynt ihr meinen Sohn, ihr Götter?
+Nehmt ihr ihn zum Mitgott an?
+Ihr allgütigen Erretter,
+O! mein Dank soll nicht ermüden,
+Weil mein Busen athmen kann.</aq>
+<bs><aq>H</aq> 2</bs>
+<pb="112"/>
+<aq>Und nun? ihr wendet euch so schnell
+<et>zurück?</et>
+Ihr eilt mit aufgehabnen Händen &2012; &2012; &2012;
+<et>Welch ein Blick!</et>
+Auf einem perlenhellen Wagen
+Wird der Monarch der Wasserwelt
+Hoch auf dem Saum der Flut getragen.
+Bi&sr; an den Himmel flammt der goldene
+<et>Trident;</et>
+Ich höre seiner Rosse Brausen; sehe
+Den Gott, den zweyten Gott der Götter. &2014; &2014;
+Der du mit Allmacht diese&sr; Element
+Beherrschest, o Neptun, mein König! tra-
+<et>gen</et></aq></poem>
+<pb="113"/>
+<pv><aq>Die Räder deine&sr; Wagen&sr; dich
+In diesen inselvollen Sund, und lassen
+Den Sonnenwagen hinter sich,
+Mir meine Gottheit anzusagen?
+Ach! ewig soll mein Dank
+Mit jeder Sonne soll mein lauter Lob-
+<et>gesang</et>
+Von allen Wellen wiederhallen.</aq></pv>
+<pv><aq>Tönt in meinen Lobgesang,
+Wellen, Felsen und Gestade!
+Sagt dem guten Gotte Dank!
+Heil dem Gotte, dessen Gnade
+Dich zur Göttinn au&sr;ersah,
+Selige Leukothea!</aq></pv>
+<bs><aq>H</aq> 3</bs>
+<pb="114"/>
+<pv><aq>Tochter der Unsterblichkeit,
+In die tiefste Meere&sr;höhle
+Senke dein gehäufte&sr; Leid!
+Deine qualentladne Seele
+Labe mit Ambrosia!</aq></pv>
+<pv><aq>Tönt in meinen Lobgesang,
+Wellen, Felsen und Gestade!
+Sagt dem guten Gotte Dank!
+Heil dem Gotte, dessen Gnade
+Dich zur Göttinn au&sr;ersah,
+Selige Leukothea!</aq></pv>
+<hr>
+<pb>
+<pb>

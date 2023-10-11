@@ -1,0 +1,1817 @@
+<pb>
+<front><aq><b><g>MUSICA
+FIGURALIS</g>,</b></aq>
+Oder
+<b>Newe Klärliche
+Richtige/ vnd vorstentliche
+vnterweisung/</b>
+Der
+<b>Singe Kunst.
+Mit gewissen <aq>Regulen,</aq> klaren vnd
+verstendigen <aq>Exempsen,</aq> neben vollkom-</b>
+mener erklärung der <aq>Modorum
+Musicorum.</aq>
+Vor die <aq>Particular</aq> Schul zu Ro-
+<fr>stock zugerichtet</fr>
+Von
+<aq><g>DANIELE FRIDERICI</g> I&sr;leb. S. S. Th.
+St.</aq> vnd <aq>Cant. Primar.</aq> doselbst.
+<hr>
+Gedruckt zu Rostock durch Jochim Fueß/
+<fr>Bey Joh. Gallervordt zu finden.</fr>
+<hr>
+<aq><g>ANNO M. DC. XIX</g>.</aq></front>
+<pb>
+<hr>
+<ded><c><b>Denen GOtte&sr;fürchtigen/
+Züchtigen vnd Ehrliebenden Jun-
+gen Gesellen vnd Knaben.</b></c>
+<cb>
+<aq>Simoni Pauli,</aq>
+<aq>Joachimo</aq> Fülbier/
+<aq>Johanni</aq> Käntzeler/
+<aq>Michaeli</aq> Schulten/
+<aq>Johanni</aq> Dunckern/
+<aq>Conrado</aq> Beckman/
+<aq>Zachari&00E6;</aq> Schummern
+<aq>Joachimo</aq> Schönerma.
+<aq>Joachimo</aq> Westphal/
+<aq>Michaeli</aq> Geißmar/
+<cb>
+<aq>Davidi</aq> Deutschen/
+<aq>Jacobo</aq> Nettelblat/
+<aq>Joanni</aq> Maeß/
+<aq>Christiano</aq> Freitag/
+<aq>Joanni</aq> Stavenow/
+<aq>Joachimo</aq> Wedege/
+<aq>Michaeli</aq> Schwaben/
+<aq>Heinrico</aq> Wendt/
+<aq>Heinrico</aq> Bueck.
+<aq>Georgio</aq> Küstern.
+<c><b>Wie dann auch allen vnnd jedern</b>
+Knaben/ der <aq>Particular</aq> Schul zu
+Rostock/
+<b>Seinen licben <aq>Discipuli&sr;</aq> zur wolmeinenden</b>
+anreitzung in der <aq>Musie</aq> Kunst sich
+fleiss#g zu vben/</c>
+<clos><et><b>Vorehret diß Büchlein der</b>
+<aq>Author.</aq></et></clos></ded>
+<pb>
+<hr>
+<d1><b>Von der Musica</b></d1>
+<d2><aq><g>CAPUT</g> I.</aq></d2>
+<d><b>Wa&sr; ist die Musica?</b></d>
+<p><c>Eine Wissenschafft zu singen.</c></p>
+<d><b>Wie mancherley ist die Musica?</b></d>
+<p><c>Zweyerley: <aq>Chorali&sr;</aq> vnd <aq>Figurali&sr;.</aq></c></p>
+<d><b>Wa&sr; ist</b> <aq>Chorali&sr; Musica?</aq></d>
+<p><in>W</in>Elche handelt von einem
+schlechten vnd einfeltigen Ge-
+sange/ da eine/ oder mehr Stim-
+men eingefützret werden/ in glei-
+cher schlechter vnnd einfeltiger
+Form vnd weise/ vnd da einerley Noten vnd
+zeichen gefunden werden/ vnd keine <aq>nota</aq> mehr
+gilt al&sr; die ander.</p>
+<d><b>Wa&sr; ist</b> <aq>Figurali&sr; Musica?</aq></d>
+<p>Welche handelt vom <aq>Figural</aq> Ge-
+sange/ da viel Stimmen eingeführet
+werden/ auff sondere arth vnnd weise:
+<bs>A ij</bs><cw>Vnd</cw>
+<pb>
+Vnnd lehret/ wie ein jeder den vorgeschriebe-
+nen gesang recht/ zierlich/ künstlich vnd lieb-
+lich/ mit der Stimm außsingen/ oder mit ei-
+nen <aq>Instrumento</aq> spielen/ vnd mit andern ein-
+geführten Stimmen zusammen stimmen soll/
+also da&sr; ohne grossen vnnützen ruffen/ vnnd
+Bäurischen geschreye eine schone/ liebliche vnd
+anmütige <aq>harmonia,</aq> vnd gethön erwecket/
+vnd gehöret werde/ dadurch da&sr; Gem#the
+auffgemuntert wird/ vnnd da&sr; Hertze be-
+weget.</p>
+<d><b>Wie viel Stück muß einer der diese</b>
+Kunst lernen vnd gebrauchen wil/ vornemlich
+wissen vnd in acht nehmen?</d>
+<p>Sieben: Vor&sr; 1. Muß er wissen/ die
+<aq>Clave&sr;,</aq> oder Schlüssel der <aq>Music.</aq> 2. Die
+<aq>voce&sr; Musicale&sr;,</aq> oder wörterlein die im sin-
+gen gebraucht werden. 3. Die figuren so im
+gesange vorfallen/ al&sr; Noten/ Puncten/ Pau-
+sen/ vnnd dergleichen. 4. Die <aq>intervalla.</aq>
+5. Die <aq>proportione&sr;</aq> oder Triplen. 6. Wie
+er sich im singen vorhalten solle. 7. Wa&sr; der
+Gesang vor einen <aq>Modum</aq> habe.</p>
+<cw><aq><g>CA-</g></aq></cw>
+<pb>
+<d2><aq><g>CAPUT II.</g></aq>
+<b>Von denn</b> <aq>Clavibu&sr;</aq> <b>oder
+Schlüsseln der</b> <aq>Music.</aq></d2>
+<d><b>Wie vorhelt sich&sr; mie den</b> <aq>Clavibu&sr;</aq>
+oder Musie Schlüsseln?</d>
+<p><in>G</in>Leich wie mann in ein verschlossene&sr;
+Hauß oder Gemach auff rechte weise
+nicht kommen/ viel weiniger all Kisten
+vnd Kasten darinnen eröffnen vnd auffschlies-
+sen kan/ wo man nicht die Schlüssel darzu hat:
+Also kan man auch nicht singen/ wo man
+nicht <aq>Clave&sr;</aq> oder <aq>Music</aq> Schlüssel in acht
+nimbt/ Vnd mercket/ wie viel jhr seind/ wo
+sie ihren sitz stelle oder orth haben/ wie sie vn-
+terschieden werden/ wa&sr; sie bedeuten.</p>
+<d><b>Wie viel seind</b> <aq>Clave&sr; Musicale&sr;?</aq></d>
+<p>Sieben/ nemblich die sieben ersten Buch-
+staben im <aq>Alphabeto, A. B. C. D. E. F. G.</aq>
+Von welchen da&sr; <aq>B.</aq> zwyfach ist/ nemblich <aq>b.
+molle,</aq> vnd <abb> <aq>durum.</aq></p>
+<d><b>Wo haben sie jhren sitz?</b></d>
+<p>In einem <aq>Systemate Musico,</aq> wel-
+<bs>A iij</bs><cw>cher</cw>
+<pb>
+che&sr; finff Linien/ gleicher weite von einander
+gesetzet/ vnd vier <aq>Spacia</aq> begreiffet/ da man
+dann von vnten an auff wart&sr; zehlet.</p>
+<ab><aq>Exemplum.</aq></ab>
+<tab>
+<d><b>Wie werden die Clave&sr; ge-
+theilet?</b></d>
+<p>1. <aq>In Signata&sr;,</aq> oder die/ so da auß-
+trücklich im anfange eine&sr; jedern <aq>Systemati&sr;</aq>
+auff eine gewisse <aq>Liniam</aq> gezeichnet werden.
+Vnd 2. <aq>Non signata&sr;,</aq> oder die so da nicht
+außdrücklich gesetzet werden/ sondern nur
+nach den gesetzten verstanden werden.</p>
+<d><b>Welche&sr; sind</b> <aq>Signat&00E6;?</aq></d>
+<p><aq>F. C. G.</aq></p>
+<d><b>Wie werden sie in dem</b> <aq>Systemate</aq>
+gezeichnet? Also:</d>
+<bs><aq>F. C.</aq></bs>
+<pb>
+<cb>
+<ab><aq>F.</aq></ab>
+<abb>
+<cb>
+<ab><aq>C.</aq></ab>
+<abb>
+<cb>
+<ab><aq>G.</aq></ab>
+<abb>
+<d><b>Wa&sr; bedeuten die</b> <aq>Clave&sr;
+Signat&00E6;?</aq></d>
+<p>Vor ein&sr; schliessen sie den Gesang auff/
+daß man wissen kan wie man anfehet: Vor&sr;
+ander daß man sich im singen durch da&sr; gantze
+<aq>Systema</aq> nach jhnen richten kan/ auff da&sr;
+man wissen müge/ wa&sr; man auff jeglicher
+<aq>Linien</aq> vnd in jederm <aq>Spacio</aq> singen soll.</p>
+<d><b>Wie lehren mich solche&sr; die</b>
+<aq>Clave&sr;?</aq></d>
+<p>E&sr; seind etliche Musicalische wörterlein/
+die da im singen gebraucht werden/ von denen
+man einem jeglichen <aq>Clavi</aq> ein&sr; muß zu eign&te;.</p>
+<d2><aq><g>CAPUT III.</g></aq>
+<b>Von den</b> <aq>Vocibu&sr; Musicali-
+bu&sr;,</aq> oder wörterlein die im singen
+<fr>gebreuchlich.</fr></d2>
+<bs>A iiij</bs><cw><b>Wie</b></cw>
+<pb>
+<d><b>Wie viel seindt derselben</b>
+Wörterlein?</d>
+<p>Sechse/ <aq>UT, RE, MI, FA, SOL, LA,</aq></p>
+<d><b>Haben sie alle einerley Natur?</b></d>
+<p><in>N</in>Ein/ sondern e&sr; müssen von jhnen son-
+derlich in acht genommen werden/ die
+beyde wörterlein <aq>Mi,</aq> vnd <aq>Fa,</aq> in dem
+<aq>Clave b.</aq> vnd <abb>. Dann sie machen 1. einen
+grassen vnterscheit in dem Gesange/ vnd 2.
+wo sie nicht fleissig vnterscheidet werden/ kön-
+nen sie einen gantzen gesang verwirren/ nach
+dem alten Sprichworte:
+<c><aq>Mi, &amp; Fa, sunt tota Musica.</aq></c></p>
+<d><b>Wie wird den der Gesang von</b>
+jhnen vnterschieden?
+<fr>Oder</fr>
+<b>Wie mancherley ist der Gesang?</b></d>
+<p>Der Gesang ist zweyerley <aq>Cantu&sr; regu-
+lari&sr;</aq> oder <abb> <aq>durali&sr;</aq> vnnd <aq>Cantu&sr; irregu-
+gulari&sr;,</aq> daß ist/ <aq>tran&sr;positu&sr;</aq> oder <aq>b.
+#ollari&sr;.</aq></p>
+<cw><b>Wo-</b></cw>
+<pb>
+<d><b>Woher entstehet dieser vn-</b>
+therscheidt?</d>
+<p>Nicht auß der Natur de&sr; Gesange&sr;/ al&sr;
+wann <aq>Cantu&sr;</aq> <abb> <aq>durali&sr;</aq> härterer Natur
+wehre/ vnd härter klingen thete/ al&sr; <aq>Cantu&sr;
+b. mollari&sr;,</aq> oder da&sr; <aq>Cantu&sr; b. mollari&sr;</aq>
+weicher wehre/ al&sr; <aq>Cantu&sr;</aq> <abb> <aq>durali&sr;,</aq>
+wie die vnerfarnen dieser Kunst meinen; son-
+dern von dem vnterschiedlichen gebrauche <abb>
+<aq>duri</aq> vnnd <aq>b. Molli&sr;,</aq> daß man in <aq>Cantu</aq>
+<abb> <aq>durali</aq> im <aq>Clave</aq> <abb> ordentlicher weise all-
+zeit <aq>Mi, in Cantu b. mollari,</aq> im <aq>Clave b.</aq>
+allzeit <aq>Fa</aq> singen muß: Vnd solche&sr; darumb/
+weil der <aq>Cantu&sr; b. mollari&sr;</aq> auß seinem na-
+türlichen sitze <aq>tran&sr;poniret,</aq> vnd in einen an-
+dern <aq>clavem</aq> gesetzet ist.</p>
+<d><b>Wie wird</b> <aq>Cantu&sr; b. mollari&sr;</aq>
+erkant?</d>
+<p>Wan da&sr; <aq>b. molle</aq> im anfange de&sr; Ge-
+sange&sr; vnd folgend&sr; jeder <aq>Systemati&sr;</aq> an sei-
+nem natürlichen orthe außdrücklich gezeichnet
+gefunden wird.</p>
+<bs>A v</bs><cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exemplum.</aq></ab>
+<cb>
+<abb>
+<cb>
+<abb>
+<cb>
+<abb>
+<cb>
+<abb>
+<cb>
+<abb>
+<d><b>Wie wird</b> <aq>Cantu&sr;</aq> <abb> <aq>durali&sr;</aq>
+erkant?</d>
+<p>Wan da&sr; <aq>b.</aq> an seinem natürlichen orthe
+im anfange de&sr; gesang&sr; außdrücklich nicht ge-
+funden wird.</p>
+<ab><aq>Exemplum.</aq></ab>
+<cb>
+<abb>
+<cb>
+<abb>
+<cb>
+<abb>
+<d><b>Wa&sr; singet man in einem jeg-</b>
+lichen <aq>Clave?</aq></d>
+<p>Daß kan man sehen in nachfolgen-
+<cw>der</cw>
+<pb>
+der <aq>Tabell&00E2;,</aq> welche sonsten genennet wird:
+<c><aq><g>SCHALA MUSICALIS</g>.</aq></c></p>
+<p><c><aq>In Cantu</aq> <abb> <aq>durali</aq>
+singet man?</c></p>
+<tab>
+<p><c><aq>In Cantu b. mollari</aq>
+singet man:</c></p>
+<tab>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exemplum Cantu&sr;</aq> <abb> <aq>durali&sr;:</aq></ab>
+<abb>
+<cw><aq><g>CA</g>-</aq></cw>
+<pb>
+<d2><aq><g>CAPUT IV</g>.</aq>
+<b>Von den Noten/ Puncten/
+Ligaturen/ Pausen/ vnd anderen</b>
+zeichen/ so im Gesange gebreulich.</d2>
+<d><b>Wa&sr; ist eine Nota?</b></d>
+<p><in>S</in>Ie ist da&sr; zeichen/ in dem <aq>Systemate</aq>
+vnd jeglichem <aq>Clave</aq>/ daß/ so viel e&sr;
+gilt vnd bedeutet/ nach einem <aq>tactu</aq>
+muß auß gesungen werden.</p>
+<d><b>Wa&sr; ist ein Tactu&sr;?</b></d>
+<p>Ein <aq>tactu&sr;,</aq> oder Schlag ist die zeit vnd
+raum/ zwischen dem nieder schlagen vnd auff-
+heben/ so da mit der Handt geschicht.</p>
+<d><b>Wie mancherley ist der Tact?</b></d>
+<p>Zweyerley <aq>simplex,</aq> oder der schlechte/
+vnd <aq>proportionatu&sr;,</aq> oder Tripel tact.</p>
+<d><b>Wa&sr; ist der schlechte Tact?</b></d>
+<p>Da eine <aq>Semibrevi&sr;</aq> da&sr; ist eine Nota/
+so da einen schlag gilt/ auffgehet.</p>
+<cw><b>Wa&sr;</b></cw>
+<pb>
+<d><b>Wa&sr; ist</b> <aq>Tactu&sr; proportio-
+natu&sr;</aq> oder Tripel tact?</d>
+<p>Da drey <aq>Semibreve&sr;,</aq> oder drey <aq>mini-
+m&00E6;</aq> auffgehen.</p>
+<d><b>Wie werden die Nöten gezeichnet/</b>
+wie heissen sie/ vnd wa&sr; gilt eine jgliche?</d>
+<p><c><aq><g>VALOR NOTARUM</g>.</aq></c></p>
+<abb><p>Heist <aq>Maxima,</aq> vnd gilt &2014; 3. schläge</p>
+<abb><p>Heist <aq>Longa,</aq> &2014; vnd gilt &2014; 4. schläge.</p>
+<abb><p>Heist <aq>Brevi&sr;,</aq> &2014; vnd gilt &2014; 2. schl.</p>
+<abb><p>Heist <aq>Semibrevi&sr;,</aq> &2014; vnd gilt &2014; 1 schlag.</p>
+<abb><p>Heist <aq>Minima,</aq> vnnd gilt ein halben
+schlag.</p>
+<abb><p>Heist <aq>Seminima,</aq> vnnd gilt ein viertel
+vom schlage/ oder e&sr; gehen jhrer 4. auff
+ein schlag.</p>
+<abb><p>Heist <aq>Fusa,</aq> vnd gilt ein halben viertel
+schlag/ oder e&sr; gehen jhrer achte auff ein
+schlag.</p>
+<cw>Oder</cw>
+<pb>
+<p><abb> Oder <abb> heist <aq>Semifusa,</aq> vnd gelten jhrer
+sechtzehn einen schlag.</p>
+<d><b>Wa&sr; gilt ein Punctu&sr;?</b></d>
+<p>Allzeit halb so viel al&sr; die Nota/ welche
+vor jhm hergehet/ vnnd nach welcher er ge-
+setzet.</p>
+<d><b>Wa&sr; seind</b> <aq>Paus&00E6;?</aq></d>
+<p>E&sr; seind zeichen/ so da weisen/ wie lan-
+ge vnd wie viel man soll stille schweigen.</p>
+<d><b>Wa&sr; ist vor ein vnterscheid der</b>
+<aq>Pausen,</aq> oder wa&sr; gilt eine jgliche
+<aq>Pausa?</aq></d>
+<cb>
+<abb>
+<ab>gilt 4. schläge.</ab>
+<cb>
+<abb>
+<ab>gilt 2.</ab>
+<cb>
+<abb>
+<ab>gilt einen.</ab>
+<cb>
+<abb>
+<ab>gilt ein halb.</ab>
+<cb>
+<abb>
+<ab>gilt ein viertel oder <aq>su-
+spirium,</aq></ab>
+<cb>
+<abb>
+<ab>gilt ein halb
+viertel.</ab>
+<cw><b>Wa&sr;</b></cw>
+<pb>
+<d><b>Wa&sr; seind</b> <aq>Ligaturen?</aq></d>
+<p>Wan zwo oder mehr Noten wegen de&sr;
+vnterlegten text&sr; aneinander gehenget/ vnnd
+mit einander verknüpffet werden.</p>
+<d><b>Wie werden die Noten an einan-</b>
+der geknüpffet?</d>
+<p>Die alten haben die <aq>Ligaturen</aq> so zweif-
+felhafftig gemachet/ daß man sie vielmehr hat
+müssen errathen/ al&sr; da&sr; man sie gewiß wis-
+sen solte/ welche&sr; dann offt grosse vrsach zur
+<aq>Confusion</aq> vnnd verwirrung de&sr; gesange&sr;
+gegeben/ derowegen solche <aq>Ligaturen</aq> nun-
+mehr auß dem gebrauche kommen/ vnd pfle-
+gen nun nicht mehr al&sr; zwey oder 3. <aq>Breve&sr;</aq>
+aneinander gehengt zu werden.</p>
+<p><c><b>Darvon diese nachfolgende re-</b>
+gulen zu mercken.</c></p>
+<d><i>1.</i> <aq>Regula.</aq></d>
+<p>Wann zwo <aq>Breve&sr;</aq> aneinander gehengt
+werden/ vnnd die erste eine <aq>Liniam</aq> oder
+Schwantz auffwart&sr; gezogen hat/ gilt jede
+einen schlag/ sie steigen auff oder nieder.</p>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><i>2.</i> <aq>Regula.</aq></d>
+<p>Wann drey <aq>Breve&sr;</aq> aneinander gehengt
+werden/ vnd die erste jhre <aq>Liniam</aq> auffwart&sr;
+kehret/ gilt die letzte <i>2.</i> schläge.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><i>3.</i> <aq>Regula.</aq></d>
+<p>Wann 2. drey oder vier <aq>Breve&sr;</aq> anein-
+ander gehengt werden/ vnd die erste keine <aq>Li-
+niam</aq> oder Schwantz hat/ gilt jegliche zwen
+schläge.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<bs>B</bs><cw><aq>Regu-</aq></cw>
+<pb>
+<d><i>4.</i> <aq>Regula.</aq></d>
+<p>Wann die ander Nota in der <aq>Ligatur</aq>
+schwartz ist/ wird jhr dadurch ein viertel vom
+schlage abgenommen/ vnnd muß solche&sr; mit
+einer <aq>Seminim&00E2;,</aq> oder viertel schlage wider er-
+stattet werden.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><b>Seint auch noch sonsten andere</b>
+zeichen im Gesange in acht zu
+nehmen?</d>
+<p>Ja/ e&sr; seind mehr zeichen oder figuren/
+die nicht weiniger im singen fleissig müssen
+in acht genommen werden/ al&sr; da sein:</p>
+<abb>
+<d><b>Wa&sr; bedeutet da&sr;</b> <abb> <b>oder</b> <abb></d>
+<p>E&sr; bedeutet daß der Gesang oder ein <aq>Tri-
+pla</aq> angeht.</p>
+<cw><b>Wa&sr;</b></cw>
+<pb>
+<d><b>Wa&sr; bedeutet da&sr;</b> <abb>?</d>
+<p>Daß die Nota/ da e&sr; vorgesetzet/ allzeit
+durch <aq>Fa</aq> muß außgesungen werden.</p>
+<d><b>Wa&sr; bedeutet da&sr;</b> <abb>?</d>
+<p>Diese&sr; wird nicht gefunden/ den nur im
+<aq>Clave B.</aq> in <aq>Cantu b. mollari,</aq> vnd bedeu-
+tet da&sr; man <aq>Mi,</aq> oder hart singen soll.</p>
+<d><b>Wa&sr; bedeutet da&sr; duppelte</b>
+Creutze #?</d>
+<p>Heisset <aq>Semitonium</aq> vnd zeiget an da&sr;
+die Nota/ da e&sr; vor/ oder vnter gesetzet/ einen
+halben thon/ oder grad/ muß erhaben werden/
+oder da&sr; man <aq>Mi</aq> singen soll.</p>
+<d><b>Wa&sr; bedeutet diese&sr; zeichen</b> <abb>?</d>
+<p>Ist ein <aq>fignum repetitioni&sr;,</aq> vnd leret da&sr;
+dieselbige gesungen <aq>clausula</aq> muß widerholet
+werden/ darnach e&sr; gesetzet ist.</p>
+<d><b>Wa&sr; bedeutet diese&sr; zeichen #?</b></d>
+<p>E&sr; weiset den orth/ da die erste Nota im
+nachfolgenden <aq>Systemate</aq> siehet/ vnd heisset
+<aq>Custo&sr;.</aq></p>
+<bs>B ij</bs><cw><b>Wa&sr;</b></cw>
+<pb>
+<d><b>Wa&sr; bedeutet diese&sr; zeichen?</b> #</d>
+<p>E&sr; ist ein zeichen in den Fugen gebreuch-
+lich/ vnd gibt so viel zuverstehen/ daß/ wann
+der erst singende in der <aq>Fug&00E2;</aq> an dieselbe <aq>No-
+tam</aq> kömmet/ da diese&sr; zeichen vnter oder
+ober stehet/ muß der nachfolgende Singer
+mit derselben Noten am anfange auch anfan-
+gen/ vnd nach singen.</p>
+<d><b>Wa&sr; bedeutet diese&sr;?</b></d> <abb>
+<p>Ist ein strich oder <aq>Linia</aq> vber da&sr; gantze
+<aq>Systema,</aq> vnd bedeutet da&sr; allda alle Stim-
+men zusammen kommen/ vnd ein wenig inne-
+halten.</p>
+<d><b>Wa&sr; bedeutet diese&sr;?</b> #</d>
+<p>Ist ein <aq>signum finale,</aq> vnd bedeutet daß
+man soll außhalten.</p>
+<d2><aq><g>CAPUT</g> V.</aq>
+<b>Von den</b> <aq>Intervalli&sr;.</aq></d2>
+<d><b>Wa&sr; ist ein</b> <aq>Intervallum?</aq></d>
+<p>Der raum zwischen zweyen Noten/
+<cw>oder</cw>
+<pb>
+oder der Sprung auß einem <aq>Clave</aq> in einen
+andern.</p>
+<p><c><b>Weise mir&sr; durch Exempel?</b></c></p>
+<abb>
+<d2><aq><g>CAPUT VI.</g></aq>
+<b>Von den Triplen/ oder</b>
+<aq>Proportionibu&sr;.</aq></d2>
+<d><b>Wa&sr; ist ein Tripla/ oder</b>
+<aq>Proportio?</aq></d>
+<p><in>E</in>In <aq>Tripla</aq> oder <aq>Proportio</aq> ist eine art
+zu singen/ nach einem geschwinderen
+<aq>Tactu,</aq> da man von gemeinen vnnd
+gebreuchlichen <aq>Tactu</aq> etwa&sr; abtrit/ vnd da
+<bs>B iij</bs><cw>in&sr;</cw>
+<pb>
+in&sr; gemein drey <aq>Semibreve&sr;,</aq> oder drey
+<aq>Minim&00E6;</aq> auff ein Tact gehen. Vnd wird
+erkandt/ wann von newen ein <abb> ohne einem
+Striche/ oder <abb> mit einem Striche/ ne-
+ben beygesetzter <abb> 3. oder # vorgesetzet wird.</p>
+<d><b>Wie mancherley ist</b> <aq>Tripla</aq>
+oder <aq>Proportio?</aq></d>
+<p><aq>Tripl&00E6;</aq> oder <aq>Proportione&sr;</aq> werden auff
+vielerley arth gebrauchet/ wie wol ohne alle
+nothwendigkeit/ Sintemahl man einen <aq>Tri-
+plam</aq> so geschwinde oder so langsam singen
+kan al&sr; den andern/ vnd ist nicht von nöthen
+offt mehr ein <aq>&00C6;nigma</aq> al&sr; ein <aq>Triplam</aq> ein-
+zuführen. Der gebreuchlichsten aber finden
+sich vornemblich zweyerley art.</p>
+<d><b>Weise mir die erste art?</b></d>
+<p>Erstlich werden 3. <aq>Semibreve&sr;</aq> oder
+<aq>Minim&00E6;</aq> auff einen schlag gerechnet/ vnnd
+wird die <aq>Propertio</aq> mit diesem <abb> # oder
+diesem <abb> 3 zeichen gezeichnet/ <abb> vnd so e&sr;
+drey <aq>Semibreve&sr;</aq> seind/ wirt&sr; <abb> genennet
+<aq>Tripla.</aq> So e&sr; <aq>Minim&00E6;</aq> seind/ wird&sr; genennet
+<aq>Sesquialtera.</aq></p>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exemplum Semibrevium
+vel Tripl&00E6;.</aq></ab>
+<abb>
+<ab><aq>Exemplum minimarum vel
+se&sr;quialter&00E6;.</aq></ab>
+<abb>
+<d><b>Weise mir die ander ahrt?</b></d>
+<p>Zum andern wird ein <aq>Tripla</aq> gefunden/
+da 3. schwartze <aq>Semibreve&sr;,</aq> oder <aq>Minim&00E6;</aq>
+auff ein Schlag gerechnet werden/ vnd wird
+nur die Ziffer 3. vor oder vnter die Noten ge-
+setzet/ oder wol gar außgelassen. So e&sr; drey
+<aq>Semibreve&sr;</aq> seind/ kan man&sr; nennen/ <aq>Tri-
+plam nigram.</aq> Seind e&sr; <aq>Minim&00E6;,</aq> kan&sr;
+<aq>Sesquialtera nigra</aq> genennet werden.</p>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exemplum Tripl&00E6; nigr&00E6;.</aq></ab>
+<abb>
+<ab><aq>Exemplum Sesquialter&00E6;
+nigr&00E6;.</aq></ab>
+<abb>
+<p><c><b>Oder</b></c></p>
+<abb>
+<p>Weil aber die Noten in den Triplen
+offtmahl&sr; sich verendern/ vnd balt etwa&sr; ver-
+lieren balt etwa&sr; gewinnen oder zunehmen/
+muß man nachfolgende Regulen in acht
+nehmen.</p>
+<d><aq>Regula prima.</aq></d>
+<p>Wann eine <aq>Semibrevi&sr;</aq> vnd eine <aq>Brevi&sr;</aq>
+<cw>im</cw>
+<pb>
+im <aq>Tripl&00E2;</aq> schwartz gefunden werden/ gelten
+sie nicht mehr oder weniger al&sr; wann sie weiß
+wehren.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><aq>Regula</aq> <i>2.</i></d>
+<p>Wann zwo oder mehr <aq>Breve&sr;</aq> auff ein-
+ander folgen/ wird eine von der andern <aq>per-
+fectiret,</aq> vnd vollkommen gemacht/ vnd gilt
+eine jegliche einen schlag/ oder so viel al&sr; drey
+<aq>Semibreve&sr;,</aq> biß auff die letzte/ welche jhren
+natürlichen <aq>valorem</aq> behelt.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><aq>Regula</aq> <i>3.</i></d>
+<p>Wann drey <aq>Breve&sr;</aq> schwartz nach ein-
+<bs>B v</bs><cw>ander</cw>
+<pb>
+ander gefunden werden/ wird nicht eine von
+der andern <aq>perfectirt</aq>/ oder vollkommen ge-
+macht/ sondern sie gehen alle drey auff 2.
+schläge/ vnd wird die mittelste getheilet.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><b>Wie verhelt sich&sr; mit den Pausen</b>
+in einem <aq>Tripl&00E2;</aq>?</d>
+<p>In dem <aq>Tripl&00E2;</aq> gelten sie die helffte/ in
+<aq>Sesquialtera</aq> vollkommen.</p>
+<d2><aq><g>CAPUT VII.</g></aq>
+<b>Von etlichen Regulen zier-
+lich zu singen.</b></d2>
+<d><aq>Regula I.</aq></d>
+<p><in>W</in>Elcher Knabe die <aq>Musicam</aq> lernen
+vnd vben wil/ muß vor allen dingen
+lust vnd liebe darzu haben/ sich befleis-
+figen/ daß er wol vnd artlich seine Stimme
+<cw><aq>mode-</aq></cw>
+<pb>
+<aq>moderiren</aq> vnd zwingen/ den Odem messig-
+lich geben vnd gebrauchen/ vnd ohne verdruß
+vnd aller beschwerung singen könne. Die-
+nen derwegen gantz nicht zur <aq>Music,</aq> die
+Knaben welche also ruffen vnd schreien/ da&sr;
+sie gantz schwartz-rodt wie ein Kalkunscher
+Hahn vmb den Kopff werden/ vnd die den
+Mundt so weit auffsperren/ al&sr; wann man
+mit einem Füder Hew darein fahren solte/
+daß sie den Odem sämptlich mit einem schlag&
+fahren lassen/ vnd müssen zu einer jedern No-
+ten newen Odem schepffen.</p>
+<d><aq>Regula II.</aq></d>
+<p>Auch ist ein grosser vnterscheit/ vnter
+frisch Singen/ vnd vnter Ruffen. Frisch singen
+ist in der <aq>Music</aq> gantz nötig/ vnd ist so viel
+al&sr; frewdig nicht träg/ faul/ noch schlefferig/
+daß man die Stimme nicht fallen lasse. Ruf-
+fen aber ist in der <aq>Music</aq> verboten/ vnd geben
+die <aq>Cantore&sr;</aq> jhre grosse vnwissenheit nicht
+wenig an tag/ die den Knaben mit gewalt ge-
+bieten/ daß sie von Leibe&sr; krefften ruffen müs-
+sen/ dadurch offt eine edle reine vnd feine Stim-
+me gantz verdorben wird.</p>
+<cw><aq>Re-</aq></cw>
+<pb>
+<d><aq>Regula III.</aq></d>
+<p>Im anstimmen soll einer/ vnnd keiner
+mehr gehöret werden. Wird derwegen ge-
+jrret da jrer so viel anstimmen/ al&sr; jhrer singen
+wollen/ vnd wird dem gantzen zukünfftigem
+Gesange seine lieblicheit genommen.</p>
+<d><aq>Regula IV.</aq></d>
+<p>Im singen sollen die <aq>Puncta</aq> zierlich in
+die vorgesetzte oder vorhergehende Noten ge-
+theilet vnd ohne sonderliche <aq>pronunciation</aq>
+gesungen werden. Irren derwegen die/ wel-
+che sollen singen.</p>
+<abb><p>Vnd singen
+oder <aq>pro-
+nunciren</aq></p>
+<abb>
+<cw><aq>Re-</aq></cw>
+<pb>
+<d><aq>Regula V.</aq></d>
+<p>Im singen soll der Text/ wie er stehet/
+<aq>pronunciret</aq> vnnd außgesprochen werden/
+vnd jrren die gahr sehr/ vnd haben ein grosse&sr;
+<aq>vitium</aq> im singen an sich/ welche auß einem
+<aq>E</aq> ein <aq>&00E6;,</aq> oder <aq>&0153;,</aq> vnd auß einem <aq>i latino,</aq> ein
+Grichische&sr; &03B7;, auß einem <aq>U,</aq> ein <aq>O</aq> machen/
+al&sr; wann sie vor <aq>Amen, Am&00E6;n</aq> vor <aq>alleluja,
+all&00E6;loja,</aq> vor <aq>Spiritu&sr; Sp</aq>&03B7;<aq>r</aq>&03B7;<aq>tu&sr;</aq> oder <aq>Sp&00E6;-
+r&00E6;tu&sr;,</aq> vnd dergleichen singen.</p>
+<d><aq>Regula VI.</aq></d>
+<p>Im singen soll man sich nicht vber eilen/
+sondern messig/ langsamb vnd ohne alle furcht
+vnd zagen singen. Irren derwegen die/ wel-
+che im singen also eilen/ al&sr; wann sie einen Ha-
+sen erjagen solten/ vnnd wann sie bey etliche
+<aq>Fusen</aq> vnd <aq>Semifusen</aq> kommen/ auß furcht
+vber hin wischen/ daß sie nicht die helffte dar-
+von recht zu sehen bekommen/ vielweiniger
+recht singen. Auch jrren die/ welche/ so sie
+etwan horen da&sr; der <aq>Cantu&sr;</aq> etwa&sr; bloß ge-
+het/ also balt jhre Stimme auß furcht fallen
+lassen/ vnd machen offt eine <aq>Confusion</aq> vnd
+verstimlung de&sr; Gesange&sr;/ do sie e&sr; wol het-
+ten sicher können vorbey gehen.</p>
+<cw><aq>Re-</aq></cw>
+<pb>
+<d><aq>Regula VII.</aq></d>
+<p>Im singen soll man auch mit auff ande-
+re Stimmen hören/ wie man mit denselben/
+zu/ vnd vber einstimmen müge. Irren dem-
+nach die/ welche nur allein vor sich hinweg in
+den tag hinein ruffen vnd schreyen/ vnd mei-
+nen e&sr; sey genug/ wann sie jhre Stimme allein
+treffen/ die andern mügen bleiben wo sie wöl-
+len.</p>
+<d><aq>Regula VIII.</aq></d>
+<p>Vnd damit ein jeglicher hören könne/ wie
+er mit den andern vber einstimme/ sollen die
+Stimmen fein <aq>disponiret,</aq> vnd die singenden
+jegen einander zusammen gekehret stehen.
+Wird derwegen gejrret/ wann einer den
+Munt hieher kehret/ der ander seinen dort hin-
+auß/ wie Samson&sr; Füchse. Oder so der
+gantze hauff also vermischet vnnd verwechselt
+stehet/ daß mann nicht hören kan/ welche
+Stimme anhebet/ oder welche auffhöret.</p>
+<d><aq>Regula IX.</aq></d>
+<p>In einer <aq>privat Musica</aq> gebühret sich&sr;
+nicht/ daß jhrer zwene eine Stimme singen/
+<cw>Wann</cw>
+<pb>
+wann die andern Stimmen einfeldig besetzet/
+e&sr; möchte dann in dem <aq>Basi,</aq> oder mit vnter-
+schiedenen <aq>Instrumenten,</aq> vnd mit sonderli-
+cher bescheidener <aq>disposition</aq> geschehen.</p>
+<d><aq>Regula X.</aq></d>
+<p>Auch soll in keiner Stimme die vnter
+<aq>octava</aq> gesungen werden. Irren derwegen
+die vngeschickten <aq>Cantore&sr;</aq> nicht weinig/ wel-
+che/ wann sie bey den <aq>Discantisten</aq> nicht kön-
+nen <aq>fict&00E2; voce</aq> singen/ al&sr;balt zur <aq>octava</aq>
+greiffen/ vnd einen <aq>Tenorem</aq> auß dem <aq>Di-
+scant</aq> machen/ vnnd nicht wenig <aq>vitia</aq> von
+<aq>quinten</aq> einführen.</p>
+<d><aq>Regula <g>XI.</g></aq></d>
+<p>Im <aq>Basi</aq> sollen keine <aq>Coloraturen</aq> mehr
+gemacht werden/ dann die so vom <aq>Compo-
+nisten</aq> gesetzet sein/ sonsten wird da&sr; <aq>funda-
+ment</aq> de&sr; Gesange&sr; zerrissen/ vnd bleiben die
+andern Stimmen Bodenloß/ vnd wird nicht&sr;
+den nur eine verdrißliche <aq>dissonantz</aq> gehöret.</p>
+<d><aq>Regula <g>XII.</g></aq></d>
+<p>Andere Stimmen sollen also <aq>Coloriren,</aq>
+<cw>daß</cw>
+<pb>
+daß sie nicht <aq>vitia musicali&ba;</aq> einführen/ sol-
+che&sr; können sie mercklich vorhüten/ wan sie in
+dem <aq>Clave</aq> auffhören/ darinn&te; sie angefang&te;.</p>
+<ab><aq>Exemplum.</aq></ab>
+<ab><b>Recht ist&sr;:</b></ab>
+<abb>
+<ab>Auß diesem <et>also/</et></ab>
+<abb>
+<ab>oder so singen.</ab>
+<ab><b>Vnrecht aber ist&sr;.</b></ab>
+<abb>
+<d><aq>Regula <g>XIII.</g></aq></d>
+<p>Die Stimme so da&sr; <aq>fundament</aq> hat/
+mag wol in einer oder 2. Noten die vnter
+<aq>octavam</aq> ergreiffen/ lenger aber soll sie die
+<aq>octavam</aq> nicht singen.</p>
+<cw><aq>Regu-</aq></cw>
+<pb>
+<d><aq>Regula <g>XIV.</g></aq></d>
+<p>Im singen soll der Tact durchauß nicht
+gehöret/ sondern allein gesehen/ oder wo e&sr;
+müglich nur <aq>observiret,</aq> vnnd gemercket
+werden. Geben demnach die <aq>Cantore&sr;</aq> zu-
+erkennen/ daß sie noch von keiner rechtschaffe-
+nen <aq>Music&00E2;</aq> wissen/ welche mit dem Chor-
+stocke also zuschlagen/ daß die stücke darvon
+fliehen/ vnd meinen e&sr; sey recht <aq>tactiret,</aq> wan
+sie nur manlich niederschagen können/ gleich
+al&sr; wann sie haber Stro dreschen müsten.</p>
+<d><aq>Regula <g>XV.</g></aq></d>
+<p>Wo <aq>tactiret</aq> wird/ soll nicht nur zweyen
+oder dreyen Knaben alleine/ sondern dem
+gantzen <aq>Choro tactiret</aq> werden. Irren dem-
+nach die <aq>Cantore&sr;,</aq> welche nur einen oder zwe-
+hen Knaben/ vor sich stehend haben/ vnd de-
+nen den Tact vor schlagen/ vnd lassen die an-
+dern <aq>Concentore&sr;,</aq> gleich al&sr; der Hirte seine
+Hunde/ hinder sich her ziehen.</p>
+<d><aq>Regula <g>XVI.</g></aq></d>
+<p>Im singen soll durchauß nicht einerley
+Tact gespühret vnd geführet werden/ sondern
+<bs>C</bs><cw>nach</cw>
+<pb>
+nach dem die worte de&sr; <aq>Textu&sr;</aq> sein/ also muß
+auch der Tact gerichtet sein/ also da&sr; eine <aq>con-
+venientz,</aq> vnnd <aq>decorum</aq> behalten werde.
+Irren demnach die <aq>Cantore&sr;/</aq> welche den
+Tact so schnurgleich abmessen al&sr; da&sr; Vhr-
+werck seine <aq>minuten.</aq></p>
+<p><c>Ein ander Tact wird hier
+erfodert:</c></p>
+<abb>
+<p><c>Ein anderer aber allhier:</c></p>
+<abb>
+<p><c><aq>Item</aq> allhier:</c></p>
+<abb>
+<cw>Vnd</cw>
+<pb>
+<p>Vnnd
+allhier:</p>
+<abb>
+<d><aq>Regula <g>XVII.</g></aq></d>
+<p>Jegen daß ende de&sr; Gesange&sr;/ <aq>in pe-
+nultima/</aq> daß ist ohn eine/ der letzten Noten/ sol-
+len alle Stimmen auffhalten/ vnd ein sanff-
+te&sr; fein messig gezogene&sr; <aq>Confinal</aq> machen/
+vnd nicht also balt da&sr; <aq>final</aq> dem Gesange an-
+hengen/ den solche&sr; den zuhörenden gar ver-
+drießlich vorkömpt/ vnd nimbt auch dem Ge-
+sange ein gute&sr; theil der lieblig- vnd anmütig-
+keit hinweg. Sonderlich wol aber zieret der <aq>Ba-
+si&sr;</aq> den gesungenen Gesang/ wann er vor an-
+dern Stimmen so wol im <aq>confinal/</aq> al&sr; in
+<aq>fine</aq> selbsten ein wenig zu letzt absonderlich ge-
+höret mag werden.</p>
+<d><aq>Regula <g>XVIII.</g></aq></d>
+<p>Ein <aq>Cantor</aq> soll billich seinen <aq>Discipuli&sr;</aq>
+in allen <aq>Cantionibu&sr;</aq> so er singen wil/ ersilich
+den <aq>Modum</aq> zeigen/ damit sie wissen können/
+welchen <aq>Clavem</aq> sie vornemblich im singen in
+acht nehmen sollen.</p>
+<cw><aq>CA-</aq></cw>
+<pb>
+<d2><aq><g>CAPUT VIII.</g></aq>
+Von <aq><g>MODIS.</g></aq></d2>
+<d><b>Gib mir auch einen kurtzen vnt er-
+richt von den</b> <aq>Modi&sr;?</aq></d>
+<p><in>G</in>Leich wie einer/ so da auff einem We-
+ge im Felde gehet/ viel frölicher ist/ al&sr;
+wann er in einem dicken vnd finstern
+Walde gehet/ weil er im Felde vmb sich sehen
+kan/ vnd weiß wo er hingehet/ im Walde a-
+ber nicht weiß wo er hinkömmet/ biß er auß
+dem Walde kömpt/ vnd siehet wo er hinkom-
+men ist: Also ist&sr; auch im singen gethan dan
+so der singende den <aq>Modum</aq> de&sr; Gesange&sr;
+erkennet/ singet er viel frölicher vnd stanthaff-
+tiger al&sr; wann er nicht weiß/ wo er letzlich auß-
+halten/ oder welchen <aq>Clavem</aq> er vornemblich
+im singen in acht nehmen soll. Ist derwe-
+gen sehr viel daran gelegen/ da&sr; man eine&sr;
+jeden <aq>Cantioni&sr; Modum</aq> recht wisse/ ehe
+man dieselbe singet.</p>
+<cw><b>Wa&sr;</b></cw>
+<pb>
+<d><b>Wa&sr; ist ein</b> <aq>Modu&sr;?</aq></d>
+<p>Er ist der Raum/ oder Ort/ auß einem
+gewissen <aq>Clave</aq> biß wider in denselben durch
+die <aq>Octavam,</aq> also/ daß er bestehet auß ei-
+ner <aq>quarta</aq> vnd auß einer <aq>quinta,</aq> vnd ent-
+weder die <aq>quartam</aq> vber/ oder vnter der
+<aq>quinten</aq> hat/ in welcher <aq>Octav&00E2;</aq> de&sr; gan-
+tzen Gesange&sr; wesen/ vnnd eigenschafft be-
+stehet.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><b>Wie mancherley sind die</b>
+<aq>Modi?</aq></d>
+<p>Zweyerley: <aq>Authenti,</aq> vnnd <aq>Pla-
+gale&sr;.</aq></p>
+<d><b>Wa&sr; ist</b> <aq>Modu&sr; Authen-
+tu&sr;?</aq></d>
+<p>Der allzeit seine <aq>quartam</aq> vber der <aq>quin-</aq>
+<bs>C iij</bs><cw><aq>ten</aq></cw>
+<pb>
+<aq>ten</aq> hat/ Sehet doch hier recht zu. Solche seint#
+so da vnebener zahl sint/ al&sr;/ 1. 3. 5. 7. 9. 11. 13.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><b>Wa&sr; ist</b> <aq>Modu&sr; Plagali&sr;?</aq></d>
+<p>Der seine <aq>quartam</aq> vnter der <aq>quinten</aq> hat.
+Solche seint/ die so gerader oder ebener zahl
+sint/ al&sr;/ 2. 4. 6. 8. 10. 12. 14.</p>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<d><b>Wie viel seint</b> <aq>Modi?</aq></d>
+<p>Auß dem <aq>Circulo,</aq> oder <aq>Tabell&00E2; Musi-
+c&00E2;</aq> welche man billich <aq>Tabellam auream</aq> nen-
+nen solte/ werden viertzehen vnterschietliche
+<aq>Modi</aq> gezogen/ weil aber deren zwene/ nemlich
+der 11. vnd 12. von wegen jhrer vngebreuch-
+lichen vnnd vnfüglichen <aq>intervallen</aq> nicht
+<cw>leicht-</cw>
+<pb>
+leichtlich können gebrauchet werden/ werden
+sie nicht allein auß jhren ordentlichem vnd na-
+türlichen Sitze hinweg genommen/ vnd vor die
+letzten gerechnet/ sondern werden auch <aq>Nothi,</aq>
+daß ist/ vnächte genennet.</p>
+<d><b>Wie wirdt solche</b> <aq>Tabella</aq> gezeiget/
+vnd gewiesen?</d>
+<p>Weil der Gesang zweyerley ist/ nem-
+lich <aq>Cantu&sr; <abb> durali&sr;,</aq> vnd <aq>Cantu&sr; b mol-
+lari&sr;,</aq> vnnd solcher vnterscheit wegen der
+<aq>Tran&sr;position,</aq> daß ist wegen der erhöhung
+oder ernidrigung de&sr; Gesange&sr; herkömmet/
+al&sr; wird auch die <aq>Tabella</aq> auff zweyerley art
+gewiesen/ nemlich einmahl/ da sie den <aq>Mo-
+dum in Cantu regulari,</aq> oder <abb> <aq>durali;</aq>
+Vor&sr; ander/ da sie den <aq>Modum in Cantu
+Tran&sr;posito,</aq> oder <aq>b. Mollari repr&00E6;senti-
+ret</aq> vnd zeiget.</p>
+<bs><aq>C</aq> 4</bs><cw><aq><g><k>Ta</k></g>-</aq></cw>
+<pb>
+<d><aq><g><k>tabella</k></g></aq>
+Welche den <aq>Modum</aq> in <aq>Cantu</aq> <abb> <aq>durali</aq>
+<fr>anzeiget.</fr></d>
+<abb>
+<pb>
+<ab><aq><g><k>tabella</k></g></aq>
+Welche den <aq>Modum in cantu b. mollari</aq>
+<fr>anzeiget.</fr></ab>
+<tab>
+<pb>
+<d><b>Kan man nun auß diesen</b> <aq>Tabelli&sr;</aq>
+alle <aq>Cantione&sr;,</aq> weß <aq>Modi</aq> sie seint/
+erkennen?</d>
+<p>Ja alle <aq>Cantione&sr;,</aq> so da <aq>Componi-
+ret</aq> seint/ vnd <aq>Componi</aq>ret werden mügen.
+Damit aber solche&sr; desto leichter geschehen
+könne/ seint nachfolgende <aq>Regulen</aq> vnd <aq>obser-
+vatione&sr;</aq> zu mercken.</p>
+<d><aq>Observatio I.</aq></d>
+<p>In einem jeglichen Gesange muß man
+zum ersten den <aq>Clavem</aq> suchen vnd wissen/
+darinnen der Gesang seinen natürlichen Sitz
+hat/ vnd darinne er beruhet. Solchen kan
+man finden in dem <aq>Fine</aq> oder ende de&sr; <aq>Basi&sr;/</aq>
+vnnd wann man in acht nimmet/ in welchem
+die meisten <aq>Clausulen</aq> de&sr; Gesange&sr; sich en-
+digen.</p>
+<d><aq><g>II.</g></aq></d>
+<p>Weil ein jeder <aq>Modu&sr;</aq> auß einer <aq>quint</aq>
+vnd <aq>quarta,</aq> oder <aq>quart</aq> vnnd <aq>quinta</aq> beste-
+het/ So muß man fleissig in acht nehmen/
+ob jm Gesange die <aq>quarta</aq> vber/ oder vnter
+der <aq>quinten</aq> ist/ vnd darnach muß der <aq>Mo-
+du&sr;</aq> de&sr; gesange&sr; geurtheilt werden/ ob er ein
+<aq>Authentu&sr;</aq> oder <aq>Plagali&sr;</aq> ist.</p>
+<cw>Der</cw>
+<pb>
+<d><aq><g>III.</g></aq></d>
+<p>Der rechte vnd eigentliche <aq>Modu&sr;</aq> wird
+eigentlich im <aq>Discant</aq> vnd <aq>Tenore</aq> erkennet/
+muß man sich derwegen nicht lassen jrren/ wan
+im <aq>Basso</aq> vnd <aq>Alto</aq> ein ander <aq>Modu&sr;</aq> gefun-
+den wird. Dann e&sr; wird in der <aq>Composi-
+tion</aq> allzeit ein <aq>Authentu&sr;</aq> vnd ein <aq>Plagali&sr;</aq>
+zusammen gesetzet/ welche beyde auß einem
+<aq>Clave</aq> gehen. Wann den derwegen im <aq>Di-
+scant</aq> vnd <aq>Tenore</aq> der <aq>Authentu&sr;</aq> ist/ so ist
+im <aq>Alto</aq> vnd <aq>Basso</aq> der <aq>Plagali&sr;.</aq> Vnd hin-
+wider so im <aq>Disc:</aq> vnd <aq>Tenore</aq> ein <aq>Plagali&sr;</aq>
+gefunden wird/ so ist gewiß im <aq>Basso</aq> vnnd
+<aq>Alto</aq> der <aq>Authentu&sr;,</aq> wie auß nachfolgen-
+der erklerung der <aq>Modorum</aq> insonderheit zu
+sehen.</p>
+<d><aq><g>IV.</g></aq></d>
+<p>Wann sich&sr; aber zutregt da&sr; in einem
+Gesange die Stimmen anderst gefunden wer-
+den/ al&sr; jtzunt gemeldet/ wie solche&sr; sich dann
+offt zutregt in den <aq>Cantionibu&sr; 8. Vocum</aq>
+da ein hoher vnnd tieffer Chor: So solstu
+wissen/ daß solche&sr; nicht geschicht <aq>ex pr&00E6;scri-
+pto arti&sr;,</aq> sondern <aq>ex Licenti&00E2; Authori&sr;,</aq>
+vnd im selben Gesange ist der <aq>Modu&sr;</aq> schwer-
+<cw>lich</cw>
+<pb>
+lich zu vrtheilen. Al&sr; zum Exempel in der
+<aq>Cantilen&00E2; Blasij Ammoni&sr;, Cantate Do-
+mino cantie: nov: 8. Vocum,</aq> Findet sich in
+den Öberstimmen ein <aq>Authentu&sr;,</aq> nemblich
+<aq>Doriu&sr; transpositu&sr;,</aq> in den mittel Stim-
+men der <aq>Plagali&sr;,</aq> in dem <aq>Basi</aq> beyde&sr; de&sr; ho-
+hen vnd dieffen <aq>Chori</aq> ist der <aq>Authentu&sr;</aq> wi-
+derumb. Allhier ist die frage ob der <aq>Cantu&sr;</aq>
+sey <aq>Dorij,</aq> oder <aq>Hypodorij Modi.</aq> Da
+sagstu recht/ E&sr; sey <aq>Doriu&sr;.</aq> Du sagest auch
+nicht vnrecht/ e&sr; sey <aq>Hypodoriu&sr;.</aq> Dann
+die gemeinschafft dieser beyder <aq>Modorum,</aq>
+(die auch sonsten ein jglicher <aq>Authentu&sr;</aq> mit
+seinem <aq>Plagale</aq> hat) ist so groß/ daß sie sich
+leichtlich ohne einem <aq>singulari pr&00E6;dominio</aq>
+vnd herrschafft vertragen können/ vnd ist jh-
+nen genug/ daß sie jhren <aq>Communem Cla-
+vem finalem</aq> haben. Vnd bewegen e&sr; die
+nicht recht/ so da sagen/ e&sr; müsse ein gewisser
+<aq>Modu&sr; pr&00E6;dominiren</aq> vnd die Öberhant
+behalten/ sonsten werde die kunst <aq>violiret</aq> vnd
+verletzet/ dann jhre meinung sich nur erstrecket/
+nach der gemeinen weise de&sr; Gesange&sr;.</p>
+<d><aq>V.</aq></d>
+<p>Wann sich&sr; auch zutregt/ da&sr; man eine
+<cw><aq>Me-</aq></cw>
+<pb>
+<aq>Melodiam</aq> in einem andern/ vnd aber an-
+derm <aq>Modo</aq> findet/ so vrtheilet man sie/ wie
+man sie findet. Al&sr; zum Exempel/ einer hat
+gesetzet: Ich ruff zu dir JErr JEsu Christ/
+<aq>ad Primum Dorium,</aq> ein ander <aq>ad Nonum
+&00C6;olium: Item</aq> einer hat gesetzet: Allein
+zu dir HErr Jesu Christ <aq>ad Secundum,
+Hypodorium:</aq> Einander <aq>ad Decimum
+Hypo&00E6;olium:</aq> Ist die frage: <aq>cuju&sr; Modi</aq>
+die <aq>Cantione&sr;</aq> sein? Antwort/ Wie sie ge-
+funden werden/ also vrtheilt man sie. Vnnd
+wird ein erfarner <aq>Musicu&sr;,</aq> der die <aq>Cantio-
+ne&sr;</aq> also <aq>tran&sr;poniret,</aq> oder auch selbst <aq>Com-
+poniren</aq> wil/ wol zusehen/ daß er die <aq>Semi-
+tonia</aq> an rechten gebreuchlichen Örtern wisse
+zu <aq>adhibiren,</aq> damit den <aq>Melodien</aq> jhre na-
+türliche liebligkeit nicht benommen werde.</p>
+<d><aq><g>VI.</g></aq></d>
+<p>Mann muß sich auch nicht lassen jrren/ daß
+die <aq>Authore&sr;</aq> bißweilen <aq>ex licenti&00E2;</aq> vber die
+gebühr schreiten/ vnd in einer Stimme zweyer
+<aq>Modorum ambitum</aq> oder vmkreiß setzen/
+sondern man muß in solchem sall auß dem
+<aq>Clave signat&00E2;</aq> vrtheilen.</p>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exemplum.</aq></ab>
+<abb>
+<abb>
+<p>Hier ist <aq>Ambitu&sr;</aq> 1. vnd 2. <aq>Modi, Clavi&sr;
+signata</aq> aber zeiget an den <aq>Primum Mo-
+dum.</aq></p>
+<p><c><b>Folget eine Erklerung eine&sr;
+jedern</b> <aq>Modi</aq> <b>insonderheit.</b></c></p>
+<d3><aq><g>PRIMUS MODUS
+DORIUS.</g></aq></d3>
+<p><in>D</in>Er erste <aq>Modu&sr;</aq> wird <aq>Doriu&sr;</aq> genen-
+net/ vnd bestehet <aq>regulariter</aq> im <aq>D.</aq>
+nimbt seine <aq>quintam</aq> auß dem <aq>D.</aq> in&sr;
+<aq>A.</aq> vnd die <aq>quartam</aq> darüber/ auß dem <aq>A.</aq>
+in&sr; <aq>D.</aq> beruhet letzlich im <aq>D.</aq> Ist er <aq>tran&sr;po-
+niret,</aq> so bestehet er im <aq>G.</aq> nimbt seine <aq>quintam</aq>
+<cw>auß</cw>
+<pb>
+auß dem <aq>G</aq> in&sr; <aq>D.</aq> vnd die <aq>quartam</aq> darüber
+auß dem <aq>D.</aq> in&sr; <aq>G.</aq> vnd ruhet letzlichen im <aq>G.</aq>
+auff nachfolgende weise.</p>
+<ab><aq>Exempl. Cantu&sr; regulari&sr;:</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; jrregul.</aq></ab>
+<abb>
+<p>Der <aq>Clavi&sr; signata item</aq> die <aq>quinta</aq>
+vnd <aq>quarta</aq> in jglicher Stimme werden also
+gefunden:</p>
+<cw><aq>In</aq></cw>
+<pb>
+<p><c><aq>In Cantu regulari:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<p><c><aq>In cantu tran&sr;posito</aq> oder <aq>b.
+mollari:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<cw><aq>Natu-</aq></cw>
+<pb>
+<d4><aq>Natura.</aq></d4>
+<p>Seine Natur ist: Daß er fröliche Gra-
+vitetische/ Prechtige vnnd Majestätische wie
+auch demütige vnd freundliche <aq>Textu&sr;,</aq> al&sr;
+<aq>gratulatione&sr;, petitione&sr; Epithalamia,</aq> ein
+<aq>Carm&te; heroicum,</aq> vnd dergleichen haben wil.
+<c><aq>Exempla</aq> diese&sr; <aq>Modi</aq> seint:</c></p>
+<li>Vater vnser im Himmelreich.</li>
+<li>Wir gleuben all an einen Gott.</li>
+<li>Christ lag in Tode&sr; banden.</li>
+<li>Jesu&sr; Christu&sr; vnser Heylant/ der v&to; etc.</li>
+<li>Durch Adam&sr; fall ist gantz verderbt/ etc.</li>
+<d3><aq><g>SECUNDUS MODUS
+<k>Hypodoriu&sr;.</k></g></aq></d3>
+<p><in>D</in>Er ander <aq>Modu&sr;</aq> wirdt genennet
+<aq>Hypodoriu&sr;,</aq> bestehet <aq>regulariter</aq>
+im <aq>D.</aq> nimbt seine <aq>quartam</aq> auß dem
+<aq>A.</aq> in&sr; <aq>D.</aq> vnd die <aq>quintam</aq> darüber auß dem
+<aq>D.</aq> in&sr; <aq>A.</aq> beruhet letzlich im <aq>D. Irregulariter</aq>
+aber bestehet er im <aq>G.</aq> nimbt die <aq>quartam</aq> auß
+dem <aq>D.</aq> in&sr; <aq>G.</aq> vnd die <aq>quintam</aq> darüber auß
+dem <aq>G.</aq> in&sr; <aq>D.</aq> ruhet letzlich im <aq>G.</aq> auff nach-
+folgende art:</p>
+<bs><aq>D</aq></bs><cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exempl. Cantu&sr; regul.</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irregulari&sr;.</aq></ab>
+<abb>
+<p>Der <aq>Clavi&sr; signata, quarta</aq> vnd <aq>quin-
+ta</aq> werden in jeglicher Stimme also gefunden.</p>
+<p><c><aq>In Cantu regulari.</aq></c></p>
+<cw><aq>Can-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu tran&sr;posito.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura.</aq></d4>
+<p>In dies&te; <aq>Modo</aq> könn&te; gebrauchet werd&te; ernst-
+<bs>D ij</bs><cw>haff-</cw>
+<pb>
+hafftige/ harte/ rauhe <aq>Textu&sr;. Item prec&00E6;-
+tione&sr; deprecatione&sr;,</aq> vnnd dergleichen.
+Wirdt wegen seiner rechtmessigen höhe vnn#
+dieffe die er <aq>irregulariter/</aq> oder <aq>tran&sr;poni#
+ret</aq> hat/ fast offt gesetzet vnd gebrauchet/ we#
+die <aq>instrumenta</aq> sich sehr bequemlich zu die#
+sem <aq>Modo</aq> gebrauchen lassen.</p>
+<p><c><aq>Exempla</aq> sindt:</c></p>
+<li>Allein zu dir HErr Jesu Christ.</li>
+<li>HErr wer wirdt wohnen.</li>
+<li>Helfft mihr Gott&sr; güthe preisen.
+<et><fr>Oder:</fr></et></li>
+<li>Einmahl ging ich spatzieren.
+<et><fr>Oder:</fr></et></li>
+<li>Von Gott wil ich nicht lassen/ etc.</li>
+<d3><aq><g>TERTIUS MODUS
+<k>Phrygiu&sr;.</k></g></aq></d3>
+<p><in>D</in>Er dritte <aq>Modu&sr;</aq> wirdt genenn#
+<aq><g>PHRYGIUS,</g></aq> bestehet <aq>regular#
+ter</aq> im <aq>E.</aq> nimbt seine <aq>quintam</aq> au#
+dem <aq>E.</aq> in&sr; <abb> vnd darüber die <aq>quartam</aq> au#
+dem <abb> in&sr; <aq>E.</aq> ruhet letzlich im <aq>E. Irregularite#</aq>
+bestehet er im <aq>A.</aq> nimmet seine <aq>quintam</aq> au#
+dem <aq>A.</aq> in&sr; <aq>E.</aq> vnd die <aq>quartam</aq> auß dem <aq>E#</aq>
+<cw>#</cw>
+<pb>
+#n&sr; <aq>A.</aq> beruhet auch letzlich im <aq>A.</aq> auff nach-
+#folgende weise.</p>
+<ab><aq>Exempl. Cantu&sr; regul.</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irreg.</aq></ab>
+<abb>
+<p>Der <aq>Clavi&sr; signata,</aq> die <aq>quint</aq> vnnd
+<aq>quarta</aq> werden in jeder Stimme also gezeich-
+net gefunden.</p>
+<p><c><aq>In Cantu regul.</aq></c></p>
+<bs><aq>D</aq> 3</bs><cw><aq>Can-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu irregulari:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura:</aq></d4>
+<p><et>Seine Natur vnd eigenschafft ist/ daß er</et>
+<cw>harte</cw>
+<pb>
+harte vnd zornige worte de&sr; Text&sr; haben wil:
+jedoch weil er da&sr; <aq>Semitonium, regul:</aq> im
+<aq>G. jrregulariter</aq> im <aq>C.</aq> fast brauchet/ bringet
+er eine sonderliche lieblicheit mit sich/ also da&sr;
+man so wol <aq>verba dulcia</aq> vnd <aq>humilia,</aq> al&sr;
+<aq>tortuosa, impetuosa, austera</aq> vnd <aq>acerba</aq>
+in jhm kan gebrauchen</p>
+<p><c><aq>Exempla</aq> diese&sr; <aq>Modi</aq> seint:</c></p>
+<li>Christu&sr; der vn&sr; seeligmacht/ etc.</li>
+<li>Da Jesu&sr; an dem Creutze/ etc.</li>
+<li>E&sr; wolt vn&sr; Gott gnedig sein.</li>
+<li>O HErre Gott begnade mich/ etc.</li>
+<d3><aq><g>QUARTUS, MODUS
+<k>Hypophrygiu&sr;.</k></g></aq></d3>
+<p><in>D</in>Er vierde <aq>Modu&sr;</aq> wirdt genennet
+<aq>Hypophrygiu&sr;,</aq> bestehet <aq>regulari-
+ter</aq> im <aq>E.</aq> nimbt seine <aq>quartam</aq> auß
+dem <abb> in&sr; <aq>E.</aq> vnd seine <aq>quintam</aq> darüber in&sr;
+<abb> beruhet letzlich im <aq>E. Irregulariter</aq> beste-
+het er im <aq>A.</aq> nimmet seine <aq>quartam</aq> auß dem
+<aq>E.</aq> in&sr; <aq>A.</aq> vnd die <aq>quintam</aq> darüber auß dem
+<aq>A.</aq> in&sr; <aq>E.</aq> ruhet letzlich im <aq>A.</aq> auff nachfol-
+gende art:</p>
+<bs><aq>D</aq> <i>4</i></bs><cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exempl. Cant. Reg.</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irreg.</aq></ab>
+<abb>
+<p>Der <aq>Clavi&sr; sign: quart,</aq> vnd <aq>quinta,</aq>
+werden in jeglicher Stimme also gefunden:</p>
+<p><aq>In Cantu regul.</aq> oder <abb> <aq>dur.</aq></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<cw><aq>In</aq></cw>
+<pb>
+<p><c><aq>In Cantu irregul.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura.</aq></d4>
+<p>Seine Natur ist etwa&sr; härtlicher al&sr; <aq>ter-
+tij Modi.</aq> Vnnd können trawrige <aq>Textu&sr;,</aq>
+al&sr; <aq>lamentatione&sr;, Epicedia,</aq> vnd <aq>depre-
+catione&sr;</aq> in diesem <aq>Modo</aq> gebrauchet werd&te;.</p>
+<d4><aq>Observatio.</aq></d4>
+<p>Doch ist zu mercken da&sr; dieser <aq>Modu&sr;</aq>
+so grosse gemeinschafft mit <aq>tertio Modo</aq> hat/
+da&sr; er kaum vom selben in <aq>Cantionibu&sr;</aq> mag
+vnterschieden werden. Sintemahl er fast
+nimmer die <aq>quartam</aq> vnter der <aq>quinten</aq> recht
+erreichet/ sondern nimmet etliche <aq>intervalla</aq>
+<bs>D v</bs><cw>vber</cw>
+<pb>
+vber der <aq>quint</aq> zu sich/ vnd sonderlich die <aq>se-
+cundam,</aq> also da&sr; e&sr; eine <aq>Sexta</aq> vom <aq>Clave
+finali</aq> wirdt/ vnd durch diese <aq>sextam</aq> mag er
+auch von <aq>tertio Modo</aq> vnterschieden werden.</p>
+<p><c><aq>Exemplum.</aq></c></p>
+<li>Mensch wiltu leben seeliglich.</li>
+<li>Auß dieffer noth schrey ich zu dir.</li>
+<li>Erbarm dich mein O HErre Gott.</li>
+<li>Mitten wir im leben sint. Wie auch</li>
+<li>Da Jesu&sr; an dem Creutze stundt.</li>
+<d3><aq><g>QUINTUS MODUS
+<k>Lydiu&sr;.</k></g></aq></d3>
+<p><in>D</in>Er fünffte <aq>Modu&sr;</aq> wird genennet
+<aq>Lydiu&sr;</aq> vnd bestehet <aq>Regul:</aq> im <aq>Cla-
+ve F.</aq> nimmet seine <aq>quintam</aq> auß dem
+<aq>F.</aq> in&sr; <aq>C.</aq> vnnd die <aq>quartam</aq> darüber in&sr; <aq>F.
+Irregulariter</aq> aber bestehet er im <aq>B.</aq> nimmet
+seine <aq>quintam</aq> auß dem <aq>b.</aq> in&sr; <aq>F.</aq> vnnd die
+<aq>quartam</aq> auß dem <aq>F.</aq> in&sr; <aq>b.</aq> ruhet im <aq>b.</aq></p>
+<ab><aq>Exempl. Cant. Reg.</aq></ab>
+<abb>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exempl: Cant: irreg:</aq></ab>
+<abb>
+<p>Der <aq>Clavi&sr; signata, quarta,</aq> vnnd
+<aq>quinta</aq> in diesem <aq>Modo</aq> seint in jeglicher
+Stimme von Natur alsozu finden.</p>
+<d><aq>In Cantu Regul:</aq></d>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu Irreg.</aq></c></p>
+<cw><aq>Can-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura.</aq></d4>
+<p>E&sr; ist dieser <aq>Modu&sr;</aq> gar ein seltzamer
+rauher/ vnd vngeschliffener <aq>Modu&sr;</aq> vnd bey-
+de&sr; zur Menschlichen Stimme/ al&sr; <aq>instru-
+menten</aq> gar vnbequemlich/ vnd vnfüglich/
+darumb er den auch von den <aq>Musici&sr;</aq> entwe-
+der gar nicht/ oder gar selden gebraucht wirt.
+<aq>Exempla</aq> finde ich gar nicht.</p>
+<d3><aq><g>SEXTUS MODUS
+<k>Hypolydiu&sr;.</k></g></aq></d3>
+<p><in>D</in>Er sechste <aq>Modu&sr;</aq> heisset <aq>Hypolydiu&sr;</aq>
+bestehet <aq>Regulariter</aq> im <aq>F.</aq> nimmet seine
+<aq>quartam</aq> auß dem <aq>C.</aq> in&sr; <aq>F.</aq> auß dem <aq>F.</aq> die
+<aq>quintam</aq> in&sr; <aq>C. Irregulariter</aq> bestehet er im
+<cw><aq>b.</aq> nim-</cw>
+<pb>
+<aq>b.</aq> nimmet seine <aq>quartam</aq> auß dem <aq>F.</aq> in&sr; <aq>b.</aq>
+vnnd die <aq>quintam</aq> auß dem <aq>b.</aq> in&sr; <aq>F.</aq> ruhet
+letzlich im <aq>b.</aq></p>
+<ab><aq>Exempl: Cant: regul:</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irreg.</aq></ab>
+<abb>
+<p>Der <aq>Clavi&sr; signata, quarta</aq> vnd <aq>quin-
+ta</aq> werden in jeglicher Stimme also gezeichnet.</p>
+<cw><aq>In</aq></cw>
+<pb>
+<p><c><aq>In Cantu regul:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu irreg:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura &amp; proprieta&sr;.</aq></d4>
+<p>Diese&sr; <aq>Modi</aq> Eigenschafft ist eben al&sr;
+<cw><aq>quinti</aq></cw>
+<pb>
+<aq>quinti</aq> vngeschickt/ vnd vnbequemlich/ der-
+wegen auch nicht leichtlich <aq>exempla</aq> ge-
+funden werden.</p>
+<d3><aq><g>SEPTIMUS MODUS
+<k>Mixolydiu&sr;.</k></g></aq></d3>
+<p><in>D</in>Er siebende <aq>Modu&sr;</aq> wirdt genennet <aq>Mi-
+xolvdiu&sr;/</aq> bestehet <aq>Regulariter</aq> im <aq>Cla-
+ve G.</aq> nimmet seine <aq>quintam</aq> auß dem <aq>G.</aq>
+in&sr; <aq>D.</aq> vnd die <aq>quartam</aq> auß dem <aq>D.</aq> in&sr; <aq>G.</aq>
+beru# letzlich im <aq>G. Irregulariter</aq> bestehet er
+im <aq>C</aq> nimmet die <aq>quintam</aq> auß dem <aq>C.</aq> in&sr;
+<aq>G.</aq> vnd die <aq>quartam</aq> auß dem <aq>G.</aq> in&sr; <aq>C.</aq> be-
+ruhet letzlich im <aq>C.</aq></p>
+<ab><aq>Exempl. Cantu&sr; reg.</aq></ab>
+<abb>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exempl: Cantu&sr; Irreg:</aq></ab>
+<abb>
+<d><aq>Clavi&sr; &amp; ambitu&sr;.</aq></d>
+<p>Der <aq>Clavi&sr; signata, quint,</aq> vnnd
+<aq>quarta</aq> werden in jeglicher Stimme allo ge-
+funden.</p>
+<d><aq>In Cantu regulari.</aq></d>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<cw><aq>In</aq></cw>
+<pb>
+<p><c><aq>In Cantu irregulari:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura:</aq></d4>
+<p>Die Natur vnd eigenschafft diese&sr; <aq>Modi</aq>
+ist/ daß er wil haben ernsthaffte <aq>Textu&sr;</aq> al&sr;
+vermanungen/ anreitzungen/ <aq>re&sr; gesta&sr;, in-
+vectiva&sr;,</aq> scheldungen/ betrawungen/
+vnd dergleichen. Vnd so man in <aq>Trag&0153;dij&sr;
+Musicam</aq> wil vben/ so ist dieser <aq>Modu&sr;</aq> gar
+füglich darzu.</p>
+<p><c><aq>Exempl:</aq></c></p>
+<p><c>E&sr; ist da&sr; heil vn&sr;/ etc.</c></p>
+<bs><aq>E</aq></bs><cw><aq>OCTA-</aq></cw>
+<pb>
+<d3><aq><g>OCTAVUS MODUS
+<k>Hypomixolydiu&sr;</k>.</g></aq></d3>
+<p><in>D</in>Er achte <aq>Modu&sr;</aq> wirdt genennet <aq>Hy-
+pomyxolydiu&sr;,</aq> vnd bestehet <aq>Regu-
+lariter</aq> im <aq>G.</aq> nimmet seine <aq>quartam</aq>
+auß dem <aq>D.</aq> in&sr; <aq>G.</aq> vnd die <aq>quintam</aq> auß dem
+<aq>G</aq> in&sr; <aq>D.</aq> ruhet letzlich im <aq>G. Irregulariter</aq> be-
+stehet er im <aq>C.</aq> nimmet seine <aq>quartam</aq> auß dem
+<aq>G.</aq> in&sr; <aq>C.</aq> vnd die <aq>quintam</aq> darüber in&sr; <aq>G.</aq>
+beruhet letzlich im <aq>C.</aq></p>
+<ab><aq>Exempl: Cantu&sr; regul:</aq></ab>
+<abb>
+<ab><aq>Exempl: Cant: irreg:</aq></ab>
+<abb>
+<cw><aq>Cla-</aq></cw>
+<pb>
+<p><c><aq>Clavi&sr; sign. &amp; Amb.</aq></c></p>
+<p>Der <aq>Clavi&sr; signata,</aq> die <aq>quarta,</aq> vnd
+<aq>quinta</aq> werden in jglicher Stimme also ge-
+funden:</p>
+<d><aq>In Cantu Regul:</aq></d>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu Irreg.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<bs><aq>E</aq> 2</bs><cw><aq>Te-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura.</aq></d4>
+<p>Dieser <aq>Modu&sr;</aq> ist von Natur ein sehr
+lieblicher gravitetischer vnd prächtiger <aq>Mo-
+du&sr;,</aq> vnd wil derowegen gar anmütige/ vnnd
+schöne <aq>Textu&sr;,</aq> al&sr; <aq>Verba honori&sr;, reve-
+renti&00E6;, congratulationi&sr;, gratiarum a-
+ctioni&sr;, &amp;c.</aq> haben.</p>
+<d><aq>Exemplum.</aq></d>
+<li>Allein Gott in der höhe sey Ehr.</li>
+<li>Gelobet seistu Jesu Christ.</li>
+<li>Frölich wolln wir alleluja/ etc.</li>
+<d3><aq><g>NONUS MODUS
+<k>&00C6;oliu&sr;</k>.</g></aq></d3>
+<p><in>D</in>Er neunde <aq>Modu&sr;</aq> wirt genennet
+<aq>&00C6;oliu&sr;,</aq> vnd bestehet <aq>Reg:</aq> im <aq>Cla-
+ve A.</aq> nimmet die <aq>quartam</aq> auß dem
+<cw><aq>A.</aq> in&sr;</cw>
+<pb>
+<aq>A.</aq> in&sr; <aq>E.</aq> vnd die <aq>quartam</aq> auß dem <aq>E.</aq> in&sr;
+<aq>A.</aq> ruhet letzlich im <aq>A. Irregulariter</aq> bestehet
+er im <aq>D.</aq> nimmet seine <aq>quintam</aq> auß dem <aq>D.</aq>
+in&sr; <aq>A.</aq> vnd die <aq>quartam</aq> auß dem <aq>A.</aq> in&sr; <aq>D.</aq>
+ruhet letzlich im <aq>D.</aq></p>
+<ab><aq>Exempl. Cantu&sr; regul.</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irregulari&sr;.</aq></ab>
+<abb>
+<p><et><aq>Clavi&sr; Sign: &amp; Amb.</aq></et></p>
+<p>Der <aq>Clavi&sr; signata,</aq> die <aq>quart,</aq> vnd
+<bs><aq>E</aq> 3</bs><cw><aq>quin-</aq></cw>
+<pb>
+<aq>quinta</aq> werden in jeglicher Stimme also ge-
+sunden:</p>
+<d><aq>In Cantu regulari.</aq></d>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;</aq></ab>
+<abb>
+<d><aq>In Cantu irreg:</aq></d>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cw><aq>Te-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura &amp; proprieta&sr;.</aq></d4>
+<p>Seine eigentschafft ist/ daß er wil haben
+<aq>Textu&sr;</aq> von herlichen denckwürdigen dingen/
+dancksagungen/ innerlichen frewden/ vnnd
+dergleichen.</p>
+<d><aq>Exempl:</aq></d>
+<li>Ich dancke dem HERren von gantzem
+<et>Hertzen/ etc.</et></li>
+<li>Ich ruff zu dier HErr Jesu Christ/ etc.</li>
+<d3><aq><g>DECIMUS MODUS
+<k>Hypo&00E6;oliu&sr;</k>.</g></aq></d3>
+<p><in>D</in>Er zehende <aq>Modu&sr;</aq> wirdt genennet
+<aq>Hypo&00E6;oliu&sr;,</aq> bestehtt <aq>regul<i>:</i></aq> im <aq>Cla-
+ve A.</aq> nimmet die <aq>quartam</aq> auß dem
+<aq>E.</aq> in&sr; <aq>A.</aq> die <aq>quintam</aq> auß dem <aq>A.</aq> in&sr; <aq>E.</aq>
+ruhet im <aq>A. Irreg:</aq> bestehet er im <aq>D.</aq> nimmet die
+<aq>quartam</aq> auß dem <aq>A.</aq> in&sr; <aq>D.</aq> vnd die <aq>quin-</aq>
+<cw><aq>tam</aq></cw>
+<pb>
+<aq>tam</aq> darüber auß dem <aq>D.</aq> in&sr; <aq>A.</aq> beruhet letz-
+lich im <aq>D.</aq></p>
+<ab><aq>Exempl. Cant. Reg.</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irreg.</aq></ab>
+<abb>
+<p><et><aq>Clavi&sr; sign: &amp; Ambitu&sr;.</aq></et></p>
+<p>Der <aq>Clavi&sr; signata,</aq> die <aq>quart</aq> vnd <aq>quin.</aq>
+<cw><aq>ta</aq></cw>
+<pb>
+<aq>ta</aq> werden in jeglicher Stimme also gesun-
+den.</p>
+<p><c><aq>In Cantu regulari.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu irregul.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<cw><aq>Na-</aq></cw>
+<pb>
+<d4><aq>Natura &amp; propr:</aq></d4>
+<p>Dieser <aq>Modu&sr;</aq> ist ein vberauß schöner
+vnd lieblicher <aq>Modu&sr;,</aq> den man einen rechten
+Schmeichler nennen könte/ vnd derwegen wil
+er haben gar liebliche/ anmütige/ trawrige/
+doch tröstliche/ freundtliche/ demütige/ vnnd
+dergleichen <aq>Textu&sr;.</aq></p>
+<p><c><aq>Exempla</aq> sindt:</c></p>
+<li>Mag ich vnglück nicht wider stahn.</li>
+<li>Allein zu dier HErr JEsu Christ.</li>
+<li>Wo Gott der HErr nicht bey vn&sr;/ etc.</li>
+<d3><aq><g>UNDECIMUS MODUS
+<k>Jonicu&sr;</k>.</g></aq></d3>
+<p><in>D</in>Er elffte <aq>Modu&sr;</aq> wirdt genennet <aq>Jo-
+nicu&sr;,</aq> vnd bestehet <aq>Regulariter</aq> im
+<aq>C.</aq> nimbt die <aq>quintam</aq> auß dem <aq>C.</aq>
+in&sr; <aq>G.</aq> vnd die <aq>quartam</aq> darüber auß dem <aq>G.</aq>
+in&sr; <aq>C.</aq> ruhet letzlich im <aq>C. Irregulariter</aq> aber
+bestehet er im <aq>F.</aq> nimmet die <aq>quintam</aq> auß
+dem <aq>F.</aq> in&sr; <aq>C.</aq> auß dem <aq>C.</aq> die <aq>quartam</aq> in&sr;
+<aq>F.</aq> ruhet letzlich im <aq>F.</aq></p>
+<cw><aq>Exem-</aq></cw>
+<pb>
+<ab><aq>Exempl. Cantu&sr; reg.</aq></ab>
+<abb>
+<ab><aq>Exempl: Cantu&sr; Irreg:</aq></ab>
+<abb>
+<p><c><aq>Cavi&sr; sign: &amp; ambitu&sr;.</aq></c></p>
+<p>Der <aq>Clavi&sr; sign:</aq> die <aq>quint,</aq> vnd <aq>quar-
+#a</aq> werden in jeglicher Stimme also gefunden:</p>
+<p><c><aq>In Cantu reg:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cw><aq>Te-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu irreg:</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura &amp; propr.</aq></d4>
+<p>Dieser <aq>Modu&sr;</aq> ist von Natur lieblich/
+vnd frewdig/ derowegen er auch von den Al-
+ten &03B3;&03BB;&03B1;&03C6;&03C5;&03C1;&1F78;&03C2;/ daß ist lustiger vnnd lieblicher
+genennet ist worden. Vnnd wil demnach
+<aq>Textu&sr;</aq> haben/ so da zur frewdigkeit dienlich:
+Al&sr; Däntze/ Auffzüge/ Newezeitungen/ vnd
+<cw>der-</cw>
+<pb>
+ergleichen: Auch sonsten von Geistlichen
+#<aq>extibu&sr;,</aq> Wil er haben/ so da frewdig tröst-
+#ch/ vnnd eine sonderliche zuversicht mit sich
+#ringen.</p>
+<p><c><aq>Exempl:</aq></c></p>
+<li>Vom Himmel hoch da kom ich her.</li>
+<li>Ein feste Burg ist vnser Gott.</li>
+<li>Gott der Vater wohn vn&sr; bey.</li>
+<li>Wo Gott zum Hauß nicht gibt/ etc.</li>
+<d3><aq>DUODECIMUS <g>MODUS
+<k>Hypoionicu&sr;</k>.</g></aq></d3>
+<p><in>D</in>Er zwölffte <aq>Modu&sr;</aq> wirdt genant <aq>Hypo-
+ionicu&sr;,</aq> vnd bestehet <aq>Regulariter</aq> im <aq>C.</aq>
+#immet seine <aq>quartam</aq> auß dem <aq>G.</aq> in&sr; <aq>C.</aq> vnd
+#e <aq>quint</aq> darüber auß dem <aq>C.</aq> in&sr; <aq>G.</aq> ruhet
+#tzlich im <aq>C. Irregulariter</aq> bestehet er im <aq>F.</aq>
+#mmet die <aq>quart</aq> auß dem <aq>C.</aq> in&sr; <aq>F.</aq> vnd die
+<aq>#quint</aq> auß dem <aq>F.</aq> in&sr; <aq>C.</aq> ruhet letzlich im <aq>F.</aq></p>
+<ab><aq>Exempl. Cant. Reg.</aq></ab>
+<abb>
+<pb>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irreg.</aq></ab>
+<abb>
+<p><c><aq>Clavi&sr; sign: &amp; ambitu&sr;.</aq></c></p>
+<p>Die <aq>quart, quint</aq> vnd <aq>Clavi&sr; signa#</aq>
+werden in jeglicher Stimme also gezeichnet.</p>
+<p><c><aq>In Cantu regul.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cw><aq>T#</aq></cw>
+<pb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu irreg.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<d4><aq>Natura &amp; propr.</aq></d4>
+<p>Dieser <aq>Modu&sr;</aq> wenn er <aq>tran&sr;poniret</aq>
+wirdt/ ist bey dem <aq>Musici&sr;</aq> seer gebreuchlich/
+wegen der fugligkeit/ so die Orgeln vnnd
+<aq>Instrumenta,</aq> neben Menschlicher Stimme/
+<cw>so</cw>
+<pb>
+so sie darein gebraucht werden/ haben können.
+Den er behelt eine feine natürliche vnd mittel-
+messige höhe vnd dieffe/ daß e&sr; die Menschli-
+che Stimmen allerseit&sr; erlangen können. Sei-
+ne Natur vnd eigenschafft belangent: Nim-
+met er allerley <aq>Textu&sr;,</aq> beyde&sr; frewdige/ traw-
+rige/ vnd mittelmessige an. doch ist er nicht so
+frewdig/ al&sr; sein <aq>Authentu&sr;,</aq> der elffte.</p>
+<p><c><aq>Exempla</aq> sein.</c></p>
+<li>Der tag der ist so frewdenreich.</li>
+<li>Nun frewt euch lieben Christen mein.</li>
+<li>Kom heiliger Geist.</li>
+<li>Nun bitten wir den H. Geist.</li>
+<li>O HErre Gott dein Göttlich wort.</li>
+<li>Nun lob mein Seel den HErren/ etc.</li>
+<d3><aq><g>DECIMUS TERTIUS
+<k>Modu&sr; Hyperphry-
+giu&sr;</k></g>.</aq></d3>
+<p><in>D</in>Er dreitzehende <aq>Modu&sr;</aq> wirdt genennet
+<aq>Hyperphrygiu&sr;</aq> ist sonst von Natur der
+elffte/ aber wegen seiner vnbequemligkeit/ vnd
+vnformligkeit/ zu rücke gesetzet oder vielmehr
+gar verworffen/ vnnd vor vnächt erkennet.
+<cw>Be-</cw>
+<pb>
+Bestehet sonst <aq>regular<i>:</i></aq> im <abb>. nimmet seine
+<aq>quintam</aq> auß dem <abb>. in&sr; <aq>F.</aq> durch <aq>Mi, Fa,</aq>
+vnd seine <aq>quartam</aq> auß dem <aq>F.</aq> in&sr; <abb>. durch
+<aq>Fa Mi,</aq> ruhet im <abb>. <aq>Irreg:</aq> bestehet er im <aq>E.</aq>
+nimmet die <aq>quint</aq> auß dem <aq>E.</aq> in&sr; <aq>B.</aq> durch
+<aq>Mi, Fa,</aq> vnnd die <aq>quart</aq> auß dem <aq>B.</aq> in&sr; <aq>E.</aq>
+durch <aq>Fa, Mi,</aq> ruhet im <aq>E.</aq></p>
+<ab><aq>Exempl. Cant. Reg.</aq></ab>
+<abb>
+<ab><aq>Exempl. Cantu&sr; irreg.</aq></ab>
+<abb>
+<p><c><aq>Clavi&sr; signata, &amp; Ambitu&sr;.</aq></c></p>
+<bs>F</bs><cw>Die</cw>
+<pb>
+<p>Die <aq>Clave&sr; signat<i>:</i> quint</aq> vnd <aq>quart</aq>
+werden in jeglichen Stimmen also gezeichnet:</p>
+<p><c><aq>In Cantu reg.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu Irreg.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Bassu&sr;</aq></ab>
+<abb>
+<p><c><aq>Exempla</aq> werden nicht gefunden.</c></p>
+<cw><aq>DE-</aq></cw>
+<pb>
+<d3><aq><g>DECIMUS QUARTUS</g>
+<k>Modu&sr; Hyper &00C6;oliu&sr;.</k></aq></d3>
+<abb>
+<p><in>D</in>Er viertzehende vnd letzte <aq>Modu&sr;</aq> heist
+<aq>Hyper&00E6;oliu&sr;,</aq> ist sonst von Natur
+der zwölffte/ aber wegen seiner vnfüg-
+ligkeit vnd seltzamen vngebreuchlichen <aq>inter-
+vallen</aq> zu gleich mit dem dreitzehenden zurück
+gesetzet/ vnd verworffen. Bestehet <aq>regul.</aq> im
+<abb>. <aq>Irreg.</aq> im <aq>E.</aq> die Stimmen werden also
+gezeichnet:</p>
+<p><c><aq>In Cantu reg.</aq></c></p>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>In Cantu Irreg.</aq></c></p>
+<bs><aq>F</aq> 2</bs><cw><aq>Can-</aq></cw>
+<pb>
+<cb>
+<ab><aq>Cantu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Altu&sr;.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Tenor.</aq></ab>
+<abb>
+<cb>
+<ab><aq>Basi&sr;.</aq></ab>
+<abb>
+<p><c><aq>Exempla</aq> werden nicht gefunden.</c></p>
+<p>Vnd so viel auch von den <aq>Modi&sr;,</aq> wa&sr;
+sonsten mehr den Knaben zu wissen sein möch-
+te/ wird ein fleissiger <aq>Cantor</aq> wol wissen zu er-
+inneren.</p>
+<p><c><b>Folgen (weil sonst die Bletter hett&te;</b>
+müssen ledig bleiben) zwo Fugen darmit sich die
+Knaben selbst vntereinander vben können.</c></p>
+<ab><aq>I. Fuga 2. Vocum, post 2. tactu&sr;:
+ex Psalm. 55. v.</aq> 23.</ab>
+<abb>
+<pb>
+<abb>
+<bs>ij</bs><cw><aq>Fug.</aq></cw>
+<pb>
+<ab><aq>II. Fug. Duum voc&tu; post. 2. tact. Ps.</aq> 43.</ab>
+<abb>
+<pb>
+<abb>
+<pb>
+<hr>
+<p><c><aq>Error.</aq></c></p>
+<p><aq>Litera C. fac. 2. lin.</aq> 1. Seint ohn ge-
+fehr diese wort mit eingesetzet (Sehet doch hier
+recht zu) Welche sollen außgeleschet werden.</p>
+<p><c><b><g>ENDE</g>.</b></c></p>
+<abb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>

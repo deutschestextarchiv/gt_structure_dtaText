@@ -1,0 +1,4485 @@
+<pb>
+<front>
+<b><in>P</in>oetischer <in>T</in>richter/</b>
+Die
+<b>Teutsche Dicht- und Reimkunst/</b>
+ohne Behuf der Lateinischen Sprache/ in
+<aq>VI.</aq> Stunden einzugiessen.
+<b>Erster Theil</b>
+handlend:
+<li><aq>I.</aq> Von der Poeterey in&sr; gemein/ und Erfindung derselben Jn-
+<et>halt.</et></li>
+<li><aq><g>II.</g></aq> Von der Teutschen Sprache Eigenschafft und Füglichkeit in
+<et>den Gedichten.</et></li>
+<li><aq><g>III.</g></aq> Von den Reimen und derselben Beschaffenheit.</li>
+<li><aq>IV.</aq> Von den vornemsten Reimarten.</li>
+<li><aq>V.</aq> Von der Veränderung und Erfindung neuer Reimarten.</li>
+<li><aq>VI.</aq> Von der Gedichte Zierlichkeit/ und derselben Fehlern.</li>
+Samt einem Anhang
+<b>Von der Rechtschreibung/ und Schrift-
+scheidung/</b> oder <aq>Distinction.</aq>
+Durch ein Mitglied
+<b>der hochlöblichen</b>
+Fruchtbringenden Gesellschaft.
+Zum zweiten mal aufgelegt und an vielen
+Orten vermehret.
+Nürnberg/
+Gedruckt bey Wolfgang Endter.
+<hr>
+<aq>M. DC. L.</aq></front>
+<pb>
+<d1><b>Sinnbild.</b></d1>
+<ab>Zucht bringt Frucht.</ab>
+<abb>
+<poem><fr><in>S</in>Ol der neubelaubte Reben
+reiff&2019; und helle Trauben geben/
+muß man ihn/ auf Berg und Thal/
+hacken/ düngen/ und beschneiden:
+ihn auch mit den falben Weiden
+hefften an den Erdenpfal.
+So besagte Wintzerzucht
+bringt verlangte Freudenfrucht.
+Sol die Rede/ gleich dem Reben/
+hönigsüsse Früchte geben/
+muß der Wörter Maß vnd Zahl
+sie verbinden/ und bereiten/
+nach der Sprache Gründen leiten
+mit der Reimungreichen Wahl.
+Solche kunstbeliebte Zucht
+bringt der Lippen holde Frucht.</fr></poem>
+<cw>Zu-</cw>
+<p><c><aq>EX
+BIBLIOTHECA
+REGIA ACADEM.
+GEORGIAE
+AUG.</aq></c></p>
+<pb>
+<hr>
+<d1><b>Zuschrift
+an der
+Hochlöblichen
+Fruchtbringenden Gesellschaft
+sinnreichen und wolverdienten
+Mitgenossen/
+den Traumenden.</b></d1>
+<p><in>A</in>L&sr; unlangsten in Teutschlie-
+bender Gesellschaft vernünf-
+tig erwehnet word&te;: die Teut-
+sche Poeterey <fr>were sehr
+schwer</fr> zu erlernen; dieweil man nicht
+uur den Laut/ u&tn; da&sr; <fr>Maß</fr> der Syllben/
+wie bey den Griech&te; und Lateinern/ beob-
+achten müsse; sondern auch beneben&sr; ver-
+bunden sey/ den Abschnitt und den Reim-
+schluß/ mit unverruckter Ordnung der
+Wörter/ in allen Zeilen/ genausichtig zu
+behalten: da hingegen in ande&rr;n Sprach-
+en kein Reimschluß/ und zuweilen kein
+<bs>)( ij</bs><cw>Ab-</cw>
+<pb>
+<hr>
+Abschnitt/ vonnöhten; die Wörter aber
+nach Erheischung deß Gebänd&sr; zu ver-
+setzen freystehe.</p>
+<p>Hierauf habe ich/ nach meiner gerin-
+gen Wissenschaft dieser Sachen/ geant-
+wortet: daß hingegen zu betrachten; wie
+un&sr; unsre Muttersprach bekanter seyn
+soll/ al&sr; keine fremde; wie die langen und
+kurtzen Syllben leichtlich zu erkennen;
+wie der Reimwörter sehr viel und der Ab-
+schnitt/ wegen derselben völliger Wahl/
+sowol al&sr; die natürliche Ordnung der
+Rede leichtlich könne gefüget werden.</p>
+<p>Wann wir/ setzte ich darzu/ <fr>mit der
+Zeit/ wie mit gegenwä&rr;tigem Wein/ um-
+giengen/ so solte man die Dicht- und
+Reimkunst/ in</fr> <aq>VI.</aq> <fr>Stunden/</fr> wonicht
+vollkömmlich/ iedoch zur Noht/ fassen/
+und verstehen können. Den Wein/ fuh-
+re ich auf Befragen fort/ giesset man
+durch <fr>Trichter</fr> in Flaschen und Fässer/
+daß alle Tropffen da&rr;von zu Nutzen kom-
+men: die Zeit lassen wir ohne Nutzen ver-
+<cw>flies-</cw>
+<pb>
+<hr>
+fliessen/ und achten für nicht&sr;/ viel gute
+Stunden übel anzulegen/ welcher Ver-
+lust doch mit aller Welt Reichthum und
+Arbeit nicht widerum zuwegengebracht
+werden kan; da hingegen alle Jahre neu-
+er Wein wächset. Ob ich nun in der
+Gleichniß vieler Beyfall erlangte/ wol-
+te mir doch/ wegen der kurtzen Zeit/ so ich
+zu Erlernung berührter weitläuftiger
+Kunste bestimmet/ niemand Glauben
+zustellen. Daher ich bewogen worden/
+nicht vielmehr Stunden auf diesen Po<aq>ë</aq>-
+tischen Trichter zu wenden/ und im We&rr;-
+cke zu erweisen/ daß mein Vorgeben ei-
+nem jeden/ der darzu Lust hat/ unschwer
+thunlich seyn werde. Nicht der Mei-
+nung/ iemand Gesetz vnd Ordnung vor-
+zusch&rr;eiben/ welche ich von allen Teutsch-
+gelehrten gerne annemen will: sondern
+mich zu versichern meiner wenigen Er-
+fahrenheit (massen keiner nicht sagen
+kan/ daß er eine Kunst wisse/ welche er zu-
+vor keinen andern gelehret hat) und zu-
+<bs>)( jii</bs><cw>beglau-</cw>
+<pb>
+<hr>
+beglauben/ daß nicht&sr; so schwer scheine/
+welche&sr; du&rr;ch Belieben mühsamen Fleis-
+se&sr; nicht leichtlich könte gefasset wer-
+den.</p>
+<p>Demnach aber dem <fr>Traumenden</fr> ge-
+fallen/ mich jüngsthin mit Zuschreibung
+seiner Frantzösischen Andachten/ über
+da&sr; Leiden Christi/ zu ehren; hab ich
+nicht ümgehen sollen/ jm dagegen/ zu E&rr;-
+wiederung solcher Gewogenheit/ diese
+eilfährige Arbeit au&sr; dienstfreundlichem
+Wolmeinen zuzueignen/ und seiner gün-
+stigen <fr>Beurtheilung/</fr> al&sr; einem Meister
+dieser Kunst/ zu untergeben: nicht zweif-
+lend/ er werde solche Teutschhertzige Be-
+zeugung unsrer vertreulichen Freund-
+schaft mit günstigem Gefall&te; an-u&tn; auf-
+nemen. Hiermit verbleibet/ nechst Em-
+pfehlung Göttlicher Beschirmung/</p>
+<clos><fr>deß Traumenden</fr>
+<et>getreuer Diener und Gesellschafter
+der Spielende.</et></clos>
+<cw><b>Vor-</b></cw>
+<pb>
+<hr>
+<d1><b>Vorrede.</b></d1>
+<arg><c>Da&sr; Absehen/ und die Ursachen deß Ver-
+fasser&sr; gegenwärtigen Werklein&sr;
+betreffend.</c></arg>
+<p><in>M</in><fr>An lieset/ daß die Sibylla v&to;
+Cuma/ dem Römischen Kö-
+nig Tarquin neun Bücher/
+üm eine hohe Su&tm;a Gelt&sr;
+käuflich angeboten: al&sr; er a-
+ber solche&sr; Anbringen verachtet/ habe
+sie drey darvon verbrannt/ und die üb&rr;i-
+g&te;sech&sr; Bücher in vo&rr;igem Werth/ für
+den König/ feil getragen; welcher jhre
+Wort/ al&sr; einer wahnsi&tn;igen/ verlachet.
+Nachdem sie aber noch drey in da&sr; Feu-
+er geworffen/ hat besagter König da&sr;
+wiederholte Anbringen besser beobach-
+tet/ und die drey hinterstellige Bücher in
+dem ersten Werth erkaufft/ welche her-
+nach von allen Reich&sr;folge&rr;n/ wegen de&rr;
+darinnen befindlichen wichtigen Raht-
+schläge/ für hoch und heilig gehalten
+worden.</fr></p>
+<p><fr>2. Fast dergleichen begegnet vielen in
+Erlernung der löblichen Po<aq>ë</aq>terey/ wel-</fr>
+<bs>)( <fr>iiij</fr></bs><cw><fr>che</fr></cw>
+<pb>
+<fr>che sie in der Jugend u&tn; Jünglingschaft
+beneben&sr; dem Latein/ wol u&tn;kunstrich-
+tig erhalten könten; weil sie aber solche
+Verfassung verachten/ und verlachen;
+müssen sie mehrmal&sr;/ in dem Alter/ beg&ta;-
+genen Fehler erke&tn;en/ vnd wie jener sag-
+te/</fr><fn="*"><aq>Drusiu&sr; in Apophth.</aq></fn> <fr>heut in den Sand schreib&te;/ wa&sr; sie gestern
+in Marmel hätten graben können.</fr></p>
+<p><fr>3. Etlichen ermangelt e&sr; an guter An-
+weisung/ indem die Schulhalter/ welche
+ihren Knaben hierinnen Vnterricht ge-
+ben solten/ darvon wenig oder nicht be-
+richtet sind/ noch seynkö&tn;en; massen die
+neuüblichen Reimarten unlangst erfun-
+den/ u&tn; in grundrichtige Verfassung ge-
+bracht worden/ durch HErrn Martin
+Opitz sel. Gedächtniß/ Her&rr;n Schottel/
+Buchner/</fr> <aq>C&00E6;siu&sr;,</aq> <fr>Hanman/ und viel an-
+dere.</fr></p>
+<p><fr>4. Etlichen ermangelt e&sr; an dem Ver-
+lag/ allesolche Bücher zu erkauffen/ und
+andern an der Zeit/ selbe zu durchlesen.
+Welche Ursachen sie dann in ihrer Un-
+wissenheit entschuldigen/ so ferne sie der
+Bescheidenheit sind/ daß sie nicht von
+dem urtheilen wollen/ da&sr; sie nie gel er-</fr>
+<cw><fr>net/</fr></cw>
+<pb>
+<fr>net/ noch bey andern Angelegenheiten zu
+lernen begehren.</fr></p>
+<p><fr>5. Etlichen ermangelt e&sr; an natürli-
+cher Fähigkeit zu der Po<aq>ë</aq>terey/ daß sie
+zwar die Wort kunstrichtig zu binden
+wissen/ aber gezwungen/ hart und miß-
+lautend; ohne po<aq>ë</aq>tische Gedanck en/ und
+sinnreiche Einfälle: daß man leichtlich
+sehen kan/ e&sr; sey kein po<aq>ë</aq>tischer Geist in
+jhnen/ und jhre Gedichte mit langer Zeit
+zusammengenöhtiget.</fr></p>
+<p><fr>6. Etliche haben keinen Lust zu der
+Po<aq>ë</aq>terey/ und hören zwar gerne einem
+Zahnbrecher/ Spruchsprecher/ Fatz-
+narren und Possenreisser zu/ weil solche
+Leuteentweder jh&rr;e&sr;gleichen ode&rr; ja jh-
+rem Verstand gemässe Händel vorbrin-
+gen; Ein&te; Po<aq>ë</aq>ten aber/ dessen Kunst fer-
+ne von deß Pövel&sr; Thorheit ist/ wollen
+sie noch wissen/ noch hören.</fr></p>
+<p><fr>7. Wie nun kein Acker so schlecht/ und
+unartig zu finden/ den man nicht durch
+Fleiß/ und behar&rr;liche Pflegung/ u&tn; Ar-
+beit solte fruchtbar machen kö&tn;en: Also
+ist auch keiner so unreine&sr; Hirn&sr;/ der nit
+durch Nachsinnen/ auf vorher erlangte
+Anweisung/ (welche gleichsam der Wu-
+chersame ist/) eine gebundne Rene/ oder</fr>
+<bs>)( <fr>v</fr></bs><cw><fr>ein</fr></cw>
+<pb>
+<fr>ein Reimgedicht zusammenzubringen
+solte lernen können: iedoch einer viel
+glückseliger/ al&sr; der andere.</fr></p>
+<p><fr>8. E&sr; ist zwar nicht eine&sr; ieden Gele-
+genheit/ Verse zu machen/ oder zu lesen;
+noch weniger kostbare darzu erforder-
+te Bücher zu erkauffen; so stehet e&sr; doch
+wol/ und ist fast nohtwendig/ daß ein
+Gelehrter seine Muttersp&rr;ache gründ-
+lich verstehe/ und derselben Po<aq>ë</aq>terey
+nicht unwissend sey; wie auch keiner sich
+einer Sprache/ mit Fug/ rühmen kan/
+wann er nicht in derselbigen die Ver&sr;-
+kunst studiret/ und zum wenigsten die
+vornemsten Po<aq>ë</aq>ten/ al&sr; die si&tn;reichsteu
+Sprachmeister/ gelesen hat.</fr></p>
+<p><fr>9. Lernen wir Hebreische/ G&rr;iechische
+und Lateinische Verse machen/ warum
+wollen wir e&sr; in dem Teutschen nit auch
+so weit bringen/ daß wir zum wenigsten
+von einem Gedicht urtheilen kö&tn;en. Ge-
+wißlich/ einen teutschen Ver&sr; lesen/ und
+nachkünstlen/ ist der Jugend eine nütz-
+liche Abmüssigung von wichtigerem
+Studiren. Man lernet dadurch zierlich
+reden/ eine Sache mit viel&te; Wort&te; nach-
+drücklich vorbringen/ wolsetzen/ iede
+Meinung richtig auf die anderebinden/</fr>
+<cw><fr>und</fr></cw>
+<pb>
+<fr>und durch solche Verstandübung kan
+man sich aller Orten (weil e&sr; iederman
+verstehet/ da da&sr; Latein wenigen bekant)
+in Freud und Leid/ angenem und belie-
+bet machen: gestalosolche Kunstheutzu-
+tagbey vielen Fürstenhöfen/ und auf et-
+lichen hohen Schulen rühmlich getrie-
+ben wird. Ja/ wann un&sr; Teutsche keine
+andere Ursache zu unsrer Po<aq>ë</aq>terey trei-
+bensolte/ so weren doch die geistlichen
+Lieder/ zu Erweckung hertzbrünstiger
+Andacht/ darzu gnugsam/ welche/ ohne
+kunstrichtigen Bericht/ nicht können ve&rr;-
+fasset werden.</fr></p>
+<p><fr>10. Von alter&sr; her ist da&sr; Lateinische
+Singen in unsrer Kirche geblieben/ da-
+mit die studirende Jugend zu üben: der
+gemeine Mann aber hat vielersprießli-
+che&rr;n Nutzen von dem Teutschen Sing&te;/
+durch welche&sr; wir gleichsam den Engl&te;
+nachahnen/ und näher zu GOtt tretten.
+Wie sol der/ sagt der heilige Apostel Pau-
+lu&sr;/ 1. Corinth. 14. v.</fr> 16. so an statt deß Laj&te;
+stehet/ Amen sagen/ auf deine Dancksagung?
+sintemal er nit weiß/ wa&sr; du sagest. Ein and&rr;er
+wird nicht davon gebessert/ &rr;c. Welche fremde
+Sprach&te; red&te;/ daß sie nicht jederman ve&rr;stehet/
+pfleget man für unsi&tn;ig zu halten/ <fr>wie in fol-</fr>
+<cw><fr>gen</fr></cw>
+<pb>
+<fr>gendem 26. Ver&sr;lein/ besagter Epistel/
+folget.</fr></p>
+<p><fr>11. Wa&sr; mit Raht und Verstand
+vorzunemen ist/ muß nohtwendig zu ei-
+ner Kunst gezogen werden. Die Natur
+ist eine Meisterin/ den hurtigen Feuer-
+geist anzubrennen/ die Kunst aber
+gleichsam da&sr; fette Oel/ durch welche&sr;
+solcher Geist weitstralend erhellet vnd
+himmelhoch aufflammet.</fr></p>
+<p><fr>12. Zu dieser Kunst nun zu gelangen
+solten vielleicht keine dienlichere Mittel
+zu finden seyn/ al&sr; daß ein Teutscher/ der
+den Verstand in seiner Muttersprach
+au&sr;geschärffet/ und der ungebundnen
+Rede mächtig ist</fr> <aq>I.</aq> <fr>einen kurtzen Ent-
+wurf der Po</fr><aq>ë</aq><fr>terey zu Sinn fasse/ wel-
+cher au&sr; diesem Wenigen vielleicht abzu-
+sehen.</fr> <aq>II.</aq> <fr>daß er eine&sr; guten Po</fr><aq>ë</aq><fr>ten Ge-
+dichte neme/ und erlerne alle und iede sei-
+ne Reimarten nach folgenden Lehrsä-
+tzen erkennen.</fr> <aq>III.</aq> <fr>daß er Verse ohne Rei-
+rnung/ al&sr; welche dem Anfänger schwer
+fället/ schreibe; oder vermischte Verse
+wider einrichte/ oder au&sr; einer Reimart
+in die andre setze/</fr> <aq>IV.</aq> <fr>die besten Teutschen
+Po<aq>ë</aq>ten lese/ ihnen folge/ und den Anfang
+seiner Gedichte andn zu verbessern über-
+reiche.</fr> *<aq>Causab. in noti&sr; ad Sat. Pers. f.</aq> 18.</p>
+<pb>
+<p><fr>13. Solcher gestalt erfährt man auch
+in der Lateinischen vnd Griechischen
+Po<aq>ë</aq>terey/ welche aber alsobalden von
+den Gedichtschreiben anfangen/ gleich&te;
+den blinden Mahlern/ die alle Farben/
+ohne Verstand/ untereinander mischen/
+oder weiß für schwartz/ schwartz für
+weiß/ grün für gelb &rr;c. auftragen.</fr></p>
+<p><fr>14. Bey Fortsetzung besagter Vbung
+werden sich mancherley Zweifel befin-
+den/ deren Erörterung au&sr; vorangezo-
+gen&te; Schriften/ sonderlich H.</fr> Schottel&sr;
+Einleit&tu;g Sprach- und Ver&sr;kunst hergeholet
+<fr>Werden muß. Da&tn; wir diese&sr; Ort&sr; kein
+vollko&tm;ene&sr; Werck/ sondern den ersten
+Anfang zu Papier zubringen vermeint;
+uüzwar so deutlich/ daß e&sr; ein ied&2019; Knab
+und in kurtzer Zeit wird fassen können.</fr></p>
+<p><fr>15. Welche die Lateinische Po<aq>ë</aq>terey
+verstehen/ werden sich hier leichter in dz
+Reimma&sr; richt&te;kö&tn;en/ den&te; zu lieb etli-
+che&sr; zu Ende de&sr; Blat&sr; beygefüget wor-
+den: Welche aber nur Teutsch allein ve&rr;-
+stehen/ und dieser Sache keinen Vorge-
+schmack haben/ mögen gleichsowol mit
+etwa&sr; mehr Mühe/ jedoch ohne Ver-
+druß/ darzu gelangen: denen zu Gefallen
+ist alle&sr; reinteutsch verabfasset worden.</fr></p>
+<cw>16. Di-</cw>
+<pb>
+<p><fr>16. Die Exempel sind auß eigner Er-
+findung beygefüget: weil eine&sr; Theil&sr; ie-
+der mehr Machtüber sein eigne&sr; We&rr;ck/
+al&sr; fremde Arbeit hat; ander&sr; Theil&sr;
+auch wenig/ oder keine solche Beyspiele
+zu finden. Wie dann auch die Fehler er-
+dichtet sind/ keinen derselben zu beschul-
+digen/ oder iemand/ so dergleich&te; began-
+gen/ zu vernachtheilen. Jn zweiffelhaf-
+tigen Sätzen ist etliche&sr; auch au&sr; dem
+Vhrheber der Teutsch&te; Po<aq>ë</aq>terey H. O-
+pitzen eingeschaltet worden: und wird
+verhoffentlich hier in dieser Kunst ein
+mehrer&sr;/ al&sr; bey allen/ die bißher dar-
+von geschrieben/ zu beobachten seyn.</fr></p>
+<p><fr>17. Schlüßlich müssen die sech&sr; Stun-
+den nicht eben auf einen Tag nacheinan-
+der genommen/ und da&sr; Gedächtniß ü-
+berhäuffet werden; sondern etwan in
+drey oder vier Tagen mit reiffem Nach-
+sinnen der unbekanten Kunstwörter;
+nachdem man eine&sr; bald/ oder langsam
+fasset/ und erlernet: aller massen wie H.
+<c>Schickard&sr; Hebreischer Trich-
+ter zu gebrauchen.</c></fr></p>
+<hr>
+<cw>Jn-</cw>
+<pb>
+<hr>
+<d1>Jnhalt diese&sr; Werklein&sr;.</d1>
+<con>
+<c>Die <aq>I.</aq> Stund.</c>
+<fr>Viertelstunden.</fr>
+@. Der Po<aq>ë</aq>terey Vrsprung.
+@. Der Jnhalt/ von welchem der Po<aq>ë</aq>t zu hand-
+len pfleget.
+@. Von dem Zweck der po<aq>ë</aq>tischen <fr>Gedichte.</fr>
+@. Die Dichtkunst.
+<c>Die <aq>II.</aq> Stund.</c>
+@. Von der Teutschen Sprache Füglichkeit zu
+der gebundnen Rede.
+@. Von der Teutsch&te; Wörter Lang- oder Kurtz-
+laut.
+@. Von den Vor- und Nachsyllben/ ihren
+Deutungenvnd Eigenschafften.
+@. Von den verdopelten Wörtern/ und der-
+selben Kunstart.
+<c>Die <aq>III.</aq> Stund.</c>
+@. Von dem Reimschluß und der reinen Rei-
+mung.
+@. Von unreiner/ doch zulässiger Reimung.
+@. Von den falschen Reimen.
+@. Wie die Reimzeilen ordentlich zu setzen/ und
+von den Versen ohne Reimschlüsse.
+<cw>Vier-</cw>
+<pb>
+<hr>
+<fr>Viertelstunden.</fr>
+<c>Die <aq>IV.</aq> Stund.</c>
+1. Von den langkurtzen &2012; # @ Reimarten.
+2. Von den kurtzlangen # &2012; @
+3. Von den langgekürtzten &2012;# @
+4. Von den gekürtztlangen # &2012; @
+<c>Die <aq>V.</aq> Stund.</c>
+1. Wie die Gebände durch den Abschnitt ver-
+ändert werden.
+2. Wie die Gebände von unterschiedlichen
+Reimmasen geschlossen werden.
+3. Wie die Gebände durch die Reimwörter
+verändert werden.
+4. Wie die Endreimen auf unterschiedliche
+Weise zu wechseln sind.
+<c>Die <aq>VI.</aq> Stund.</c>
+1. Von der Zierlichkeit der Erfindung in den
+Gedichten.
+2. Von der Zierlichkeit der Wörter.
+3. Von dem Mißlaut in den Worten/ welcher
+sich der Po<aq>ë</aq>t gebrauchet.
+4. Von den Fehlern in den Reimbindungen.
+<c>Anhang.
+<fr>Vnvergreifliche&sr; Bedencken von der Recht-
+schreibung und Wortscheidung/ oder</fr>
+<aq>Distinction.</aq></c>
+<cw>Die</cw></con>
+<pb>
+<abb>
+<pb>
+<abb>
+<pb="1"/>
+<hr>
+<d1><b>Die <aq>I.</aq> Stund.
+Von der Poeterey in&sr; gemein/ und Erfin-
+dung derselben Jnhalt.</b></d1>
+<p><in>D</in>Je Zeit ist edel und so schätzbar/ daß
+auch aller Reichthum diese&rr; Welt für
+nicht&sr; dargegen zu halten: wollen
+deßwegen bedacht seyn/ den Leser
+nicht ein unnöhtige&sr; Wort aufzu-
+dringen/ sondern alle&sr; kurtz und deutlich außfün-
+dig machen/ und zwar in den ersten vier Viertel-
+stunden behandlen:</p>
+<arg>
+<aq>I.</aq> <fr>Der Poeterey Ursprung.</fr>
+<aq>II.</aq> <fr>Den Jnhalt/ von welchem der Poet
+<et>zu handlen pfleget.</et></fr>
+<aq>III.</aq> <fr>Von dem Zweck der Poetischen</fr> Ge-
+<et>dichte.</et>
+<aq>IV.</aq> <fr>Die Dichtkunst.</fr></arg>
+<p>Von der Poeterey Ursprung ist bey dem
+Kunstrichter Scaliger/ <aq>Vo&sr;sio</aq> und andern viel
+zu lesen. Kurtz davon zu reden/ so sind die Poeten
+vor alter&sr; zugleich Naturkündiger/ Sittenlehrer
+und Säitenspieler/ oder Musici gewesen. Mit
+Fortsetzung der freyen Künste/ haben sich etlich
+auf diese&sr; absonderlich/ jene auff ein ander&sr; be-
+<bs>A</bs><cw>geben:</cw>
+<pb="2"/>
+<kt><b>Die erste Stund.</b></kt>
+geben: doch ist die Poeterey bey dem waaren vnd
+falschen Gotte&sr;dienst iederzeit verblieben/ und
+auch von allen barbarischen Völkern hochgehal-
+ten worden.<fn="&2020;"><aq>Specim. Philolog. Germ. Disquisit. IX.</aq></fn></p>
+<p>2. Au&sr; Betrachtung der Natur/ und Erforsch-
+ung der Weltgeschöpfe/ entstehet de&sr; höchsten
+Lobgesang: Au&sr; Betrachtung de&sr; Menschen Le-
+ben&sr; und Wandel&sr; entstehet die Sitten- oder Tu-
+gendlehre; und die Beschreibung einer Begeben-
+heit/ sie seye gleich rühmlich/ daher die Lobgedich-
+te gewisser Personen entspringen/ oder scheltbar/
+daher Stichel-u&tn; Strafverse in Gebrauch ko&tm;en.
+Die Hirten- vnd Schäferlieder sollen die ältsten
+Gedichte seyn/ weil diese bey ihren Herden mehr
+müssig al&sr; andere/ und von dem stet&sr;vorwesenden
+Welt- vnd Feldbau unverhindert gesungen wor-
+den. Etliche vermeinen/ die ältsten Gedichte seyen
+von den Wintzern zur Weinerndzeit gedichtet
+worden; und deuten dahin den Spruch deß Pro-
+pheten Jerem. c. 48/33.</p>
+<p>3. Weil aber die Heyden vieler Sachen Vrsa-
+chen nicht erkundigen mögen/ haben sie solche ih-
+ren Göttern zugeschrieben/ und denselbigen für die
+Früchte der Erden/ der Bäume/ de&sr; Reben&sr;/ und
+dergleichen Dankopfer gebracht/ dabey aber ihr
+Gebet/ und Lobgesang in gebundner Rede verrich-
+<cw>tet;</cw>
+<pb="3"/>
+<kt><b>Die erste Stund.</b></kt>
+tet; allermassen ihnen auch gleichergestalt von den
+<aq>Oraculi&sr;,</aq> oder Götzen-Stimmen geweissaget
+worden. <fn="*">Hierinnen hat der böse Feind/ al&sr; Gotte&sr; Aff/ der He-
+breer Gebrauch bey den Opfern nachahmen wollen.</fn></p>
+<p>4. Wir Christen/ die wir den allmächtigen
+Gott/ nicht nur au&sr; seinen Werck&te;/ sondern auch
+au&sr; seinem Wort erkennen/ sollen un&sr; der Hey-
+den Fabelwerk enthalten: die sich auch nicht ge-
+scheuet/ ihren Göttern solche Laster anzudichten/
+mit welchen die Dichter selbsten schändlichst befle-
+cket gewesen. Doch kan man mit Bescheidenheit
+derer Fabel wol gebrauchen/ in welchen natürliche
+<fr>U</fr>rsachen bedeutet/ oder sondere Lehren verborgen
+sind. Daß aber auch in geistlichen Sachen/ wel-
+che durch da&sr; Liecht der verständigen Seele er-
+leuchtet werden müssen/ ein Poetischer Geist zu er-
+weisen/ ist unter andern zu ersehen in den Son-
+tag&sr;andachten/ bestehend in einem neulich her-
+au&sr; gegebenem Bild-Lieder-vnd Gesangbuch/ in
+dessen Vorrede viel hieher gehörige&sr; zu lesen.</p>
+<d2><aq>II.</aq></d2>
+<p>5. Der Poet handelt von allen und ieden Sa-
+chen/ die ihm vorkommen/ wie der Mahler alle&sr;/
+wa&sr; er sihet/ bildet; ja auch/ wa&sr; er nie gesehen/ al&sr;
+in seinen sinnreichen Gedanken: De&sr;wegen wird
+er auch ein Poet/ oder Dichter genennet/ daß er
+<bs>A ij</bs><cw>nem-</cw>
+<pb="4"/>
+<kt><b>Die erste Stund.</b></kt>
+nemlich au&sr; dem/ wa&sr; nicht&sr; ist/ etwa&sr; machet; o-
+der da&sr;/ wa&sr; bereit ist/ wie e&sr; seyn könte/ kunstzier-
+lich gestaltet/ darvon hernach ein mehrer&sr; folgen
+wird. Der <aq>Philosophu&sr;</aq> <fn="*">Wie diese&sr; Wort zu Teutsch ist gehandelt <aq>in Speci-
+mine Philolog. Germ.</aq></fn> trägt seine tiefsinnige
+Gedanken mit schlechten und einfältigen Worten
+vor/ und ist zu frieden/ daß man ihn verstehet: der
+Redner führet hohe und prächtige Wort/ und be-
+gnüget sich/ wann er den Zuhörer beredet. Der
+Poet aber muß nicht nur verstanden werden/ und
+einem etwa&sr; einschwätz&te;/ sondern auch belustigen.
+Erstlich war die Rede zu Au&sr;drückung seiner Ge-
+danken gebrauchet/ hernach zu einer Zier durch
+die Redkunst für den Richterstul gestellet: nach
+und nach auch zu Belustigung deß Verstand&sr; in
+Gebände gebracht. Wie nun da&sr; Gold/ welche&sr;
+künstlich gearbeitet ist/ viel höher gehalten wird/
+al&sr; da&sr; jenige/ so von den Schlacken noch nicht
+gereiniget worden/ also ist auch die gebundene Re-
+de viel wehrter zu achten/ al&sr; die alle Tag&sr;wort
+au&sr; eine&sr; groben Pflüger&sr;rülpen Mund.</p>
+<p>6. Wann ich einen Brief schreib en will/ muß
+ich erstlich wissen/ wa&sr; desselben Jnhalt seyn sol/
+und bedenken den Anfang/ da&sr; Mittel/ da&sr; End/
+und/ wie ich besagten Jnhalt aufeinander ordnen
+möge/ daß iede&sr; an seinem Ort sich wolgesetzet fü-
+<cw>ge:</cw>
+<pb="5"/>
+<kt><b>Die erste Stund.</b></kt>
+ge: Also muß auch der Jnhalt/ oder die Erfin-
+dung deß Gedicht&sr; erstlich untersucht/ und in den
+Gedanken verfasset werden/ bevor solcher in ge-
+bundner Rede zu Papier fliesse Daher jener recht
+gesagt: <fr>Mein Gedicht ist fertig/ biß auf die
+Wort.</fr></p>
+<p>7. Der Jnhalt nun eine&sr; Gedicht&sr; ist frölich/
+traurig/ oder begreifft Mittelsachen/ al&sr; da sind
+Si&tn;bilder von allerley Händeln/ die in deß Men-
+schen Leben vorkommen. Hierbey ist zu bemer-
+ken/ daß der Poet keine Kunst oder Wissenschaft/
+mit allen Vmständen/ behandelt (er wolle dann
+seine Grentzen überschreiten) sondern au&sr; allen
+nur so viel entlehnet/ al&sr; er zu seinem Vorhaben
+vonnöhten hat. Warüm? Die Wissenschaften
+sind sehr schwer/ und werden durch die gebundne
+Rede noch vielunvernemlicher. Zu dem so ist die
+Eigenschaft der Poeterey/ daß man liebliche/ und
+leichte Händel wehlen sol. Hierauß ist zu schlies-
+sen/ daß der den Namen eine&sr; Poeten/ mit Fug/
+nicht haben möge/ welcher nicht in den Wissen-
+schaften und freyen Künsten wol erfahren sey:
+daher auch solche kunstsinnige Gedichte dem ge-
+meinen Mann nicht gefallen können/ weil sie ihm
+zu hoch/ und er nicht loben kan/ wa&sr; er nicht ver-
+steht. Die andere Art der Gedichte/ welche die
+Tugenden und Laster behandelt/ sind leichter/ und
+<bs>A iij</bs><cw>wer-</cw>
+<pb="6"/>
+<kt><b>Die erste Stund.</b></kt>
+werden solche in den Trauer- und Freudenspielen/
+gleichsam durch ein lebendige&sr; Gemähl/ gebildet/
+indem die erdichten Personen nicht nur gehöret/
+sondern auch gesehen werden. Weil aber solche
+vorzustellen den Meistern gebühret/ wollen wir/
+davon zu reden/ auf folgenden Theil versparen.</p>
+<p>8. Da&sr; dritte ist die Beschreibung einer Ge-
+schichte/ welcher der Poet den glücklichen/ oder
+unglücklichen Au&sr;gang nicht verändern kan/ aber
+wol die Vmstände/ die Reden/ welche dieser oder
+jener geführet/ und kan er bey ieder Begebenheit
+die natürlichen Farben/ ich will sagen die poetisch&te;
+Wörter/ zierlich u&tn; wolschicklich anbringen. Die-
+se Beschreibung ist/ ob besagten Beysatz/ ein Ge-
+dicht zu nennen/ und geziemet solche dem Poeten/
+und keinem Geschichtschreiber/ der die Sache bloß/
+wie sie ergangen/ der Warheit gemeß erzehlet.
+Solchergestalt kan man auch in den Gedichten
+die Laster beschreiben/ und zuzeiten solche poetische
+Stücklein anbringen/ daß/ der sich selber schuldig
+weiß/ darob erröhten/ und doch darzu lachen muß:
+dann der Poet erzehlet alle&sr; mit bunten vnd glat-
+ten Worten/ und machet da&sr; Schöne schöner/
+da&sr; Abscheuliche abscheulicher/ al&sr; e&sr; an ihm selb-
+sten ist; Welche aber diese&sr; nicht leisten können/
+(darunter sich auch der Verfasser diese&sr; Werk-
+lein&sr; verstanden haben wil/) sind Liebhaber der
+<cw>Poete-</cw>
+<pb="7"/>
+<kt><b>Die erste Stund.</b></kt>
+Poeterey/ oder Ver&sr;macher/ aber noch lang nicht
+Poeten/ zu nennen.</p>
+<d2><aq>III.</aq></d2>
+<p>9. <fr>Deß Poeten Absehen</fr> ist gerichtet auf
+den <fr>Nutzen/</fr> und auf die <fr>Belustigung</fr> zu-
+gleich. Der Nutz sol andre und auch ihn selbst be-
+treffen/ und niemal&sr; wider Gott/ noch durch Aer-
+gerniß wider den Nechsten gerichtet seyn. Wa&sr;
+Ehr und Ruhm kan man doch au&sr; unehrlichen
+und schändlichen Gedichten haben? Solche <fr>U</fr>n-
+fläter/ wie sie Herr Lutheru&sr; nennet/ wollen sich
+mit Koht weiß machen/ und verstellen den Sa-
+tan in einen Engel deß Liecht&sr;. Jhnen solte stet&sr;
+in den Ohren gellen der Fluch unser&sr; Seligma-
+cher&sr;: <fr>Verflucht sey/ der da Aergerniß gie-
+bet/</fr> und <fr>daß wir auch von einem ieden un-
+nützen Wort müssen Rechenschaft geben.</fr>
+Solcher Mißbrauch der Poeterey ist fast groß/
+und wird von frommen Hertzen billich darüber ge-
+eifert: E&sr; kan aber der Fehler der Person nicht
+der Kunst zugemessen werden/ noch der Miß-
+brauch den rechten Gebrauch aufheben.</p>
+<fn>@ Die Zugabe deß <aq>VI.</aq> Theil&sr; der Gesprächspiele.</fn>
+<p>10. Der Poet handelt zuzeiten von der keu-
+schen Lieb/ al&sr; einer Tugend/ von unkeuscher Lie-
+be/ al&sr; einem viehischen Laster/ nicht zu dem Ende/
+daß er dardurch iemand/ mit buhlerischen Gril-
+<bs>A iiij</bs><cw>len/</cw>
+<pb="8"/>
+<kt><b>Die erste Stund.</b></kt>
+len/ ärgern wolle/ sondern daß solche von unziemli-
+chen Begierden/ unterscheidet werden solle. Wir
+Menschen können die Neigung zum Bösen nicht
+von un&sr; werffen; aber selbe wol im Zaum halten/
+und beherrschen. Man kan wol bey Frölichkeiten
+ein erfreuliche&sr; Schertzwort hören lassen; aber
+nicht mit groben Schandbossen/ und Narrendeu-
+tungen/ die den Christen nicht geziemen/ aufgezo-
+gen kommen: jene&sr; ist höflich und zulässig/ diese&sr;
+unhöflich/ verwerflich/ und bey groben Gesellen/
+aber nicht bey ehrlichen und tugendliebenden Per-
+sonen gebräuchlich.</p>
+<p>11. Ein löblicher Poet schreibet allezeit sol-
+che Gedichte/ die zu GOtte&sr; Ehre zielen/ grosse
+Herren/ und gelehrte Leute belustigen/ die <fr>U</fr>nver-
+ständigen unterweisen/ der Verständigen Nach-
+sinnen üben/ die Einfältigen lehren/ die Betrüb-
+ten trösten/ und der frölichen Freude vermehren.</p>
+<p>12. Ob nun wol der Ver&sr;/ und da&sr; Reim-
+wort/ zuzeiten/ von dem erstlichgefasten Jnhalt/
+darvon zuvor Meldung geschehen/ abführet/ daß
+sich die gantze Erfindung unter den Händen än-
+dert; so lässet sich doch der Poet von dem abgesetz-
+ten Vorsatz nicht wendig machen/ daß er wegen
+eine&sr; artigen Schimpf&sr;/ er sey/ so sinnreich er wol-
+le/ Gotte&sr; Huld/ oder einen guten Freund verlie-
+ren solte: Nicht&sr; ist in der Welt/ daß allen solte ge-
+<cw>fallen</cw>
+<pb="9"/>
+<kt><b>Die erste Stund.</b></kt>
+fallen können: die Alten lachen der Jungen Ein-
+fälle/ die Jungen der Alten Geschwätz: Jst also
+darauf zu sehen/ wa&sr; recht geredet ist und/ nicht
+wa&sr; diesem oder jenem Klügling oder Faulwitzer/
+wie solche Leute Herr Lutheru&sr; nennet/ übel oder
+wolgefället. Jhr Lob ist eine Schande/ und eine&sr;
+Verständigen <fr>U</fr>rtheil ist höher zu achten/ al&sr;
+hundert <fr>U</fr>nverständiger dünkler Verwerffung.</p>
+<p>13. Etliche vermeinen/ sie haben&sr; wol ge-
+troffen/ wann sie unziemliche Gedanken verblü-
+men/ und Rähtselwei&sr; vortragen: sich nachmal&sr;
+mit einer dopelten Au&sr;legung derselben beschö-
+nen wollen. Aber weit gefehlet: Man sol nicht
+nur da&sr; Böse/ sondern auch den Schein deß Bö-
+sen/ und die Gelegenheit Böse&sr; zu gedenken/ ver-
+meiden. Zwar ist nicht&sr; so gut gemeint/ da&sr; von
+Bösen nicht böß könne gedeutet werden: Man
+sihet aber bald/ ob die Schuld deß Dichter&sr;/ oder
+dem Au&sr;leger deß Gedicht&sr; beyzumessen. Kurtz
+davon zu reden: E&sr; sol der Poet den Jnhalt seine&sr;
+Gedicht&sr; auf den Nutzen und die Lehre richten:
+die Au&sr;führung aber mit schönen Worten/ und
+Gedanken leisten/ daß der Leser dardurch belusti-
+get/ und ihme gleichsam da&sr; Hertz abgewonnen
+werde. Zu solchem Ende sol er sich aller unflätigen
+Sachen und Wörter enthalten/ weil wir von Na-
+tur die Augen/ und Ohren von solchen vnziem-
+<bs>A v</bs><cw>lichen/</cw>
+<pb="10"/>
+<kt><b>Die erste Stund.</b></kt>
+lichen/ oder ja mißfälligen Händeln abwenden.</p>
+<d2><aq>IV.</aq></d2>
+<p>14. Nun fragt sich&sr;/ wo der Jnhalt deß Ge-
+dicht&sr; herzunemen? Dann wie der Töpfer erst-
+lich muß den Don haben/ ohne welchen er nicht&sr;
+bilden oder drehen kan/ so muß der Poet wissen/
+wa&sr; er schreiben wil/ bevor er die Feder ansetzet.
+Hier ist nun zu unterscheiden der Vorsatz/ ein
+Trauergedicht/ ein Lobgesang oder dergleichen zu
+machen/ und die Erfindung/ welchergestalt der
+Jnhalt desselben sich aufeinander binden sol. Die-
+se&sr; Letzte wird durch die <fr>Dichtkunst</fr> angewiesen/
+von welcher kürtzlich folgende&sr; zu merken.</p>
+<p>15. Die Erfindung wird entweder hergefüh-
+ret <fr>von dem Wort/</fr> oder <fr>von dem Dinge</fr>
+selbsten/ darvon man handelt/ oder von den <fr>Um-
+ständen</fr> desselben/ oder von gehörigen <fr>Gleich-
+nissen.</fr> Erstlich da&sr; <fr>Wort</fr> giebet eine Erfin-
+dung entweder in seinem angebornen <fr>Laut/</fr> und
+bekanter Deutung/ oder mit versetzten <fr>Buchsta-
+ben/</fr> wann solche eine gantze Meinung schliessen/
+oder eine halbe/ welche mit dem Gemähl in einem
+Sinnbild/ oder Lehrgedicht au&sr;fündig gemacher
+werden kan. Hieher gebören die <fr>Wortgriflein/</fr>
+wann man einen Buchstaben darvon/ oder dar-
+zusetzet: wie auch die Zahlreimen/ Jahrverse/
+Namverse/ wann die ersten/ mittlere/ oder letzte
+<cw>Buch-</cw>
+<pb="11"/>
+<kt><b>Die erste Stund.</b></kt>
+Buchstaben/ oder auch Wörter einen Namen/ o-
+der Meinung schliessen. Wiewol diese letzere
+Art/ samt d&te; <fr>Bilderreimen/ Wiederhall/</fr> und
+<fr>Wiederkehren</fr> eigentlich zu der Reim- und nicht
+zu der Dichtkunst gehören. Hier ist zu beobachten/
+daß in dergleichen Erfindungen nicht&sr; gezwun-
+gen&sr; seyn sol/ sonst heist e&sr;/ mit genöhtigten Hun-
+den jagen.</p>
+<p>16. Zum zweyten/ flüsset die <fr>Erfindung</fr>
+de&sr; Gedicht&sr; au&sr; der <fr>Sache Anfang/ Mittel
+und Ende.</fr> Diese&sr; ist bey allen Gedichten wol
+zu betrachten/ wie der Poet anfange/ fortfahre/
+wa&sr; für Ordnung er in der Erzehlung gebrau-
+che/ wie er bi&sr;weilen ein wenig au&sr;schweife/ und
+etwa&sr; ander&sr; füglich miteinflechte/ wie er wieder
+auf sein Vorhaben komme/ und alle&sr; kunstschlüs-
+sig binde und ende. Gleich&sr;fal&sr; muß der Poet in
+Vorstellung der Personen ihre Gemüt&sr;meinung
+meisterlich zu beher&rr;schen wissen/ al&sr; Liebe/ Haß/
+Hofnung/ Furcht/ Zorn/ und Mitleiden: ieder
+Person/ nach ihrem Alter/ Geschlecht/ Stand/ ge-
+wöhnliche Sitten zuschreiben/ gehörige Reden
+andichten/ und sich gleichsam selbst verstellen in
+den/ welchen er vorzustellen gewehlet hat. Hier-
+bey muß er allezeit lehrleiche Sprüche/ schickliche
+Gleichnissen/ gemeine Sprichwörter/ und alle&sr;
+an sein gehörige&sr; Ort zu stellen wissen.</p>
+<cw>17. Drit-</cw>
+<pb="12"/>
+<kt><b>Die erste Stund.</b></kt>
+<p>17. Dritten&sr;/ werden die Erfindungen her-
+genommen von den <fr>Umständen der Zeit/</fr> und
+de&sr; Ort&sr;/ welche ihm der Jnhalt seine&sr; Gedicht&sr;
+an die Hand giebt: Also führet er ein die Tugen-
+den und Laster/ die Sprachen und Künste/ Jahr-
+Monat- und Tag&sr;zeiten/ die Frölichkeit/ die Trau-
+rigkeit/ Flüsse/ Länder/ Berge/ Felsen/ und hierun-
+ter gehört da&sr; Gemähl/ welche&sr; durch solche Be-
+schreibung gleichsam beseelet wird.</p>
+<p>18. Vierten&sr;/ ist die Gleichniß die allertiefste
+Quelle etwa&sr; schöne&sr;/ und zur Sache dienliche&sr;
+zu erfinden/ al&sr; bey welcher mehrmal&sr; da&sr; Be-
+sagte alle&sr; kan angebracht werden/ hierunter ge-
+hören die Sinnbilder/ deren Grund ein Gemähl
+oder eine verblümte Beschreibung ist.</p>
+<p>19. Wir wollen hier ein kurtze&sr; Exempel se-
+tzen. Du solst ein Gedicht schreiben von dem Glau-
+ben/ davon sehr viel zu melden/ diese&sr; Ort&sr; aber
+sol er betrachtet werden/ al&sr; der waare seligma-
+chende Glaube/ ohne welche der Mensch keine
+Gottgefällige Werke thun kan. Kommet nun ein
+Ver&sr;stimpfler darüber/ so möchte er vielleicht be-
+sagten Jnhalt also verfassen:</p>
+<poem><fr>Gott wil ein reine&sr; Hertz/ da&sr; ihm allein
+<et>vertraut/</et>
+und nicht auf Menschen Hülf/ und eigne
+<et>Kräfte baut:</et></fr>
+<cw><fr>Ja</fr></cw>
+<pb="13"/>
+<kt><b>Die erste Stund.</b></kt>
+<fr>Ja gute Werke sind bey Gott nicht ange-
+<et>sehen/</et>
+wann sie von un&sr; ohn Lieb- und Glau-
+<et>ben&sr;liecht geschehen.</et></fr></poem>
+<p>Diese und noch viel dergleichen Reimen kön-
+nen/ mit Fug/ kein Gedicht genennet werden/ weil
+keine sinnreiche Erfindung angebracht und diese
+Reimwörter kein Gedicht machen: Vielleicht a-
+ber solt obgemeldter Jnhalt füglicher durch eine
+Gleichniß au&sr;gebildet werden: wann wir unsren
+Glauben mit einer Laute/ die Werke aber mit de-
+roselben Säiten vereinbahren/ folgender Gestalt.</p>
+<pt><fr><in>D</in>Ie Laute redet.</fr></pt>
+<poem><fr><in>I</in>Ch konte vor der Zeit da&sr; Sorgen-
+<et>wachen stillen/</et>
+die Furcht/ die blasse Furcht mit meinem
+<et>Ton verhüllen.</et>
+Die Winde hörten mich/ der Bäche Li-
+<et>spelgang (Klang.</et>
+verzögert&2019; auenwart&sr;/ ob meinem süssen
+Nun ist mein Freuden</fr>lied <fr>in neue&sr;</fr> Leid <fr>ge-
+<et>wendet/ (schändet/</et>
+Jch bin ein leere&sr; Holtz/ beraubet und ge-</fr>
+<cw><fr>geschän-</fr></cw>
+<pb="14"/>
+<kt><b>Die erste Stund.</b></kt>
+<fr>geschändet und beraubt durch eine Fre-
+<et>velhand/</et>
+die mir bey düstrer Nacht mein holde&sr;
+<et>Säitenband</et>
+zerschnitten und zerstückt. Komm doch/
+<et>mich zu verbrennen/</et>
+ko&tm;/ ko&tm;/ bring deine Flamm/ weil ich bin
+<et>tod zu nennen/</et>
+nachdem mein Sternendach/ mein Dach
+<et>von Helffenbein/</et>
+(Zu helffen mancher Pein erbaut) geris-
+<et>sen ein.</et>
+Mein Zweck ist ohne Zweck/ mein Steg ist
+<et>gantz zerstücket;</et>
+Jch bin ein eitle&sr; Nicht&sr; verstummt/ und
+<et>eingedrücket.</et>
+Zuvor hatmeinen Ton der Himmelselbst
+<et>begehrt/</et>
+nun bin ich nimmer nicht so hoher Mil-
+<et>de wehrt.</et></fr></poem>
+<p>20. Hier ist zu beobachten/ daß die Laute mit al-
+len <fr>U</fr>mständen poetisch beschrieben/ und darbey
+der Buchstabwechsel <fr>Lied</fr> und <fr>Leid/</fr> die Wort-
+gleichheit <fr>Helffenbein/</fr> und zu <fr>helffen</fr> der <fr>Pein/</fr>
+samt dem zweydeutigen Wort <fr>Stern/ Dach/
+Zweck/</fr> &rr;c. miteingebracht. Ohne solche poetische
+Au&sr;rede/<fn="*"><aq>Elocutio poëtica.</aq></fn> ist da&sr; Gedicht saft- und kraftloß. Nun
+<cw>folget</cw>
+<pb="15"/>
+<kt><b>Die erste Stund.</b></kt>
+folget da&sr; zweyte Stuck/ wie sich diese&sr; alle&sr; zu
+dem Glauben schicket: und zwar in siebensylbigen
+kurtzlang/ Jambischen/ oder Anacreontischen
+Reimzeilen.</p>
+<poem><fr>Der Glaub befreyt von Sorgen/
+die in den Menschenhertzen
+verhüllet und verborgen/
+und doch mit Seuftzen/ Schmertzen/
+mit Threnen/ Angst vnd Flehen
+sich kläglich lassen sehen.
+Der Satan kan den Glauben
+(daß wir im Jammer sterben/
+im Höllenbrand verderben/)
+au&sr; blöden Sinnen rauben.
+Der Glaub ist Geist und Leben/
+in dem wir sind und schweben.
+Wann wir nicht Glauben haben/
+muß unser Thun und Lassen/
+und unsrer Lippen gaben
+Gott unerhöret hassen.</fr></poem>
+<p>21. Die erste Stunde ist nun vorbey/ und ha-
+ben wir kürtzlich gehöret/ und vermutlich gelernet
+<aq>I.</aq> Von der Poeterey <fr>U</fr>rsprung. <aq>II.</aq> Zweck. <aq>III.</aq> Jn-
+halt. <aq>IV.</aq> und wie zu solchem zu gelangen.</p>
+<cw>Die</cw>
+<pb="16"/>
+<hr>
+<d1><b>Die <aq>II.</aq> Stund.</b>
+Von der Teutschen Sprache.</d1>
+<p><in>F</in>Erner&sr; bestehet die Poeterey in <fr>Sa-
+chen</fr> und <fr>Worten.</fr> <fn="*"><aq>Scal. l. 3. Poëtic. c.</aq> 1.</fn> Von den
+Sachen ist mit wenigen gehandelt
+worden/ und müssen selbe von den
+guten Poeten in allen fremd&te; Spra-
+chen erstlich abgesehen; nachmal&sr; au&sr; eigenem
+sinnreichen Vermögen erfunden werden/ daher
+jener recht gesagt/ e&sr; müsse der Poet erstlich seyn
+gleich dem Bien/ da&sr; von allen Blumen Honig
+machet; nachmal&sr; gleich dem Seidenwurm/ der
+von sich selbst den köstlichen Faden spinnet. Be-
+vor wir aber weiter gehen/ müssen wir die Eigen-
+schaft der Teutschen Haubtsprache betrachten/ oh-
+ne welcher Erkantniß in der <fr>Reimkunst</fr> nicht
+glücklich fortzukommen. Folget also:</p>
+<arg><aq>I.</aq> <fr>Von der Teutschen Sprache Füglichkeit
+<et>zu der gebundnen Rede.</et></fr>
+<aq>II.</aq> <fr>Von der Teutschen Wörter Lang- oder
+<et>Kurtzlaut.</et></fr>
+<aq>III.</aq> <fr>Von den Vor- und Nachsyllben/ ihren
+<et>Deutungen und Eigenschaften.</et></fr>
+<cw><aq>IV.</aq> <fr>Von</fr></cw>
+<pb="17"/>
+<kt><b>Die zweyte Stund.</b></kt>
+<aq>IV.</aq> <fr>Von den verdopelten oder</fr> (wie sie Herr
+Lutheru&sr; nennet) <fr>Zwilling&sr;wörtern/ und
+derselben Kunstart.</fr></arg>
+<p>2. Daß man in unsrer Sprache alle&sr;/ wa&sr;
+zu richtiger Vernunft nohtwendig ist/ sagen kön-
+ne/ hab&te; viel hochgeleh&rr;te Leute mit ihren Schrif-
+ten beglaubt/ und zeuget auch solche&sr; die tägliche
+Erfahrung/ daß deß Menschen Verstand nicht
+an eine gewisse Sprache gebunden ist/ wiewol et-
+liche Sachen zu teutschen fast schwer scheinen;
+doch ist solche&sr; nicht der Sprache/ welche genug-
+same Wort hat/ sondern der <fr>U</fr>nwissenheit deß
+Lehrer&sr;/ oder der <fr>U</fr>ngeschicklichkeit de&sr; Zuhö-
+rer&sr;/ oder dem <fr>U</fr>nfleiß/ in dem wir bißhero ver-
+harret/ beyzumessen.</p>
+<p>3. E&sr; ist auch ein unbescheidner Wahn/ wann
+ich darvorhalte/ man könne diese&sr; oder jene&sr;
+nicht geben oder nicht recht teutschen/ weil ich e&sr;
+nicht weiß: Meine <fr>U</fr>nwissenheit kan von eine&sr;
+andern wolvermögendem Verständniß nicht ur-
+theilen/ und ist kein Mensch in der Welt/ der
+nicht noch solte zu lernen haben/ er sey in seiner
+Muttersprache so gelehrter wolle.</p>
+<p>4. Der Poet sol die Wort meistern können/
+und keine&sr; der Reimung zu gefallen versetzen/ o-
+der e&sr; anderst/ al&sr; in gebundner Redart/ gebrau-
+chen: solche&sr; zu leisten/ ist unsre Sprache mäch-
+<bs>B</bs><cw>tig/</cw>
+<pb="18"/>
+<kt><b>Die zweyte Stund.</b></kt>
+tig/ weil sie wortreicher al&sr; keine andere/ die ein-
+syllbigen Stammwörter zierlich verdopeln und
+einigen kan; daß in einer wolgefasten Rede ein
+natürlicher der Deutung gemässer Ton/ u&tn; wol-
+klingender Laut zu finden/ welcher in der Poete-
+rey kunstrichtig verfasset/ und durch die Music
+begeistert wird.</p>
+<p>5. Die jenigen/ so vermeinen/ man müsse die
+teutsche Poeterey nach dem Lateinischen richten/
+sind auf einer gantz irrigen Meinung. <fr>U</fr>nsre
+Sprache ist eine Haubtsprache/ und wird nach
+ihrer Eigenschaft/ und nach keiner andern Lehr-
+sätzen gerichtet werden können. Wir wollen hier-
+von etwa&sr; Wenige&sr; zu anderer mehrverständi-
+gen Nachspur melden/ und un&sr; richten nach den
+jenigen/ welche bißhero nicht ohne unsterblichen
+Namen&sr;ruhm liebliche Gedichte verabfasset/ u&tn;
+in Druck gegeben: Wie aber die Griechische und
+Lateinische Sprach/ nach vieler hundert Jahren
+Arbeit/ zu endlicher Vollkommenheit gelanget/ so
+ist solche dieser Zeit bey dem Anfang nicht zu ver-
+hoffen/ sondern beruhet alle&sr; auf genausichtiger
+Verbesserung glücklich.</p>
+<d2><aq>II.</aq></d2>
+<p>6. Wann wir die Wörter unsrer Sprache recht
+betrachten/ find&te; wir derselbigen dreyerley: <aq>I.</aq> <fr>ein-
+syllbige.</fr> <aq>II.</aq> <fr>zweysyllbige.</fr> <aq>III.</aq> <fr>dreysyllbige.</fr></p>
+<cw>Die</cw>
+<pb="19"/>
+<kt><b>Die zweyte Stund.</b></kt>
+<p>Die vier- und fünfsyllbigen werden durch die
+<fr>Vor-</fr> oder <fr>Nachsyllben</fr> erlängert.</p>
+<p>7. Alle <fr>einsyllbige</fr> sind kurtz und lang (#)
+(-) zu setzen/ doch werden die Nenn- <fn="&2020;"><aq>Nomina.</aq></fn> und Zeit-
+wörter <fn="*"><aq>Verba.</aq></fn> besser lang/ (-) die Geschlecht-<fn="&2020;"><aq>Articuli.</aq></fn> Füg-<fn="*"><aq>Conjunctio-
+ne&sr;.</aq></fn>
+und Vorne&tn;wörter <fn="&2020;"><aq>Pronomina.</aq></fn> wolklingender kurtz(#) ge-
+setzet. Al&sr; wann Opitz im 22. Psalm singt:</p>
+<poem><abb>
+<fr>Mein GOTT/ mein GOTT/ warüm</fr>
+<abb>
+<fr>dann hast du mich</fr>
+<abb>
+<fr>verlassen doch? wie weit befindet sich</fr>
+<abb>
+<fr>mein Heil von dir?</fr></poem>
+<p>Der natürlichen Au&sr;rede nach lautet e&sr; also:</p>
+<abb>
+<poem>Mein <g>GOTT/</g> mein <g>GOTT/</g> warüm
+<abb>
+dann hast du mich verlassen doch?</poem>
+<bs>B ij</bs><cw>8. Wann</cw>
+<pb="20"/>
+<kt><b>Die zweyte Stund.</b></kt>
+<p>8. Wann aber ein Geschlechtwort/ al&sr; da
+sind <fr>der/ die/ da&sr;/ ein/</fr> gleichsam mit Fingern
+bedeutend/ mehr Nachdruck haben/ oder etwa&sr;
+gewisse&sr; anzeigen sol/ muß dasselbe Wort lang
+gesetzet werden/ al&sr; wann ich sage
+<poem><abb>
+&2012; &2012; <fr>nur der ist ohne Sünde/</poem>
+der nie gesündigt hat.</fr> &2012; &2012; &2012;
+so hat e&sr; mehr nachdringender Stärcke/ al&sr; wa&tn;
+man sagt:</p>
+<poem><abb>
+&2012; &2012; <fr>der ist nur ohne Sünde &rr;c.</fr></poem>
+<p>9. Da&sr; Geschlechtwort wird lang gesetzet/
+wann eine kurtze Vorsyllben folget/ al&sr; da sind
+<fr>be/ ent/ er/ ge/ ver/ zer/</fr> welche ihren Laut kurtz
+behalten und die gesetzte und nachfolgende Syll-
+be lang machen; al&sr;:</p>
+<poem><abb>
+<fr>Der bekante Biedermann.</fr>
+<abb>
+<fr>die entwichne böse Zeit.</fr>
+<abb>
+<fr>da&sr; erlangte Frieden&sr;jahr</fr>
+<abb>
+<fr>die Gedult zerrinnt dem Mann</fr>
+<abb>
+<fr>der Verstand ist nun dahin.</fr></poem>
+<cw>10. Die</cw>
+<pb="21"/>
+<kt><b>Die zweyte Stund.</b></kt>
+<p>10. <fr>Die zweysyllbigen Wörter</fr> sind
+entweder Stammwörter/ oder werden durch die
+Nachsyllb&te; zweysyllbig. Alle zweysyllbige Sta&tm;-
+wörter haben eine von diesen Endungen. <fr>e/ el/
+em/ en/ er.</fr> und sind <fr>langkurtz</fr> (&2012; #) oder Tro-
+chaisch. Von dieser Regel ist kein Absatz/ son-
+dern sie ist durchgehend richtig/ in der gantzen
+Sprache: doch werden etliche fremde Wörter
+gefunden/ die andre Endungen haben.</p>
+<p>11. Welche Wörter durch die Vorwörtlein
+<fr>ab/ an/ auf/ au&sr;/ bey/ dar/ durch/ ein/ fehl/
+fort/ für/ gen/ her/ hin/ lo&sr;/ mit/ miß/ nach/
+ob/ samt/ üm/ un/ vol/ vor/ weg/ wol/ zu</fr>
+zweysyllbig werden/ sind
+<poem><abb>
+al&sr;: <fr>Abgang/ Antritt/ Aufffahrt/</fr> &rr;c.</poem>
+Wann sie dem Stammwort folgen/ können sie
+kurtz stehen/ also:</p>
+<poem><abb>
+<fr>er nimbt ab/ man geht an und geht auf.</fr></poem>
+<p>12. Welche Sta&tm;wörter zweysyllbig werden
+durch die Nachsyllben/ al&sr; da sind: <fr>e/ er/ e&sr;/ em/
+en/ et/ est/ end</fr> &rr;c. oder durch die <aq>XXI.</aq> Haubt-
+endungen/ al&sr; da sind <fr>bar/ el/ ey/ ern/ hafft/
+heit/ icht/ ig/ lich/ in/ isch/ keit/ lein/ lich/
+ling/ niß/ sal/ sam/ schaft/ thum/ ung/</fr> sind al-
+le langkurtz #. Jedoch werden etliche in drey-
+<bs>B iij</bs><cw>syllbi-</cw>
+<pb="22"/>
+<kt><b>Die zweyte Stund.</b></kt>
+syllbigen Wörtern auch lang gefunden/ wann ei-
+ne kurtze Syllbe vorhergehet/ und da&sr; Reimge-
+bänd nicht Dactylisch ist.</p>
+<p>13. <fr>Die dreysyllbigen Wörter</fr> sind durch
+die Nachsyllben vermehret; al&sr;:</p>
+<poem><abb>
+<fr>gul de ne. löb liche.</fr>
+<abb>
+<fr>För der niß. wun der lich.</fr>
+<abb>
+<fr>wan del bar. &rr;c.</fr></poem>
+<p>Diese Wörter dienen besser zu den langge-
+kürtzten/ oder Dactylisch&te; al&sr; andern Reimart&te;.
+Jch kan nicht sagen.</p>
+<poem><abb>
+<fr>wachsamer Sorgenlast/ niedliche Kost</fr>
+<abb>
+<et><fr>und Speiß.</fr></et></poem>
+<p>Da&sr; er u&tn; e kan nicht lang gesetzet werden/ weil
+e&sr; eine weibliche Endung/ und von Natur kurtz
+ist/ al&sr; Vor- oder Nachsyllben.</p>
+<p>14. E&sr; sind auch noch zweyerley Arten drey-
+syllbiger Wörter/ al&sr;:</p>
+<poem><abb>
+<fr>unartig/ hal&sr;starrig/ verehren:</fr></poem>
+<p>Jn diesen und dergleichen ist auf <fr>da&sr; Stamm-
+wort zu sehen/ welche&sr;/</fr> wie gesagt/ <fr>nechst</fr>
+<cw><fr>den</fr></cw>
+<pb="23"/>
+<kt>Die zweyte Stund.</kt>
+<fr>den Vor- und Nachsyllben iede&sr;mal&sr;
+lang ist/</fr> da die andern ihrer Eigenschaft nach
+kurtz fallen. Die andre Art ist ümgewendet/ al&sr;</p>
+<poem><abb>
+<c><fr>Ungedult/ Menschenfeind/ iederman.</fr></c></poem>
+<p>Welche&sr; alle&sr; nach erstbesagt&te; Sätzen leichtlich
+zu erkennen seyn wird.</p>
+<p>15. Gleichergestalt kan man von dem Lang-
+oder Kurtzlaut der <fr>vier- und fünfsyllbigen
+Wörter</fr> urtheilen/ al&sr;</p>
+<poem><abb>
+<c><fr>unverträglich.</fr></c></poem>
+<p>Da&sr; Stammwort <fr>trag</fr> ist lang/ die Vor- und
+Nachsyllben <fr>ver-</fr> und <fr>lich</fr> kurtz; so folget/ daß
+die erste Syllbe <fr>un</fr> langgesetzet sey.</p>
+<poem><abb>
+<c><fr>Wankelhertzige Leute!</fr></c></poem>
+<p>sagt D. Luther. Hier sind zwey lange Stamm-
+wörter <fr>wank/</fr> und <fr>Hertz/</fr> die Nachsyllben <fr>el/
+ig/ e/</fr> kurtz. Wiewol alle solche lange Wörter in
+den Dactylischen Reimarten besser/ al&sr; in an-
+dern/ klingen.</p>
+<d2><aq>III.</aq></d2>
+<p>16. Erstbesagte kurtze und allein ungebräuch-
+liche <fr>Vorsyllben</fr> wirken ihre Deutung in allen
+Wörtern/ ob wir e&sr; gleich in gemeinen Reden so
+gnau nicht beobachten. Da&sr; <fr>be</fr> wird solch&te; Sa-
+<bs>B iiij</bs><cw>chen</cw>
+<pb="24"/>
+<kt>Die zweyte Stund.</kt>
+chen zugesetzt/ welche noch nicht geendiget/ un-
+terhanden/ oder gegenwärtig sind/ al&sr;:</p>
+<poem><abb>
+<c><fr>behandlen/ besehen/ begehen &rr;c.</fr></c></poem>
+<p>die Vorsyllben <fr>ent</fr>vermindert/ verändert oder
+verkleinert die Deutung de&sr; beygesetzten Sta&tm;-
+wort&sr;/ al&sr;:</p>
+<poem><abb>
+<c><fr>entscheiden/ entnemen/ entfärben &rr;c.</fr></c></poem>
+<p>hingegen wircket die Vorsyllben <fr>er</fr> eine Erlan-
+gung/ Gewinnung/ Erwerbung &rr;c. al&sr;:</p>
+<poem><abb>
+<c><fr>erheurahten/ erjagen/ ergehen.</fr></c></poem>
+<p>Da&sr; <fr>Ge</fr> deutet eine Vielfältigkeit/ Vermen-
+gung/ Versamlung &rr;c. <fr>Gehöltze/ Gespräch/
+Gewässer &rr;c.</fr> in etlichen Wörtern gehöret da&sr;
+<fr>ge</fr> zu den Stammbuchstaben/ welche&sr; darau&sr;
+zu erkennen/ wann da&sr; Stammwort ohne da&sr; <fr>ge</fr>
+keine Deutung hat: Also kan ich in dem Gebän-
+de sagen: <fr>Genade/ Genügen/ Gelücke/</fr> weil
+<fr>nade/ nüge/ lücke &rr;c.</fr> blinde Wörter sind/ und
+deutung&sr;lo&sr;. Die zwo Vorsyllben <fr>ver</fr> und <fr>zer</fr>
+haben/ die deuten etwa&sr; zuverderben/ vernicht&te;/
+zerstücken/ zuweilen auch einen Besitz &rr;c. also</p>
+<poem><abb>
+<c><fr>vergehen/ versehen/ versichern/</fr></c></poem>
+<cw>zer-</cw>
+<pb="25"/>
+<kt>Die zweyte Stund.</kt>
+<poem><abb>
+<c><fr>zerbersten/ zerschlagen/ zertheilen/ &rr;c.</fr></c></poem>
+<p>17. Gleichergestalt haben die <fr>Nachsyll-
+ben</fr> ihren mächtigen Nachdruck/ und dringende
+Deutung/ wiewol sie für sich selbsten/ und allein
+nicht&sr; bedeuten. Wollen nur von etlichen sagen/
+und den mehr begierigen Leser zu de&sr; hochgelehr-
+ten und üm alle Teutsche wolverdienten Herrn
+<fr>Schottel&sr;</fr> Sprachkunst weisen. Die Haubten-
+dung <fr>bar/</fr> al&sr;: sicht<fr>bar/</fr> zin&sr;<fr>bar/</fr> vogt<fr>bar;
+hafft/</fr> al&sr;: lab<fr>hafft/</fr> leb<fr>hafft/</fr> sünd<fr>hafft: icht/</fr>
+al&sr;: dorn<fr>icht/</fr> sand<fr>icht/</fr> schupp<fr>icht: ig/</fr> al&sr;/ fä-
+h<fr>ig/</fr> bürt<fr>ig/</fr> wüt<fr>ig: isch/</fr> al&sr;: büb<fr>isch/</fr> hön<fr>isch/</fr>
+närr<fr>isch. lich/</fr> al&sr; lieb<fr>lich/</fr> bitt<fr>lich/</fr> end<fr>lich:
+niß/</fr> al&sr;: Gleich<fr>niß/</fr> Bind<fr>niß/</fr> Zeug<fr>niß:
+schaft/</fr> al&sr;: Freund<fr>schaft/</fr> Kund<fr>schaft/</fr>
+wirt<fr>schaft: ung/</fr> al&sr;: Lad<fr>ung/</fr> Los<fr>ung/</fr> Nies-
+s<fr>ung:</fr> Diese Endungen <fr>bar/ haft/ icht/ ig/
+isch/ lich/ niß/ schaft/ ung</fr> bedeuten entweder
+eine Eigenschaft/ Verwandschaft/ Menge oder
+Zu- und Angehör eine&sr; Ding&sr;/ iedoch iede&sr; mit
+sonderer <fr>U</fr>nterscheidung/ daß ich keine&sr; mit Fug
+für da&sr; andere gebrauchen kan.</p>
+<p>18. Die Haubtendung <fr>ey</fr> deutet da&sr; Wesen
+eine&sr; Ding&sr;/ al&sr;: Abbt<fr>ey/</fr> Bürger<fr>ey/</fr> Bübe-
+r<fr>ey</fr> &rr;c. wie auch da&sr; <fr>er/</fr> der Männer Thun/ Amt
+und Ankunft bemerken/ al&sr; Schneider/ Mah-
+<bs>B v</bs><cw><fr>ler/</fr></cw>
+<pb="26"/>
+<kt>Die zweyte Stund.</kt>
+<fr>ler/</fr> Die<fr>ner;</fr> und die Endung <fr>inn</fr> der gleichen
+von den Weibern verstehen machet/ al&sr;: Schnei-
+der<fr>inn/</fr> Mahler<fr>inn/</fr> Diener<fr>inn.</fr> Also giebet die
+Haubtendung <fr>en/</fr> oder auch <fr>ern</fr> (welche/ au&sr; <fr>er</fr>
+und @ zusammengesetzet/ verzwickt geschrieben/
+und au&sr;gesprochen wird) die Materien oder den
+Stoff/ wie e&sr; die alten Teutschen genennet/ zu er-
+kennen/ al&sr;: büch<fr>en/</fr> här<fr>en/</fr> schwein<fr>en/</fr> bleye<fr>rn/</fr>
+höltze<fr>rn/</fr> silbe<fr>rn/</fr> &rr;c.</p>
+<p>19. Die zwo Endungen el/ und <fr>lein/</fr> verklei-
+nern/ verzögern/ und vermindern eine Sache/
+al&sr;: der Scheidel/ Wechsel/ Schindel/ Fräu-
+<fr>lein/ Uhrlein/</fr> Bänd<fr>lein.</fr> Die Endung <fr>keit</fr>
+und <fr>heit</fr> wird den Tugenden und Lastern/ wie
+auch einer Sache Zugehör zu bedeuten angefü-
+get/ also: Erbar<fr>keit/</fr> Bescheiden<fr>heit/</fr> Keusch-
+<fr>heit/</fr> Klug<fr>heit/</fr> Mässig<fr>keit/</fr> Freundlich<fr>keit/</fr>
+Trunken<fr>heit/</fr> Boß<fr>heit/</fr> Narr<fr>heit/</fr> Frey<fr>heit/</fr> &rr;c.
+Die überigen Endungen <fr>sam/ sal/ thum/</fr> füh-
+ren in jrer Deutung eine Menge u&tn; Vielheit/ al&sr;:
+ehr<fr>sam/</fr> frieds&ta;/ gewar<fr>sam/</fr> Jrr<fr>sal/</fr> Saum<fr>sal/</fr>
+Trüb<fr>sal/</fr> Jrr<fr>thum/</fr> Reich<fr>thum/</fr> Wach&sr;<fr>th&016B;.</fr>
+Diese Haubtendungen werden sich in viel tau-
+send Wörtern finden/ und wann sie darvon ab-
+gesondert/ so verbleibet da&sr; Wort mit seinen
+wesentlichen/ unzertrennlichen Stammbuch-
+staben/ welche durch die <fr>Vor-</fr> und <fr>Nachsyll-</fr>
+<cw><fr>ben</fr></cw>
+<pb="27"/>
+<kt>Die zweyte Stund.</kt>
+<fr>ben</fr> in ihren natürlichem Stand nicht ver-
+nachtheilet/ zergliedert und zertheilet werden
+sollen.</p>
+<p>20. Diese <fr>Vor-</fr> und <fr>Nachsyllben</fr> werden
+eintzelwei&sr;/ parwei&sr; und selbdritt beygefüget/
+al&sr;: <fr>ab</fr>stehen/ <fr>hinab</fr>stehen/ <fr>dar über hin ab</fr>
+stehen; frucht <fr>bar/</fr> Frucht <fr>bar keit/</fr> &rr;c. hiervon
+ist ein mehrer&sr; zu finden in der <aq>VI.</aq> Stunde.</p>
+<d2><aq>IV.</aq></d2>
+<p>21. Wer dem besagten nachsinnet/ wird be-
+finden/ daß diese Eigenschaft unsrer Sprache zu
+der Poeterey eine unzweiffeliche/ grundrichtige
+Füglichkeit giebet. E&sr; ist aber zu Bildung uns-
+rer Gedanken noch nicht genug/ sondern man
+muß die verdopelten Wörter recht zu gebrauchen
+wissen/ in welchen unsre Zunge wunderkünstlich
+ist. Zum Exempel: ist eine Gleichniß anzustel-
+len/ so gebrauchen wir da&sr; Wörtlein <fr>wei&sr;/</fr> al&sr;:
+<fr>spielwei&sr;/ tauschwei&sr;/ kauffwei&sr;/ &rr;c.</fr> wollen
+wir von etwa&sr; sagen/ da&sr; voll/ und löblich ist/ so
+haben wir die Wörtlein <fr>reich/ mächtig/ voll/</fr>
+al&sr; <fr>tugendreich/ geistreich/ wunderreich/
+wortmächtig/ allmächtig/ trostmächtig/
+gnadenvoll/ wundervoll/ handvoll.</fr> Wann
+unser Nachfi&tn;en zielet auf eine Befreyung/ Ent-
+nemung oder Beraubung eine&sr; Ding&sr;/ gebrau-
+chen wir die Wörtlein <fr>lo&sr;/ frey/ weg/</fr> al&sr;: <fr>sinn-</fr>
+<cw><fr>lo&sr;/</fr></cw>
+<pb="28"/>
+<kt>Die zweyte Stunde.</kt>
+<fr>lo&sr;/ mittello&sr;/ gottlo&sr;/ sorgenfrey/ dienst-
+frey/ zollfrey/ wegsetzen/ wegwe&rr;ffen/ weg-
+schlagen &rr;c.</fr></p>
+<p>22. Also pflegen wir zwey Wörter in eine&sr;
+zusammenzuziehen: daß da&sr; Letzte bemerket/
+<fr>wa&sr; ein Ding sey?</fr> da&sr; erste/ <fr>wie e&sr; sey:</fr> Zum
+Exempel sage ich: der <fr>Spielplatz/</fr> der <fr>Spiel-
+stab/</fr> da&sr; <fr>Spielhau&sr;.</fr> Hier weiß ich/ daß von
+einem <fr>Platz/ Stab/ und Hause</fr> geredet wird/
+und warzu sie gebrauchet werden/ weiset da&sr;
+Wörtlein <fr>Spiel.</fr> Wann ich sage ein <fr>Karten-
+spiel/</fr> so weiß ich/ daß e&sr; ein <fr>Spiel</fr> sey/ welche&sr;
+man mit der <fr>Kart&te;</fr> spielet: Diese&sr; Wort <fr>Spiel</fr>
+wird folgender Gestalt unterscheidlich verknü-
+pfet: <fr>Affenspiel/ Beyspiel/ Bretspiele/ Fe-
+derspiel/ Freudenspiel/ Gauckelspiel/ Ge-
+sprächspiel/ Gesellenspiel/ Gegenspiel/
+Haubtspiel/ Kinderspiel/ Kirchspiel</fr> (die
+Glock&te; in d&te; Kirchthurn) <fr>Königspiel/ Nach-
+spiel/ Narrenspiel/ Ritterspiel/ Streit-
+spiel/ Säitenspiel/ Schachspiel/ Trauer-
+spiel/ Wagspiel/ Wasserspiel/ Würffel-
+spiel:</fr> Solchergestalt kan ich nach der durchge-
+henden Richtigkeit unsrer Sprache recht sagen:
+ein <fr>Kunstspiel/</fr> ein <fr>Si&tn;spiel/</fr> ein <fr>Rähtsel-
+spiel.</fr> Hieher gehöret die Verdoplung/ welche
+ein Gleichniß in sich hat/ al&sr; wann ich sage: <fr>fe-</fr>
+<cw><fr>der-</fr></cw>
+<pb="29"/>
+<kt>Die zweyte Stund.</kt>
+<fr>derleicht/ felsenschwer/</fr> oder <fr>centne&rr;schwer/
+so&tn;enhell/ flügelschnell/ pfeilgeschwind/
+hönigsüß/ kreitenweiß/ kohlschwartz/</fr> und
+wa&sr; dergleichen bekante und unbekante zusam-
+mengesetzte Wörter mehr sind/ und von den Po-
+eten nach eingepflantzter Eigenschaft vnsrer
+Sprache kunstrichtig erdacht werden können.
+Diese&sr; Sprachstück&sr; (von welchem mehr zu le-
+sen in der <aq>VI.</aq> Stunde) haben sich alle Teutsche
+Scribenten gebraucht/ und zu Au&sr;druckung
+ihrer Gedanken gebrauchen müssen. Jn der
+heiligen Schrift findet man der <fr>Mahl</fr>stein/
+Jsa. 19/ 19. der <fr>Schalk&sr;raht/</fr> Nahum. 1./
+11. <fr>Zedergeschrey/</fr> Judith. 14/17. <fr>wunder-
+froh/</fr> Sirach 40/7. <fr>Diensthau&sr;/</fr> 4. Esr. 2/ 1.
+<fr>rosenfrüchtig/</fr> 3. Esr. 7/ 16.</p>
+<p>23. Hier fehlen nun die jenigen/ welche da&sr;
+Mittelstrichlein(-)darzwischen setzen/ daß seinen
+Gebrauch hat/ in den Wörtern/ so von dreyen/
+vieren oder mehren/ zusammengesetzet sind/ al&sr;
+wann ich sage: die <fr>Vor-</fr> und <fr>Nachsorge/</fr> der
+<fr>Schau-</fr> und <fr>Dantzplatz/</fr> die <fr>Geld-</fr> und
+<fr>Leib&sr;straffe/</fr> die <fr>Lentzen-Sommer-</fr> und
+<fr>Herbstzeit/</fr> mein <fr>Stadt-Hau&sr;-</fr> und <fr>Tisch-
+genoß/</fr> da&sr; <fr>Zimmer-Schnitz-</fr> und <fr>Mahl-
+werk &rr;c.</fr> Da da&sr; Mittelstrichlein (-) die vor-
+hergehende Wörter mit dem letzten bindet/ und
+<cw>so</cw>
+<pb="30"/>
+<kt>Die zweyte Stund.</kt>
+so viel ist al&sr; die <fr>Vorsorge/</fr> und <fr>Nachsorge/</fr>
+die <fr>Geldstraffe/</fr> und <fr>Leib&sr;straffe/</fr> der
+<fr>Schauplatz</fr> und <fr>Dantzplatz &rr;c.</fr> Die Wörter
+aber/ wann sie zu Ende der Zeil getheilet/ sollen
+nicht mit einen Mittelstrichlein (-) sondern mit
+einem Zwergstrichlein (-) bemerket werden; die
+gedopelten von den zertheilten Wörtern zu un-
+terscheiden/ diese&sr; hat noch der Zeit nicht in Ge-
+brauch gebracht werden können/ ob zwar un-
+zweiffelich/ daß die Theilung der Syllben zu En-
+de der Zeilen (-) und die Theilung der Wörter
+(-)zu unterscheiden.</p>
+<p>24. E&sr; ist aber zu beobachten/ daß die verdo-
+pelten Wörter durch die Vor- und Nachsyllben
+langkurtz oder kurtzlang werden/ und sich solcher-
+gestalt viel besser in den Ver&sr;schicken/ al&sr; wann
+sie blo&sr; stehen/ wie dann auch die vorstehenden
+zweysyllbigen Wörter besser dienen/ al&sr; die ein-
+syllbigen/ zum Exempel:</p>
+<abb>
+<p>da&sr; Kunstwort/ die Reimart/ Volkreich
+lauten besser im Gebände/ wann man sagt:</p>
+<poem><abb>
+der <fr>Kunste Wort/</fr>
+<abb>
+oder da&sr; <fr>kunstbeliebte Wort/</fr>
+<cw>die</cw>
+<pb="31"/>
+<kt>Die zweyte Stund.</kt>
+<abb>
+die <fr>Reimenart/</fr>
+<abb>
+da&sr; <fr>volkbereichte Land</fr>
+<abb>
+oder da&sr; <fr>völkerreiche Land.</fr></poem>
+<p>Hierau&sr; ist zu schliessen/ daß die Reimzeil/ wel-
+che lauter einsyllbige Wörter hat/ nicht wol zu
+erkennen/ ob sie langkurtz # oder kurtzlang #
+seye: sobald aber eine Vor- oder Nachsyllbe dar-
+zwischen kommet/ so kan man e&sr; besagter massen
+wol wissen. Zum Exempel sey diese&sr;:</p>
+<poem><abb>
+<fr>Wann der Mensch ist krank und alt:</fr></poem>
+<p>also könte e&sr; stehen/ wiewol da&sr; <fr>der</fr> und Wört-
+lein <fr>und</fr> besser kurtz gesetzet wird/ also:</p>
+<poem><abb>
+<fr>Wann der Mensch ist krank und alt/</fr>
+<abb>
+<fr>kan er werden tod und kalt.</fr></poem>
+<p>au&sr; dem Wort <fr>werden</fr> kan ich sicher abnemen/
+daß da&sr; Reimmaß muß langkurtz u&tn; nicht kurtz-
+lang seyn/ weil die Nachsyllben <fr>en</fr> niemal&sr; lang-
+gesetzet zu finden/ e&sr; sey dann wider die Eigen-
+schaft unsrer Sprache/ in den Pritscherreimen o-
+<cw>der</cw>
+<pb="32"/>
+<kt>Die dritte Stund.</kt>
+der in etlichen alten Liedern/ die zu der Zeit ge-
+machet worden/ al&sr; man diese edle Kunst <fr>noch</fr>
+nicht untersuchet hatte.</p>
+<hr>
+<d1><b>Die <aq>III.</aq> Stund.
+Von den Reimen und derselben
+Beschaffenheit.</b></d1>
+<p><in>B</in>Evor wir weiter gehen/ so müssen
+wir von der Reimung/ al&sr; in wel-
+cher de&sr; Verse&sr; Lieblichkeit beste-
+het/ handlen/ und zwar deßwegen/
+weil e&sr; ein-zwey-drey- und viersyll-
+bige Reimwort/ (die zwar billicher Glieder und
+Stücke/ al&sr; Verse/ oder Reimzeilen genennet
+werden) giebet/ von welchen man muß urthei-
+len können/ ehe man die gantze Lehre von dem
+Reimmaß/ dardurch die Reimen abgemessen
+werden/ angehet. Wollen also hören:</p>
+<arg><aq>I.</aq> <fr>Von dem Reimschluß/ und der Rei-
+men Reimung.</fr>
+<aq>II.</aq> <fr>Von unreinen/ doch zulässigen Rei-
+men.</fr>
+<aq>III.</aq> <fr>Von den falschen Reimen.</fr>
+<aq>IV.</aq> <fr>Wie die Reimzeilen ordentlich zu se-
+tzen. Und von den Versen ohne
+Reimschluß.</fr></arg>
+<cw>1. Die</cw>
+<pb="33"/>
+<kt>Die dritte Stund.</kt>
+<p>1. Die <fr>Reimen</fr> sind gleichsam die <fr>Riemen/</fr>
+durch welche da&sr; Gedicht verbunden wird; und
+sollen erstlich von den Rednern seyn abgesehen
+worden/ wann sie die Gleichheit der Wörter/ ihre
+Rede zu zieren/ au&sr;gesuchet; al&sr;: mit <fr>Raht</fr> und
+<fr>That beystehen/</fr> und an die Hand <fr>gehen.</fr> Die
+<fr>Treue erneuen/</fr> mit <fr>Macht</fr> und <fr>Pracht/
+Kriegen</fr> und <fr>Siegen</fr> &rr;c. in welchem letzten
+Exempel wol zu beobachten ist/ daß wann zwey
+Wörter/ al&sr; diese&sr; Ort&sr; <fr>Macht</fr> und <fr>Pracht/</fr>
+zu stehen kommen/ wieder zwey Wörter darauf
+folgen müssen/ deren da&sr; erste auf <fr>Macht/</fr> al&sr;
+<fr>Kriegen/</fr> da&sr; zweyte auf <fr>Pracht/</fr> al&sr; diese&sr;
+Ort&sr; <fr>Siegen</fr> ist/ da&sr; Absehen hat. Der Reim-
+schluß kan seyn <fr>einsyllbig/ zweysyllbig/</fr> und
+<fr>dreysyllbig/</fr> wiewol diese letzte Art/ al&sr; <fr>liebli-
+che/ übliche/ stehenden/ gehenden/ Phöni-
+cier/ Cilicier/ Wichtigkeit/ Nichtigkeit</fr> &rr;c.
+fast ungebräuchlich ist. Die einsyllbigen Reim-
+wort werden genennet männliche oder steigende:
+die zweysyllbigen weibliche oder fallende: deutli-
+cher aber der <fr>einsyllbige Reimschluß/</fr> der
+<fr>zweysyllbige Reimschluß/</fr> bestehend in <fr>U</fr>ber-
+einstimmung der letzten Syllben/ welche man
+deßwegen nennet die <fr>Reimsyllben/</fr> al&sr; wann
+ich sage/ <fr>ab/ auf/</fr> u&tn; <fr>ab/</fr> daraufreimet/ die <fr>Gab/</fr>
+der <fr>Schab/</fr> ein <fr>Schwab/ Grab/ Haab/</fr>
+<bs><fr>C</fr></bs><cw><fr>Knab/</fr></cw>
+<pb="34"/>
+<kt>Die dritte Stund.</kt>
+<fr>Knab/ Rab/ Stab/ &rr;c.</fr> Die Reimsyllbe ist <fr>ab/</fr>
+die <fr>Reimbuchstaben/</fr> welche solche Reimung
+schliessen/ sind a/ g/ r/ k/ h/ &sr;/ w. Wann ich aber
+auf <fr>ab</fr> wolte reimen schab <fr>ab/</fr> her<fr>ab/</fr> hin<fr>ab/</fr> so
+were e&sr; kein Reimschluß/ weil der vorherge-
+hende Reimbuchstab die letzte Syllben nicht
+schliesset/ sondern zu der ersten Syllben gehörig
+ist.</p>
+<p>2. Die Reimsyllben haben mehrmal&sr; ihre
+Deutungen für sich/ al&sr; wann ich setze: <fr>Ehr/</fr> so
+kan ich wol darzu reimen <fr>Gehör/ Lehr/ mehr/
+sehr &rr;c.</fr> gleicherweise die Spanier/ Frantzosen
+und Jtaliäner in ihrer Sprache auch zu reimen
+pflegen. Solchergestalt verhält e&sr; sich mit der
+zweysyllbigen Reimung. Jn beh<fr>agen/ jagen/</fr>
+sie <fr>lagen/ nagen/ sagen/ tagen/ wagen/ za-
+gen/</fr> ist die Reimung <fr>agen/</fr> die Reimbuchsta-
+ben/ h/ j/ l/ n/ s/ t/ w/ z. Wann man also die Reim-
+syllben nimmet/ und durch da&sr; A b c alle einfa-
+che und gedopelte Buchstaben darzusetzet/ (da&sr;
+ein jeder Teutscher leichtlich in dem Sinn thun
+kan) so wird sich da&sr; Reimwort/ welche&sr; einen
+Verstand/ oder eine Deutung hat/ unfehlbarlich
+finden. Die dopelten Buchstaben sind folgen-
+de: <fr>bl/ br/ ch/ chr/ dr/ fl/ fr/ gl/ gn/ gr/ kl/
+kn/ kr/ pf/ pfl/ pl/ pr/ qw/ Schn/ Sn/ sch/
+schl/ sl/ Schm/ sp/ spl/ sr/ st/ str/ sw/ tr/ thr/</fr>
+<cw><fr>zw.</fr></cw>
+<pb="35"/>
+<kt>Die dritte Stund.</kt>
+<fr>zw.</fr> Wann ich nun die Reimendung <fr>agen</fr>
+hinter diese Buchstaben halte/ finde ich: <fr>fra-
+gen/ klagen/ kragen/ plagen/ schlagen/</fr> sie
+<fr>sagen/ tragen/ zwagen.</fr> Die andern sind
+blinde Wörter. Au&sr; besagten kan ich die Reim-
+wörter wehlen/ die zu meinen Vorhaben am
+schlicklichsten sind/ welche&sr; unschwer kan abge-
+sehen und zu Werke gebracht werden.</p>
+<p>3. E&sr; ist aber kein zulässiger Reimschluß
+wann da&sr; gantze Wort verbleibet/ und die Reim-
+buchstaben nicht verändert werden/ al&sr; wann
+ich setzen wolte auf den <fr>Bergen</fr> sich <fr>verber-
+gen/</fr> durch da&sr; <fr>Jagen</fr> erjagen &rr;c. So offt al-
+so der vorhergehende Reimbuchstab da&sr; Wort
+verändert/ so oft gibt e&sr; einen guten/ und glei-
+chen Reimschluß/ welcher da&sr; Gedicht lieb-
+lich/ und wolklingend machet. Diese Wahl
+der Reimwörter ist sehr dienlich/ und muß
+man bedencken/ welche Reimung in einem
+Gedichte nohtwendig/ oder welche mit an-
+dern gleichdeutenden Reden au&sr;zutauschen.
+Wie auch/ welche Wörter zu Ende der Mei-
+nung zu stehen kommen/ und ist in den Sonne
+ten/ oder Klingreim&te; sehr gebräuchlich/ daß man
+alle Reimendungen zusammensuchet/ und dar-
+au&sr; vier anständige in Verfassung deß Gedichte&sr;
+<bs>C ij</bs><cw>weh-</cw>
+<pb="36"/>
+<kt>Die dritte Stund.</kt>
+wehlet. E&sr; giebet auch der Reimschluß zu feinen
+Gedanken <fr>U</fr>rsach/ welche in ungebundner Re-
+de übergangen worden weren.</p>
+<d2><aq>II.</aq></d2>
+<p>4. Damit man aber nicht gar zusehr in den
+Versen an diese Richtigkeit gebunden seye/ (weil
+etliche Wörter mit wenigen/ etliche mit gar kei-
+nen reimen/) so lässet man zu verwandte Buch-
+staben/ al&sr; <fr>eh/ ö/</fr> al&sr; <fr>lehren/ hören/ e</fr> und <fr>ä/
+wende/ Hände/</fr> ei und <fr>eu/ theilen/ heulen/ i</fr> u&tn;
+<fr>ü/ dienen/ grünen/</fr> ie und <fr>ü/</fr> al&sr; <fr>siegen/ pflü-
+gen/</fr> und andere dergleichen/ welche ein&te; schlech-
+ten <fr>U</fr>nterscheid in der Au&sr;rede haben.</p>
+<p>5. Jn diese Ordnung gehören auch die ein-
+syllbigen Reimwörter/ in der&te; einem ein weicher/
+in dem andern ein harter Mitstimmer zuletzt ste-
+het/ al&sr;: <fr>Neid/ Zeit/ Tod/ Noht/ Kind/ Hy-
+acinth</fr> &rr;c.</p>
+<p>6. E&sr; finden sich auch viel Wörter/ die nicht
+von allen/ so gut hochteutsch reden/ gleicherweise
+au&sr;gesprochen werd&te;/ al&sr; zum Exempel (<fr>schwer</fr>
+(<aq>gravi&sr;</aq>) <fr>leer</fr> (<aq>vacuu&sr;</aq>)/ da&sr; <fr>Heer/</fr> da&sr; <fr>Meer/
+ernehren/ bescheren/ verzehren/ bescheh-
+ren/ kehren/ verwehren:</fr> wir <fr>weren</fr> (<aq>essemu&sr;</aq>)
+<fr>zehlen/ schelen/ quälen/ schmähen/ nehen/
+drehen/</fr> in welchen von den Meisnern da&sr; <fr>e/</fr> al&sr;
+<fr>ö/</fr> von den Schlesiern/ und vielen andern Teut-
+<cw>schen/</cw>
+<pb="37"/>
+<kt>Die dritte Stund.</kt>
+schen/ wie <fr>ä</fr> au&sr;geredet wird. Die Meisner sa-
+gen <fr>können/ gönnen/</fr> die Schlesier <fr>k&016F;nnen/
+günnen/</fr> u&tn; vielleicht nicht unrecht/ weil <fr>Kunst</fr>
+und <fr>Gunst</fr> da von herkommet. Auch sagen die
+Meisner/ <fr>vergiessen/ verdriessen/ fliessen/ ge-
+niessen/ entspriessen/ schliessen:</fr> den <fr>Füssen/
+büssen/ grüssen/ versüssen/</fr> &rr;c. da da&sr; <fr>ie</fr> und <fr>ü</fr>
+lautet wie <fr>niemand/ bemühen;</fr> da&sr; <fr>ss</fr> wie in
+<fr>grossen/ geschossen/</fr> die Schlesier aber lesen
+diese Wort/ wie <fr>wissen/ zerrissen/</fr> den <fr>Flüssen/</fr>
+und wird da&sr; <fr>ie/</fr> und <fr>ü/</fr> wie ein einfache&sr; <fr>i</fr> au&sr;-
+gesprochen.</p>
+<p>7. Sind nun die Buchstaben der Au&sr;rede
+eigentliche Kennzeichen/ u&tn; die sichtbare Schrift
+gleichsam eine stumme Sprach/ so wird in der
+Schreibung so wenig ein Vergleich zu hoffen
+seyn/ al&sr; in den unterschiedlichen Mundarten.
+Der Vogel singt/ nachdem jhm der Schnabel ge-
+wachsen ist/ und vermeint ein ieder/ seine Mund-
+und Land&sr;art sey die beste. Den Braunschwei-
+gern mißfällt die zärtliche und weibische Au&sr;re-
+de unsrer männischen und majestätischen Hel-
+densprache: den Meisnern mißfällt die starcke
+und gröbere Mundart.</p>
+<p>8. E&sr; ist hierinnen nicht zu sehen auf den ge-
+meinen Pövel/ der niemal&sr; Ziel und Maß zu
+halten weiß/ sondern auf vorneme/ gelehrte und
+<bs>C iij</bs><cw>tapfere</cw>
+<pb="38"/>
+<kt>Die dritte Stund.</kt>
+tapfere Männer/ welche kein Gedicht/ wann e&sr;
+sonsten lobwürdig/ wegen etlicher strittig&te; Buch-
+staben verwerffen werden; in Betrachtung/ daß
+auch <fr>bey den Griechen ein ieglicher Poet
+nach seiner Mundart geschrieben: ob-
+wol eine besser und zierlicher/ al&sr; die ande-
+re gewesen.</fr> Also hat Opitz nach der Schlesi-
+schen Au&sr;rede geschrieben/ Flemming nach der
+Metsnischen/ Melissu&sr; nach der Fränkischen/
+Rist nach der Holsteinischen/ Schneuber nach
+der Rheinländifchen &rr;c.</p>
+<p>9. Gleichwie in der Music die Mißstim-
+mung auch von einem ieden Bauren kan beob-
+achtet werden/ der die Kunst nicht verstehet: also
+kan auch ein unpoetische&sr; Ohr von den Reimen
+urtheilen/ ob er richtig oder <fr>r&016F;hrend/</fr> da&sr; ist:
+solche Reimsyllben hat/ welche nicht reinlich und
+gleichlautend eintreffen/ sondern sich reimstim-
+mig rühren/ doch also/ daß e&sr; für eine zulässige
+Reimung gelten kan.</p>
+<d2><aq>III.</aq></d2>
+<p>10. Hierauß ist leichtlich zu ersehen/ wa&sr;
+falsche Reimen sind; Wann nemlich die Reim-
+syllben ungleich/ und nicht rühret: Al&sr; da sind in
+den einsyllbig&te; <fr>o</fr> und <fr>u/</fr> al&sr; <fr>Gold/</fr> u&tn; <fr>Schuld/
+g/</fr> und <fr>k/ Klang</fr> und <fr>Dank/</fr> weil zwischen sol-
+chen Buchstaben keine rührende Verwandschaft
+<cw>ist/</cw>
+<pb="39"/>
+<kt>Die dritte Stund.</kt>
+ist/ wie zwischen <fr>d</fr> und <fr>t Feld/ Welt/ n</fr> und <fr>nn/
+kan/ Mann/</fr> darvon oben gesagt worden. Also
+ist e&sr; auch bewandt in den zweysyllbig&te; Reimsyll-
+ben <fr>ä</fr> und <fr>a/ erwärmen/ erbarmen/ ö</fr> und <fr>o/</fr>
+ver<fr>gönnen/</fr> die <fr>Sonnen/ ü</fr> und <fr>u/ Sünden</fr>
+und ver<fr>wunden.</fr> So reimet sich auch ferner
+nicht/ wa&tn; ein Buchstab in einem einfach/ in/ dem
+andern aber dopelt au&sr;gesprochen/ und geschrie-
+b&te; wird/ al&sr;: <fr>blasen/ fassen: weisen/ reissen: ne-
+men/ hemmen:</fr> oder wann ein anderer Buch-
+stab gesetzet wird/ al&sr; <fr>g</fr> und <fr>ch/ brauchen/ Au-
+gen/ weiden/ leiten/</fr> (ungeacht da&sr; <fr>d</fr> und <fr>t</fr> in
+den einsyllbigen gelten kan) <fr>gleichen/ eig&te;</fr> &rr;c.</p>
+<p>11. Obwol dergleichen Reimen bey guten Poe-
+ten zu finden/ welcher sie sich al&sr; einer Befrey-
+ung bey unsrer Poeterey Anfang gebrauchet/ so
+ist e&sr; doch keine&sr; Weg&sr; nachzuthun; weil da&sr;
+Gedicht dardurch unlieblich/ hart und mißlau-
+tend wird; der Poet aber soll die Wort also mei-
+stern können/ daß alle&sr; leichtfliessend mit Anmu-
+tigkeit zu vernemen komme.</p>
+<p>12. Hierbey ist zu beobachten/ daß etliche we-
+nig Wörter/ der unstrittigen Schreibung nach/
+gleiche Reimsyllben/ aber doch ungleiche Au&sr;re-
+de haben/ <fr>sehen/ stehen/ essen/</fr> He<fr>ssen/ fassen/</fr>
+Str<fr>assen/</fr> welche&sr; alle&sr; die richtige Au&sr;rede leh-
+ren kan: doch solte man auch hierinnen untade-
+<bs>C iiij</bs><cw>lich</cw>
+<pb="40"/>
+<kt>Die dritte Stund.</kt>
+lich verfahren/ wann man betrachtet/ daß der
+Buchstaben Ambt ist/ den Ton v&tn; den Klang der
+Wörter zu bilden/ und ist vielleicht der Mangel
+an einer und der andern Mundart/ da e&sr; doch
+eine Sprache ist/ und hochteutsch verbleibet/ ob-
+gleich die Au&sr;rede ändert. Herr Opitz reimet
+<fr>brüllt</fr> und <fr>schillt:</fr></p>
+<cit><poem><fr>Wann die schwartze Kuhe brüllt/
+daß im Thale wiederschillt.</fr></poem></cit>
+<p>Nach der Schlesier Mundart ist e&sr; recht/ nach
+der Meisnischen aber mißlautend/ und sol <fr>schal-
+let</fr> heissen.</p>
+<d2><aq>IV.</aq></d2>
+<p>13. Wie die Lateiner/ <fn="*"><aq>In Elegiaci&sr;, Alcaici&sr;, Sapphici&sr; &amp; alii&sr;
+carminibu&sr;.</aq></fn> die unterschiedliche
+Ver&sr;arten mit dem Ein- und Au&sr;rucken der
+Zeilen bemerken; also ist solche&sr; auch bey den
+Teutschen Reimgebänden nicht ausser Obacht
+zu lassen/ daß nemlich die gleichschltessend&te; Reim-
+zeile in unterschiedlichen Reimgebänden gleich-
+ständig gesetzet werden sollen. Zum Exempel:</p>
+<cit><poem><fr>E&sr; bleibet stet&sr;/ mit der begrauten Zeit/
+der Freudenlentz/ zu mahl&te; diese&sr; Feld/
+mit buntem Schmuck/ die Auen zu
+<et>beschönen:</et></fr>
+<cw><fr>Da&sr;</fr></cw>
+<pb="41"/>
+<kt>Die dritte Stund.</kt>
+<fr>Da&sr; Ufer deckt deß So&tm;er&sr; Jägerkleid/
+den Baum ümhüllt ein dickbelaubter
+<et>Zelt/</et>
+der Gegenhall verdoppelt Sti&tm; u&tn;
+<et>Sehnen/</et>
+reimt mit der Schäfer Tönen.
+Die Frölichkeit bewohnet diese Heinen:
+kein Winterei&sr; hat man hier sehen wein&te;.</fr></poem>
+<c>Au&sr; Sannazar.</c></cit>
+<p>Jst eine kurtze Beschreibung der Neapolitani-
+schen Gegend. Weil <fr>Zeit</fr> und <fr>Kleid</fr> die erste u&tn;
+vierdte Reimzeile binden/ werden sie gleich gese-
+tzet; wie auch <fr>Feld/ Zelt/ beschönen/ Sehnen/</fr>
+eingerucket <fr>Heinen</fr> und <fr>weinen</fr> in den letzten
+Zeilen wieder au&sr;gerucket zu bemerken.</p>
+<p>14. Wann aber gar kurtze Reimen mit un-
+terlauffen/ pflegt man selbe nicht üm eine Syllbe
+einzurucken/ wie hier die d&rr;ey und drey e&rr;sten/ son-
+dern sie dem Ende der ersten Zeile zu setzen/ al&sr;</p>
+<poem><fr>Jhr macht mir/ O hohe Bäume!
+<et>schwere Träume:</et>
+gleich ob mich ein wilde&sr; Thier/
+in den langverödten Matten/
+<et>fändehier.</et>
+mich bedunkt/ de&sr; Tode&sr; Schatt&te;
+schwebe furchtsam fort und fort
+<et>an dem Ort.</et></fr></poem>
+<bs>C v</bs><cw>15. Wann</cw>
+<pb="42"/>
+<kt>Die dritte Stund.</kt>
+<p>15. Wann aber die zwey kleine Reimzeile
+zusammentreffen/ pflegt man sie in die Mitten zu
+setzen/ oder zuzeiten/ wann der Raum erman-
+gelt/ nebeneinander.</p>
+<p><c>Zum Exempel:</c></p>
+<poem><fr>Unsre leichte Schäferlieder
+fliessen sonder Vorbedacht:
+wa&sr; die stoltze Stadt verlacht/
+singet auf dem Dorf ein jeder.
+Hat der Ton
+Spott und Hohn/
+al&sr; ein grobe&sr; Baurnlallen/
+so ist doch nicht au&sr;gedicht
+da&sr;/ wa&sr; allen wird gefallen.</fr></poem>
+<p>16. So viel kürtzlich von den Reimen. Die
+Verse aber belangend/ welche keinen Reimschluß
+haben und aufgelöst/ oder ungebunden genennet
+werden können/ sind nach dem erwehlten Reim-
+maß gleichständig geordnet/ wie in der Hercynia
+H. Opitzen&sr; in dem ersten/ und dritten Theil der
+neuaufgelegten Diana/ und sonderlich in Herrn
+Schottel Reimkunst zu ersehen.</p>
+<p>17. Solche Art der Verse führen auch die
+Spanier <fn="*"><aq>Verso&sr; fuelro&sr;.</aq></fn>/ wiewol sie keine Lieblichkeit nicht ha-
+ben/ und doch zu Erzehlung/ noch zu Bewegung
+der Gemüter dienlich scheinen. Man nennet sie
+<cw><fr>Sech-</fr></cw>
+<pb="43"/>
+<kt>Die dritte Stund.</kt>
+<fr>Sechstinnen/</fr> weil sie in sech&sr;malsech&sr; wieder-
+holten sech&sr; Worten bestehen/ und können so-
+wol langkurtz/ al&sr; kurtzlang gemachet werden.
+Solchergestalt kan man <fr>dreyinnen/ vierin-
+nen/</fr> und <fr>fünfinnen</fr> stellen. Wir wollen etli-
+che hieher setzen zur Nachfolge den Anfängern in
+der Poeterey: dann weil da&sr; Reimwort/ ohne
+Zwang/ in die Rede zu bringen da&sr; schwerste ist/
+wolte ich rahten/ daß man/ nach Erlernung de&sr;
+Lang- oder Kurtzlaut&sr;/ bey diesen Arten der Ver-
+se erstlich anfienge.</p>
+<p>18. Man kan die gemeinen Sechstinne
+füglicher nennen <fr>sech&sr;-Verse/ vier-Verse/</fr>
+al&sr; besagter massen/ weil e&sr; fast fremd lautet/ und
+ist da&sr; Spanische Wort <aq>Sextina</aq> behalten wor-
+den/ wiewol etliche auch da&sr; gebräuchliche oder
+anheimisch gemachte Wort <fr>Ver&sr;</fr> nicht dulten
+und <fr>Reimzeile</fr> darfür setzen/ wir behalten e&sr;
+aber/ weil e&sr; nun jederman verstehet.</p>
+<pt><c><fr>Langkurtze Dreyverse.</fr></c></pt>
+<pt><c>1.</c></pt>
+<pv><abb>
+<fr>1. Flieh den trägen Müssiggang/
+2. wann du wilst die Tugend</fr> lieben/
+3. <fr>samt der Kunst und Wissenschaft.</fr></pv>
+<cw>3. <fr>Wah-</fr></cw>
+<pb="44"/>
+<kt>Die dritte Stund.</kt>
+<pt><c>2.</c></pt>
+<pv><fr>3. Wahrer Tugend Eigen</fr>schaft
+<fr>1. he&tm;t der Zeiten schnellen</fr> Gang;
+2. <fr>macht Gott u&tn; den Nechsten</fr> lieben.</pv>
+<pt><c>3.</c></pt>
+<pv>2. <fr>Welche diese Lehre</fr> lieben/
+3. <fr>halten/ in der Wander</fr>schaft/
+1. <fr>den gewissen Himmel&sr;</fr>gang.</pv>
+<pt><c>19. Vierverse.</c></pt>
+<pv><abb>
+1. <fr>Wer nur einmal der Musen Speise</fr>
+<abb>
+<fr>kostet/
+2. u&tn;schöpft die Flut au&sr; Claro&sr; klaren
+Quellen/
+3. der gleichet dem/ der schwülstig ist/
+erkrankt
+4. an jener Sucht/ die man vom Wasser
+nennt.</fr></pv>
+<pt><c>2.</c></pt>
+<pv><fr>4. Wen findet man/ 8 sich ersättigt nennt
+1. von dem/ dzer niesattsam hat gekostet.
+2. Der Tantalu&sr; erdurstet nechst den
+<et>Quellen;</et>
+3. Weil die Begierd macht/ daß er gantz
+<et>erkrankt.</et></fr></pv>
+<cw>3. Die</cw>
+<pb="45"/>
+<kt>Die dritte Stund.</kt>
+<pt><c>3.</c></pt>
+<pv><fr>3. Die greissen Zeit/ in welcher man er-
+<et>krankt/</et>
+4. wird zwar/ mit Fug/ v&to; kluger Kunst
+<et>genennt:</et>
+1. Weil der/ so alt/ da&sr; Gut&2019; und Böse
+<et>kostet/</et>
+2. und weiß/ woher die Kunstgedanken
+<et>quellen.</et></fr></pv>
+<pt><c>4.</c></pt>
+<pv><fr>2. Doch wird er nie gesättigt von den
+<et>Quellen/</et>
+3. gleich dem/ der Saltz in sich trinkt/
+<et>da&sr; ihn kränkt.</et>
+4. E&sr; wird/ mit Fug/ der beste Durst ge-
+<et>nennt/</et>
+1. Wann man die Kunst/ noch niemal&sr;
+<et>satt gekostet.</et></fr></pv>
+<p>20. Nach diesem find die fünfverse auch leicht-
+lich zu machen. E&sr; ist aber nicht noht/ daß man
+die Reim- oder Ver&sr;art darübersetzet/ sondern
+e&sr; sol der Titel de&sr; Gedicht&sr; vielmehr auf den
+Jnhalt gerichtet seyn: al&sr; über die Dreyverse
+könte man schreiben:</p>
+<poem><fr>Tugend- und Kunstliebe.</fr></poem>
+<p>über die Vierverse:</p>
+<poem><fr>Da&sr; unersättliche Kunstbeginnen/ &rr;c.</fr></poem>
+<cw>21. Weil</cw>
+<pb="46"/>
+<kt>Die dritte Stunde.</kt>
+<p>21. Weil die Stund noch nicht verflossen/
+wollen wir ein Muster von den alten Reimen an-
+fügen/ in welchen der Jnhalt sehr sinnreich/ die
+Au&sr;rede aber nicht poetisch/ sondern nach dersel-
+ben Zeit Gebrauch bald einsyllbig/ bald zweysyll-
+big (wie noch heutzutag die Pritscher und
+Spruchsprecher reimen) zu bemerken ist.</p>
+<poem><fr>Froschmäusler im 2. Buch am 6. Cap.</fr></poem>
+<pt><c><fr><in>D</in>Er Nachtigal freye
+Kunst.</fr></c></pt>
+<poem><abb>
+<fr>Jchbrauch nicht mehr dann diese Kunst</fr>
+<abb>
+<fr>Wider aller Creaturen Abgunst;</fr></poem>
+<p>Diese zehensyllbige Reimzeil ist trochaisch o-
+der langkurtz/ die vorhergehende achtsyllbige jam-
+bisch oder kurtzlang/ er hätte aber setzen können:
+Jch gebrauche diese Kunst/</p>
+<poem><fr>Wann der Menschen (oder de&sr; Vogler&sr;)
+<et>falsche Gunst</et>
+mir gestellet &rr;c.
+Daß ich Gottstet&sr; für Augen halt/
+für ihm sing Tag und Nacht im Wald.</fr>
+<et>sol <fr>halte/ singe</fr> heissen.</et>
+<cw><fr>führ</fr></cw>
+<pb="47"/>
+<kt>Die dritte Stund.</kt>
+<fr>führ ein gantz unschuldig&sr; Leben/
+wart mein&sr; Beruf&sr; fleissig darneben.</fr></poem>
+<p>sol <fr>gantze&sr;</fr> und <fr>warte</fr> heissen; Zu dem ist da&sr;
+Reimwort <fr>neben</fr> zweysyllbig/ und ohne Deu-
+tung müssig.</p>
+<poem><fr>Daß ich mit gifftigen Würmlein streit&2019;
+und sonst niemand zufüg&2019; ein Leid.
+Darbey ich Gotte&sr; Wünderwerk
+oftmal&sr; sichtiglich spühr&2019; und merk/</fr></poem>
+<p>sichtiglich ist ein dactylische&sr; Wort: hätte besser
+gesagt: <fr>augenscheinlich</fr> spühr &rr;c. merk sol
+<fr>merke</fr> heissen.</p>
+<poem><fr>Daß wer Gott zum Freunde hat auf Er-
+<et>den/</et>
+dem muß sein Feind zum Freunde werden.
+Wann mich der Vogler gleich erschleicht/
+und mich mit seiner List erreicht:
+Hey/ spricht er/ e&sr; were Schand&2019; und
+<et>Sünd/</et>
+wann einer wer ein solche&sr; Kind;
+und wolt&2019; allhier ein Mörder seyn
+an solchen unschuldigen Vögelein &rr;c.</fr></poem>
+<p>Au&sr; Erstbesagtem werden die Fehler auch in
+diesen Zeilen leichtlich zu erkennen seyn.</p>
+<p>Wir wollen eben diesen Jnhalt nach unsrer
+Art reimen/ und da&sr; Gedicht nennen</p>
+<cw><fr>Der</fr></cw>
+<pb="48"/>
+<kt>Die dritte Stund.</kt>
+<pt><c><fr><in>D</in>Er Fro&tm;en Sicher-
+heit.</fr></c></pt>
+<pv><fr><in>H</in>Oeret ihr die Nachtigall in d&te; Wald-
+gebüschen singen
+und ihr holde&sr; Klinggedicht ihrem Gott
+und Schöpfer bringen;
+so betrachtet/ daß die Stimme
+nicht sey sonder Wortverstand:
+Nein dergleichen Liebelieder
+sind der süssen Freiheit Pfand.
+Solcher Meinung singet sie.</fr></pv>
+<pt><c>1.</c></pt>
+<pv><fr>Wann die übermüdte Nacht
+andre Vögelschläfert ein/
+halt&2019; ich auf den Felsenstein
+<et>gute Wacht.</et>
+Bald die Sonn&2019; ist aufgegangen/
+ist der Vogler Meuchell ist/
+wider unser Volk gerüst/
+<et>un&sr; zu fangen.</et></fr></pv>
+<pt><c>2.</c></pt>
+<pv><fr>Aber höret meine Kunst/
+welche mir bi&sr;her gelückt/
+daß mich keiner hat bestrickt:
+<et>Gotte&sr; Gunst</et></fr>
+<cw><fr>lässt</fr></cw>
+<pb="49"/>
+<kt>Die dritte Stund.</kt>
+<fr>lässt mich frey und sicher leben/
+weil ich ihn vor Augen hab/
+und ihm dank üm seine Gab&2019;/
+<et>Hut/ und Leben.</et></fr></pv>
+<pt><c>3.</c></pt>
+<pv><fr>E&sr; ist niemand weit und breit/
+der sich über mich beschwert/
+weil ich niemand iegefährt;
+<et>al&sr; zur Zeit</et>
+kleine Würmer mich zu speisen.
+Mein Beruf ist mit Gesang/
+und der Felsen Gegenklang
+<et>Gott zu preisen.</et></fr></pv>
+<pt><c>4.</c></pt>
+<pv><fr>Fängt mich auch/ au&sr; Unbedacht/
+der verschalkte Vogler&sr;mann/
+nimt er mich gefangen an
+<et>und betracht:</et>
+Daß mein Tod ihm wenig dienet;
+jahält mich mit gröstem Fleiß/
+wol versorgt mit Trank u&tn; Speiß/
+<et>neu begrünet.</et></fr></pv>
+<pt><c>5.</c></pt>
+<pv>Dir/ dir/ dir/ dir <fr>höchster Hort/
+bring&2019; ich mit erfreutem Klang/
+mein verirrte&sr; Lobgesang
+<et>fort und fort.</et></fr>
+<bs><fr>D</fr></bs><cw><fr>Jch</fr></cw>
+<pb="50"/>
+<kt>Die dritte Stund.</kt>
+<fr>Jch laß andre Thiere klagen:
+meinem Feind ist nun gewehrt/
+der mich al&sr; ein Freund ernehrt/
+<et>mit Behagen.</et></fr></pv>
+<pt><c>6.</c></pt>
+<pv><fr>Andre Thiere/ sonder Noht/
+führet man zur Schlachtung&sr;zeit
+von der fetten Mastung&sr;weid
+<et>in den Tod:</et>
+Jch bin frölich/ und gefangen/
+und auch meinem Keffighold:
+weil e&sr; mir/ wie Gott gewolt/
+<et>ist ergangen.</et>
+&2014; So beliebte Lieder lehren/
+daß wir Menschen ie zumal
+von den Nachtigallen hören:
+wie den frommen Gott ergebnen
+alle&sr; dient zu Freud&2019; und Nutz;
+und sie in der Jammerangst
+spüren Gotte&sr; Gnadenschutz!</fr></pv>
+<p>Hier wird abgesehen auf den Spruch zun
+Röm. am 8. E&sr; muß doch denen/ die Gott lie-
+ben/ alle&sr; zum besten kehren. Da&sr; &2014; Strich-
+<c>lein weiset/ daß da&sr; erste Reimgebänd
+mit den letzten überein
+kommet.</c></p>
+<cw>Die</cw>
+<pb="49"/>
+<d1><b>Die <aq>IV.</aq> Stund.</b></d1>
+<arg><fr>Von den vier vornemsten Reimarten.</fr></arg>
+<p><in>R</in>Eine Reimen durch ein gantze&sr;
+Gedicht zu binden/ ist schwer: da&sr;
+Reimmaß zu erkennen/ leicht/ wie
+gesagt; dann wann die Reimzeile
+geschlossen sind/ so kan ich auch
+au&sr; der Au&sr;rede wol abmerken/ welche die lang-
+kurtze/ oder kurtzlange Reimart ist/ al&sr;:</p>
+<poem><abb>
+<fr>Auf Angst/ Noht/ Leid/ Haß/ Schmach/</fr>
+<abb>
+<et><fr>Spott/ Krieg/</fr></et>
+<abb>
+<fr>Sturm/ Furcht/ Streit/ Müh&2019;/</fr> und Fleiß
+<abb>
+folgt <fr>Lust/ Raht/ T&rr;ost/ G&0169;st/ Ruhm/ Lob/</fr>
+<abb>
+<fr>Sieg/ Ruh/ Mut/ Nutz/ Lohn/ und</fr>
+<abb>
+<et><fr>Preiß.</fr></et></poem>
+<p>Diese Reimart <fn="*">Nachahmung de&sr; <aq>vers&00FB;&sr; vertumnali&sr;</aq> bey <aq>Lansio
+in pr&00E6;fat. de Princip. Europ.</aq></fn> könte man einen Wechselsatz
+nennen: dann wann man die ersten Wort/ <fr>auf</fr>
+<bs>D ij</bs><cw><fr>folgende</fr>)</cw>
+<pb="52"/>
+<kt>Die vierdte Stund.</kt>
+<fr>folgt</fr>) und die letzten zwey (<fr>Fleiß und Preiß</fr>)
+unverändert auf solcher Stelle behält/ können die
+andern Wörter 39916800/ da&sr; ist/ neun und
+dreissig tausend malt ausend/ neunhundert und
+sechzehentausend/ und achthundert mal versetzet
+werden/ zu welcher Veränderung der allerfertig-
+ste Schreiber/ der täglich 1200 Zeile abschriebe/
+gantze 91. Jahre/ und 49 Tage würde haben
+müssen: wolte man aber die Reimwort <fr>Fleiß/
+Preiß/</fr> auch versetzen/ und <fr>Krieg</fr> und <fr>Sieg</fr>
+darfür gebrauchen/ so kan man noch etlich tau-
+send mal öfter wechseln.</p>
+<p>2. Wir wollen aber die Handlung von den
+Reimarten beginnen von den zweysyllbig&te; Wör-
+tern/ welche # sind/ und diese Stund handlen</p>
+<li>1. von den langkurtzen #@ Reimart&te;@ <aq>Trochaic&tu;@ genu&sr;.</aq></li>
+<li>2. von den kurtzlangen #@ @ <aq>Iambicum</aq>@</li>
+<li>3. von d&te; l&ta;ggekürtzt&te; #@ @ <aq>Dactylic&tu;</aq>@</li>
+<li>4. gekürtztlangen #@ @ <aq>Anap&0119;stic&tu;</aq>@</li>
+<p>Wir haben zwar auch dopellange # (<aq>Spon-
+d&00E6;o&sr;</aq>) und dopelkurtze # (<aq>Pyrrichio&sr;</aq>) aber nie-
+mal&sr; in einem Wort allein; sondern alle zwey-
+syllbige Stammwörter sind langkurtz/ oder wer-
+den durch die Vorsyllben kurtzlang/ wie die Ex-
+<c>empel/ so hier und dar angezogen/
+sattsam bezeugen.</c></p>
+<cw><b>Ant-</b></cw>
+<pb="53"/>
+<kt>Die vierdte Stund.</kt>
+<d2><b>Anmerkung.</b></d2>
+<p>Jn den folgenden Tafeln ist <aq>I.</aq> zu merken die
+<fr>Anzahl der Syllben</fr> in ieder Reimzeil/ und
+werden alle ungemischte Abmessungen hierauß
+zu erlernen seyn: massen <aq>II.</aq> beygefüget ist einer
+ieden <fr>Syllben Lang-</fr> oder <fr>-Kurtzlaut/</fr> nach-
+dem sie allhier gesetzet/ und also zu theilen/ daß zu
+Anfang ieder Zeile die Abmessung der - langen
+und # kurtzen Syllben wiederholet werden muß.
+<aq>III.</aq> Jst die Höhe und Tieffe/ oder <fr>steigende</fr> und
+<fr>fallende Endung</fr> durch die Noten bedeutet/
+welche in den Liedern grossen Nutzen hat; Gestalt
+der Text/ wann er kunstrichtig unter eine Melo-
+bey geleget werden sol/ ohne diese Beobachtung
+nicht vernemlich und wolklingend kommen kan:
+ja e&sr; sollen die Lieder in allen Gesetzen/ oder Sa-
+tzen gleiche Bindung haben/ daß/ wo ich in dem
+ersten Satz einsyllbige Wörter gebraucht/ in den
+folgenden gleich&sr;fal&sr; einsyllbige Wörter halten
+soll, wo ich zweysyllbige geordnet/ durch alle Sä-
+tze zweysyllbige bringe. Diese&sr; wird von denen/ so
+der Music kundig sind/ leichtlich verstanden wer-
+den/ dann die Syllben werden anderst nach der
+Reimkunst/ und anderst nach der Music ümge-
+wechselt; jene&sr; haben die Griechen # und
+#, diese&sr; # und # genennet.</p>
+<bs>D iij</bs><cw>3. <fr>Ta-</fr></cw>
+<pb="54"/>
+<kt>Die vierdte Stund.</kt>
+<d3><aq>I.</aq>
+<fr>3. Tafel der langkurtzen # Reim-
+arten.</fr></d3>
+<tab>
+<p>4. Die zwey-drey- und viersyllbige langkürtz-
+te Reimarten können füglich für sich kein gantze&sr;
+Gedicht machen/ werden aber andern unte&rr;men-
+get/ wenn man in grossen Trauren gleichsam ei-
+ne gebrochne Stimm bilden wil: al&sr; wann dor-
+ten Sireno in der neuaufgelegten schönen Dia-
+na <fn="*">1. Theil Blat 65.</fn> klaget:</p>
+<cw>Jst</cw>
+<pb="55"/>
+<kt>Die vierdte Stund.</kt>
+<tab>
+<poem><abb>
+<fr>Jst da&sr; Scheiden zu vermeiden?</fr>
+<abb>
+<fr>Nein: Ach nein!</fr>
+<abb>
+<fr>Muß ich leiden nach den Freuden</fr>
+<abb>
+<fr>Tausendpein?</fr></poem>
+<bs>D iiij</bs><cw><fr>Der</fr></cw>
+<pb="56"/>
+<kt>Die vierdte Stund.</kt>
+<poem><abb>
+<fr>Der ich sonst mithöchsten Freuden/</fr>
+<abb>
+<fr>Dich Diana/ meine Zier/</fr>
+<abb>
+<fr>anzuschauen mit Vertrauen/
+Dir zu klagen
+meine Plagen/
+vielmal&sr; mich befunden hier/
+komm ietzt leider dir zusagen/
+daß ich scheiden muß von dir/ &rr;c.</fr></poem>
+<p>Sie antwortet:</p>
+<poem><abb>
+<fr>Schweigen
+muß von meinen Schmertzen zeugen.</fr>
+<abb>
+<fr>Weh und Ach
+dienet leider nicht zur Sach &rr;c.</fr></poem>
+<p>5. Die sieben- und <fr>achtsyllbige</fr> Reim-
+arten sind gemein/ und zu den Liedern zu gebrau-
+chen. Unter den folgenden ist die 15 und 16 syll-
+bige Reimung die allerfüglichste zu Erzehlung
+eine&sr; Ding&sr;/ und pfleget auch also mit einem Ab-
+schnitt geordnet zu werden/ daß sie nach der sie-
+benden und achten Syllben da&sr; Wort endiget/
+aber mit dem folgenden nicht reimet.</p>
+<cw>also:</cw>
+<pb="57"/>
+<kt>Die vierdte Stund.</kt>
+<p><c>also:</c></p>
+<poem>1 2 3 4 5 6 7 8
+<abb>
+<fr>E&sr; fährt unser Geist verdüstert )(
+durch den dicken Erdenstaub )(</fr>
+9 10 11 12 13 14 15.
+<abb>
+<fr>und der Leib wird aufgekläret
+durch de&sr; blassen Tode&sr; Raub:</fr>
+1 2 3 4 5 6 7 8
+<abb>
+<fr>gantz gereinigt/ GOTT vereinigt/ )(
+ferne von der Menschen Klagen/</fr>
+9 10 11 12 13 14 15 16
+<abb>
+<fr>gantz</fr> erneuet/ <fr>gantz</fr> erfreuet/ )(
+<fr>schöner/ al&sr; wir können sagen.</fr></poem>
+<p>6. Wann der Reim in den ersten 8. Syllben
+miteingebracht werden kan/ ist e&sr; eine sondere
+Zier in dieser Art. Der Abschnitt mit )(
+bemerkt/ ist den 9 und 10 syllbigen Reimzeilen
+fast unnöhtig/ bey den mehrsyllbigen aber nach
+<c>deß Dichter&sr; Willen anzuordnen/
+wie folgen sol.</c></p>
+<hr>
+<bs><fr>D v</fr></bs><cw><b>7. Ta-</b></cw>
+<pb="58"/>
+<kt>Die vierdte Stund.</kt>
+<d3><aq>II.</aq>
+<b>7. Tafel der kurtzlangen # Reimarten.</b></d3>
+<tab>
+<p>8. Hier ist wiederüm zu wissen/ daß die zwey-
+drey- oder viersyllbigen Reimarten kein gantze&sr;
+Gedicht machen/ wiewol man zu Zeiten in den
+Bilderr eimen derselben gebrauchet/ u&tn; zwischen
+andere zu setzen pfleget. Zum Exempel:</p>
+<cb>
+<poem><abb>
+<fr>Seh ich
+dann dich
+noch nicht/
+mein Liecht?</fr></poem>
+<cb>
+<poem><abb>
+<fr>Wir wissen
+zu schliessen/
+wa&sr; ihnen
+kan dienen.</fr></poem>
+<cw>Also</cw>
+<pb="59"/>
+<kt>Die vierdte Stund.</kt>
+<tab>
+<p>Also gebraucht sich Her&rr; Opitz seeliger der
+viersyllbigen; <fr>Da&sr; Mündlein von Corallen</fr></p>
+<poem><abb>
+<fr>wird ungestalt/
+die Händ&2019; al&sr; Schnee verfallen/</fr>
+<abb>
+<fr>und du wirst alt.</fr></poem>
+<p>9. Die fünfsyllbigen sind wenig gebräuch-
+lich. Die sech&sr;- und siebensyllbig&te; haben der alten
+<cw>Po-</cw>
+<pb="60"/>
+<kt>Die vierdte Stund.</kt>
+Poeten Gebände geschlossen oder schliessen sol-
+len/ wie in der <aq>III.</aq> Stund bey dem 20. § oder Ab-
+satz zu ersehen. Wann die siebensyllbigen allein
+stehen/ so können sie die Wörter zierlich wieder-
+holen/ also:</p>
+<poem><fr>Hier hält man mich</fr> gefangen/
+gefangen und gebunden/
+gebunden mit <fr>Verlangen</fr>
+zu <fr>heilen meine Wunden.
+Mein Weinen und mein</fr> Klagen/
+<fr>Mein</fr> Klagen <fr>und Verzagen/
+ist gleich den Höllenplagen.</fr></poem>
+<p><aq>I.</aq> Die achtsyllbigen gebraucht Herr Opitz
+in dem 100. Psalm.</p>
+<poem><abb>
+<fr>Der HErr ist freundlich iederzeit/
+die Wolthat wärt in Ewigkeit.
+Die Treu/ der wir versichert&007C; sind/
+verbleibt auf Kinde&sr;-Kinde&sr;kind.</fr></poem>
+<p>Also bedient er sich auch der neunsyllbigen:</p>
+<poem><abb>
+<fr>Getreue Liebe kan nicht wanken/
+hat ihren Sinn/ Mut und Gedanken.</fr></poem>
+<p><aq>II.</aq> Die <fr>zehensyllbige</fr> und folgende Reimar-
+ten haben einen Abschnitt/ welcher in&sr; gemein
+nach gleichen Syllben gehalten wird/ also:</p>
+<cw>Wie</cw>
+<pb="61"/>
+<kt>Die vierdte Stund.</kt>
+<cit><poem><abb>
+<fr>Wie ist und bleibt dein Zeugniß immerdar
+O HEr&rr;/ O Gott/ so g&ta;tz gewiß u&tn; wah&rr;!</fr></poem>
+<c>Opitz Psal. 93.</c></cit>
+<p>Diese Verse werden gemeine Versogenennet/
+und mit folgenden eilfsyllbigen gewechselt.</p>
+<poem><abb>
+<fr>HErr unser Gott/ du Schutzher&rr; al-</fr>
+<abb>
+<fr><et>ler Armen/</et>
+du wirst nunmehr dich meiner auch er-
+<et>barmen.</et></fr></poem>
+<p>12. Jn den <fr>zwölff-</fr> und <fr>dreyzehensyllbi-
+gen</fr> Reimarten muß der Abschnitt )( oder Ab-
+schritt nach der sechsten Syllben auf ein <fr>Zeit</fr> o-
+der <fr>Nenn</fr>wort gerichtet werden/ sonst wird der
+Ver&sr; ohne Lieblichkeit/ und Wollaut seyn. Zum
+Exempel:</p>
+<poem><abb>
+<fr>Kunst lernet man durch Kunst/ Kunst</fr>
+<abb>
+<fr>wird durch Gunst gelehret.</fr>
+<abb>
+<fr>Doch darf deß Dichter&sr; Si&tn;/ Erfin-</fr>
+<abb>
+<fr>dung und Gedicht
+ein Gott ergebne&sr; Hertz &rr;c.</fr></poem>
+<cw><b>13. Ta-</b></cw>
+<pb="62"/>
+<kt>Die vierdte Stund.</kt>
+<d3><aq>III.</aq>
+<b>13. Tafel der langgekürtzten #
+Reimarten.</b></d3>
+<tab>
+<p>14. Der <aq>Dactylu&sr;,</aq> oder da&sr; langgekürtzte
+Reimmaß wird auf zweyerley Weise zu Werke
+gebracht. <aq>I.</aq> durch ein dreysyllbige&sr; Wort/ al&sr;:</p>
+<poem><abb>
+<fr>friedliche guldene/</fr>
+<abb>
+<fr>Tngenden.</fr></poem>
+<p><aq>II.</aq> durch ein zweysyllbige&sr; Wort/ welchem eine
+kurtze Syllbe folget/ al&sr;:</p>
+<poem><abb>
+<fr>schauet/ e&sr; kommen gehasset und &rr;c.</fr></poem>
+<pb="63"/>
+<kt><b>Die vierdte Stund.</b></kt>
+<tab>
+<p>Welche aber <aq>III.</aq> einsyllbige Wörtlein haben/ al&sr;:</p>
+<poem><abb>
+<fr>daß e&sr; auch/ wann wir nun/ ist e&sr; der</fr></poem>
+<p>und dergleichen machen einen falschen <aq>Dactv-
+lum,</aq> oder langgekürtzten Dreysyllber sowol auch
+wann da&sr; letzte Wort ein mehrsyllbige&sr; erlan-
+get/ und zwey einsyllbige vorhergehen; al&sr;:</p>
+<poem><abb>
+er hat gele<fr>bet/</fr> wann wir be<fr>trach</fr>ten/
+<abb>
+e&sr; wird zer<fr>gehen.</fr></poem>
+<cw><aq>IV.</aq></cw>
+<pb="64"/>
+<kt><b>Die vierdte Stund.</b></kt>
+<d3><aq>IV.</aq>
+<b>15. Tafel der gekürtztlangen #
+Reimarten.</b></d3>
+<tab>
+<p>Diese Reimmart kan man auch also abmessen:</p>
+<poem><abb>
+<fr>Die&007C; Waffen ver-&007C; rosten/ wir&007C; kosten die</fr>
+<abb>
+<fr>friedliche &007C; Freudenzeit.</fr></poem>
+<p>16. Jn besagter und vorhergehender Reim-
+art ist die gröste Zier/ wann man mitten in dem
+<cw>Ver&sr;</cw>
+<pb="69"/>
+<kt><b>Die vierdte Stund.</b></kt>
+<tab>
+Ver&sr; die Reimwort häuffen kan/ zum Exempel
+kan seyn der Echo in dem <aq>V.</aq> Theil der Gespräch-
+spiele/ am 283. Blat.</p>
+<p>17. E&sr; sind aber diese jüngst erfundne Reim-
+gebände nur zu Beschreibung lustiger Händel zu
+gebrauchen/ zur Aufmunterung zu Lobgedicht&0113;/
+und Reimliedern/ keine&sr; Weg&sr; aber zu traurigen
+Erzehlungen/ Lehrgedichten und dergleichen.</p>
+<bs>E</bs><cw><aq>IV.</aq></cw>
+<pb="70"/>
+<kt><b>Die vierdte Stund.</b></kt>
+<d2><aq>IV.</aq></d2>
+<p>18. Wann man der Dactylischen Reimzei-
+le ein Syllben vorsetzet/ so wird ein <aq>Antidactyli-</aq>
+sche&sr;/ <aq>Anap&00E6;sti</aq>sche&sr;/ oder <fr>gekürtztlange&sr;</fr>
+Reimmaß darauß/ wie au&sr; nechstvorhergesetzter
+Tafel zu ersehen. Viel wollen e&sr; für keine abson-
+derliche Reimart gelten lassen/ weil e&sr; nur die er-
+ste Sylben von den Dactylischen unterscheidet;
+e&sr; ist aber zu wissen/ daß auch eine kurtze vorge-
+setzte Sylben au&sr; den # langkurtzen Reimar-
+ten # kurtzlange Reimarten machet/ al&sr;:</p>
+<poem><abb>
+<fr>Tugend heget Neid/</fr>
+<abb>
+<fr>die Tu gend he get Neid.</fr></poem>
+<p>Wie nun die zweysyllbigen Reimarten zu un-
+terscheiden/ also müssen auch die mehrsyllbigen
+gesondert werden.</p>
+<d3><b>Anmerkung.</b></d3>
+<p><fr>Wolte man den Ton diese&sr; gekürtztlan-
+gen Reimmasse&sr; genauer au&sr;forschen/
+so müste man sagen/ daß/ so zu Anfang
+niemal&sr; kein Stammwort/ sondern ie-
+de&sr;mal&sr; eine Vorsyllben stehen könte.
+Weil diese Reimart flüchtig/ könte man
+auch also setzen:</fr></p>
+<cw><fr>Die</fr></cw>
+<pb="71"/>
+<kt><b>Die vierdte Stund.</b></kt>
+<poem><abb>
+<fr>Die Waffen verrosten/ wir kosten &rr;c.</fr></poem>
+<p><fr>Uber diese sechzehende Syllbenzahl ist
+nicht zu schreiten/ weil auch deß Menschen
+Stimme/ ohne Zwang/ über 16. Töne/ oder
+zwo Octaven nicht sïngen kan: und e&sr; so-
+wol ungestalt ist/ wann einer gar zu klein/
+al&sr; wann er gar zu grob ist.</fr></p>
+<pt><c>19. Echo:</c></pt>
+<poem><fr><in>H</in>Oeret mich Tochter der</fr> Grüfften <fr>in</fr>
+<et>Lüfften <fr>erschallen!</fr></et>
+<fr>Höret</fr> bewegen <fr>und</fr> hegen <fr>der Gegenstimm
+<et>Hallen!</et>
+Sehet von</fr> ferne der Sterne <fr>blankblinkende
+<et>Flammen &rr;c.</et></fr></poem>
+<p>Da die Reimwort <fr>Grüfften/ Lüfften/ bewe-
+gen/ hegen/ ferne/ Sterne/</fr> wie auch andere
+Wörter/ die nicht reimrichtig sind/ füglich zu-
+sammengegattet werden können.</p>
+<p>Hier ist zu merken: daß diese Verse nicht wollen
+die Meinung zertheilen lassen/ und lautet nicht:</p>
+<poem><fr>E&sr; triefen der schwangeren Wolken Ge-
+<et>rüchte</et>
+vom Himmel/ e&sr; sprossen die reiffenden
+<et>Früchte &rr;c.</et></fr></poem>
+<bs>Eij</bs><cw>besser</cw>
+<pb="72"/>
+<kt>Die vierdte Stund.</kt>
+<p>besser klingt e&sr; also:</p>
+<poem><fr>E&sr; trieffet vom Himmel der Wolken Ge-
+<et>rüchte/</et>
+e&sr; schossen und sprossen die reiffenden
+<et>Früchte.</et></fr></poem>
+<p>20. Diese zwo letzere Reimarten werden
+füglich zusammengesetzet/ und miteinander ver-
+mischet/ doch ist hierinnen zu sehen/ wa&sr; in diesen/
+wie allen andern/ lieblich lautet/ also:</p>
+<poem><fr>Allmächtiger/ ewigbarmhertziger Gott:
+die Engel erwarten dein Gnadengebot;
+die feurigen Flammen
+singen/ und klingen/ und sti&tm;en zusa&tm;en:
+heilig/ O heilig/ O heilig ist Gott!
+der HERR ZEBAOTH.
+Dich Schöpfer der himmlisch-und irdi-
+<et>schen Heeren</et>
+ehren der Thronen
+leuchtende Kronen:
+Sie jauchtzen dem HERREN der
+<et>Her&rr;en zu Ehren.</et></fr></poem>
+<p>Diese&sr; Lied ist zu lesen in dem Anhang deß <aq>IV.</aq>
+Theil&sr; der Gesprachspiele.</p>
+<p>21. Man findet auch diese springende Reim-
+art auf mehr Syllben erlängert; weil aber keine
+Zeil in einem Odem wol au&sr;gesprochen werden
+kan/ verlieren sie ihre eigentliche Flüchtigkeit/ u&tn;
+<cw>sind</cw>
+<pb="73"/>
+<kt>Die vierdte Stund.</kt>
+sind nicht so lieblich/ wie sonsten. Wir wollen ein
+Exempel der sechzehensyllbigen/ au&sr; dem ersten
+Theil der Pegnitzschäferey am 43. Blat/ hieher-
+setzen.</p>
+<poem><fr>Viererley Ströme durchgiessen die rund-
+<et>lichümfangene Welt.</et>
+Viererley Winde durchstreichen da&sr;
+<et>schwülstige Segelgezelt.</et>
+Viererley guldene Ringe verfasten die
+<et>Arche de&sr; Bunde&sr;.</et>
+Viererley Schreiber bemerkten die Rede
+<et>de&sr; Göttlichen Munde&sr;.</fr> <fn="&2020;">4 <aq>Evangelist&00E6;.</aq></fn></et>
+<fr>Viererley Theile de&sr; Himmel&sr;</fr><fn="*">4 <aq>Plag&00E6; mundi.</aq></fn> die <fr>liebli-
+<et>che Sonne bestralt.</et>
+Viererley Könige haben die mächtigsten</fr>
+<et><fr>Reiche bepfalt.</fr><fn="&2020;">4 <aq>Monar-
+chi&00E6;.</aq></fn></et>
+<fr>Viererley Theile der Erden hat jüngsten
+<et>Columbu&sr; ümfahren.</et>
+Viererley Künste</fr> <fn="*">4 <aq>Facultate&sr;.</aq></fn> <fr>vermehren mit Ehren
+<et>de&sr; Helicon&sr; Scharen.</et></fr></poem>
+<d3><b>Anmerkung.</b></d3>
+<p>Der Leser/ welcher sonsten in der Poeterey
+keinen Anfang hat/ geruhe diese Stund noch-
+mal&sr; zu durchlesen/ und sein <fr>U</fr>rtheil hiervon/ bi&sr;
+zu endlichem Schluß deß Anhang&sr;/ zu rucke zu
+<bs>E iij</bs><cw>hal-</cw>
+<pb="74"/>
+<kt>Die vierdte Stund.</kt>
+halten: Massen er al&sr;dann sehen wird/ daß die-
+se Sachen alle aneinanderhangen/ und zugleich
+nicht mögen begriffen werden/ er beliebe auch die
+Vor- und Nachsyllben zu bemerken/ wie sie jede&sr;-
+mal kurtz zu stehen kommen.</p>
+<hr>
+<d1><b>Die <aq>V.</aq> Stund.
+Von Veränderung der Reimarten.</b></d1>
+<p><in>A</in><fr>U</fr>&sr; besagten vier Haubtarten der
+Teutschen Reimgebände können
+noch fast unzähliche andere gese-
+tzet werden: in welchen nicht die sel-
+tzame Veränderung zu betrachten/
+sondern welche&sr; Gebänd in den Ohren wol klin-
+get <fn="*"><aq>Scal. l. 2. Po&00EB;t. c. 24. in connexione metri, attende
+inprimi&sr; concinnitatem.</aq></fn>/ und der Eigenschaft unsrer Sprache nicht
+zuwiderlauft. Man kan die Griechischen und
+Lateinischen Ver&sr;arten leichtlich nachkünste-
+len aber nicht ohne Mißlaut. Wir wollen hier
+etlicher weniger gedenken/ und zwar</p>
+<li><aq>I.</aq> <fr>Wie die Gebände durch den Abschnitt
+verändert werden können.</fr></li>
+<li><aq>II.</aq> <fr>Wie die Gebände von unterschiedli-
+chen Reimmassen geschlossen wer-
+den.</fr></li>
+<cw><aq>III.</aq> <fr>Wie</fr></cw>
+<pb="75"/>
+<kt>Die fünffte Stund.</kt>
+<li><aq>III.</aq> <fr>Wie die Gebände durch die Reimwör-
+ter verändert werden.</fr></li>
+<li><aq>IV.</aq> <fr>Wie die Schluß- oder Endreimen in
+den Liedern/ auf unterschiedliche
+Weise/ zu wechslen sind.</fr></li>
+<p>2. Der Abschnitt ist erfunden wegen der langen
+vielsyllbigen Reimzeilen/ die zu Erzehlung einer
+Sache meinstentheil&sr; gebrauchet werden/ und in
+den Tafeln bemerket mit )(. Also sagt Opitz in
+der 5. Handlung/ im 2. Aufzug seiner Judith.</p>
+<cit><poem><fr>Sehet/ wie der Holofern )( sein beschwer-
+<et>te&sr; Haubtläst sinken!</et>
+und die Helden stehen auf/ )( satt vom Es-
+<et>sen/ laß vom Trinken &rr;c.</et>
+Freylich haben wir gefehlet: )( doch die
+<et>Hand/ die siegen kan/</et>
+nimmet auch/ die sich ergeben/ )( wieder-
+<et>üm zu Gnaden an.</et></fr></poem></cit>
+<p>Wann sich der Abschnitt mit einem Reimen
+schleust/ so wird diese Art lieblicher/ also:</p>
+<cit><poem><fr>Da die schlanke Pegnitz</fr> reiset <fr>durch den</fr>
+<et><fr>schönen Wiesen</fr>thal</et>
+<fr>und die trüben Fluten</fr> weiset/ <fr>so die Blu-</fr>
+<et><fr>men ohne</fr> Zahl</et>
+<fr>in den flachen Auen</fr> frischt/ <fr>da der Vogel</fr>
+<et><fr>lieblich</fr> finget/</et>
+<fr>da die Wollenherde</fr> tischt/ <fr>und mein</fr>
+<et><fr>Schäferspiel</fr> erklinget/</et>
+<cw><fr>da</fr></cw>
+<pb="76"/>
+<kt>Die fünffte Stund.</kt>
+<fr>da die hohen Bäume</fr> schatten/ <fr>da da&sr; Bien-</fr>
+<et><fr>lein Blumen</fr> bricht/</et>
+<fr>da die stummen Fische</fr> gatten/ <fr>und der Fi-</fr>
+<et><fr>scher Reusen</fr> richt/</et>
+<fr>da die kleine Mucke</fr> su&tm;t/ <fr>und die fal-</fr>
+<et><fr>schen Angel</fr> schwimmen/</et>
+<fr>da so manche Mühle</fr> bru&tm;t/ <fr>und die Hir-</fr>
+<et><fr>ten Pfeiffen</fr> stimmen/</et>
+<fr>da spatziert&2019; ich &rr;c.</fr></poem></cit>
+<p>3. E&sr; sind aber diese&sr; eigentlich sieben- und
+achtsyllbige langkurtze Verslein/ in eine Zeile ge-
+setzet/ und sind zum Singen/ wie die ungereimten
+zu der Erzehlung/ gebräuchlich/ weil solche der
+Melodey/ jene der ungebundenen Rede nachah-
+men. Also setzet man auch kurtzlange mit einem
+Abschnitt:</p>
+<poem><fr>De&sr; Menschen kurtze&sr; Leben/ )( verrau-
+<et>chet wie der Wind/</et>
+und wie die falben Blumen/ )( die in den
+<et>Auen sind.</et></fr></poem>
+<p>4. Nicht minder&sr; kan die Dactylischen und
+Anapaestischen ein Abschnitt unterbrechen.</p>
+<poem><fr>Welche Verlangen betrübt/ )( werden mit
+<et>Leiden geübt.</et></fr></poem>
+<p>Oder ungereimt:</p>
+<poem><fr>Traget im Hertzen Gedult: )( ringet zur
+<et>ewigen Freude.</et></fr></poem>
+<cw>Ge-</cw>
+<pb="77"/>
+<kt>Die fünffte Stund.</kt>
+<p>Gekürtztlang:</p>
+<poem><fr>Da&sr; nichtige Wesen vergeht/ die Tugend
+<et>bestehet allein.</et></fr></poem>
+<p>5. Also kan man auch einen Abschnitt nach
+der dritten Syllben machen:</p>
+<poem><fr>Wann der Fried )( alle Waffen machte
+<et>rosten</et>
+fielen sie )( von den alterfaulten Pfosten.</fr></poem>
+<p>Wie nun der erste Satz Anfang&sr; geordnet
+wird/ müssen alle andere auch gebunden werden.</p>
+<d2><aq>II.</aq></d2>
+<p>6. Ferner&sr; werden die Gebände von unter-
+schiedlichen Reimmassen zusammengefüget/ un-
+ter welchen die zierlichsten von kurtzlangen und
+gekürtztlangen/ oder Jambischen und Anapästi-
+schen geschlossen werden/ dann diese beede # und
+# eine grosse Verwandschaft haben; nemlich
+nur mit Vorsetzung einer kurtzen Syllben unter-
+schieden werden/ wie oben gemeldet.</p>
+<p>7. Gleichergestalt sol man zu den langkur-
+tzen # die langgekürtzten # setzen/ wegen besag-
+ter <fr>U</fr>rsache/ weil nur eine kurtze <fn="*"><aq>Scal. l. 2. Po&00EB;t. c.</aq> 34.</fn> Syllbe ange-
+füget wird. Daß aber etliche ohne <fr>U</fr>nterscheid&q;
+# zu # setzen/ beschicht sonder Grund/ und ist&q;
+dergleichen noch in den Haubtsprachen/ noch&q;
+in allen andern befindlich. E&sr; stehet mir frey in&q;
+<bs>E v</bs><cw>eine</cw>
+<pb="78"/>
+<kt>Die fünffte Stund.</kt>
+&q;eine andere Reimart zu fallen/ darinnen weni-
+&q;ger oder mehr Syllben sind/ nach Begebenheit
+&q;und Füglichkeit deß Jnhalt&sr;: wann ich aber
+&q;mit langekürtzten angefangen/ so muß ich dar-
+&q;bey verbleiben/ e&sr; ändere sich dann die gantze
+&q;Sache/ so kan ich zugleich auch eine andere
+&q;Reimart beginnen. Diese Art wird in den Er-
+zehlungen/ und zu Vorstellungen einer grossen
+Bet&rr;übniß/ ode&rr; beweglich&te; Vermahnung schick-
+lichst angebracht; wann sonderlich andere Reim-
+arten/ wie in den Trauer- und Freudenspielen ge-
+bräuchlich/ vor- oder nachgesetzet werden. Weil
+diese&sr; noch neu/ und von den Jtalianern/ Frantz-
+osen/ u&tn; Spaniern abgesehen/ müssen wir/ zu bes-
+serer Nachrichtung/ ein Exempel setzen; u&tn; zwar
+die Rede deß Patriarch&te; Noe/ welche er vermut-
+lich an die erste Welt diese&sr; Jnhalt&sr; gethan:</p>
+<cit><poem><fr>Hört/ Gott&sr;vergessne sichre Sünder!
+Hört/ ihr Cain&sr; Greuelkinder!
+Hört meine Stimm;
+ja nicht bloß meine Stimm:
+deß höchsten GOtte&sr; Grimm!
+Jhr Jäger/ die ihr treibt da&sr; ungerechte
+<et>Recht/</et>
+und fahrt mit Frevelmut/
+vergeust der Armen Blut/
+gleich einer Wasserflut/</fr>
+<cw><fr>und</fr></cw>
+<pb="79"/>
+<kt>Die fünffte Stund.</kt>
+<fr>und zwingt den freyen Mann/ wie den er-
+<et>kaufften Knecht/</et>
+ihr hohen Häubter in dem Hauffen/
+bald/ bald werdt ihr gesamt ersauffen.
+Wolluster/ Pövel ohne Zucht/
+der du dich Tagund Nacht füllst mit dem
+<et>Freudenwein/</et>
+die Straffe soll auch gleich der toll&te; Sün-
+<et>deseyn.</et>
+Du wirst ersäuffet werden in der Flucht.
+E&sr; wird der Lüste Feuerglut
+erleschen die gesaltzne Flut.
+Ach! Gott muß über euch ergrimmen.
+Die eisenharte Stirn
+<et>wird er erweichen.</et>
+Die Arme/ so ümarmen manche Dirn/
+die werden bald auf Berg&2019; und Bäume
+<et>klimmen/</et>
+ja schwimmen/ aber nichtentschwimmen/
+da&sr; Wellengrab
+bedecken alle Leichen
+im Schwanken auf und ab.
+Da&sr; Holtz/ da&sr; schwache Holtz wird Tod
+<et>und Leben schalten/</et>
+mich und mein Hau&sr; erhalten;</fr>
+<cw><fr>und</fr></cw>
+<pb="80"/>
+<kt>Die fünffte Stund.</kt>
+<fr>und ihr/ die ihr bi&sr;her habt diesen Bau
+<et>verspottet/</et>
+euch/ ohne Reu und Scheu/
+oft wider mich ger ottet/
+müst bald mit Ja&tm;er/ Angst und Kla-
+<et>gen</et>
+verzagen und verderben in den Plagen.
+Da&sr; eingeschrenkte Meer wird wallen
+<et>fremde Bahn/</et>
+die Quellen werden Wellen werden/
+deß Himmel&sr; Fenster aufgethan/
+die Wolken sich au&sr;schütten auf die
+<et>Erden/</et>
+zu trügen euren sicherkühnen Wahn.
+Schaut doch da&sr; Zeichen/ wie da&sr; Thier/
+erschreckt vor Warten solcher Dingen/
+sich findet nach und nach zu mir!
+die Wilden wohnen nechst den Zahmen
+behaltend jener Nachwelt Samen:
+und ihnen sol e&sr; auch vor euch gelingen:
+dann ihr/ ihr sündigt für und für/
+ja ärger al&sr; die thummen Thier&2019;.
+ihr har&rr;t auf langgeschändten Sünden-
+<et>wegen/</et>
+die Strafferuten ruhet für der Thür&2019;.
+Ach ja! e&sr; braust da&sr; Meer: e&sr; platschert
+<et>schon der Regen &rr;c.</et></fr></poem></cit>
+<cw>Hier-</cw>
+<pb="81"/>
+<kt>Die fünffte Stund.</kt>
+<p>Hier auß könte ein verständiger Mahler ein
+schöne&sr; Gemähl bilden.</p>
+<p>8. Aller Veränderungen zu gedenken/ welche
+in den Reimgebänden befindlich sind/ ist nicht
+vonnöhten/ wir wollen von etlichen sagen/ und
+den Gelehrten da&sr; Nachsinnen überlassen. Au&sr;
+dem langkurtzen und langgekürtzten werden die
+Sapphischen Verse (aber ohne Abschnitt/ weil
+wir kein dopelte&sr; Wort/ oder # <aq>Pyrrichium,</aq>
+nicht haben) also gesetzet:</p>
+<poem><abb>
+<fr>Hört die Sappho liebliche Lieder singen!</fr>
+<abb>
+<fr>schaut die holden Nymphen in Au&te; sprin-
+<et>gen!</et></fr>
+<abb>
+<fr>Phoebu&sr; selbsten liebet die freyen Lieder/</fr>
+<abb>
+<et><fr>singet sie wieder.</fr></et></poem>
+<p>Diese&sr; Gebänd kan füglicher also geordnet wer-
+den:</p>
+<poem><abb>
+<fr>Höret die Sappho neue Lieder singen!</fr>
+<abb>
+<fr>schauet die holden Nymphen freudig
+<et>springen!</et></fr>
+<cw><fr>Phoe-</fr></cw>
+<pb="82"/>
+<kt>Die fünffte Stund.</kt>
+<abb>
+<fr>Phoebu&sr; vor allen liebt die schönen Lied&2019;/</fr>
+<abb>
+<et><fr>singet sie wieder.</fr></et></poem>
+<p><c>Oder:</c></p>
+<poem><fr>Lasset den Hirten
+Rosen und Myrten/
+Pflüge/ Küh/ Ochsen u&tn; Bäurische&sr; leb&te;:
+Bacchu&sr;-Soldaten
+wissen zu rahten/
+klugen Regenten zu nehmen und geben.</fr></poem>
+<p>Also machen die # durch und durch da&sr;
+erste Reimmaß. E&sr; stehet aber dem Dichter frey
+da&sr; letzte Ver&sr;lein mit dem ersten/ zweyten oder
+dritten zu reimen/ oder nach der vierdten und
+fünften Zeil zu setzen/ iedoch daß die Sätze alle
+gleichreimend zu stehen kommen.</p>
+<p>9. Also kan man auch kurtze/ und lange Reim-
+zeilen mit dergleichen Abwächslung verändern.</p>
+<poem><abb>
+<fr>Unser flüchtige&sr; Leben
+wil in Eitelkeit schweben.</fr></poem>
+<p><c>Oder:</c></p>
+<poem><fr>Nunmehr finden sich zam&2019; und schüch-
+<et>tere Thiere/</et>
+Wälder-/ Feldergestäud&2019;/ und grunende
+<et>Ziere/</et></fr>
+<cw><fr>Fische</fr></cw>
+<pb="83"/>
+<kt>Die fünffte Stund.</kt>
+<fr>Fische schnaltzen hier/ Vögel schwe-
+<et>ben empor/</et>
+bringend mancherley neue Freuden
+<et>hervor.</et></fr></poem>
+<p><c>Oder:</c></p>
+<poem><fr>Nun</fr> lasset den Hirten
+<fr>die</fr> Rosen und Myrten/ <et>&007C;Leben.</et>
+<fr>Pflug&2019;/</fr> Ochsen/ Küh&2019; hungen im Bäurischen
+<fr>Deß</fr> Bacchu&sr; Soldaten/
+<fr>die</fr> wissen zu rahten/
+<fr>und</fr> klugen Regenten zu nehmen und geben.</poem>
+<p>Hierau&sr; erhellet/ wa&sr; zuvor von Vorsetzung der
+Sylben gesaget worden.</p>
+<p>Solcherley Veränderung können unzehlich
+au&sr;gedacht werden/ haben aber/ ausser dem Ge-
+sang/ wenig Lieblichkeit/ e&sr; sey dann/ daß sie ih-
+rem Jnhalt sehr gemäß kommen/ und etwan der
+ungebundenen Rede beygefüget werden.</p>
+<p>10. Hinwiderüm wi&rr;d da&sr; kurtzlange # Reim-
+maß mit # gekürtztlangen zierlich untermi-
+schet/ daß also dieser Flüchtigkeit mit jener Lang-
+samkeit gleichsam unterbrochen wird/ also:</p>
+<poem><abb>
+<fr>Nun lobet den HERREN alle Heyden/
+erschallet u&tn; jauchtzt mit Hertzen&sr;freuden.
+Wer immer da&sr; Ende bedenkt/
+wird schwerlich mit Sünd&te; gekränkt.</fr>
+<cw><fr>Da&sr;</fr></cw>
+<pb="84"/>
+<kt>Die fünffte Stund.</kt>
+<abb>
+<fr>Da&sr; sundliche Wesen fähret dahin/
+Da&sr; Sterben ist unser bester Gewinn.</fr></poem>
+<p><c>Oder:</c></p>
+<poem><abb>
+<fr>E&sr; hat die Lentzenzeit )( die Felder und</fr>
+<abb>
+<fr><et>Wälder bekleidet</et>
+mit neubekleeter Weid die wöllichten Her-
+<et>den geweidet &rr;c.</et></fr></poem>
+<p>Zu dem Gesang ko&tm;en die gemischten Arten
+gar wol/ wie au&sr; folgendem</p>
+<p><c><fr>Loblied</fr>
+uon dem süssen Namen <g>JESV</g>/
+zu ersehen seyn wird.
+Jm Ton: <fr>Singen wir au&sr; Hertzengrund/ &rr;c.</fr></c></p>
+<pt><c>1.</c></pt>
+<pv><abb>
+<in>L</in>Jeblicher JES<fr>U</fr>/ hertzliche Wonn&2019;/
+Heiliger Heiland/ guldene Sonn&2019;.
+Höhester Her&rr;scher/ mächtiger GOtt/
+welcher erlitten Marter und Spott/
+willig vergossen Threnen und Blut/
+allen erworben himmlische&sr; Gut/
+giebe zu singen brünstigen Mut!</pv>
+<cw>2. Gü-</cw>
+<pb="85"/>
+<kt>Die fünffte Stund.</kt>
+<pt><c>2.</c></pt>
+<pv>Gütiger JES<fr>U</fr>/ Abraham&sr; Sam/
+Zebaoth/ Zemah/ <fn="<aq>a</aq>">Hagg. 2/8.</fn> tröstlichster Nam.
+Seelenhirt/ <fn="<aq>b</aq>">Os. 23/1.</fn> Artzt/ der Höllen die Pest/ <fn="<aq>c</aq>">Os. 13/14.</fn>
+Erster und Letzter <fn="<aq>d</aq>">Of. Joh. 1/8.</fn> ewig gewest/
+Freude der Hertzen/ wehrtester Gast/
+welcher un&sr; löst von knechtischer Last/
+schaffe dem Sünder ewige Rast.</pv>
+<pt><c>3.</c></pt>
+<pv>Gnädiger JES<fr>U</fr>/ Friedenfürst/ Heil/
+Glauben&sr;grund/ unsre&sr; Kirchenbau&sr; Seul&2019;/
+König der Ehren/ mächtig von Raht/ <fn="<aq>e</aq>">Esa. 9/8.</fn>
+Wundersam/ Held/ lebendiger Pfad. <fn="<aq>f</aq>">Joh. 14/6.</fn>
+Welcher dich liebet/ hasset die Welt/
+achtet für eitel Reichthum und Geld/
+trachtend nach jenem himmlischen Zeit.</pv>
+<pt><c>4.</c></pt>
+<pv>Jungferkind/ <fn="<aq>g</aq>">Esa. 7/14.</fn> Warheit/ <fn="<aq>h</aq>">Joh. 14/6.</fn> völlige Macht/
+kommet durch dich vom Himmel <fn="<aq>i</aq>">Matth. 28/18.</fn> gebracht:
+Welcher dich brünstig ehret und liebt/
+bleibet von keinem <fr>U</fr>nfall betrübt.
+Helffer in Nöhten/ himmlische&sr; Brod/ <fn="<aq>k</aq>">Joh. 6/16.</fn>
+rette von Sünden/ wende die Noht/
+tröste die Kranken/ töde den Tod. <fn="<aq>l</aq>">Os. 13/14.</fn></pv>
+<bs>F</bs><cw>Schen-</cw>
+<pb="86"/>
+<kt>Die fünffte Stund.</kt>
+<pt><c>5.</c></pt>
+<pv>Schenke vom Himmel Göttliche Kraft/
+welche Betrübten Frölichkeit schaft.
+Giebe den Deinen Segen und Gnad/
+nimme weg unsre sündliche That/
+höre der Armen Flehen und Bitt/
+höre vom Himmel da&sr; hertzliche Lied/
+bringe HErr JES<fr>U</fr>/ den Frieden un&sr; mit!</pv>
+<p>11. So viel von den gemischten Reimmas-
+sen/ von welchen noch viel zu sagen were/ wann
+e&sr; die Zeit leiden wolte. Noch eine&sr; zu gedenken.
+Jn Schertzgedichten kan man eine Syllben mit
+Fleiß au&sr;lassen/ und also ein hinkende&sr; Gebänd
+schliessen.</p>
+<poem><fr>Ein iedlicher richtet nach</fr> seinem Sinn/
+<fr>und schleudert die Bücher mit</fr> Eckel <fr>hin.
+Jhr urtheilt von Sachen hoch über
+<et>den Leist/</et>
+ihr machet un&sr; lachen
+der Schusterwitz/ welche sich</fr> Do-
+<et>ctor <fr>heist.</fr></et></poem>
+<p>E&sr; solte also stehen:</p>
+<poem><fr>Ein iedlicher richtet nach</fr> frevelem Sinn/
+<fr>und schleud&2019;t die Bücher mit</fr> Eckel dahin &rr;c.
+<fr>die Schusterwitz/ welche sich</fr> Doctorin
+<et><fr>heist.</fr></et></poem>
+<cw><aq>III.</aq></cw>
+<pb="87"/>
+<kt>Die fünffte Stund.</kt>
+<d2><aq>III.</aq></d2>
+<p>&007C;12. Eine andere Veränderung deß Gebänd&sr;
+giebet der Reimschluß/ wann derselbe auf man-
+cherley Weise geordnet wird/ wie hiervon zu se-
+hen in&007C; H. Schottel&sr; Ver&sr;-oder Reimkunst drit-
+tem Theil. Wir wollen aber etlicher anderer ge-
+denken/ so nach dem Spanischen gesetzet sind.
+<aq>I.</aq> Jst eine feine Art/ wa&tn; man eine Reimendung
+wehlet/ und dieselbe durch da&sr; gantz Lied hält/ al&sr;
+zum Exempel sey dieselbe <fr>and.</fr></p>
+<pt><c>1.</c></pt>
+<pv><in>J</in>Hr weißlichgelbe Haare/
+du grüne&sr; Hofnung&sr;<fr>band/</fr>
+e&sr; ist nun Tag und Jahre/
+daß euch die zarte <fr>Hand</fr>
+Dianen mir geschenket/
+(die mein nicht mehr gedenket/)
+zum Liebgedächtniß<fr>pfand.</fr></pv>
+<pt><c>2.</c></pt>
+<pv>Jch muß ob euch erstarren
+jhr <fr>Haar&2019;</fr> auf diesem <fr>Band/</fr>
+der euch nennt vom Beh<fr>arren/</fr>
+erkennt nicht euren <fr>Tand:</fr>
+Jhr fanget an zu blassen/
+weil sie mich hat verlassen/
+schämt ihr euch ihrer <fr>Schand.</fr></pv>
+<bs>F ij</bs><cw>3. Wie</cw>
+<pb="88"/>
+<kt>Die fünffte Stund.</kt>
+<pt><c>3.</c></pt>
+<pv>Wie oft hat sie mit Sehnen
+gefragt nach meiner <fr>Hand/</fr>
+und mit den Perlenthrenen
+benetzet diese&sr; <fr>Band?</fr>
+Ja sie hat dürffen sagen/
+ob ich euch werde tragen
+in Glück-und Trauer<fr>stand?</fr></pv>
+<pt><c>4.</c></pt>
+<pv>Jch hab dich ja getragen/
+dich vielbeküste&sr; <fr>Band/</fr>
+versichert mit Behagen/
+durch manche&sr; fremde&sr; <fr>Land.</fr>
+Jhr Wort im Wind verschwunden
+hat mich noch nicht entbunden/
+ich liebe mit Be<fr>stand.</fr>
+Wie soll ich doch vergessen/
+daß sie an diesem <fr>Strand</fr></pv>
+<pt><c>5.</c></pt>
+<pv>ist neben mir gesessen/
+und hat mit eigner <fr>Hand:
+Viellieber Tod&sr; erbleichen/
+al&sr; von der Liebe weichen/</fr>
+geschrieben in den <fr>Sand.</fr></pv>
+<pt><c>6.</c></pt>
+<pv>Wer sol der Treue trauen/
+die giebet Wort und <fr>Pfand?</fr>
+die läst Verschreibung schauen/
+von pflichtgelobter <fr>Hand?</fr>
+<cw>So</cw>
+<pb="89"/>
+<kt>Die fünffte Stund.</kt>
+So leichtlich kan zerstieben
+da&sr;/ wa&sr; ein Weib geschrieben
+in weichentwichten <fr>Sand.</fr></pv>
+<p>&007C;13. Jn etlichen Gedichten werden in dem
+Gegensatz die Reimwort behalten/ wie zu sehen
+bey der zweyten Stunde/ und ist solche Art zu den
+Pindarischen Oden gar füglich; doch müssen in
+dem Nachsatz alle Reimwörter eingebracht wer-
+den. Ein Exempel ist zu lesen in dem letzten An-
+dacht&sr;gemähl deß <aq>VI.</aq> Theil&sr; der Gesprächspiele.
+Eine Art von einem Gegenhall ist folgende:</p>
+<cit><poem><fr>Wa&sr; kan unsern Sinn betrüben?</fr> Lieben.
+<fr>Wa&sr; wird unsre Ruh verstören?</fr> Ehren.
+<fr>Wa&sr; pflegt die Begierd zu reitzen?</fr> Geitzen.
+<fr>Da&sr; heist mit den Eulen beitzen/
+lauffen nach der Eitelkeit/
+und ereilen eitel Leid.
+Wann wir</fr> lieben/ ehren/ geitzen &rr;c.</poem>
+Besihe hiervon da&sr; <aq>CLXI.</aq> Gesprächspiel am 17. §.</cit>
+<p>14. Die Spanier haben eine Art <fr>Sonne-
+ten/</fr> in welchen die Reimart unverändert bleibet/
+und doch iede&sr;mal&sr; eine andere Meinung schlies-
+set. Derselben sind zwey geteutschet in dem drit-
+ten Theil der Diana am 137 und 138. Blat/
+allda sie aufzusuchen: E&sr; ist aber mehr Kunst
+al&sr; Lieblichkeit darinnen. Hieher gehören au<fr>ch</fr>
+die zweyreimigen Klingreimen/ die zu finden in
+<bs>F iij</bs><cw>dem</cw>
+<pb="90"/>
+<kt>Die fünffte Stund.</kt>
+dem Anfang der fortgesetzten Pegnitzschäferey
+am 2. Blat. Wir befleissen un&sr; hier der Kürtze.</p>
+<d2><aq><g>IV.</g></aq></d2>
+<p>15. Weil in den kurtzen Gedichten/ und son-
+derlich auch in den Liedern/ der Nachdruck in der
+letzten Reimzeile seyn sol/ al&sr; welche in deß Leser&sr;
+Gedächtniß am besten verharret/ und von der
+gantzen Erfindung <fr>U</fr>rsachen giebet; so wollen
+wir zwar nicht alle/ sondern nur etliche derglei-
+chen betrachten.</p>
+<p>16. Zierlich ist e&sr;/ wann die Endreimen wie-
+derholet/ wa&sr; zuvor gesagt worden/ al&sr; zum Ex-
+empel:</p>
+<poem>Pfeile <fr>fliegen flügelschnell/</fr>
+Wasser<fr>fluten rinnen hell/</fr>
+Winde <fr>können nirgend bleiben/
+die ihr Lauffen hastig treiben:
+Doch der Lauff der Eitelkeiten
+weiß so plötzlich fortzuschreit&te;/
+daß nechst ihr sehr langsam sind</fr>
+Pfeile/ Wasser/ <fr>und der</fr> Wind.</poem>
+<p>Hier ist zu merken/ daß die Wiederholung in der
+Ordnung geschehen muß/ in welcher die Wör-
+ter Anfang&sr; gesetzet worden.</p>
+<p>17. Wann man etwan ein Verlangen/ oder
+ein Anligen au&sr;drücken wil/ muß dasselbige of-
+termal&sr; wiederholet werden/ und solche&sr; kan
+<cw>auf</cw>
+<pb="91"/>
+<kt>Die fünffte Stund.</kt>
+auf unterschiedliche Weise geschehen/ al&sr; wann
+die zwo letzten Reimzeile unverändert alle Sätze
+schliessen/ wie in dem gemeinen Lied: <fr>Ein ieder
+folge seinem Sinn/ ich halt&sr; mit meiner
+Schäferi&tn; &rr;c.</fr> und scheinet/ al&sr; ob solche&sr; von
+den Reyenliedern herkommen were/ in denen der
+Vorsinger von dem Endreimen (die Frantzosen
+nennen e&sr; <aq>le refrain,</aq> die Meistersinger da&sr; Ab-
+gesang/) anfangen/ nachmal&sr; die andern/ al&sr; ei-
+nem gantzen Chor/ nachsingen lassen/ und sich
+inzwischen auf deß Liede&sr; folgende&sr; Gesetz beden-
+ken. Die Exempel sind hin und wieder gemein.
+Seltner aber ist&sr;/ wann man die letzte Reimzeil
+mit wenigen ändert/ wie in dem <aq>I.</aq> Theil der Peg-
+nitzschäferey am 35. Blat.</p>
+<cit><pt><c>1.</c></pt>
+<poem><fr>Der Rüstbaum liebt die Reben;
+der Mann sein liebe&sr; Weib;
+durch liebe&sr; Taubenleben
+verbindt sich Leib mit Leib;
+durch himmelreichen Segen
+befruchtet/ ohn Verschieben/
+den Ackerbau der Regen.
+Ach segenreicher Gott!
+gieb/ daß sie frölich lieben.</fr></poem></cit>
+<p>Wie sich nun hier <fr>Verschieben</fr> und <fr>lieben</fr>
+vereinbaren/ also folgen alle Wörter in den an-
+<bs>F iiij</bs><cw>dern</cw>
+<pb="92"/>
+<kt>Die fünffte Stund.</kt>
+dern Gesetzen/ die mit <fr>Lieben</fr> reimen/ und ist in
+dem letzten Reimen da&sr; Beywort/ welche&sr; Gott
+zugesetzet wird in <fr>gnadenreich/ friedenreich/
+leben&sr;reich &rr;c.</fr> geändert.</p>
+<p>18. Lieblicher aber kommet e&sr; auf folgende
+Art in de&sr; Sireno Hochzeitlied/ welche&sr; zu fin-
+den ist in der neuaufgelegten Diana am &007C;184
+Blat.</p>
+<cit><pt><c>1.</c></pt>
+<pv><fr>Der bunte Blumenschmuck beschminkt
+<et>die grünen Auen;</et>
+der Vögel Luftgesang schallt auf dem
+<et>Baumgezelt;</et>
+die röhtlichbleiche Ros ist nicht nur an-
+<et>zuschauen;</et>
+der Wind weht ihren Ruch in unser
+<et>Gartenfeld;</et>
+der bachvermehrte Fluß
+kan seinen Lauff nicht</fr> zwingen/
+<fr>er eilt mit schnellem Guß;
+e&sr; tränkt die Lispelflut die hitzermatte
+<et>Welt.</et></fr>
+Jhr holden Nymphen komt/ und last un&sr; freu-
+<et>dig singen:</et></pv>
+<pt><c>2.</c></pt>
+<pv><fr>Dz früe Tage&sr;liecht hat alle&sr; aufgehüllet/
+wa&sr; <g>vor</g> die Trauernacht/ mit Schat-
+<et>ten/ überdeckt:</et></fr>
+<cw><fr>der</fr></cw>
+<pb="93"/>
+<kt>Die fünffte Stund.</kt>
+<fr>der Nachtigallen Schall hat Lufft und
+<et>Grufft erfüllet/</et>
+und mit versüstem Ton die Tage&sr;freud
+<et>erweckt:</et>
+Ob ihre&sr; Bulen Pein
+muß sie die Klage</fr> bringen/
+<fr>sie wartet Sein allein/
+bald hat sie alle&sr; Leid mit Liebe&sr;freud
+<et>gestillet.</et></fr>
+Jhr holden Nymphen komt/ und last un&sr; lieb-
+<et>lich singen!</et></pv>
+<pt><c>3.</c></pt>
+<pv><fr>E&sr; sol un&sr; niemand nicht von unsrer
+<et>Freude wenden;</et>
+weil wir un&sr; dieser Zeit Ergetzung
+<et>vorgesetzt.</et>
+Die Feindschaft/ Zwist und Zank sey fer-
+<et>ne von den Enden</et>
+verbannet/ samt dem Neid/ der kränket
+<et>und verletzt.</et>
+Wem Frölichkeit beliebt/
+der komm mit un&sr; zu ringen/
+die wir sind unbetrübt:
+weil un&sr; die Lentzenzeit schafft alle&sr;/
+<et>wa&sr; ergetzt.</et></fr>
+Jhr holden Nymphen komt/ und last un&sr; frö-
+<et>lich singen!</et></pv>
+<bs>F v</bs><cw>4. E</cw>
+<pb="94"/>
+<kt>Die fünffte Stund.</kt>
+<pt><c>4.</c></pt>
+<pv><fr>E&sr; trieffe deine Trifft von fetten Hi&tm;el&sr;-
+<et>gaben/</et>
+O wolbegatte&sr; Par/ de&sr; früen Taue&sr;-
+<et>saft!</et>
+sol eure hehre Heerd&2019; auf ihrer Wäide
+<et>laben/</et>
+da&sr; Herbst-und Früling&sr;la&tm; füll&2019; eu-
+<et>re Hirtenschaft.
+E&sr; sol die Winterkält</et>
+auf euren Stall nicht dringen/
+<et>der Hund/ der Wache hält/</et>
+behalte fort und fort der Jugend Stärk
+<et>und Kraft.</et></fr>
+Jhr holden Nymphen komt/ und last un&sr; sämt-
+<et>lich singen.</et></pv>
+<pt><c>5.</c></pt>
+<pv><fr>Euch sol die säste Freud&2019; in Fried u&tn; Ruh
+<et>vergnügen:</et>
+die Lieb- und Leibe&sr;frucht sol sich in
+<et>grosser Zahl</et>
+üm euren Tisch herüm in feiner Ord-
+<et>nung fügen/</et>
+und eure Kräfte seyn/ wie Eisen/ Stein
+<et>und Stahl.</et>
+Ein solche&sr; Hochzeitlied sol in dem</fr>
+<et><fr>Feld</fr> erklingen/</et>
+<cw><fr>da&sr;</fr></cw>
+<pb="95"/>
+<kt>Die fünffte Stund.</kt>
+<fr><et>da&sr; allen bringet Fried</et>
+der nun gemengten Heerd&2019; und Wölf-
+<et>fin allzumal.</et></fr>
+Jhr holden Nymphen komt/ und last un&sr; herr-
+<et>lich singen.</et></pv>
+<pt><c>6.</c></pt>
+<pv><fr>Der Vogel sing&2019; euch nach/ der in den
+<et>Lüfften schwebet:</et>
+er flieg&2019; ob eurem Haubt/ ja gar in eure
+<et>Hand:</et>
+der Hügel und der Berg/ ob euch erfreuet/
+<et>bebet/</et>
+die Blumen freuen sich in eurer Krän-
+<et>tze Band/</et>
+der Jasmin und die Ros&2019;
+(al&sr; mich bedunket)</fr> springen/
+<fr>Narcissen werden groß/
+Lavendel/ Nard/ und Spick bereuchen
+<et>diese&sr; Land.</et></fr>
+Jhr holden Nymphen komt/ und last un&sr; rühm-
+<et>lich singen.</et></pv>
+<pt><c>7.</c></pt>
+<pv><fr>Da&sr; Band der Einigkeit erhalt&2019; euch lan-
+<et>ge Jahre/</et>
+der Haß- und Eifersucht entweich&2019; au&sr;
+<et>eurem Bett&2019;/</et></fr>
+<cw><fr>au</fr></cw>
+<pb="96"/>
+<kt>Die fünffte Stund.</kt>
+<fr>auf daß kein Vngelück euch beeden wie-
+<et>derfahre/</et>
+und ihr mit Hertzen&sr;treu euch liebet in
+<et>die Wette.</et>
+Hört! euer Namen Mahl
+sol e&sr; hinfort</fr> gelingen/
+<fr>wann sie auf Berg und Thal
+in iede&sr; Baume&sr; Rind&2019; erhalten ihre
+<et>Stätte.</et></fr>
+Jhr holden Nymphen schweigt/ und höret auf
+<et>zu singen.</et></pv></cit>
+<p>19. Jn den alten Liedern findet man/ daß zu-
+zeiten die letzte Zeil mit keiner andern reimet/ und
+wird deßwegen <fr>Wäisenver&sr;</fr> genennet; al&sr; zu
+sehen unter andern in dem Lied: <fr>HErr Gott
+nun sey gepreiset &rr;c.</fr> E&sr; klingt aber besser/
+wann die letzte Zeil auch reimet: wie in besagtem
+Ton ein Lied zu finden in der Christlichen Welt-
+Feld-und Gartenbetrachtung H. Dilherrn&sr; am
+153 Blat.</p>
+<p>20. Zuzeit hält man nur da&sr; letzte Wort/
+und ordnet da&sr; Gedicht also/ daß andere Reim-
+wort vorhergehen. Zum Exempel wollen wir se-
+tzen unser Trauergedicht über einen ermordeten
+Jüngling:</p>
+<pv><in>J</in>Hr Napeen/ Oreaden/
+Feen/ Nymphen/ Walddryaden/
+<cw>und</cw>
+<pb="97"/>
+<kt>Die fünffte Stund.</kt>
+und ihr Pegnitz-flußnajaden/
+eilet/ eilt zu unsren <fr>Heinen</fr>
+mit dem düstern Leidgesang/
+mit dem trauer Leyrenklang
+eilt die Leiche zu be<fr>weinen.</fr></pv>
+<pt><c>2.</c></pt>
+<pv>Last die Threnentrifften wallen/
+last die Jammerklag&2019; erschallen/
+daß die Thäler wiederhallen/
+daß der Echo/ nechst den <fr>Steinen/</fr>
+traure mit dem Pegnitzfluß/
+und mit weitümschlangtem Guß
+flüsse trüber von dem <fr>Weinen.</fr></pv>
+<pt><c>3.</c></pt>
+<pv>Der die Tiber wollen schauen/
+ligt ermordet in den Auen/
+wo die Blumen Threnen tauen/
+ferne von den lieben <fr>Seinen:</fr>
+Schmertzen/ Seufftzen/ Weh und Ach
+stemmet unsrer Augen Bach/
+weil wir mit den Hertzen <fr>weinen.</fr></pv>
+<pt><c>4.</c></pt>
+<pv>Nun gehorchet meinem Bitten:
+bauet ihm ein Grabmahlhütten/
+wo er ritterlich gestritten;
+daß viel rohte Blumen <fr>scheinen/</fr>
+wo sein Blut getriefet hat/
+<cw>pflan-</cw>
+<pb="98"/>
+<kt>Die fünffte Stund.</kt>
+pflantzet auch da&sr; Sehnenblat/
+anbefeuchtet von dem <fr>Weinen.</fr></pv>
+<pt><c>5.</c></pt>
+<pv>Sein Lob sol bey un&sr; verbleiben/
+da&sr; wir in die Baumen schreiben/
+und den Felsen einverleiben:
+Sein Ruhm lebt bey den <fr>Gemeinen/</fr>
+ihm wird üm die Zeit im Jahr
+klagen unsre Schäferschaar.
+Nymphen höret auf zu <fr>weinen.</fr></pv>
+<p>Hierbey ist nicht zu vergessen der Gesprächrei-
+men/ (von welchen zu sehen in der <aq>IX.</aq> Stund §.
+14. nachgesetzten zweyten Theil&sr;/) und <fr>Nach-
+ahmung</fr> (<aq>Parodia.</aq>) welche die Reimwort du&rr;ch-
+gehend&sr; behalten/ und den Jnhalt ändern/ des-
+sen wollen wir ein Exempel anfügen.</p>
+<poem><aq>Parodia</aq> <fr>oder Nachahmung</fr>
+Herrn Martin Opitzen: Jch empfinde fast ein
+<fr>Grauen/</fr> daß ich <aq>Plato</aq> für und <fr>für &rr;c.</fr>
+Jn welcher alle Reimwörter behalten/ und der
+Jnhalt auf geistlichen Verstand gerichtet worden.
+Jn seiner eignen Melodey/ unter Herrn Hein-
+<et>rich Alberten Liedern da&sr; 21.</et></poem>
+<pt>1.</pt>
+<pv><in>J</in>Ch empfinde fast ein <fr>Grauen/</fr>
+daß ich Eitelkeit <fr>in dir</fr>
+bin verwickelt für und <fr>für;</fr>
+E&sr; ist Zeit hinauf zu <fr>schauen/</fr>
+<cw>und</cw>
+<pb="99"/>
+<kt>Die fünffte Stund.</kt>
+und ietzt zu deß Heile&sr; <fr>Quellen</fr>
+in deß HERREN Hau&sr; zu <fr>gehn/</fr>
+von den Sünden abzu<fr>stehn/</fr>
+und sich heilig einzu<fr>stellen.</fr></pv>
+<pt><c>2.</c></pt>
+<pv>Jn deß Höchsten Wort <fr>studieren</fr>
+mindert alle&sr; <fr>Ungemach/</fr>
+daß der Trübsal Threnen<fr>bach</fr>
+sich lässt nach der Tugend <fr>führen:</fr>
+wenn wir offt erinnert <fr>werden/</fr>
+wie die Zeiten eilen <fr>hin/</fr>
+und mit heilig-klugen <fr>Sinn</fr>
+denken an die Mutter-<fr>Erden.</fr></pv>
+<pt><c>3.</c></pt>
+<pv>Mancher höret/ daß ich <fr>frage/</fr>
+wo da&sr; schönste Buch mag <fr>seyn/</fr>
+da&sr; ich liebe/ mehr al&sr; <fr>Wein?</fr>
+Alle&sr; Trauren/ Leid und <fr>Klage/</fr>
+wie wir Menschen täglich <fr>haben/</fr>
+eh der Tod un&sr; hinger<fr>afft/</fr>
+mindert solche&sr; Troste&sr; <fr>Safft/</fr>
+den wir au&sr; der Bibel <fr>graben.</fr></pv>
+<pt><c>4.</c></pt>
+<pv>Weltling&sr;freude gleicht <fr>Melonen/</fr>
+dauret lange Zeite <fr>nicht/</fr>
+und die Reue nie <fr>gebricht/</fr>
+mit viel Leid un&sr; zu <fr>verschonen.</fr>
+<cw>Jch</cw>
+<pb="100"/>
+<kt>Die fünffte Stund.</kt>
+Jch kan nicht viel würdig <fr>schätzen/</fr>
+wa&sr; die Welt zu lieben <fr>pflegt/</fr>
+Stricke/ so der Satan <fr>legt/</fr>
+müssen auf die letzt <fr>verletzen.</fr></pv>
+<pt><c>5.</c></pt>
+<pv>Gute Nacht/ ihr falschen <fr>Brüder!</fr>
+euer Glücke gleicht dem <fr>Gla&sr;/</fr>
+Zu der Zeit sich schicket <fr>ba&sr;</fr>
+Buß/ Gebet und Kirchen<fr>lieder.</fr>
+Gott macht un&sr; zu Himmel&sr; <fr>Erben</fr>
+durch gesegnet Brod und <fr>Wein/</fr>
+da&sr; sol meine Labung <fr>seyn/</fr>
+bi&sr; ich selig werde <fr>sterben.</fr></pv>
+<p>Jn den Schäfergedichten werden die End-
+reimen zu Anfang eine&sr; ieden Satze&sr; widerholet;
+also/ daß entweder die gantze Zeil verbleibet/ oder
+nur da&sr; Reimwort behalten wird. Die Exem-
+pel sind hin und wieder zu lesen in der Arcadia
+de&sr; Ritter&sr; Sidny/ in der Kuffsteinischen neu-
+aufgelegten Diana/ und den Gesprächreimen
+der Pegnitzschäferey einverleibt/ in welchen zu
+<c>Zeiten alle Reimwörter in der Antwort be-
+halten/ und der Jnhalt doch ge-
+ändert/ zu beobach-
+ten.</c></p>
+<cw><b>Die</b></cw>
+<pb="101"/>
+<hr>
+<d1><b>Die <aq>VI.</aq> Stund.
+Von Zierlichkeit und Fehlern in den
+Gedichten.</b></d1>
+<p><in>E</in>S ist noch übrig v&to; der Zierlichkeit
+und den Fehlern in den Gedichten
+mit wenigen zu gedenken/ und zwar</p>
+<arg><aq>I.</aq> <fr>von der Zierlichkeit der Er-
+findung/ und de&sr; Jnhalt&sr;.</fr>
+<aq>II.</aq> <fr>von der Zierlichkeit der Wörter.</fr>
+<aq>III.</aq> <fr>von den Fehlern und dem Mißklang
+der übelgesetzten Wörter in den Ge-
+dichten.</fr>
+<aq>IV.</aq> <fr>von den Fehlern in dem Reimschluß/
+und dem Gebände.</fr></arg>
+<d2><aq>I.</aq></d2>
+<p>Der <aq>Philosophu&sr;</aq> bringt seine Sachen mit
+schlechten Worten für/ weil seine Gedanken hoch
+und si&tn;reich sind/ und sonst nicht könten verstan-
+den werden. Der Redner bringt seinen Handel
+prächtig und beweglich zu Markt/ bedienet sich
+auch zuzeiten der poetischen Wortgleichung und
+solcher Figuren/ welche ihm mit dem Poeten ge-
+mein sind. Der Dichter aber führt eine gantz an-
+dere Art/ indem er gleichsam au&sr; etwa&sr; nicht&sr;
+<bs>G</bs><cw>bil-</cw>
+<pb="102"/>
+<kt>Die sechste Stund.</kt>
+bildet/ und eine Sache mit solchen natürlichen
+Farben au&sr;mahlet/ und alle andere Wissenschaf-
+ten und Künste zu seinen Diensten anzuwenden
+weiß.</p>
+<p>2. Hierinnen muß man aber ein gute&sr; <fr>U</fr>rtheil
+gebrauchen/ daß er sich in den Erfindungen nach
+denen richtet/ welchen er zu Gefallen die Feder er-
+griffen. Jn&sr; gemein aber sind gar zu hohe Ge-
+danken nicht schicklich zu den Gedichten/ weil sie
+alle Lieblichkeit verhindern und/ ohne fernere Er-
+klärung in ungebundner Rede/ nicht vernemlich
+sind; solche Erklärung ist zweyerley: 1. der tunk-
+len Wörter/ und solche gehöret an den Rand. 2.
+der Sachen selbsten/ und solche mag man zu En-
+de anfügen/ iedoch ohne Vberfluß ungehöriger
+Geschicklichkeit.</p>
+<p>3. Etliche bedienen sich frembder Poeten Er-
+findungen/ und ist solche&sr; ein rühmlicher Dieb-
+stal bey den Schülern/ wann sie die Sache recht
+anzubringen wissen/ wie <aq>Virgiliu&sr;</aq> deß <aq>Theocriti,</aq>
+und <aq>Homeri, Horatiu&sr;</aq> deß <aq>Pindari</aq> Gedichte be-
+nutzet hat: ja deßwegen liset man anderer Spra-
+chen Bücher/ au&sr; ihnen etwa&sr; zu lernen/ u&tn; nach
+Gelegenheit abzuborgen/ hiervon sagte jener/ daß
+die Schüler au&sr; ihrer Lehrmeister Mäntel Klei-
+der machen/ und so statlich mit Silber und Gold
+überb&rr;emen/ daß sie nicht e&rr;käntlich sind. E&sr; muß
+<cw>aber</cw>
+<pb="103"/>
+<kt>Die sechste Stund.</kt>
+aber solche&sr; nicht dergestalt mißbrauchet werd&te;/
+daß man ein gantze&sr; Gedicht/ fast von Wort zu
+Wort/ übersetzet/ und für da&sr; Seine dargiebet/
+welche&sr; bey denen/ so e&sr; in einer andern Sprache
+auch gelesen/ nicht verantwortlich ist: Man kan
+aber wol darzuschreib&te;: <fr>au&sr; dem Lateinischen/
+fast au&sr; dem Frantzösischen oder Spani-
+schen &rr;c.</fr> Dergleichen hat da&sr; Lob einer guten
+<fr>U</fr>bersetzung/ wa&tn; e&sr; so wol klingt/ daß man nicht
+einmal abmerken kan/ daß e&sr; in einer andern
+Sprache ursprünglich geschrieben worden.</p>
+<p>4. Die besten Erfindungen sind diese/ welche/
+zu ihrem Absehen/ also füglich sind/ daß sie son-
+sten zu nicht&sr; ander&sr; dienen können. Wie zu der-
+gleichen zu gelangen/ ist mit wenigem in der er-
+sten Stund angewiesen worden. <fr>U</fr>nter allen
+Erfindungen sind die Lehrgedichte mehrmal&sr; die
+artigsten/ wie in den Sontag&sr;andachten ersten
+und andern Theil derselben Exempel häuffig zu
+sehen. Wir wollen aber hier ein Exempel au&sr; dem
+<aq>VIII</aq> Theil vnser&sr; Schauplatze&sr; Jämmerlicher
+Mordgeschichte anführen.</p>
+<pt><c><fr>Lehrgedicht von der Menschen Unart.</fr></c></pt>
+<poem>Der Mensch/ der Pilgermann/ auf diese&sr; Leben&sr;
+<et>Wege</et>
+begegnet manchem Thier&2019;/ auf jenem schmalen
+<et>Stege/</et>
+<bs>G ij</bs><cw>die</cw>
+<pb="104"/>
+<kt>Die sechste Stund.</kt>
+die sprachen Menschenwort. Der <fr>Hund</fr> sagt:
+<et>höre zu/</et>
+ich/ ich bin meinem Freund <fr>getreuer/</fr> al&sr;
+<et>nicht du</et>
+dem/ der dir Gute&sr; thut. Da&sr; <fr>Pferd</fr> beginnt zu
+<et>sagen:</et>
+Der mir schaft meine Kost/ pfleg&2019; ich auf mir zu
+<et>tragen/</et>
+<fr>gehorsam&2019;</fr> auch der Hand/ die mich mit Lust
+<et>regiert:</et>
+du widerstrebest Gott/ der dir dz Hertz gerührt/
+und dich ernehret hat. Deßgleichen sprach die
+<et><fr>Kuh&2019;:</fr></et>
+ich bin/ nie satter Mensch/ viel baß <fr>vergnügt</fr>
+<et>al&sr; du.</et>
+Für wenig grüne&sr; Gra&sr; pfleg&2019; ich viel Milch
+<et>zu geben/</et>
+und du strebst/ Tag und Nacht/ nach deine&sr;
+<et>Nechsten Leben/</et>
+nach seinem Haab und Gut/ der Arme für der
+<et>Thür</et>
+bejammert deinen Geitz/ sein Geld trägst du jhm
+<et>für/</et>
+sein ist dein <fr>U</fr>berfluß. Der <fr>Esel</fr> sagt&2019; ohn
+<et>Fragen:</et>
+Jch Esel bin so <fr>klug/</fr> wann man mich tod solt
+<et>schlagen/</et>
+<cw>gieng</cw>
+<pb="105"/>
+<kt>Die sechste Stund.</kt>
+gieng ich nicht in die Flamm&2019;. Ach tolle&sr; Sün-
+<et>denkind/</et>
+du stürtzst dich in die Höll/ al&sr; werst du Staren-
+<et>blind/</et>
+Schand über alle Schand? die Thiere müs-
+<et>sen lehren/</et>
+wie sich da&sr; Menschenvolck zum Höchsten
+<et>sol bekehren.</et></poem>
+<p>5. Ferner&sr; haben die poetischen lebendigen
+und natürlichen Beschreibungen jhr gebührli-
+che&sr; Lob: Jch sage die poetische lebendige/ und
+natürliche &rr;c. Beschreibung/ in welcher nicht ei-
+ne Syllben müssig/ und ohne Nachdruck ist/ wie
+hernach sol gesagt werd&te;. Wie aber in einem Ge-
+mähl etliche Fehler nur von den Meistern der
+Kunst erkennet werden/ also ist auch in dem Ge-
+dicht ein Fehler grösser al&sr; der andere/ und sihet
+man bald/ ob die Erfindung au&sr; einem reinen
+Hirn herfliesset/ oder au&sr; andern zusammenge-
+lumpet ist.</p>
+<d2><aq>II.</aq></d2>
+<p>6. Die gantze Rede sol <fr>verständlich-zier-
+lich</fr> und den <fr>Sachen gemäß</fr> seyn. Die <fr>Wort</fr>
+klar und deutlich gesetzet werden/ welche&sr; ihren
+vielen zu thun unmöglich fället/ und muß solche&sr;
+nicht nach unsrem Sinn/ (dann ein jeder sich
+selbsten am besten verstehet) sondern nach deß
+<bs>G iij</bs><cw>vernünf-</cw>
+<pb="106"/>
+<kt>Die sechste Stund.</kt>
+vernünftigen Leser&sr; <fr>U</fr>rtheil gerichtet und ge-
+schätzet werden. Jch sage von dem vernünftigen/
+und nicht ungelehrten Leser/ dann sonsten die
+Sonne nicht achtet/ daß sie die Fledermäuse
+nicht sehen können.</p>
+<p>7. Zierlich ist/ wann man hohe Dinge mit ho-
+hen prächtigen Machtworten/ mittelmässige mit
+feinen verständigen/ und nidrige mit schlechten
+Reden vorträget. <fn="*"><aq>Scal. l. 4. c. 1. &amp; seqq.</aq></fn> Hier ist/ beneben&sr; fleissiger
+Lesung/ ein wolerkennende&sr; <fr>U</fr>rtheil der beste
+Lehrmeister.</p>
+<p>8. Wie da&sr; Edelgesteine einen Ring zieret/
+also zieren die <fr>Bey-oder Ansatzwort</fr> die Re-
+de: und sind derselben vielerley Arten. Etliche
+haben in sich eine kurtze Beschreibung; al&sr; wann
+man den <fr>Tod</fr> nennet den Menschenwürger/ deß
+Leben&sr; Feind/ der Sünden Sold/ die Schuld der
+Natur. Den <fr>Lentzen</fr> den Blumenvatter/ deß
+Winter&sr; Sohn/ den Freudenbringer. D&te; <fr>Wein</fr>
+den Sorgenvertreiber/ Freudenwecker/ Trau-
+renzwinger/ Schlafreitzer/ Poetensaft/ deß Leb&te;&sr;
+Threnen/ da&sr; Kälterblut/ &rr;c. Den <fr>Wind</fr> den
+Wolkentreiber/ Felsenstürmer/ Wellenführer/
+Würbelheger/ Blütenfeind/ Feldzerschleiffer &rr;c.</p>
+<p>9. Hierau&sr; erkennet man etlicher massen den
+Poeten/ wie den Löwen au&sr; den Klauen/ dann
+nicht da&sr; geringste Meisterstück hierinnen ver-
+<cw>bor-</cw>
+<pb="107"/>
+<kt>Die sechste Stund.</kt>
+borgen liget. Zum Exempel setze ich da&sr; <fr>Ufer/</fr> o-
+der den <fr>Strand/</fr> stösset man von dem Lande/ so
+kan man beysetzen den <fr>seichten/</fr> oder <fr>schroffen
+Strand/</fr> da die Schiffe zu Anker ligen: gehet
+man mit allen Schiffen zu Segel/ so sagt man
+de <fr>röde Strand.</fr> Komt man in <fr>U</fr>ngewitter/
+so heist er der <fr>verlangte offterwünschte/</fr> der
+<fr>freudenvolle Strand.</fr> Jst man ferne dar-
+von/ so heist er der <fr>weitentlegene/</fr> der <fr>nicht er-
+blickte</fr> &rr;c. Noch deutlicher: dem Wörtlein
+<fr>Feld</fr> kan/ nach allen Monaten/ ein besonder&sr;
+Beywort/ ja vielmehr al&sr; eine&sr; beygefüget wer-
+den.</p>
+<li>Da&sr; @ neulichgraue @ Feld im @ Märtz&te;-od&2019; Lentzenmonat.</li>
+<li>@ neugepflügte @ @ April oder Ostermonat.</li>
+<li>@ blumenholde @ @ May-oder Wunemonat.</li>
+<li>@ vielbegraste @ @ Brachmonat.</li>
+<li>@ hitzermatte @ @ Heumonat.</li>
+<li>@ ährenreiche @ @ Aehrenmonat.</li>
+<li>@ gantz durch feuchte @ @ Herbstmonat.</li>
+<li>@ fruchtbereichte @ @ Weinmonat.</li>
+<li>@ grünlichfalbe @ @ Windmonat.</li>
+<li>@ schneebesamte @ @ Heilig-oder Christmonat.</li>
+<li>@ hart durch frorne @ @ Wintermonat.</li>
+<li>@ windbetrübte @ @ Hornung.</li>
+<p>Also hat Käiser Karl/ der Grosse/ die Mo-
+nat benamet/ wie Eginhard von ihm schreibet in
+seinem Jahrbuch. <fr>U</fr>ber besagte Beysatzwörter
+<bs>G iiij</bs><cw>kön-</cw>
+<pb="108"/>
+<kt>Die sechste Stund.</kt>
+können noch viel erdacht werden/ nach Beschaf-
+fenheit der vorwesenden Sachen/ al&sr;: da&sr; <fr>be-
+kleete/ fette/ grunende/ buntbeblumte/ g&rr;ün-
+bekleidte/ neubesamte/ ährenöde/ kahle/ son-
+nenheisse/ mondbefeuchte/ frübetaute
+Feld.</fr> H. Opitz sagt: weil da&sr; Feld ein <fr>Braut-
+kleid</fr> träget/ der Felder <fr>Jägerkleid/</fr> der <fr>süsse
+Bienenklee.</fr> An statt de&sr; Wörtlein&sr; <fr>Feld</fr> kan
+man setzen <fr>Acker/ Auen/ Matten/ Rasen/
+Wasen/ Rangen/ Wunneweid/ Erden/ &rr;c.</fr>
+daß also unsre allerwortreichste Sprache von
+niemand/ al&sr; derselben <fr>U</fr>nwissenden/ kan ver-
+achtet/ und für untüchtig zu der Poeterey ge-
+halten wird.</p>
+<p>10. Dergleichen Wörter können allen Sa-
+chen beygesetzet werden/ nicht allein in Ansehung
+deß gegenwärtigen/ oder verwichenen/ sondern
+auch deß künftigen Zustande&sr;/ und sollen die
+Reimzeilen nicht au&sr;füllen/ sondern die Sache
+besser und gründlicher erklären/ und von andern
+auf da&sr; genauste unterscheiden. Diese&sr; wollen
+wir dabey noch anhengen/ daß da&sr; Haubtwort
+iede&sr;mal&sr; da&sr; letzte seyn soll. Zum Exempel: wa&tn;
+im Früling die Bäume in voller Blüte sind/ und
+noch wenig Blätlein haben/ sage ich recht: der
+<fr>grünlichweisse Blütenast:</fr> wann sie aber
+fast verblühet/ so muß ich sagen: da&sr; <fr>weißlich-
+grüne Baumenhaar &rr;c.</fr></p>
+<cw>11. Fer-</cw>
+<pb="109"/>
+<kt>Die sechste Stund.</kt>
+<p>11. Ferner&sr; zieren da&sr; Gedicht nicht wenig
+die wolerfundnen neuen Wörter/ wann sie nach
+unsrer Sprache Eigenschaft/ und durchgehen-
+den Gleichheit geformet werden/ welche&sr; bey
+neuen und ungewöhnlichen Sachen seyn muß.
+Also sagt H. Opitz: den Verlust <fr>ergäntzen.</fr></p>
+<cit><poem><fr>Da hat er viel zu bauen/</fr>
+macht Blanken üm den Zaun/
+schnitzt Flegel/ <fr>stielt</fr> die Hauen.</poem></cit>
+<p>Obwol da&sr; Wort <fr>stielen</fr> nicht gebräuchlich
+ist/ verstehet e&sr; doch jederman au&sr; dem vorher-
+gehenden. Der dich <fr>entsceptern</fr> wil/ dein Eifer
+sich <fr>erherbet.</fr> Seelen/ die einander gleichen und
+<fr>verankert</fr> sind/ der geworffne Stein/ oder der
+fliegende Vogel <fr>pfeilt</fr> durch die Lufft/ &rr;c. Ron-
+sard und Petrarcha haben dergleichen Wörter
+in ihrer Sprache gebraucht/ und/ wann sie be-
+fürchtet/ man verstehe sie nicht/ an dem Rand er-
+kläret/ wie besagt. @ <aq>Specim. Philolog. Germ.
+Di&sr;quis. III. §. 3. f.</aq> 37.</p>
+<p>12. Viel neuerfundene Wörter der alten Poe-
+ten sind nachmal&sr;/ in ungebundnen Redarten/
+wegen ihre&sr; Nachdruck&sr;/ u&tn; Lieblichkeit gebrau-
+chet worden/ wie au&sr; vielen Scribenten zu er-
+weisen were/ wann e&sr; die Kürtze diese&sr; Werklein&sr;
+leiden wolte. <aq>Quintil. l. 1. Instit. &amp; A. Gell. l. 29.
+N. A.</aq> Viel halten auch für alt und unvernem-
+<bs>G v</bs><cw>lich</cw>
+<pb="110"/>
+<kt>Die sechste Stunde.</kt>
+lich/ wa&sr; sie nicht wissen und verstehen/ da&sr; doch
+bey guten Scribenten gefunden wird/ also sagt
+Herr Lutheru&sr;/ e&sr; <fr>widert</fr> meine Seele/ Job 6/
+26. <fr>Wellen/</fr> Ps. 104/ 3. <fr>Wehmütig/</fr> Sprüch.
+7/ 7. <fr>Unwege/</fr> Job 12/ 24. <fr>ritten/</fr> Matth. 8/
+14. dir <fr>greuelt/</fr> Rom. 2/ 22. &rr;c.</p>
+<p>13. E&sr; ist auch eine sondere Zierlichkeit deß
+Gedicht&sr;/ wann alle Wörter leicht/ und unge-
+zwungen fliessen/ und daß der Reime ungenöhti-
+get mehrmal&sr; an gehörigen Stellen wiederholet
+wird. Sonsten hat der Poet viel/ ja fast alle Figu-
+ren mit den Rednern gemein.</p>
+<p>14. Hierbey ist nicht zu vergessen/ daß sich der
+Poet bemühet/ die Stimmen der Thiere/ oder
+den Ton eine&sr; Fall&sr;/ Schlage&sr;/ Schusse&sr;/
+Sprunge&sr;/ Stosse&sr; oder ander&sr;/ wa&sr; ein&te; Laut/
+oder eine Stimme von sich giebet/ auf da&sr; ver-
+nemlichste au&sr;zudrucken. Bey de&rr; zweyt&te; Stund
+haben wir ein Exempel in der Nachtigallen Ge-
+sang beobachtet/ da da&sr; Wörtlein <fr>dir</fr> zum sech-
+sten mal wiederholet/ wie auch in folgenden Zei-
+len die <fr>Thiere/ führen</fr> &rr;c. auf da&sr; <fr>tireliren</fr>
+da&sr; Absehen gerichtet. Also bildet folgende&sr; den
+Gegenhall:</p>
+<poem><fr>Echo ächtzet Trauerlieder/
+seufftzend au&sr; der Felsengrufft
+durch die weitgebreite Lufft/</fr>
+<cw><fr>wie-</fr></cw>
+<pb="111"/>
+<kt>Die sechste Stund.</kt>
+<fr>wiederholend/ wann fast ieder
+schreit da&sr; Wehun&sr;! Wehun&sr; wieder.</fr></poem>
+<p>Also sagt der Poet von der Trummel:</p>
+<poem><fr>Die Tru&tm;el pumpt komt/ komt/ sie su&tm;t
+<et>komt/ komt/ komt/ &rr;c.</et></fr></poem>
+<p><c>Von den Schüssen:</c></p>
+<poem><fr>eilt/ ladt/ spannt da&sr; Gewehr: schiest/
+platzt drauf/ drauf/ drauf/ drauf!
+Heerpaucken/ Trompeten/
+Kartaunen/ Musqueten/
+bluttriefende Degen/
+hellblinkende Waffen/
+da&sr; Puffen und Paffen
+der rollenden Wägen/
+Rauchdämpfende Blitz
+rüllt/ brüllet mit donrendem Hagel-
+<et>geschütz.</et></fr></poem>
+<p>Hiervon ist ein mehrer&sr; zu lesen in der Zugabe
+deß wieder aufgelegten erst&te; Theil&sr; der Gespräch-
+spiele.</p>
+<d2><aq>III.</aq></d2>
+<p>15. Jm Gegentheil sind die Fehler in den
+Gedichten au&sr; Besagten leichtlich zu erkennen/
+wann sie nemlich wider gethanen Bericht lauf-
+fen. Jst also noch ruckständig von den Worten
+zu sagen/ und wa&sr; für absonderliche Fehler in sel-
+ben begangen werden können. Fremde Wörter
+<cw>können</cw>
+<pb="112"/>
+<kt>Die sechste Stund.</kt>
+kö&tn;en mit Fug in einem Teutschen Gedicht nicht
+stehen/ u&tn; welche solche gebrauchen/ gleichen de-
+nen/ die eine ehrliche Kleidung zu Hau&sr; vermot-
+ten lassen/ und sich mit einem fremden/ zerlump-
+ten/ und verlappten Bettler&sr;mantel bedecken:
+Wider dergleichen Sprachmischer ist zu lesen/
+wa&sr; jener dem <aq>V.</aq> Theil der Gesprächspiele vorge-
+füget an <aq>Signor Momum,</aq> der seinen <aq>D scur&sr;</aq> mit
+<aq>vocabuli&sr; peregrini&sr;</aq> zu <aq>enterlardiren</aq> pfleget.</p>
+<poem><aq>Patrono</aq> last euch nicht <aq>ad bilem commoviren,</aq>
+wann wir nach unsrer Weis&2019; und <aq>inclination,</aq>
+und nicht nach eurem Sinn/ Wahn und
+<et><aq>pr&00E6;lumtion</aq></et>
+purlauterteutsche Wort <aq>in conversando</aq> führ&te;:
+Sol eur <aq>mentalconcept</aq> sich recht <aq>realisiren,</aq>
+mit <aq>à la mode</aq> Red und <aq>Reputation,</aq>
+so <aq>gourmandiret</aq> ihr der Wörter <aq>naifen</aq> Ton.
+Jhr macht euch durch <aq>mespri&sr;</aq> deß Teutschen
+<aq>&00E6;stimiren, &amp;c.</aq></poem>
+<p>Diese Art der Lateinisirten Verse werden <aq>Maca-
+ro</aq>nisch <fn="&2020;"><aq>Macarone&sr; sunt quoddam pulmentum farin&00E2;,
+caseo, butiroque commixtum. vide <i>Merlini Cocaii
+Macaronian a in Apolog. f. 19.</i></aq></fn> genennet/ und sind nur zu Schertzge-
+dichten zu gebrauchen/ wie gesagt/ die sind am al-
+lerkünstlichsten/ wann da&sr; Latein mit dem Teut-
+schen reimt. Zum Exempel:</p>
+<cw>Wer</cw>
+<pb="113"/>
+<kt>Die sechste Stund.</kt>
+<poem>Wer ist der <aq>Phleg (el) maticu&sr;</aq>
+mit seinem <aq>Bacchu&sr;-</aq> Schlauch/
+<aq>qui parat vermibu&sr;</aq> ein Muß
+in seinem Wannenbauch:
+<aq>mox cadit.</aq> bald ihm <aq>Atropo&sr;</aq>
+giebt einen alten Bärenstoß/
+&amp; <aq>ultimat</aq> den G @ auch.
+H @</poem>
+<p>16. E&sr; werden aber allhier nicht verstanden
+die jenigen Wörter/ welche mit andern Spra-
+chen eine Verwandschaft haben/ von iederman
+aber verstanden/ und al&sr; Teutsche angesessene
+Schutzgenossen gehalten werden; al&sr; Acker/ (<aq>A-
+ger</aq>) Altar/ (<aq>Altare</aq>) bitten/ (<aq>petere</aq>) Wein/
+(<aq>Vinum</aq>) Oehl/ (<aq>Oleum</aq>) Pfeffer/ (<aq>Piper</aq>) ma-
+ger/ (<aq>macer</aq>) subtil <aq>(subtili&sr;) &amp;c.</aq> <fr>U</fr>nd kan einie-
+der leicht sehen/ wa&sr; sich füglich sagen läst/ und
+wa&sr; oft schertzweise in den Gedichten einge-
+bracht wird.</p>
+<p>17. Etliche Wörter lauten al&sr; zweysyllbige/
+und sind doch nur einsyllbig: sind deßwegen in
+den Versen hartklingend/ al&sr;: <fr>Zorn/ Horn/
+Stern/ Stirn/ Sporn/ Kern &rr;c.</fr> und viel
+andere/ welche <fr>rn</fr> zu Endbuchstaben haben.</p>
+<p><c><fr>Sein Zorn ist gantz entbrant.</fr></c></p>
+<p>Gibt in poetischen Ohren einen Mißklang/
+und solte vielleicht besser lauten:</p>
+<cw><fr>Sein</fr></cw>
+<pb="114"/>
+<kt>Die sechste Stund.</kt>
+<p><c><fr>Sein Grimm ist gantz entbrant.</fr></c></p>
+<p>Jn der mehrern Zahl aber so mach&te; solche Wör-
+ter ein richtigere&sr; Reimmaß. Also klinget in den
+zwölf v&tn; dreyzehensyllbig&te; kurtzlang&te; Gebänden
+sehr übel/ wann ein Füg-oder Geschlechtwort die
+sechste Syllbe schleust. Zum Exempel:</p>
+<poem><abb>
+Wer grossen Reichthum und auch manche
+<abb>
+<et>Sorgen liebt &rr;c.</et>
+von dem sagt man/ daß er Sinn und Verstand
+<et>betrübt.</et>
+Viel leichter geht der Ver&sr; also:
+Wer grosse&sr; Geld und Gut/ samt grossen Sor-
+<et>gen liebt &rr;c.</et>
+von solchem wird gesagt/ daß er den Sinn be-
+<et>trübt.</et></poem>
+<p>18. Die Wörter sollen seyn höflich und er-
+bar/ die unzüchtigen aber gäntzlich vermieden
+werden: dann zu geschweigen/ daß wir/ al&sr; Chri-
+sten/ wissen sollen/ daß wir von einem ieden un-
+nützen Worten Rechenschaft geben müssen/ so
+träget unsre Sprache gleichsam von Natur ein
+Abscheuen von aller <fr>U</fr>nsauberkeit/ daß wir viel
+unflätige Sachen nicht wol nennen können oh-
+ne sondere <fr>U</fr>mschreibung. Herr <fr>Opitz</fr> sagt
+<cw>von</cw>
+<pb="115"/>
+<kt>Die sechste Stund.</kt>
+von einer solchen Sache/ al&sr; e&sr; die Noht seine&sr;
+Jnhalt&sr; erfordert/ wolbedächtig:</p>
+<poem><fr>und jene</fr> (verstehe Krankheit) <fr>welche man
+<et>bey un&sr; nach Frankreich heist.</et></fr></poem>
+<p><c>und an einem andern Ort:</c></p>
+<poem><fr>da/ wo man auf die Wand den blossen
+<et>Rucken kehrt.</et></fr></poem>
+<p>19. Die zweydeutigen Wörter sind gleiche&sr;-
+fal&sr; zu fliehen/ und wie selbe nicht allezeit können
+übergangen werden/ muß man dahin bemühet
+seyn/ daß sie die Meinung nicht vertunkeln. Sol-
+che zweydeutige Wörter sind folgende: Arm/
+Kreb&sr;/ Küssen/ Rasen/ Reiff/ Seite/ Schloß/
+Weise/ Thor. Die Meinung ist zweiffelhaftig/
+wann ich setze:</p>
+<poem><fr>Zuletzten hat da&sr; Pferd da&sr; Thier weit ü-
+<et>berloffen.</et></fr></poem>
+<p>Man weiß nicht/ hat da&sr; Pferd da&sr; Thier/ oder
+da&sr; Thier da&sr; Pferd überloffen.</p>
+<p>20. Hier ist auch&007C; etlicher Latinisirende&sr;
+Teutschreden zu bemerken/ welche vermeinen/
+wann sie Wort von Wort übersetzen/ so haben sie
+e&sr; meisterlich au&sr; gerichtet/ man pflege gleich also
+zu reden/ oder nicht. Wann dort bey dem <aq>Virgilio</aq>
+stehet/ <aq>vescitur aur&00E2;,</aq> und ich wolte sagen/ er frist
+die Lufft/ so würde man mich billich au&sr;lachen:
+oder wann Sarbievzki sagt: <aq>intonsum Libani</aq>
+<cw><aq>caput,</aq></cw>
+<pb="116"/>
+<kt>Die sechste Stund.</kt>
+<aq>caput,</aq> so kan ich deßwegen nicht sagen/ da&sr; <fr>un-
+beschorne Haubt deß Berge&sr; Libanu&sr; &rr;c.</fr></p>
+<p>@ <aq>Scalig. l. 5. Poëtic.</aq></p>
+<p>21. E&sr; ist auch nicht zierlich/ wann gar zuviel
+kurtze oder lange Wörter in einer Reimzeile zu-
+sammenkommen/ al&sr;:</p>
+<poem><fr>Der Mann ist selbst die Unüberwindlich-
+<et>keit.</et>
+und wir sind nicht&sr; vor ihm/ al&sr; Unvoll-
+<et>kommenheit.</et></fr></poem>
+<p>Man kan sich der garzulangen Wörter leich-
+ter enthalten/ al&sr; der kurtzen; wann man anderst
+nicht mehrmal&sr; eine gute Meinung will fahren
+lassen. <aq>Scalig. l. 2. Poët. c.</aq> 31. von den viel ein-
+syllbigen Wörtern erstehet die Füglichkeit der
+Zusammensetzung/ ohn welche unsre Gedancken
+nicht können außgeredet werden/ darvon zu lesen
+H. Schottel&sr; Sprachkunst in der sechsten Lob-
+rede. <aq>Specimen Philolog. Germ. XI.</aq> 5.</p>
+<d2><aq>IV.</aq></d2>
+<p>22. Alle Fehler sind einander ungleich/ und ist
+zu Zeiten da&sr; Gedicht nicht zierlich gesetzet/ aber
+doch darinnen nicht gefehlet; al&sr;/ wann man
+die Flickwörter/ welche da&sr; Reimmaß nur au&sr;-
+füllen/ miteinmischet: dergleichen sind <fr>fein/
+wol/ schon/ eben/ machen thun/ sag&te; thun/
+han für haben/ lan für lassen/ &rr;c.</fr> wiewol lautet
+e&sr; doch/ wann jener sagt:</p>
+<cw><fr>Da</fr></cw>
+<pb="117"/>
+<kt>Die sechste Stund.</kt>
+<poem><fr>Da gab ihm</fr> fein <fr>Gott Phöbu&sr;</fr> schon
+wol <fr>einen Lorbeerkrantz zu Lohn.</fr></poem>
+<p>Solchen Reimschmieden gehört nit der Lorbeer-
+krantz/ sondern Mida&sr;kron. Wo aber diese Wör-
+ter etwa&sr; bedeuten/ so können sie nicht für müssig
+gescholten werden. Al&sr; wann der Poet sagt:</p>
+<cit><poem><fr>Die Thüre</fr> fein <fr>gemach mit stiller Hand
+<et>aufmachen.</et>
+Jch wolte</fr> wol <fr>ietzt hier nicht ligen/ wann
+<et>der Winter were weg &rr;c.</et>
+Deß Abend&sr; setzt man</fr> schon
+<fr>die Sichel an/ und machet Heu da-</fr>
+<et><fr>von &rr;c.</fr> Opitz Psalm 90.</et></poem></cit>
+<p>23. E&sr; ist aber für einen Fehler au&sr;zusetzen/
+wa&tn; auf da&sr; e ein Stimmer folget/ da da&tn; auch
+in ungebundner Rede da&sr; e au&sr; gelassen wird/
+al&sr; wann ich sage: <fr>e&sr; belangt meine Ehre/</fr>
+da höret man/ daß die zusammentreffende e <fr>E</fr>
+gleichsam in eine Syllbe gefüget werden. Also
+ist die Reimzeil nicht richtig/ wann man setzet:</p>
+<poem><fr>Meine Angst ist übergroß/</fr></poem>
+<p>e&sr; muß da&sr; e durch da&sr; Hinterstrichlein wegge-
+worffen werden: also: <fr>Mein&2019; Angst &rr;c.</fr> Hierin-
+nen haben die Wörter/ welche von einem <fr>H</fr> an-
+fangen/ eine Freyheit/ daß ich da&sr; Hinterstrich-
+lein gebrauchen kan/ und auch au&sr;lassen/ Jch
+kan sagen: <fr>Dein&2019; Hand/</fr> und <fr>deine Hand.</fr>
+<bs>H</bs><cw>Wann</cw>
+<pb="118"/>
+<kt>Die sechste Stund.</kt>
+Wann aber da&sr; e keine Syllbe absonderlich ma-
+chet/ al&sr; in <fr>wie/ die/ nie/ &rr;c.</fr> so ist ohne Noht/ daß
+man da&sr; e wegwerffe/ weil e&sr; mit der Syllben
+deß folgenden Wort&sr; nicht verhängt wird/ kan
+also wol sagen:</p>
+<poem><fr>Wie?</fr> ist <fr>die</fr> erste Krafft noch nie von ihm ge-
+<et>gangen?</et></poem>
+<p><c>und nicht:</c></p>
+<poem><fr>Wi?</fr> ist di&2019; erste Krafft noch <fr>nie &rr;c.</fr></poem>
+<p>Sonder Zweiffel aber mag da&sr; e stehen bleiben/
+wo eine Meinung geschlossen/ und in der Rede
+ein wenig stillgehalten wird. Al&sr;:</p>
+<poem><fr>Ach schöne! Euer Thun weist hoher Tu-
+<et>gend Lob.</et></fr></poem>
+<p>24. Wann da&sr; e zu Ende stehet/ kan e&sr; blei-
+ben/ und zuzeiten auch weggeworffen werden/
+wann ein Stimmer (<aq>vocali&sr;</aq>) folget. Hier auß ist
+zu schliessen/ daß da&sr; Hinterstrichlein zwischen
+zweyen Mitstimmern (<aq>Consonantibu&sr;</aq>) nicht
+statt findet/ und darf ich nicht schreiben lieb&2019;t/
+<fr>geh&2019;t/ frag&2019;t/</fr> für liebet/ gehet/ fraget: weil da&sr; e in
+ungebundner Rede ohne Zwang kan also auß-
+gelassen werden; welche&sr; aber in der Weise zu en-
+digen (<aq>in modo infinitivo</aq>) nicht verzwicket gül-
+tig ist/ wann ich schreiben und sagen wolte/ <fr>liebn/
+behagn/ fragn.</fr></p>
+<p>25. Gleicherweise kan da&sr; e nicht au&sr;gelas-
+<cw>len</cw>
+<pb="119"/>
+<kt>Die sechste Stund.</kt>
+sen werden/ wann e&sr; da&sr; Geschlechtwort/ oder
+die mehrere Zahl erfordert. Jch kan in gebund-
+ner Rede (wiewol sonst der Pöbel zu reden pfle-
+get/) nicht setzen: <fr>Mein Frau/ mein Faust/
+viel Händ/ drey Tisch &rr;c.</fr> sondern <fr>Meine
+Frau/ meine Faust/ viel Hände/ drey Ti-
+sche &rr;c.</fr></p>
+<p>26. Wie nun da&sr; e besagter massen nicht kan
+au&sr;gelassen werden/ also kan e&sr; auch nicht ohne
+<fr>U</fr>rsache zu Erfüllung deß Reimmasse&sr; angefü-
+get werden. Jch kan nicht sagen/ da&sr; Hertze/ da&sr;
+Grabe/ der Herre/ &rr;c. Weil wir in ungebundner
+Rede auch nicht so sagen/ und ist diese&sr; keine
+Nohtfreyheit/ welche wider die Eigenschaft uns-
+rer Sprache streitet.</p>
+<p>27. Jn den Liedern muß ein iede&sr; Gesetz/ o-
+der Satz eine gantze Meinung schliessen/ u&tn; durch
+die Pausen/ oder Absatz der Noten nicht unter-
+brochen werden. Die Fehler in dem Reimge-
+bände sind leichtlich zu erkennen/ wann fie in die
+Melodeyen gesetzet werden. Al&sr; in dem schönen
+Lied/</p>
+<poem><abb>
+<fr>Wann wir in höchsten Nöhten seyn/ &rr;c.</fr></poem>
+<p>hangen die zwey ersten Gesetze wider die Regel
+aneinander; und ist in dem Satz die zweyte
+Reimzeil langkurtz:</p>
+<bs>H ij</bs><cw><fr>allen/</fr></cw>
+<pb="120"/>
+<kt>Die sechste Stund.</kt>
+<poem><abb>
+<fr>allen/ die darum bitten dich &rr;c.</fr></poem>
+<p>da doch da&sr; <fr>en</fr> in <fr>allen</fr> und <fr>bitten</fr> nicht lang ste-
+hen kan.</p>
+<p>28. Also ist auch gröblich gefehlt/ wann die
+Wörter nicht in gebührlicher Ordnung aufein-
+ander folgen/ und wegen deß Reimen&sr; versetzet
+werden.</p>
+<poem><fr>Nur Staub wir Menschen sind und Er-
+<et>den/</et>
+wa&sr; ich bin/ du da&sr; auch must werden.</fr></poem>
+<p><c>Oder:</c></p>
+<poem><fr>Ach lieben Leute nicht so übel lebet!
+vielmehr der Tugend allezeit euch gebet.</fr></poem>
+<p>Also sind die Wörter verkehrt wann man sagt:
+Die <fr>Blumen schön/</fr> die <fr>Rö&sr;lein roht/</fr> die
+<fr>Sinne klug/</fr> &rr;c.</p>
+<p>Findet man doch mehrmal&sr; rechtgemässne
+Reimzeilen/ in ungebundner Rede/ warüm solte
+man die Ordnung der Wörter nicht in der ge-
+bundnen Rede beobachten können? Al&sr; im 23
+Psalm.</p>
+<abb>
+<cit>Er weidet mich auf einer grünen Auen.</cit>
+<p><c>Jm 25. Psalm.</c></p>
+<cit>Gedenke nicht der Sünden meiner Jugend.</cit>
+<cw>Jm</cw>
+<pb="121"/>
+<kt>Die sechste Stund.</kt>
+<p><c>Jm 36. Psalm.</c></p>
+<abb>
+<cit>HERR/ deine Güte reicht/ )( so weit der Him-</cit>
+<abb>
+<cit><c>mel ist )(</c></cit>
+<p><c>Jm 119. Psalm.</c></p>
+<abb>
+<cit>Meine Seele ligt im Staube )(
+Hilff mir Gott durch dein&te; Namen )(</cit>
+<p><c>Jm 98. Psalm.</c></p>
+<abb>
+<cit>Lobet den HERREN mit Harffen/ mit
+<abb>
+Harffen/ )( und Psalmen.</cit>
+<p><c>Jm 120. Psalm.</c></p>
+<abb>
+<cit>HERR lehre mich heilsame Sitten. )(</cit>
+<p>Diese&sr; ist also der kurtze Entwurff der Dicht-
+und Reimkunst/ zu welcher endlicher Au&sr;übung
+und höchster Vollko&tm;enheit nicht sech&sr; Stun-
+den/ sondern sech&sr;malsech&sr; Monat/ ja wol so viel
+Jahre und Bücher erfordert werden. Jnzwi-
+schen lassen sich die Anfänger (da&tn; mehr verstän-
+dige/ welche diese&sr; u&tn; ein mehrer&sr; wissen/ solche&sr;
+Triechter&sr; nicht vonnöhten hab&te;) mit solcher ge-
+ringen Arbeit vergnügen/ und geruhen/ auch wei-
+<bs>H iij</bs><cw>ter&sr;</cw>
+<pb="122"/>
+<kt>Die sechste Stund.</kt>
+ter&sr; in Eingang&sr; ernanten Poeten nachzusu-
+chen und abzusehen. Etliche halten die Kunst-
+griffe für eine Geheimnisse/ die man/ durch offent-
+lichen Druck/ nicht soll gemein machen: unbe-
+trachtet/ daß der/ so die Zugehör eine&sr; Gedicht&sr;
+verstehet/ darüm noch lang kein Poet sey; und
+wann auch derselben so viel/ al&sr; zu den Frieden&sr;-
+zeiten Augusti gefunden werden solten/ würden
+doch wenig Virgilii darunter seyn; die Ovidii/
+Horatii/ Catulli/ Persii/ und Juvenale&sr;/ aber
+ihre&sr; Lob&sr; nicht ermangeln. Solte dieser Trich-
+ter von der Jugend beliebet werden/ were der
+Spielende nicht ungeneigt/ noch sech&sr; Stun-
+den zu mehrerer Au&sr;führung dieser Kunst bey-
+zufügen. Verhoffentlich/ wird niemand da&sr;
+Gelt für diese wenige Bögen/ noch die Zeit/ so er
+darauf gewendet/ bereuen: den Verfasser auch
+entschuldigen/ daß er etliche kindische Sachen/
+wegen besagter Anfänger/ miteingerucket/ und
+viel/ da&sr; besser durch mündlichen Bericht ge-
+lehret wird/ au&sr; gelassen. Er verbleibet allen/ ab-
+<c>sonderlich aber den Liebhabern der Teut-
+schen Sprache/ eussersten Vermö-
+gen&sr; zu dienen ver-
+bunden.</c></p>
+<cw>An-</cw>
+<pb="123"/>
+<back>
+<hr>
+<d1><b>Anhang.</b></d1>
+<d2>Vnvergreifliche&sr; Bedenken
+<b>von der Rechtschreibung/</b>
+und
+<b>Schriftscheidung</b>
+unserer Teutschen
+<b>HELDENSPRACHE.</b></d2>
+<d3>§. 1.</d3>
+<p><in>D</in>Er höchstweise Schöpfer diese&sr;
+Weltbaue&sr; hat die Erden mit ho-
+hen Bergen unterschied&te;/ mit weit-
+schweiffenden Meeren gesondert/
+und mit vielen schlanken Flüssen
+abgetheilet; Die Jnwohner aber derselben/ durch
+die <fr>Sprachen</fr> und Sitten/ in gantz ungleicher
+Beschaffenheit/ wissen wollen. Wie nun alle&sr;/
+wa&sr; wir Menschen besitzen/ in stet&sr;schweben-
+der <fr>U</fr>nbeständigkeit verharret; al&sr; ist sich nicht
+zu verwundern/ wann auch mit Zerrüttung der
+Völker/ durch ihre/ theil&sr; benohtsachte/ theil&sr;
+freywillige Wanderschaften/ Kriegen/ Siegen/
+<bs>H iiij</bs><cw>und</cw>
+<pb="124"/>
+<kt>Anhang.</kt>
+und <fr>U</fr>nterligen/ die Sprachen in mancherley
+Veränderung/ Vermischung/ und Jr&rr;ung miß-
+geraten. Jst diese&sr; gantze Weltwesen so wandel-
+bar wie solte man da&tn; in einem flüchtigen Wort-
+laut einige Beständigkeit erhärten oder bejahen
+können? @ <aq>Besold. di&sr;cur&sr;. de nat. popul.</aq></p>
+<d3>§. 2.</d3>
+<p>Diesem nach scheinet eine mehrgelehrte/ al&sr;
+nohtwendige Frage/ wie unsre Sprache von A-
+scena&sr;/ der Teutschen Stammvatter/ bi&sr; auf
+unsre Zeiten/ nach und nach geändert und ver-
+formet worden? Nutzlicher aber kommet zu be-
+trachten: <fr>Welcher gestalt die hochteutsche
+jetzt übliche Haubt-und Heldensprache in
+ihre höchste Vollkommenheit/ übertref-
+lichen Ehrenstand/ kunstrichtige Verfas-
+sung/ und grundmässige Wortschreibung
+zu bringen/ und völlig einzurichten seye.</fr>
+Der allgütige Gott hat hier zu hohe Geister erwe-
+cket/ welche in diesen behar&rr;lichen Jammerzeiten
+einen glücklichen Anfang gemacht/ die auch mit
+gesamter Handbietung vergesellschaftet/ ein so
+fruchtbringende&sr; Vorhaben fortzustellen nicht
+unterlassen werden.</p>
+<d3>§. 3.</d3>
+<p>Weil aber sonderlich an jetztbesagtem Sprach-
+stucke der <fr>Rechtschreibung</fr> dem Poeten/ des-
+<cw>sen</cw>
+<pb="125"/>
+<kt>Anhang.</kt>
+sen erste Lehrzeit in vorgesetztem Werklein ange-
+wiesen worden/ wegen Bindung der Reimwort/
+viel gelegen/ und einem ieden freystehet/ seine Ge-
+danken mehrverständiger Straffurtheil zu un-
+tergeben; al&sr; ist für schicklich erachtet worden/
+etwa&sr; wenige&sr; auf Verbesserung mehrvernünf-
+tigen Gutachten&sr; hierbey anzufügen: und zwar
+dergestalt/ daß man alle&sr; und iede&sr; auf einmal/
+al&sr; verwerflich/ au&sr;zusetzen nicht gedenket; son-
+dern nur Anfang&sr; die unwiedersprechlichsten
+Fehler/ und die hingegen unhintertreibliche
+Grundsätze zu berühren gewillet ist.</p>
+<d3>§. 4.</d3>
+<p>Der Grund der Rechtschreibung beruhet <aq>I.</aq>
+<fr>auf richtigen Ursachen/</fr> oder <aq>II.</aq> <fr>auf der
+Gewonheit/ so die Gelehrten an-und ein-
+geführet.</fr> Wo die <fr>U</fr>rsachen aufhören/ fänget
+die Gewonheit an: Jch will sagen; wo man kei-
+ne Ursachen geben kan/ folget man billich der ge-
+bräuchlichen Mundart/ und lässet die blinde Ge-
+wonheit deß unverständigen Pövelvolk&sr; an sei-
+nem Ort verbleiben: Massen der Buchstaben
+Amt/ und Eigenschaft ist/ den Laut und Ton der
+<fr>wolau&sr;gesprochnen Wörter/</fr> deutlichst
+und vernemlichst/ zu binden/ und au&sr;zuwirken.</p>
+<d3>§. 5.</d3>
+<p>Die <fr>U</fr>rsachen/ vermittelst welcher wir unge-
+<bs>H v</bs><cw>zweif</cw>
+<pb="126"/>
+<kt>Anhang.</kt>
+zweiffelt recht schreiben/ sind folgende: Die <aq>I.</aq>
+wird hergenommen von der <fr>Eigenschaft der
+Buchstaben/</fr> daß wir die Stimmer/ (<aq>vocale&sr;</aq>)
+und Mitstimmer (<aq>consonante&sr;</aq>) nicht ohne <fr>U</fr>r-
+terscheid vermischen/ da&sr; lange j/ u&tn; da&sr; geschlos-
+sene <fr>v/</fr> welche&sr; Mitstimmer sind/ nicht mit dem
+i und u/ den Stimmern wechseln/ und also schrei-
+ben <fr>jhr/ jhm/ jch/ Awen/ ewer/ schawen/</fr> für
+<fr>ihr/ ihm/ ich/ Auen/ euer/ schauen &rr;c.</fr> Wann
+man unwiedersprechlich recht schreibet <fr>Jahr/
+jagen/ jenen/</fr> und <fr>Laut/ Hauß/ euch;</fr> so müs-
+sen die unter schiedlichen Buchstaben einen un-
+terschiedlichen Gebrauch haben und da&sr; <fr>au/
+eu/</fr> nicht in <fr>aw/</fr> und <fr>ew/</fr> noch die Endbuchsta-
+ben <fr>&sr; ß</fr> in die Anfang&sr;-und Mittelbuchstaben <fr>s</fr>
+ss verändert werden. Da&sr; grosse <fr>J</fr> solte mit ei-
+nem Strichlein unterschieden seyn. Hierbey
+fragt sich: ob da&sr; <fr>c</fr> in den Teutschen Wörtern
+wie ein k könne gelesen werden? Die Griechen
+haben kein <fr>c/</fr> die Lateiner haben kein k. Weil man
+aber da&sr; Teutsche vor Alter&sr; mit Lateinischen
+Buchstaben geschrieben/ ist da&sr; <fr>c</fr> für da&sr; <fr>k</fr> ge-
+brauchet worden. Wir haben un&sr; aber nach an-
+dern nicht zu richten/ weil wir da&sr; <fr>c/</fr> und da&sr; <fr>k</fr>
+haben/ u&tn; gebrauchen/ iedoch iede&sr; an seinem ge-
+hörigen Ort/ und halten für besser daß man da&sr;
+<fr>c</fr> niemal&sr; au&sr;rede/ wie da&sr; <fr>k:</fr> doch haben wir e&sr;
+<cw>hier-</cw>
+<pb="127"/>
+<kt>Anfang.</kt>
+hierinnen wie vielen andern &007C;bey den Alten ver-
+bleiben lassen/ allen Argwahn der Neugierigkeit
+zu vermeiden.</p>
+<d3>§. 6.</d3>
+<p>Die <aq>II.</aq> <fr>U</fr>rsach wird hergenommen von der
+<fr>Ableitung</fr> der Wörter/ den Vorsyllben und
+Nachsyllben/ deren in der zweyt&te; Stund gedacht
+worden. Diese Beyfügung nun kan die wesentli-
+chen Stammbuchstaben nicht vermindern/ son-
+dern geben durch ihren Zusatz vielmal&sr; zu erken-
+nen/ wa&sr; recht oder unrecht geschrieben ist/ al&sr;
+ich schreibe <fr>Schwert/ La&tm;/ fro&tm;/</fr> weil man
+sagt Schwerter/ Lämmer/ Frommen &rr;c. Diese
+<fr>U</fr>rsache ist gleich der <fr>Ursprung</fr> deß Wort&sr;/
+wann ich schreibe <fr>Maß/ Lasst/</fr> <aq>sinite</aq> (ein an-
+der&sr; ist <fr>Last/</fr> (<aq>onu&sr;</aq>) <fr>Gelt/</fr> weil man schreibt
+<fr>messen/ belasten/ vergelten &rr;c.</fr> Hierbey waltet
+ein Zweiffel: ob man die Wörter theilen sol wie
+die Lateiner: <fr>mes- sen/ müs- sen/ rer- gel-
+ten/</fr> oder/ wie sie zusammengesetzet worden/ <fr>mess-
+en/ müss en/ gelt- en?</fr> da&sr; erste ist gebräuchlich/
+da&sr; letzte verantwortlicher: dann unsre Haubt-
+sprache sich nach keiner andern zu richt&te; hat/ wie
+gesagt. Hierau&sr; folget aber nicht/ daß die Stirn-
+mer niemal&sr; solten verändert werden/ daß man
+schreiben solte <fr>wärden/</fr> weil man sagt/ ich <fr>wa-
+re/ sprächen/</fr> weil man sagt/ die <fr>Sprache/</fr> o-
+der <fr>frässen/</fr> weil man sagt der <fr>Fraß:</fr> Nein/ die
+<cw>Stim-</cw>
+<pb="128"/>
+<kt>Anhang.</kt>
+Stimmer/ <fr>a/ e/ i/ o/ u/</fr> wandlen da&sr; Zeitwort/
+und verbleiben nicht/ wie die mitstimmenden
+Sta&tm;buchstaben/ also: Jch <fr>ware/ werde/</fr> er
+<fr>wird/</fr> ist <fr>worden/ wurde; die Sprache/
+sprechen/</fr> man <fr>spricht/ gesprochen/</fr> der
+<fr>Spruch/</fr> der <fr>Fraß/ gefreffen/</fr> er <fr>frisst/</fr> &rr;c.
+Wann man die Gebietung&sr;weise für ein Sta&tm;-
+wort setzet/ kan man au&sr; den Vor- und Nachsyll-
+ben alle&sr; leichtlich beurtheilen/ da man sonsten
+schwerlich eine durchgehende Richtigkeit wird
+find en können. <fn="*"><aq>Specim. Philolog. Germ. Di&sr;quisit. X.</aq></fn></p>
+<d3>§. 7.</d3>
+<p>Die <aq>III.</aq> Grundursache wird hergenommen
+von der <fr>Eigenschaft der Bedeutung;</fr> wann
+nemlich da&sr; Harte mit Hartem/ da&sr; Linde und
+Weiche mit weichen Buchstaben geschrieben
+wird/ al&sr;: <fr>dapfer/ drucken/</fr> nicht <fr>tapfer/
+trucken</fr> (ist so viel al&sr; tröge oder treuge Nahum
+1. v. 4.) Vielen mißfället diese <fr>U</fr>rsach/ welchen
+man keine Ordnung zu geben gedenket.</p>
+<d3>§. 8.</d3>
+<p>Die <aq>IV.</aq> <fr>U</fr>rsache kan hergeführet werden von
+der <fr>Wörter Unterscheidung/</fr> indem sie
+nemlich der Au&sr;rede nach gleichstimmig/ der
+Schreibung nach unterschieden sind; <fr>da&sr;</fr> ist ein
+Vornennwort (<aq>Pronomen Hoc</aq>) <fr>daß</fr> ist ein
+<cw>Füg-</cw>
+<pb="129"/>
+<kt>Anhang.</kt>
+Fügwort (<aq>Conjunctio Ut</aq>) <fr>Beuten/</fr> Beute
+machen/ <fr>beiten/</fr> warten/ <fr>säen/</fr> besamen/ <fr>sehen/
+bi&sr;/</fr> <aq>u&sr;que,</aq> und <fr>Biß/</fr> vom <fr>beissen/</fr> gebissen/
+(<aq>morsu&sr;.</aq>) Hiervon ist zu lesen da&sr; nutzliche
+Büchlein deß <fr>Ordnenden/</fr> welcher die Recht-
+schreibung in eine feine Richtigkeit zu bringen/
+beginnet.</p>
+<d3>§. 9.</d3>
+<p>Die <aq>V.</aq> Vrsache ist die durchgehende <fr>Gleich-
+stimmung der Sprache/</fr> <fn="*"><aq>Analogia.</aq></fn> also schreiben wir
+Genoßschaft/ und nicht Genossenschaft/ weil
+man sagt: Brüderschaft/ Freundschaft/ Kauff-
+manschaft &rr;c. Au&sr; dieser Vrsache schreiben etli-
+che <fr>wier/ dier/ mier/</fr> weil man schreibet/ Zier/
+hier/ Bier/ &rr;c. Zu dieser durchgehenden Gleich-
+heit der Sprache gehöret auch diese&sr;/ daß die
+fremden Wörter mit ihren eigentlichen fremden
+Buchstaben behalten werden/ al&sr; <fr>Prophet/
+Nymphe/ Phöbu&sr;/</fr> u&tn; nicht <fr>Profet/ Nym-
+fe/ Febu&sr;:</fr> dann ich sonst auch in andern Wör-
+tern da&sr; <fr>f</fr> für ein <fr>ph</fr> setzen müsste/ al&sr; Farao/
+Filip/ Fenix/ welche&sr; sehr fremd/ und von andern
+hochansehnlichen Personen zuvor in Gebrauch
+gebracht werden muß.</p>
+<d3>§. 10.</d3>
+<p>Wann aber ein Wort au&sr; erstbesagten Vr-
+<cw>sachen</cw>
+<pb="130"/>
+<kt>Anhang.</kt>
+sachen nicht kan beurtheilet werden/ so sihet man
+auf die gewöhnliche Schreibung/ deren Grund
+ist die <fr>wolau&sr;gesprochne Rede/ od&2019; Mund-
+art/</fr> welche von vielen allen Vrsachen vorgezo-
+gen wird: Daher dann leichtlich zu mutmassen/
+warüm man sich in dieser Sache so gar nicht ver-
+gleichen kan. Der Schlesier schreibt/ wie er redet/
+u&tn; reimet <fr>a</fr> u&tn; <fr>o</fr> wie H. Opitz sel. weil <fr>er Kunst</fr>
+u&tn; <fr>sonst</fr> gleich au&sr;spricht: der Meisner schreibt/
+wie er zu reden pfleget/ zärtlich und reinlich: der
+Braunschweiger stark und männlich: Doch sind
+alle in diesem einig/ daß die Schrift die Rede bil-
+den sol: gleichwie die Rede die Gedanken: nem-
+lich noch mit zuviel Worten/ noch überflüssigen
+Buchstaben; daher findet man fast in allen neu-
+en Büchern au&sr;/ auf/ üm/ damit in den zusam-
+mengesetzten Wörtern nicht zuviel mitlautende
+Buchstaben gehäuffet/ und die Sprache rau/
+schwer und grob gemacht werde. al&sr;: <fr>au&sr;schro-
+ten/ auffahren/ ümringen/</fr> nicht <fr>außschro-
+ten/ aufffahren/ ümbringen.</fr> Hierinnen aber
+wollen wir niemand Gesetze geben.</p>
+<d3>§. 11.</d3>
+<p>E&sr; ist auch bißhero in den Druckereyen/ au&sr; ei-
+nem beliebten Mißbrauch/ bey allen selbststän-
+digen Nennwörtern (<aq>Nominibu&sr; substantivi&sr;</aq>)
+ein grosser Buchstab Anfang&sr; gebrauchet wor-
+<cw>den/</cw>
+<pb="131"/>
+<kt>Anhang.</kt>
+den/ welcher doch nur in gewissen Fällen dienen
+solte/ al&sr;: <aq>I.</aq> Zu Anfang einer gantz neuen Mei-
+nung/ mit einem neuen Absatz. <aq>II.</aq> zu den eignen
+Namen/ Aemtern/ Künsten/ und denen Wör-
+tern/ so wa&sr; sonderliche&sr; bedeuten. <aq>III.</aq> zum <fr>U</fr>n-
+terscheid/ al&sr; in dem Zehlwort <fr>Ein/</fr> und dem
+Geschlechtwort <fr>ein</fr> &rr;c. Doch muß man hierin-
+nen einem jeden seine Meinung lassen; weil sol-
+che&sr; alle&sr; keine Glauben&sr;sachen belanget/ und
+ein jeder nur eine Stimme in dem Capitel hat/
+Jch will sagen: ein ieder kan wol zu vernemen
+geben/ wa&sr; ihm gefällt oder mißfällt; e&sr; ist aber
+deßwegen sein Wahn kein richterlicher Au&sr;-
+spruch/ sondern er muß geschehen lassen/ daß an-
+dere von seinem schnellen <fr>U</fr>rtheil mehr bedacht-
+sam wieder urtheilen. So viel kürtzlich/ und un-
+maßgeblich von der Rechtschreibung d&2019; Wörter.</p>
+<d3>§. 12.</d3>
+<p>Die <fr>Schriftscheidung</fr> ist ein Theil von
+der Rechtschreibung/ und zwar nicht der letzte;
+gestalt die wolgeschriebne Wörter/ ohne solche/
+vielmal&sr; nicht/ oder ja schwerlich mögen verstan-
+den werden; daher auch besagte Schriftschei-
+dung die Gloß und Erklärung/ oder vielmehr der
+Mark- und Grentzstein kan genennet werden/
+welche berichtet/ wa&sr; zusammengehöret/ u&tn; wa&sr;
+hin und wieder getheilet/ und gesondert werden
+<cw>muß.</cw>
+<pb="132"/>
+<kt>Anhang</kt>
+muß. Sol unsre Teutsche Sprache zu höchster
+Vbertrefflichkeit gelangen/ so wird auch diesem
+und vielen andern Stücken/ von den Bücher-
+schreibern/ und Drucksetzern ein mehrerer Fleiß/
+al&sr; bi&sr;hero/ angewendet werden müssen.</p>
+<d3>§. 13.</d3>
+<p>Jn der Schriftscheidung sind folgende Zei-
+chen(=) -) (/) (,) (;) (:) (.) (?) (!) (&2019;) () gebräuch-
+lich/ von welchen absonderlich zu handlen seyn
+wird. Von dem Mittelstrichlein (-) und <fr>Theil-
+zeichen</fr> (-) wie auch von dem <fr>Hinter-</fr> oder
+<fr>Nachstrichlein</fr> (&2019;) ist bey der zweyten Stund
+§. 2. und sechsten Stunde §. 22. Meldung be-
+schehen/ folget also von den andern.</p>
+<d3>§. 14.</d3>
+<p>Wann man die Sache genau nemen wolte/
+so müste man einen Vnterscheid machen zwisch&te;
+dem Zwergstrichlein/ <aq>comma</aq> genannt/ (/) und
+da&sr; <fr>Beystrichlein/</fr> <aq>semicomma</aq> (;) genannt/
+welche&sr; die Hebreer unterscheiden/ und bereit in
+den Drucker eyen vorhanden ist. Weil aber noch
+keine solche Neurung eingeführet/ lassen wir e&sr;
+hierinnen/ wie in vielen andern/ bey der alten Ge-
+wonheit verbleiben; mit Erwünschen/ daß wir
+un&sr; derselben Tyranney nach und nach mit gu-
+ten Vrsachen entziehen könten.</p>
+<cw>§. 15.</cw>
+<pb="133"/>
+<kt>Anhang.</kt>
+<d3>§. 15.</d3>
+<p>Etliche sagen/ daß da&sr; <fr>Zwergstrichlein</fr> (/)
+dienet zu <fr>U</fr>nterscheidung der Wörter/ welche
+mit einem Zeitwort verbunden sind/ al&sr;: <fr>Kein
+Prophet/ und kein Poet gilt in seinem Va-
+terland. E&sr; hindert auch nicht&sr;/ wann ein</fr>
+Füg- oder Beywort darzukommet/ al&sr;: <fr>Eitler
+Wahn/ unbeständiger Reichthum/ und
+grosser Her&rr;en Gnade pfleget ihrer viel/
+mitlehrer Hoffnung zu begaben.</fr> <aq>II.</aq> dienet
+da&sr; Zwergstrichlein/ wann die Erklärung eine&sr;
+Ding&sr; folget/ al&sr;: <fr>die zukünfftige Zeit ist eine
+Rähtsel/ ich will sagen/ eine Geheimniß/
+welche wir mit Nachsinnen auflösen wol-
+len.</fr> <aq>III.</aq> dienet da&sr; Zwergstrichlein/ wann wir
+einem Wort lange Beywörter zusetzen/ al&sr;: <fr>der
+allerweiste König Salomo/ ein Herr über
+Jsrael/ hat &rr;c.</fr> <aq>IV.</aq> wann etwa&sr; darzwischen
+gesetzet wird/ daß zwar zu der gantzen Meinung
+gehört/ aber dieselbe zweiflig/ oder zu verstehen
+schwer machet/ so könte man wol da&sr; besagte
+Beystrichlein gebrauchen/ also: <fr>Er hatsolche
+Thätlichkeit, freventlich, verübet.</fr> Hier wird
+da&sr; Wort <fr>freventlich</fr> darzwischen gesetzet/ u&tn;
+scheinet doch/ da&sr; Zwergstrichlein sey zuviel.</p>
+<d3>§. 16.</d3>
+<p>Da&sr; <fr>Strichpünctlein</fr> (;) <aq>semicolon</aq> unter-
+<bs>J</bs><cw>schei-</cw>
+<pb="134"/>
+<kt>Anhang.</kt>
+scheidet <aq>I.</aq> die kurtzen Gleichnisse: <fr>Wie die
+Lockvögel andere/ in ihrem Gefängniß/
+zum Verderben ruffen; also verführen die
+Bösen den einfältigen Jüngling.</fr> <aq>II.</aq> dienet
+da&sr;; in dem Gegenstand unterschiedlicher Sa-
+chen/ al&sr;: <fr>Du hast an mich geschrieben Gu-
+te&sr; und Böse&sr;; Neue&sr; und Alte&sr;; die Lü-
+gen und die Warheit: wer e&sr; glaubt/ muß
+sich betrogen finden.</fr> <aq>III.</aq> wann die Mei-
+nung durch etliche Dopelpunct gesondert wird/
+und selbe widerüm zertheilet werden/ so hat da&sr;
+Strichpünctlein statt/ also: <fr>Man sol in Un-
+glück nicht zusehr trauren; wie die Hey-
+den/ so keinen Trost haben: Jn Glück sich
+nicht zusehr freuen; wie die Weltkinder/
+die ihre&sr; Gotte&sr; vergessen; ja vermeinen/
+e&sr; müsse ihnen alle&sr;/ nach Wunsch/ hin-
+au&sr;gehen.</fr> Der Poet sol sich hüten/ daß er kei-
+ne so langschweiffige Meinung binde; weil solche
+sonderlich in den kurtzen Liederreimen den Jn-
+halt schwer/ und dem Zuhörer unvernemlich
+machen. Je kürtzer er seine Meinung schliessen
+kan/ ie lieblicher/ und leichter ist da&sr; Lied/ und da&sr;
+Gedicht. Mit dem Redner hat e&sr; eine andere
+Meinung.</p>
+<d3>§. 17.</d3>
+<p>Der Dopelpunct (:) bindet <aq>I.</aq> eine gantze
+<cw>Mei-</cw>
+<pb="135"/>
+<kt>Anhang.</kt>
+Meinung/ die noch nicht völlig angeführet ist;
+wann nemlich eine Meinung unterschiedliche
+Theil hat/ deren ieder mit seinem Zeitwort ge-
+schlossen wird/ oder eine <fr>U</fr>rsach drauf folget/ also:
+<fr>Jch ward gefragt/ wie viel ich Jahre auf
+mir hätte? Jch antwortet: keine: dann/ sag-
+te ich/ die ich gehabt/ habe ich nicht mehr;
+die ich aber noch bekommen/ oder erleben
+werde/ sind noch künftig und ungewiß:
+gestalt mir und allen Menschen der Tod/
+auf dem Fuß/ nachfolget.</fr> <aq>I.</aq> dienet da&sr;
+Dopelpünctlein eine hefftige Gemüt&sr;bewegung
+au&sr; zudrucken/ oder in einer Erzehlung/ die viel
+Theile hat/ al&sr;: <fr>die Soldaten machen
+au&sr; Freunden Feinde: sie fluchen; weil
+sie den Fluch mit sich bringen/ und ver-
+flucht sind: sie sundigen/ und straffen der
+Bösen Sünde. Da&sr; Hau&sr;/ welche&sr; sie
+vor Kälte/ Regen und Schnee bedecket/
+legen sie/ zur Danckbarkeit/ in die Aschen:
+ihr Glück ist unser Unglück: sie sind die
+Rute/ darmit Gott die bösen Kinder stäu-
+pet/ und die er hernach auch in da&sr; Feu-
+er wirfft.</fr> <aq>III.</aq> dienet da&sr; Dopelpünctlein in
+langen/ und weitläufftigen Gleichnissen/ also:
+<fr>Wie da&sr; faule Holtz/ in der Finsterniß/
+helle Stralen von sich wirfft/ daß man e&sr;</fr>
+<bs><fr>J ij</fr></bs><cw><fr>für</fr></cw>
+<pb="136"/>
+<kt>Anhang.</kt>
+<fr>für eine Glut ansihet: Also ist der Heuch-
+ler ein falsche&sr;/ und gleichsam erdichte&sr;
+Flammenliecht/ da&sr; die Einfältig&te; leicht-
+lich betrüget &rr;c.</fr> <aq>IV.</aq> dienet auch da&sr; Dopel-
+pünctlein ein gewisse&sr; Beding beyzufügen/ also:
+<fr>Vn&sr; Menschen sind in dieser Welt die zeit-
+lichen Güter gegeben: mit dem Beding/
+daß wir darüber dem gutthätigen Gott
+Rechnung leisten sollen.</fr></p>
+<d3>§. 18.</d3>
+<p>Wie zweyerley Strichlein (/) (,) zweyerley
+Dopelpünctlein (;) und (:) Also gebrauchen
+auch die Lateiner zweyerley Punct/ den grossen.
+auf welchen ein grosser Buchstab/ und ein neuer
+Absatz § folget; und ein kleinen Punct/ auf wel-
+chen ein kleiner Buchstab/ in gleicher Zeil/ fol-
+get; wann nemlich die gantze Meinung kurtz ist/
+und an den folgenden Worten nicht hänget/ al-
+so: <fr>Deß Menschen Leben ist kurtz. der Tod
+ist allen gewiß.</fr></p>
+<d3>§. 19.</d3>
+<p>Da&sr; <fr>Fragzeichen</fr> (?) folget auf die Frage/
+also: <fr>Wie kan man mehr einen Soldaten
+von dem Sold nennen? er dienet üm die
+Beute/ darüber er mehrmal&sr; den Rest be-
+kommet.</fr></p>
+<cw>§. 20. Da&sr;</cw>
+<pb="137"/>
+<kt>Anhang.</kt>
+<d3>§. 20.</d3>
+<p>Da&sr; <fr>Verwunderung&sr;zeichen</fr> (!) wird
+auch zu Erhebung der Stimme/ <fn="*"><aq>Exclamatio.</aq></fn> in Trauren
+und Freuden gebraucht. <fr>O schrecklicher
+Tod! O Angst und Noht! O Freud und
+Wonne!</fr></p>
+<d3>§. 21.</d3>
+<p>Der <fr>Einschluß</fr> () dienet/ wann etwa&sr; mit-
+ten in eine gantze Rede/ unverhindert der an-
+dern Schriftscheidung/ gleichsam in fremden
+Sinn/ eingeschlossen/ oder eingesetzet wird/ also
+singt Opitz Psal. 89.</p>
+<cit><poem><fr>Dem höchsten GOTT allein/ durch den
+<et>wir alle leben/</et>
+(so sagt mein gantzer Sinn) sey Ehr und
+<et>Prei&sr; gegeben.</et></fr></poem></cit>
+<hr>
+<bs>J iij</bs><cw>Send-</cw>
+<pb>
+<hr>
+<d2>Sendschreiben/
+Den Zweck und Jnhalt diese&sr; Werklein&sr;
+betreffend.</d2>
+<sal><c><fr>Woledler/ hochgeehrter Herr und
+vielwerther Gevatter.</fr></c></sal>
+<p><in>W</in>Je hoch der heilige Geist die löbliche Poesi
+geachtet/ und geadelt/ erscheinet/ neben an-
+dern/ auch daher: daß er seine liebe Diener zu ei-
+nem schönen poetischen Lied/ wann Gott seinem
+Volk eine besondere Wolthat erzeiget/ angetrie-
+ben/ und aufgemuntert: wie wir derer gnugsam
+in der Grundsprache H. Schrift zu befinden/
+und aufzuweisen haben.</p>
+<p>Diese fürtrefliche Kunst der Poesi ist auch
+endlich auf unsere alte redliche Teutschen kom-
+men; aber (wie e&sr; mit dem Anfang aller Künfte
+beschaffen) sehr unvollkommen; gestalt man au&sr;
+denen noch überbliebenen Liedern sattsam ver-
+spüret: biß endlich hochbegabte Gemüter/ in die-
+sen allergreulichsten Läuften/ da gantz Teutsch-
+land in der endlichen Krieg&sr;glut glimmet/ und
+den Greuel seiner Verwüstung vor der Thür si-
+het/ wa&sr; Ruhe in beförderlicher Au&sr; arbeitung
+ietztgesagter teutschen Poesi suchten/ und gute&sr;
+Theil&sr; erlangeten.</p>
+<p>Daß nun Woledler/ hochgeehrter Herr/
+<cw>und</cw>
+<pb>
+<kt>Sendschreiben.</kt>
+und vielwehrter Gevatter/ er nicht allein bißher
+hierinnen eine merkliche Beyhülfe gethan/ son-
+dern auch die gantze Teutsche Poesi in so eine an-
+nemliche und schleunige Richtigkeit gebracht;
+wird ihme/ sonder allen Zweifel/ seinen schon
+längst erlangten Ruhm und hohen Namen/ bey
+allen ehrlichen Patrioten/ merklich vermehren/
+und ie mehr und mehr erweitern. Jch wünsche
+von Grund meiner Seelen/ daß derselbe/ samt
+den lieben Seinigen/ eine lange Zeit/ bey selbster-
+wünschtem Wolstand verbleiben/ und alle Lieb-
+haber der Teutschen Poesi diese wolgemeinte Ar-
+beit nicht zu unziemlichen/ und ärgerlichen
+Schandliedern; sondern zu GOTTES Ehren
+und Au&sr;übung der Tugenden/ allezeit anwen-
+den mögen. Geben au&sr; meiner Studirstuben
+den 16. Nov. 1646.</p>
+<clos><et><fr>Meine&sr; hochgeehrten und vielwehr-
+ten Herrn Gevattern</fr>
+dienstergebner
+<fr>Johann Micha</fr><aq>ë</aq><fr>l Dilherr.</fr></et></clos>
+<pb>
+<hr>
+<d1><b>Jnhalt&sr;register.</b></d1>
+<p><c>Die erste Zahl bedeutet die Stund; die
+zweyte den Absatz/ oder §. A. den Anhang deß
+Wercklein&sr;. Die Zahl dar-
+bey den §.</c></p>
+<d2>A.</d2>
+<li><in>A</in><fr>Bgesang.</fr> <aq>V.</aq> <ref>17</ref>.</li>
+<li><fr>Absatz.</fr> §. <aq>IV</aq>/ <ref>9</ref>. <fr>A.</fr> <ref>16</ref>.</li>
+<li><fr>Abschnitt.</fr> <aq>V</aq>/ <ref>2</ref>/ <ref>3</ref>.</li>
+<li><fr>Anacreontische Verslein.</fr> <aq>IV.</aq> <ref>9</ref>.</li>
+<li><fr>Anapästische Reimarten/</fr> such <fr>gekürtzt-
+lange Reimen.</fr></li>
+<li><fr>Au&sr;rede.</fr> <aq>III</aq>/ <ref>6</ref>. <fr>A.</fr> <ref>10</ref>.</li>
+<d2>B.</d2>
+<li>bar <fr>die Nachsyllben.</fr> <aq>II</aq>/ <ref>11</ref>/ <ref>12</ref>.</li>
+<li>be die <fr>Vorsyllben.</fr> <aq>II</aq>/ <ref>10</ref>.</li>
+<li><fr>Beschreibungen der Poeten.</fr> <aq>I</aq>/ <ref>8</ref>.</li>
+<li><fr>Beystrichlein/ A.</fr> <ref>11</ref>.</li>
+<li><fr>Beywörter.</fr> <aq>VI</aq>/ <ref>7</ref>. <ref>8</ref>. <ref>9</ref>.</li>
+<li><fr>bi&sr;/</fr> <aq>u&sr;que,</aq> <fr>Biß/</fr> <aq>morsu&sr;</aq> <fr>A.</fr> <ref>8</ref>.</li>
+<li><fr>Buchstaben Amt.</fr> <aq>III</aq>/ <ref>2</ref>.
+<li><fr>dopelte Reimbuchstaben.</fr> <aq>III</aq>/ <ref>3</ref>.</li>
+<li><fr>jhrer Eigenschaft Vnterscheidung. A.</fr> <ref>5</ref>.</li>
+<li><fr>harte Buchstaben. A.</fr> <ref>7</ref>.</li>
+<cw><fr>wann</fr></cw>
+<pb>
+<kt>Jnhalt&sr;register.</kt>
+<li><fr>wann man die grossen Anfang&sr;buch-
+staben gebrauchen sol. A.</fr> <ref>20</ref>.</li></li>
+<d2>C.</d2>
+<li><fr>c und k hat zweyerley Laut/ u&tn; Gebrauch.
+A.</fr> <ref>6</ref>.</li>
+<li><aq>colon,</aq> such <fr>Dopelpunct.</fr></li>
+<li><aq>comma,</aq> such <fr>Zwergstrichlein.</fr></li>
+<li><aq>Composita. II/</aq> <ref>22</ref>. <aq>VI</aq>/ <ref>21</ref>.</li>
+<d2>D.</d2>
+<li><aq>Dactylu&sr;,</aq> such <fr>langgekürtzte&sr; Reimmaß.</fr></li>
+<li><fr>Dichter&sr; Absehen und Zweck.</fr> <aq>I</aq>/ <ref>13</ref>. <fr>Dicht-
+kunst.</fr> <aq>I</aq>/ <ref>15</ref>.</li>
+<li><fr>Dopelpunct. A.</fr> <ref>15</ref>.</li>
+<li><fr>Dreysyllbige Wörter.</fr> <aq>II</aq>/ &007C;<ref>13</ref>/ <ref>14</ref>. <fr>dolmet-
+schen.</fr> <aq>VI</aq>/ <ref>3</ref>.</li>
+<d2>E.</d2>
+<li>e/ er/ e&sr;/ em/ en/ et/ e&sr;/ end/ &rr;c. <fr>Nachsyllben.</fr> <aq>II</aq>/
+<ref>12</ref>. <ref>19</ref>.</li>
+<li>e/ <fr>wann e&sr; wegzuwerffen?</fr> <aq>VI</aq>/ <ref>23</ref>.</li>
+<li><fr>Echo/ such Gegenhall.</fr> <aq>VI</aq>/ <ref>14</ref>.</li>
+<li><fr>Eigentliche Wörter der Poeten.</fr> <aq>I</aq>/ <ref>8</ref>.</li>
+<li><fr>Einschluß. () A.</fr> <ref>19</ref>.</li>
+<li><aq>Elisio,</aq> such <fr>Hinterstrichlein.</fr></li>
+<li><fr>Endschallende Reimungen.</fr> <aq>V</aq>/ <ref>20</ref>.</li>
+<li><aq>Epitheta,</aq> such <fr>Beywörter.</fr></li>
+<li>er <fr>die Vorsyllbe.</fr> <aq>II</aq>/ <ref>16</ref>. <fr>ist auch eine Nach-
+syllbe.</fr> <aq>II</aq>/ <ref>18</ref>.</li>
+<bs><fr>J v</fr></bs><cw><fr>Erfin-</fr></cw>
+<pb>
+<kt>Jnhalt&sr;register.</kt>
+<li><fr>Erfindung der Gedichte.</fr> <aq>I</aq>/ <ref>15</ref>. <aq>VI</aq>/ <ref>2</ref>. <ref>3</ref>.</li>
+<li><fr>Ergerniß.</fr> <aq>I</aq>/ <ref>9</ref>. <ref>13</ref>.</li>
+<li><fr>Erhebung der Stimme. A.</fr> <ref>18</ref>.</li>
+<li><fr>Erklärung der Gedichte.</fr> <aq>VI</aq>/ <ref>2</ref>.</li>
+<li><aq>Exclamatio,</aq> <fr>such Erhebung der Stimme.</fr>
+ey/ <fr>Nachsyllben.</fr> <aq>II</aq>/ <ref>12</ref>.</li>
+<d2>F.</d2>
+<li><fr>Fabel.</fr> <aq>I</aq>/ <ref>1</ref>.</li>
+<li><fr>Falsche Reimen.</fr> <aq>III</aq>/ <ref>10</ref>. <fr>ihre unterschiedli-
+che Arten/ daselbst.</fr></li>
+<li><fr>Flickwörter.</fr> <aq>VI.</aq> <ref>22</ref>.</li>
+<li><fr>Fragzeichen? A.</fr> <ref>17</ref>.</li>
+<li><fr>Fremde Wörter in den Gedichten.</fr> <aq>VI.</aq> &007C;<ref>15</ref>.
+<ref>16</ref>.</li>
+<d2>G.</d2>
+<li>ge/ <fr>die Vorsyllbe.</fr> <aq>II</aq>/ <ref>16</ref>.</li>
+<li><fr>Gebrauch.</fr> <aq>II</aq>/ <ref>16</ref>. <fr>A.</fr> &007C;<ref>10</ref>. <ref>20</ref>.</li>
+<li><fr>Gedichte/ und wa&sr; darbey zu betrachten?</fr>
+<aq>I</aq>/ <ref>7</ref>.</li>
+<li><fr>Gekürtztlange Reimarten.</fr> <aq>IV</aq>/ <ref>13</ref>. <ref>16</ref>.</li>
+<li><fr>Gewonheit zu schreiben. A.</fr> <ref>10</ref>. <ref>20</ref>.</li>
+<li><fr>Glaub durch eine Laute gebildet.</fr> <aq>I</aq>/ <ref>19</ref>/
+<ref>20</ref>. <ref>21</ref>.</li>
+<li><fr>Gleichstimmung der Sprache. A.</fr> <ref>9</ref>.</li>
+<li><fr>Götter der Heyden.</fr> <aq>I</aq>/ <ref>1</ref>.</li>
+<d2>H.</d2>
+<li>hafft/ <fr>die Nachsyllbe.</fr> <aq>II</aq>/ <ref>12</ref>. <ref>13</ref>.</li>
+<cw><fr>Haubt-</fr></cw>
+<pb>
+<kt>Jnhalt&sr;register.</kt>
+<li><fr>Haubtendung.</fr> <aq>II</aq>/ <ref>12</ref>. <fr>Heuchler. A.</fr> <ref>17</ref>.</li>
+<li><fr>Hinterstrichlein.</fr> <aq>VI</aq>/ <ref>23</ref>.</li>
+<li><fr>Hochzeitlied.</fr> <aq>V</aq>/ <ref>18</ref>.</li>
+<d2>J.</d2>
+<li><fr>Jahre auf sich haben. A.</fr> <ref>17</ref>.</li>
+<li>icht/ ig/ isch/ mn/ <fr>Haubtendungen.</fr> <aq>II</aq>/ <ref>17</ref>. <ref>18</ref>.</li>
+<li><fr>JEsu Namen in einem Gedichte.</fr> <aq>V</aq>/ <ref>10</ref>.</li>
+<li><fr>Jnhalt der Gedichte.</fr> <aq>I</aq>/ <ref>3</ref>. <aq>VI</aq>/ <ref>1</ref>.</li>
+<d2>L.</d2>
+<li><fr>Langgekürtzte Reimarten.</fr> <aq>IV</aq>/ <ref>16</ref>. <fr>wie sie
+dienen?</fr> <aq>IV</aq>/ <ref>16</ref>. <fr>ihre Fehler.</fr> <aq>IV</aq>/ <ref>19</ref>.
+<fr>ihre Verbindung mit andern
+Reimarten.</fr> <aq>IV</aq>/ <ref>21</ref>. <aq>V</aq>/ <ref>7</ref>.</li>
+<li><fr>Langkurtze Reimarten/</fr> <aq>IV</aq>/ <ref>4</ref>.</li>
+<li><fr>Lehrgedicht von der Menschen Unart.</fr>
+<aq>VI</aq>/ <ref>4</ref>.</li>
+<li>lein/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>7</ref>.</li>
+<li><fr>Lerchengesang.</fr> <aq>VI</aq>/ <ref>14</ref>.</li>
+<li>lich/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>17</ref>.</li>
+<li><fr>Liebe beschrieben.</fr> <aq>I</aq>/ <ref>10</ref>.</li>
+<li><fr>Lieder/ wie sieunter die Noten zu setzen?
+am</fr> <ref>53</ref>. <fr>Blat.</fr></li>
+<d2>M.</d2>
+<li><fr>Macaronische Verse.</fr> <aq>VI</aq>/ <ref>15</ref>.</li>
+<li><fr>Mundarten zu unterscheiden.</fr> <aq>III</aq>/ <ref>6</ref>. <ref>7</ref>. <fr>A.</fr> <ref>4</ref>.</li>
+<d2>N.</d2>
+<li><fr>Nachahmung.</fr> <aq>V</aq>/ <ref>21</ref>.</li>
+<li><fr>Nachstrichlein.</fr> <aq>II</aq>/ <ref>22</ref>.</li>
+<cw><fr>Nach-</fr></cw>
+<pb>
+<kt>Jnhalt&sr;register.</kt>
+<li><fr>Nachsyllben.</fr> <aq>II</aq>/ <ref>11</ref>/ <ref>12</ref>/ <ref>16</ref>/ <ref>17</ref>/ <ref>20</ref>.</li>
+<li><fr>Neue Wörter.</fr> <aq>VI</aq>/ <ref>10</ref>.</li>
+<li>niß/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>18</ref>.</li>
+<li><fr>No</fr><aq>ë</aq> <fr>Rede an die erste Welt.</fr> <aq>IV</aq>/ <ref>7</ref>.</li>
+<li><aq>Numeru&sr; oratoriu&sr;. II</aq>/ <ref>1</ref>.</li>
+<d2>P.</d2>
+<li><aq>Paragraphu&sr;,</aq> §. such <fr>Absatz.</fr></li>
+<li><aq>Parodia,</aq> such <fr>Nachahmung.</fr></li>
+<li><aq>Phleg(el)maticu&sr; VI</aq>/ <ref>15</ref>.</li>
+<li><fr>Poeterey Vrsprung.</fr> <aq>I</aq>/ <ref>1</ref>. <fr>ihre Tugend
+und Lehren/</fr> <aq>I</aq>/ <ref>16</ref>.</li>
+<li><fr>ph/ und f. A.</fr> <ref>9</ref>.</li>
+<li><fr>Punct. A.</fr> <ref>16</ref>.</li>
+<d2>R.</d2>
+<li><fr>Rähtsel.</fr> <aq>I</aq>/ <ref>13</ref>.</li>
+<li><fr>Rechtschreibung. A.</fr> <ref>6</ref>. <fr>ist dem Poeten
+nöhtig. A.</fr> <ref>3</ref>.</li>
+<li><fr>Rede Zierlichkeit.</fr> <aq>VI.</aq> <ref>6</ref>. <ref>7</ref>.</li>
+<li><fr>Reimarten.</fr> <aq>IV</aq>/ <ref>2</ref>. <fr>Reimbuchstaben.</fr> <aq>III</aq>/ <ref>1</ref>/ <ref>2</ref>.</li>
+<li><fr>Reimsyllben.</fr> <aq>III</aq>/ <ref>1</ref>/ <ref>2</ref>.</li>
+<li><fr>Reimung und dero Vnterscheid.</fr> <aq>III</aq>/ <ref>3</ref>.</li>
+<li><fr>Reimwörter/</fr> <aq>V.</aq> <ref>13</ref>. <ref>17</ref>.</li>
+<d2>S.</d2>
+<li>sal/ sam/ <fr>Haubtendungen.</fr> <aq>II</aq>/ <ref>19</ref>.</li>
+<li><fr>Sapphische Reimarten.</fr> <aq>V</aq>/ <ref>8</ref>.</li>
+<li>schaft/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>19</ref>.</li>
+<li><fr>Schimpf.</fr> <aq>I</aq>/ <ref>12</ref>.</li>
+<cw><fr>H. G.</fr></cw>
+<pb>
+<kt>Jnhalt&sr;register.</kt>
+<li><fr>H. G. Schottelin&sr; Lob.</fr> <aq>II</aq>/ <ref>17</ref>.</li>
+<li><fr>Schrift ist eine stumme Sprache.</fr> <aq>III</aq>/ <ref>6</ref>.</li>
+<li><fr>Schriftscheidung. A.</fr> <ref>12</ref>/ <ref>13</ref>.</li>
+<li><fr>Soldaten. A.</fr> <ref>17</ref>.</li>
+<li><fr>Sonneten.</fr> <aq>IV</aq>/ <ref>14</ref>.</li>
+<li><fr>Sprache Flüchtigkeit/ und Vermischung
+A.</fr> <ref>1</ref>.</li>
+<li><fr>Stammbuchstaben sollen nicht getrennet
+werden.</fr> <aq>II</aq>/ <ref>19</ref>.</li>
+<li><fr>Strichpünctlein. A.</fr> <ref>14</ref>.</li>
+<li><fr>Strichlein zum Anhang der Reimgebän-
+de.</fr> <aq>III</aq>/ <fr>zu ende deß</fr> <ref>21</ref>. §.</li>
+<d2>T.</d2>
+<li><fr>Trauerlieder.</fr> <aq>V</aq>/ <ref>20</ref>. <fr>Trauren.</fr> <ref>16</ref>.</li>
+<li><fr>Teutscher Sprache Eigenschaft.</fr> <aq>II.</aq></li>
+<li><fr>Thiere Stimme bilden/</fr> <aq>VI</aq>/ <ref>14</ref>.</li>
+<li>thum/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>19</ref>.</li>
+<li><fr>Tireliren gebildet.</fr> <aq>VI.</aq> <ref>13</ref>.</li>
+<li><fr>Trochaische Reimarten/</fr> such <fr>langkurtze
+Reimen.</fr></li>
+<d2>V.</d2>
+<li><fr>Vbersetzen/</fr> such <fr>dolmetschen.</fr></li>
+<li>ver/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>16</ref>.</li>
+<li><fr>Verdoplung.</fr> <aq>II</aq>/ <ref>21</ref>.</li>
+<li><fr>Verdopelte Wörter.</fr> <aq>II</aq>/ <ref>21</ref>.</li>
+<li><fr>Verwunderung&sr;zeichen. A.</fr> <ref>18</ref>.</li>
+<li><fr>Vielsyllbige Wörter.</fr> <aq>II</aq>/ <ref>15</ref>/ <ref>16</ref>.</li>
+<cw><fr>Vor-</fr></cw>
+<pb>
+<kt>Jnhalt&sr;register</kt>
+<li>ung/ <fr>die Haubtendung.</fr> <aq>II</aq>/ <ref>16</ref>.</li>
+<li><fr>Vnhöfliche Wörter.</fr> <aq>VI</aq>/ <ref>18</ref>.</li>
+<li><fr>Unterscheidung der Wörter. A.</fr> <ref>8</ref>.</li>
+<li><fr>Vorsyllben.</fr> <aq>II</aq>/ <ref>9</ref>. <ref>10</ref>. <ref>11</ref>. <ref>20</ref>. <fr>ihre Wirkung.</fr>
+<aq>II</aq>/ <ref>16</ref>.</li>
+<d2>W.</d2>
+<li><fr>Wäisenverse.</fr> <aq>V</aq>/ <ref>19</ref>.</li>
+<li><fr>Wechselsatz oder Reimung.</fr> <aq>IV</aq>/ <ref>1</ref>.</li>
+<li><fr>Wiederhall/</fr> such <fr>Gegenhall.</fr></li>
+<li><fr>Wörter/ wie sie zusammengesetzet?</fr> <aq>II</aq>/ <ref>21</ref>.
+<fr>wie ihr Laut zu erkennen?</fr> <aq>IV</aq>/ <ref>2</ref>.
+<fr>ihr Vnterscheid. A.</fr> <ref>8</ref>.</li>
+<d2>Z.</d2>
+<li><fr>Zeit ist edel.</fr> <aq>I</aq>/ <ref>1</ref>. Anfang&sr;. <fr>A.</fr> <ref>14</ref>. <ref>17</ref>. zu Ende.
+<fr>zeitliche Güter/</fr> daselbst.</li>
+<li><fr>Zusammensetzung der Wörter.</fr> <aq>II</aq>/ <ref>22</ref>.</li>
+<li><fr>Zwergstrichlein/ (/) A.</fr> <ref>13</ref>.</li>
+<li><fr>Zweydeutige Wörter.</fr> <aq>VI</aq>/ <ref>19</ref>.</li>
+<li><fr>Zweysyllbige Reimen.</fr> <aq>IV</aq>/ <ref>4</ref>.</li>
+<li><fr>Zweysyllbige Wörter.</fr> <aq>VI</aq>/ <ref>17</ref>.</li>
+<p><c><g>ENDE</g>.</c></p></back>
+<hr>
+<pb>

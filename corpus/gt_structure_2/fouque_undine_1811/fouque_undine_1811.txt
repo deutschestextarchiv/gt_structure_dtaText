@@ -1,0 +1,4239 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b><g>Die Jahre&sr;zeiten</g>.</b>
+<hr>
+<g>Eine Vierteljahr&sr;schrift
+f¸r
+romantische Dichtungen</g>.
+<hr>
+<g>Herau&sr;gegeben</g>
+von
+<g>Friedrich Baron de la Motte FouquÈ</g>
+u. a. m.
+<hr>
+<b><g>1811</g>.</b>
+<hr>
+<b><g>Fr&ue;hling&sr;-Heft</g>.</b>
+<hr>
+Mit Musik von J. H. Jung, genannt Stilling.
+<hr>
+<g>Berlin, bei J. E. Hitzig</g>.</front>
+<pb>
+<con><c><g>Inhalt</g>.</c>
+<hr>
+<g>Undine</g>. Eine Erz&ae;hlung vom Verfasser de&sr; To-
+de&sr;bunde&sr;.
+Musik zu den <g>Romanzen</g> au&sr; Stilling&sr; Jugend
+und J&ue;ngling&sr;jahren. Mit einer Zugabe von
+Liedermelodieen, und einem Vorwort vom <g>Her-
+au&sr;geher</g>.</con>
+<hr>
+<pb>
+<d><g>Musik zu den Romanzen
+au&sr;
+<b>Stilling&sr;</b>
+Jugend und J&ue;ngling&sr;jahren</g>.
+<hr>
+<g>Mitgetheilt</g>
+von
+J. H. <g>Jung</g>, genannt <g>Stilling</g>.
+<hr>
+<g>Zugabe</g>.
+<hr>
+<g>Zwei Lieder ebendaher</g>.</d>
+<hr>
+<pb>
+<pb>
+<hr>
+<d1><g><b>Vorwort</b>
+zu Stilling&sr; Liedermelodieen</g>.</d1>
+<hr>
+<p><in>D</in>ie Leser von Heinrich Stilling&sr; Leben, &2014; und
+hoffentlich giebt e&sr; deren in Deutschland noch
+viele, &2014; werden sich &ue;ber die einfachen, herzvol-
+len, Weisen freuen, deren hier zu zwei sch&oe;nen
+Romanzen und zwei Liedern in jenem Buche er-
+scheinen. Der Herau&sr;geber hat sie von dem ehr-
+w&ue;rdigen Verfasser selbst, mit Erlaubniﬂ zu deren
+Bekanntmachung, &2014; wie sich da&sr; wohl ohne-
+hin versteht, da er sie bekannt macht, &2014; und
+auch mit dem Versprechen, noch andre au&sr; die-
+ser Reihe nachgeliefert zu bekommen, erhalten. &2014;
+Wenn auch Worte und Weise der Romanzen nicht
+mehr dieselben sind, welche Stilling&sr; Basen
+unter dem Kirschbaume und sonst an stillen, lieb-
+<pb>
+lichen Orten sangen, so sind sie doch gewiﬂ ein
+h&oe;chst reiner Nachhall derselben, und m&oe;gen im-
+merhin Volk&sr;lieder heiﬂen, da sie dem reinen
+Herzen de&sr; in Wald und Gebirg, unter K&oe;h-
+lern und ihren Sagen, bei dem Lesen sch&oe;ner
+altdeutscher Historien aufgewachsenen, Stilling
+entquollen. Ander&sr; ist e&sr; wohl mit seinen, al&sr;
+Zugabe mitgetheilten, und al&sr; eigne Arbeiten
+aufgef&ue;hrten Poesieen, z. B. hier mit dem Liede:
+&201E;h&oe;rt ihr lieben V&oe;gelein.&201D; Aber auch in diesen,
+sowohl in Worten al&sr; Musik, werden solche, die
+f&ue;r Stilling&sr; Leben Sinn haben, de&sr; R&ue;hren-
+den und Ergreifenden unendlich viel antreffen.</p>
+<p><et><g>de la. Motte FouquÈ</g>.</et></p>
+<hr>
+<pb>
+<hr>
+<d1><b><g>Vorwort</g>.</b></d1>
+<hr>
+<p><in>D</in>ie mit dem gegenw&ae;rtigen Hefte begonnene
+Zeitschrift, wovon in jedem Vierteljahre ein neue&sr;,
+von unbestimmter St&ae;rke, je nachdem Vorrath
+an brauchbaren Materialien vorhanden ist, er-
+scheinen soll, ist au&sr;schlieﬂlich <g>romantischen
+Dichtungen</g>, jedoch im weitesten Sinne de&sr;
+Worte&sr;, bestimmt. Sie hat keinen andern Zweck,
+al&sr; zu <g>unterhalten</g>, daher liegt Alle&sr;, wa&sr;
+nicht <g>allgemein</g> le&sr;bar, verst&ae;ndlich und ein-
+g&ae;nglich scheint, auﬂer ihrem Zweck. Au&sr; eben
+dieser R&ue;cksicht auf ein gr&oe;ﬂere&sr; Publikum, sind
+auch <g>Fragmente</g>, welcher Art sie seyn m&oe;gen,
+wenn sie nicht f&ue;r sich ein vollst&ae;ndige&sr; Ganze
+bilden, davon au&sr;geschlossen. Man kann den
+Lesern die Zusicherung geben, daﬂ sehr beliebte
+<pb>
+Schriftsteller sich diesem Unternehmen g&ue;nstig
+zugewandt haben, deren Namen zu nennen aber
+so lange indiscret seyn w&ue;rde, bi&sr; e&sr; sich erst
+entschieden hat, ob e&sr; den zu seiner Fortdauer
+n&oe;thigen Beifall zu erhalten vermag.</p>
+<p><et><g>Die Redaktion</g>.</et></p>
+<hr>
+<pb>
+<d1><b><g>Undine,
+eine Erz&ae;hlung</g>.</b></d1>
+<hr>
+<d2><g>Vom Verfasser
+de&sr;
+Tode&sr;bunde&sr;</g>.</d2>
+<hr>
+<bs>A</bs>
+<pb>
+<pb>
+<hr>
+<d2><g><b>Erste&sr; Kapitel.</b>
+Wie der Ritter zu dem Fischer kam</g>.</d2>
+<hr>
+<p><in>E</in>&sr; m&oe;gen nun wohl schon viele hundert Jahre
+her sein, da gab e&sr; einmal einen alten guten
+Fischer, der saﬂ eine&sr; sch&oe;nen Abend&sr; vor der
+Th&ue;r, und flickte seine Netze. Er wohnte aber
+in einer &ue;berau&sr; anmuthigen Gegend. Der gr&ue;ne
+Boden, worauf seine H&ue;tte gebaut war, streckte
+sich weit in einen groﬂen Landsee hinau&sr;, und
+e&sr; schien eben so wohl, die Erdzunge habe sich
+au&sr; Liebe zu der bl&ae;ulich klaren, wunderhellen,
+Fluth, in diese hinein gedr&ae;ngt, al&sr; auch, da&sr;
+Wasser habe mit verliebten Armen nach der sch&oe;-
+nen Aue gegriffen, nach ihren hoch schwanken-
+den Gr&ae;sern und Blumen, und nach dem er-
+quicklichen Schatten ihrer B&ae;ume. Ein&sr; ging
+<bs>A 2</bs>
+<pb="4"/>
+bei dem Andern zu Gaste, und eben de&sr;halb
+war jegliche&sr; so sch&oe;n. Von Menschen freilich
+war an dieser h&ue;bschen Stelle wenig oder gar
+nicht&sr; anzutreffen, die Fischer und seine Hau&sr;-
+leute au&sr;genommen. Denn hinter der Erdzunge
+lag ein sehr wilder Wald, den die mehrsten
+Leute wegen seiner Finsterniﬂ und Unwegsam-
+keit, wie auch wegen der wundersamen Creatu-
+ren und Gaukeleien, die man darin antreffen
+sollte, allzusehr scheueten, um sich ohne Noth
+hineinzubegeben. Der alte fromme Fischer je-
+doch durchschritt ihn ohne Anfechtung zu vielen
+Malen, wenn er die k&oe;stlichen Fische, die er auf
+seiner sch&oe;nen Landzunge fing, nach einer gro-
+ﬂen Stadt trug, welche nicht sehr weit hinter
+dem groﬂen Walde lag. E&sr; ward ihm wohl
+mehrentheil&sr; de&sr;wegen so leicht, durch den Forst
+zu ziehn, weil er fast keine andre, al&sr; fromme,
+Gedanken hegte, und noch auﬂerdem jede&sr;mal,
+wenn er die verrufenen Schatten betrat, ein
+geistliche&sr; Lied au&sr; heller Kehle und aufrichtigem
+Herzen anzustimmen gewohnt war.</p>
+<pb="5"/>
+<p>Da er nun an diesem Abende ganz arglo&sr;
+bei den Netzen saﬂ, kam ihn doch ein unverse-
+hener Schrecken an, al&sr; er e&sr; im Walde&sr;dunkel
+rauschen h&oe;rte, wie Roﬂ und Mann, und sich
+da&sr; Ger&ae;usch immer n&ae;her nach der Landzunge
+herau&sr;zog. Wa&sr; er in manchen st&ue;rmigen N&ae;ch-
+ten von den Geheimnissen dr&sr; Forste&sr; getr&ae;umt
+hatte, zuckte ihm nun anf einmal durch den
+Sinn, vor Allem da&sr; Bild eine&sr; riesenm&ae;ﬂig
+langen, schneeweiﬂen Manne&sr;, der unaufh&oe;rlich
+auf eine seltsame Art mit dem Kopfe nickte. Ja,
+al&sr; er die Augen nach dem Walde aufhob, kam
+e&sr; ihm ganz eigentlich vor, al&sr; sehe er durch da&sr;
+Laubgegitter den nickenden Mann hervor kom-
+men. Er nahm sich aber bald zusammen, er-
+w&ae;gend, wie ihm doch niemal&sr; in dem Walde
+selbsten wa&sr; Bedenkliche&sr; widerfahren sei, und
+also auf der freien Landzunge der b&oe;se Geist
+wohl noch minder Gewalt &ue;ber ihn au&sr;&ue;ben
+d&ue;rfe. Zugleich betete er recht kr&ae;ftiglich einen
+biblischen Spruch laut au&sr; dem Herzen herau&sr;,
+wodurch ihm der kecke Muth auch zur&ue;cke kam,
+<pb="6"/>
+und er fast lachend sah, wie sehr er sich geirrt
+hatte. Der weiﬂe, nickende Mann ward n&ae;m-
+lich urpl&oe;tzlich zu einem ihm l&ae;ngst wohlbekann-
+ten B&ae;chlein, da&sr; sch&ae;umend au&sr; dem Forste
+hervorrann, und sich in den Landsee ergoﬂ. Wer
+aber da&sr; Ger&ae;usch verursacht hatte, war ein
+sch&oe;n geschm&ue;ckter Ritter, der zu Roﬂ durch den
+Baumschatten gegen die H&ue;tte vorgeritten kam.
+Ein scharlachrother Mantel hing ihm &ue;ber sein
+veilchenblaue&sr;, goldgestickte&sr;, Wamm&sr; herab; von
+dem goldfarbigen Barette wallten rothe und
+veilchenblaue Federn, am goldnen Wehrgehenke
+blitzte ein au&sr;nehmend sch&oe;ne&sr; und reichverzierte&sr;
+Schwerdt. Der weiﬂe Hengst, der den Ritter
+trug, war schlankeren Baue&sr;, al&sr; man e&sr; sonst
+bei Streitrossen zu sehen gewohnt ist, und trat
+so leicht &ue;ber den Rasen hin, daﬂ dieser gr&ue;n-
+bunte Teppich auch nicht die mindeste Verlet-
+zung davon zu empfangen schien. Dem alten
+Fischer war e&sr; noch immer nicht ganz geheuer
+zu Muth, obwohl er einzusehn meinte, daﬂ von
+einer so holden Erscheinung nicht&sr; Ueble&sr; zu be-
+<pb="7"/>
+fahren sei, we&sr;halb er auch seinen Hut ganz
+sittig vor dem n&ae;herkommenden Herrn abzog,
+und gelassen bei seinen Netzen verblieb. Da
+hielt der Ritter stille, und fragte, ob er wohl
+mit seinem Pferde auf diese Nacht hier Unter-
+kommen und Pflege finden k&oe;nne? &2014; Wa&sr;
+Euer Pferd betrifft, lieber Herr, entgegnete
+der Fischer, so weiﬂ ich ihm keinen bessern
+Stall anzuweisen, al&sr; diese beschattete Wiese,
+und kein bessere&sr; Futter, al&sr; da&sr; Gra&sr;, wel-
+che&sr; darauf w&ae;chst. Euch selbst aber will ich
+gerne in meinem kleinen Hause mit Abend-
+brod und Nachtlager bewirthen, so gut e&sr;
+unser Einer hat. &2014; Der Ritter war damit
+ganz wohl zufrieden, er stieg von seinem Rosse,
+welche&sr; die beiden gemeinschaftlich lo&sr;g&ue;rteten
+und lo&sr;z&ue;gelten, und lieﬂ e&sr; al&sr;dann auf den
+blumigen Anger hinlaufen, zu seinem Wirthe
+sprechend: h&ae;tt&2019; ich Euch auch minder gastlich
+und wohlmeinend gefunden, mein lieber alter
+Fischer, Ihr w&ae;ret mich dennoch wohl f&ue;r Heute
+nicht wieder lo&sr;geworden, denn, wie ich sehe,
+<pb="8"/>
+liegt vor un&sr; ein breiter See, und mit sinken-
+dem Abende in den wunderlichen Wald zur&ue;ck
+zu reiten, davor bewahre mich der liebe Gott! &2014;
+Wir wollen nicht allzuviel davon reden, sagte
+der Fischer, und f&ue;hrte seinen Gast in die
+H&ue;tte.</p>
+<p>Drinnen saﬂ bei dem Heerde, von welchem
+au&sr; ein sp&ae;rliche&sr; Feuer die d&ae;mmernde, rein-
+liche, Stube erhellte, auf einem groﬂen Stuhle,
+de&sr; Fischer&sr; betagte Frau; beim Eintritte de&sr;
+vornehmen Gaste&sr; stand sie freundlich gr&ue;ﬂend
+auf, setzte sich aber an ihren Ehrenplatz wieder
+hin, ohne diesen dem Fremdling anzubieten, wo-
+bei der Fischer l&ae;chelnd sagte: Ihr m&ue;ﬂt e&sr;
+ihr nicht ver&ue;beln, junger Herr, daﬂ sie Euch
+den bequemsten Stuhl im Hause nicht abtritt;
+da&sr; ist so Sitte bei armen Leuten, daﬂ der
+den Alten ganz au&sr;schlieﬂlich geh&oe;rt. &2014; Ei,
+Mann, sagte die Frau mit ruhigem L&ae;cheln,
+wo denkst Du auch hin? Unser Gast wird
+doch zu den Christenmenschen geh&oe;ren, und wie
+k&oe;nnte e&sr; al&sr;dann dem lieben jungen Blut ein-
+<pb="9"/>
+fallen, alte Leute von ihren Sitzen zu verja-
+gen? &2014; Setzt Euch, mein junger Herr, fuhr
+sie, gegen den Ritter gewandt, fort; e&sr; steht
+dorten noch ein recht artige&sr; Sesselein, nur
+m&ue;ﬂt Ihr nicht allzu ungest&ue;m damit hin und
+her rutschen, denn da&sr; eine Bein ist nicht all-
+zufeste mehr. &2014; Der Ritter holte den Ses-
+sel achtsam herbei, lieﬂ sich freundlich darauf nie-
+der, und e&sr; war ihm zu Muthe, al&sr; sei er mit
+diesem kleinen Hau&sr;halt verwandt, und eben
+jetzt au&sr; der Ferne dahin heim gekehrt.</p>
+<p>Die drei guten Leute fingen an, h&oe;chst freund-
+lich und vertraulich mit einander zu sprechen.
+Vom Walde, nach welchem sich der Ritter einige
+Male erkundigte, wollte der alte Mann freilich
+nicht viel wissen; am wenigsten, meinte er, passe
+sich da&sr; Reden davon jetzt in der einbrechenden
+Nacht; aber von ihrer Wirthschaft und sonstigem
+Treiben erz&ae;hlten die beiden Eheleute desto mehr,
+und h&oe;rten auch gerne zu, al&sr; ihnen der Ritter&sr;-
+mann von seinen Reisen vorsprach, und daﬂ er
+eine Burg an den Quellen der Donau habe,
+<pb="10"/>
+und Herr Huldbrand von Ringstetten geheiﬂen
+sei. Mitten durch da&sr; Gespr&ae;ch hatte der Frem-
+de schon bi&sr;weilen ein Pl&ae;tschern am niedrigen
+Fensterlein vernommen, al&sr; spr&ue;tze Jemand Was-
+ser dagegen. Der Alte runzelte bei diesem Ge-
+r&ae;usche jede&sr;mal unzufrieden die Stirn; al&sr; aber
+endlich ein ganzer Guﬂ gegen die Scheiben flog,
+und durch den schlechtverwahrten Rahmen in die
+Stube herein sprudelte, stand er unwillig auf,
+und rief drohend nach dem Fenster hin: Undi-
+ne! Wirst Du endlich einmal die Kindereien
+lassen. Und ist noch obenein Heut ein fremder
+Herr bei un&sr; in der H&ue;tte. &2014; E&sr; ward auch
+drauﬂen stille, nur ein leise&sr; Gekicher lieﬂ sich
+noch vernehmen, und der Fischer sagte, zur&ue;ck
+kommend: da&sr; m&ue;ﬂt Ihr nun schon zu Gute
+halten, mein ehrenwerther Gast, und vielleicht
+noch manche Ungezogenheiten mehr, aber sie
+meint e&sr; nicht b&oe;se. E&sr; ist n&ae;mlich unsere
+Pflegetochter Undine, die sich da&sr; kindische We-
+sen gar nicht abgew&oe;hnen will, ob sie gleich
+bereit&sr; in ihr achtzehente&sr; Jahr gehen mag.
+<pb="11"/>
+Aber wie gesagt, im Grunde ist sie doch von
+ganzem Herzen gut. &2014; Du kannst wohl spre-
+chen! entgegnete kopfsch&ue;ttelnd die Alte. Wenn
+Du so von Fischfang heimkommst oder von der
+Reise, da mag e&sr; mit ihren Sch&ae;kereien ganz
+wa&sr; Artige&sr; sein. Aber sie den ganzen Tag
+lang auf dem Halse haben, und kein kluge&sr;
+Wort h&oe;ren, und statt bei wachsendem Alter
+H&ue;lfe im Hau&sr;halte zu finden, immer nur da-
+f&ue;r sorgen m&ue;ssen, daﬂ un&sr; ihre Thorheiten
+nicht vollend&sr; zu Grunde richten, &2014; da ist e&sr;
+gar ein Andre&sr;, und die heilige Geduld selb-
+sten w&ue;rd&2019; e&sr; am Ende satt. &2014; Nun, nun,
+l&ae;chelte der Hau&sr;herr, Du hast e&sr; mit Undi-
+nen, und ich mit dem See. Reiﬂt mir der
+doch auch oftmal&sr; meine D&ae;mme und Netze
+durch, aber ich hab&2019; ihn dennoch gern, und Du
+mit allem Kreuz und Elend da&sr; zierliche Kind-
+lein auch. Nicht wahr? &2014; Ganz b&oe;se kann
+man ihr eben nicht werden, sagte die Alte,
+und l&ae;chelte beif&ae;llig.</p>
+<p>Da flog die Th&ue;re auf, und ein wunder-
+<pb="12"/>
+sch&oe;ne&sr; Blondchen schl&ue;pfte lachend herein, und
+sagte: Ihr habt mich nur gefoppt, Vater; wo
+ist denn nun Euer Gast? &2014; Selben Au-
+genblick&sr; aber ward sie auch den Ritter gewahr,
+und blieb staunend vor dem sch&oe;nen J&ue;nglinge
+stehn. Huldbrand erg&oe;tzte sich an der holden
+Gestalt, und wollte sich die lieblichen Z&ue;ge recht
+achtsam einpr&ae;gen, weil er meinte, nur ihre
+Ueberraschung laﬂe ihm Zeit dazu, und sie wer-
+de sich bald nachher in zwiefacher Bl&oe;digkeit vor
+seinen Blicken abwenden. E&sr; kam aber ganz
+ander&sr;. Denn al&sr; sie ihn nun recht lange an-
+gesehn hatte, trat sie zutraulich n&ae;her, kniete
+vor ihm nieder, und sagte, mit einem goldnen
+Schauvfennige, den er an einer reichen Kette
+auf der Brust trug, spielend: ei Du sch&oe;ner,
+Du freundlicher Gast, wie bist Du denn end-
+lich in unsre arme H&ue;tte gekommen? Muﬂ-
+test Du denn Jahre lang in der Welt herum-
+streifen, bevor Du dich auch einmal zu un&sr;
+fandest? Kommst Du au&sr; dem w&ue;sten Walde,
+Du sch&oe;ner Freund? &2014; Die scheltende Alte
+<pb="13"/>
+lieﬂ ihm zur Antwort keine Zeit. Sie ermahnte
+da&sr; M&ae;dchen, fein sittig aufzustehn, und sich
+an ihre Arbeit zu begeben. Undine aber zog,
+ohne zu antworten, eine kleine Fuﬂbank neben
+Huldbrand&sr; Stuhl, setzte sich mit ihrem Gewe-
+be darauf nieder, und sagte freundlich: hier
+will ich arbeiten. Der alte Mann that, wie
+Aeltern mit verzognen Kindern zu thun pflegen.
+Er stellte sich, al&sr; merke er von Undinen&sr; Unart
+nicht&sr;, und wollte von etwa&sr; Anderm anfangen.
+Aber da&sr; M&ae;dchen lieﬂ ihn nicht dazu. Sie
+sagte: woher unser holder Gast kommt, habe
+ich ihn gefragt, und er hat mir noch nicht ge-
+antwortet. &2014; Au&sr; dem Walde komme ich,
+Du sch&oe;ne&sr; Bildchen, entgegnete Huldbrand,
+und sie sprach weiter: so muﬂt Du mir er-
+z&ae;hlen, wie Du da hineinkamst, denn die Men-
+schen scheuen ihn sonst, und wa&sr; f&ue;r wunder-
+liche Abentheuer Du darinnen erlebt hast, weil
+e&sr; doch ohne dergleichen dorten nicht abgehn
+soll. &2014; Huldbrand empfand einen kleinen
+Schauer bei dieser Erinnernng, und blickte un-
+<pb="14"/>
+willk&ue;rlich nach dem Fenster, weil e&sr; ihm zu
+Muthe war, al&sr; m&ue;sse eine von den seltsamli-
+chen Gestalten, die ihm im Forste begegnet wa-
+ren, von dort hereingrinzen; er sah nicht&sr;, al&sr;
+die tiefe, schwarze Nacht, die nun bereit&sr; drau-
+ﬂen vor den Scheiben lag. Da nahm er sich
+zusammen, und wollte eben seine Geschichte an-
+fangen, al&sr; ihn der Alte mit den Worten un-
+terbrach: nicht also, Herr Ritter; zu derglei-
+chen ist e&sr; jetzund keine gute Zeit. &2014; Undi-
+ne aber sprang zornm&ue;thig von ihrem B&ae;nkchen
+auf, setzte die sch&oe;nen Arme in die Seiten, und
+rief, sich dicht vor den Fischer hinstellend: er
+soll nicht erz&ae;hlen, Vater? Er soll nicht? Ich
+aber will&2019;&sr;; er soll! Er soll doch! &2014; Und
+damit trat da&sr; zierliche F&ue;ﬂchen heftig gegen
+den Boden, aber da&sr; Alle&sr; mit solch einem drol-
+lig anmuthigen Anstande, daﬂ Huldbrand jetzt
+in ihrem Zorn fast weniger noch die Augen von
+ihr wegbringen konnte, al&sr; vorher in ihrer
+Freundlichkeit. Bei dem Alten hingegen brach
+der zur&ue;ckgehaltene Unwillen in volle Flammen
+<pb="15"/>
+au&sr;. Er schalt heftig auf Undinen&sr; Ungehorsam
+und unsittige&sr; Betragen gegen den Fremden,
+und die gute alte Frau stimmte mit ein. Da
+sagte Undine: wenn ihr zanken wollt, und
+nicht thun, wa&sr; ich haben will, so schlaft al-
+lein in Eurer alten, r&ae;uchrigen H&ue;tte! &2014;
+Und wie ein Pfeil war sie au&sr; der Th&ue;r, und
+fl&ue;chtigen Laufe&sr; in die finstere Nacht hinau&sr;.</p>
+<hr>
+<pb="16"/>
+<hr>
+<d2><b><g>Zweite&sr; Kapitel</g>.</b>
+Auf welche Weise Undine zu dem Fischer gekom-
+men war.</d2>
+<hr>
+<p><in>H</in>uldbrand und der Fischer sprangen von ihren
+Sitzen, und wollten dem z&ue;rnenden M&ae;dchen
+nach. Ehe sie aber an die H&ue;ttenth&ue;r gelang-
+ten, war Undine schon lange in dem wolkigen
+Dunkel drauﬂen verschwunden, und auch kein
+Ger&ae;usch ihrer leichten F&ue;ﬂe verrieth, wohin sie
+ihren Lauf wohl gerichtet haben k&oe;nne. Huld-
+brand sah fragend nach seinem Wirthe; fast
+kam e&sr; ihm vor, al&sr; sei die ganze liebliche Er-
+scheinung, die so schnell in die Nacht wieder un-
+tergetaucht war, nicht&sr; andre&sr; gewesen, al&sr; eine
+Fortsetzung der wunderlichen Gebilde, die fr&ue;her
+im Forste ihr lose&sr; Spiel mit ihm getrieben hat-
+ten, aber der alte Mann murmelte in seinen
+<cw>Bart:</cw>
+<pb="17"/>
+Bart: e&sr; ist nicht da&sr; Erstemal, daﬂ sie e&sr; un&sr;
+also macht. Nun hat man die Angst auf dem
+Herzen, und den Schlaf au&sr; den Augen f&ue;r die
+ganze Nacht; denn wer weiﬂ, ob sie nicht den-
+noch einmal Schaden nimmt, wenn sie so draus-
+sen im Dunkel allein ist bi&sr; an da&sr; Morgen-
+roth. &2014; So laﬂt un&sr; ihr doch nach, Va-
+ter, um Gott! rief Huldbrand &ae;ngstlich au&sr;.
+Der Alte erwiederte; wozu da&sr;? E&sr; w&ae;r&2019; ein
+s&ue;ndlich Werk, lieﬂ&2019; ich Euch in Nacht und Ein-
+samkeit dem th&oe;richten M&ae;dchen so ganz alleine
+folgen, und meine alten Beine holen den Spring-
+in&sr;feld nicht ein, wenn man auch w&ue;ﬂte, wo-
+hin sie gerannt ist. &2014; Nun m&ue;ssen wir ihr
+doch nachrufen mindesten&sr;, und sie bitten, daﬂ
+sie wiederkehrt, sagte Huldbrand, und begann
+auf da&sr; beweglichste zu rufen; Undine! Ach
+Undine! Komm&2019; doch zur&ue;ck! &2014; Der Alte
+wiegte sein Haupt hin und her, sprechend, all&2019;
+da&sr; Geschrei helfe am Ende zu nicht&sr;; der Rit-
+ter wisse noch nicht, wie trotzig die Kleine sei.
+Dabei aber konnte er e&sr; doch nicht unterlassen,
+<bs>B</bs>
+<pb="18"/>
+&oe;fter&sr; mit in die finstre Nacht hinau&sr;zurufen:
+Undine! Ach liebe Undine! Ich bitte Dich,
+komme doch nur die&sr; Einemal zur&ue;ck.</p>
+<p>E&sr; ging indessen, wie e&sr; der Fischer gesagt
+hatte. Keine Undine lieﬂ sich h&oe;ren oder sehn,
+und weil der Alte durchau&sr; nicht zugeben woll-
+te, daﬂ Huldbrand der Entflohenen nachsp&ue;rte,
+muﬂten sie endlich Beide wieder in die H&ue;tte
+gehen. Hier fanden sie da&sr; Feuer de&sr; Heerde&sr;
+beinahe erloschen, und die Hau&sr;frau, die sich Un-
+dinen&sr; Flucht und Gefahr bei weitem nicht so zu
+Herzen nahm, al&sr; ihr Mann, bereit&sr; zur Ruhe
+gegangen. Der Alte hauchte die Kohlen wieder
+an, legte trockne&sr; Holz darauf, und suchte bei
+der wieder auflodernden Flamme einen Krug
+mit Wein hervor, den er zwischen sich und sei-
+nen Gast stellte. &2014; Euch ist auch Angst wegen
+de&sr; dummen M&ae;dchen&sr;, Herr Ritter, sagte er,
+und wir wollen lieber einen Theil der Nacht
+verplaudern und vertrinken, al&sr; un&sr; auf den
+Schilfmatten vergeben&sr; nach dem Schlafe her-
+umw&ae;lzen. Nicht wahr? &2014; Huldbrand war
+<pb="19"/>
+gerne damit zufrieden, der Fischer n&oe;thigte ihn
+auf den ledigen Ehrenplatz der schlafen gegang-
+nen Hau&sr;frau, und beide tranken und sprachen
+miteinander, wie e&sr; zwei wackern und zutrauli-
+chen M&ae;nnern geziemt. Freilich, so oft sich vor
+den Fenstern da&sr; Geringste regte, oder auch bi&sr;-
+weilen, wenn sich gar nicht&sr; regte, sah Eine&sr;
+von beiden in die H&oe;he, sprechend: sie kommt. &2014;
+Dann wurden sie ein Paar Augenblicke stille,
+und fuhren nachher, da nicht&sr; erschien, kopfsch&ue;t-
+telnd und seufzend in ihren Reden fort.</p>
+<p>Weil aber nun Beide an fast gar nicht&sr;
+andre&sr; zu denken vermochten, al&sr; an Undinen,
+so wuﬂten sie auch nicht&sr; beﬂre&sr;, al&sr;, der Rit-
+ter, zu h&oe;ren, welchergestalt Undine zu dem
+alten Fischer gekommen sei, der alte Fischer, eben
+diese Geschichte zu erz&ae;hlen. De&sr;halben hub er
+folgendermaﬂen an.</p>
+<p>E&sr; sind nun wohl funfzehn Jahre vergan-
+gen, da zog ich einmal durch den w&ue;sten Wald
+mit meiner Waare nach der Stadt. Meine
+Frau war daheim geblieben, wie gew&oe;hnlich;
+<bs>B 2</bs>
+<pb="20"/>
+und solche&sr; zu der Zeit auch noch um einer gar
+h&ue;bschen Ursache willen, denn Gott hatte un&sr;,
+in unserm damal&sr; schon ziemlich hohen Alter
+ein wundersch&oe;ne&sr; Kindlein bescheert. E&sr; war
+ein M&ae;gdlein, und die Rede ging bereit&sr; unter
+un&sr;, ob wir nicht, dem neuen Ank&oe;mmlinge zu
+Frommen, unsre sch&oe;ne Landzunge verlassen woll-
+ten, um die liebe Himmel&sr;gabe k&ue;nftig an be-
+wohnbaren Orten besser aufzuziehen. E&sr; ist frei-
+lich bei armen Leuten nicht so damit, wie Ihr
+e&sr; meinen m&oe;gt, Herr Ritter; aber, lieber Gott!
+Jedermann muﬂ doch einmal thun, wa&sr; er ver-
+mag. &2014; Nun, mir ging unterwege&sr; die Ge-
+schichte ziemlich im Kopfe herum. Diese Land-
+zunge war mir so im Herzen lieb, und ich fuhr
+ordentlich zusammen, wenn ich unter dem L&ae;rm
+und Gez&ae;nke in der Stadt bei mir selbsten den-
+ken muﬂte: in solcher Wirthschaft nimmst auch
+du nun mit n&ae;chstem Deinen Wohnsitz, oder
+doch in einer nicht viel stillern! &2014; Dabei aber
+hab&2019; ich nicht gegen unsern lieben Herrngott ge-
+murret, vielmehr ihm im Stillen f&ue;r da&sr; Neu-
+<pb="21"/>
+geborne gedankt; ich m&ue;ﬂte auch l&ue;gen, wenn
+ich sagen wollte, mir w&ae;re auf dem Hin- oder
+R&ue;ckwege durch den Wald irgend etwa&sr; bedenk-
+lichere&sr; aufgestoﬂen, al&sr; sonst, wie ich denn nie
+etwa&sr; Unheimliche&sr; dorten gesehn habe. Der
+Herr war immer mit mir in den verwunderli-
+chen Schatten.</p>
+<p>Da zog er sein M&ue;tzchen von dem kahlen
+Sch&ae;del, und blieb eine Zeitlang in betenden
+Gedanken sitzen. Dann bedeckte er sich wieder,
+und sprach fort:</p>
+<p>Dieﬂeit&sr; de&sr; Walde&sr;, ach dieﬂeit&sr;, da zog
+mir da&sr; Elend entgegen. Meine Frau kam ge-
+gangen mit str&oe;menden Augen wie zwei B&ae;che;
+sie hatte Trauerkleider angelegt. &2014; O lieber
+Gott, &ae;chzte ich, wo ist unser liebe&sr; Kind? Sag&2019;
+an! &2014; Bei dem, den Du rufest, lieber Mann
+entgegnete sie, und wir gingen nun stillweinend
+mit einander in die H&ue;tte. Ich suchte nach der
+kleinen Leiche; da erfuhr ich erst, wie Alle&sr; ge-
+kommen war. Am Seeufer hatte meine Frau
+mit dem Kinde gesessen, und wie sie so recht
+<pb="22"/>
+sorglo&sr; und selig mit ihm spielt, b&ue;ckt sich die
+Kleine auf Einmal vor, al&sr; s&ae;he sie etwa&sr; ganz
+Wundersch&oe;ne&sr; im Wasser; meine Frau sieht sie
+noch lachen, den lieben Engel, und mit den H&ae;nd-
+chen greifen; aber im Augenblick schieﬂt sie ihr
+durch die rasche Bewegung au&sr; den Armen,
+und in den feuchten Spiegel hinunter. Ich
+habe viel gesucht nach der kleinen Todten; e&sr;
+war zu nicht&sr;; auch keine Spur von ihr war
+zu finden. &2014;</p>
+<p>Nun wir verwaisten Aeltern saﬂen denn
+noch selbigen Abend&sr; still beisammen in der H&ue;t-
+te, zu reden hatte Keiner Lust von un&sr;, wenn
+man e&sr; auch gekonnt h&ae;tte vor Thr&ae;nen. Wir
+sahen so in da&sr; Feuer de&sr; Heerde&sr; hinein. Da
+raschelt wa&sr; drauﬂen an der Th&ue;r; sie springt
+auf, und ein wundersch&oe;ne&sr; M&ae;gdlein von etwa
+drei, vier Jahren, steht reich geputzt auf der
+Schwelle, und l&ae;chelt un&sr; an. Wir blieben
+ganz stumm vor Erstaunen, und ich wuﬂte erst
+nicht, war e&sr; ein ordentlicher, kleiner Mensch,
+war e&sr; blo&sr; ein gaukelhaftige&sr; Bildniﬂ. Da
+<pb="23"/>
+sah&2019; ich aber da&sr; Wasser von den goldnen Haa-
+ren und den reichen Kleidern herabtr&oe;pfeln, und
+merkte nun wohl, da&sr; sch&oe;ne Kindlein habe im
+Wasser gelegen, und H&ue;lfe thue ihm Noth. &2014;
+Frau, sagte ich, un&sr; hat Niemand unser liebe&sr;
+Kind erretten k&oe;nnen; wir wollen doch wenig-
+sten&sr; an andern Leuten thun, wa&sr; un&sr; seelig
+auf Erden machen w&ue;rde, verm&oe;chte e&sr; Jemand
+an un&sr; zu thun. &2014; Wir zogen die Kleine au&sr;,
+brachten sie zu Bett&2019; und reichten ihr w&ae;rmende
+Getr&ae;nke, wobei sie kein Wort sprach, und un&sr;
+blo&sr; au&sr; den beiden seeblauen Augenhimmeln
+immerfort l&ae;chelnd anstarrte.</p>
+<p>De&sr; andern Morgen&sr; lieﬂ sich wohl abneh-
+men, daﬂ sie keinen weitern Schaden genommen
+hatte, und ich fragte nun nach ihren Aeltern,
+und wie sie hier hergekommen sei. Da&sr; aber
+gab eine verworrne, wundersamliche, Geschichte.
+Von weit her muﬂ sie wohl geb&ue;rtig sein, denn
+nicht nur, daﬂ ich diese funfzehn Jahre her nicht&sr;
+von ihrer Herkunft erforschen konnte, so sprach
+und spricht sie auch bi&sr;weilen so absonderliche
+<pb="24"/>
+Dinge, daﬂ unser Ein&sr; nicht weiﬂ, ob sie am
+Ende nicht gar vom Monde herunter gekommen
+sein k&oe;nnte. Da ist die Rede von goldnen Schl&oe;s-
+sern, von kristallnen D&ae;chern, und Gott weiﬂ,
+wovon noch mehr. Wa&sr; sie am deutlichsten er-
+z&ae;hlte, war, sie sei mit ihrer Mutter auf dem
+groﬂen See spatzieren gefahren, au&sr; der Barke
+in&2019;&sr; Wasser gefallen, und habe ihre Sinne erst
+hier unter den B&ae;umen wiedergefunden, wo ihr
+an dem lustigen Ufer recht behaglich zu Muthe
+geworden sei.</p>
+<p>Nun hatten wir noch eine groﬂe Bedenk-
+lichkeit und Sorge auf dem Herzen. Daﬂ wir
+an der lieben Ertrunknen Stelle die Gefundne
+behalten und auferziehn wollten, war freilich
+sehr bald au&sr;gemacht; aber wer konnte nun wis-
+sen, ob da&sr; Kind getauft sei, oder nicht? Sie
+selber wuﬂte dar&ue;ber keine Au&sr;kunft zu geben.
+Daﬂ sie eine Kreatur sei, zu Gotte&sr; Prei&sr; und
+Freude geschaffen, wisse sie wohl, antwortete sie
+un&sr; mehrentheil&sr;, und wa&sr; zu Gotte&sr; Prei&sr;
+und Freude gereiche, seie sie auch bereit, mit sich
+<pb="25"/>
+vornehmen zu lassen. &2014; Meine Frau und ich
+dachten so: ist sie nicht getauft, so giebt&2019;&sr; da
+nicht&sr; zu z&oe;gern; ist sie e&sr; aber doch, so kann
+bei guten Dingen zu wenig eher schaden, al&sr; zu
+viel. Und dem zu Folge sannen wir auf einen
+guten Namen f&ue;r da&sr; Kind, da&sr; wir ohnehin
+noch nicht ordentlich zu rufen wuﬂten. Wir mein-
+ten endlich, Dorothea werde sich am besten f&ue;r
+sie schicken, weil ich einmal geh&oe;rt hatte, da&sr;
+heiﬂe Gotte&sr;gabe, und sie un&sr; doch von Gott
+al&sr; eine Gabe zugesandt war, al&sr; ein Trost in
+unserm Elend. Sie hingegen wollte nicht&sr; da-
+von h&oe;ren, und meinte, Undine sei sie von ih-
+ren Aeltern genannt worden, Undine wolle sie
+auch ferner heissen. Nun kam mir da&sr; wie ein
+heidnischer Name vor, der in keinem Kalender
+stehe, und ich holte mir de&sr;halben Rath bei ei-
+nem Priester in der Stadt. Der wollte auch
+nicht&sr; von dem Undinen-Namen h&oe;ren, und kam
+auf mein viele&sr; Bitten mit mir durch den ver-
+wunderlichen Wald, zu Vollziehung der Tauf-
+handlung, hier herein in meine H&ue;tte. Die
+<pb="26"/>
+Kleine stand so h&ue;bsch geschm&ue;ckt und holdseelig
+vor un&sr;, daﬂ dem Priester al&sr;bald sein ganze&sr;
+Herz vor ihr aufging, und sie wuﬂte ihm so
+artig zu schmeicheln, und mitunter so drollig
+zu trotzen, daﬂ er sich endlich auf keinen der
+Gr&ue;nde, die er gegen den Namen Undine
+vorr&ae;thig gehabt hatte, mehr besinnen konnte.
+Sie ward denn also Undine getauft, und be-
+trug sich w&ae;hrend der heiligen Handlung auﬂer-
+ordentlich sittig und anwuthig, so wild und un-
+st&ae;t sie auch &ue;brigen&sr; immer war. Denn da-
+rin hat meine Frau ganz Recht: wa&sr; T&ue;chti-
+ge&sr; haben wir mit ihr au&sr;zustehen gehabt. Wenn
+ich Euch erz&ae;hlen sollte &2014;</p>
+<p>Der Ritter unterbrach den Fischer, um ihn
+auf ein Ger&ae;usch, wie von gewaltig rauschenden
+Wasserfluthen, aufmerksam zu machen, da&sr; er
+schon fr&ue;her zwischen den Reden de&sr; Alten ver-
+nommen hatte, und da&sr; nun mit wachsendem
+Ungest&ue;m vor den H&ue;ttenfenstern dahin str&oe;mte.
+Beide sprangen nach der Th&ue;r. Da sahen sie
+drauﬂen im jetzt aufgegangnen Mondenlicht den
+<pb="27"/>
+Bach, der au&sr; dem Walde hervor rann, wild
+&ue;ber seine Ufer hinau&sr;gerissen, und Steine und
+Holzst&ae;mme in reiﬂenden Wirbeln mit sich fort-
+schleudern. Der Sturm brach, wie von dem
+Get&oe;se erweckt, au&sr; den n&ae;chtigen Gew&oe;lken,
+diese pfeilschnell &ue;ber den Mond hinjagend, her-
+vor, der See heulte unter de&sr; Winde&sr; schlagen-
+den Fittigen, die B&ae;ume der Landzunge aechzten
+von Wurzel zu Wipfel hinauf, und beugten sich
+wie schwindelnd &ue;ber die reiﬂenden Gew&ae;sser: &2014;
+Undine! Um Gotte&sr;willen, Undine! riefen die
+zwei be&ae;ngstigten M&ae;nner. &2014; Keine Antwort
+kam ihnen zur&ue;ck, und achtlo&sr; nun jeglicher an-
+dern Erw&ae;gung, rannten sie, suchend und rufend,
+Einer hier, der Andre dort hin, au&sr; der H&ue;tte
+fort.</p>
+<hr>
+<pb="28"/>
+<hr>
+<d2><g><b>Dritte&sr; Kapitel.</b>
+Wie sie Undinen wiederfanden</g>.</d2>
+<hr>
+<p><in>D</in>em Huldbrand ward e&sr; immer &ae;ngstlicher
+und verworrner zu Sinn, je l&ae;nger er unter den
+n&ae;chtlichen Schatten suchte, ohne zu finden.
+Der Gedanke, Undine sei nur eine bloﬂe Wald-
+erscheinung gewesen, bekam auf&2019;&sr; Neue Macht
+&ue;ber ihn, ja er h&ae;tte unter dem Geheul der
+Wellen und St&ue;rme, dem Krachen der B&ae;ume,
+der g&ae;nzlichen Umgestaltung der kaum noch so
+still anmuthigen Gegend, die ganze Landzunge
+samt der H&ue;tte und ihren Bewohnern fast f&ue;r
+eine tr&ue;grisch neckende Bildung gehalten; aber
+von fern h&oe;rte er doch immer noch de&sr; Fischer&sr;
+&ae;ngstliche&sr; Rnfen nach Undinen, der alten Hau&sr;-
+frau laute&sr; Beten und Singen durch da&sr; Ge-
+<pb="29"/>
+brau&sr;. Da kam er endlich dicht an de&sr; &ue;berge
+tretnen Bache&sr; Rand, und sah im Mondenlicht,
+wie dieser seinen ungez&ae;hmten Lauf grade vor
+den unheimlichen Wald hin, genommen hatte, so daﬂ
+er nun die Erdspitze zur Insel machte. &2014; O
+lieber Gott, dachte er bei sich selbst, wenn e&sr;
+Undine gewagt h&ae;tte, ein Paar Schritte in den
+f&ue;rchterlichen Forst hineinzuthun; vielleicht eben
+in ihrem anmuthigen Eigensinn, weil ich ihr
+nicht&sr; davon erz&ae;hlen sollte, &2014; und nun w&ae;re
+der Strom dazwischen gerollt, und sie weinte
+nun einsam dr&ue;ben bei den Gespenstern! &2014;
+Ein Schrei de&sr; Entsetzen&sr; entfuhr ihm, und er
+klomm einige Steine und umgest&ue;rzte Fichten-
+st&ae;mme hinab, um in den reissenden Strom zu
+treten, und, watend oder schwimmend, die Ver-
+irrte dr&ue;ben zu suchen. E&sr; fiel ihm zwar alle&sr;
+Grausenvolle und Wunderliche ein, wa&sr; ihm
+schon bei Tage unter den jetzt rauschenden und
+heulenden Zweigen begegnet war. Vorz&ue;glich
+kam e&sr; ihm vor, al&sr; stehe ein langer weiﬂer
+Mann, den er nur allzugut kannte, grinsend
+<pb="30"/>
+und nickend am jenseitigen Ufer: aber eben diese
+ungeheuern Bilder rissen ihn gewaltig nach sich
+hin, weil er bedachte, daﬂ Undine in Tode&sr;&ae;ng-
+sten unter ihnen sei, und allein.</p>
+<p>Schon hatte er einen starken Fichtenast er-
+griffen, und stand, auf diesen gest&ue;tzt, in den
+wirbelnden Fluthen, gegen die er sich kaum auf-
+recht zu halten vermochte; aber er schritt getro-
+sten Muthe&sr; tiefer hinein. Da rief e&sr; neben
+ihm mit anmuthiger Stimme: trau&2019; nicht, trau&2019;
+nicht! Er ist t&ue;ckisch, der Alte, der Strom! &2014;
+Er kannte diese lieblichen Laute, er stand wie
+beth&oe;rt unter den Schatten, die sich eben dun-
+kel &ue;ber den Mond gelegt hatten, und ihn
+schwindelte vor dem Gerolle der Wogen, die er
+pfeilschnell an seinen Schenkeln hinschieﬂen sah.
+Dennoch wollte er nicht ablassen. &2014; Bist Du
+nicht wirklich da, gaukelst Du nur neblicht um
+mich her, so mag auch ich nicht leben, und will
+ein Schatten werden, wie Du, Du liebe, liebe
+Undine! Die&sr; rief er laut, und schritt wieder
+tiefer in den Strom. &2014; Sieh&2019; Dich doch um,
+<pb="31"/>
+ei sieh&2019; Dich doch um, Du sch&oe;ner, beth&oe;rter
+J&ue;ngling! so rief e&sr; abermal&sr; dicht bei ihm,
+und seitw&ae;rt&sr; blickend sah er im eben sich wie-
+der enth&ue;llenden Mondlicht, unter den Zweigen
+hochverschlungner B&ae;ume, auf einer durch die
+Ueberschwemmung gebildeten kleinen Insel, Un-
+dinen l&ae;chelnd und lieblich in die bl&ue;henden
+Gr&ae;ser hingeschmiegt.</p>
+<p>O wie viel freudiger brauchte nun der jun-
+ge Mann seinen Fichtenast zum Stabe, al&sr; vor-
+hin! Mit wenigen Schritten war er durch die
+Fluth, die zwischen ihm und dem M&ae;gdlein hin-
+st&ue;rmte, und neben ihr stand er auf der kleinen
+Rasenstelle, heimlich und sehr von den uralten
+B&ae;umen &ue;berrauscht und beschirmt. Undine
+hatte sich etwa&sr; emporgerichtet, und schlang nun
+in dem gr&ue;nen Laubgezelte ihre Arme um sei-
+nen Nacken, so daﬂ sie ihn auf ihren weichen
+Sitz neben sich nieder zog. &2014; Hier sollst Du
+mir erz&ae;hlen, h&ue;bscher Freund, sagte sie leise
+fl&ue;sternd; hier h&oe;ren un&sr; die gr&ae;mlichen Alten
+nicht. Und so viel al&sr; ihre &ae;rmliche H&ue;tte, ist
+<pb="32"/>
+doch hier unser Bl&ae;tterdach wohl noch immer
+werth. &2014; E&sr; ist der Himmel! sagte Huld-
+brand, und umschlang, inbr&ue;nstig k&ue;ssend, die
+schmeichelnde Sch&oe;ne.</p>
+<p>Da war unterdessen der alte Fischer an
+da&sr; Ufer de&sr; Strome&sr; gekommen, und rief zu
+den beiden jungen Leuten her&ue;ber: ei, Herr Rit-
+ter, ich habe Euch aufgenommen, wie e&sr; ein
+biederherziger Mann dem andern zu thun pflegt,
+und nun kos&2019;t Ihr mit meinem Pflegekinde so
+heimlich, und laﬂt mich noch obenein in der
+Angst nach ihr durch die Nacht umherlaufen. &2014;
+Ich habe sie selbst erst eben jetzt gefunden, al-
+ter Vater, rief ihm der Ritter zur&ue;ck. Desto
+besser, sagte der Fischer; aber nun bringt sie
+mir auch ohne Verz&oe;gern an da&sr; feste Land
+her&ue;ber. Davon aber wollte Undine wieder gar
+nicht&sr; h&oe;ren. Sie meinte, eher wolle sie mit
+dem sch&oe;nen Fremden in den wilden Forst vol-
+lend&sr; hinein, al&sr; wieder in die H&ue;tte zur&ue;ck,
+wo man ihr nicht ihren Willen thue, und au&sr;
+welcher der h&ue;bsche Ritter doch &ue;ber kurz oder
+<cw>lang</cw>
+<pb="33"/>
+lang scheiden werde. Mit uns&ae;glicher Anmuth
+sang sie, Huldbranden umschlingend:</p>
+<poem>Au&sr; dunst&2019;gem Thal die Welle,
+Sie rann und sucht&2019; ihr Gl&ue;ck;
+Sie kam in&2019;&sr; Meer zur Stelle,
+Und rinnt nicht mehr zur&ue;ck.</poem>
+<p>Der alte Fischer weinte bitterlich in ihr
+Lied, aber e&sr; schien sie nicht sonderlich zu r&ue;h-
+ren. Sie k&ue;ﬂte und streichelte ihren Liebling,
+der endlich zu ihr sagte: Undine, wenn Dir
+de&sr; alten Manne&sr; Jammer da&sr; Herz nicht
+trifft, so trifft er&2019;&sr; mir. Wir wollen zur&ue;ck zu
+ihm. &2014; Verwundert schlug sie die groﬂen blau-
+en Augen gegen ihn auf, und sprach endlich lang-
+sam und z&oe;gernd: wenn Du e&sr; so meinst, &2014;
+gut; mit ist Alle&sr; recht, wa&sr; Du meinst. Aber
+versprechen muﬂ mir erst der alte Mann da
+dr&ue;ben, daﬂ er Dich ohne Widerrede will er-
+z&ae;hlen lassen, wa&sr; Du im Walde gesehn hast,
+und &2014; nun da&sr; Andre findet sich wohl. Komm
+nur, komm! rief der Fischer ihr zu, ohne mehr
+Worte herau&sr; bringen zu k&oe;nnen. Zugleich
+<bs>C</bs>
+<pb="34"/>
+streckte er seine Arme weit &ue;ber die Fluth ihr
+entgegen, und nickte mit dem Kopfe, um ihr die
+Erf&ue;llung ihrer Fordrung zuzusagen, wobei ihm
+die weiﬂen Haare seltsam &ue;ber da&sr; Gesicht her-
+&ue;ber fielen, und Huldbrand an den nickenden
+weiﬂen Mann im Forste denken muﬂte. Ohne
+sich aber durch irgend etwa&sr; irre machen zu las-
+sen, faﬂte der junge Ritter&sr;mann da&sr; sch&oe;ne
+M&ae;dchen in seine Arme, und trug sie &ue;ber den
+kleinen Raum, welchen der Strom zwischen ih-
+rem Inselchen und dem festen Ufer durchbrauste.
+Der Alte fiel um Undinen&sr; Hal&sr;, und konnte
+sich gar nicht satt freuen und k&ue;ssen; auch die
+alte Frau kam herbei, und schmeichelte der Wie-
+dergefundenen auf da&sr; Herzlichste. Von Vorw&ue;r-
+fen war gar nicht die Rede mehr, um so min-
+der, da auch Undine, ihre&sr; Trotze&sr; vergessend,
+die beiden Pflege&ae;ltern mit anmuthigen Worten
+und Liebkosungen fast &ue;bersch&ue;ttete.</p>
+<p>Al&sr; man endlich nach der Freude de&sr; Wie-
+derhaben&sr; sich recht besann, blickte schon da&sr;
+Morgenroth leuchtend &ue;ber den Landsee herein,
+<pb="35"/>
+der Sturm war stille geworden, die V&oe;glein
+sangen lustig auf den gen&ae;ﬂten Zweigen. Weil
+nun Undine auf die Erz&ae;hlung der verheiﬂnen
+Geschichte de&sr; Ritter&sr; bestand, f&ue;gten sich di&sr;
+beiden Alten l&ae;chelnd und willig in ihr Begehr.
+Man brachte ein Fr&ue;hst&ue;ck unter die B&ae;ume,
+welche hinter der H&ue;tte gegen den See zu stan-
+den, und setzte sich, von Herzen vergn&ue;gt, dabet
+nieder, Undine, weil sie e&sr; durchau&sr; nicht an-
+der&sr; haben wollte, zu den F&ue;ﬂen de&sr; Ritter&sr; in&2019;&sr;
+Gra&sr;. Hierauf begann Huldbrand folgender-
+maﬂen zu sprechen.</p>
+<hr>
+<bs>C 2</bs>
+<pb="36"/>
+<hr>
+<d2><b><g>Vierte&sr; Kapitel</g>.</b>
+Von dem, wa&sr; dem Ritter im Walde begegnet war.</d2>
+<hr>
+<p><in>E</in>&sr; m&oe;gen nun etwan acht Tage her sein, da
+ritt ich in die freie Reich&sr;stadt ein, welche dort
+jenseit de&sr; Forste&sr; gelegen ist. Bald darauf gab
+e&sr; darin ein sch&oe;ne&sr; Turnieren und Ringelren-
+nen, und ich schonte meinen Gaul und meine
+Lanze nicht. Al&sr; ich nun einmal an den Schran-
+ken still halte, um von der lustigen Arbeit zu
+rasten, und den Helm an einen meiner Knap-
+pen zur&ue;ck reiche, f&ae;llt mir ein wundersch&oe;ne&sr;
+Frauenbild in die Augen, da&sr; im allerherrlich-
+sten Schmuck auf einem der Altane stand und
+zusah. Ich fragte meinen Nachbar, und erfuhr,
+die reizende Jungfrau heiﬂe Bertalda, und sei
+die Pflegetochter eine&sr; der m&ae;chtigen Herzoge,
+<pb="37"/>
+die in dieser Gegend wohnen. Ich merkte, daﬂ
+sie auch mich ansah, und wie e&sr; nun bei un&sr;
+jungen Rittern zu kommen pflegt: hatte ich erst
+brav geritten, so ging e&sr; nun noch ganz ander&sr;
+lo&sr;. Den Abend bei&2019;m Tanze war ich Bertal-
+da&2019;&sr; Gef&ae;hrt, und da&sr; blieb so alle die Tage
+de&sr; Feste&sr; hindurch.</p>
+<p>Ein empfindlicher Schmerz an seiner linken
+herunterh&ae;ngenden Hand unterbrach hier Huld-
+brand&sr; Rede, und zog seine Blicke nach der
+schmerzenden Stelle. Undine hatte ihre Per-
+lenz&ae;hne scharf in seine Finger gesetzt, und sah
+dabei recht finster und unwillig au&sr;. Pl&oe;tzlich
+aber schaute sie ihm freundlich wehm&ue;thig in die
+Augen, und fl&ue;sterte ganz leise: Ihr macht e&sr;
+auch darnach. &2014; Dann verh&ue;llte sie ihr Ge-
+sicht, und der Ritter fuhr seltsam verwirrt und
+nachdenklich in seiner Geschichte fort:</p>
+<p>E&sr; ist eine hochm&ue;thige, wunderliche Maid,
+diese Bertalda. Sie gefiel mir auch am zwei-
+ten Tage schon lange nicht mehr, wie am er-
+sten, und am dritten noch minder. Aber ich
+<pb="38"/>
+blieb um sie, weil sie freundlicher gegen mich
+war, al&sr; gegen andre Ritter, und so kam e&sr;
+auch, daﬂ ich sie im Scherz um einen ihrer Hand-
+schuhe bat. &2014; Wenn Ihr mir Nachricht bringt,
+und Ihr ganz allein, sagte sie, wie e&sr; im be-
+r&ue;chtigten Forste au&sr;sieht. &2014; Mir lag eben
+nicht so viel an ihren Handschuhen, aber gespro-
+chen war gesprochen, und ein ehrliebender Rit-
+ter&sr;mann l&ae;ﬂt sich zu solchem Probest&ue;cke nicht
+zweimal mahnen.</p>
+<p>Ich denke, sie hatte Euch lieb, unterbrach
+ihn Undine.</p>
+<p>E&sr; sah so au&sr;, entgegnete Huldbrand.</p>
+<p>Nun, rief da&sr; M&ae;dchen lachend, die muﬂ
+recht dumm sein. Von sich zu jagen, wa&sr; Ei-
+nem lieb ist! Und vollend&sr; in einen verrufnen
+Wald hinein. Da h&ae;tte der Wald und sein
+Geheimniﬂ lange f&ue;r mich warten k&oe;nnen.</p>
+<p>Ich machte mich denn gestern Morgen auf
+den Weg, fuhr der Ritter, Undinen freundlich
+anl&ae;chelnd, fort. Die Baumst&ae;mme blitzten so
+roth und schlank im Morgenlichte, da&sr; sich hell
+<pb="39"/>
+auf dem gr&ue;nen Rasen hinstreckte, die Bl&ae;tter
+fl&ue;sterten so lustig mit einander, daﬂ ich in mei-
+nem Herzen &ue;ber die Leute lachen muﬂte, die an
+diesem vergn&ue;glichen Orte irgend etwa&sr; Unheim-
+liche&sr; erwarten konnten. Der Wald soll bald
+durchtrabt sein, hin und zur&ue;ck! sagte ich in be-
+haglicher Fr&oe;hlichkeit zu mir selbst, und eh&2019; ich
+noch daran dachte, war ich tief in die gr&ue;nenden
+Schatten hinein, und nahm nicht&sr; mehr von
+der hinter mir liegenden Ebne wahr. Da fiel
+e&sr; mir erst auf&2019;&sr; Herz, daﬂ ich mich auch in
+dem gewaltigen Forste gar leichtlich verirren k&oe;n-
+ne, und daﬂ diese&sr; vielleicht die einzige Gefahr
+sei, welche den Wander&sr;mann allhier bedrohe.
+Ich hielt daher stille, und sah mich nach dem
+Stande der Sonne um, die unterdessen etwa&sr;
+h&oe;her ger&ue;ckt war. Indem ich nun so empor-
+blicke, sehe ich ein schwarze&sr; Ding in den Zwei-
+gen einer hohen Eiche. Ich denke schon, e&sr; ist
+ein B&ae;r, und fasse nach meiner Klinge; da sagt
+e&sr; mit einer Menschenstimme, aber recht rauh
+und h&ae;ﬂlich, herunter; wenn ich hier oben nicht
+<pb="40"/>
+die Zweige abknu&sr;perte, woran solltest Du denn
+Heut&2019; um Mitternacht gebraten werden, Herr
+Nasewei&sr;? &2014; Und dabei grinzt e&sr;, und ra-
+schelt mit den Aesten, daﬂ mein Gaul toll wird,
+und mit mir durchgeht, eh&2019; ich noch Zeit gewin-
+nen konnte, zu sehn, wa&sr; e&sr; denn eigentlich f&ue;r
+eine Teufel&sr;bestie war.</p>
+<p>Den m&ue;ﬂt Ihr nicht nennen, fagte der alte
+Fischer, und kreuzte sich; die Hau&sr;frau that
+schweigend de&sr;gleichen; Undine sah ihren Lieb-
+ling mit hellen Augen an, sprechend: da&sr; Beste
+bei der Geschichte ist, daﬂ sie ihn doch nicht
+wirklich gebraten haben. Weiter, Du h&ue;bscher
+J&ue;ngling.</p>
+<p>Der Ritter fuhr in seiner Erz&ae;hlung fort:
+ich w&ae;re mit meinem scheuen Pferde fast gegen
+Baumst&ae;mme und Aeste angerannt; e&sr; triefte
+von Angst und Erhitzung, und wollte sich doch
+noch immer nicht halten lassen. Zuletzt ging e&sr;
+grade auf einen steinigen Abgrund lo&sr;; da kam
+mir&2019;&sr; pl&oe;tzlich vor, al&sr; werfe sich ein langer,
+weiﬂer Mann dem tollen Hengste quer vor in
+<pb="41"/>
+seinen Weg; der entsetzte sich davor, und stand;
+ich kriegte ihn wieder in meine Gewalt, und
+sah nun erst, daﬂ mein Retter kein weiﬂer Mann
+war, sondern ein silberheller Bach, der sich ne-
+ben mir von einem H&ue;gel herunter st&ue;rzte, mei-
+ne&sr; Rosse&sr; Lauf ungest&ue;m kreutzend und hem-
+mend.</p>
+<p>Danke, lieber Bach! rief Undine, in die
+H&ae;ndchen klopfend. Der alte Mann aber sah
+kopfsch&ue;ttelnd in tiefem Sinnen vor sich nieder.</p>
+<p>Ich hatte mich noch kaum im Sattel wie-
+der zurecht gesetzt, und die Z&ue;gel wieder ordent-
+lich recht gefaﬂt, fuhr Huldbrand fort, so stand
+auch schon ein wunderliche&sr; M&ae;nnlein zu mei-
+ner Seiten, winzig und h&ae;ﬂlich &ue;ber alle Ma-
+ﬂen, ganz braungelb, und mit einer Nase, die
+nicht viel kleiner war, al&sr; der ganze &ue;brige Bur-
+sche selbst. Dabei grinzte er mit einer recht
+dummen H&oe;flichkeit au&sr; dem breitgeschlitzten
+Maule hervor, und machte viele tausend Scharr-
+f&ue;ﬂe und B&ue;cklinge gegen mich. Weil mir nun
+da&sr; Possenspiel sehr miﬂhagte, dankte ich ihm
+<pb="42"/>
+ganz kurz, warf meinen noch immer zitternden
+Gaul herum, und gedachte, mir ein andre&sr;
+Abentheuer, oder, dafern ich keine&sr; f&ae;nde, den
+Heimweg zu suchen, denn die Sonne war w&ae;h-
+rend meiner tollen Jagd schon &ue;ber die Mit-
+tag&sr;h&oe;he gen Westen gegangen. Da sprang
+aber der kleine Kerl mit einer blitzschnellen
+Wendung herum, und stand abermal&sr; vor mei-
+nem Hengste. &2014; Platz da! sagt&2019; ich verdrieﬂ-
+lich; da&sr; Thier ist wild, und rennet Dich leicht-
+lich um. &2014; Ei, schnarrte da&sr; Kerlchen, und
+lachte noch viel entsetzlich dummer; schenkt mir
+doch erst ein Trinkgeld, denn ich hab&2019; ja Euer
+R&oe;sselein aufgefangen; l&ae;gt Ihr doch ohne mich
+samt Euerm R&oe;sselein in der Steinkluft da un-
+ten; hu! &2014; Schneide nur keine Gesichter wei-
+ter, sagte ich, und nimm Dein Geld hin, wenn
+Du auch l&ue;gst; denn siehe, der gute Bach dor-
+ten hat mich gerettet, nicht aber Du, h&oe;chst &ae;rm-
+licher Wicht. &2014; Und zugleich lieﬂ ich ein Gold-
+st&ue;ck in seine wunderliche M&ue;tze fallen, die er
+bettelnd vor mir abgezogen hatte. Dann trabte
+<pb="43"/>
+ich weiter; er aber schrie hinter mir drein, und
+war pl&oe;tzlich mit unbegreiflicher Schnelligkeit ne-
+ben mir. Ich sprengte mein Roﬂ im Gallopp
+an; er galloppirte mit, so sauer e&sr; ihm zu wer-
+den schien, und so wunderliche, halb l&ae;cherliche,
+halb gr&ae;ﬂliche, Verrenkungen er dabei mit seinem
+Leibe vornahm, wobei er immerfort da&sr; Gold-
+st&ue;ck in die H&oe;he hielt, und bei jedem Gallopp-
+sprunge schrie; falsch Geld! falsche M&ue;nz&2019;! Fal-
+sche M&ue;nz&2019;! falsch Geld! Und da&sr; kr&ae;chzte er
+au&sr; so hohler Brust herau&sr;, da&sr; man meinte,
+er m&ue;sse nach jeglichem Schreie todt zu Boden
+st&ue;rzen. Auch hing ihm die h&ae;ﬂlich rothe Zunge
+weit au&sr; dem Schlunde. Ich hielt verst&oe;rt; ich
+fragte: wa&sr; willst Du mit Deinem Geschrei?
+Nimm noch ein Goldst&ue;ck, nimm noch zwei,
+aber dann laﬂ ab von mir. &2014; Da fing er
+wieder mit seinem h&ae;ﬂlich h&oe;flichen Gr&ue;ﬂen an,
+und schnarrte: Gold eben nicht, Gold soll e&sr;
+eben nicht sein, mein Jungherrlein; de&sr; Spa-
+ﬂe&sr; hab&2019; ich selbsten allzuviel; will&2019;&sr; Euch mal
+zeigen.</p>
+<pb="44"/>
+<p>Da ward e&sr; mir auf einmal, al&sr; k&oe;nn&2019;
+ich durch den gr&ue;nen festen Boden durchsehn, al&sr;
+sei er gr&ue;ne&sr; Gla&sr;, und die ebne Erde kugel-
+rund, und drinnen hielten eine Menge Kobolde
+ihr Spiel mit Silber und Gold. Kopfauf,
+kopfunter, kugelten sie sich herum, und schmissen
+einander zum Spaﬂ mit den edlen Metallen,
+und puhsteten sich den Goldstaub neckend in&2019;&sr;
+Gesicht. Mein h&ae;ﬂlicher Gef&ae;hrte stand halb
+drinnen, halb drauﬂen; er lieﬂ sich sehr, sehr
+viel Gold von den Andern herauf reichen, und
+zeigte e&sr; mir lachend, und schmiﬂ e&sr; dann im-
+mer wieder klingend in die unermeﬂlichen Kl&ue;f-
+te hinab. Dann zeigte er wieder mein Gold-
+st&ue;ck, wa&sr; ich ihm geschenkt hatte, den Kobol-
+den drunten, und die wollten sich dr&ue;ber halb
+todt lachen, und zischten mich au&sr;. Endlich reck-
+ten sie Alle die spitzigen, metallschmutzigen, Fin-
+ger gegen mich au&sr;, und wilder und wilder,
+und dichter und dichter, und toller und toller,
+klomm da&sr; Gewimmel gegen mich herauf; &2014;
+da erfaﬂte mich ein Entsetzen, wie vorhin mei-
+<pb="45"/>
+nen Gaul. Ich gab ihm beide Sporen, und
+weiﬂ nicht, wie weit ich zum zweitenmale toll
+in den Wald hinein gejagt bin.</p>
+<p>Al&sr; ich nun endlich wieder still hielt, war
+e&sr; abendk&ue;hl um mich her. Durch die Zweige
+sah ich einen weiﬂen Fuﬂpfad leuchten, von dem
+ich meinte, er m&ue;sse au&sr; dem Forste nach der
+Stadt zur&ue;ckf&ue;hren. Ich wollte mich dahin
+durcharbeiten; aber ein ganz weiﬂe&sr;, undeutli-
+che&sr; Antlitz, mit immer wechselnden Z&ue;gen, sah
+mir zwischen den Bl&ae;ttern entgegen; ich wollte
+ihm au&sr;weichen, aber wo ich hinkam, war e&sr;
+auch. Ergrimmt gedacht&2019; ich endlich mein Roﬂ
+darauf lo&sr; zu treiben; da sprudelte e&sr; mir und
+dem Pferde weiﬂen Schaum entgegen, daﬂ wir
+Beide geblendet umwenden muﬂten. So trieb
+e&sr; un&sr; von Schritt zu Schritt, immer von dem
+Fuﬂsteige abw&ae;rt&sr;, und lieﬂ un&sr; &ue;berhaupt nur
+nach einer einzigen Richtung hin den Weg noch
+frei. Zogen wir aber auf dieser fort, so war e&sr;
+wohl dicht hinter un&sr;, that un&sr; jedoch nicht
+<pb="46"/>
+da&sr; Geringste zu Leide. Wenn ich mich dann
+bi&sr;weilen nach ihm umsah, merkte ich wohl, daﬂ
+da&sr; weiﬂe, sprudelnde Antlitz auf einem eben so
+weiﬂen, h&oe;chst riesenm&ae;ﬂigen, K&oe;rper saﬂ. Manch-
+mal dacht&2019; ich auch, al&sr; sei ein wandelnder
+Springbronn, aber ich konnte niemal&sr; recht dar-
+&ue;ber zur Gewiﬂheit kommen. Erm&ue;det gaben
+Roﬂ und Reiter dem treibenden, weiﬂen Manne
+nach, der un&sr; immer mit dem Kopfe zunickte,
+al&sr; wolle er sagen; schon recht! schon recht! &2014;
+Und so sind wir endlich an da&sr; Ende de&sr; Wal-
+de&sr; hier herau&sr; gekommen, wo ich Rasen und
+Seefluth und Eure kleine H&ue;tte sah, und wo
+der lange, weiﬂe Mann verschwand.</p>
+<p>Gut, daﬂ er fort ist, sagte der alte Fischer.
+und nun begann er davon zu sprechen, wie sein
+Gast auf die beste Weise wieder zu seinen Leu-
+ten nach der Stadt zur&ue;ck gelangen k&oe;nne. Dar-
+&ue;ber fing Undine an, ganz leise in sich selbst
+hinein zu kichern. Huldbrand merkte e&sr;, und
+sagte: ich dachte, Du s&ae;hest mich gern hier;
+<pb="47"/>
+wa&sr; freust Du Dich denn nun, da von meiner
+Abreise die Rede ist?</p>
+<p>Weil Du nicht fort kannst, entgegnete Un-
+dine. Prob&2019; e&sr; doch &2019;mal durch den &ue;bergetret-
+nen Waldstrom zu setzen, mit Kahn, mit Roﬂ
+oder allein; wie Du Lust hast. Oder prob&2019; e&sr;
+lieber nicht, denn Du w&ue;rdest zerschellt werden,
+von den blitzschnell getriebnen St&ae;mmen und
+Steinen. Und wa&sr; den See angeht, da weiﬂ
+ich wohl: der Vater darf mit seinem Kahne nicht
+weit genug darauf hinau&sr;.</p>
+<p>Huldbrand erhob sich l&ae;chelnd, um zu sehn,
+ob e&sr; so sei, wie ihm Undine gesagt hatte, der
+Alte begleitete ihn, und da&sr; M&ae;dchen gaukelte
+scherzend neben den M&ae;nnern her. Sie fanden
+e&sr; in der That, wie sie gesagt hatte, und der
+Ritter muﬂte sich drein ergeben, auf der zur
+Insel gewordnen Landspitze zu bleiben, bi&sr; die
+Fluthen sich verliefen. Al&sr; die dreie nach ihrer
+Wandrung wieder der H&ue;tte zugingen, sagte
+der Ritter der Kleinen in&2019;&sr; Ohr: nun, wie ist
+e&sr;, Undinchen? Bist Du b&oe;se, daﬂ ich blei-
+<pb="48"/>
+be? &2014; Ach, entgegnete sie m&ue;rrisch, laﬂt nur.
+Wenn ich Euch nicht gebissen h&ae;tte, wer weiﬂ,
+wa&sr; noch Alle&sr; von der Bertalda in Eurer
+Geschichte vorgekommen w&ae;r&2019;!</p>
+<hr>
+<cw><b><g>F&ue;nf-</g></b></cw>
+<pb="49"/>
+<hr>
+<d2><g><b>F&ue;nfte&sr; Kapitel.</b>
+Wie der Ritter auf der Seespitze lebte</g>.</d2>
+<hr>
+<p><in>D</in>u bist vielleicht, mein lieber Leser, schon irgend-
+wo, nach mannigfachem Auf- und Abtreiben in
+der Welt, an einen Ort gekommen, wo Dir e&sr;
+wohl war; die Jedwedem eingeborne Liebe zu
+eignem Heerd und stillen Frieden ging wieder
+auf in Dir; Du meintest, die Heimath bl&ue;he mit
+allen Blumen der Kindheit und der allerreinsten,
+innigsten Liebe, wieder au&sr; theuren Grabst&ae;tten
+hervor, und hier m&ue;sse gut wohnen und H&ue;tten
+bauen sein. Ob Du Dich darin geirrt, und den
+Irrthum nachher schmerzlich abgeb&ue;ﬂt hast, da&sr;
+soll hier nicht&sr; zur Sache thun, und Du wirst
+Dich auch selbst wohl mit dem herben Nach-
+schmack nicht freiwillig betr&ue;ben wollen. Aber
+<bs>D</bs>
+<pb="50"/>
+rufe jene unau&sr;sprechlich s&ue;sse Ahnung, jenen eng-
+lischen Gruﬂ de&sr; Frieden&sr; wieder in Dir herauf,
+und Du wirst ungef&ae;hr wissen k&oe;nnen, wie dem
+Ritter Huldbrand w&ae;hrend seine&sr; Leben&sr; auf der
+Seespitze zu Sinne war.</p>
+<p>Er sah oftmal&sr; mit innigem Wohlbehagen,
+wie der Waldstrom mit jedem Tage wilder ein-
+herrollte, wie er sich sein Bette breiter und brei-
+ter riﬂ, und die Abgeschiedenheit auf der Insel
+so f&ue;r immer l&ae;ngere Zeit au&sr;dehnte. Einen
+Theil de&sr; Tage&sr; &ue;ber, strich er mit einer alten
+Armbrust, die er in einem Winkel der H&ue;tte ge-
+funden, und sich au&sr;gebessert hatte, umher, nach
+den vor&ue;berfliegenden V&oe;geln, lauernd, und, wa&sr;
+er von ihnen treffen konnte, al&sr; guten Braten in
+die K&ue;che liefernd. Brachte er nun seine Beute
+zur&ue;ck, so unterlieﬂ Undine fast niemal&sr;, ihn au&sr;-
+zuschelten, daﬂ er den lieben, lustigen Thierchen
+oben im blauen Luftmeer so feindlich ihr fr&oe;hli-
+che&sr; Leben stehle; ja sie weinte oftmal&sr; bitterlich
+bei dem Anblicke de&sr; todten Gefl&ue;gel&sr;. Kam er
+aber dann ein andermal wieder heim, und hatte
+<pb="51"/>
+nicht&sr; geschossen, so schalt sie ihn nicht minder
+ernstlich dar&ue;ber au&sr;, daﬂ man nun um seine&sr;
+Ungeschick&sr; und seiner Nachl&ae;ssigkeit Willen mit
+Fischen und Krebsen vorlieb nehmen m&ue;sse. Er
+freute sich allemal herzinniglich auf ihr anmuthi-
+ge&sr; Z&ue;rnen, um so mehr, da sie gew&oe;hnlich nach-
+her ihre &ue;ble Laune durch die holdesten Liebko-
+sungen wieder gut zu machen suchte. Die Alten
+hatten sich in die Vertraulichkeit der beiden jun-
+gen Leute gefunden; sie kamen ihnen vor, wie
+Verlobte, oder gar wie ein Ehepaar, da&sr; ihnen
+zum Beistand im Alter mit auf der abgerissenen
+Insel wohne. Eben diese Abgeschiedenheit brachte
+auch den jungen Hulbrand ganz fest auf den Ge-
+danken, er sei bereit&sr; Undinen&sr; Br&ae;utigam.
+Ihm war zu Muthe, al&sr; g&ae;be e&sr; keine Welt
+mehr jenseit&sr; dieser umgebenden Fluthen, oder
+al&sr; k&oe;nne man doch nie wieder da hin&ue;ber zur
+Vereinigung mit andern Menschen gelangen;
+und wenn ihn auch bi&sr;weilen sein weidende&sr;
+Roﬂ anwieherte, wie nach Ritterthaten fragend
+und mahnend, oder sein Wappenschild ihm von
+<bs>D 2</bs>
+<pb="52"/>
+der Stickerei de&sr; Sattel&sr; und der Pferdedecke ernst
+entgegenleuchtete, oder sein sch&oe;ne&sr; Schwerdt un-
+versehen&sr; vom Nagel, an welchem e&sr; in der H&ue;tte
+hing, herabfiel, im Sturze au&sr; der Scheide glei-
+tend, &2014; so beruhigte er sein zweifelnde&sr; Ge-
+m&ue;th damit: Undine sei gar keine Fischer&sr;-
+Tochter, sei vielmehr, aller Wahrscheinlichkeit
+nach, au&sr; einem wundersamen, hochf&ue;rstlichen
+Hause der Fremde, geb&ue;rtig. Nur da&sr; war ihm
+in der Seele zuwider, wenn die alte Frau Un-
+dinen in seiner Gegenwart schalt. Da&sr; launi-
+sche M&ae;dchen lachte zwar meist, ohne alle&sr; Hehl,
+ganz au&sr;gelassen dar&ue;ber; aber ihm war e&sr;, al&sr;
+taste man seine Ehre an, und doch wuﬂte er der
+alten Fischerin nicht Unrecht zu geben, denn Un-
+dine verdiente immer zum wenigsten zehnfach so
+viele Schelte, al&sr; sie bekam; daher er denn auch
+der Hau&sr;wirthin im Herzen gewogen blieb, und
+da&sr; ganze Leben seinen stillen, vergn&ue;glichen Gang
+f&ue;rder ging.</p>
+<p>E&sr; kam aber doch endlich eine St&oe;rung
+hinein; der Fischer und der Ritter waren nehm-
+<pb="53"/>
+lich gewohnt gewesen, beim Mittag&sr;mahle, und
+auch de&sr; Abend&sr;, wenn der Wind draussen heulte,
+wie er e&sr; fast immer gegen die Nacht zu thun
+pflegte, sich mit einander bei einem Kruge Wein
+zu erg&oe;tzen. Nun war aber der ganze Vorrath
+zu Ende gegangen, den der Fischer fr&ue;her von
+der Stadt nach und nach mitgebracht hatte, und
+die beiden M&ae;nner wurden dar&ue;ber ganz ver-
+drieﬂlich. Undine lachte sie den Tag &ue;ber wacker
+au&sr;, ohne daﬂ beide so lustig, wie gew&oe;hnlich, in
+ihre Scherze einstimmten. Gegen Abend war
+sie au&sr; der H&ue;tte gegangen: sie sagte, um den
+zwei langen und langweiligen Gesichtern zu ent-
+gehn. Weil e&sr; nun in der D&ae;mmerung wieder
+nach Sturm au&sr;sah, und da&sr; Wasser bereit&sr; heulte
+und rauschte, sprangen der Ritter und der Fischer
+erschreckt vor die Th&ue;r, um da&sr; M&ae;dchen heim-
+zuholen, der Angst jener Nacht gedenkend, wo
+Huldbrand zum erstenmal in der H&ue;tte gewesen
+war. Undine aber trat ihnen entgegen, freund-
+lich in ihre H&ae;ndchen klopfend. Wa&sr; gebt Ihr
+mir, wenn ich Euch Wein verschaffe? Oder viel-
+<pb="54"/>
+mehr, Ihr braucht mir nicht&sr; zu geben, fuhr sie
+fort, denn ich bin schon zufrieden, wenn Ihr
+lustiger au&sr;seht, und bessere Einf&ae;lle habt, al&sr;
+diesen letzten, langweiligen Tag hindurch. Kommt
+nur mit; der Waldstrom hat ein Faﬂ an da&sr;
+Ufer getrieben, und ich will verdammt sein, eine
+ganze Woche lang zu schlafen, wenn e&sr; nicht ein
+Weinfaﬂ ist. &2014; Die M&ae;nner folgten ihr nach,
+und fanden wirklich, an einer umb&ue;schten Bucht
+de&sr; Ufer&sr;, ein Faﬂ, welche&sr; ihnen Hoffnung gab,
+al&sr; enthalte e&sr; den edlen Trank, wonach sie ver-
+langten. Sie w&ae;lzten e&sr; vor Allem auf&2019;&sr; schleu-
+nigste in die H&ue;tte, denn ein schwere&sr; Wetter
+zog wieder am Abendhimmel herauf, und man
+konnte in der D&ae;mmerung bemerken, wie die
+Wogen de&sr; See&2019;&sr; ihre weissen H&ae;upter sch&ae;u-
+mend emporrichteten, al&sr; s&ae;hen sie sich nach den
+Regen um, der nun bald auf sie herunterrau-
+schen sollte. Undine half den beiden nach Kr&ae;f-
+ten, und sagte, al&sr; da&sr; Regenwetter pl&oe;tzlich all-
+zuschnell herauf heulte, lustig drohend in die schwe-
+<pb="55"/>
+ren Wolken hinein: Du! Du! H&ue;te Dich, daﬂ
+Du un&sr; nicht naﬂ machst; wir sind noch lange
+nicht unter Dach. &2014; Der Alte verwie&sr; ihr
+solche&sr; al&sr; eine s&ue;ndhafte Vermessenheit; aber sie
+kicherte leise vor sich hin, und e&sr; widerfuhr auch
+Niemanden etwa&sr; Ueble&sr; darum. Vielmehr ge-
+langten alle drei, wider Vermuthen, mit ihrer
+Beute trocken an den behaglichen Heerd, und
+erst, al&sr; man da&sr; Faﬂ ge&oe;fsnet, und erprobt
+hatte, daﬂ e&sr; einen wundersam trefflichen Wein
+enthalte, riﬂ sich der Regen au&sr; dem dunkeln
+Gew&oe;lke lo&sr;, und rauschte der Sturm durch die
+Wipfel der B&ae;ume und &ue;ber de&sr; See&2019;&sr; emp&oe;rte
+Wogen hin.</p>
+<p>Einige Flaschen waren bald au&sr; dem gro-
+ﬂen Fasse gef&ue;llt, da&sr; f&ue;r viele Tage Vorrath
+verhieﬂ, man saﬂ trinkend und scherzend, und
+heimisch gesichert vor dem tobenden Unwetter,
+an der Glut de&sr; Heerde&sr; beisammen. Da sag-
+te der alte Fischer, und ward pl&oe;tzlich sehr ernst:
+ach groﬂer Gott, wir freuen un&sr; hier der edlen
+<pb="56"/>
+Gabe, und der, welchem sie zuerst angeh&oe;rte,
+und vom Strome genommen ward, hat wohl
+gar da&sr; liebe Leben drum lassen m&ue;ssen. &2014;
+Er wird ja nicht grade! meinte Undine und
+schenkte dem Ritter l&ae;chelnd ein. Der aber
+sagte: bei meiner h&oe;chsten Ehre, alter Vater,
+w&ue;ﬂt&2019; ich ihn zu finden und zu retten, mich soll-
+te kein Gang in die Nacht hinau&sr; dauern, und
+keine Gefahr. Soviel aber kann ich Euch ver-
+sichern, komm&2019; ich je wieder zu bewohntern Lan-
+den, so will ich ihn oder seine Erben schon au&sr;-
+findig machen, und diesen Wein doppelt und
+dreifach ersetzen. &2014; Da&sr; freute den alten
+Mann; er nickte dem Ritter billigend zu, und
+trank nun seinen Becher mit besserm Gewissen
+und Behagen leer. Undine aber sagte zu Huld-
+branden: mit der Entsch&ae;digung und mit Dei-
+nem Golde halt&2019; e&sr;, wie Du willst. Da&sr; aber
+mit dem Nachlaufen und Suchen war dumm
+geredet. Ich weinte mir die Augen au&sr;, wenn
+Du dar&ue;ber verloren gingst, und nicht wahr,
+<pb="57"/>
+Du m&oe;chtest auch lieber bei mir bleiben, und
+bei dem guten Wein? &2014; Da&sr; freilich; entgeg-
+nete Huldbrand l&ae;chelnd. &2014; Nun, sagte Un-
+dine, also hast Du dumm gesprochen. Denn
+Jeder ist sich doch selbst der N&ae;chste und wa&sr;
+gehn Einen die andern Leute an. &2014; Die Hau&sr;-
+wirthin wandte sich seufzend und kopfsch&ue;ttelnd
+von ihr ab, der Fischer vergaﬂ seiner sonstigen
+Vorliebe f&ue;r da&sr; zierliche M&ae;gdlein und schalt.
+Al&sr; ob Dich Heiden und T&ue;rken erzogen h&ae;t-
+ten, klingt ja da&sr;, schloﬂ er seine Rede; Gott
+verzeih&2019; e&sr; mir, und Dir, Du ungerathne&sr;
+Kind. &2014; Ja, aber mir ist doch nun einmal
+so zu Muthe, entgegnete Undine, habe mich er-
+zogen, wer da will, und wa&sr; k&oe;nnen da all&2019;
+Eure Worte helfen. &2014; Schweig&2019;! fuhr der
+Fischer sie an, und sie, die ungeachtet ihrer
+Keckheit doch &ae;usserst schreckhaft war, fuhr zu-
+sammen, schmiegte sich zitternd an Huldbrand,
+und fragte ihn ganz leise: Bist Du auch b&oe;se,
+sch&oe;ner Freund? Der Ritter dr&ue;ckte ihr die
+<pb="58"/>
+zarte Hand, und streichelte ihre Locken. Sagen
+konnte er nicht&sr;, weil ihm der Aerger &ue;ber
+de&sr; Alten H&ae;rte gegen Undinen die Lippen
+schloﬂ, und so saﬂen beide Paare mit einem
+Male unwillig und im verlegnen Schweigen
+einander gegen&ue;ber.</p>
+<hr>
+<pb="59"/>
+<hr>
+<d2><g><b>Sechste&sr; Kapitel.</b>
+Von einer Trauung</g>.</d2>
+<hr>
+<p><in>E</in>in leise&sr; Klopfen an die Th&ue;r klang durch
+diese Stille, und erschreckte Alle, die in der
+H&ue;tte saﬂen, wie e&sr; denn wohl bi&sr;weilen zu
+kommen pflegt, daﬂ auch eine Kleinigkeit, die
+ganz unvermuthet geschieht, Einem den Sinn
+recht furchtbarlich aufregen kann. Aber hier
+kam noch dazu, daﬂ der verrufne Forst sehr na-
+he lag, und daﬂ die Seespitze f&ue;r menschliche
+Besuche jetzt unzug&ae;nglich schien. Man sah ein-
+ander zweifelnd an, da&sr; Pochen wiederholte sich,
+von einem tiefen Aechzen begleitet; der Ritter
+ging nach seinem Schwerdte. Da sagte aber
+der alte Mann leise: wenn e&sr; da&sr; ist, wa&sr; ich
+f&ue;rchte, hilft un&sr; keine Waffe. &2014; Undine n&ae;-
+<pb="60"/>
+herte sich indessen der Th&ue;r, und rief ganz un-
+willig und keck: wenn Ihr Unfug treiben wollt,
+Ihr Erdgeister, so soll Euch K&ue;hleborn wa&sr;
+Bessre&sr; lehren. &2014; Da&sr; Entsetzen der Andern
+ward durch diese wunderlichen Worte vermehrt,
+sie sahen da&sr; M&ae;dchen scheu an, und Huldbrand
+wollte sich eben zu einer Frage an sie erman-
+nen, da sagte e&sr; von drauﬂen: ich bin kein Erd-
+geist, wohl aber ein Geist, der noch im irdi-
+schen K&oe;rper hauset. Wollt Ihr mir helfen,
+und f&ue;rchtet Ihr Gott, Ihr drinnen in der
+H&ue;tte, so thut mir auf. Undine hatte bei die-
+sen Worten die Th&ue;r bereit&sr; ge&oe;ffnet, und leuch-
+tete mit einer Ampel in die st&ue;rmige Nacht hin-
+au&sr;, so daﬂ man drauﬂen einen alten Priester
+wahrnahm, der vor dem unversehnen Anblicke
+de&sr; wundersch&oe;nen M&ae;gdlein&sr; erschreckt zur&ue;cke
+trat. Er mochte wohl denken, e&sr; m&ue;sse Spuk
+und Zauberei mit im Spiele sein, wo ein so
+herrliche&sr; Bild au&sr; einer so niedern H&ue;ttenpfor-
+te erscheine; de&sr;halben fing er an zu beten:
+alle gute Geister loben Gott den Herrn! &2014;
+<pb="61"/>
+Ich bin kein Gespenst, sagte Undine l&ae;chelnd;
+seh&2019; ich denn so h&ae;ﬂlich au&sr;? Zudem k&oe;nnt Ihr
+ja wohl merken, daﬂ mich kein frommer Spruch
+erschreckt. Ich weiﬂ doch auch von Gott, und
+versteh&2019; ihn auch zu loben; Jedweder auf seine
+Weise freilich, und dazu hat er un&sr; erschaffen.
+Tretet herein, ehrw&ue;rdiger Vater; Ihr kommt
+zu guten Leuten.</p>
+<p>Der Geistliche kam neigend und umblickend
+herein, und sahe gar lieb und ehrw&ue;rdig au&sr;.
+Aber da&sr; Wasser troff au&sr; allen Falten seine&sr;
+dunkeln Kleide&sr;, und au&sr; dem langen weiﬂen
+Bart und den weiﬂen Locken de&sr; Haupthaare&sr;.
+Der Fischer und der Ritter f&ue;hrten ihn in eine
+Kammer, und gaben ihm andre Kleider, w&ae;h-
+rend sie den Weibern die Gewande de&sr; Prie-
+ster&sr; zum Trocknen in da&sr; Zimmer reichten.
+Der fremde Grei&sr; dankte auf&2019;&sr; dem&ue;thigste und
+freundlichste, aber de&sr; Ritter&sr; gl&ae;nzenden Man-
+tel, den ihm dieser entgegenhielt, wollte er auf
+keine Weise umnehmen; er w&ae;hlte statt dessen
+ein alte&sr; graue&sr; Oberkleid de&sr; Fischer&sr;. So
+<pb="62"/>
+kamen sie denn in da&sr; Gemach zur&ue;ck, die
+Hau&sr;frau r&ae;umte dem Priester al&sr;bald ihren
+groﬂen Sessel, und ruhte nicht eher, bi&sr; er sich
+darauf nieder gelassen hatte; denn, sagte sie,
+Ihr seid alt, und ersch&oe;pft, und geistlich oben-
+drein. &2014; Undine schob den F&ue;ﬂen de&sr; Frem-
+den ihr kleine&sr; B&ae;nkchen unter, worauf sie sonst
+neben Huldbranden zu sitzen pflegte, und bewie&sr;
+sich &ue;berhaupt in der Pflege de&sr; guten Alten
+h&oe;chst sittig und anmuthig. Huldbrand fl&ue;sterte
+ihr dar&ue;ber eine Neckerei in&2019;&sr; Ohr, sie aber
+entgegnete sehr ernst: er dient ja dem, der un&sr;
+Alle geschaffen hat; damit ist nicht zu spaﬂen. &2014;
+Der Ritter und der Fischer labten darauf den
+Priester mit Speise und Wein, und dieser fing,
+nachdem er sich etwa&sr; erholt hatte, zu erz&ae;hlen
+an, wie er Gestern au&sr; seinem Kloster, da&sr; fern
+&ue;ber den groﬂen Landsee hinau&sr; liege, nach dem
+Sitze de&sr; Bischof&sr; habe reisen sollen, um dem-
+selben die Noth kund zu thun, in welche durch
+die jetzigen wunderbaren Ueberschwemmungen
+da&sr; Kloster und dessen Zin&sr;d&oe;rfer gerathen seien.
+<pb="63"/>
+Da habe er nach langen Umwegen um eben
+dieser Ueberschwemmungen willen, sich Heute ge-
+gen Abend dennoch gen&oe;thigt gesehn, einen &ue;ber-
+getretnen Arm de&sr; See&2019;&sr;, mit H&ue;lfe zweier gu-
+ten F&ae;hrleute, zu &ue;berschiffen. &2014; Kaum aber,
+fuhr er fort, hatte unser kleine&sr; Fahrzeug die
+Wellen ber&ue;hrt, so brach auch schon der unge-
+heure Sturm lo&sr;, der noch jetzt &ue;ber unsern
+H&ae;uptern fortw&ue;thet. E&sr; war, al&sr; h&ae;tten die
+Fluthen nur auf un&sr; gewartet, um die aller-
+tollsten, strudelndsten, T&ae;nze mit un&sr; zu begin-
+nen. Die Ruder waren bald au&sr; meiner F&ue;h-
+rer H&ae;nden gerissen, und trieben zerschmettert
+auf den Wogen weiter und weiter vor un&sr; hin-
+au&sr;. Wir selbst flogen h&ue;lflo&sr; und der tauben
+Naturkraft hingegeben, auf die H&oe;he de&sr; See&2019;&sr;,
+zu Euern fernen Ufern her&ue;ber, die wir schon
+zwischen den Nebeln und Wassersch&ae;umen em-
+porstreben sahen. Da drehte sich endlich der
+Nachen immer wilder und schwindliger; ich weiﬂ
+nicht, st&ue;rzte er um, st&ue;rzte ich herau&sr;. Im dun-
+keln Aengstigen de&sr; nahen, schrecklichen Tode&sr;
+<pb="64"/>
+trieb ich weiter, bi&sr; mich eine Welle hier unter
+die B&ae;ume an Eure Insel warf.</p>
+<p>Ja, Insel! sagte der Fischer. Vor kurzem
+war&2019;&sr; noch eine Landspitze. Nun aber, seit
+Waldstrom und See schier toll geworden sind,
+sieht e&sr; ganz ander&sr; mit un&sr; au&sr;.</p>
+<p>Ich merkte so etwa&sr;, sagte der Priester,
+indem ich im Dunkeln da&sr; Wasser entl&ae;ngst
+schlich, und, ring&sr;um nur wilde&sr; Gebrause an-
+treffend, endlich schaute, wie sich ein betretner
+Fuﬂpfad grade in da&sr; Geto&sr; hinein verlor.
+Nun sahe ich da&sr; Licht in Eurer H&ue;tte, und
+wagte mich hierher, wo ich denn meinem himm-
+lischen Vater nicht genug danken kann, daﬂ er
+mich nach meiner Rettung au&sr; dem Gew&ae;sser
+auch noch zu so frommen Leuten gef&ue;hrt hat,
+al&sr; zu Euch; und da&sr; um so mehr, da ich nicht
+wissen kann, ob ich auﬂer Euch Vieren noch in
+diesem Leben andre Menschen wieder zu sehen
+bekomme.</p>
+<p>Wie meint Ihr da&sr;? fragte der Fischer.</p>
+<p>Wiﬂt Ihr denn, wie lange diese&sr; Treiben
+<cw>der</cw>
+<pb="65"/>
+der Elemente w&ae;hren soll? entgegnete der Geist-
+liche. Und ich bin alt an Jahren. Gar leicht-
+lich mag mein Leben&sr;strom eher versiegend unter
+die Erde gehn, al&sr; die Ueberschwemmung de&sr;
+Waldstrome&sr; da drauﬂen. Und &ue;berhaupt, e&sr;
+w&ae;re ja nicht unm&oe;glich, daﬂ mehr und mehr
+de&sr; sch&ae;umenden Wasser&sr; sich zwischen Euch und
+den jenseitigen Forst dr&ae;ngte, bi&sr; Ihr so weit
+von der &ue;brigen Erde abgerissen w&ue;rdet, daﬂ
+Euer Fischerk&ae;hnlein nicht mehr hin&ue;ber reichte,
+und die Bewohner de&sr; festen Lande&sr; in ihren
+Zerstreuungen Euer Alter g&ae;nzlich vergessen.</p>
+<p>Die alte Hau&sr;frau fuhr hier&ue;ber zusam-
+men, kreuzte sich, und sagte: da&sr; verh&ue;te
+Gott! &2014; Aber der Fischer sahe sie l&ae;chelnd
+an, und sprach: wie doch auch nun der Mensch
+ist! E&sr; w&ae;re ja dann nicht ander&sr;, wenigsten&sr;
+nicht f&ue;r Dich, liebe Frau, al&sr; e&sr; nun ist. Bist
+Du denn seit vielen Jahren weiter gekommen,
+al&sr; an die Gr&ae;nze de&sr; Forste&sr;? Und hast Du
+andre Menschen gesehn, al&sr; Undinen und mich?
+&2014; Seit Kurzem sind nun noch der Ritter und
+<bs>E</bs>
+<pb="66"/>
+der Priester zu un&sr; gekommen. Die blieben
+bei un&sr;, wenn wir zur vergessenen Insel w&ue;r-
+den; also h&ae;ttest Du ja den besten Gewinn
+davon.</p>
+<p>Ich weiﬂ nicht, sagte die alte Frau, e&sr;
+wird einem doch unheimlich zu Muthe, wenn
+man sich&2019;&sr; nun so vorstellt, daﬂ man unwieder-
+bringlich von den andern Leuten geschieden w&ae;r&2019;,
+ob man sie &ue;brigen&sr; auch weder kennt noch
+sieht.</p>
+<p>Du bliebest dann bei un&sr;, Du bliebest
+dann bei un&sr;! fl&ue;sterte Undine ganz leise, halb
+singend, und schmiegte sich inniger an Huld-
+brand&sr; Seite. Dieser aber war in tiefen und
+seltsamen Gebilden seine&sr; Innern verloren. Die
+Gegend jenseit de&sr; Waldwasser&sr; zog sich seit
+de&sr; Priester&sr; letzten Worten immer ferner und
+dunkler von ihm ab, die bl&ue;hende Insel, auf
+welcher er lebte, gr&ue;nte und lachte immer fri-
+scher in sein Gem&ue;th herein. Die Braut gl&ue;h-
+te al&sr; die sch&oe;nste Rose diese&sr; kleinen Erdstri-
+che&sr; und auch der ganzen Welt hervor, der Prie-
+<pb="67"/>
+ster war zur Stelle. Dazu kam noch eben, daﬂ
+ein z&ue;rnender Blick der Hau&sr;frau da&sr; sch&oe;ne
+M&ae;dchen traf, weil sie sich in Gegenwart de&sr;
+geistlichen Herren so dicht an ihren Liebling
+lehnte, und e&sr; schien, al&sr; wolle ein Strom von
+unerfreulichen Worten folgen. Da brach e&sr; au&sr;
+de&sr; Ritter&sr; Munde, daﬂ er, gegen den Priester
+gewandt, sagte: Ihr seht hier ein Brautpaar
+vor Euch, ehrw&ue;rdiger Herr, und wenn die&sr;
+M&ae;dchen und die guten alten Fischer&sr;leute nicht&sr;
+dawider haben, sollt Ihr un&sr; Heute Abend noch
+zusammengeben.</p>
+<p>Die beiden alten Eheleute waren sehr ver-
+wundert. Sie hatten zwar bi&sr;her oft so etwa&sr;
+gedacht, aber au&sr;gesprochen hatten sie e&sr; doch
+niemal&sr;, und wie nun der Ritter die&sr; that, kam
+e&sr; ihnen al&sr; etwa&sr; ganz Neue&sr; und Unerh&oe;rte&sr;
+vor. Undine war pl&oe;tzlich ernst geworden, und
+sah tiefsinnig vor sich nieder, w&ae;hrend der Prie-
+ster nach den n&ae;hern Umst&ae;nden fragte, und sich
+bei den Alten nach ihrer Einwilligung erkundig-
+te. Man kam nach mannigfachem Hin- und
+<bs>E 2</bs>
+<pb="68"/>
+Herreden mit einander auf&2019;&sr; Reine; die Hau&sr;-
+frau ging, um den jungen Leuten da&sr; Brautge-
+mach zu ordnen, und zwei geweihte Kerzen, die
+sie seit langer Zeit verwahrt hielt, f&ue;r die Trau-
+ung&sr;feierlichkeit hervorzusuchen. Der Ritter ne-
+stelte indeﬂ an seiner goldnen Kette, und wollte
+zwei Ringe lo&sr;drehen, um sie mit der Braut
+wechseln zu k&oe;nnen. Diese aber fuhr, e&sr; bemer-
+kend, au&sr; ihrem tiefen Sinnen auf, und sprach:
+nicht also! Ganz bettelarm haben mich meine
+Aeltern nicht in die Welt hinein geschickt; viel-
+mehr haben sie gewiﬂlich schon fr&ue;he darauf ge-
+rechnet, daﬂ ein solcher Abend aufgehn solle. &2014;
+Damit war sie schnell au&sr; der Th&ue;r, und kam
+gleich darauf mit zwei kostbaren Ringen zur&ue;ck,
+deren einen sie ihrem Br&ae;utigam gab, und den
+andern f&ue;r sich behielt. Der alte Fischer war
+ganz erstaunt dar&ue;ber, und noch mehr die Hau&sr;-
+frau, die eben wieder hereintrat, daﬂ Beide
+diese Kleinodien noch niemal&sr; bei dem Kinde
+gesehn hatten. &2014; Meine Aeltern, entgegnete
+Undine, lieﬂen mir diese Dingerchen in da&sr;
+<pb="69"/>
+sch&oe;ne Kleid n&ae;hen, da&sr; ich grade anhatte, da
+ich zu Euch kam. Sie verboten mir auch, auf
+irgend eine Weise Jemandem davon zu sagen
+vor meinem Hochzeitabend. Da habe ich sie
+denn also stille herau&sr; getrennt, und verborgen
+gehalten bi&sr; Heute. &2014; Der Priester unter-
+brach da&sr; weitere Fragen und Verwundern, in-
+dem er die geweihten Kerzen anz&ue;ndete, sie auf
+einen Tisch stellte, und da&sr; Brautpaar sich ge-
+gen&ue;ber treten hieﬂ. Er gab sie sodann mit
+kurzen, feierlichen, Worten zusammen, die alten
+Eheleute segneten die jungen, und die Braut
+lehnte sich leise zitternd und nachdenklich an
+den Ritter. Da sagte der Priester mit einem
+Male: ihr Leute seid doch seltsam! Wa&sr; sagt
+Ihr mir denn, Ihr w&ae;ret die einzigen Men-
+schen hier auf der Insel? Und w&ae;hrend der
+ganzen Trauhandlung sah zu dem Fenster mir
+gegen&ue;ber ein ansehnlicher, langer Mann im
+weiﬂen Mantel herein. Er muﬂ noch vor der
+Th&ue;re stehn, wenn Ihr ihn etwan mit in&2019;&sr;
+Hau&sr; n&oe;thigen wollt. &2014; Gott bewahre! sagte
+<pb="70"/>
+die Wirthin, zusammenfahrend, der alte Fischer
+sch&ue;ttelte schweigend den Kopf, und Huldbrand
+sprang nach dem Fenster. E&sr; war ihm selbst,
+al&sr; sehe er noch einen weiﬂen Streif, der aber
+bald im Dunkel g&ae;nzlich verschwand. Er redete
+dem Priester ein, daﬂ er sich durchau&sr; geirrt
+haben m&ue;sse, und man setzte sich vertraulich mit-
+sammen um den Heerd.</p>
+<hr>
+<pb="71"/>
+<hr>
+<d2><b><g>Siebente&sr; Kapitel</g>.</b>
+Wa&sr; sich weiter am Hochzeitabende begab.</d2>
+<hr>
+<p><in>G</in>ar sittig und still hatte sich Undine vor und
+w&ae;hrend der Trauung bewiesen, nun aber war
+e&sr;, al&sr; sch&ae;umten alle die wunderlichen Grillen,
+welche in ihr hausten, um so dreister und keckli-
+cher auf die Oberfl&ae;che hervor. Sie neckte
+Br&ae;utigam und Pflege&ae;ltern und selbst den noch
+kaum so hochverehrten Priester mit allerhand
+kindischen Streichen, und al&sr; die Wirthin etwa&sr;
+dagegen sagen wollte, brachten diese ein paar
+ernste Worte de&sr; Ritter&sr;, worin er Undinen mit
+groﬂer Bedeutsamkeit seine Hau&sr;frau nannte,
+zum Schweigen. Ihm selbst indessen, dem Rit-
+ter, gefiel Undinen&sr; kindische&sr; Bezeigen eben so
+wenig; aber da half kein Winken und kein
+<pb="72"/>
+R&ae;u&sr;pern und keine tadelnde Rede. So oft
+die Braut ihre&sr; Liebling&sr; Unzufriedenheit merk-
+te, &2014; und da&sr; geschah einigemal, &2014; ward sie
+freilich stiller, setzte sich neben ihn, streichelte ihn,
+fl&ue;sterte ihm l&ae;chelnd etwa&sr; in da&sr; Ohr, und
+gl&ae;ttete so die aufsteigenden Falten seiner Stirn.
+Aber gleich darauf riﬂ sie irgend ein toller Ein-
+fall wieder in da&sr; gaukelnde Treiben hinein,
+und e&sr; ging nur &ae;rger, al&sr; zuvor. Da sagte
+der Priester sehr ernsthaft und sehr freundlich:
+mein anmuthige&sr; junge&sr; M&ae;gdlein, man kann
+Euch zwar nicht ohne Erg&oe;tzen ansehn, aber
+denkt darauf, Eure Seele beizeiten so zu stim-
+men, daﬂ sie immer die Harmonie zu der Seele
+Eure&sr; angetrauten Br&ae;utigam&sr; anklingen las-
+se. &2014; Seele! lachte ihn Undine an; da&sr; klingt
+recht h&ue;bsch, und mag auch f&ue;r die mehrsten
+Leute eine gar erbauliche und nutzreiche Regel
+sein. Aber wenn nun Ein&sr; gar keine Seele
+hat, bitt&2019; Euch, wa&sr; soll e&sr; denn da stimmen?
+Und so geht e&sr; mir. &2014; Der Priester schwieg
+tiefverletzt, im frommen Z&ue;rnen, und kehrte sein
+<pb="73"/>
+Antlitz wehm&ue;thig von dem M&ae;dchen ab. Sie
+aber ging schmeichelnd auf ihn zu, und sagte:
+nein, h&oe;rt doch erst ordentlich, eh&2019; Ihr b&oe;se au&sr;-
+seht, denn Euer B&oe;seau&sr;sehn thut mir weh und
+Ihr m&ue;ﬂt doch keiner Creatur weh thun, die
+Euch ihrer Seit&sr; nicht&sr; zu Leide gethan hat.
+Zeigt Euch nur duldsam gegen mich, und ich
+will&2019;&sr; Euch ordentlich sagen, wie ich&2019;&sr; meine.</p>
+<p>Man sah, sie stellte sich in Vereitschaft, et-
+wa&sr; recht au&sr;f&ue;hrliche&sr; zu erz&ae;hlen, aber pl&oe;tz-
+lich stockte sie, wie von einem innern Schauer
+ergriffen, und brach in einen reichen Strom
+der wehm&ue;thigsten Thr&ae;nen au&sr;. Sie wuﬂten
+Alle nicht mehr, wa&sr; sie recht au&sr; ihr machen
+sollten, und starrten sie in unterschiedlichen Be-
+sorgnissen schweigend an. Da sagte sie endlich,
+sich ihre Thr&ae;nen abtrocknend, und den Priester
+ernsthaft ansehend: e&sr; muﬂ etwa&sr; Liebe&sr;, aber
+auch etwa&sr; h&oe;chst Furchtbare&sr;, um eine Seele
+sein. Um Gott, mein frommer Mann, w&ae;r&2019;
+e&sr; nicht besser, man w&ue;rde ihrer nie theilhaf-
+tig? &2014; Sie schwieg wieder still, wie auf Ant-
+<pb="74"/>
+wort wartend, ihre Thr&ae;nen waren gehemmt.
+Alle in der H&ue;tte hatten sich von ihren Sitzen
+erhoben, und traten schaudernd vor ihr zur&ue;ck.
+Sie aber schien nur f&ue;r den Geistlichen Augen
+zu haben, auf ihren Z&ue;gen malte sich der Au&sr;-
+druck einer f&ue;rchtenden Neubegier, die eben de&sr;halb
+den Andern h&oe;chst furchtbar vorkam. &2014; Schwer
+muﬂ die Seele lasten, fuhr sie fort, da ihr noch
+Niemand antwortete; sehr schwer! Denn schon
+ihr annahende&sr; Bild &ue;berschattet mich mit Angst
+und Trauer. Und ach, ich war so leicht, so
+lustig sonst! &2014; Und in einen erneuten Thr&ae;-
+nenstrom brach sie au&sr;, und schlug da&sr; Gewand
+vor threm Antlitze zusammen. Da trat der
+Priester, ernsten Ansehn&sr;, auf sie zu, und sprach
+sie an, und beschwur sie bei den heiligsten Na-
+men, sie solle die lichte H&ue;lle abwerfen, fall&sr; et-
+wa&sr; B&oe;se&sr; in ihr sei. Sie aber sank vor ihm
+in die Knie, alle&sr; Fromme wiederholend, wa&sr;
+er sprach, und Gott lobend, und betheuernd, sie
+meine e&sr; gut mit der ganzen Welt Da sagte
+endlich der Priester zum Ritter: Herr Br&ae;uti-
+<pb="75"/>
+gam, ich lasse Euch allein mit der, die ich Euch
+angetraut habe. Soviel ich ergr&ue;nden kann,
+ist nicht&sr; Ueble&sr; an ihr, wohl aber de&sr; Wun-
+dersamen viel. Ich empfehle Euch Vorsicht,
+Liebe, und Treue. &2014; Damit ging er hinau&sr;,
+die Fischer&sr;leute folgten ihm, sich bekreuzend.</p>
+<p>Undine war auf die Kniee gesunken, sie
+entschleierte ihr Angesicht, und sagte, scheu nach
+Huldbranden umblickend: ach, nun willst Du
+mich gewiﬂ nicht behalten; und hab&2019; ich doch
+nicht&sr; B&oe;se&sr; gethan, ich arme&sr;, arme&sr; Kind! &2014;
+Sie sah dabei so unendlich anmuthig und r&ue;h-
+rend au&sr;, daﬂ ihr Br&ae;utigam alle&sr; Grauen&sr;
+und aller R&ae;thselhaftigkeit vergaﬂ, zu ihr hin-
+eilend, und sie in seinen Armen emporrichtend.
+Da l&ae;chelte sie durch ihre Thr&ae;nen; e&sr; war,
+al&sr; wenn da&sr; Morgenroth auf kleinen B&ae;chen
+spielt. &2014; Du kannst nicht von mir lassen!
+fl&ue;sterte sie vertraulich und sicher, und strei-
+chelte mit den zarten H&ae;ndchen de&sr; Ritter&sr;
+Wangen. Dieser wandte sich dar&ue;ber von den
+furchtbaren Gedanken ab, die noch im Hinter-
+<pb="76"/>
+grunde seiner Seele lauerten, und ihm einreden
+wollten, er sei an eine Fey, oder sonst ein b&oe;&sr;-
+lich neckende&sr; Wesen der Geisterwelt, angetraut;
+nur noch die einzige Frage ging fast unversehn&sr;
+&ue;ber seine Lippen: liebe&sr; Undinchen, sage mir
+doch da&sr; Eine, wa&sr; war e&sr;, da&sr; Du von Erd-
+geistern sprachst, da der Priester an die Th&ue;r
+klopfte, und von K&ue;hleborn? &2014; M&ae;hrchen!
+Kinderm&ae;hrchen! sagte Undine lachend, und ganz
+wieder in ihrer gewohnten Lustigkeit. Erst hab&2019;
+ich Euch damit bange gemacht, am Ende habt
+Ihr&2019;&sr; mich. Da&sr; ist da&sr; Ende vom Liede und
+vom ganzen Hochzeitabend. &2014; Nein, da&sr; ist e&sr;
+nicht, sagte der von Liebe berauschte Ritter,
+l&oe;schte die Kerzen, und trug seine sch&oe;ne Gelieb-
+te unter tausend K&ue;ssen, vom Monde, der hell
+durch die Fenster hereiu sah, anmuthig beleuch-
+tet, zu der Brautkammer hinein.</p>
+<hr>
+<pb="77"/>
+<hr>
+<d2><g><b>Achte&sr; Kapitel.</b>
+Der Tag nach der Hochzeit</g>.</d2>
+<hr>
+<p><in>E</in>in frische&sr; Morgenlicht weckte die jungen Ehe-
+leute. Undine verbarg sich schaamhaft unter
+ihre Decken, und Huldbrand lag still sinnend
+vor sich hin. So oft er in der Nacht einge-
+schlafen war, hatten ihn wunderlich grausende
+Tr&ae;ume verst&oe;rt, von Gespenstern, die sich heim-
+lich grinzend in sch&oe;ne Frauen zu verkleiden streb-
+ten, von sch&oe;nen Frauen, die mit einem Male
+Drachenangesichter bekamen. Und wenn er von
+den h&ae;ﬂlichen Gebilden in die H&oe;he fuhr, stand
+da&sr; Mondlicht bleich und kalt drauﬂen vor den
+Fenstern; entsetzt blickte er nach Undinen, an
+deren Busen er eingeschlafen war, und die in
+unverwandelter Sch&oe;nheit und Anmuth neben
+<pb="78"/>
+ihm ruhte. Dann dr&ue;ckte er einen leichten Kuﬂ
+auf die rosigen Lippen, und schlief wieder ein,
+um von neuen Schrecken erweckt zu werden.
+Nachdem er sich nun alle&sr; diese&sr; recht im vollen
+Wachen &ue;berlegt hatte, schalt er sich selbst &ue;ber
+jedweden Zweifel au&sr;, der ihn an seiner sch&oe;nen
+Frau hatte irre machen k&oe;nnen. Er bat ihr
+auch sein Unrecht mit klaren Worten ab, sie
+aber reichte ihm nur die sch&oe;ne Hand, seufzte
+au&sr; tiefem Herzen, und blieb still. Aber ein
+unendlich inniger Blick au&sr; ihren Augen, wie
+er ihn noch nie gesehn hatte, lieﬂ ihm keinen
+Zweifel, daﬂ Undine von keinem Unwillen ge-
+gen ihn wisse. Er stand dann heiter auf, und
+ging zu den Hau&sr;genossen in da&sr; gemeinsame
+Zimmer vor. Die Dreie saﬂen mit besorglichen
+Mienen um den Heerd, ohne daﬂ sich Einer
+getraut h&ae;tte, seine Worte laut werden zu la-
+ﬂen. E&sr; sahe au&sr;, al&sr; bete der Priester in
+seinem Innern um Abwendung alle&sr; Uebel&sr;.
+Da man nun aber den jungen Ehemann so ver-
+gn&ue;gt hervorgehn sah, gl&ae;tteten sich auch die
+<pb="79"/>
+Falten in den &ue;brigen Angesichtern; ja, der
+alte Fischer fing an, mit dem Ritter zu scherzen,
+auf eine recht sittige, ehrbare Weise, so daﬂ
+selbst die alte Hau&sr;frau ganz freundlich dazu
+l&ae;chelte. Dar&ue;ber war endlich Undine auch fer-
+tig geworden, und trat nun in die Th&ue;r; Alle
+wollten ihr entgegen gehn, und Alle blieben voll
+Verwunderung stehen, so fremd kam ihnen die
+junge Frau vor, und doch so wohlbekannt. Der
+Priester schritt zuerst mit Vaterliebe in den leuch-
+tenden Blicken auf sie zu, und wie er die Hand
+zum Seegnen emporhob, sank da&sr; sch&oe;ne Weib
+and&ae;chtig schauernd vor ihm in die Kniee. Sie
+bat ihn darauf mit einigen freundlich dem&ue;thi-
+gen Worten wegen de&sr; Th&oe;richten, da&sr; sie Ge-
+stern gesprochen haben m&oe;ge, um Verzeihung,
+und ersuchte ihn mit sehr bewegtem Tone, daﬂ
+er f&ue;r da&sr; Heil ihrer Seele beten wolle. Dann
+erhob sie sich, k&ue;ﬂte ihre Pflege&ae;ltern, und sag-
+te, f&ue;r alle&sr; genossene Gute dankend: o jetzt
+f&ue;hle ich e&sr; im innersten Herzen, wie viel, wie
+unendlich viel, Ihr f&ue;r mich gethan habt, Ihr
+<pb="80"/>
+lieben, lieben Leute! &2014; Sie konnte erst gar
+nicht wieder von ihren Liebkosungen abbrechen,
+aber kaum gewahrte sie, daﬂ die Hau&sr;frau nach
+dem Fr&ue;hst&ue;cke hinsah, so stand sie auch bereit&sr;
+am Heerde, kochte und ordnete an, und litt
+nicht, daﬂ die gute alte Mutter auch nur die
+geringste M&ue;hwaltung &ue;ber sich nahm.</p>
+<p>Sie blieb den ganzen Tag lang so; still,
+freundlich und achtsam, ein Hau&sr;m&ue;tterlein,
+und ein zart versch&ae;mte&sr;, jungfr&ae;uliche&sr;, Wesen
+zugleich. Die Dreie, welche sie schon l&ae;nger
+kannten, dachten in jedem Augenblick irgend ein
+wunderliche&sr; Wechselspiel ihre&sr; launischen Sin-
+ne&sr; hervorbrechen zu sehn. Aber sie warteten
+vergeben&sr; darauf. Undine blieb engelmild und
+sanft. Der Priester konnte seine Augen gar
+nicht von ihr wegwenden, und sagte mehrere
+Male zum Br&ae;utigam: Herr, einen Schatz
+hat Euch Gestern die himmlische G&ue;te durch
+mich Unw&ue;rdigen anvertraut; wahrt ihn, wie
+e&sr; sich geb&ue;hrt, so wird er Euer ewige&sr; und
+zeitliche&sr; Heil bef&oe;rdern.</p>
+<cw>Gegen</cw>
+<pb="81"/>
+<p>Gegen Abend hing sich Undine mit dem&ue;-
+thiger Z&ae;rtlichkeit an de&sr; Ritter&sr; Arm, und zog
+ihn sanft vor die Th&ue;r hinau&sr;, wo die sinkende
+Sonne anmuthig &ue;ber den frischen Gr&ae;sern und
+um die hohen, schlanken, Baumst&ae;mme leuchtete.
+In den Augen der jungen Frau schwamm e&sr;,
+wie Thau der Wehmuth und der Liebe, auf ih-
+ren Lippen schwebte e&sr;, wie ein zarte&sr;, besorgli-
+che&sr; Geheimniﬂ, da&sr; sich aber nur in kaum ver-
+nehmlichen Seufzern kund gab. Sie f&ue;hrte ih-
+ren Liebling schweigend immer weiter mit sich
+fort; wa&sr; er sagte, beantwortete sie nur mit
+Blicken, in denen zwar keine unmittelbare Au&sr;-
+kunft auf seine Fragen, wohl aber ein ganzer
+Himmel der Liebe und sch&ue;chternen Ergebenheit
+lag. So gelangte sie an da&sr; Ufer de&sr; &ue;berge-
+tretnen Waldstrom&sr;, und der Ritter erstaunte,
+diesen in leisen Wellen verrinnend dahin rieseln
+zu sehn, so daﬂ keine Spur seiner vorigen Wild-
+heit und F&ue;lle mehr anzutreffen war. &2014; Bi&sr;
+Morgen wird er ganz versiegt sein, sagte die
+sch&oe;ne Frau weinerlich, und Du kannst dann
+<bs>F</bs>
+<pb="82"/>
+ohne Widerspruch reisen, wohinau&sr; Du willst. &2014;
+Nicht ohne Dich, Undinchen, entgegnete der la-
+chende Ritter; denke doch, wenn ich auch Lust
+h&ae;tte, au&sr;zureisen, so m&ue;ﬂte ja Kirche und Geist-
+lichkeit und Kaiser und Reich drem schlagen,
+und Dir den Fl&ue;chtling wiederbringen. &2014;
+Kommt Alle&sr; auf Dich an, kommt Alle&sr; auf
+Dich an; fl&ue;sterte die Kleine, halb weinend halb
+l&ae;chelnd. Ich denke aber doch, Du wirst mich
+wohl behalten; ich bin Dir ja gar zu innig
+gut. Trage mich nun hin&ue;ber auf die kleine
+Insel, die vor un&sr; liegt. Da soll sich&2019;&sr; ent-
+scheiden. Ich k&oe;nnte wohl leichtlich selbst durch
+die Wellchen schl&ue;pfen, aber in Deinen Armen
+ruht sich&2019;&sr; so gut, und verst&oe;ﬂest Du mich, so
+hab&2019; ich doch noch zum letztenmale anmuthig
+darin geruht. &2014; Huldbrand, voll von einer
+seltsamen Bangigkeit und R&ue;hrung, wuﬂte ihr
+nicht&sr; zu erwiedern. Er nahm sie in seine Arme,
+und trug sie hin&ue;ber, sich nun erst besinnend,
+daﬂ e&sr; dieselbe kleine Insel war, von wo er
+sie in jener ersten Nacht dem alten Fischer zu-
+<pb="83"/>
+r&ue;ckgetragen hatte. Jenseit&sr; lieﬂ er sie in da&sr;
+weiche Gra&sr; nieder, und wollte sich schmeichelnd
+neben seine sch&oe;ne B&ue;rde setzen; sie aber sagte:
+nein dorthin, mir gegen&ue;ber. Ich will in Dei-
+nen Augen lesen, noch ehe Deine Lippen spre-
+chen: H&oe;re nun recht achtsam zu, wa&sr; ich Dir
+erz&ae;hlen will. Und sie begann.</p>
+<p>Du sollst wissen, mein s&ue;ﬂer Liebling, daﬂ
+e&sr; in den Elementen Wesen giebt, die fast au&sr;-
+sehen, wie Ihr, und sich doch nur selten vor
+Euch blicken lassen. In den Flammen glitzern
+und spielen die wunderlichen Salamander, in
+der Erden tief hausen die d&ue;rren, t&ue;ckischen Gno-
+men, durch die W&ae;lder streifen die Waldleute,
+die der Luft angeh&oe;ren, und in den Seen und
+Str&oe;men und B&ae;chen lebt der Wassergeister
+au&sr;gebreitete&sr; Geschlecht. In klingenden Kry-
+stallgew&oe;lben, durch die der Himmel mit Sonn&2019;
+und Sternen hereinsieht, wohnt sich&2019;&sr; sch&oe;n;
+hohe Korallenb&ae;ume mit blau und rothen Fr&ue;ch-
+ten leuchten in den G&ae;rten; &ue;ber reinlichen
+Meere&sr;sand wandelt man, und &ue;ber sch&oe;ne,
+<bs>F 2</bs>
+<pb="84"/>
+bnnte Muscheln, und wa&sr; die alte Welt de&sr;
+also Sch&oe;nen besaﬂ, daﬂ die heutige nicht mehr
+sich dran zu freuen w&ue;rdig ist, da&sr; &ue;berzogen
+die Fluthen mit ihren heimlichen Silberschleiern,
+und unten prangen nun die edlen Denkmale,
+hoch und ernst, und anmuthig bethaut vom lie-
+benden Gew&ae;sser, da&sr; au&sr; ihnen sch&oe;ne Moo&sr;-
+blumen und kr&ae;nzende Schilfb&ue;schel hervorlockt.
+Die aber dorten wohnen, sind gar hold und
+lieblich anzuschauen, meist sch&oe;ner, al&sr; die Men-
+schen sind. Manch einem Fischer ward e&sr; schon
+so gut, ein zarte&sr; Wasserweib zu belauschen, wie
+sie &ue;ber die Fluthen hervorstieg und sang. Der
+erz&ae;hlte dann von ihrer Sch&oe;ne weiter, und sol-
+che wundersame Frauen werden von den Men-
+schen Undinen genannt. Du aber siehst jetzt
+wirklich eine Undine, lieber Freund.</p>
+<p>Der Ritter wollte sich einreden, seiner sch&oe;-
+nen Frau sei irgend eine ihrer seltsamen Lau-
+nen wach geworden, und sie finde ihre Lust da-
+ran, ihn mit bunt erdachten Geschichten zu nek-
+ken. Aber so sehr er sich die&sr; auch vorsagte,
+<pb="85"/>
+konnte er doch keinen Augenblick daran glau-
+ben; ein seltsamer Schauder zog durch sein Inn-
+re&sr;; unf&ae;hig ein Wort hervorzubringen, starrte
+er unverwandten Auge&sr; die holde Erz&ae;hlerin an.
+Diese sch&ue;ttelte betr&ue;bt den Kopf, seufzte au&sr;
+vollem Herzen, und fuhr al&sr;dann folgendermaa-
+ﬂen fort.</p>
+<p>Wir w&ae;ren weit besser daran, al&sr; Ihr an-
+dern Menschen; &2014; denn Menschen nennen wir
+un&sr; auch, wie wir e&sr; denn der Bildung und
+dem Leibe nach sind; &2014; aber e&sr; ist ein gar
+Ueble&sr; dabei. Wir, und unsre&sr; Gleichen in den
+andern Elementen, wir verstieben und vergehn
+mit Geist und Leib, daﬂ keine Spur von un&sr;
+r&ue;ckbleibt, und wenn Ihr Andern dermaleinst
+zu einem reinern Leben erwacht, sind wir geblie-
+ben, wo Sand und Funk&2019; und Wind und
+Welle blieb. Darum haben wir auch keine
+Seelen; da&sr; Element bewegt un&sr;, gehorcht un&sr;
+oft, so lange wir leben, zerst&ae;ubt un&sr; immer, so
+bald wir sterben, und wir sind lustig, ohne un&sr;
+irgend zu gr&ae;men, wie e&sr; die Nachtigallen und
+<pb="86"/>
+Goldfischlein und andre h&ue;bsche Kinder der Na-
+tur ja gleichfall&sr; sind. Aber Alle&sr; will h&oe;her,
+al&sr; e&sr; steht. So wollte mein Vater, der ein
+m&ae;chtiger Wasserf&ue;rst im mittell&ae;ndischen Meere
+ist, seine einzige Tochter solle einer Seele theil-
+haftig werden, und m&ue;sse sie dar&ue;ber auch viele
+Leiden der beseelten Leute bestehn. Eine Seele
+aber kann unsre&sr; Gleichen nur durch den innig-
+sten Verein der Liebe mit Einem Eure&sr; Ge-
+schlechte&sr; gewinnen. Nun bin ich beseelt, Dir
+dank&2019; ich die Seele, o Du unau&sr;sprechlich Ge-
+liebter, und Dir werd&2019; ich e&sr; danken, wenn
+Du mich nicht mein ganze&sr; Leben hindurch elend
+machst. Denn wa&sr; soll au&sr; mir werden, wenn
+Du mich scheuest und mich verst&oe;ﬂest? Durch
+Trug aber mogt&2019; ich Dich nicht behalten. Und
+willst Du mich verstoﬂen, so thu&2019; e&sr; nun, so geh&2019;
+allein an&2019;&sr; Ufer zur&ue;ck. Ich tauche mich in die-
+sen Bach, der mein Oheim ist, und hier im
+Walde sein wunderliche&sr; Einsiedlerleben, von den
+&ue;brigen Freunden entfernet, f&ue;hrt. Er ist aber
+m&ae;chtig, und vielen groﬂen Str&oe;men werth und
+<pb="87"/>
+theuer, und wie er mich herf&ue;hrte zu den Fi-
+schern, mich leichte&sr; und lachende&sr; Kind, wird
+er mich auch wieder heimf&ue;hren zu den Aeltern,
+mich beseelte, liebende, leidende Frau.</p>
+<p>Sie wollte noch mehr sagen, aber Huld-
+brand umfaﬂte sie voll der innigsten R&ue;hrung
+und Liebe, und trug sie wieder an&2019;&sr; Ufer zur&ue;ck.
+Hier erst schwur er unter Thr&ae;nen und K&ue;ssen,
+sein holde&sr; Weib niemal&sr; zu verlassen, und prie&sr;
+sich gl&ue;cklicher, al&sr; den Griechischen Bildner
+Pygmalion, welchem Frau Venu&sr; seinen sch&oe;nen
+Stein zur Geliebten belebt habe. Im s&ue;ﬂen
+Vertrauen wandelte Undine an seinem Arme
+nach der H&ue;tte zur&ue;ck, und empfand nun erst
+von ganzem Herzen, wie wenig sie die verlasse-
+nen Krystallpall&ae;ste ihre&sr; wundersamen Vater&sr;
+bedauern d&ue;rfe.</p>
+<hr>
+<pb="88"/>
+<hr>
+<d2><b><g>Neunte&sr; Kapitel</g>.</b>
+Wie der Ritter seine junge Frau mit sich f&ue;hrte.</d2>
+<hr>
+<p><in>A</in>l&sr; Huldbrand am andern Morgen vom Schlaf
+erwachte, fehlte seine sch&oe;ne Genossin an seiner
+Seiten, und er fing schon an, wieder den wun-
+derlichen Gedanken nachzuh&ae;ngen, die ihm seine
+Ehe und die reizende Undine selbst al&sr; ein fl&ue;ch-
+tige&sr; Blendwerk und Gaukelspiel vorstellen woll-
+ten. Aber da trat sie eben zur Th&ue;r herein,
+k&ue;ﬂte ihn, setzte sich zu ihm auf&2019;&sr; Bett, und
+sagte: ich bin etwa&sr; fr&ue;h hinau&sr; gewesen, um
+zu sehn, ob der Oheim Wort halte. Er hat
+schon alle Fluthen wieder in sein stille&sr; Bett zu-
+r&ue;cke gelenkt, und rinnt nun nach wie vor ein-
+siedlerisch und sinnend durch den Wald. Seine
+Freunde in Wasser und Luft haben sich auch
+<pb="89"/>
+zur Ruhe gegeben; e&sr; wird wieder Alle&sr; ordent-
+lich und ruhig in diesen Gegenden zugehen, und
+Du kannst trocknen Fuﬂe&sr; heim reisen, sobald
+Du willst. &2014; E&sr; war Huldbranden zu Muthe,
+al&sr; tr&ae;ume er wachend fort, so wenig konnte
+er sich in die seltsame Verwandtschaft seiner
+Frau finden. Dennoch lieﬂ er sich nicht&sr; mer-
+ken, und die unendliche Anmuth de&sr; holden Wei-
+be&sr; wiegte auch bald jedwede unheimliche Ahnung
+zur Ruhe. &2014; Al&sr; er nach einer Weile mit ihr
+vor der Th&ue;r stand, und die gr&ue;nende Seespitze
+mit ihren klaren Wassergr&ae;nzen &ue;berschaute,
+ward e&sr; ihm so wohl in dieser Wiege seiner
+Liebe, daﬂ er sagte: wa&sr; sollen wir denn auch
+Heute schon reisen? Wir finden wohl keine ver-
+gn&ue;gtern Tage in der Welt hauﬂen, al&sr; wir sie
+an diesem heimlichen Schutz&oe;rtlein verlebten.
+Laﬂ&2019; un&sr; immer noch zwei oder dreimal die
+Sonne hier untergehn sehn. &2014; Wie mein
+Herr e&sr; gebeut, entgegnete Undine in freundli-
+cher Demuth. E&sr; ist nur, daﬂ sich die alten
+Leute ohnehin schon mit Schmerzen von mir
+<pb="90"/>
+trennen werden, und wenn sie nun erst die treue
+Seele in mir sp&ue;ren, und wie ich jetzt innig
+lieben und ehren kann, bricht ihnen wohl gar
+vor vielen Thr&ae;nen da&sr; schwache Augenlicht.
+Noch halten sie meine Stille und Fr&oe;mmigkeit
+f&ue;r nicht&sr; Bessere&sr;, al&sr; e&sr; sonst in mir bedeutete,
+f&ue;r die Ruhe de&sr; See&2019;&sr;, wenn eben die Luft
+still ist, und sie werden sich nun eben so gut ei-
+nem B&ae;umchen oder Bl&ue;mlein befreunden ler-
+nen, al&sr; mir. Laﬂ&2019; mich ihnen die&sr; neugeschenk-
+te, von Liebe wallende, Herz nicht kund geben,
+in Augenblicken, wo sie e&sr; f&ue;r diese Erde verlie-
+ren sollen, und wie k&oe;nnt&2019; ich e&sr; bergen, blieben
+wir l&ae;nger zusammen? &2014;</p>
+<p>Huldbrand gab ihr Recht; er ging zu den
+Alten, und besprach die Reise mit ihnen, die
+noch in dieser Stunde vor sich gehen sollte.
+Der Priester bot sich den beiden jungen Eheleu-
+ten zum Begleiter an, er und der Ritter hoben
+nach kurzem Abschied die sch&oe;ne Frau auf&2019;&sr; Pferd,
+und schritten mit ihr &ue;ber da&sr; au&sr;getrocknete
+Bette de&sr; Waldstrom&sr; eilig dem Forste zu.
+<pb="91"/>
+Undine weinte still, aber bitterlich, die alten Leu-
+te klagten ihr laut nach. E&sr; schien, al&sr; seie
+diesen eine Ahnung aufgegangen, von dem, wa&sr;
+sie eben jetzt an der holden Pflegetochter ver-
+loren.</p>
+<p>Die drei Reisenden waren schweigend in
+die dichtesten Schatten de&sr; Walde&sr; gelangt. E&sr;
+mochte h&ue;bsch anzusehen sein, in dem gr&ue;nen
+Bl&ae;ttersaal, wie die sch&oe;ne Frauengestalt auf
+dem edlen, zierlich geschm&ue;ckten Pferde, saﬂ, und
+von einer Seite der ehrw&ue;rdige Priester in sei-
+ner weiﬂen Orden&sr;tracht, von der andern der
+bl&ue;hende junge Ritter in bunten hellen Kleidern,
+mit seinem pr&ae;chtigen Schwerdte umg&ue;rtet, acht-
+sam beiher schritten. Huldbrand hatte nur Au-
+gen f&ue;r sein holde&sr; Weib; Undine, die ihre lie-
+ben Thr&ae;nen getrocknet hatte, nur Augen f&ue;r
+ihn, und sie geriethen bald in ein stille&sr;, lautlo-
+se&sr;, Gespr&ae;ch mit Blicken und Winken, au&sr; dem
+sie erst sp&ae;t durch ein leise&sr; Reden erweckt wur-
+den, welche&sr; der Priester mit einem vierten Rei-
+<pb="92"/>
+segesellschafter hielt, der indeﬂ unbemerkt zu ih-
+nen gekommen war.</p>
+<p>Er trug ein weiﬂe&sr; Kleid, fast wie de&sr; Prie-
+ster&sr; Orden&sr;habit, nur daﬂ ihm die Kappe ganz
+tief in&2019;&sr; Gesicht hereinhing, und da&sr; Ganze in
+so weiten Falten um ihn herflog, daﬂ er alle
+Augenblicke mit Aufraffen und &ue;ber den Arm
+schlagen oder sonst dergleichen Anordnungen zu
+thun hatte, ohne daﬂ er doch dadurch im gering-
+sten im Gehen behindert schien. Al&sr; die jun-
+gen Eheleute seiner gewahr wurden, sagte er
+eben: und so wohn&2019; ich denn schon seit vielen
+Jahren hier im Walde, mein ehrw&ue;rdiger Herr,
+ohne daﬂ man mich Eurem Sinne nach einen
+Eremiten nennen k&oe;nnte. Denn, wie gesagt, von
+Buﬂe weiﬂ ich nicht&sr;, und glaube sie auch nicht
+sonderlich zu bed&ue;rfen. Ich habe nur de&sr;wegen
+den Wald so lieb, weil e&sr; sich auf eine ganz
+eigne Weise h&ue;bsch au&sr;nimmt und mir Spaﬂ
+macht, wenn ich in meinen flatternden weiﬂen
+Kleidern durch die finstern Schatten und Bl&ae;tter
+hingehe, und dann bi&sr;weilen ein s&ue;ﬂer Sonnen-
+<pb="93"/>
+strahl unvermuthet auf mich herunter blitzt. &2014;
+Ihr seid ein h&oe;chst seltsamer Mann, entgegnete
+der Priester, und ich m&oe;chte wohl n&ae;here Kunde
+von Euch haben. &2014; Und wer seid Ihr denn,
+von Einem auf&2019;&sr; Andre zu kommen? fragte der
+Fremde. Sie nennen mich den Pater Heilmann,
+sprach der Geistliche, und ich komme au&sr; Kloster
+Mariagruﬂ von jenseit de&sr; See&sr;. &2014; So, so;
+antwortete der Fremde. Ich heiﬂe K&ue;hleborn,
+und wenn e&sr; auf H&oe;flichkeit ankommt, k&oe;nnte
+man mich auch wohl eben so gut Herr von K&ue;h-
+leborn betiteln, oder Freiherr von K&ue;hleborn;
+denn frei bin ich, wie der Vogel im Walde,
+und wohl noch ein Bi&sr;chen dr&ue;ber. Zum Exempel,
+jetzt hab&2019; ich der jungen Frau dorten etwa&sr; zu
+erz&ae;hlen. &2014; Und ehe man sich&2019;&sr; versah, war
+er auf der andern Seite de&sr; Priester&sr;, dicht neben
+Undinen, und reckte sich hoch in die H&oe;he, um
+ihr etwa&sr; in&2019;&sr; Ohr zu fl&ue;stern. Sie aber wandte
+sich erschrocken ab, sagend: ich habe nicht&sr; mit
+Euch mehr zu schaffen. &2014; Hoho, lachte der
+Fremde, wa&sr; f&ue;r eine ungeheuer vornehme Hei-
+<pb="94"/>
+rath habt Ihr denn gethan, daﬂ Ihr Eure
+Verwandten nicht mehr kennt? Wiﬂt Ihr denn
+nicht vom Oheim K&ue;hleborn, der Euch auf sei-
+nem R&ue;cken so treu in diese Gegend trug? &2014;
+Ich bitte Euch aber, entgegnete Undine, daﬂ
+Ihr Euch nicht wieder vor mir sehn laﬂt. Jetzt
+f&ue;rcht&2019; ich Euch; und soll mein Mann mich
+scheuen lernen, wenn er mich in so seltsamer
+Gesellschaft und Verwandtschaft sieht? &2014; Nicht-
+chen, sagte K&ue;hleborn, Ihr m&ue;ﬂt nicht vergessen,
+daﬂ ich hier zum Geleiter bei Euch bin; die
+spukenden Erdgeister m&oe;chten sonst dummen Spaﬂ
+mit Euch treiben. Laﬂt mich also doch immer
+ruhig mitgehn; der alte Priester dort wuﬂte sich
+&ue;brigen&sr; meiner besser zu erinnern, al&sr; Ihr e&sr;
+zu thun scheint, denn er versicherte vorhin, ich
+k&ae;me ihm sehr bekannt vor und ich m&ue;sse wohl
+mit im Nachen gewesen sein, auf dem er in&2019;&sr;
+Wasser fiel. Da&sr; war ich auch freilich, denn
+ich war just die Wasserhose, die ihn herau&sr;riﬂ,
+und schwemmte ihn hernach zu Deiner Trauung
+vollend&sr; an&2019;&sr; Land.</p>
+<pb="95"/>
+<p>Undine und der Ritter sahen nach Pater
+Heilmann; der aber schien in einem wandeln-
+den Traume fortzugehn, und von Allem, wa&sr;
+gesprochen ward, nicht&sr; mehr zu vernehmen.
+Da sagte Undine zu K&ue;hleborn: ich sehe dort
+schon da&sr; Ende de&sr; Walde&sr;. Wir brauchen
+Eurer H&ue;lfe nicht mehr, und nicht&sr; macht un&sr;
+Grauen al&sr; Ihr. Drum bitt&2019; Euch in Lieb&2019;
+und G&ue;te, verschwindet, und laﬂt un&sr; in Frie-
+den ziehn. &2014; Dar&ue;ber schien K&ue;hleborn unwil-
+lig zu werden; er zog ein h&ae;ﬂliche&sr; Gesicht, und
+grinzte Undinen an, die laut aufschrie, und ih-
+ren Freund zu H&ue;lfe rief. Wie ein Blitz war
+der Ritter um da&sr; Pferd herum, und schwang
+die scharfe Klinge gegen K&ue;hleborn&sr; Haupt.
+Aber er hieb in einen Wasserfall, der von einer
+hohen Klippe neben ihnen herabsch&ae;umte, und
+sie pl&oe;tzlich mit einem Gepl&ae;tscher, da&sr; beinahe
+wie Lachen klang, &ue;bergoﬂ, und bi&sr; auf die
+Haut durchnetzte. Der Priester sagte, wie pl&oe;tz-
+lich erwachend: da&sr; hab&2019; ich lange gedacht, weil
+der Bach so dicht auf der Anh&oe;he neben un&sr;
+<pb="96"/>
+herlief. Anfang&sr; wollt&2019; er mir gar vorkommen,
+al&sr; w&ae;r&2019; er ein Mensch und k&oe;nne sprechen. &2014;
+In Huldbrand&sr; Ohr rauschte der Wasserfall
+ganz vernehmlich diese Worte: rascher Ritter,
+r&ue;st&2019;ger Ritter, ich z&ue;rne nicht, ich zanke nicht;
+schirm&2019; nur Dein reizend Weiblein stet&sr; so gut,
+Du Ritter r&ue;stig, Du rasche&sr; Blut!</p>
+<p>Nach wenigen Schritten waren sie im Frei-
+en. Die Reich&sr;stadt lag gl&ae;nzend vor ihnen,
+und die Abendsonne, welche deren Th&ue;rme
+vergoldete, trocknete freundlich die Kleider der
+durchn&ae;ﬂten Wandrer.</p>
+<hr>
+<cw><b><g>Zehn-</g></b></cw>
+<pb="97"/>
+<hr>
+<d2><g><b>Zehnte&sr; Kapitel.</b>
+Wie sie in der Stadt lehten</g>.</d2>
+<hr>
+<p><in>D</in>aﬂ der junge Ritter Huldbrand von Ring-
+st&ae;tten so pl&oe;tzlich vermiﬂt worden war, hatte
+groﬂe&sr; Aufsehen in der Reich&sr;stadt erregt, und
+Bek&ue;mmerniﬂ bei den Leuten, die ihn allesamt
+wegen seiner Gewandheit bei Turnier und Tanz,
+wie auch wegen seiner milden, freundlichen Sit-
+ten, lieb gewonnen hatten. Seine Diener woll-
+ten nicht ohne ihren Herrn von dem Orte wie-
+der weg, ohne daﬂ doch Einer den Muth gefaﬂt
+h&ae;tte, ihm in die Schatten de&sr; gef&ue;rchteten For-
+ste&sr; nachzureiten. Sie blieben also in ihrer
+Herberge, unth&ae;tig hoffend, wie e&sr; die Menschen
+zu thun pflegen, und durch ihre Klagen da&sr; An-
+denken de&sr; Verlornen lebendig erhalten. Wie
+<bs>G</bs>
+<pb="98"/>
+nun bald darauf die groﬂen Unwetter und Ue-
+berschwemmungen merkbarer wurden, zweifelte
+man um so minder an dem gewissen Untergange
+de&sr; sch&oe;nen Fremden, den auch Bertalda ganz
+unverholen betrauerte, und sich selbst verw&ue;nsch-
+te, daﬂ sie ihn zu dem unseeligen Ritte nach
+dem Walde gelockt habe. Ihre herzoglichen
+Pflege&ae;ltern waren gekommen, sie abzuholen,
+aber Bertalda bewog sie, mit ihr zu bleiben,
+bi&sr; man gewisse Nachricht von Huldbrand&sr; Le-
+ben oder Tod einziehe. Sie suchte verschiedne
+junge Ritter, die emsig um sie warben, zu be-
+wegen, daﬂ sie dem edlen Abentheurer in den
+Forst nachziehn m&oe;chten. Aber ihre Hand moch-
+te sie nicht zum Preise de&sr; Wagest&ue;ck&sr; au&sr;stellen,
+weil sie vielleicht noch immer hoffte, dem Wie-
+derkehrenden angeh&oe;ren zu k&oe;nnen, und um
+Handschuh oder Band, oder auch selbst um einen
+Kuﬂ, wollte Niemand sein Leben dran setzen,
+einen so gar gef&ae;hrlichen Nebenbuhler zur&ue;ck zu
+holen.</p>
+<p>Nun, da Huldbrand unerwartet und pl&oe;tz-
+<pb="99"/>
+lich erschien, freuten sich Diener und Stadtbe-
+wohner, und &ue;berhaupt fast alle Leute, nur Ber-
+talda eben nicht, denn wenn e&sr; den Andern
+auch ganz lieb war, daﬂ er eine so wundersch&oe;ne
+Frau mitbrachte, und den Pater Heilmann al&sr;
+Zeugen der Trauung, so konnte doch Bertalda
+nicht ander&sr;, al&sr; sich de&sr;halb betr&ue;ben. Erstlich
+hatte sie den jungen Ritter&sr;mann wirklich von
+ganzer Seele lieb gewonnen, und dann war
+durch ihre Trauer &ue;ber sein Wegbleiben den Au-
+gen der Menschen weit mehr davon kund ge-
+worden, al&sr; sich nun eben schicken wollte. Sie
+that de&sr;wegen aber doch immer, al&sr; ein kluge&sr;
+Weib, fand sich in die Umst&ae;nde, und lebte auf&2019;&sr;
+allerfreundlichste mit Undinen, die man in der
+ganzen Stadt f&ue;r eine Prinzessin hielt, welche
+Huldbrand im Walde von irgend einem b&oe;sen
+Zauber erl&oe;st habe. Wenn man sie selbst oder
+ihren Eheherrn dar&ue;ber befragte, wuﬂten sie zu
+schweigen, oder geschickt au&sr;zuweichen, de&sr; Vater
+Heilmann&sr; Lippen waren f&ue;r jede&sr; eitle Ge-
+schw&ae;tz versiegelt, und ohnehin war er gleich
+<bs>G 2</bs>
+<pb="100"/>
+nach Huldbrand&sr; Ankunft wieder in sein Kloster
+zur&ue;ckgegangen, so daﬂ sich die Leute mit ihren
+seltsamen Muthmaﬂungen behelfen muﬂten, und
+auch selbst Bertalda nicht mehr al&sr; jeder Andre
+von der Wahrheit erfuhr.</p>
+<p>Undine gewann &ue;brigen&sr; die&sr; anmuthige
+M&ae;dchen mit jedem Tage lieber. &2014; Wir m&ue;s-
+sen un&sr; einander schon eher gekannt haben, pfleg-
+te sie ihr &oe;fter&sr; zu sagen, oder e&sr; muﬂ sonst ir-
+gend eine wundersame Beziehung unter un&sr; ge-
+ben, denn so ganz ohne Ursach, versteht mich,
+ohne tiefe, geheime Ursach, gewinnt man ein
+Andre&sr; nicht so lieb, al&sr; ich Euch gleich vom
+ersten Anblicke her gewann. &2014; Und auch Ber-
+talda konnte sich nicht ableugnen, daﬂ sie einen
+Zug der Vertraulichkeit und Liebe zu Undinen
+empfinde, wie sehr sie &ue;brigen&sr; meinte, Ursach
+zu den bittersten Klagen &ue;ber diese gl&ue;ckliche
+Nebenbuhlerin zu haben. In dieser gegenseiti-
+gen Neigung wuﬂte die Eine bei ihren Pflege-
+&ae;ltern, die Andre bei ihrem Ehegatten, den Tag
+der Abreise weiter und weiter hinau&sr; zu schie-
+<pb="101"/>
+ben; ja, e&sr; war schon die Rede davon gewesen,
+Bertalda solle Undinen auf einige Zeit nach
+Burg Ringst&ae;tten an die Quellen der Donau
+begleiten.</p>
+<p>Sie sprachen auch einmal eine&sr; sch&oe;nen
+Abend&sr; davon, al&sr; sie eben bei Sternenschein
+auf dem mit hohen B&ae;umen eingefaﬂten Mark-
+te der Reich&sr;stadt umherwandelten. Die beiden
+jungen Eheleute hatten Bertalden noch sp&ae;t zu
+einem Spatziergange abgeholt, und alle Drei zo-
+gen vertraulich unter dem tiefblauen Himmel
+auf und ab, oftmal&sr; in ihren Gespr&ae;chen durch
+die Bewunderung unterbrochen, die sie dem
+kostbaren Springborn in der Mitte de&sr; Platze&sr;,
+und seinem wundersamen Rauschen und Spru-
+deln, zollen muﬂten. E&sr; war ihnen so lieb und
+heimlich zu Sinn; zwischen die Baumschatten
+durch stahlen sich die Lichtschimmer der nahen
+H&ae;user, ein stille&sr; Gesumse von spielenden Kin-
+dern und andern lustwandelnden Menschen
+wogte um sie her; man war so allein und doch
+so freundlich in der heitern, lebendigen Welt
+<pb="102"/>
+mitten inne; wa&sr; bei Tage Schwierigkeit ge-
+schienen hatte, da&sr; ebnete sich nun wie von sel-
+ber, und die drei Freunde konnten gar nicht
+mehr begreifen, warum wegen Bertalda&sr; Mit-
+reise auch nur die geringste Bedenklichkeit habe
+obwalten m&oe;gen. Da kam, al&sr; sie eben den
+Tag ihrer gemeinschaftlichen Abfahrt bestimmen
+wollten, ein langer Mann von der Mitte de&sr;
+Marktplatze&sr; her auf sie zugegangen, neigte sich
+ehrerbietig vor der Gesellschaft, und sagte der
+jungen Frau etwa&sr; in&2019;&sr; Ohr. Sie trat, unzu-
+frieden &ue;ber die St&oe;rung und &ue;ber den St&oe;-
+rer, einige Schritte mit dem Fremden zur Sei-
+te, und Beide begannen mit einander zu fl&ue;stern,
+e&sr; schien, in einer fremden Sprache. Huldbrand
+glaubte den seltsamen Mann zu kennen, und
+sah so starr auf ihn hin, daﬂ er Bertalden&sr;
+staunende Fragen weder h&oe;rte noch beantwor-
+tete. Mit einem Male klopfte Undine freudig
+in die H&ae;nde, und lieﬂ den Fremden lachend
+stehn, der sich mit vielem Kopfsch&ue;tteln und has-
+tigen, unzufriedenen Schritten entfernte, und in
+<pb="103"/>
+den Brunnen hineinstieg. Nun glaubte Huld-
+brand seiner Sache ganz gewiﬂ zu sein, Ber-
+talda aber fragte: wa&sr; wollte Dir denn der
+Brunnenmeister, liebe Undine? &2014; Die junge
+Frau lachte heimlich in sich hinein, und erwie-
+derte: Uebermorgen, auf Deinen Namen&sr;tag
+sollst Du&2019;&sr; erfahren, Du liebliche&sr; Kind. &2014;
+Und weiter war nicht&sr; au&sr; ihr herau&sr;zubringen.
+Sie lud nur Bertalden und durch sie ihre Pfle-
+ge&ae;ltern an dem bestimmten Tage zur Mittag&sr;-
+tafel, und man ging bald darauf au&sr;einander.</p>
+<p>K&ue;hleborn? &2014; fragte Huldbrand mit einem
+geheimen Schauder seine sch&oe;ne Gattin, al&sr; sie
+von Bertalda Abschied genommen hatten, und
+nun allein durch die dunkler werdenden Gassen
+zu Hau&sr; gingen. &2014; Ja, er war e&sr;, antwor-
+tete Undine, und er wollte mir auch allerhand
+dumme&sr; Zeug vorsprechen! Aber mitten darin
+hat er mich, ganz gegen seine Absicht, mit einer
+h&oe;chst willkommenen Botschaft erfreut. Willst
+Du diese nun gleich wissen, mein holder Herr
+und Gemahl, so brauchst Du nur zu gebieten,
+<pb="104"/>
+und ich spreche mir alle&sr; vom Herzen lo&sr;. Woll-
+test Du aber Deiner Undine eine recht, recht
+groﬂe Freude g&oe;nnen, so lieﬂest Du e&sr; bi&sr; Ue-
+bermorgen, und h&ae;ttest dann auch an der Ueber-
+raschung Dein Theil.</p>
+<p>Der Ritter gew&ae;hrte seiner Gattin gern,
+warum sie so anmuthig bat, und noch im Ent-
+schlummern li&sr;pelte sie l&ae;chelnd vor sich hin:
+wa&sr; sie sich freuen wird, und sich wundern &ue;ber
+ihre&sr; Brunnenmeister&sr; Botschaft, die liebe, lie-
+be Bertalda!</p>
+<hr>
+<pb="105"/>
+<hr>
+<d2><g><b>Eilfte&sr; Kapitel.</b>
+Bertalda&sr; Namen&sr;feier</g>.</d2>
+<hr>
+<p><in>D</in>ie Gesellschaft saﬂ bei Tafel, Bertalda, mit
+Kleinodien und Blumen, den mannigfachen Ge-
+schenken ihrer Pflege&ae;ltern und Freunde, ge-
+schm&ue;ckt, wie eine Fr&ue;hling&sr;g&oe;ttin, oben an, zu
+ihren Seiten Undine und Huldbrand. Al&sr; da&sr;
+reiche Mahl zu Ende ging, und man den Nach-
+tisch auftrug, blieben die Th&ue;ren offen; nach
+alter, guter Sitte in Deutschen Landen, damit
+auch da&sr; Volk zusehen k&oe;nne, und sich an der
+Lustigkeit der Herrschaften mitfreuen. Bediente
+trugen Wein und Kuchen unter den Zuschauern
+herum. Huldbrand und Bertalda warteten
+mit heimlicher Ungeduld auf die versprochne Er-
+kl&ae;rung, und verwandten, so sehr e&sr; sich thun
+<pb="106"/>
+lieﬂ, kein Auge von Undinen. Aber die sch&oe;ne
+Frau blieb noch immer still, und l&ae;chelte nur
+heimlich und innig froh vor sich hin. Wer um
+ihre gethane Verheissung wuﬂte, konnte sehn,
+daﬂ sie ihr erquickende&sr; Geheimniﬂ alle Augen-
+blick verrathen wollte, und e&sr; doch noch immer
+in l&ue;sterner Entsagung zur&ue;cklegte, wie e&sr; Kinder
+bi&sr;weilen mit ihren liebsten Lekkerbissen thun.
+Bertalda und Huldbrand theilten die&sr; wonnige
+Gef&ue;hl, in hoffender Bangigkeit da&sr; neue Gl&ue;ck
+erwartend, welche&sr; von ihrer Freundin Lippen
+auf sie hernieder thauen sollte. Da baten ver-
+schiedne von der Gesellschaft Undinen um ein
+Lied. E&sr; schien ihr gelegen zu kommen, sie
+lieﬂ sich sogleich ihre Laute bringen, und sang
+folgende Worte:</p>
+<poem>Morgen so hell,
+Blumen so bunt,
+Gr&ae;ser so duftig und hoch
+An wallenden See&2019;&sr; Gestade!
+Wa&sr; zwischen den Gr&ae;sern
+Schimmert so licht?
+<pb="107"/>
+Ist&2019;&sr; eine Bl&ue;the weiﬂ und groﬂ,
+Vom Himmel gefallen in Wiesenschooﬂ?
+Ach, ist ein zarte&sr; Kind! &2014;
+Unbewuﬂt mit Blumen t&ae;ndelt&2019;&sr;,
+Faﬂt nach goldnen Morgenlichtern; &2014;
+O woher? Woher, Du Holde&sr;? &2014;
+Fern vom unbekannten Strande
+Trug e&sr; hier der See heran; &2014;
+Nein fasse nicht, Du zarte&sr; Leben,
+Mit Deiner kleinen Hand herum;
+Nicht Hand wird Dir zur&ue;ckgegeben,
+Die Blumen sind so fremd und stumm.
+Die wissen wohl sich sch&oe;n zu schm&ue;cken,
+Zu duften auch nach Herzen&sr;lust,
+Doch keine mag Dich an sich dr&ue;cken,
+Fern ist die traute Mutterbrust.
+So fr&ue;h&2019; noch an de&sr; Leben&sr; Thoren,
+Noch Himmel&sr;l&ae;cheln im Gesicht,
+Hast Du da&sr; Beste schon verloren,
+O arme&sr; Kind, und weiﬂt e&sr; nicht.
+Ein edler Herzog kommt geritten,
+Und hemmt vor Dir de&sr; Rosse&sr; Lauf;
+Zu hoher Kunst und reinen Sitten
+Zieht er in seiner Burg Dich auf.
+<pb="108"/>
+Du hast unendlich viel gewonnen,
+Du bl&ue;hst, die Sch&oe;nst&2019; im ganzen Land,
+Doch ach! die allerbesten Wonnen
+Lieﬂ&2019;st Du am unbekannten Strand.</poem>
+<p>Undine senkte mit einem wehm&ue;thigen L&ae;-
+cheln ihre Laute; die Augen der herzoglichen Pfleg-
+&ae;ltern Bertalden&sr; standen voller Thr&ae;nen. &2014;
+So war e&sr; am Morgen, wo ich Dich fand, Du
+arme holde Waise, sagte der Herzog tiefbewegt;
+die sch&oe;ne S&ae;ngerin hat wohl Recht; da&sr; Beste
+haben wir Dir dennoch nicht zu geben vermocht. &2014;</p>
+<p>Wir m&ue;ssen aber auch h&oe;ren, wie e&sr; den ar-
+men Aeltern ergangen ist, sagte Undine, schlug
+die Saiten, und sang:</p>
+<poem><pv>Mutter geht durch ihre Kammern
+R&ae;umt die Schr&ae;nke ein und au&sr;,
+Sucht, und weiﬂ nicht wa&sr;, mit Jammern,
+Findet nicht&sr;, al&sr; leere&sr; Hau&sr;.</pv>
+<pv>Leere&sr; Hau&sr;! O Wort der Klage,
+Dem, der einst ein holde&sr; Kind
+Drin geg&ae;ngelt hat am Tage,
+Drin gewiegt in N&ae;chten lind.</pv>
+<pb="109"/>
+<pv>Wieder grunen wohl die Buchen,
+Wieder kommt der Sonne Licht,
+Aber, Mutter, laﬂ&2019; Dein Suchen,
+Wieder kommt Dein Liebe&sr; nicht.</pv>
+<pv>Und wenn Abendl&ue;fte f&ae;cheln,
+Vater heim zum Heerde kehrt,
+Regt sich&2019;&sr; fast in ihm, wie L&ae;cheln
+Dran doch gleich die Thr&ae;ne zehrt.</pv>
+<pv>Vater weiﬂ, in seinen Zimmern
+Findet er die Tode&sr;ruh,
+H&oe;rt nur bleicher Mutter Wimmern,
+Und kein Kindlein lacht ihm zu.</pv></poem>
+<p>O, um Gott, Undine, wo sind meine Aeltern?
+rief die weinende Bertalda. Du weiﬂt e&sr; ge-
+wiﬂ, Du hast e&sr; erfahren, Du wundersame
+Frau, denn sonst h&ae;ttest Du mir da&sr; Herz nicht
+so zerrissen. Sind sie vielleicht schon hier?
+W&ae;r&2019; e&sr;? &2014; Ihr Auge durchflog die gl&ae;nzende
+Gesellschaft, und weilte auf einer regierenden
+Herrin, die ihrem Pflegevater zun&ae;chst saﬂ. Da
+beugte sich Undine nach der Th&ue;r zur&ue;ck, ihre
+<pb="110"/>
+Augen flossen in der s&ue;ssesten R&ue;hrung &ue;ber. &2014;
+Wo sind denn die armen, harrenden Aeltern?
+fragte sie, und der alte Fischer mit seiner Frau
+wankten au&sr; dem Haufen der Zuschauer vor.
+Ihre Augen hingen fragend bald an Undinen,
+bald an dem sch&oe;nen Fr&ae;ulein, da&sr; ihre Tochter
+sein sollte. &2014; Sie ist e&sr;! stammelte die ent-
+z&ue;ckte Geberin, und die zwei alten Leute hingen
+lautweinend und Gott preisend an dem Halse
+der Wiedergefundnen.</p>
+<p>Aber entsetzt und z&ue;rnend riﬂ sich Bertalda
+au&sr; ihrer Umarmung lo&sr;. E&sr; war zu viel f&ue;r
+diese&sr; stolze Gem&ue;th, eine solche Wiedererken-
+nung, in dem Augenblicke, wo sie fest gemeint
+hatte, ihren bi&sr;herigen Glanz noch zu steigern,
+und die Hoffnung Thronhimmel und Kronen
+&ue;ber ihr Haupt herunter regnen lieﬂ. E&sr; kam
+ihr vor, al&sr; habe ihre Nebenbuhlerin die&sr; Alle&sr;
+ersonnen, um sie nur recht au&sr;gesucht vor Huld-
+branden und aller Welt zu dem&ue;thigen. Sie
+schalt Undinen, sie schalt die beiden Alten, die
+h&ae;ﬂlichen Worte: Betr&ue;gerin und erkaufte&sr; Volk!
+<pb="111"/>
+rissen sich von ihren Lippen. Da sagte die alte
+Fischerfrau nur ganz leise vor sich hin: ach Gott,
+sie ist ein b&oe;se&sr; Weib&sr;bild geworden; und den-
+noch f&ue;hl&2019; ich&2019;&sr; im Herzen, daﬂ sie von mir ge-
+boren ist. &2014; Der alte Fischer aber hatte seine
+H&ae;nde gefaltet, und betete still, daﬂ die hier
+seine Tochter nicht sein m&oe;ge. &2014; Undine wankte
+tode&sr;bleich von den Aeltern zu Bertalden, von
+Bertalden zu den Aeltern, pl&oe;tzlich au&sr; all&2019; den
+Himmeln, die sie sich getr&ae;umt hatte, in eine
+Angst und ein Entsetzen gest&ue;rtzt, da&sr; ihr bi&sr;her
+auch nicht im Traume kund geworden war. Hast
+Du denn eine Seele? Hast Du denn wirklich
+eine Seele, Bertalda? schrie sie einigemale in
+ihre z&ue;rnende Freundin hinein, al&sr; wolle sie
+sie au&sr; einem pl&oe;tzlichen Wahnsinn oder einem
+tollmachenden Nachtgesichte gewaltsam zur Besin-
+nung bringen. Al&sr; aber Bertalda nur immer
+noch ungest&ue;mer w&ue;thete, al&sr; die verstoﬂenen Ael-
+tern laut zu heulen anfingen, und die Gesell-
+schaft sich streitend und eifernd in verschiedne
+Parten theilte, erbat sie sich mit einemmale so
+<pb="112"/>
+w&ue;rdig und ernst die Freiheit, in den Zimmern
+ihre&sr; Manne&sr; zu reden, daﬂ Alle&sr; um sie her,
+wie auf einen Wink, stille ward. Sie trat da-
+rauf an da&sr; obre Ende de&sr; Tische&sr;, wo Bertalda
+gesessen hatte, dem&ue;thig und stolz, und sprach,
+w&ae;hrend sich Aller Augen unverwandt auf sie
+richteten, folgendergestalt:</p>
+<p>Ihr Leute, die Ihr so feindlich au&sr;seht und
+so verst&oe;rt, und mir mein liebe&sr; Fest so grimm
+zerreiﬂt, ach Gott, ich wuﬂte von Euern th&oe;rich-
+ten Sitten und Eurer harten Sinne&sr;weise nicht&sr;,
+und werde mich wohl mein Lebelang nicht drin
+finden. Daﬂ ich Alle&sr; verkehrt angefangen habe,
+liegt nicht an mir; glaubt nur, e&sr; liegt einzig
+an Euch, so wenig e&sr; Euch auch darnach au&sr;-
+sehen mag. Ich habe Euch auch de&sr;halb nur
+wenig zu sagen, aber da&sr; Eine muﬂ gesagt sein:
+ich habe nicht gelogen. Beweise kann und will
+ich Euch ausser meiner Versicherung nicht geben,
+aber beschw&oe;ren will ich e&sr;. Mir hat e&sr; der-
+selbe gesagt, der Bertalden von ihren Aeltern
+weg in&2019;&sr; Wasser lockte, und sie nachher dem
+<cw>Her-</cw>
+<pb="113"/>
+Herzog in seinen Weg auf die gr&ue;ne Wiese
+legte.</p>
+<p>Sie ist eine Zauberin, rief Bertalda, eine
+Hexe, die mit b&oe;sen Geistern Umgang hat!
+<g>Sie</g> bekennt e&sr; ja selbst.</p>
+<p>Da&sr; thue ich nicht, sagte Undine, einen
+ganzen Himmel der Unschuld und Zuversicht in
+ihren Augen. Ich bin auch keine Hexe; seht
+mich nur darauf an.</p>
+<p>So l&ue;gt sie, und prahlt, siel Bertalda ein,
+und kann nicht behaupten, daﬂ ich dieser niedern
+Leute Kind sei. Meine herzoglichen Aeltern, ich
+bitte Euch, f&ue;hrt mich au&sr; dieser Gesellschaft
+fort, und au&sr; dieser Stadt, wo man nur dar-
+auf au&sr;geht, mich zu schm&ae;hen.</p>
+<p>Der alte, ehrsame Herzog aber blieb fest
+stehen, und seine Gemahlin sagte: wir m&ue;ssen
+durchau&sr; wissen, woran wir sind; Gott sei
+vor, daﬂ ich eher nur einen Fuﬂ au&sr; diesem
+Saale setze. &2014; Da n&ae;herte sich die alte Fi-
+scherin, beugte sich tief vor der Herzogin, und
+sagte: Ihr schlieﬂt mir da&sr; Herz auf, hohe,
+<bs>H</bs>
+<pb="114"/>
+gotte&sr;f&ue;rchtige Frau. Ich muﬂ Euch sagen,
+wenn diese&sr; b&oe;se Fr&ae;ulein meine Tochter ist,
+tr&ae;gt sie ein Mahl, gleich einem Veilchen, zwi-
+schen beiden Schultern, und ein gleiche&sr; auf
+dem Spann ihre&sr; linken Fuﬂe&sr;. Wenn sie sich
+nur mit mir au&sr; den Saale entfernen woll-
+te. &2014; Ich entbl&oe;ﬂe mich nicht vor der B&ae;ue-
+rin; sagte Bertalda, ihr stolz den R&ue;cken wen-
+dend. &2014; Aber vor mir doch wohl, entgegnete
+die Herzogin mit groﬂem Ernst. Ihr werdet
+mir in jene&sr; Gemach folgen, Jungfrau, und
+die gute Alte kommt mit. &2014; Die Drei ver-
+schwanden, und alle Uebrigen blieben in groﬂer
+Erwartung schweigend zur&ue;ck. Nach einer klei-
+nen Weile kamen die Frauen wieder, Bertalda
+todtenbleich, und die Herzogin sagte: Recht
+muﬂ Recht bleiben: de&sr;halben erkl&ae;r&2019; ich, daﬂ
+unsre Frau Wirthin vollkommen wahr gespro-
+chen hat. Bertalda ist de&sr; Fischer&sr; Tochter,
+und soviel ist, al&sr; man hier zu wissen braucht.
+Da&sr; f&ue;rstliche Ehepaar ging mit der Pflege-
+tochter fort; auf einen Wink de&sr; Herzog&sr; folgte
+<pb="115"/>
+ihnen der Fischer mit seiner Frau. Die andern
+G&ae;ste entfernten sich schweigend oder heimlich
+murmelnd, und Undine sank herzlich weinend in
+Huldbrand&sr; Arme.</p>
+<hr>
+<bs>H 2</bs>
+<pb="116"/>
+<hr>
+<d2><g><b>Zw&oe;lfte&sr; Kapitel.</b>
+Wie sie au&sr; der Reich&sr;stadt abreisten</g>.</d2>
+<hr>
+<p><in>D</in>em Herrn von Ringstetten w&ae;r&2019; e&sr; freilich
+lieber gewesen, wenn sich Alle&sr; an diesem Tage
+ander&sr; gef&ue;gt h&ae;tte; aber auch so, wie e&sr; nun
+einmal war, konnte e&sr; ihm nicht unlieb sein,
+da sich seine reizende Frau so fromm und gut-
+m&ue;thig und herzlich bewie&sr;. &2014; Wenn ich ihr
+eine Seele gegeben habe, muﬂt&2019; er bei sich sel-
+ber sagen, gab ich ihr wohl eine bessre, al&sr; mei-
+ne eigne ist; und nun dachte er einzig darauf,
+die Weinende zufrieden zu sprechen, und gleich
+de&sr; andern Tage&sr; einen Ort mit ihr zu verla-
+ﬂen, der ihr seit diesem Vorfalle zuwider sein
+muﬂte. Zwar ist e&sr; andem, daﬂ man sie eben
+nicht ungleich beurtheilte. Weil man schon fr&ue;-
+<pb="117"/>
+her etwa&sr; Wunderbare&sr; von ihr erwartete, fiel
+die seltsame Entdeckung von Bertalden&sr; Her-
+kommen nicht allzusehr auf, und nur gegen diese
+war Jedermann, der die Geschichte und ihr st&ue;r-
+mische&sr; Betragen dabei erfuhr, &ue;bel gesinnt.
+Davon wuﬂten aber der Ritter und seine Frau
+noch nicht&sr;; auﬂerdem w&ae;re Ein&sr; f&ue;r Undinen
+so schmerzhaft gewesen, al&sr; da&sr; Andre, und so
+hatte man nicht&sr; Bessre&sr; zu thun, al&sr; die Mau-
+ern der alten Stadt baldm&oe;glichst hinter sich zu
+laﬂen.</p>
+<p>Mit den ersten Strahlen de&sr; Morgen&sr; hielt
+ein zierlicher Wagen f&ue;r Undinen vor dem Thore
+der Herberge; Huldbrand&sr; und seiner Knappen
+Hengste stampften daneben da&sr; Pflaster. Der
+Ritter f&ue;hrte seine sch&oe;ne Frau au&sr; der Th&ue;r,
+da trat ihnen ein Fischerm&ae;dchen in den Weg. &2014;
+Wir brauchen Deine Waare nicht, sagte Huld-
+brand zu ihr, wir reisen eben fort. &2014; Da fing
+da&sr; Fischerm&ae;dchen bitterlich an zu weinen, und
+nun erst sahen die Eheleute, daﬂ e&sr; Bertalda
+war. Sie traten gleich mit ihr in da&sr; Gemach
+<pb="118"/>
+zur&ue;ck, und erfuhren von ihr, der Herzog und
+die Herzogin seien so erz&ue;rnt &ue;ber ihre gestrige
+H&ae;rte und Heftigkeit, daﬂ sie die Hand g&ae;nzlich
+von ihr abgezogen h&ae;tten, nicht ohne ihr jedoch
+vorher eine reiche Au&sr;steuer zu schenken. Der
+Fischer sei gleichfall&sr; wohl begabt worden, und
+habe noch Gestern Abend&sr; mit seiner Frau wie-
+der den Weg nach der Seespitze eingeschlagen.</p>
+<p>Ich wollte mit ihnen gehn, fuhr sie fort;
+aber der alte Fischer, der mein Vater sein soll &2014;</p>
+<p>Er ist e&sr; auch wahrhaftig, Bertalda; unter-
+brach sie Undine. Sieh&2019; nur, der, welchen Du
+f&ue;r den Brunnenmeister ansahst, erz&ae;hlte mir&2019;&sr;
+au&sr;f&ue;hrlich. Er wollte mich abreden, daﬂ ich
+dich nicht mit nach Burg Ringstetten nehmen
+sollte, und da fuhr ihm diese&sr; Geheimniﬂ mit
+herau&sr;.</p>
+<p>Nun denn, sagte Bertalda, mein Vater, &2014;
+wenn e&sr; denn so sein soll, &2014; mein Vater sprach,
+ich nehme Dich nicht mit, bi&sr; Du ander&sr; wor-
+den bist. Wage dich allein durch den verrufenen
+Wald zu un&sr; hinau&sr;; da&sr; soll die Probe sein,
+<pb="119"/>
+ob Du Dir etwa&sr; au&sr; un&sr; machst. Aber kom-
+me mir nicht, wie ein Fr&ae;ulein; wie eine Fi-
+scherdirne komm&2019;! &2014; Da will ich denn thun,
+wie er gesagt hat, denn von aller Welt bin ich
+verlaﬂen, und will al&sr; ein arme&sr; Fischerkind
+bei den &ae;rmlichen Aeltern einsam leben und ster-
+ben. Vor dem Wald graut e&sr; mich freilich sehr.
+E&sr; sollen abscheuliche Gespenster drinnen hausen,
+und ich bin so furchtsam. Aber wa&sr; hilft&2019;&sr;? &2014;
+Hierher kam ich nur noch, um bei der edlen
+Frau von Ringstetten Verzeihung daf&ue;r zu erfle-
+hen, daﬂ ich mich Gestern so ungeb&ue;hrlich erzeigte.
+Ich f&ue;hle wohl, Ihr habt e&sr; gut gemeint, hol-
+de Dame, aber Ihr wuﬂtet nicht, wie Ihr mich
+verletzen w&ue;rdet, und da str&oe;mte mir denn in
+der Angst und Ueberraschung gar manch unsin-
+nig verwegne&sr; Wort &ue;ber die Lippen. Ach ver-
+zeiht, verzeiht! Ich bin ja so ungl&ue;cklich schon.
+Denkt nur selbsten, wa&sr; ich noch Gestern in
+der Fr&ue;he war, noch Gestern zu Anfang Eure&sr;
+Feste&sr;, und wa&sr; nun Heut! &2014;</p>
+<p>Die Worte gingen ihr unter in einem
+<pb="120"/>
+schmerzlichen Thr&ae;nenstrom, und gleichfall&sr; bit-
+terlich weinend fiel ihr Undine um den Hal&sr;.
+E&sr; dauerte lange, bi&sr; die tiefger&ue;hrte Frau ein
+Wort hervorbringen konnte; dann aber sagte
+sie: Du sollst ja mit un&sr; nach Ringstetten; e&sr;
+soll ja Alle&sr; bleiben, wie e&sr; fr&ue;her abgeredet
+war; nur nenne mich wieder Du, und nicht
+mehr Dame und edle Frau. Sieh&2019;, wir wur-
+den al&sr; Kinder mit einander vertauscht; da
+schon verzweigte sich unser Geschick, und wir
+wollen e&sr; f&ue;rder so innig verzweigen, daﬂ e&sr;
+keine menschliche Gewalt zu trennen im Stand
+sein soll. Nur erst mit un&sr; nach Ringstetten.
+Wie wir al&sr; Schwestern mit einander theilen
+wollen, besprechen wir dort. &2014; Bertalda sah
+scheu nach Huldbrand empor. Ihn jammerte
+de&sr; sch&oe;nen, bedr&ae;ngten M&ae;gdlein&sr;; er bot
+ihr die Hand, und redete ihr kosend zu, sich
+ihm und seiner Gattin anzuvertrau&2019;n. &2014; Eu-
+ern Aeltern, sagte er, schicken wir Bothschaft,
+warum ihr nicht gekommen seid; &2014; und noch
+Manche&sr; wollte er wegen der guten Fischer&sr;-
+<pb="121"/>
+leute hinzusetzen, aber er sah, wie Bertalda bei
+deren Erw&ae;hnung schmerzhaft zusammen fuhr,
+und lieﬂ also lieber da&sr; Reden davon sein.
+Aber unter den Arm faﬂte er sie, hob sie zuerst
+in den Wagen, Undinen ihr nach, und trabte
+fr&oe;hlich beiher, trieb auch den Fuhrmann so
+wacker an, daﬂ sie da&sr; Gebiet der Reich&sr;stadt
+und mit ihm alle tr&ue;ben Erinnrungen in kurzer
+Zeit &ue;berflogen hatten, und nun die Frauen
+mit bessrer Lust durch die sch&oe;nen Gegenden
+hinrollten, welche ihr Weg sie entl&ae;ngst f&ue;hrte.</p>
+<p>Nach einigen Tagereisen kamen sie eine&sr;
+sch&oe;nen Abend&sr; auf Burg Ringstetten an. Dem
+jungen Ritter&sr;mann hatten seine V&oe;gte und
+Mannen viel zu berichten, so daﬂ Undine mit
+Bertalden allein blieb. Die Beiden ergingen
+sich auf dem hohen Wall der Veste, und freuten
+sich an der anmuthigen Landschaft, die sich ring&sr;-
+um durch da&sr; geseegnete Schwaben au&sr;breitete.
+Da trat ein langer Mann zu ihnen, der sie
+h&oe;flich gr&ue;ﬂte, und der Bertalden beinah vor-
+kam, wie jener Brunnenmeister in der Reich&sr;-
+<pb="122"/>
+stadt. Noch unverkennbarer ward ihr die Aehn-
+lichkeit, al&sr; Undine ihm unwillig, ja drohend,
+zur&ue;ck winkte, und er sich mit eiligen Schritten
+und sch&ue;ttelndem Kopfe fortmachte, wie damal&sr;,
+worauf er in einem nahen Geb&ue;sche verschwand.
+Undine aber sagte: f&ue;rchte Dich nicht, liebe&sr;
+Bertaldchen; die&sr;mal soll Dir der h&ae;ﬂliche Brun-
+nenmeister nicht&sr; zu Leide thun. &2014; Und da-
+mit erz&ae;hlte sie ihr die ganze Geschichte au&sr;-
+f&ue;hrlich, und auch wer sie selbst sei, und wie
+Bertalda von den Fischer&sr;leuten weg, Undine
+aber dahin gekommen war. Die Jungfrau ent-
+setzte sich anf&ae;nglich vor diesen Reden; sie glaub-
+te, ihre Freundinn sei von einem schnellen Wahn-
+sinn befallen. Aber mehr und mehr &ue;berzeugte
+sie sich, daﬂ Alle&sr; wahr sei, an Undinen&sr; zusam-
+menh&ae;ngenden Worten, die zu den bi&sr;herigen
+Begebenheiten so gut paﬂten, und noch mehr
+an dem innern Gef&ue;hl, mit welchem sich die
+Wahrheit un&sr; kund zu geben nie ermangelt. E&sr;
+war ihr seltsam, daﬂ sie nun selbst wie mitten
+in einem von den M&ae;hrchen lebe, die sie sonst
+<pb="123"/>
+nur &2019;erz&ae;hlen geh&oe;rt. Sie starrte Undinen mit
+Ehrfurcht an, konnte sich aber eine&sr; Schauder&sr;,
+der zwischen sie und ihre Freundinn trat, nicht
+mehr erwehren, und muﬂte sich beim Abend-
+brodt sehr dar&ue;ber wundern, wie der Ritter ge-
+gen ein Wesen so verliebt und freundlich that,
+welche&sr; ihr seit den letzten Entdeckungen mehr
+gespenstisch al&sr; menschlich vorkam.</p>
+<hr>
+<pb="124"/>
+<hr>
+<d2><g><b>Dreizehnte&sr; Kapitel.</b>
+Wie sie auf Burg Ringstetten lebten</g>.</d2>
+<hr>
+<p><in>D</in>er diese Geschichte aufschreibt, weil sie ihm
+da&sr; Herz bewegt, und weil er w&ue;nscht, daﬂ sie
+auch Andern ein Gleiche&sr; thun m&oe;ge, bittet
+Dich, lieber Leser, um eine Gunst. Sieh&2019; e&sr;
+ihm nach, wenn er jetzt &ue;ber einen ziemlich lan-
+gen Zeitraum mit kurzen Worten hingeht, und
+Dir nur im Allgemeinen sagt, wa&sr; sich darin
+begeben hat. Er weiﬂ wohl, daﬂ man e&sr; recht
+kunstgem&ae;ﬂ und Schritt vor Schritt entwickeln
+k&oe;nnte, wie Huldbrand&sr; Gem&ue;th begann, sich
+von Undinen ab, und Bertalden zuzuwenden,
+wie Bertalda dem jungen Mann mit gl&ue;hender
+Liebe immer mehr entgegen kam, und er und sie
+die arme Ehefrau al&sr; ein fremdartige&sr; Wesen
+<pb="125"/>
+mehr zu f&ue;rchten al&sr; zu bemitleiden schienen,
+wie Undine weinte, und ihre Thr&ae;nen Gewis-
+sen&sr;bisse in de&sr; Ritter&sr; Herzen anregten, ohne
+jedoch die alte Liebe zu erwecken, so daﬂ er ihr
+wohl bi&sr;weilen freundlich that, aber ein kalter
+Schauer ihn bald von ihr weg, und dem Men-
+schenkinde Bertalda entgegen trieb; &2014; man
+k&oe;nnte die&sr; Alle&sr;, weiﬂ der Schreiber, ordent-
+lich au&sr;f&ue;hren, vielleicht sollte man&2019;&sr; auch. Aber
+da&sr; Herz thut ihm dabei allzuweh, denn er hat
+&ae;hnliche Dinge erlebt, und scheut sich in der
+Erinnerung auch noch vor ihrem Schatten. Du
+kennst wahrscheinlich ein &ae;hnliche&sr; Gef&ue;hl, lieber
+Leser, denn so ist nun einmal der sterblichen
+Menschen Geschick. Wohl Dir, wenn Du da-
+bei mehr empfangen, al&sr; au&sr;getheilt hast, denn
+hier ist Nehmen seeliger al&sr; Geben. Dann
+schleicht Dir nur ein geliebter Schmerz bei sol-
+chen Erw&ae;hnungen durch die Seele, und viel-
+leicht eine linde Thr&ae;ne die Wange herab, um
+Deine verwelkten Blumenbeete, deren Du Dich
+so herzlich gefreut hattest. Damit sei e&sr; aber
+<pb="126"/>
+auch genug; wir wollen un&sr; nicht mit tausend-
+fach vereinzelten Stichen da&sr; Herz durchprikkeln,
+sondern nur kurz dabei bleiben, daﬂ e&sr; nun ein-
+mal so gekommen war, wie ich e&sr; vorhin sagte.
+Die arme Undine war sehr betr&ue;bt, die andern
+Beiden waren auch nicht eben vergn&ue;gt; sonder-
+lich meinte Bertalda bei der geringsten Abwei-
+chung von dem, wa&sr; sie w&ue;nschte, den eifers&ue;ch-
+tigen Druck der beleidigten Hau&sr;frau zu sp&ue;ren.
+Sie hatte sich de&sr;halb ordentlich ein herrische&sr;
+Wesen angew&oe;hnt, dem Undine in wehm&ue;thiger
+Entsagung nachgab, und da&sr; durch den verblen-
+deten Huldbrand gew&oe;hnlich auf&2019;&sr; entschiedenste
+unterst&ue;tzt ward. &2014; Wa&sr; die Burggesellschaft
+noch mehr verst&oe;rte, waren allerhand wunder-
+liche Spukereien, die Huldbranden und Bertal-
+den in den gew&oe;lbten G&ae;ngen de&sr; Schlosse&sr;
+begegneten, und von denen vorher seit Menschen-
+gedenken nicht&sr; geh&oe;rt worden war. Der lange,
+weiﬂe Mann, in welchem Huldbrand den Oheim
+K&ue;hleborn, Bertalda den gespenstischen Brun-
+nenmeister nur allzuwohl erkannte, trat oftmal&sr;
+<pb="127"/>
+drohend vor Beide, vorz&ue;glich aber vor Bertal-
+den hin, so daﬂ diese schon einigemal vor Schre-
+cken krank darnieder gelegen hatte, und manch-
+mal daran dachte, die Burg zu verlaﬂen. Theil&sr;
+aber war ihr Huldbrand allzu lieb, und sie
+st&ue;tzte sich dabei auf ihre Unschuld, weil e&sr; nie
+zu einer eigentlichen Erkl&ae;rung unter ihnen ge-
+kommen war; theil&sr; auch wuﬂte sie nicht, wo-
+hin sie sonst ihre Schritte richten solle. Der
+alte Fischer hatte auf de&sr; Herrn von Ringstet-
+ten&sr; Bothschaft, daﬂ Bertalda bei ihm sei, mit
+einigen schwer zu lesenden Federz&ue;gen, so wie
+sie ihm Alter und lange Entw&oe;hnung verstatte-
+ten, geantwortet: ich bin nun ein armer alter
+Wittwer worden, denn meine liebe treue Frau
+ist mir erstorben. Wie sehr ich aber auch allein
+in der H&ue;tten sitzen mag, Bertalda ist mir lie-
+ber dort, al&sr; bei mir. Nur daﬂ sie meiner lie-
+ben Undine nicht&sr; zu Leide thue! Sonst h&ae;tte
+sie meinen Fluch. &2014; Die letztern Worte schlug
+Bertalda in den Wind, aber da&sr; wegen de&sr;
+Wegbleiben&sr; von dem Vater behielt sie gut, so
+<pb="128"/>
+wie wir Menschen in &ae;hnlichen F&ae;llen e&sr; immer
+zu machen pflegen.</p>
+<p>Eine&sr; Tage&sr; war Huldbrand eben au&sr;gerit-
+ten, al&sr; Undine da&sr; Hau&sr;gesinde versammelte,
+einen groﬂen Stein herbei bringen hieﬂ, und den
+pr&ae;chtigen Brunnen, der sich in der Mitte de&sr;
+Schloﬂhofe&sr; befand, sorgf&ae;ltig damit zu bedecken
+befahl. Die Leute wandten ein, sie w&ue;rden al&sr;-
+dann da&sr; Wasser weit unten au&sr; dem Thale
+heraufzuholen haben. Undine l&ae;chelte wehm&ue;-
+thig. &2014; E&sr; thut mir leid um eure vermehrte
+Arbeit, liebe Kinder, entgegnete sie; ich m&oe;chte
+lieber selbst die Wasserkr&ue;ge heraufholen, aber
+dieser Brunnen muﬂ nun einmal zu. Glaubt
+e&sr; mir auf&2019;&sr; Wort, daﬂ e&sr; nicht ander&sr; angeht,
+und daﬂ wir nur dadurch ein gr&oe;ﬂere&sr; Unheil
+zu vermeiden in Stande sind. &2014; Die ganze
+Dienerschaft freute sich, ihrer sanften Hau&sr;frau
+gef&ae;llig sein zu k&oe;nnen; man fragte nicht weiter,
+sondern ergriff den ungeheuern Stein. Dieser
+hob sich unter ihren H&ae;nden, und schwebte be-
+reit&sr; &ue;ber dem Brunnen, da kam Bertalda ge-
+<cw>laufen,</cw>
+<pb="129"/>
+laufen, und rief, man solle innehalten; au&sr; die-
+sem Brunnen lasse sie da&sr; Waschwasser holen,
+welche&sr; ihrer Haut so vortheilhaft sei, und sie
+werde nimmermehr zugeben, daﬂ man ihn ver-
+schliesse. Undine aber blieb die&sr;mal, obgleich
+auf gewohnte Weise sanft, dennoch auf unge-
+wohnte Weise, bei ihrer Meinung fest; sie sagte,
+al&sr; Hau&sr;frau geb&ue;hre ihr, alle Anordnungen
+der Wirthschaft nach bester Ueberzeugung einzu-
+richten, und Niemand habe sie dar&ue;ber Rechen-
+schaft abzulegen, al&sr; ihrem Ehgemahl und
+Herrn. &2014; Seht, o seht doch, rief Bertalda
+unwillig und &ae;ngstlich, da&sr; arme, sch&oe;ne Wasser
+kr&ae;uselt sich und windet sich, weil e&sr; vor der
+klaren Sonne versteckt werden soll, und vor dem
+erfreulichen Anblick der Menschengesichter, zu de-
+ren Spiegel e&sr; erschaffen ist! &2014; In der That
+zischte und regte sich die Fluth im Borne ganz
+wunderlich; e&sr; war, al&sr; wolle sich etwa&sr; darau&sr;
+hervorringen, aber Undine drang nur um so
+ernstlicher auf die Erf&ue;llung ihrer Befehle. E&sr;
+brauchte diese&sr; Ernste&sr; kaum. Da&sr; Schloﬂgesind&2019;
+<bs>J</bs>
+<pb="130"/>
+war eben so froh, seiner milden Herrin zu ge-
+horchen, al&sr; Bertalda&2019;&sr; Trotz zu brechen, und
+so ungeberdig diese auch schelten und drohen
+mochte, lag dennoch in kurzer Zeit der Stein
+&ue;ber der Oeffnung de&sr; Brunnen&sr; fest. Undine
+lehnte sich sinnend dar&ue;ber hin, und schrieb mit
+den sch&oe;nen Fingern auf der Fl&ae;che. Sie muﬂ-
+te aber wohl etwa&sr; sehr Scharfe&sr; und Aetzen-
+de&sr; dabei in der Hand gehabt haben, denn al&sr;
+sie sich abwandte, und die Andern n&ae;her hinzu-
+traten, nahmen sie allerhand seltsame Zeichen
+auf dem Steine wahr, die Keiner vorher an
+demselben gesehn haben wollte.</p>
+<p>Den heimkehrenden Ritter empfing am Abend
+Bertalda mit Thr&ae;nen und Klagen &ue;ber Undi-
+nen&sr; Verfahren. Er warf ernste Blicke auf
+diese, und die arme Frau sah betr&ue;bt vor sich
+nieder. Doch sagte sie mit groﬂer Fassung:
+mein Herr und Ehgemahl schilt ja keinen Leib-
+eignen, bevor er ihn h&oe;rt, wie minder dann
+sein angetraute&sr; Weib. &2014; Sprich, wa&sr; Dich
+zu jener seltsamen That bewog; sagte der Ritter
+<pb="131"/>
+mit finsterm Antlitz. &2014; Ganz allein m&oe;cht&2019; ich
+e&sr; Dir sagen! seufzte Undine. &2014; Du kannst
+e&sr; eben so gut in Bertalda&sr; Gegenwart; entgeg-
+nete er. &2014; Ja, wenn Du e&sr; gebeutst, sagte
+Undine; aber gebeut e&sr; nicht. O bitte, bitte,
+gebeut e&sr; nicht. &2014; Sie sah so dem&ue;thig, hold
+und gehorsam au&sr;, daﬂ de&sr; Ritter&sr; Herz sich
+einem Sonnenblick au&sr; bessern Zeiten erschloﬂ.
+Er faﬂte sie freundlich unter den Arm, und f&ue;hr-
+te sie in sein Gemach, wo sie folgendermaaﬂen
+zu sprechen begann.</p>
+<p>Du kennst ja den b&oe;sen Oheim K&ue;hleborn,
+mein geliebter Herr, und bist ihm &oe;fter&sr; unwil-
+lig in den G&ae;ngen dieser Burg begegnet. Ber-
+talden hat er gar bi&sr;weilen zum Krankwerden
+erschreckt. Da&sr; macht, er ist seelenlo&sr;, ein blo-
+ﬂer, elementarischer Spiegel der Aussenwelt, der
+da&sr; Innere nicht wiederzustrahlen vermag. Da
+sieht er denn bi&sr;weilen, daﬂ Du unzufrieden
+mit mir bist, daﬂ ich in meinem kindischen Sin-
+ne dar&ue;ber weine, daﬂ Bertalda vielleicht eben
+in derselben Stunde zuf&ae;llig lacht. Nun bildet
+<bs>J 2</bs>
+<pb="132"/>
+er sich allerhand Ungleiche&sr; ein, und mischt sich
+auf vielfache Weise ungebeten in unsern Krei&sr;.
+Wa&sr; hilft&2019;&sr;, daﬂ ich ihn au&sr;schelte? Daﬂ ich ihn
+unfreundlich wegschicke? Er glaubt mir nicht ein
+Wort. Sein arme&sr; Leben hat keine Ahnung
+davon, wie Liebe&sr;leiden und Liebe&sr;freuden ein-
+ander so anmuthig gleich sehn, und so innig ver-
+schwistert sind, daﬂ keine Gewalt sie zu trennen
+vermag. Unter der Thr&ae;ne quillt da&sr; L&ae;cheln
+vor, da&sr; L&ae;cheln lockt die Thr&ae;ne au&sr; ihren
+Kammern.</p>
+<p>Sie sah l&ae;chelnd und weinend nach Huld-
+brand in die H&oe;h&2019;, der allen Zauber der alten
+Liebe wieder in seinem Herzen empfand. Sie
+f&ue;hlte da&sr;, dr&ue;ckte ihn inniger an sich, und fuhr
+unter freudigen Thr&ae;nen also fort:</p>
+<p>Da sich der Friedenst&oe;rer nicht mit Wor-
+ten weisen lieﬂ, muﬂte ich wohl die Th&ue;r vor
+ihm zusperren. Und die einzige Th&ue;r, die er
+zu un&sr; hat, ist jener Brunnen. Mit den an-
+dern Quellgeistern hier in der Gegend ist er ent-
+zweit, von dem n&ae;chsten Th&ae;lern an, und erst
+<pb="133"/>
+weiterhin auf der Donau, wenn einige seiner
+guten Freunde hineingestr&oe;mt sind, f&ae;ngt sein
+Reich wieder an. Darum lieﬂ ich den Stein
+&ue;ber de&sr; Brunnen&sr; Oeffnung w&ae;lzen, und schrieb
+Zeichen darauf, die alle Kraft de&sr; eifernden
+Oheim&sr; l&ae;hmen, so daﬂ er nun weder Dir,
+noch mir, noch Bertalden, in den Weg kommen
+soll. Menschen freilich k&oe;nnen trotz der Zeichen
+mit ganz gew&oe;hnlichem Bem&ue;hen den Stein
+wieder abheben; die hindert e&sr; nicht. Willst
+Du also, so thu&2019; nach Bertalda&2019;&sr; Begehr, aber
+wahrhaftig, sie weiﬂ nicht, wa&sr; sie bittet. Auf
+sie hat e&sr; der ungezogne K&ue;hleborn ganz vor-
+z&ue;glich angesehn, und wenn Manche&sr; k&ae;me,
+wa&sr; er mir prophezeien wollte, und wa&sr; doch
+wohl geschehen k&oe;nnte, ohne daﬂ Du e&sr; &ue;bel
+meintest, &2014; ach Lieber, so w&ae;rest ja auch Du
+nicht auﬂer Gefahr!</p>
+<p>Huldbrand f&ue;hlte tief im Herzen die Groﬂ-
+muth seiner holden Frau, wie sie ihren furcht-
+baren Besch&ue;tzer so emsig au&sr;sperrte, und noch
+dazu von Bertalden dar&ue;ber gescholten worden
+<pb="134"/>
+war. Er dr&ue;ckte sie daher auf&2019;&sr; liebreichste in
+seine Arme, und sagte ger&ue;hrt: der Stein bleibt
+liegen, und Alle&sr; bleibt und soll immer bleiben,
+wie Du e&sr; haben willst, mein holde&sr; Undin-
+chen. &2014; Sie schmeichelte ihm dem&ue;thig froh
+&ue;ber die lang&2019; entbehrten Worte der Liebe, und
+sagte endlich: mein allerliebster Freund, da Du
+Heute so &ue;berau&sr; mild und g&ue;tig bist, d&ue;rft&2019;
+ich e&sr; wohl wagen, Dir eine Bitte vorzutragen?
+Sieh&2019; nur, e&sr; ist mit Dir, wie mit dem Som-
+mer. Eben in seiner besten Herrlichkeit setzt sich
+der flammende und donnernde Kronen von sch&oe;-
+nen Gewittern auf, darin er al&sr; ein rechter
+K&oe;nig und Erdengott anzusehen ist. So schiltst
+auch Du bi&sr;weilen, und wetterleuchtest mit
+Zung&2019; und Augen, und da&sr; steht Dir sehr gut,
+wenn ich auch bi&sr;weilen in meiner Thorheit
+dar&ue;ber zu weinen anfange. Aber thu&2019; da&sr; nie
+gegen mich, auf einem Wasser, oder wo wir
+auch nur einem Gew&ae;sser nahe sind. Siehe,
+dann bek&ae;men die Verwandten ein Recht &ue;ber
+mich. Unerbittlich w&ue;rden sie mich von Dir rei-
+<pb="135"/>
+ﬂen in ihrem Grimm, weil sie meinten, daﬂ
+eine ihre&sr; Geschlechte&sr; beleidigt sei, und ich
+m&ue;ﬂte Leben&sr;lang drunten in den Krystallpall&ae;-
+sten wohnen, und d&ue;rfte nie wieder zu Dir her-
+auf, oder sendeten sie mich zu Dir herauf, o
+Gott, dann w&ae;r&2019; e&sr; noch unendlich schlimmer.
+Nein nein, Du s&ue;ﬂer Freund, dahin laﬂ&2019; e&sr; nicht
+kommen, so lieb Dir die arme Undine ist.</p>
+<p>Er verhieﬂ feierlich, zu thun, wie sie begeh-
+re, und die beiden Eheleute traten unendlich froh
+und liebevoll wieder au&sr; dem Gemach. Da kam
+Bertalda mit einigen Werkleuten, die sie unter-
+deﬂ schon hatte bescheiden laﬂen, und sagte mit
+einer m&ue;rrischen Art, die sie sich zeither ange-
+nommen hatte: nun ist doch wohl da&sr; geheime
+Gespr&ae;ch zu Ende, und der Stein kann herab.
+Geht nur hin, Ihr Leute, und richtet&2019;&sr; au&sr;. &2014;
+Der Ritter aber, ihre Unart emp&oe;rt f&ue;hlend,
+sagte in kurzen und sehr ernstlichen Worten, der
+Stein bleibt liegen; auch verwie&sr; er Bertalden
+ihre Heftigkeit gegen seine Frau, worauf die
+Werkleute mit heimlich vergn&ue;gtem L&ae;cheln fort-
+<pb="136"/>
+gingen, Bertalda aber von der andern Seite
+erbleichend nach ihren Zimmern eilte.</p>
+<p>Die Stunde de&sr; Abendessen&sr; kam heran,
+und Bertalda lieﬂ sich vergeblich erwarten. Man
+schickte nach ihr; da fand der K&ae;mmerling ihre
+Gem&ae;cher leer, und brachte nur ein versiegelte&sr;
+Blatt, an den Ritter &ue;berschrieben, mit zur&ue;ck.
+Dieser &oe;ffnete e&sr; best&ue;rzt, und la&sr;.</p>
+<p>Ich f&ue;hle mit Besch&ae;mung, wie ich nur
+eine arme Fischer&sr;dirne bin. Daﬂ ich e&sr; auf
+Augenblicke vergaﬂ, will ich in der &ae;rmlichen
+H&ue;tte meiner Aeltern b&ue;ﬂen. Lebt wohl mit
+Eurer sch&oe;nen Frau!</p>
+<p>Undine war von Herzen betr&ue;bt. Sie bat
+Huldbranden inbr&ue;nstig, der entflohenen Freun-
+dinn nachzueilen, und sie wieder mit zur&ue;ck zu
+bringen. Ach, sie hatte nicht n&oe;thig zu treiben!
+Seine Neigung f&ue;r Bertalden brach wieder hef-
+tig hervor. Er eilte im ganzen Schloﬂ umher,
+fragend, ob Niemand gesehn habe, welche&sr; We-
+ge&sr; die sch&oe;ne Fl&ue;chtige gegangen sei. Er konn-
+te nicht&sr; erfahren, und saﬂ schon im Burghofe
+<pb="137"/>
+zu Pferde, entschlossen, auf&2019;&sr; Gerathewohl dem
+Wege nachzureiten, den er Bertalden hierher
+gef&ue;hrt hatte. Da kam ein Schildbub, und
+versicherte, er sei dem Fr&ae;ulein auf dem Pfade
+nach dem Schwarzthale begegnet. Wie ein
+Pfeil sprengte der Ritter durch da&sr; Thor, der
+angewiesenen Richtung nach, ohne Undinen&sr; &ae;ngst-
+liche Stimme zu h&oe;ren, die ihm au&sr; dem Fen-
+ster nachrief: nach dem Schwarzthal? O dahin
+nicht! Huldbrand, dahin nicht! Oder um Got-
+te&sr;willen, nimm mich mit! &2014; Al&sr; sie aber
+all&2019; ihr Rufen vergeblich sah, lieﬂ sie eilig ihren
+weiﬂen Zelter satteln, und trabte dem Ritter
+nach, ohne irgend eine&sr; Diener&sr; Begleitung an-
+nehmen zu wollen.</p>
+<hr>
+<pb="138"/>
+<hr>
+<d2><b><g>Vierzehnte&sr; Kapitel</g>.</b>
+Wie Bertalda mit dem Ritter heimfuhr.</d2>
+<hr>
+<p><in>D</in>a&sr; Schwarzthal liegt tief in die Berge hin-
+ein. Wie e&sr; jetzo heiﬂt, kann man nicht wissen.
+Damal&sr; nannten e&sr; die Landleute so, wegen
+der tiefen Dunkelheit, welche von hohen B&ae;u-
+men, worunter e&sr; vorz&ue;glich viele Tannen gab,
+in die Niederung herunter gestreuet ward. Selbst
+der Bach, der zwischen den Klippen hinstru-
+delte, sahe davon ganz schwarz au&sr;, und gar
+nicht so fr&oe;hlich, wie e&sr; Gew&ae;sser wohl zu thun
+pflegen, die den blauen Himmel unmittelbar
+&ue;ber sich haben. Nun, in der hereinbrechenden
+D&ae;mmerung, war e&sr; vollend&sr; sehr wild und
+finster zwischen den H&oe;hen geworden. Der Rit-
+ter trabte &ae;ngstlich die Bache&sr;ufer entl&ae;ngst; er
+<pb="139"/>
+f&ue;rchtete bald, durch Verz&oe;gerung die Fl&ue;chtige
+zu weit vorau&sr; zu lassen, bald wieder, in der
+groﬂen Eile sie irgendwo, dafern sie sich vor ihm
+verstecken wolle, zu &ue;bersehn. Er war indeﬂ
+schon ziemlich tief in da&sr; Thal hinein gekommen,
+und konnte nun denken, da&sr; M&ae;gdlein bald ein-
+geholt zu haben, wenn er ander&sr; auf der rech-
+ten Spur war. Die Ahnung, daﬂ er da&sr; auch
+wohl nicht sein k&oe;nne, trieb sein Herz zu immer
+&ae;ngstlicheren Schl&ae;gen. Wo sollte die zarte Ber-
+talda bleiben, wenn er sie nicht fand, in der
+drohenden Wetternacht, die sich immer furchtba-
+rer &ue;ber da&sr; Thal herein bog? Da sah er
+endlich etwa&sr; Weiﬂe&sr; am Hange de&sr; Berge&sr;
+durch die Zweige schimmern. Er glaubte Ber-
+talda&sr; Gewand zu erkennen, und machte sich
+hinzu. Sein Roﬂ aber wollte nicht hinan; e&sr;
+b&ae;umte sich so ungest&ue;m, und er wollte so we-
+nig Zeit verlieren, daﬂ er &2014; zumahl da ihm
+wohl ohnehin zu Pferde da&sr; Gestr&ae;uch allzuhin-
+derlich geworden w&ae;re, &2014; absaﬂ, und den schnau-
+benden Hengst an eine R&ue;ster band, worauf er
+<pb="140"/>
+sich dann vorsichtig durch die B&ue;sche hinarbei-
+tete. Die Zweige schlugen ihm unfreundlich
+Stirn und Wangen mit der kalten N&ae;sse de&sr;
+Abendthau&2019;&sr;, ein ferner Donner murmelte jen-
+seit der Berge hin, e&sr; sah Alle&sr; so seltsam au&sr;,
+daﬂ er anfing, eine Scheu vor der weiﬂen Ge-
+stalt zu empfinden, die nun schon unfern von ihm
+am Boden lag. Doch konnte er ganz deutlich
+unterscheiden, daﬂ e&sr; ein schlafende&sr; oder ohn-
+m&ae;chtige&sr; Frauenzimmer in langen, weiﬂen Ge-
+w&ae;ndern war, wie sie Bertalda Heute getragen
+hatte. Er trat dicht vor sie hin, rauschte an
+den Zweigen, klirrte an seinem Schwerdte, &2014;
+sie regte sich nicht. &2014; Bertalda! sprach er; erst
+leise, dann immer lauter, &2014; sie h&oe;rte nicht.
+Al&sr; er zuletzt den theuern Namen mit gewalt-
+samer Anstrengung rief, hallte ein dumpfe&sr; Echo
+au&sr; den Bergh&oe;len de&sr; Thale&sr; lallend zur&ue;ck:
+Bertalda! &2014; aber die Schl&ae;ferin blieb uner-
+weckt. Er beugte sich zu ihr nieder; die Dun-
+kelheit de&sr; Thale&sr; und der einbrechenden Nacht
+lieﬂen keinen ihrer Gesicht&sr;z&ue;ge unterscheiden.
+<pb="141"/>
+Al&sr; er sich nun eben mit einigem gramvollen
+Zweifel ganz nahe zu ihr an den Boden gedr&ue;ckt
+hatte, fuhr ein Blitz schnell erleuchtend &ue;ber
+da&sr; Thal hin. Er sah ein abscheulich verzerr-
+te&sr; Antlitz dicht vor sich, da&sr; mit dumpfer Stim-
+me rief: gieb mir &2019;nen Kuﬂ, Du verliebter
+Sch&ae;fer! &2014; Vor Entsetzen schreiend fuhr Huld-
+brand in die H&oe;h&2019;, die h&ae;ﬂliche Gestalt ihm
+nach. &2014; Zu Hau&sr;! murmelte sie; die Unholde
+sind wach. Zu Hau&sr;! Sonst hab&2019; ich Dich! &2014;
+Und e&sr; griff nach ihm mit langen weiﬂen Ar-
+men. &2014; T&ue;ckischer K&ue;hleborn, rief der Ritter
+sich ermannend, wa&sr; gilt&2019;&sr;, Du bist e&sr;, Du
+Kobold! Da hast Du &2019;nen Kuﬂ! &2014; Und
+w&ue;thend hieb er mit dem Schwerdte gegen die
+Gestalt. Aber die zerstob, und ein durchn&ae;ssen-
+der Wasserguﬂ lieﬂ dem Ritter keinen Zweifel
+dar&ue;ber, mit welchem Feind er gestritten habe.</p>
+<p>Er will mich zur&ue;ckschrecken von Bertalden,
+sagte er laut zu sich selbst; er denkt, ich soll
+mich vor seinen albernen Spukereien f&ue;rchten,
+und ihm da&sr; arme, ge&ae;ngstete M&ae;dchen hinge-
+<pb="142"/>
+ben, damit er sie seine Rache k&oe;nne f&ue;hlen la-
+ﬂen. Da&sr; soll er doch nicht, der schw&ae;chliche
+Elementargeist. Wa&sr; eine Menschenbrust ver-
+mag, wenn sie so recht will, so recht au&sr; ihrem
+besten Leben will, da&sr; versteht der ohnm&ae;chtige
+Gaukler nicht. &2014; Er f&ue;hlte die Wahrheit sei-
+ner Worte, und daﬂ er sich selbst dadurch einen
+ganz erneuten Muth in da&sr; Herz gesprochen
+habe. Auch schien e&sr;, al&sr; trete da&sr; Gl&ue;ck mit
+ihm in Bunde, denn noch war er nicht wieder
+bei seinem angebundenen Rosse, da h&oe;rte er
+schon ganz deutlich Bertalden&sr; klagende Stim-
+me, wie sie unfern von ihm durch da&sr; immer
+lauter werdende Ger&ae;usch de&sr; Donner&sr; und
+Sturmwinde&sr; her&ue;ber weinte. Befl&ue;gelten Fu-
+ﬂe&sr; eilt&2019; er dem Schalle nach, und fand die er-
+bebende Jungfrau, wie sie eben die H&oe;he hinan
+zu klimmen versuchte, um sich auf alle Weise
+au&sr; dem schaurigen Dunkel diese&sr; Thale&sr; zu
+retten. Er aber trat ihr liebkosend in den Weg,
+und so k&ue;hn und stolz auch fr&ue;her ihr Entschluﬂ
+mochte gewesen sein, empfand sie doch jetzt nur
+<pb="143"/>
+allzulebendig da&sr; Gl&ue;ck, daﬂ ihr im Herzen ge-
+liebter Freund sie au&sr; der furchtbaren Einsam-
+keit erl&oe;se, und da&sr; helle Leben in der befreunde-
+ten Burg so anmuthige Arme nach ihr au&sr;-
+strecke. Sie folgte fast ohne Widerspruch, aber
+so ermattet, daﬂ der Ritter froh war, sie bi&sr;
+zu seinem Rosse geleitet zu haben, welche&sr; er
+nun eilig lo&sr;kn&ue;pfte, um die sch&oe;ne Wandrerin
+hinaufzuheben, und e&sr; al&sr;dann am Z&ue;gel sich
+durch die ungewissen Schatten der Thalgegend
+vorsichtig nachzuleiten.</p>
+<p>Aber da&sr; Pferd war ganz verwildert durch
+K&ue;hleborn&sr; tolle Erscheinung. Selbst der Rit-
+ter w&ue;rde M&ue;he gebraucht haben, auf de&sr; b&ae;u-
+menden, wildschnaubenden, Thiere&sr; R&ue;cken zu
+springen; die zitternde Bertalda hinaufzuheben,
+war eine volle Unm&oe;glichkeit. Man beschloﬂ
+also, zu Fuﬂe heimzukehren. Da&sr; Roﬂ am Z&ue;-
+gel nachzerrend, unterst&ue;tzte der Ritter mit der
+andern Hand da&sr; schwankende M&ae;gdlein. Ber-
+talda machte sich so stark, al&sr; m&oe;glich, um den
+furchtbaren Thalgrund schnell zu durchwandeln,
+<pb="144"/>
+aber wie Blei zog die M&ue;digkeit sie herab, und
+zugleich bebten ihr alle Glieder zusammen, theil&sr;
+noch von mancher &ue;berstandnen Angst, womit
+K&ue;hleborn sie vorw&ae;rt&sr; gehetzt hatte, theil&sr; auch
+in der fortdauernden Bangigkeit vor dem Ge-
+heul&2019; de&sr; Sturme&sr; und Donner&sr; durch die
+Waldung de&sr; Gebirg&sr;.</p>
+<p>Endlich entglitt sie dem st&ue;tzenden Arm ih-
+re&sr; F&ue;hrer&sr;, und auf da&sr; Moo&sr; hingesunken,
+sagte sie: laﬂt mich nur hier liegen, edler Herr.
+Ich b&ue;ﬂe meiner Thorheit Schuld, und muﬂ
+nun doch auf alle Weise hier verkommen vor
+Mattigkeit und Angst. &2014; Nimmermehr, holde
+Freundinn, verlaﬂ&2019; ich Euch! rief Huldbrand,
+vergeblich bem&ue;ht, den brausenden Hengst an
+seiner Hand zu b&ae;ndigen, der &ae;rger, al&sr; vorhin,
+zu tosen und zu sch&ae;umen begann; der Ritter
+war endlich nur froh, daﬂ er ihn vor der hin-
+gesunknen Jungfrau fern genug hielt, um sie
+nicht durch die Furcht vor ihm noch mehr zu
+erschrecken. Wie er sich aber mit dem tollen
+Pferde nur kaum einige Schritte entfernte, be-
+<cw>gann</cw>
+<pb="145"/>
+gann sie auch gleich, ihm auf da&sr; allerj&ae;mmer-
+lichste nachzurufen, de&sr; Glauben&sr;, er wolle sie
+wirklich hier in der entsetzlichen Wildniﬂ verla-
+ﬂen. Er wuﬂte gar nicht mehr, wa&sr; er begin-
+nen sollte. Gern h&ae;tte er dem w&ue;thenden Thiere
+volle Freiheit gegeben, durch die Nacht hinzu-
+st&ue;rmen, und seine Raserei au&sr;zutoben, h&ae;tte er
+nur nicht f&ue;rchten m&ue;ssen, e&sr; w&ue;rde in diesem
+engen Paﬂ mit seinen beerzten Hufen eben &ue;ber
+die Stelle hindonnern, wo Bertalda lag.</p>
+<p>W&ae;hrend dieser groﬂen Noth und Verlegen-
+heit, war e&sr; ihm unendlich trostreich, daﬂ er
+einen Wagen langsam den steinigen Weg hinter
+sich herabfahren h&oe;rte. Er rief um Beistand;
+eine m&ae;nnliche Stimme antwortete, verwie&sr; ihn
+zur Geduld, aber versprach, zu helfen, und bald
+darauf leuchteten schon zwei Schimmel durch
+da&sr; Geb&ue;sch, der weiﬂe K&ae;rrnerkittel ihre&sr; F&ue;h-
+rer&sr; neben her, worauf sich denn auch die groﬂe,
+weiﬂe Leinewand sehen lieﬂ, mit welcher die
+Waaren, die er bei sich f&ue;hren mochte, &ue;berdeckt
+waren. Auf ein laute&sr; Brr! au&sr; dem Munde
+<bs>K</bs>
+<pb="146"/>
+ihre&sr; Herrn standen die gehorsamen Schimmel.
+Er kam gegen den Ritter heran, und half ihm,
+da&sr; sch&ae;umende Thier b&ae;ndigen. &2014; Ich merke
+wohl, sagte er dabei, wa&sr; der Bestie fehlt. Al&sr;
+ich zuerst durch diese Gegend zog, ging e&sr; mei-
+nen Pferden nicht besser. Da&sr; macht, hier
+wohnt ein b&oe;ser Wassernix, der an solchen Nek-
+kereien Lust hat. Aber ich hab&2019; ein Spr&ue;chlein
+gelernt; wenn Ihr mir verg&oe;nnen wolltet, dem
+Rosse da&sr; in&2019;&sr; Ohr zu sagen, so sollt&2019; e&sr; gleich
+so ruhig stehn, wie meine Schimmel da. &2014;
+Versucht Eu&2019;r Heil, und helft nur bald! schrie
+der ungeduldige Ritter. Da bog der Fuhrmann
+den Kopf de&sr; b&ae;umenden Pferde&sr; zu sich herun-
+ter, und sagte ihm einige Worte in&2019;&sr; Ohr.
+Augenblicklich stand der Hengst gez&ae;hmt und
+friedlich still, und nur sein erhitzte&sr; Keuchen und
+Dampfen zeugte noch von der vorherigen Un-
+b&ae;ndigkeit. E&sr; war nicht viel Zeit f&ue;r Huld-
+branden, lange zu fragen, wie die&sr; zugegangen
+sei. Er ward mit dem K&ae;rrner einig, daﬂ er
+Bertalden auf den Wagen nehmen solle, wo,
+<pb="147"/>
+seiner Au&sr;sage nach, die weichste Baumwolle in
+Ballen lag, und so m&oe;ge er sie bi&sr; nach Burg
+Ringstetten f&ue;hren; der Ritter wolle den Zug
+zu Pferde begleiten. Aber da&sr; Roﬂ schien von
+seinem vorigen Toben zu ersch&oe;pft, um noch sei-
+nen Herrn so weit zu tragen, we&sr;halb diesem
+der K&ae;rrner zuredete, mit Bertalden in den
+Wagen zu steigen. Da&sr; Pferd k&oe;nne man ja
+hinten anbinden. &2014; E&sr; geht Bergunter, sagte
+er, und da wird&2019;&sr; meinen Schimmeln leicht. &2014;
+Der Ritter nahm die&sr; Erbieten an, er bestieg
+mit Bertalden den Wagen, der Hengst folgte
+geduldig nach, und r&ue;stig und achtsam schritt der
+Fuhrmann beiher.</p>
+<p>In der Stille der tiefer dunkelnden Nacht,
+au&sr; der da&sr; Gewitter immer ferner und schweig-
+samer abdonnerte, in dem behaglichen Gef&ue;hl
+der Sicherheit und de&sr; bequemen Fortkommen&sr;,
+entspann sich zwischen Huldbrand und Bertalda
+ein trauliche&sr; Gespr&ae;ch. Mit schmeichelnden
+Worten schalt er sie um ihr trotzige&sr; Fl&ue;chten;
+mit Demuth und R&ue;hrung entschuldigte sie sich,
+<bs>K 2</bs>
+<pb="148"/>
+und au&sr; Allem, wa&sr; sie sprach, leuchtete e&sr; her-
+vor, gleich einer Lampe, die dem Geliebten zwi-
+schen Nacht und Geheimniﬂ kund giebt, die Ge-
+liebte harre noch sein. Der Ritter f&ue;hlte den
+Sinn dieser Reden weit mehr, al&sr; daﬂ er auf
+die Bedeutung der Worte Acht gegeben h&ae;tte,
+und antwortete auch einzig auf jenen. Da rief
+der Fuhrmann pl&oe;tzlich mit kreischender Stimme:
+hoch, Ihr Schimmel! Hoch den Fuﬂ! Nehmt
+Euch zusammen, Schimmel! Denkt h&ue;bsch, wa&sr;
+Ihr seid! &2014; Der Ritter beugte sich au&sr; dem
+Wagen, und sah, wie die Pferde mitten im
+sch&ae;umenden Wasser dahin schritten, oder fast
+schon schwammen, de&sr; Wagen&sr; R&ae;der wie M&ue;h-
+lenr&ae;der blinkten und rauschten, der K&ae;rrner vor
+der wachsenden Fluth auf da&sr; Fuhrwerk gestie-
+gen war. &2014; Wa&sr; soll da&sr; f&ue;r ein Weg sein?
+Der geht ja mitten in den Strom! rief Huld-
+brand seinem F&ue;hrer zu. &2014; Nein, Herr, lachte
+dieser zur&ue;ck; e&sr; ist grad&2019; umgekehrt. Der
+Strom geht mitten in unsern Weg. Seht Euch
+nur um, wie Alle&sr; &ue;bergetreten ist.</p>
+<pb="149"/>
+<p>In der That wogte und rauschte der ganze
+Thalgrund von pl&oe;tzlich emp&oe;rten, sichtbar stei
+genden, Wellen. Da&sr; ist der K&ue;hleborn, der
+b&oe;se Wassernix, der un&sr; ers&ae;ufen will! rief der
+Ritter. Weiﬂt Du kein Spr&ue;chlein wider ihn,
+Gesell? &2014; Ich w&ue;ﬂte wohl Ein&sr;, sagte der
+Fuhrmann, aber ich kann und mag e&sr; nicht
+eher brauchen, al&sr; bi&sr; Ihr wiﬂt, wer Ich bin. &2014;
+Ist e&sr; hier Zeit zu R&ae;thseln? schrie der Ritter.
+Die Fluth steigt immer h&oe;her, und wa&sr; geht
+e&sr; mich an, zu wissen, wer Du bist? &2014; E&sr;
+geht Euch aber doch wa&sr; an, sagte der Fuhr-
+mann, denn ich bin K&ue;hleborn. Damit lachte er,
+verzerrten Antlitze&sr;, zum Wagen herein, aber
+der Wagen blieb nicht Wagen mehr, die Schim-
+mel nicht Schimmel; Alle&sr; versch&ae;umte, ver-
+rann in zischenden Wogen, und selbst der Fuhr-
+mann b&ae;umte sich al&sr; eine riesige Welle empor,
+riﬂ den vergeblich arbeitenden Hengst unter die
+Gew&ae;sser hinab, und wuch&sr; dann wieder, und
+wuch&sr; &ue;ber den H&ae;uptern de&sr; schwimmenden
+Paare&sr;, wir zu einem feuchten Thurme an,
+und wollte sie eben rettung&sr;lo&sr; begraben. &2014;</p>
+<pb="150"/>
+<p>Da scholl Undinen&sr; anmuthige Stimme
+durch da&sr; Get&oe;se hin, der Mond trat au&sr; den
+Wolken, und mit ihm ward Undine auf den
+H&oe;hen de&sr; Thalgrunde&sr; sichtbar. Sie schalt,
+sie drohte in die Fluthen hinab, die drohende
+Thurme&sr;woge verschwand murrend und mur-
+melnd, leise rannen die Wasser im Mondglanze
+dahin, und wie eine weiﬂe Taube sah man Un-
+dinen von der H&oe;he hinab tauchen, den Ritter
+und Bertalden erfassen, und mit sich nach einem
+frischen, gr&ue;nen Rasenfleck auf der H&oe;he empor
+heben, wo sie mit au&sr;gesuchten Labungen Ohn-
+macht und Schrecken vertrieb; dann half sie
+Bertalden zu dem weiﬂen Zelter, der sie selbst
+hergetragen hatte, hinaufheben, und so gelangten
+alle Dreie nach Burg Ringstetten zur&ue;ck.</p>
+<hr>
+<pb="151"/>
+<hr>
+<d2><g><b>Funszehnte&sr; Kapitel.</b>
+Die Reise nach Wien</g>.</d2>
+<hr>
+<p><in>E</in>&sr; lebte sich seit der letztern Begebenheit still
+und ruhig auf dem Schloﬂ. Der Ritter er-
+kannte mehr und mehr seiner Frauen himmlische
+G&ue;te, die sich durch ihr Nacheilen und Retten
+im Schwarzthale, wo K&ue;hleborn&sr; Gewalt wie-
+der anging, so herrlich offenbart hatte; Undine
+selbst empfand den Frieden und die Sicherheit,
+deren ein Gem&ue;th nie ermangelt, so lange e&sr;
+mit Besonnenheit f&ue;hlt, daﬂ e&sr; auf dem rechten
+Wege sei, und zudem gingen ihr in der neu er-
+wachenden Liebe und Achtung ihre&sr; Ehemanne&sr;
+vielfache Schimmer der Hoffnung und Freude
+auf. Bertalda hingegen zeigte sich dankbar, de-
+m&ue;thig und scheu, ohne daﬂ sie wieder diese
+<pb="152"/>
+Aeusserungen al&sr; etwa&sr; Verdienstliche&sr; ange-
+schlagen h&ae;tte. So oft ihr Eine&sr; der Eheleute
+&ue;ber die Verdeckung de&sr; Brunnen&sr;, oder &ue;ber
+die Abentheuer im Schwarzthale, irgend etwa&sr;
+Erkl&ae;rende&sr; sagen wollte, bat sie inbr&ue;nstig,
+man m&oe;ge sie damit verschonen, weil sie wegen
+de&sr; Brunnen&sr; allzuviele Besch&ae;mung, und we-
+gen de&sr; Schwarzthale&sr;, allzuviele Schrecken emp-
+finde. Sie erfuhr daher auch von Beiden wei-
+ter nicht&sr;; und wozu schien e&sr; auch n&oe;thig zu
+sein? Der Friede und die Freude hatten ja
+ihren sichtbaren Wohnsitz in Burg Ringstetten
+genommen. Man ward dar&ue;ber ganz sicher,
+und meinte, nun k&oe;nne da&sr; Leben gar nicht&sr;
+mehr tragen, al&sr; anmuthige Blumen und
+Fr&ue;chte.</p>
+<p>In so erlabenden Verh&ae;ltnissen war der
+Winter gekommen und vor&ue;ber gegangen, und
+der Fr&ue;hling sah mit seinen hellgr&ue;nen Sproﬂen
+und seinem lichtblauen Himmel zu den fr&oe;hlichen
+Menschen herein. Ihm war zu Muth, wie
+ihnen, und ihnen, wie ihm. Wa&sr; Wunder,
+<pb="153"/>
+daﬂ seine St&oe;rche und Schwalben auch in ihnen
+die Reiselust anregten! W&ae;hrend sie einmal
+nach den Donauquellen hinab lustwandelten,
+erz&ae;hlte Huldbrand von der Herrlichkeit de&sr; ed-
+len Strome&sr;, und wie er wachsend durch geseeg-
+nete L&ae;nder fliesse, wie da&sr; k&oe;stliche Wien an
+seinen Ufern emporgl&ae;nze, und er &ue;berhaupt mit
+jedem Schritte seiner Fahrt an Macht und
+Lieblichkeit gewinne. &2014; E&sr; m&ue;ﬂte herrlich sein,
+ihn so bi&sr; Wien einmal hinabzufahren! brach
+Bertalda au&sr;, aber gleich darauf in ihre jetzige
+Demuth und Bescheidenheit zur&ue;ckgesunken, schwieg
+sie err&oe;thend still. Eben die&sr; r&ue;hrte Undinen
+sehr, und im lebhaftesten Wunsch, der lieben
+Freundin eine Lust zu machen, sagte sie: wer
+hindert un&sr; denn, die Reise anzutreten? &2014;
+Bertalda h&ue;pfte vor Freuden in die H&oe;he, und
+die beiden Frauen begannen sogleich, sich die
+anmuthige Donaufahrt mit den allerhellsten Far-
+ben vor die Sinne zu rufen. Auch Huldbrand
+stimmte fr&oe;hlich darin ein; nur sagte er einmal
+besorgt Undinen in&2019;&sr; Ohr: aber weiterhin ist
+<pb="154"/>
+K&ue;hleborn wieder gewaltig? &2014; Laﬂ&2019; ihn nur
+kommen, entgegnete sie lachend; ich bin ja da-
+bei, und vor mir wagt er sich mit keinem Un-
+heil hervor. &2014; Damit war da&sr; letzte Hinder-
+niﬂ gehoben, man r&ue;stete sich zur Fahrt, und
+trat sie al&sr;bald mit frischem Muth und den
+heitersten Hoffnungen an.</p>
+<p>Wundert Euch aber nur nicht, Ihr Men-
+schen, wenn e&sr; dann immer ganz ander&sr; kommt,
+al&sr; man gemeint hat. Die t&ue;ckische Macht,
+die lauert, un&sr; zu verderben, singt ihr au&sr;er-
+korne&sr; Opfer gern mit s&ue;ﬂen Liedern und gold-
+nen M&ae;hrchen in den Schlaf. Dagegen pocht
+der rettende Himmel&sr;bote oftmal&sr; scharf und
+erschreckend an unsre Th&ue;r.</p>
+<p>Sie waren die ersten Tage ihrer Donau-
+fahrt hindurch auﬂerordentlich vergn&ue;gt gewe-
+sen. E&sr; ward auch Alle&sr; immer besser und
+sch&oe;ner, so wie sie den stolzer fluthenden Strom
+weiter hinunterschifften. Aber in einer sonst
+h&oe;chst anmuthigen Gegend, von deren erfreuli-
+chem Anblick sie sich die beste Freude versprochen
+<pb="155"/>
+hatten, sing der ungeb&ae;ndigte K&ue;hleborn ganz
+unverholen an, seine hier eingreifende Macht
+zu zeigen. E&sr; blieben zwar blo&sr; Neckereien,
+weil Undine oftmal&sr; in die emp&oe;rten Wellen
+oder in die hemmenden Winde hineinschalt, und
+sich dann die Gewalt de&sr; Feindseeligen augen-
+blicklich in Demuth ergab; aber wieder kamen
+die Angriffe, und wieder brauchte e&sr; der Mah-
+nung Undinen&sr;, so daﬂ die Lustigkeit der kleinen
+Reisegesellschaft eine g&ae;nzliche St&oe;rung erlitt.
+Dabei zischelten sich noch immer die F&ae;hrleute
+zagend in die Ohren, und sahen mi&sr;trauisch
+auf die drei Herrschaften, deren Diener selbsten
+mehr und mehr etwa&sr; Unheimliche&sr; zu ahnen
+begannen, und ihre Gebieter mit seltsamen
+Blicken verfolgten. Huldbrand sagte &oe;fter&sr; bei
+sich im stillen Gem&ue;the: da&sr; kommt davon,
+wenn Gleich sich nicht zu Gleich gesellt, wenn
+Mensch und Meerfr&ae;ulein ein wunderliche&sr;
+B&ue;ndniﬂ schlieﬂen. &2014; Sich entschuldigend, wie
+wir e&sr; denn &ue;berhanpt lieben, dachte er freilich
+oftmal&sr; dabei: ich hab&2019; e&sr; ja nicht gewuﬂt, daﬂ
+<pb="156"/>
+sie ein Meerfr&ae;ulein war. Mein ist da&sr; Un-
+heil, da&sr; jeden meiner Schritte durch der tollen
+Verwandtschaft Grillen bannt und st&oe;rt, aber
+mein ist nicht die Schuld. &2014; Durch solcherlei
+Gedanken f&ue;hlte er sich einigermaaﬂen gest&ae;rkt,
+aber dagegen ward er immer verdrieﬂlicher, ja
+feindseeliger, wider Undinen gestimmt. Er sah
+sie schon mit m&ue;rrischen Blicken an, und die
+arme Frau verstand deren Bedeutung wohl.
+Dadurch, und durch die best&ae;ndige Anstrengung
+wider K&ue;hleborn&sr; Listen ersch&oe;pft, sank sie ge-
+gen Abend, von der sanftgleitenden Barke ange-
+nehm gewiegt, in einen tiefen Schlaf.</p>
+<p>Kaum aber, daﬂ sie die Augen geschlossen
+hatte, so w&ae;hnte Jedermann im Schiffe, nach
+der Seite, wo er grade hinau&sr;sah, ein ganz
+abscheuliche&sr; Menschenhaupt zu erblicken, da&sr;
+sich au&sr; den Wellen emporhob, nicht wie da&sr;
+eine&sr; Schwimmenden, sondern ganz senkrecht,
+wie auf den Wasserspiegel grade eingepf&ae;hlt,
+aber mitschwimmend, so wie die Barke schwamm.
+Jeder wollte dem Andern zeigen, wa&sr; ihn
+<pb="157"/>
+erschreckte, und Jeder fand zwar auf de&sr; An-
+dern Gesicht da&sr; gleiche Entsetzen, Hand und
+Auge aber nach einer andern Richtung hinzei-
+gend, al&sr; wo ihm selbst da&sr; halb lachende, halb
+dr&ae;uende, Scheusal vor Augen stand. Wie sie
+sich nun aber einander dar&ue;ber verst&ae;ndigen
+wollten, und Alle&sr; rief: sieh dorthin, nein dort-
+hin! &2014; da wurden Jedwedem die Gr&ae;uel-
+bilder Aller sichtbar, und die ganze Fluth um
+da&sr; Schiff her wimmelte von den entsetzlichsten
+Gestalten. Von dem Geschrei, da&sr; sich dar&ue;-
+ber erhob, erwachte Undine. Vor ihren aufge-
+henden Augenlichtern verschwand der miﬂgeschaff-
+nen Gesichter tolle Schaar. Aber Huldbrand
+war emp&oe;rt &ue;ber so viele h&ae;ﬂliche Gaukeleien.
+Er w&ae;re in wilde Verw&ue;nschungen au&sr;gebrochen,
+nur daﬂ Undine mit den dem&ue;thigsten Blicken,
+und ganz leise bittend, sagte: um Gott, mein
+Eheherr, wir sind auf den Fluthen; z&ue;rne jetzt
+nicht auf mich. &2014; Der Ritter schwieg, setz-
+te sich, und versank in ein tiefe&sr; Nachdenken.
+Undine sagte ihm in&2019;&sr; Ohr: w&ae;r&2019; e&sr; nicht besser,
+<pb="158"/>
+mein Liebling, wir lieﬂen die th&oe;richte Reise,
+und kehrten nach Burg Ringstetten in Frieden
+zur&ue;ck? &2014; Aber Huldbrand murmelte feind-
+seelig: also ein Gefangner soll ich sein auf mei-
+ner eignen Burg? Und athmen nur k&oe;nnen,
+so lange der Brunnen zu ist? So wollt&2019; ich,
+daﬂ die tolle Verwandtschaft. &2014; Da dr&ue;ckte
+Undine schmeichelnd ihre sch&oe;ne Hand auf seine
+Lippen. Er schwieg auch, und hielt sich still, so
+Manche&sr;, wa&sr; ihm Undine fr&ue;her gesagt hatte,
+erw&ae;gend.</p>
+<p>Indessen hatte Bertalda sich allerhand selt-
+sam umschweifenden Gedanken &ue;berlassen. Sie
+wuﬂte Viele&sr; von Undinen&sr; Herkommen und
+doch nicht Alle&sr;, und vorz&ue;glich war ihr der
+furchtbare K&ue;hleborn ein schreckliche&sr;, aber noch
+immer ganz dunkle&sr;, R&ae;thsel geblieben; so daﬂ
+sie nicht einmal seinen Namen ja vernommen
+hatte. Ueber alle diese wunderlichen Dinge nach-
+sinnend, kn&ue;pfte sie, ohne sich dessen recht bewuﬂt
+zu werden, ein goldne&sr; Hal&sr;band lo&sr;, welche&sr;
+ihr Huldbrand auf einer der letzten Tagereisen
+<pb="159"/>
+von einem herumziehenden Handel&sr;mann gekauft
+hatte, und lieﬂ e&sr; dicht &ue;ber der Oberfl&ae;che de&sr;
+Fluﬂe&sr; spielen, sich halb tr&ae;umend an dem lich-
+ten Schimmer erg&oe;tzend, den e&sr; in die abend-
+hellen Gew&ae;sser warf. Da griff pl&oe;tzlich eine
+groﬂe Hand au&sr; der Donau herauf, erfaﬂte da&sr;
+Hal&sr;band, und fuhr damit unter die Fluthen.
+Bertalda schrie laut auf, und ein h&oe;hnische&sr;
+Gel&ae;chter schallte au&sr; den Tiefen de&sr; Strome&sr;
+drein. Nun hielt sich de&sr; Ritter&sr; Zorn nicht
+l&ae;nger. Aufspringend schalt er in die Gew&ae;sser
+hinein, verw&ue;nschte Alle, die sich in seine Ver-
+wandtschaft und sein Leben dr&ae;ngen wollten,
+und forderte sie auf, Nix oder Syrene, sich vor
+sein blanke&sr; Schwerdt zu stellen. Bertalda
+weinte indeﬂ um den verlornen, ihr so innig
+lieben, Schmuck, und goﬂ mit ihren Thr&ae;nen
+Oel in de&sr; Ritter&sr; Zorn, w&ae;hrend Undine ihre
+Hand &ue;ber den Schiffe&sr;bord in die Wellen ge-
+taucht hielt, in einem fort sacht vor sich hin
+murmelnd, und nur manchmal ihr seltsam heim-
+liche&sr; Gefl&ue;ster unterbrechend, indem sie bittend
+<pb="160"/>
+zu ihrem Ehherrn sprach: mein Herzlichlieber,
+hier schilt mich nicht. Schilt Alle&sr;, wa&sr; Du
+willst, aber hier mich nicht. Du weiﬂt ja! &2014;
+Und wirklich enthielt sich seine vor Zorn stam-
+melnde Zunge noch jede&sr; Worte&sr; unmittelbar
+wider sie. Da brachte sie mit der feuchten
+Hand, die sie unter den Wogen gehalten hatte,
+ein wundersch&oe;ne&sr; Korallenhal&sr;band hervor, so
+herrlich blitzend, daﬂ Allen davon die Augen
+fast geblendet wurden. Nimm hin, sagte sie,
+e&sr; Bertalden freundlich hinhaltend; da&sr; hab&2019;
+ich Dir zum Ersatz bringen lassen, und sei nicht
+weiter betr&ue;bt, Du arme&sr; Kind. &2014; Aber der
+Ritter sprang dazwischen. Er riﬂ den sch&oe;nen
+Schmuck Undinen au&sr; der Hand, schleuderte
+ihn wieder in den Fluﬂ, und schrie wuthent-
+brannt: so hast Du denn immer Verbindung
+mit ihnen? Bleib bei ihnen in aller Hexen
+Namen mit all&2019; Deinen Geschenken, und laﬂ&2019;
+un&sr; Menschen zufrieden, Gauklerin Du! &2014;
+Starren aber thr&ae;nenstr&oe;menden Blicke&sr; sah ihn
+<cw>die</cw>
+<pb="161"/>
+die arme Undine an, noch immer die Hand
+au&sr;gestreckt, mit welcher sie Bertalden ihr h&ue;b-
+sche&sr; Geschenk so freundlich hatte hinreichen
+wollen. Dann fing sie immer herzlicher an,
+zu weinen, wie ein recht unverschuldet und recht
+bitterlich gekr&ae;nkte&sr; liebe&sr; Kind. Endlich sagte
+sie ganz matt: ach, holder Freund, ach lebe
+wohl! Sie sollen Dir nicht&sr; thun; nur bleibe
+treu, daﬂ ich sie Dir abwehren kann. Ach,
+aber fort muﬂ ich, muﬂ fort auf diese ganze
+junge Leben&sr;zeit. O weh, o weh, wa&sr; hast Du
+angerichtet! O weh, o weh!</p>
+<p>Und &ue;ber den Rand der Barke schwand
+sie hinau&sr;. &2014; Stieg sie hin&ue;ber in die Fluth,
+verstr&oe;mte sie darin, man wuﬂt&2019; e&sr; nicht; e&sr;
+war wie Beide&sr; und wie Kein&sr;. Bald aber
+war sie in die Donau ganz verronnen; nur
+fl&ue;sterten noch kleine Wellchen schluchzend um
+den Kahn, und fast vernehmlich war&2019;&sr;, al&sr;
+spr&ae;chen sie: o weh, o weh! Ach bleibe treu!
+O weh! &2014;</p>
+<bs>L</bs>
+<pb="162"/>
+<p>Huldbrand aber lag in heiﬂen Thr&ae;nen
+auf dem Verdecke de&sr; Schiffe&sr;, und eine tiefe
+Ohnmacht h&ue;llte den Ungl&ue;cklichen bald in ihre
+mildernden Schleier ein.</p>
+<hr>
+<pb="163"/>
+<hr>
+<d2><g><b>Sechzehnte&sr; Kapitel.</b>
+Von Huldbrand&sr; f&ue;rderm Ergehn</g>.</d2>
+<hr>
+<p><in>S</in>oll man sagen, leider! oder zum Gl&ue;ck! daﬂ
+e&sr; mit unsrer Trauer keinen rechten Bestand
+hat? Ich meine, mit unsrer so recht tiefen und
+au&sr; dem Borne de&sr; Leben&sr; sch&oe;pfenden Trauer,
+die mit dem verlornen Geliebten so Eine&sr; wird,
+daﬂ er ihr nicht mehr verloren ist, und sie ein
+geweihte&sr; Priesterthum an seinem Bilde durch
+da&sr; ganze Leben durchf&ue;hren will, bi&sr; die Schranke,
+die ihm gefallen ist, auch un&sr; zerf&ae;llt! Freilich
+bleiben wohl gute Menschen wirklich solche Prie-
+ster, aber e&sr; ist doch nicht die erste, rechte Trau-
+er mehr. Andre, fremdartige Bilder haben sich
+dazwischen gedr&ae;ngt, wir erfahren endlich die
+Verg&ae;nglichkeit aller irdischen Dinge sogar an
+<bs>L 2</bs>
+<pb="164"/>
+unserm Schmerz, und so muﬂ ich denn sagen:
+leider, daﬂ e&sr; mit unsrer Trauer keinen rechten
+Bestand hat!</p>
+<p>Der Herr von Ringstetten erfuhr da&sr; auch;
+ob zu seinem Heile, werden wir im Verfolg
+dieser Geschichte h&oe;ren. Anf&ae;nglich konnte er
+nicht&sr;, al&sr; immer recht bitterlich weinen, wie die
+arme, freundliche Undine geweint hatte, al&sr; er
+ihr den blanken Schmuck au&sr; der Hand riﬂ,
+mit dem sie Alle&sr; so sch&oe;n und gut machen
+wollte. Und dann streckte er die Hand au&sr;,
+wie sie e&sr; gethan hatte, und weinte immer wie-
+der von neuem, wie sie. Er hegte die heim-
+liche Hoffnung, endlich auch ganz in Thr&ae;nen
+zu verrinnen, und ist nicht selbst Manchem von
+un&sr; Andern in groﬂem Leide der &ae;hnliche Ge-
+danke mit schmerzender Lust durch den Sinn
+gezogen? Bertalda weinte mit, und sie lebten
+lange ganz still bei einander auf Burg Ring-
+stetten, Undinen&sr; Andenken feiernd, und der
+ehemaligen Neigung fast g&ae;nzlich vergessen ha-
+bend. Daf&ue;r kam auch um diese Zeit oftmal&sr;
+<pb="165"/>
+die gute Undine zu Huldbrand&sr; Tr&ae;umen; sie
+streichelte ihn sanft und freundlich, und ging
+dann stillweinend wieder fort, so daﬂ er im Er-
+wachen oftmal&sr; nicht recht wuﬂte, wovon seine
+Wangen so naﬂ waren: kam e&sr; von ihren
+oder blo&sr; von seinen Thr&ae;nen?</p>
+<p>Die Traumgesichte wurden aber mit der
+Zeit seltner, der Gram de&sr; Ritter&sr; matter, und
+dennoch h&ae;tte er vielleicht nie in seinem Leben
+einen andern Wunsch gehegt, al&sr; so stille fort
+Undinen&sr; zu gedenken, und von ihr zu sprechen,
+w&ae;re nicht der alte Fischer unvermuthet auf dem
+Schloﬂ erschienen, und h&ae;tte Bertalden nun
+alle&sr; Ernste&sr; al&sr; sein Kind zur&ue;cke geheischt.
+Undinen&sr; Verschwinden war ihm kund gewor-
+den, und er wollte e&sr; nicht l&ae;nger zugeben, daﬂ
+Bertalda bei dem unverehlichten Herrn auf der
+Burg verweile. &2014; Denn, ob meine Tochter
+mich lieb hat, oder nicht, sprach er, will ich jetzt
+gar nicht wissen, aber die Ehrbarkeit ist im
+Spiel, und wo die spricht, hat nicht&sr; Andre&sr;
+mehr mit zu reden.</p>
+<pb="166"/>
+<p>Diese Gesinnung de&sr; alten Fischer&sr;, und
+die Einsamkeit, die den Ritter au&sr; allen S&ae;len
+und G&ae;ngen der ver&oe;deten Burg schauerlich
+nach Bertalden&sr; Abreise zu erfassen drohte,
+brachten zum Au&sr;bruch, wa&sr; fr&ue;her entschlum-
+mert und in dem Gram &ue;ber Undinen ganz ver-
+gessen war: die Neigung Huldbrand&sr; f&ue;r die
+sch&oe;ne Bertalda. Der Fischer hatte viele&sr; gegen
+die vorgeschlagne Heirath einzuwenden. Undine
+war dem alten Manne sehr lieb gewesen, und
+er meinte, man wisse ja noch kaum, ob die
+liebe Verschwundne recht eigentlich todt sei.
+Liege aber ihr Leichnam wirklich starr und kalt
+auf dem Grunde der Donau, oder treibe mit
+den Fluthen in&2019;&sr; Weltmeer hinau&sr;, so habe
+Bertalda an ihrem Tode mit Schuld, und nicht
+gezieme e&sr; ihr, an den Platz der armen Ver-
+dr&ae;ngten zu treten. Aber auch den Ritter hatte
+der Fischer sehr lieb; die Bitten der Tochter,
+die um viele&sr; sanfter und ergebner geworden
+war, wie auch ihre Thr&ae;nen um Undinen kamen
+dazu, und er muﬂte wohl endlich seine Einwilli-
+<pb="167"/>
+gung gegeben haben, denn er blieb ohne Wider-
+rede auf der Burg, und ein Eilbote ward abge-
+sandt, den Pater Heilmann, der in fr&ue;hern
+gl&ue;cklichen Tagen Undinen und Huldbranden
+eingeseegnet hatte, zur zweiten Trauung de&sr;
+Ritter&sr; nach dem Schlosse zu holen.</p>
+<p>Der fromme Mann aber hatte kaum den
+Brief de&sr; Herrn von Ringstetten durchlesen, so
+machte er sich in noch viel gr&oe;ﬂerer Eile nach
+dem Schlosse auf den Weg, al&sr; der Bote von
+dorten zu ihm gekommen war. Wenn ihm auf
+dem schnellen Gange der Othem fehlte, oder die
+alten Glieder schmerzten vor M&ue;digkeit, pflegte
+er zu sich selber zu sagen: vielleicht ist noch Un-
+recht zu hindern; sinke nicht eher, al&sr; am Ziele,
+du verdorrter Leib! &2014; Und mit erneuter
+Kraft riﬂ er sich al&sr;dann auf, und wallte und
+wallte, ohne Rast und Ruh, bi&sr; er eine&sr; Abend&sr;
+sp&ae;t in den belaubten Hof der Burg Ringstetten
+eintrat.</p>
+<p>Die Brautleute saﬂen Arm in Arm unter
+den B&ae;umen, der alte Fischer nachdenklich neben
+<pb="168"/>
+ihnen. Kaum nun, daﬂ sie den Pater Heilmann
+erkannten, so sprangen sie auf, und dr&ae;ngten
+sich bewillkommend um ihn her. Aber er, ohne
+viele Worte zu machen, wollte den Br&ae;utigam
+mit sich in die Burg ziehn; al&sr; indessen dieser
+staunte, und z&oe;gerte, den ernsten Winken zu ge-
+horchen, sagte der fromme Geistliche: wa&sr; halte
+ich mich denn lange dabei auf, Euch in Geheim
+sprechen zu wollen, Herr von Ringstetten? Wa&sr;
+ich zu sagen habe, geht Bertalden und den Fi-
+scher eben so gut mit an, und wa&sr; einer doch
+irgend einmal h&oe;ren muﬂ, mag er lieber gleich
+so bald h&oe;ren, al&sr; e&sr; nur m&oe;glich ist. Seid Ihr
+denn so gar gewiﬂ, Ritter Huldbrand, daﬂ
+Eure erste Gattin wirklich gestorben ist? Mir
+kommt e&sr; kaum so vor. Ich will zwar weiter
+nicht&sr; dar&ue;ber sprechen, welch&2019; eine wundersame
+Bewandniﬂ e&sr; mit ihr gehabt haben mag, weiﬂ
+auch davon nicht&sr; gewisse&sr;. Aber ein fromme&sr;,
+vielgetreue&sr; Weib war sie, soviel ist auﬂer allem
+Zweifel. Und seit vierzehn N&ae;chten hat sie in
+Tr&ae;umen an meinem Bette gestanden, &ae;ngstlich
+<pb="169"/>
+die zarten H&ae;ndlein ringend, und in einem fort
+seufzend: ach hindr&2019; ihn, lieber Vater! Ich lebe
+noch! Ach, rett&2019; ihm den Leib! Ach rett&2019; ihm
+die Seele! &2014; Ich verstand nicht, wa&sr; da&sr;
+Nachtgesicht haben wollte; da kam Euer Bote,
+und nun eilt&2019; ich hierher, nicht zu trauen, wohl
+aber zu trennen, wa&sr; nicht zusammengeh&oe;ren
+darf. Laﬂ&2019; von ihr, Huldbrand! Laﬂ&2019; von ihm
+Bertalda! Er geh&oe;rt noch einer Andern, und
+siehst Du nicht den Gram um die verschwundne
+Gattin auf seinen bleichen Wangen? So sieht
+kein Br&ae;utigam au&sr;, und der Geist sagt e&sr; mir:
+ob Du ihn auch nicht l&ae;ﬂest, doch nimmer wirst
+Du sein froh.</p>
+<p>Die Dreie empfanden im innersten Herzen,
+daﬂ der Pater Heilmann die Wahrheit sprach,
+aber sie wollten e&sr; nun einmal nicht glauben.
+Selbst der alte Fischer war nun bereit&sr; so be-
+th&oe;rt, daﬂ er meinte, ander&sr; k&oe;nne e&sr; gar nicht
+kommen, al&sr; sie e&sr; in diesen Tagen ja schon
+oft mit einander besprochen h&ae;tten. Daher strit-
+ten sie denn Alle mit einer wilden, tr&ue;ben Hast
+<pb="170"/>
+gegen de&sr; Geistlichen Warnungen, bi&sr; dieser sich
+endlich kopfsch&ue;ttelnd und traurig au&sr; der Burg
+entfernte, ohne die dargebotne Herberge auch
+nur f&ue;r diese Nacht annehmen zu wollen, oder
+irgend eine der herbeigeholten Labungen zu ge-
+nieﬂen. Huldbrand aber &ue;berredete sich, der
+Geistliche sei ein Grillenf&ae;nger, und sandte mit
+Tage&sr;anbruch nach einem Pater au&sr; dem n&ae;ch-
+sten Kloster, der auch ohne Weigerung verhieﬂ;
+die Einseegnung in wenigen Tagen zu vollzie-
+hen.</p>
+<hr>
+<pb="171"/>
+<hr>
+<d2><g><b>Siebenzehnte&sr; Kapitel.</b>
+De&sr; Ritter&sr; Traum</g>.</d2>
+<hr>
+<p><in>E</in>&sr; war zwischen Morgend&ae;mmrung und Nacht,
+da lag der Ritter halb wachend, halb schlafend,
+auf seinem Lager. Wenn er vollend&sr; einschlum-
+mern wollte, war e&sr;, al&sr; st&ae;nde ihm ein Schre-
+cken entgegen, und scheuchte ihn zur&ue;ck, weil e&sr;
+Gespenster g&ae;be im Schlaf. Dachte er aber
+sich alle&sr; Ernste&sr; zu ermuntern, so wehte e&sr; um
+ihn her, wie mit Schwanenfittigen, und mit
+schmeichelndem Wogenklang, davon er allemal
+wieder in den zweifelhaften Zustand angenehm
+beth&oe;rt zur&ue;cke taumelte. Endlich aber mochte
+er doch wohl ganz entschlafen sein, denn e&sr; kam
+ihm vor, al&sr; ergrreife ihn da&sr; Schwanenges&ae;usel
+auf ordentlichen Fittigen, und trage ihm weit
+<pb="172"/>
+fort &ue;ber Land und See, und singe immer auf&2019;&sr;
+anmuthigste dazu. &2014; Schwanenklang! Schwa-
+uensang! muﬂte er immer fort zu sich selbst
+sagen; da&sr; bedeutet ja wohl den Tod? &2014; Aber
+e&sr; hatte vermuthlich noch eine andre Bedeutung.
+Ihm ward nehmlich auf einmal, al&sr; schwebe er
+&ue;ber dem Mittell&ae;ndischen Meer. Ein Schwan
+sang ihm gar t&oe;nend in die Ohren, die&sr; sei da&sr;
+Mittell&ae;ndische Meer. Und w&ae;hrend er in die
+Fluthen hinunter sah, wurden sie zu lauterm
+Kristalle, daﬂ er hinein schauen konnte bi&sr; auf
+den Grund. Er freute sich sehr dar&ue;ber, denn
+er konnte Undinen sehn, wie sie unter den hel-
+len Kristallgew&oe;lben saﬂ Freilich weinte sie sehr,
+und sahe viel betr&ue;bter au&sr;, al&sr; in den gl&ue;ck-
+lichen Zeiten, die sie auf Burg Ringstetten mit
+einander verlebt hatten, vorz&ue;glich zu Anfang,
+und auch nachher, kurz ehe sie die unseelige Do-
+naufahrt begannen. Der Ritter muﬂte an alle
+da&sr; sehr au&sr;f&ue;hrlich und innig denken, aber e&sr;
+schien nicht, al&sr; werde Undine seiner gewahr.
+Indessen war K&ue;hleborn zu ihr getreten, und
+<pb="173"/>
+wollte sie &ue;ber ihr Weinen au&sr;schelten. Da nahm
+sie sich zusammen, und sah ihn vornehm und
+gebietend an, daﬂ er fast davor erschrack. Wenn
+ich hier auch unter den Wassern wohne, sagte
+sie, so hab&2019; ich doch meine Seele mit herunter
+gebracht. Und darum darf ich wohl weinen,
+wenn Du auch gar nicht errathen kannst, wa&sr;
+solche Thr&ae;nen sind. Auch die sind seelig, wie
+alle&sr; seelig ist, dem, in welchem treue Seele
+lebt. &2014; Er sch&ue;ttelte ungl&ae;ubig mit dem Kopse,
+und sagte nach einigem Besinnen: und doch,
+Nichte, seid Ihr unsere Elementar-Gesetzen un-
+terworfen, und doch m&ue;ﬂt Ihr ihn richtend um&2019;&sr;
+Leben bringen, dafern er sich wieder verehlicht,
+und Euch untreu wird. &2014; Er ist noch bi&sr; diese
+Stunde ein Wittwer, sagte Undine, und hat
+mich au&sr; traurigem Herzen lieb. &2014; Zugleich
+ist er aber auch ein Br&ae;utigam, lachte K&ue;hle-
+born h&oe;hnisch, und laﬂt nur erst ein paar Tage
+hingehn, dann ist die priesterliche Einseegnung
+erfolgt, und dann m&ue;ﬂt Ihr doch zu de&sr; Zwei-
+weibrigen Tode hinauf. &2014; Ich kam ja nicht,
+<pb="174"/>
+l&ae;chelte Undine zur&ue;ck. Ich habe ja de Brun-
+nen versiegelt, f&ue;r mich und meine&sr; Gleichen
+fest. &2014; Aber wenn er von seiner Burg geht,
+sagte K&ue;hleborn, oder wenn er einmal den Brun-
+nen wieder &oe;ffnen l&ae;ﬂt! Denn er denkt gewiﬂ
+blutwenig an alle diese Dinge. &2014; Eben de&sr;-
+halb, sprach Undine, und l&ae;chelte noch immer
+unter ihren Thr&ae;nen, eben de&sr;halb schwebt er
+jetzt eben im Geiste &ue;ber dem Mittelmeer, und
+tr&ae;umt zur Warnung die&sr; unser Gespr&ae;ch. Ich
+hab&2019; e&sr; wohlbed&ae;chtlich so eingerichtet. &2014; Da
+sah K&ue;hleborn ingrimmig zu dem Ritter hinauf,
+dr&ae;uete, stampfte mit den F&ue;ssen, und schoﬂ
+gleich darauf pfeilschnell unter den Wellen fort.
+E&sr; war, al&sr; schwelle er vor Bo&sr;heit zu einem
+Wallfisch auf. Die Schw&ae;ne begannen wieder
+zu t&oe;nen, zu f&ae;cheln, zu fliegen; dem Ritter
+war e&sr;, al&sr; schwebe er &ue;ber Alpen und Str&oe;me
+hin, schwebe endlich zur Burg Ringstetten herein,
+und erwache auf seinem Lager.</p>
+<p>Wirklich erwachte er auf seinem Lager, und
+eben trat sein Knappe herein, und berichtete ihm,
+<pb="175"/>
+der Pater Heilmann weile noch immer hier in
+der Gegend; er habe ihn Gestern zu Nacht im
+Forste getroffen, unter einer H&ue;tte, die er sich
+von B&ae;um&ae;sten zusammengebogen habe und mit
+Moo&sr; und Reisig belegt. Auf die Frage; wa&sr;
+er denn hier mache? denn einseegnen wolle er
+ja doch nicht! sei die Antwort gewesen: e&sr; giebt
+noch andre Einseegnungen, al&sr; die am Traual-
+tar, und ich bin nicht zur Hochzeit gekommen, so
+kann e&sr; ja doch zu einer ander Feier gewesen
+sein. Man muﬂ Alle&sr; abwarten. Zudem ist
+ja Trauen und Trauern gar nicht so weit au&sr;-
+einander, und wer sich nicht muthwillig ver-
+blendet, sieht e&sr; wohl ein.</p>
+<p>Der Ritter machte sich allerhand wunder-
+liche Gedanken &ue;ber diese Worte und &ue;ber sei-
+nen Traum. Aber e&sr; h&ae;lt sehr schwer, ein Ding
+zu hintertreiben, wa&sr; sich der Mensch einmal
+al&sr; gewiﬂ in den Kopf gesetzt hat, und so blieb
+denn auch Alle&sr; beim Alten.</p>
+<hr>
+<pb="176"/>
+<hr>
+<d2><b><g>Achtzehnte&sr; Kapitel</g>.</b>
+Wie der Ritter Huldbrand Hochzeit hielt.</d2>
+<hr>
+<p><in>W</in>enn ich Euch erz&ae;hlen sollte, wie e&sr; bei der
+Hochzeitfeier auf Burg Ringstetten zuging, so
+w&ue;rde Euch zu Muthe werden, al&sr; s&ae;het Ihr
+eine Menge von blanken und erfreulichen Din-
+gen aufgeh&ae;uft, aber dr&ue;ber hin einen schwarzen
+Trauerflor gebreitet, au&sr; dessen verdunkelnder
+H&ue;lle hervor die ganze Herrlichkeit minder einer
+Lust gliche, al&sr; einem Spott &ue;ber die Nichtig-
+keit aller irdischen Freuden. E&sr; war nicht etwa,
+daﬂ irgend ein gespenstische&sr; Unwesen die festliche
+Geselligkeit verst&oe;rt h&ae;tte, denn wir wissen ja,
+daﬂ die Burg vor den Spukereien der dr&ae;uen-
+den Wassergeister eine gefreite St&ae;tte war. Aber
+e&sr; war dem Ritter und dem Fischer und allen
+<cw>G&ae;-</cw>
+<pb="177"/>
+G&ae;sten zu Muth, al&sr; fehle noch die Hauptper-
+son bei dem Feste, und al&sr; m&ue;sse diese Haupt-
+person die allgeliebte freundliche Undine sein.
+So oft eine Th&ue;r aufging, starrten Aller Augen
+unwillk&ue;rlich dahin, und wenn e&sr; dann weiter
+nicht&sr; war, al&sr; der Hau&sr;meister mit neuen Sch&ue;s-
+seln, oder der Schenk mit einem Trunk noch
+edlern Weine&sr;, blickte man wieder tr&ue;b vor sich
+hin, und die Funken, die etwa hin und her
+von Scherz und Freude aufgeblitzt waren, er-
+loschen in dem Thau wehm&ue;thigen Erinnern&sr;.
+Die Braut war von Allen die Leichtsinnigste,
+und daher auch die Vergn&ue;gteste; aber selbst ihr
+kam e&sr; bi&sr;weilen wunderlich vor, daﬂ sie in
+dem gr&ue;nen Kranze und den goldgestickten Klei-
+dern an der Oberstelle der Tafel sitze, w&ae;hrend
+Undine al&sr; Leichnam starr und kalt auf dem
+Grunde der Donau liege, oder mit den Fluthen
+forttreibe in&2019;&sr; Weltmeer hinau&sr;. Denn, seit ihr
+Vater &ae;hnliche Worte gesprochen hatte, klangen
+sie ihr immer vor den Ohren, und wollten vor-
+z&ue;glich Heute weder wanken noch weichen.</p>
+<bs>M</bs>
+<pb="178"/>
+<p>Die Gesellschaft verlor sich bei kaum ein-
+gebrochner Nacht; nicht aufgel&oe;st durch de&sr; Br&ae;u-
+tigam&sr; hoffende Ungeduld, wie sonsten Hochzeit-
+versammlungen, sondern nur ganz tr&ue;b und
+schwer au&sr;einander gedr&ue;ckt, durch freudloseSchwer-
+muth und Unheil k&ue;ndende Ahnungen. Ber-
+talda ging mit ihren Frauen, der Ritter mit
+seinen Dienern, sich au&sr;zukleiden: von dem scher-
+zend fr&oe;hlichen Geleit der Jungfrauen und Jung-
+gesellen bei Braut und Br&ae;utigam war an die-
+sem tr&ue;ben Feste die Rede nicht.</p>
+<p>Bertalda wollte sich aufheitern; sie lieﬂ ei-
+nen pr&ae;chtigen Schmuck, den Huldbrand ihr ge-
+schenkt hatte, samt reichen Gewanden und Schlei-
+ern, vor sich au&sr;breiten, ihren morgenden Anzug
+auf&2019;&sr; Sch&oe;nste und Heiterste darau&sr; zu w&ae;hlen.
+Ihre Dienerinnen freuten sich de&sr; Anlasse&sr;,
+Viele&sr; und Fr&oe;hliche&sr; der jungen Herrin vorzu-
+sprechen, wobei sie nicht ermangelten, die Sch&oe;n-
+heit der Neuverm&ae;hlten mit den lebhaftesten
+Worten zu preisen. Man vertiefte sich mehr und
+mehr in diese Betrachtungen, bi&sr; endlich Ber-
+<pb="179"/>
+talda, in einen Spiegel blickend, seufzte: ach,
+aber seht Ihr wohl die werdenden Sommer-
+sprossen hier seitw&ae;rt&sr; am Halse? &2014; Sie sa-
+hen hin, und fanden e&sr; freilich, wie e&sr; die sch&oe;-
+ne Herrin gesagt hatte, aber ein liebliche&sr; Mahl
+nannten sie&2019;&sr;, einen kleinen Flecken, der die
+Weiﬂe der zarten Haut noch erh&oe;he. Bertalda
+sch&ue;ttelte den Kopf, und meinte, ein Makel
+bleib&2019; e&sr; doch immer. &2014; Und ich k&oe;nnt&2019; e&sr; lo&sr;
+sein, seufzte sie endlich. Aber der Schloﬂbrun-
+nen ist zu, au&sr; dem ich sonst immer da&sr; k&oe;st-
+liche, hautreinigende, Wasser sch&oe;pfen lieﬂ. Wenn
+ich doch Heut nur eine Flasche davon h&ae;tte! &2014;
+Ist e&sr; nur da&sr;? lachte eine behende Dienerin,
+und schl&ue;pfte au&sr; dem Gemach. &2014; Sie wird
+doch nicht so toll sein, fragte Bertalda wohl-
+gef&ae;llig erstaunt, noch Heut Abend den Brun-
+nenstein abw&ae;lzen zu lassen? &2014; Da h&oe;rte man
+bereit&sr;, daﬂ M&ae;nner &ue;ber den Hof gingen, und
+konnte au&sr; dem Fenster sehn, wie die gef&ae;llige
+Dienerinn sie grade auf den Brunnen lo&sr;f&ue;hrte,
+und sie Hebeb&ae;ume und andre&sr; Werkzeug auf
+<bs>M 2</bs>
+<pb="180"/>
+den Schultern trugen. &2014; E&sr; ist freilich mein
+Wille, l&ae;chelte Bertalda; wenn e&sr; nur nicht zu
+lange w&ae;hrt. &2014; Und, froh im Gef&ue;hl, daﬂ ein
+Wink von ihr jetzt verm&oe;ge, wa&sr; ihr vormal&sr;
+so schmerzhaft geweigert worden war, schaute
+sie auf die Arbeit in den mondhellen Burghof
+hinab.</p>
+<p>Die M&ae;nner hoben mit Anstrengung an
+dem groﬂen Steine; bi&sr;weilen seufzte wohl Einer
+dabei, sich erinnernd, daﬂ man hier der geliebten
+vorigen Herrin Werk zerst&oe;re. Aber die Arbeit
+ging &ue;brigen&sr; viel leichter, al&sr; man gemeint
+hatte. E&sr; war, al&sr; h&ue;lfe eine Kraft au&sr; dem
+Brunnen herau&sr;, den Stein emporbringen. &2014;
+E&sr; ist ja, sagten die Arbeiter erstaunt zueinan-
+der, al&sr; w&ae;re da&sr; Wasser drinnen zum Spring-
+borne worden. &2014; Und mehr und mehr hob
+sich der Stein, und fast ohne Beistand der Werk-
+leute rollte er langsam mit dumpfem Schallen
+auf da&sr; Pflaster hin. Aber au&sr; de&sr; Brunnen&sr;
+Oeffnung stieg e&sr; gleich einer weiﬂen Wasser-
+s&ae;ule fejerlich herauf; sie dachten erst, e&sr; w&ue;rde
+<pb="181"/>
+mit dem Springbrunnen Ernst, bi&sr; sie gewahr
+ten, daﬂ die aufsteigende Gestalt ein bleiche&sr;,
+weiﬂverschleierte&sr; Weib&sr;bild war. Da&sr; weinte
+bitterlich, da&sr; hob die H&ae;nde &ae;ngstlich ringend
+&ue;ber da&sr; Haupt, und schritt mit langsam ern-
+stem Gange nach dem Schloﬂgeb&ae;u. Au&sr;ein-
+ander stob da&sr; Burggesind vom Brunnen fort,
+bleich stand, Entsetzen&sr; starr, mit ihren Diene-
+ninnen, die Braut am Fenster. Al&sr; die Gestalt
+nun dicht unter deren Kammern hinschritt, schaute
+sie winselnd nach ihr empor, und Bertalda meinte,
+unter dem Schleier, Undinen&sr; bleiche Gesicht&sr;-
+z&ue;ge zu erkennen. Vor&ue;ber aber zog die Jam-
+mernde, schwer, gezwungen, z&oe;gernd, wie zum
+Hochgericht. Bertalda schrie, man solle den Rit-
+ter rufen; e&sr; wagte sich keine der Zofen au&sr;
+der Stelle, und auch die Braut selber ver-
+stummte wieder, wie vor ihrem eignen Laut er-
+bebend.</p>
+<p>W&ae;hrend Jene noch immer bang&2019; am Fen-
+ster standen, wie Bilds&ae;ulen regung&sr;lo&sr;, war die
+seltsame Wandrerin in die Burg gelangt, die
+<pb="182"/>
+wohlbekannten Treppen hinauf, die wohlbekann-
+ten Hallen durch, immer in ihren Thr&ae;nen
+still. Ach, wie so ander&sr; war sie einsten&sr; hier
+umher gewandelt! &2014;</p>
+<p>Der Ritter aber hatte seine Diener entla-
+ﬂen. Halbau&sr;gekleidet, im betr&ue;bten Sinnen,
+stand er vor einem groﬂen Spiegel; die Kerze
+brannte dunkel neben ihm. Da klopfte e&sr; an
+die Th&ue;r mit leisem, leisem, Finger. Undine
+hatte sonst wohl so geklopft, wenn sie ihn freund-
+lich necken wollte. &2014; E&sr; ist Alle&sr; nur Phan-
+tasterei! sagte er zu sich selbst. Ich muﬂ in&2019;&sr;
+Hochzeitbett. &2014; Da&sr; muﬂt Du, aber in ein
+kalte&sr;! h&oe;rte er eine weinende Stimme drau-
+ﬂen vor dem Gemache sagen, und dann sah
+er im Spiegel, wie die Th&ue;re aufging, lang-
+sam, langsam, und wie die weiﬂe Wandrerin
+hereintrat, und sittig da&sr; Schloﬂ wieder hinter
+sich zudr&ue;ckte. Sie haben den Brunnen aufge-
+macht, sagte sie leise, und nun bin ich hier, und
+nun muﬂt Du sterben. &2014; Er f&ue;hlte in seinem
+stockenden Herzen, daﬂ e&sr; auch gar nicht ander&sr;
+<pb="183"/>
+sein k&oe;nne, deckte aber die H&ae;nde &ue;ber die Au-
+gen, und sagte: mache mich nicht in meiner
+Tode&sr;stunde durch Schrecken toll. Wenn Du
+ein entsetzliche&sr; Antlitz hinter dem Schleier tr&ae;gst,
+so l&ue;fte ihn nicht, und richte mich, ohne daﬂ ich
+Dich schaue. &2014; Ach, entgegnete die Wandrerin,
+willst Du mich denn nicht noch ein einzige&sr; mal
+sehn? Ich bin sch&oe;n, wie al&sr; Du auf der See-
+spitze um mich warbst. &2014; O, wenn da&sr; w&ae;re!
+seufzte Huldbrand; und wenn ich sterben d&ue;rfte
+an einem Kusse von Dir. &2014; Recht gern, mein
+Liebling, sagte sie. Und ihre Schleier schlug
+sie zur&ue;ck, und himmlisch sch&oe;n l&ae;chelte ihr hol-
+de&sr; Antlitz darau&sr; hervor. Bebend vor Liebe
+und Tode&sr;n&ae;he neigte sich der Ritter ihr entge-
+gen, sie k&ue;ﬂte ihn mit einem himmlischen Kusse,
+aber sie lieﬂ ihn nicht mehr lo&sr;, sie dr&ue;ckte ihn
+inniger an sich, und weinte, al&sr; wolle sie ihre
+Seele fortweinen. Die Thr&ae;nen drangen in
+de&sr; Ritter&sr; Augen, und wogten im lieblichen
+Wehe durch seine Brust, bi&sr; ihm endlich der
+Athem entging, und er au&sr; den sch&oe;nen Armen
+<pb="184"/>
+al&sr; ein Leichnam sanft auf die Kissen de&sr; Ru-
+hebette&sr; zur&ue;cksank.</p>
+<p>Ich habe ihn todt geweint! sagte sie zu ei-
+nigen Dienern, die ihr im Vorzimmer begegne-
+ten, und schritt durch die Mitte der Erschreckten
+langsam nach dem Brunnen hinau&sr;.</p>
+<hr>
+<pb="185"/>
+<hr>
+<d2><b><g>Neunzehnte&sr; Kapitel</g>.</b>
+Wie der Ritter Huldbrand begraben ward.</d2>
+<hr>
+<p><in>D</in>er Pater Heilmann war auf da&sr; Schloﬂ
+gekommen, sobald de&sr; Herrn von Ringstetten
+Tod in der Gegend kund geworden war, und
+just zur selben Stunde erschien er, wo der M&oe;nch,
+welcher die ungl&ue;cklichen Verm&ae;hlten getraut hatte,
+von Schreck und Grausen &ue;berw&ae;ltiget, au&sr;
+den Thoren floh. &2014; E&sr; ist schon recht, ent-
+gegnete Heilmann, al&sr; man ihm diese&sr; ansagte:
+und nun geht mein Amt an, und ich brauche
+keine&sr; Gef&ae;hrten. &2014; Darauf begann er die
+Braut, welche zur Wittwe worden war, zu tr&oe;-
+sten, so wenig Frucht e&sr; auch in ihrem weltlich-
+lebhaften Gem&ue;the trug. Der alte Fischer hin-
+gegen fand sich, obzwar von Herzen betr&ue;bt,
+<pb="186"/>
+weit besser in da&sr; Geschick, welche&sr; Tochter und
+Schwiegersohn betroffen hatte, und w&ae;hrend
+Bertalda nicht ablassen konnte, Undinen M&oe;r-
+derin zu schelten und Zauberin, sagte der alte
+Mann gelassen: e&sr; konnte nun einmal nicht&sr;
+ander&sr; sein. Ich sehe nicht&sr; darin, al&sr; die Ge-
+richte Gotte&sr;, und e&sr; ist wohl Niemanden Huld-
+brand&sr; Tod mehr zu Herzen gegangen, al&sr; der,
+die ihn verh&ae;ngen muﬂte, der armen! verlass-
+nen Undine! &2014; Dabei half er die Begr&ae;bniﬂ-
+feier anordnen, wie e&sr; dem Range de&sr; Todten
+geziemte. Dieser sollte in einem Kirchdorfe be-
+graben werden, auf dessen Gotte&sr;acker alle Gr&ae;-
+ber seiner Ahnherrn standen, und welche&sr; sie,
+wie er selbst, mit reichlichen Freiheiten und Ga-
+ben geehrt hatten. Schild und Helm lagen
+bereit&sr; auf dem Sarge, um mit in die Gruft
+versenkt zu werden, denn Herr Huldbrand von
+Ringstetten war al&sr; der letzte seine&sr; Stamme&sr; ver-
+storben; die Trauerleute begannen ihren schmerz-
+vollen Zug, Klagelieder in da&sr; heiter stille Him-
+melblau hinaufsingend, Heilmann schritt mit
+<pb="187"/>
+einem hohen Crucifix voran, und die trostlose
+Bertalda folgte, auf ihren alten Vater gest&ue;tzt. &2014;
+Da nahm man pl&oe;tzlich in Mitten der schwar-
+zen Klagefrauen in der Wittib Gefolge eine schnee-
+weisse Gestalt wahr, tiefverschleiert, und die ihre
+H&ae;nde inbr&ue;nstig jammernd empor wand. Die,
+neben welchen sie ging, kam ein heimliche&sr; Grauen
+an, sie wichen zur&ue;ck oder seitw&ae;rt&sr;, durch ihre
+Bewegung, die Andern, neben die nun die weisse
+Fremde zu gehen kam, noch sorglicher erschre-
+ckend, so daﬂ schier darob eine Unordnung unter
+dem Trauergefolge zu entstehen begann. E&sr;
+waren einige Krieg&sr;leute so dreist, die Gestalt
+anreden, und au&sr; dem Zuge fortweisen zu wol-
+len, aber denen war sie wie unter den H&ae;nden
+fort, und ward dennoch gleich wieder mit lang-
+sam feierlichem Schritte unter dem Leichenge-
+folge mitziehend gesehn. Zuletzt kam sie w&ae;h-
+rend de&sr; best&ae;ndigen Au&sr;weichen&sr; der Dienerin-
+nen bi&sr; dicht hinter Bertalda. Nun hielt sie
+sich h&oe;chst langsam in ihrem Gange, so daﬂ die
+Wittib ihrer nicht gewahr ward, und sie sehr
+<pb="188"/>
+dem&ue;thig und sittig hinter dieser ungest&oe;rt fort-
+wandelte.</p>
+<p>Da&sr; w&ae;hrte, bi&sr; man auf den Kirchhof
+kam, und der Leichenzug einen Krei&sr; um die
+offne Grabst&ae;tte schloﬂ. Da sah Bertalda die
+ungebetene Begleiterin, und halb in Zorn, halb
+in Schreck auffahrend, gebot sie ihr, von der
+Ruhest&ae;tte de&sr; Ritter&sr; zu weichen. Die Ver-
+schleierte aber sch&ue;ttelte sanft verneinend ihr
+Haupt, und hob die H&ae;nde, wie zu einer de-
+m&ue;thigen Bitte gegen Bertalda auf, davon
+diese sich sehr bewegt fand, und mit Thr&ae;nen
+daran denken muﬂte, wie ihr Undine auf der
+Donau da&sr; Korallenhal&sr;band so freundlich hatte
+schenken wollen. Zudem winkte Pater Heilmann,
+und gebot Stille, da man &ue;ber dem Leichnam,
+dessen H&ue;gel sich eben zu h&ae;ufen begann, in
+stiller Andacht beten wolle. Bertalda schwieg
+und kniete, und Alle&sr; kniete, und die Todten-
+gr&ae;ber auch, al&sr; sie fertig geschaufelt hatten.
+Da man sich aber wieder erhob, war die weisse
+Fremde verschwunden; an der Stelle, wo sie
+<pb="189"/>
+geknieet hatte, quoll ein silberhelle&sr; Br&ue;nlein
+au&sr; dem Rasen, da&sr; rieselte und rieselte fort,
+bi&sr; e&sr; den Grabh&ue;gel de&sr; Ritter&sr; fast ganz um-
+zogen hatte; dann rannte e&sr; f&ue;rder, und ergoﬂ
+sich in einen stillen Weiher, der zur Seite de&sr;
+Gotte&sr;acker&sr; lag. Noch in sp&ae;ten Zeiten sollen
+die Bewohner de&sr; Dorfe&sr; die Quelle gezeigt,
+und fest die Meinung gehegt haben, die&sr; sei
+die arme, verstossene Undine, die auf diese Art
+noch immer mit freundlichen Armen ihren Lieb-
+ling umfasse.</p>
+<hr>
+<pb>
+<back>Von dem n&ae;mlichen Verfasser ist erschienen:
+Der Tode&sr;bund. Ein Roman. Halle bei Schim-
+melpfennig und Comp. 1810. 8.
+und in allen guten Buchhandlungen f&ue;r 1 Thl. zu
+haben.
+<hr></back>
+<pb>
+<d1><b><g>Einladung</g>.</b></d1>
+<hr>
+<li><in>D</in>er Lenz erwacht, Wald bl&ue;ht und Stimmen
+klingen,
+Hell kommt de&sr; Morgen&sr;, mild de&sr; Abend&sr;
+Strahl,
+Und wa&sr; ersprieﬂt im friedlich kr&ae;ft&2019;gen Rin-
+gen,
+Man g&oe;nnt ihm gern de&sr; lust&2019;gen Spiele&sr;
+Wahl;
+M&oe;g&2019; e&sr; im Rund von soviel heitern Dingen,
+In soviel seel&2019;ger Tr&ae;ume bunter Zahl,
+Auch unserm Gartenbeet vergn&ue;glich gl&ue;cken,
+Daﬂ Augen gern hier schaun, und H&ae;nde
+pfl&ue;cken.</li>
+<li>Und weil au&sr; Bergen reich die Str&oe;me flieﬂen
+In F&ue;ll&2019; und Lust bei dieser Jahre&sr;zeit,
+Weil gern die Wolken seegnend sich erschlieﬂen
+Anschwellend Au&2019;n zu Spiegeln klar und weit,
+Soll auch durch unsern Garten sich ergieﬂen,
+Ein B&ae;chlein, hell in Freud&2019; und s&ue;ﬂem Leid.
+Zur Huld gez&ae;hmt, und wie e&sr; Holden diene,
+In Demuth willig kommt&2019;&sr;, genannt Undine.</li>
+<li>Zeigt Ihr Euch mild, so tr&ae;gt ein k&ue;hnre&sr;
+Schwellen
+Euch k&ue;nftig hin durch Sommer&sr; g&ue;ldne&sr;
+Land.
+<pb>
+Dann sp&ae;ter fort in ernsten Klippenf&ae;llen
+Spielt e&sr; an Herbste&sr; rothumlaubtem Strand;
+Ja, auch dem Winter darf e&sr; sich gesellen
+Verstummend nicht vor strengen Eise&sr; Band; &2014;
+Da drauﬂen rauscht&2019;&sr;, Ihr sitzt bei&2019;m Heer-
+de&sr;feuer,
+Und h&oe;rt fernher manch schaurig Abentheuer.</li>
+<li>Denn wechselnd wird die Quelle sich gestalten,
+An Namen, Klang, und an de&sr; Ufer&sr; Bl&ue;hn,
+Und kr&ae;ft&2019;ge Freunde werden dr&ue;ber walten
+Mit mannigfachen Zauber&sr; reichem Gl&ue;hn;
+Der zeigt im Treiben Kraft, und der im
+Halten,
+Der im Zerst&oe;ren, der im Auferbl&ue;hn,
+Und vielfach l&ae;chle Sonnenstrahl den Dichtern
+Au&sr; vieler Leser heitern Angesichtern.</li>
+<hr>
+<pb>
+<pb>
+<pb>

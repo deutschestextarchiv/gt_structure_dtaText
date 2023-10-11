@@ -1,0 +1,4873 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b><g>Allemannische Gedichte</g>.</b>
+<hr>
+<b><g>F&ue;r Freunde
+l&ae;ndlicher Natur und Sitten</g>.</b>
+<hr>
+<aq>Sylveftrem tenui musam meditabor avena.</aq>
+<hr>
+<g>Carl&sr;ruhe.
+In Macklot&sr; Hofbuchhandlung.
+1803</g>.</front>
+<pb>
+<pb>
+<ded><g>Meinem
+lieben Freund
+Herrn
+Berginspektor Herbster
+und dann
+meinen guten
+Verwandten, Freunden
+und Land&sr;leuten
+zu
+Hausen im Wiesenthal
+zum Andenken
+gewidmet
+von</g>
+J. P. H.</ded>
+<pb>
+<pb>
+<d1><b><g>Vorrede</g>.</b></d1>
+<p><in>D</in>er Dialekt, in welchem diese Gedichte
+verfaﬂt sind, mag ihre Benennung rechtfer-
+tigen. Er herrscht in dem Winkel de&sr; Rhein&sr;
+zwischem dem Frickthal und ehemaligen Sund-
+gau, und weiterhin in mancherley Ab-
+wandlungen bi&sr; an die Vogesen und Alpen
+und &ue;ber den Schwarzwald hin in einem
+groﬂen Theil von Schwaben. F&ue;r Freun-
+de l&ae;ndlicher Natur und Sitten eignet diese
+Gedichte ihr Innhalt und ihre Manier.
+Wenn Leser von h&oe;herer Bildung sie nicht
+ganz unbefriedigt au&sr; den H&ae;nden legen,
+und dem Volk da&sr; Wahre, Gute und Sch&oe;-
+ne mit den heimischen T&oe;nen und vertrau-
+ten Bildern lebendiger und wirksamer in die
+Seele geht, so ist der Wunsch de&sr; Verfas-
+ser&sr; erreicht.</p>
+<p>Leser, die mit dieser Sprachweise nicht
+ganz bekannt sind, werden folgende wenige
+grammatikalische Bemerkungen nicht &ue;ber-
+fl&ue;ssig finden. Da&sr; <fr>u</fr> und <fr>&ue;</fr> vor einem <fr>h</fr>,
+dem wieder ein Vokal folgt, oder folgen
+<pb="VI"/>
+sollte, geht in die Triphthongen <fr>Ueih und
+&ue;eih</fr> &ue;ber, und diese Form ist also im Me-
+trum immer einsylbig. Z. B. <fr>fr&ue;eih, fr&ue;-
+he</fr>. &2014; Beide Artikel werden meist abge-
+k&ue;rzt, tonlo&sr; und in der Au&sr;sprache wahre
+Pr&ae;fixa de&sr; Substantiv&sr; oder Suffixa der
+Pr&ae;position. Hie und da schien e&sr; unver-
+meidlich sie al&sr; solche auch in dem Texte
+au&sr;zudr&ue;cken. Z. B. <fr>Uffem</fr>, auf ihm;
+<fr>Uffeme</fr>, auf einem. &2014; Der Accusativ de&sr;
+Singular&sr; ist auch bey den Mascnlini&sr; dem
+Nominativ gleich, z. B. <fr>Der Tag</fr>, der
+und den Tag. Der Dativ de&sr; Sing. wird
+bey den Masculini&sr; und Neutri&sr;, bi&sr;wei-
+len auch F&oe;minini&sr; durch die Pr&ae;position
+<fr>in</fr> bezeichnet. Z. B. <fr>im Liecht, imme
+Liecht</fr>, dem, einem Licht; innere (in einer)
+<fr>Frau</fr>, einer Frau. &2014; Da&sr; absolute Pro-
+nomen <fr>Ich</fr> lautet im Nominativ de&sr; Plu-
+rali&sr;, wie der Dativ de&sr; Sing. <fr>Mir</fr>;
+auch <fr>Du, h&ae;usiger Dir</fr> al&sr; Ihr. <fr>Sich
+im</fr> Neutr. heiﬂt bi&sr;weilen <fr>Ihn&sr;</fr>. Aber
+&ue;berall werden die Personalpronomina und
+da&sr; unbestimmte <fr>Man</fr>, wenn sie keinen
+Nachdruck oder Gegensatz haben, wie der
+Artikel, abgek&ue;rzt und wahre Pr&ae;fixa oder
+<fr>Suffixa</fr> der n&ae;chsten W&oe;rter, leztere, wenn
+<pb="VII"/>
+al&sr;dann zwey Vokale zusammen k&ae;men mit
+einem eingeschobenen <fr>n</fr>. Z. B. <fr>Sagi</fr>,
+sage ich; <fr>Woni</fr>, wo ich; <fr>Wennd&2019;</fr> und
+<fr>Wennde</fr>, wenn du; <fr>Wemme</fr>, wenn man.
+<fr>Sagmer</fr>, sage mir; <fr>Denkder</fr>, denke dir;
+<fr>Bringem, Bringere</fr>, Bring ihm, ihr.
+<fr>S</fr><aq>·</aq><fr>gemer</fr>, sagen wir; <fr>S</fr><aq>·</aq><fr>getder</fr>, sagt
+ihr. <fr>Sie z</fr><aq>È</aq><fr>igeni&sr;</fr>, zeigen un&sr;; <fr>Zeigenich</fr>,
+zeigen euch; <fr>Zueni&sr;</fr>, zu un&sr;; <fr>Zuenich</fr>,
+zu euch. <fr>S</fr><aq>·</aq><fr>gene</fr>, sage ihnen. <fr>S</fr><aq>·</aq><fr>gider</fr>,
+sage ich dir; <fr>S</fr><aq>·</aq><fr>gi&2019;m</fr>, sage ich ihm &204A;c.
+Indessen sind diese Anh&ae;ngw&oe;rter, um dem
+Terte nicht ein zu fremde&sr; Ansehn zu geben,
+auch in ihrer ver&ae;nderten und abgek&ue;rzten
+Form fast &ue;berall getrennt geschrieben,
+wenn nicht Au&sr;sprache oder Deutlichkeit die
+Verbindung zu erfordern schien.</p>
+<p>Da&sr; Glossarium am Ende enth&ae;lt die
+in den Gedichten vorkommenden Idiotismen
+und ungew&oe;hnlichen Formen de&sr; Dialekt&sr;
+verglichen mit <aq>(Sch) Scherzii Gloffarium
+Germanicum medii &00EB;vi.</aq> (Id.) Versuch
+eine&sr; Schw&ae;bischen Idiotikon von Schmid.
+(Ad.) Adelung&sr; W&oe;rterbuch der hochdeut-
+schen Mundart und andern. Hie und da
+sind passende Belege au&sr; <aq>(Par.) Paraphrasi&sr;
+N. T.</aq> Z&ue;rich (ohne Jahrzahl) unterlegt
+<pb="VIII"/>
+worden. Die Absicht de&sr; Verfasser&sr; war,
+theil&sr; solchen Lesern, die manche Au&sr;dr&ue;cke
+nicht kennen m&oe;chten, mit der Erkl&ae;rung ent-
+gegen zu kommen, theil&sr; einheimische, die
+in der Sprache ihrer Land&sr;leute nur eine
+Entstellung und Miﬂhandlung de&sr; gutdeut-
+schen Au&sr;druck&sr; finden, an einzelnen Bey-
+spielen auf da&sr; Alter und die Ableitung ih-
+rer eigenth&ue;mlichen W&oe;rter aufmerksam zu
+machen. Beide Theile werden e&sr; daher
+gerne verzeihen, wenn ieder von ihnen man-
+che&sr; finden wird, wa&sr; er schon lange wuﬂte,
+manche&sr;, wa&sr; er nicht zu wissen verlangt.
+Vielleicht findet hie und da auch der Sprach-
+forscher etwa&sr; der Aufmerksamkeit werth.</p>
+<p>Die Melodien Nro. 1. 3. 4 verdankt
+der Verfasser der Freundschaft eine&sr; Man-
+ne&sr; von sehr gebildetem Geschmack, dem
+bey Gesch&ae;ften ernsterer Art auch die Muse
+der Tonkunst hold ist, Nro. 2. aber der
+G&ue;te eine&sr; Unbekannten.</p>
+<hr>
+<pb>
+<d1><b><g>Allemannische Gedichte</g>.</b></d1>
+<bs>1</bs>
+<pb>
+<pb>
+<hr>
+<d2><b><g>Die Wiese</g>.</b> <fn="*)">Ein Waldstrom diese&sr; Namen&sr;, der an
+dem Feldberg im Vorder&oe;streichischen ent-
+springt, hinter Hausen im Wiesenthal
+in&sr; Badische sich ergieﬂt, bey G&ue;nden-
+hausen einen andern Strom gleiche&sr; Na-
+men&sr; aufnimmt, und bey Kleinh&ue;ningen
+im Kant. Basel in den Rhein au&sr;str&oe;mt.</fn></d2>
+<hr>
+<poem><in>W</in>o der Dengle-Geist <fn="**)">Gespenst auf dem Feldberg.</fn> in mittern&ae;ch-
+tige Stunde
+uffem silberne Gschir e goldeni S&ae;gese
+denglet,
+(Todtnau&2019;&sr; Chnabe w&ue;sse&2019;&sr; wohl) am wal-
+dige Feldberg,
+Wo mit liebligem Gsicht u&sr; tief verborgene
+Chl&ue;fte
+d&2019; Wiesen use luegt, und check in&sr; Todt-
+nauer Thal springt,
+<pb="4"/>
+schwebt mi muntere Blick, und schwebe
+mini Gidanke.
+Feldberg&sr; liebligi Tochter, o Wiese, bi&sr;
+mer Gottwilche!
+Lo&sr;, i will di iez mit mine Liederen
+ehre,
+und mit Gsang bigleiten uf dine freudige
+Wege!
+Im verschwiegene Schoﬂ der Felse heimli
+gibohre,
+vo de Wulke gs&ae;ugt, mit Duft und himm-
+lischem Rege,
+schlofsch e B&ue;tscheli-Chind in di&2019;m verbor-
+gene St&ue;bli
+heimli, wohlverwahrt. No nie hen mensch-
+ligi Auge
+g&ue;ggelet und gseh, wie sch&oe;n mi Meiddeli
+do lit
+im christalene Ghalt und in der silberne
+Wagle;
+und kei menschlig Ohr het no si Othmen
+erlustert,
+<pb="5"/>
+oder si Stimmli gh&oe;rt, si heimli L&ae;chlen
+und Briegge.
+Numme stilli Geister g&oe;hn uf verborgene
+Pfade
+u&sr; und i, und ziehn di uf, und lehre di
+laufe,
+gen der e freudige Sinn, und lehre di n&ue;tz-
+ligi Sache,
+und e&sr; isch kei Wort verlohre, wa&sr; sie der
+sage.
+Denn so bald de chasch uf eigene F&ue;eﬂlene
+furtcho,
+schliefsch mit stillem Tritt u&sr; di&2019;m christa-
+lene St&ue;bli
+barfi&sr; usen, und luegsch mit stillem L&ae;chlen
+an Himmel.
+O, wie bisch so nett, wie hesch so heiteri
+Aeugli!
+Gell, do ussen isch&sr; h&ue;bsch, und gell, de
+hesch der&sr; nit vorgstellt?
+H&oe;rsch, wie&2019;&sr; L&ae;ubli ruuscht, und h&oe;rsch,
+wie d&2019; V&oe;geli pfife?
+<pb="6"/>
+Jo, de seisch: &201E;J h&oe;r&sr;, doch gangi witer&sr;
+und blib nit.
+&201E;Freudig isch mi Weg, und alliwil sch&oe;-
+ner, wie witer!&201C;
+Nei se lueg me doch, wie cha mi Meid-
+deli springe!
+&201E;Chunnsch mi &ue;ber,&201C; seit&sr; und lacht, &201E;und
+witt mi, se hol mi!&201C;
+Alliwil en andere Weg, und anderi
+Spr&ue;ngli!
+Kei mer nit sel Reinli ab! &2014; Do hem-
+mer&sr;, i sag&sr; io, &2014;
+hani&2019;&sr; denn nit gseit? Doch p&ue;rzlisch witer&sr;
+und witer&sr;,
+groblisch uf alle vieren, und stellsch di wie-
+der uf d&2019; Beinli,
+schliefst in d&2019; H&ue;rst, &2014; iez such mer&sr; ei&sr;! &2014;
+d&oe;rt g&ue;ggelet&sr; use,
+Guggu&sr;, daﬂ di Potz! und het si urige
+Phatest!
+Aber wie de gohsch, wirsch alliwil gr&oe;ﬂer
+und sch&oe;ner;
+<pb="7"/>
+wo di liebligen Othem weiht, f&ae;rbt si der
+Rase
+gr&ue;ner recht&sr; und link&sr;, e&sr; st&oe;hn in saftige
+Triebe
+Gra&sr; und Chr&ue;ter uf, e&sr; st&oe;hn in frischere
+Gstalte
+farbigi Bl&ue;mli do, und d&2019; Immli ch&oe;m-
+men und suge.
+&2019;&sr; Wasserstelzli chunnt, e&sr; ch&oe;mme Totnauer
+Wuli,
+alle&sr; will di seh, und alle&sr; will di bi-
+gr&ue;ﬂe,
+und di fr&ue;ndlig Herz git alle fr&ue;ndligi
+Rede:
+&201E;Ch&oe;mmet ihr ordlige Thierli, do hender,
+esset und trinket!
+&201E;Witer&sr; goht mi Weg, Gsegott, ihr ord-
+lige Thierli!&201C;
+Rothet iez ihr L&ue;t, wo &ue;ser T&oe;chterli
+hi goht!
+Hender gmeint an Tanz, und hender gmeint,
+zu de Bube?
+<pb="8"/>
+z&2019; Uzefeld verbey goht&sr; mit biwegliche
+Schritte
+zu de Sch&oe;ne Buchen, <fn="*)">Eine Kapelle diese&sr; Namen&sr; an der
+Wiese.</fn> und h&oe;rt e heiligi
+Meﬂ a
+Gut erzogen isch&sr;, und anderst cha me nit
+sage.
+No der heilige Meﬂ se seit&sr;: &201E;Jez willi mi
+schicke,
+aﬂ i wieder witer&sr; chumm!&201C; &2014; Jez simmer
+scho z&2019; Sch&oe;nau,
+iez am Chastel verbey und alliwil witer&sr;
+und witer&sr;
+zwische Berg und Berg im ch&ue;ele duftige
+Schatte,
+und an mengem Chr&ue;tz verbey an menger
+Kapelle.
+Aber wie de gohsch, w&ue;rsch sichtli gr&oe;ﬂer
+und sch&oe;ner;
+<pb="9"/>
+wo di liebligen Othem weiht, f&ae;rbt si der
+Rase
+gr&ue;ner recht&sr; und link&sr;, e&sr; st&oe;hn in chr&ae;f-
+tige Triebe
+neni Chr&ue;ter do, e&sr; schieﬂen in pr&ae;chtige
+G&2019;stalte
+Blumen an Blumen uf, und geli saftigi
+Wide.
+Vo di&2019;m Othem gw&ue;rzt, st&oe;hn rothi Er-
+beri-Ch&oe;pfli
+Millione do, und warten am schattige
+Thalweg.
+Vo di&2019;m Othem g&2019;n&ae;hrt, stigt recht&sr; an
+sunnige Halde
+goldene Lewat uf in Feldere Riemen an
+Rieme.
+Vo di&2019;m Othem g&2019; ch&ue;elt, singt in de H&ue;rste
+verborge,
+freudig der Hirte-Bueb, und witer ehne
+t&oe;nt d&2019; Holz-Ax.
+&2019;&sr; Mambecher H&ae;tteli chunnt, und wulligi
+H&ae;li vo Zell her.
+<pb="10"/>
+Alle&sr; lebt und webt, und t&oe;nt in freudige
+Wiise;
+alle&sr; gr&ue;nt und bl&ue;eiht in tusigf&ae;ltige
+Farbe;
+alle&sr; isch im Staat, und will mi Meiddeli
+gr&ue;ﬂe.
+Doch de bisch ke Meiddeli me, de bisch iez
+e Meidli!
+Aber an der Bruckwoog, nit wit vom
+steinene Chr&ue;tzli,
+chresme Zeller B&ue;ebli hoch an de felsige
+Halde,
+suchen Engels&ue;ﬂ, und luegen aben und
+stune.
+&201E;Toneli, seit der Sepli, wa&sr; het echt d&2019;
+Wiesen im Ch&oe;pfli?
+&201E;Lueg doch, wie sie stoht, und wie sie nie-
+der an d&2019; Stroﬂ sizt
+&201E;mit vertieftem Blick, und wie sie wieder
+ufstoht,
+&201E;gege de Matte lauft, und mittere selber
+im Champf isch!&201C;
+<pb="11"/>
+Feldberg&sr; Tochter, wa&sr; hesch im Chopf?
+I frog, wie der Sepli,
+und de g&2019;fallsch mer numme halber, chani
+der sage!
+Fehlt der n&ae;umi&sr;, se schwetz, und h&ae;ttsch
+gern n&ae;umi&sr;, se sag mer&2019;&sr;!
+Aber wer n&ue;t seit bisch du! Mit schwan-
+kige Schritte
+Laufsch mer d&2019; Matten ab in dine tiefe Gi-
+danke
+usem Zeller Thal in&sr; Wiesethal gegenem
+Bergwerch,
+und schangschiersch der Glauben und wirsch
+e luthrische Chetzer!
+Hani&2019;&sr; denn nit gseit, und hani mer&sr; nit
+vorgstellt?
+Aber iez isch&sr; so, und wa&sr; hilft balgen und
+schm&ae;hle!
+Aendere chani&2019;&sr; nit, se willi lieber gar
+helfe;
+&oe;bbe bringsch mer doch no Freud und hei-
+teri Stunde!
+<pb="12"/>
+Halt mer e wenig still, i will di iez luthe-
+risch chleide;
+barfi&sr; darfsch nit goh, und rothi Str&ue;mpfli
+nit trage.
+Do sin wiiﬂi bauwele Str&ue;mpf mit ch&ue;nst-
+lige Zwickle,
+(leg di selber a!) und Schuh und silberni
+Rinkli,
+do ne gr&ue;ne Rock; vom breit verbendlete
+Liibli
+fallt bi&sr; zu de Chn&oe;dlenen abe F&ae;ltli an
+F&ae;ltli!
+Sizt er recht? Thu d&2019; H&ae;ftli i! und do isch
+e Brusttuch,
+sammet und roseroth. Jez flichtider ch&ue;nst-
+ligi Zupfe
+u&sr; de sch&oe;ne, sufer gstrehlte, fl&ae;chsene
+Hoore.
+Obe vom wiiﬂen Aecken und biegsem in
+d&2019; Zupfe verschlunge,
+fallt mit beiden Ende ne schwarze sidene
+Bendel
+<pb="13"/>
+bi&sr; zum tiefe Rock-Saum abe. Gfallt
+der die Chappe,
+wasserblaue Damast und gstickt mit goldene
+Blume?
+Zieh der Bendel a, wo in de Ricklene dur-
+goht,
+unter de Zupfe dure, du Dotsch, und &ue;ber
+den Ohre
+f&ue;rsi mittem Letsch, und abe gegenem Gsicht
+zu!
+Jez e side F&ue;rtuch her, und endli der
+Hauptstaat,
+zwenzig Ehle lang und breit e Mayl&ae;nder
+Hal&sr;tuch!
+Wie ne luftig Gw&ue;lch am Morgehimmel
+im Fr&ue;hlig
+Schwebt&sr; der uf der Brust, und stigt und
+fallt mittem Othem,
+wahlt der &ue;ber d&2019; Achsle, und fallt in pr&ae;ch-
+tige Zipfle
+&ue;bere Rucken abe, sie rusche, wenn de&2019;n im
+Wind gohsch!
+<pb="14"/>
+Het me&2019;&sr; lang, se loﬂt me&2019;&sr; henke, h&oe;r i
+mi Lebtig.
+D&2019; Ermel, denk wol, henksch an Arm, wil
+&sr;&2019; Wetter so h&ue;sch isch,
+aﬂ me &sr;&2019; Hemd au sieht, und dini gattigen
+Aermli;
+und der Schie-Hut nimmsch in d&2019; Hand
+am sidene Bendel;
+d&2019; Sunne git der w&ae;rmer, und schint der
+besser in d&2019; Auge,
+wenn d&2019; en in de H&ae;nde treisch, und &2019;&sr; stoht
+der au h&ue;bscher!
+Jez w&ae;rsch u&sr;staffirt, al&sr; wenn de hofertig
+stoh wottsch,
+und de gfallsch mer selber wieder, chani der
+sage.
+Wiene&sr; si iez freut, und wie&2019;&sr; in zimpfere
+Schritte
+t&ae;nzelet, und meint, e&sr; seig d&2019; Frau V&oe;g-
+tene selber,
+wie&2019;&sr; si Ch&oe;pfli hebt, und alli Augeblick
+z&2019; ruk schielt,
+<pb="15"/>
+&oe;b me &2019;&sr; echt au bschaut, und &oe;b men or-
+deli no luegt!
+Jo, de bisch io h&ue;bsch, und io du N&ae;rli,
+mer luege,
+io, du Zeller Meidli, mit diner marggr&oe;fer
+Chappe,
+mit de lange Zupfen und mit der l&ae;ngere
+Hoorschnur,
+mittem vierfach zsemmegsezte Mayl&ae;nder
+Hal&sr;tuch!
+Aber rothet iez, wo d&2019; Marggr&oe;fer Jump-
+fere hi goht!
+Oebben uffe Platz, und &oe;bben unter d&2019;
+Linde,
+&oe;bben in d&2019; Weserey, und zu de Husemer
+Chnabe?
+Hender gmeint, io wol! Am Bergwerch
+visperlet&sr; abe,
+lengt e wenig duren, und tr&ue;llt e wengeli
+d&2019; R&ae;der,
+wa&sr; der Blo&sr;-Balg schnufe mag, aﬂ d&2019;
+F&ue;&ue;rer nit u&sr;g&oe;hn.
+<pb="16"/>
+Aber &2019;&sr; isch si Blibe&sr; nit. In d&2019; Husemer
+Matte
+schieﬂt&2019;&sr;, und d&2019; Legi ab mit groﬂe Schritte
+go Farnau,
+laufsch mer nit, se gilt&sr; mer nit, in&sr; Scho-
+pfemer Chilspel.
+Aber z&2019; G&ue;ndehuse, wer stoht echt an der
+Stroﬂe,
+wartet, biﬂ de chunnst, und goht mit freu-
+dige Schritte
+uf di dar, und git der d&2019; Hand, und fallt
+der an Buse?
+Chennsch di Schwesterli nit, &2019;&sr; chunnt z&2019; aller-
+n&oe;chst vo Wi&sr;leth?
+Uf und nieder het&sr; di Gang und dini Ge-
+behrde.
+Jo de chennsch&sr;, worum denn nit? Mit
+freudigem Brusche
+Nimmsch&sr; in d&2019; Arm, und losch&2019;&sr; nit goh,
+gib achtig, verdruck&sr; nit!
+Jez marschieremer witer&sr;, und alli wil aben
+und abe!
+<cw>Siehsch</cw>
+<pb="17"/>
+Siehsch d&oe;rt vorne &2019;&sr; R&oe;ttler Schloﬂ &2014; ver-
+falleni Mure?
+In vert&ae;felte Stube, mit goldene Liiste
+verbendlet,
+hen sust F&ue;rste gwohnt, und sch&oe;ni f&ue;rstligi
+Fraue,
+Heren und Here-Gsind, und d&2019;Freud isch
+z&2019;R&oe;ttle deheim gsi.
+Aber iez isch alle&sr; still, undenklichi Zite
+brenne keini Liechter in sine verriﬂene
+Stube,
+flackeret kei F&ue;&ue;r uf siner versunkene F&ue;&ue;r-
+stet,
+goht kei Chrug in Cheller, ke Z&ue;ber aben
+an Brunne.
+Wildi Tube niste d&oe;rt uf mosige B&ae;ume.
+Lueg d&oe;rt ehnen isch Mulberg, und do im
+Schatte verborge
+&2019;&sr; F&oe;hri&sr; H&ue;&sr;li, und am Berg d&oe;rt, d&2019;
+H&oe;llstemer Chilche.
+Steine l&oe;mmer ligen, und fahre duren in
+d&2019; Matte,
+<bs>2</bs>
+<pb="18"/>
+Will der Schanzli n&ae;umi&sr;, se mag er use
+zu dir cho.
+Unter Steine chunnsch mit dine biwegliche
+Schritte
+wieder &ue;ber d&2019;Stroﬂ. Jez g&oe;hmer f&ue;ren
+in&sr; Rebland
+Hauige zu, und Hage zu, und aben an
+R&oe;ttle.
+Lueg e wenig ufe, wer stoht d&oe;rt oben am
+Fenster
+in si&2019;m neue Ch&ae;pli, mit sine fr&ue;ndligeu
+Auge?
+Neig di fin, zeig wie, und sag: &201E;Gott
+gr&ue;ﬂich Her Pfarer!&201C;
+Jez goht&sr; Thumrige zu, &2014; sie hen der
+welle ne Tuck thu,
+aber &2019;&sr; macht der g&2019;ringe Chummer, &2014;
+&oe;b der&2019;&sr; der Reinert
+gut heiﬂt, oder nit, se gumpisch ebe, wie &2019;&sr;
+dir gfallt,
+&ue;ber&sr; Stellaschi ab, und furt in d&2019;L&oe;rre-
+cher Matte.
+<pb="19"/>
+Nimm di e wenig in Acht, siehsch d&oe;rt im
+Gr&ue;ne sel Chr&ue;tz nit?
+Wart, wa&sr; werde d&2019; Stettemer sage, wenn
+sie erfahre,
+wa&sr; de z&2019; Huse bo&sr;get hesch! Doch gheit e&sr;
+di wenig.
+Aber wie de gohsch vom Bergwerch abe
+go Schopfe,
+bi&sr; an Stetten aben uf diner steinige Land-
+stroﬂ,
+bald am linke Bord, bald wieder ehnen am
+rechte
+zwischenem Faschinat, wirsch alliwil gr&oe;ﬂer
+und sch&oe;ner,
+freudiger alliwil, und schaffig, wa&sr; me cha
+sage.
+Wo di liebligen Othem weiht, wie f&ae;rbt
+si der Rase
+gr&ue;ner recht&sr; und link&sr;, wie st&oe;hn mit chr&ae;f-
+tige Triebe
+neui Chr&ue;ter uf, wie st&oe;hn in h&oe;here Farbe
+<bs>2 *</bs>
+<pb="20"/>
+alli Blume do. De Summer-V&oe;gle thut
+d&2019; Wahl weh.
+Wech&sr;let nit der Chlee mit goldene Chette-
+ne-Blueme,
+Frauem&ae;nteli, Hasebr&oe;dli, w&ue;rzige Ch&ue;mmi,
+Sunneblume, Habermark und Dolden und
+Ruchgra&sr;?
+Glitzeret nit der Thau uf hunderttusig Hal-
+me?
+Wattet nit der Storch uf hoche Stelze der-
+zwische?
+Ziehn si nit vo Dorf zu Dorf in lange
+Reviere
+feisti Matte Stunde wiit und Tauen an
+Taue?
+&2019;&sr; Brombecher Mummeli chunnt, e&sr; ch&oe;mme
+L&oe;recher R&oe;ﬂli,
+freﬂe der u&sr; der Hand, und sin fast n&ae;risch
+vor Freude,
+und vo Baum zu Baum, vo Zell bi&sr; f&ue;re
+go Rieche
+<pb="21"/>
+halte d&2019;V&oe;geli Jude-Schul und orglen und
+pfife.
+(D&2019;Brombecher Linde lit, der Sturmwind
+het sie in&sr; Grab gleit.)
+Aber recht&sr; und link&sr; wie schwanken an fla-
+chere Reine
+Rocken und Weizehalm! Wie st&oe;hn an sun-
+nige Halde
+Reben an Reben uf! Wie woget uf h&oe;chere
+Berge
+recht&sr; und link&sr; der Buchewald und dunk-
+leri Eiche!
+Wie isch alle&sr; so sch&oe;n, und &ue;beral anderst
+und sch&oe;ner!
+Feldberg&sr; Tochter, wo de bisch, isch Nah-
+rig und Lebe!
+Neben an der ufen und neben an der
+abe
+gig&sr;t der Wage, d&2019;Geisle chl&oe;pft, und d&2019;
+S&ae;gese ruschet,
+und de gr&ue;ﬂisch alli L&ue;t, und schwetzisch
+mit alle.
+<pb="22"/>
+Stoht e M&ue;hli n&ae;umen, en Oehli oder e
+Ribi,
+Drothzug oder Gerste-Stampfi, S&ae;gen
+und Schmidte;
+lengsch mit biegsemen Arme, mit glenkseme
+Fingere dure,
+hilssch im M&ue;ller mahlen und hilfsch de
+Meidlene ribe,
+spinnsch mer &2019;&sr; Husemer Ise, wie Hanf in
+gschmeidigi F&ae;de.
+(Gell, iez schlacht di &2019;&sr; Gwiﬂe wieder, &2019;&sr;
+goht eim nit anderst!)
+Eicheni Pl&ue;tschi vers&ae;gsch, und wandlet &2019;&sr;
+Ise vom F&ue;&ue;rherd,
+uffen Ambo&sr;, l&ue;pfsch de Schmiede freudig
+der Hammer,
+singst derzu, und gersch ke Dank, &201E;Gott
+gr&ue;ﬂich, Gott bh&ue;tich!&201C;
+Und isch n&ae;ume ne Bleichi, se losch di au
+da&sr; nit verdrieﬂe,
+chuuchisch e bizzeli duren, und hilfsch der
+Sunne bleiche,
+<pb="23"/>
+aﬂ sie ferig wird, sie isch gar gr&ue;seli land-
+sem!
+Aber solli ei&sr;, o Wiese sage, wie &2019;&sr; an-
+der,
+nu se seig&2019;&sr; bikennt! De hesch au bsundert
+Jeste,
+&2019;&sr; chlage&2019;&sr; alli L&ue;t, und sage, &2019;&sr; seig der
+nit z&2019; traue,
+und wie sch&oe;n de seigsch, wie liebli dini Gi-
+behrde,
+stand der d&2019;Bo&sr;get in den Auge, sage sie
+alli.
+Eb men umluegt, chresmisch n&ae;umen &ue;ber
+d&2019;Faschine,
+oder rupfsch sie u&sr;, und bahnsch der bsun-
+deri Fuﬂweg,
+bohlsch de L&ue;te Stei uf d&2019;Matte, Jaspi&sr;
+und Feldspat.
+Hen sie n&ae;ume gmeiht, und hen sie gwar-
+bet und g&2019;sch&oe;chlet,
+holsch&2019;&sr; und treisch&2019;&sr; im Nochber duren Ar-
+fel um Arfel.
+<pb="24"/>
+&2019;&sr; sagen au e Theil, de seigisch gl&ue;ckli im
+Finde
+uf de B&ae;nke, wo nit g&2019;w&ue;scht sin, sel hani
+nie gseh.
+Mengmol haseliersch, und &2019;&sr; muﬂ der alle&sr;
+u&sr; Weg goh;
+&oe;bbe rennsch e H&ue;&sr;li nieder, wenn&sr; der im
+Weg stoht.
+Wo de gohsch, und wo de stohsch isch Bal-
+gen und Balge.
+Feldberg&sr; Tochter lo&sr;, de bisch an Tu-
+ged und Fehler
+zitig, chunnt&sr; mer halber vor, zum Manne,
+wie w&ae;r&sr; echt?
+Zeig, wa&sr; machsch f&ue;r Aeugli? Wa&sr; zupfsch
+am sidene Bendel?
+Stell di nit so n&ae;rsch, du Dingli, meinsch
+denn, me w&ue;ﬂ nit,
+aﬂ de versproche bisch, und aﬂ der enander
+scho bstellt hen?
+Meinsch, i chenn di Holderstock, di chr&ae;f-
+tige Burst nit?
+<pb="25"/>
+Ueber hochi Felsen, und &ue;ber Stuuden und
+Hecke
+ei&sr; gang&sr; u&sr; de Schwitzerberge gumpet er
+z&2019; Rhineck
+aben in Bodesee, und schwimmt bi&sr; f&ue;re
+go Chostez,
+seit: &201E;J muﬂ mi Meidli ha, do hilft n&ue;t,
+und batt n&ue;t!&201C;
+Aber oben an Stei, se stigt er in landseme
+Schritte
+wieder usem See mit sufer gw&ae;schene
+F&ue;ﬂe,
+Tiesehofe gfallt em nit und &2019;&sr; Chloster der-
+nebe,
+nei, er rennt Schafhusen ab, und stoht an
+de Felse.
+An de Felse seit er: &201E;Mi Meidli muﬂ
+mer werde!
+&201E;Lib und Lebe wogi dra, und Brusttuch
+und Chretze!&201C;
+Seit&sr; und nimmt e Sprung! Jez bruttlet
+er abe go Rhinau,
+<pb="26"/>
+tr&ue;mmlig isch&sr; em worde, doch chunnt er
+witer&sr; und witer&sr;.
+Egli&sr;au und Chayserstuhl und Zurzi und
+Wald&sr;hut
+het er scho im Aecken, er lauft vo Wald-
+stadt zu Waldstadt,
+iez am H&oe;rnli aben in sch&oe;ne breite Re-
+viere
+Basel zu, und loﬂt der Hochzeit-Zedel
+schreibe.
+Gell, i weiﬂ e&sr;! Bisch im Stand und
+l&ae;ugnisch, wa&sr; wohr isch!
+H&ae;tti z&2019;rothe gha, &2019;&sr; w&ae;r z&2019;Wil e schick-
+liche Platz gsi;
+&2019;&sr; sin doch au scho Gutsche vo Basel use
+gfahre,
+ohni Widerred vo mine gn&ae;dige Here,
+use zu Her Briggem, und ine zu Her Eh-
+ma.
+Aber di Vertraue stoht zum Chlei-H&ue;niger
+Pfarrer.
+<pb="27"/>
+Wie de meinsch, se g&oe;hnmer denn dur d&2019;
+Riechemer Matte!
+Lueg, isch sel nit d&2019;Chl&ue;bi, und chunnt er
+nit d&oe;rt abe?
+Jo er isch&sr;, er isch&sr;, i h&oe;r&sr; am freudige
+Brusche!
+Jo er isch&sr;, er isch&sr; mit sine blauen Au-
+ge,
+mit de Schwitzer-Hosen und mit der sam-
+mete Chretze,
+mit de christalene Chn&oe;pfen am perlefarbi-
+ge Brusttuch,
+mit der breite Brust, und mit de chr&ae;ftige
+Stotze,
+&2019;&sr; Gotthard&sr; groﬂe Bueb, doch wie ne
+Roth&sr;-Her vo Basel
+stolz in sine Schritten und sch&oe;n in sine Gi-
+behrde.
+O wie chlopft der &2019;&sr; Herz, wie l&ue;pft si
+&2019;&sr; Mayl&ae;nder Hal&sr;tuch,
+und wie stigt der d&2019;R&oe;thi in dini lieblige
+Backe,
+<pb="28"/>
+wie am Himmel &2019;&sr; Morgeroth am lieblige
+Maytag!
+Gell, de bischem hold, und gell, de hesch
+der&sr; nit vorgstellt,
+und e&sr; wird der wohr, wa&sr; im verborgene
+St&ue;bli
+d&2019; Geister gsunge hen, und an der silberne
+Wagle!
+Halt di numme wohl! &2014; J m&oe;cht der no
+allerley sage,
+aber &2019;&sr; wird der windeweh! Di Kerli, di
+Kerli!
+F&oe;rchsch, er lauf der furt, se gang! Mit
+Thr&ae;nen im Aeugli
+r&ue;efsch mer: &201E;Bh&ue;tdi Gott!&201C; und fallsch
+em freudig an Buse.
+Bh&ue;tdi Gott der Her, und folgmer, wa&sr; i
+der gseit ha!</poem>
+<hr>
+<pb>
+<pb>
+<abb>
+<pb="29"/>
+<d2><b><g>Freude in Ehren</g>.</b></d2>
+<p><c>(mit einer Melodie.)</c></p>
+<hr>
+<poem><pv><in>N</in>e G&2019;sang in Ehre
+wer will&sr; verwehre?
+Singt &2019;&sr; Thierli nit in Hurst und Rast,
+der Engel nit im Sterneglast?
+e freie frohe Muth,
+e gsund und fr&oe;lich Blut
+goht &ue;ber Geld und Gut.</pv>
+<pv>Ne Trunk in Ehre
+wer will&2019;&sr; verwehre?
+Trinkt &2019;&sr; Bl&ue;emli nit si Morgethau?
+Trinkt nit der Vogt si Sch&oe;ppli au?
+Am Werchtig hemmer gschaft,
+drum bringt der Rebesaft
+am Sunntig neui Chraft.</pv>
+<pb="30"/>
+<pv>Ne Chuﬂ in Ehre
+wer will&sr; verwehre?
+Ch&ue;ﬂt &2019;&sr; Bl&ue;emli nit si Schwesterli,
+und &2019;&sr; Sternli ch&ue;ﬂt si N&oe;chberli?
+In Ehre, hani gseit,
+und in der Unschuld G&2019;leit,
+mit Zucht und Sittsemkeit.</pv>
+<pv>Ne freudig St&ue;ndli
+isch&sr; nit e F&ue;ndli?
+Jez hemmer&sr; und jez simmer do;
+e&sr; chunnt e Zit, w&ue;rd&sr; anderst goh.
+&2019;&sr; w&ae;hrt alle&sr; churzi Zit,
+der Chilchhof isch nit wit.
+Wer weiﬂ, wer bal d&oe;rt lit?</pv>
+<pv>Wenn d&2019;Glocke schalle,
+wer hilfti&sr; alle?
+O gebi&sr; Gott e sanfte Tod!
+e r&ue;eihig Gwisse gebi&sr; Gott,
+wenn d&2019;Sunn am Himmel lacht,
+wenn alle&sr; blizt und chracht,
+und in der lezte Nacht!</pv></poem>
+<hr>
+<pb="31"/>
+<d2><b><g>Die Irrlichter</g>.</b></d2>
+<hr>
+<poem><pv><in>E</in>&sr; wandlen in der stille dunkle Nacht
+wohl Engel um, mit Sterneblume gchr&oe;nt,
+uf gr&ue;ne Matte, bi&sr; der Tag verwacht,
+und do und d&oe;rt e Betzit-Glocke t&oe;nt.</pv>
+<pv>Sie spr&oe;che mitenander dei&sr; und da&sr;,
+sie machen &oe;bbi&sr; mitenander u&sr;;
+&2019;&sr; sin gheimi Sache; nieme&sr; rothet, wa&sr;?
+Druf g&oe;hn sie wieder furt, und richte&2019;&sr; u&sr;.</pv>
+<pv>Und wenn&sr; so finster wird, wie in&2019;re Chue,
+und wemme n&ue;mme sieht, wo d&2019;Nuﬂb&ae;um st&oe;hn,
+wa&sr; gschieht? se m&ue;&2019;en die f&ue;&ue;rige Manne zu,
+und m&ue;&2019;en den Engle z&ue;nde, wo sie g&oe;hn.</pv>
+<pb="32"/>
+<pv>Und iedem hangt e Bederthalben a,
+und wenn&sr; em &oe;d wird, lengt er ebe dri,
+und biiﬂt e St&ue;ckli Schwefelschnitten a,
+und trinkt e Schl&ue;ckli Treber-Brentewi.</pv>
+<pv>Druf puz# er d&2019;Schn&oe;ren amme Tsch&ae;ubli ab;
+Hui, flackeret&sr; in liechte Flammen uf,
+und, hui, goht&sr; wieder d&2019;Matten uf und ab,
+mit neue Chr&ae;fte#, d&2019; Matten ab und uf.</pv>
+<pv>&2019;&sr; isch chummliger so, wenn eim vorem Fuﬂ
+und vor den Auge d&2019;Togge selber rennt,
+aﬂ wemme sie mit H&ae;nde trage muﬂ,
+und &oe;bbe gar no d&2019;Finger dra verbrennt.</pv>
+<pv>Und schriket spot e Mensch dur d&2019;Nacht derher,
+und sieht vo witem scho die Kerli goh,
+und betet lisli: &201E;Da&sr; walt Gott der Her&201C;&2014;
+&201E;Ach bleib bey un&sr;&201C; &2014; im Wetter sin sie do.</pv>
+<cw>Wor-</cw>
+<pb="33"/>
+<pv>Worum? So bald der Engel bete h&oe;rt,
+se heimelet&sr; en a, er m&oe;cht derzu.
+Der f&ue;&ue;rig Marcher blieb io lieber d&oe;rt,
+und wenn er chunnt, se hebt er d&2019; Ohre zu.</pv>
+<pv>Und schritet&oe;bsch e trunk&2019;ne Ma dur d&2019; Nacht,
+er fluecht und sappermentet: &201E;Chr&ue;tz und Stern,&201C;
+und alli Zeichen, aﬂ der Bode chracht,
+sell h&oe;rti wohl der f&ue;&ue;rig Marcher gern.</pv>
+<pv>Doch wird&sr; em nit so gut; der Engel seit:
+&201E;Furt, weidli furt! Do magi n&ue;t dervo!&201C;
+Im Wetterleich, sen isch der wiit und breit
+kei Marcher me, und au kei Engel do.</pv>
+<pv>doch goht me still si Gang in Gotti&sr; G&2019;leit,
+und denkt: &201E;Der ch&oe;nnet bliben oder cho,
+&q;ne jede weiﬂ si Weg, und&2019;&sr; Thal isch breit,&201C;
+sel isch &2019;&sr; vern&ue;nftigst, und sie l&oe;n ein go.</pv>
+<bs>3</bs>
+<pb="34"/>
+<pv>Doch wenn der Wunderwitz ein &oe;bbe brennt,
+me lauft im Uhverstand den Engle no,
+jel isch ene wie Gift und Poperment;
+im Augeblick se l&oe;n sie alle&sr; stoh.</pv>
+<pv>Z&2019;erst sage sie: &201E;Denkwol e&sr; isch si Weg,
+&q;er goht verbey, mer wen e wenig z&2019;ruk!&201C;
+So sage sie, und wandle still u&sr; weg,
+und sieder nimmt der f&ue;&ue;rig Ma ne Schluck.</pv>
+<pv>Doch folgt me witer&sr; &ue;ber Steg und Bort,
+wo nummen au der Engel goht und stoht,
+se seit er z&2019;lezt: &201E;Wa&sr; gilt&sr; i find en Ort,
+&q;du Lappi, wo di Weg nit dure goht!&201C;</pv>
+<pv>Der Marcher muﬂ vora; mit stillem Tritt
+der Engel hinterher, und lauft me no,
+se sinkt men in e G&ue;lle, &2019;&sr; fehlt si nit.
+Jez weisch di B&2019;richt, und jez chasch wieder goh!</pv></poem>
+<hr>
+<pb="35"/>
+<poem><pv>Nei, wart e wenig, &2019;&sr; chunnt e guti Lehr!
+Vergiﬂ mer&sr; nit, schrib&sr; lieber in e Buch!
+Zum Erste sagi: Da&sr; walt Gott der Her,
+isch alliwil no besser, aﬂ e Fluch.</pv>
+<pv>Der Fluch jagt d&2019;Engel mittem Heil dervo;
+e christli Gm&ue;eth und &2019;&sr; Bette zieht sie a;
+und wemme meint, me seh ne Marcher cho,
+&2019;&sr; isch numme so d&2019;Laterne vorne dra.</pv>
+<pv>Zum Anderen, und wenn en Ehre-Ma
+ne Gsch&ae;ft f&ue;r ihn ellei z&2019;verrichte het,
+se loﬂ en mache! Wa&sr; goht&sr; di denn a?
+und lo&sr; nit, wemme mittem Nochber redt!</pv>
+<pv>Und goht me der u&sr; Weg, se lauf nit no!
+Gang diner Wege furt in Gotti&sr; Gleit!
+&2019;&sr; isch Uhverstand, me merkt&sr; enanderno,
+und &2019;&sr; git en Unehr; sag i heig der&sr; gseit!</pv></poem>
+<hr>
+<bs>3 *</bs>
+<pb="36"/>
+<d2><b><g>Der Schmelz-Ofen</g>.</b></d2>
+<hr>
+<poem><pv><in>J</in>ez brennt er in der sch&oe;nsten Art,
+und &2019;&sr; Wasser ruuscht, der Blo&sr;balg gahrt,
+und bi&sr; aﬂ d&2019;Nacht vom Himmel fallt,
+se w&ue;rd die ersti Maﬂle chalt.</pv>
+<pv>Und &2019;&sr; Wasser ruuscht, der Blo&sr;balg gahrt;
+i ha druf hi ne Gulde g&2019;spart.
+Gang Ch&ue;ngi, lengi&sr; alte Wi,
+mer wen e wengli lustig sy!</pv>
+<pv>Ne Freudestund isch nit verwehrt;
+me gnieﬂt mit Dank, wa&sr; Gott bischert,
+me trinkt e frische frohe Mueth,
+und druf schmekt wieder &2019;&sr; Schaffe gut.</pv>
+<pb="37"/>
+<pv>E Frendestund, e guti Stund!
+&2019;&sr; erhaltet Lib und Chr&ae;fte gsund;
+doch muﬂ e&sr; in der Ordnig goh,
+sust het me Schand und Leid dervo.</pv>
+<pv>E frohe Ma, ne brave Ma!
+Jez schenket i, und stoﬂet a:
+&201E;E&sr; leb der Marggrov und si Huu&sr;!&201C;
+Ziehnt d&2019;Chappen ab, und trinket u&sr;!</pv>
+<pv>Ne bessere Her treit d&2019;Erde nit,
+&2019;&sr; isch Sege, wa&sr; er thut und git,
+i cha&2019;&sr; nit sage, wieni sott:
+Vergelt&sr; em Gott! Vergelt&sr; em Gott!</pv>
+<pv>Und &2019;&sr; Bergwerch soll im Sege stoh!
+&2019;&sr; het menge Burger &2019;&sr; Brod dervo.
+Der Her Inspekter lengt in Trog,
+und zahlt mit Freud, e&sr; isch kei Frog.</pv>
+<pb="38"/>
+<pv>Drum schenket i, und stoﬂet a!
+Der Her Inspekter isch e Ma,
+mit &ue;ser&sr; Gattig&sr; L&ue;te gmei,
+und fr&ue;ndli gege groﬂ und chlei.</pv>
+<pv>Er schafft e gute Wi uf&sr; Werk,
+er holt en &ue;ber Thal und Berg,
+er stellt en luter uffe Tisch,
+und miﬂt wie&2019;&sr; recht und billig isch.</pv>
+<pv>Sell isch verbey, der Ma am F&ue;&ue;r
+muﬂ z&2019;trinke ha, w&ae;r&sr; no so th&ue;r;
+e&sr; rieslet menge Tropfe Schweiﬂ,
+und will&sr; nit go, men &ae;chzet ei&sr;.</pv>
+<pv>Me streift der Schweiﬂ am Ermel ab,
+me schnufet, d&2019; B&ae;lg verstuune drab,
+und mengi liebi Mitternacht
+w&ue;rd so am heiﬂe Herd verwacht.</pv>
+<pb="39"/>
+<pv>Der Schmelzer isch e plogte Ma,
+drum bringet em&2019;&sr;, und stoﬂet a:
+Gsegott! Vergiﬂ di Schweiﬂ und Ach,
+&2019;&sr; het ieden anderen au si Sach!</pv>
+<pv>Am Zahltag theiltisch doch mit kei&2019;m,
+und bringsch der Lohn im Na&sr;tuch heim,
+se luegt di d&2019;Marei fr&ue;ndli a,
+und seit: &201E;J ha ne brave Ma!&201C;</pv>
+<pv>Druf schlacht sie Eiern-Anken i,
+nnd str&ae;ut e wenig Imber dri;
+sie bringt Salat und Gr&ue;ebe dra,
+und seit: &201E;Jez iﬂ du liebe Ma!&201C;</pv>
+<pv>Und wenn e Ma si Arbet thut,
+se schmekt em au si Esse gut;
+er tuuschti nit in Leid und Lieb
+mit mengem riche Galge-Dieb.</pv>
+<pb="40"/>
+<pv>Mer sitze do, und &2019;&sr; schmekti&sr; wohl.
+Gang Ch&ue;ngeli lengi&sr; no nemol,
+wil doch der Ofe wieder goht,
+und &2019;&sr; Erz im volle Ch&ue;bel stoht!</pv>
+<pv>Se brenn er denn zu guter Stund,
+und Gott erhaltich alli gsund,
+und Gott biwahrich uf der Schicht,
+aﬂ nieme&sr; Leid und Ungl&ue;ck gschicht.</pv>
+<pv>Und chunnt in strenger Winter&sr;-Zit,
+wenn Schnee uf Berg und Firste lit,
+en arme Bub, en arme Ma,
+und stoht an&sr; F&ue;&ue;r, und w&ae;rmt si dra,</pv>
+<pv>und bringt e par Grumbireli,
+und leit&sr; an&sr; F&ue;&ue;r, und brotet sie,
+und schloft by&2019;m Setzer uffem Erz &2014;
+schlof wohl, und tr&oe;st der Gott di Herz!</pv>
+<pb="41"/>
+<pv>D&oe;rt stoht so ein! Chumm arme Ma,
+und thue ei&sr; Bscheid, mer stoﬂen a!
+Gsegott, und tr&oe;stder Gott di Herz,
+me schloft nit lieblig uffem Erz!</pv>
+<pv>Und chunnt zur Zit e Biderma
+an&sr; F&ue;&ue;r, und z&ue;ndet &2019;&sr; Pfifli a,
+und sezt si n&ae;umen ane mit,
+se schmek&sr; em wohl, und &2014; brenn di nit!</pv>
+<pv>Doch fangt e B&ue;ebli z&2019; raucheu a,
+und meint, e&sr; ch&oe;nn&sr;, a&sr; wie ne Ma,
+se macht der Schmelzer churze Bricht,
+und zieht em &2019;&sr; Pfifli usem Gsicht.</pv>
+<pv>Er keit&sr; in&sr; F&ue;&ue;r, und balgt derzu:
+&201E;Du dunderschieﬂige Lappi du,
+&q;sug amme Zipfeli Leberwurst,
+&q;&2019;&sr; isch besser f&ue;r so chleini Burst!&201C;</pv>
+<pb="42"/>
+<pv>&2019;&sr; isch wohr, &2019;&sr; git mengi Churzwiil mehr
+am Suntig no der Chinderlehr,
+und str&oe;mt der f&ue;&ue;rig Ise-Bach
+im Sand, e&sr; isch e sch&oe;ni Sach.</pv>
+<pv>Frog menge Ma: &201E;Sag, Nochber he!
+&q;hesch au scho &2019;&sr; Ise werde seh
+&q;im f&ue;&ue;rige Strom de Forme no?&201C;
+Wa&sr; gilt&sr;, er cha nit sage: Jo!</pv>
+<pv>Mir w&ue;sse, wie me &2019;&sr; Ise macht,
+und wie&2019;&sr; im Sand zu Massle bacht,
+und wieme&sr; druf in d&2019;Schmidte bringt,
+und d&2019;Luppen unterm Hammer zwingt.</pv>
+<pv>Jez schenket i, und stoﬂet a:
+der Hammer-Meister isch au ne Ma!
+W&ae;r Hammer-Schmid und Zeiner nit,
+do l&ae;g e Sach, wa&sr; th&ae;t me mit?</pv>
+<pb="43"/>
+<pv>Wie gieng&sr; im brave Hamberch&sr;-Ma?
+&2019;&sr; muﬂ iede Stahl und Ise ha;
+und het der Schnider kei Nodle meh,
+sen isch&sr; au um si Nahrig gscheh.</pv>
+<pv>Und wenn im fr&ue;eihe Morgeroth
+der Buur in Feld und Fuhre stoht,
+se muﬂ er Charst und Haue ha,
+sust isch er e verlohrene Ma.</pv>
+<pv>Zum Broche brucht er d&2019;W&ae;gese,
+zum Meihe brucht er d&2019;S&ae;gese,
+und d&2019;Sichle, wenn der Weize bleicht,
+und &2019;&sr; Messer, wenn der Tr&ue;bel weicht.</pv>
+<pv>Se schmelzet denn, und schmiedet ihr,
+und dankich Gott der Her derf&ue;r!
+Und mach en andere Sichle dru&sr;,
+und wa&sr; me bruucht in Feld und Hu&sr;!</pv>
+<pb="44"/>
+<pv>Und numme keini Sebel meh!
+&2019;&sr; het gnug misrabli Chr&ue;ppel ge;
+&2019;&sr; hinkt mengen ohni Fuﬂ und Hand,
+und menge schloft im tiefe Sand.</pv>
+<pv>Kei Hurlibau&sr;, ke F&ue;si meh!
+Mer hen &2019;&sr; Lamento &oe;bbe gseh,
+und gh&oe;rt wie&2019;&sr; in de Berge chracht,
+und Aengste gha die ganzi Nacht,</pv>
+<pv>und glitte, wa&sr; me lide cha;
+drum schenket i, und stoﬂet a:
+Uf V&oe;lker Fried&2019; und Einigkeit
+vo nun a bi&sr; in Ewigkeit!</pv>
+<pv>Jez zahlemer! Jez g&oe;ihmer hei,
+und schaffe h&ue;t no allerley,
+und dengle no bi&sr; tief in d&2019;Nacht,
+und meihe, wenn der Tag verwacht.</pv></poem>
+<hr>
+<pb>
+<pb>
+<abb>
+<pb="45"/>
+<d2><b><g>Der Morgen-Stern</g>.</b></d2>
+<p><c>(mit einer Melodie.)</c></p>
+<hr>
+<poem><pv><in>W</in>oher so fr&ue;eih, wo ane scho,
+Her Morge-Stern enanderno
+in diner glitzrige Himmel&sr;-Tracht,
+in diner guldige Locke Pracht,
+mit dinen Auge chlor und blau
+und sufer g&2019;w&ae;schen im Morge-Thau?</pv>
+<pv>Hesch gmeint, de seigsch elleinig do?
+Nei weger nei, mer meihe scho!
+Mer meihe scho ne halbi Stund;
+fr&ue;eih ussto isch de Gliedere gsund,
+e&sr; macht e frische frohe Muth,
+und d&2019;Suppe schmekt eim no so gut.</pv>
+<pb="46"/>
+<pv>&2019;&sr; git L&ue;t, sie dose frili no,
+sie ch&oe;nne schier nit use cho.
+Der M&ae;hder und der Morge-Stern
+st&oe;hn zitli uf, und wache gern,
+und wa&sr; me fr&ue;eih um Vieri thut,
+da&sr; chunnt eim z&2019;Nacht um N&ue;ni gut.</pv>
+<pv>Und d&2019;V&oe;geli sin au scho do,
+sie stimmen ihri Pfifli scho,
+und uffem Baum und hinterm Hag
+seit ei&sr; im andere Gute Tag!
+Und &2019;&sr; Turtel-T&ue;bli ruukt und lacht,
+und &2019;&sr; Betzit-Gl&oe;ckli isch au verwacht.</pv>
+<pv>&201E;Se helfi&sr; Gott, und gebi&sr; Gott
+&q;e gute Tag, und bh&ue;ti&sr; Gott!
+&q;Mer beten um e christlig Herz,
+&q;e&sr; chunnt eim wohl in Freud und Schmerz;
+&q;wer christli lebt, het frohe Muth:
+&q;der lieb Gott stoht f&ue;r alle&sr; gut.&201C;</pv>
+<pb="47"/>
+<pv>Weisch Jobbeli, wa&sr; der Morge-Stern
+am Himmel sucht? Me seit&sr; nit gern!
+Er wandlet imme Sternli no,
+er cha schier gar nit vonnem lo;
+doch meint si Mutter, &2019;&sr; m&ue;eﬂ nit sy,
+und thut en wie ne H&ue;enli i.</pv>
+<pv>Drum stoht er uf vor Tag, und goht
+si&2019;m Sternli no im Morgeroth;
+er sucht und &2019;&sr; wird em windeweh,
+er m&oe;cht em gern e Schm&ue;tzli ge,
+er m&oe;cht em sagen: J bi der hold!
+e&sr; w&ae;r em &ue;ber Geld und Gold.</pv>
+<pv>Doch wenn er schier gar bynem w&ae;r,
+verwacht si Mutter handumcher,
+und wenn sie r&ue;eft enanderno,
+sen isch mi B&ue;rstli niene do.
+Druf flicht sie ihre Chranz in&sr; Hoor,
+und lueget hinter de Berge vor.</pv>
+<pb="48"/>
+<pv>Und wenn der Stern si Mutter sieht,
+se wird er tode&sr;bleich und flieht,
+er r&ue;eft si&2019;m Sternli: Bh&ue;tdi Gott!
+e&sr; isch, aﬂ wenn er sterbe wott.
+Jez Morge-Stern hesch hohi Zit
+di M&ue;tterli isch n&ue;mme wit.</pv>
+<pv>D&oe;rt chunnt sie scho, i ha&2019;&sr; io gseit,
+in ihrer stille Herlichkeit!
+Sie z&ue;ndet ihri Strahlen a,
+der Chilch-Thurn w&ae;rmt si au scho dra,
+und wo sie fallen in Berg und Thal,
+se r&ue;ehrt si &2019;&sr; Leben &ue;beral.</pv>
+<pv>Der Storch probirt si Schnabel scho,
+&201E;de chasch&sr; perfekt, wie gester no!&201C;
+und d&2019;Chemi rauchen au al&sr;gmach;
+h&oe;rsch &2019;&sr; M&ue;hli-Rad am Erle-Bach,
+und wie im dunkle Buche-Wald
+mit schwere Streiche d&2019;Holz-Ax fallt?</pv>
+<cw>Wa&sr;</cw>
+<pb="49"/>
+<pv>Wa&sr; wandlet d&oe;rt im Morge-Stral
+Mit Tuch und Chorb dur&2019;&sr; Matte-Thal?
+&2019;&sr; sin d&2019;Meidli iung, und flink und froh,
+sie bringe weger d&2019;Snppe scho,
+und &2019;&sr; Anne Meili vornen a,
+e&sr; lacht mi scho vo witem a.</pv>
+<pv>Wenn ich der Sunn ihr B&ue;ebli w&ae;r,
+und &2019;&sr; Anne Meili ch&ae;m ungf&ae;hr
+im Morgeroth, ihm giengi no,
+i m&ue;eﬂt vom Himmel abe cho,
+und wenn au d&2019;Muetter balge wott,
+ich ch&oe;nnt&sr; nit lo, verzeihmer&sr; Gott!</pv></poem>
+<hr>
+<bs>4</bs>
+<pb="50"/>
+<d2><b><g>Der Carfunkel</g>.</b></d2>
+<hr>
+<poem><in>W</in>o der Aetti Tuback schn&ae;tzlet, se lue-
+get en d&2019;Marei
+fr&ue;ndli und bittwi&sr; a: &201E;Verzeli&sr; n&ae;umi&sr;
+o Aetti,
+&201E;weisch so wieder, wie necht, wo &2019;&sr; Ch&ue;n-
+gi het welle vertschlofe!&201C;
+Dr&ue;ber rucke &2019;&sr; Ch&ue;ngi, und&sr; Anne B&ae;bi
+und d&2019;Marei
+mit de Chunklen an&sr; Licht, und spanne d&2019;
+Saiten, und striche
+mittem Schw&ae;rtli &2019;&sr; Rad, und zupfen en-
+ander am Ermel.
+Und der Joppi nimmt e Hampfle Liecht-
+sp&oe;hn, und sezt si
+nebene Liechtstock hi, und seit: &201E;F&ue;r da&sr;
+willi sorge.&201C;
+Aber der Han&sr; Jerg lit e lange Weg &ue;be-
+ren Ofe,
+<pb="51"/>
+lueget aben und denkt: &201E;Do obe h&oe;ri&2019;&sr; am
+beste,
+&201E;und bi nieme&sr; im Weg.&201C; Druf, wo der
+Aetti si Tuback
+gschnitte het, und &2019;&sr; Pfifli gf&ue;llt, se chunnt
+er an Liechtspoh,
+und hebt &2019;&sr; Pfifli unter, und trinkt in gie-
+rige Z&ue;ge,
+bi&sr; e&sr; brennt; druf drukt er &2019;&sr; F&ue;&ue;r mit
+de Fingeren abe,
+und macht &2019;&sr; Deckeli zu. &201E;Se willi denn
+n&ae;umi&sr; verzehle,&201C;
+seit er, und sizt nieder, &201E;doch m&ue;ender or-
+deli still sy,
+&q;aﬂ i nit verstuun, eb&sr; u&sr; isch, und du
+d&oe;rt obe,
+&q;pack di vom Ofen abe! Hesch wieder nie-
+ne ke Platz g&2019;w&ue;ﬂt?
+&q;Isch&sr; der z&2019;wohl, und g&2019;lustt&2019;&sr; di wieder
+&q;no nem Carfunkel?
+&q;Numme ken, wie selle gsi isch, woni im
+Sinn ha:&q;
+<bs>4 *</bs>
+<pb="52"/>
+&q;&2019;&sr; isch e Pl&ae;tzli n&ae;ume, &2019;&sr; goht weder
+Ege no Pflug druf,
+Hurst an Hurst scho hundert Johr und gif-
+tigi Chr&ue;ter,
+&2019;&sr; singt kei Trostle drinn, ke Summerv&oe;-
+geli bsuecht sie,
+breiti Dosche h&ue;ete d&oe;rt e zeichnete Ch&oe;rper.
+&2019;&sr; w&ae;r ke ungschickt B&ue;rschli gsi, sel seit me,
+doch het er
+zitli &2019;&sr; Wirth&sr;hu&sr; g&2019;liebt, und &ue;ber Bibel
+und Gsangbuch
+sin em d&2019;Charte gsi am Samstig z&2019;Nacht
+und am Sunntig.
+Flueche het er ch&oe;nne, ne Hex im rueﬂige Chemi
+h&ae;tt si bsegnet und bettet, und d&2019;Sternen
+am Himmel hen zittert.
+&2019;&sr; het e mol im gr&ue;ene Rock e borstige J&ae;ger
+zug&2019;luegt, wie sie spiele. Mit unerh&oe;rte Fl&ue;eche
+het der Michel Stich um Stich und B&ue;eﬂli
+verlohre.
+&201E;Du vertlaufsch mer nit!&201C; seit f&ue;r si sel-
+ber der Gr&ue;nrock;
+<pb="53"/>
+d&2019; Wirthene het&sr; gh&oe;rt, und denkt; &201E;Wa&sr;
+gilt&sr;, &2019;&sr; isch e Werber!&201C;
+&2019;&sr; isch ke Werber gsi, der werdet&sr; besser erfahre,
+wenn der Michel g&2019;wibet het, und &2019;&sr; G&ue;etli
+verlumpet.
+Wa&sr; het &2019;&sr; Stroﬂwirth&sr; Tochter denkt?
+Sie het em u&sr; Liebi
+Hand und Jowort ge, doch nit u&sr; Liebi
+zum Michel,
+nei zu Vater und Mutter, e&sr; isch ihr Wil-
+len und Wunsch gsi.
+Sellen Oben isch&sr; in schwere Gidanke vert-
+schlofe,
+selli Mittnacht het&sr; e schwere bid&ue;tseme
+Traum gha.
+&2019;&sr; isch em gsi, e&sr; ch&oe;mm vo Staufe f&ue;ren
+an d&2019; Landstroﬂ;
+an der Landsiroﬂ goht e Chapeziner und betet.
+&201E;Schenket mer e He#gli, Her Pater, wen
+der so gut sy!
+&q;Bini nit Bruut? &2019;&sr; cha sy &2019;&sr; het g&ue;ti
+Bid&ue;tig.&201C;
+<pb="54"/>
+Landsem sch&ue;ttlet si Chopf der Pater, und
+unter der Chutte
+lengt er e Hampfle Helge. &201E;Do zieh der
+selber ein use!&201C;
+Seit&sr;, und wo ne&sr; zieht, se lengt&2019;&sr; in
+schmutzigi Charte.
+&201E;Hesch echt &2019;&sr; Eckstei-Aﬂ? &2019;&sr; bid&ue;tet e ro-
+the Carfunkel;
+&q;&2019;&sr; isch ke gute Schick!&201C; &2014; &201E;Jo weger,&201C;
+seit e&sr;, &201E;da&sr; hani!&201C;
+Wieder seit der Pater: &201E;Weisch wa&sr;, o
+Br&ue;&ue;tli, zieh&2019; anderst!
+&q;Hesch echt Siebe Chr&ue;tz?&201C; &2014; &201E;Jo weger!&201C;
+seit e&sr; und s&ue;fzget. &2014;
+&q;Tr&oe;st di Gott, zieh anderst, &2019;&sr; cha sy die
+dritti isch besser!
+&q;Hesch e blutig Herz? &201E;Jo weger!&201C; seit&sr;
+und lot&2019;&sr; falle. &2014;
+&201E;Jez zieh no ne mol, &2019;&sr; cha sy, di Heili-
+ge chunnt no!&201C;
+&201E;Isch&sr; der Schuflebueb?&201C; &2014; J weiﬂ nit,
+bschauet en selber!&201C; &2014;
+<pb="55"/>
+&201E;Jo de hesch en! Tr&oe;st di Gott! Er schuf-
+let di abe.&201C;
+So het&2019;&sr; im K&ae;tterli traumt, und so het&sr;
+selle mol gschlofe.
+Stroﬂwirth&sr; Tochter, wa&sr; hesch denkt, und
+hesch mer en doch g&2019;no?
+Jo, e&sr; het io m&ue;eﬂen und gseit: &201E;In&sr; Here
+Gott&sr; Name!
+&q;No de siebe Chr&ue;tzen und hinterem blutige
+Herze
+&q;chunnt mi Heilige, will&sr; der Her, und
+schuflet mi abe.&201C;
+Z&2019;erst h&ae;tt&2019;&sr; m&oe;ge go. Wohl mengmol het
+zwor der Michel
+wieder gspielt und trunken, und gflucht, und
+&2019;&sr; K&ae;tterli ploget.
+Mengmol isch er in si gange, wenn &2019;&sr; en
+mit Thr&ae;ne
+bittet het, und bette. Ne mol se seit er:
+&201E;Jez willi
+&q;mit dee akkordieren, und d&2019;Charte willi
+verflueche:
+<pb="56"/>
+&q;Soll mi der T..... hole, so bald i eini
+me ar&ue;hr!
+&q;Aber in&sr; Wirth&sr;hu&sr; gangi, und &2019;&sr; Wirth&sr;-
+hu&sr; chani nit mide.
+&q;Grum&sr; und h&ue;l, so lang de witt, ich cha
+der nit helfe!&201C;
+Het er &2019;&sr; Erst nit ghalte, sen isch er im
+Andere treu gsi.
+Woner in&sr; Wirth&sr;hu&sr; chunnt, se sitzt mi
+borstige Gr&ue;nrock
+Hinterem Tisch, selb dritt, und m&ue;schlet d&2019;
+Charten, und r&ue;eft em:
+&201E;Bisch e Cammerad, se chumm, se wem-
+mer ei&sr; #ache!&201C;
+&201E;Ich nit,&201C; seit der Michel, &201E;Ba&sr; Mar-
+greth leng mer e Sch&oe;pli!&201C;
+&201E;Du nit?&201C; seit der Gr&ue;n, &201E;Chumm num-
+me, biﬂ de di Schoppe
+&q;trunke hesch, und &2019;&sr; goht um n&ue;t, &2019;&sr; isch
+ebe f&ue;r Churzwiil!&201C;
+&201E;He,&201C; denkt bynem selber der Michel,
+&201E;wenn e&sr; um n&ue;t goht,
+<pb="57"/>
+&q;sel isch io nit g&2019;spielt,&201C; und sezt si richtig
+zum Gr&ue;nrock.
+&2019;&sr; chunnt e Chnab an&sr; Fenster mit lockiger
+Stirnen, und r&ue;eft em:
+&201E;Meister Michel, uffe Wort! Der Stroﬂe-
+wirth schikt mi.&201C;
+&201E;Schik en wieder,&201C; seit er, &201E;i weiﬂ scho,
+wa&sr; er w&ue;rd welle.
+&q;Wer spielt u&sr;? und wa&sr; isch Trumpf?
+und gstoche da&sr; Eckstei!&201C;
+Druf und druf! Z&2019;lezt seit der Gr&ue;nrock:
+&201E;Lo&sr;, de spielsch gl&ue;ckli!
+&q;Wemmer umme Chr&ue;tzer mache?&201C; &2014; &201E;Sel
+isch iez eithue,&201C;
+denkt der Michel, &201E;Gspielt isch gspielt, und
+Mintwege!&201C; seit er.
+&201E;Ch&oe;mmet&201C; r&ue;eft der Chnab, und p&oe;pper-
+let wieder am Fenster,
+&201E;Nummen uf en einzige W&oe;rtli!&201C; &2014; &201E;Loﬂ
+mi ung&2019;heit iez!
+&q;Chr&ue;tz im Baum # und Schufle no! Und
+no ne mol Schufle!&201C;
+<pb="58"/>
+Und so goht&sr; vom Chr&ue;tzer bi&sr; endli uffe
+Dublone.
+Wo sie ufst&oe;hn, seit der Gr&ue;nrock: &201E;Mi-
+chel, i cha di
+&q;iez nit zahle! Nimm mi Rlng, &2019;&sr; cha sy
+er isch mehr werth!&201C;
+&2019;&sr; dritmol chlopft&sr; am Fenster: &201E;O Michel
+ch&oe;mmet, wil&2019;&sr; Zit isch!&201C;
+&q;Loﬂ en schwetze, seit der Gr&ue;nrock, wenn
+er nit goh will!
+&q;Nimm du do mi Fingerring, und wenn
+de ke Chr&ue;tzer
+&q;Geld deheim, und niene hesch, e&sr; cha der
+nit fehle.
+&q;Wenn der Ring am Finger steckt, und
+wenn de in Sack lengsch
+&q;alli Tag emol, se hesch e bairische Tha-
+ler.
+&q;Nummen an kem Fyrtig, sel wotti der
+selber nit rothe.
+&q;Chasch mi witer&sr; bruche, se r&ue;ef mer num-
+men! J h&oe;r di.
+<pb="59"/>
+&q;Heiﬂi nit Vizli Buzli, und hani d&2019; Ohre
+nit bymer?
+Sieder briegget d&2019; Frau deheim im einse-
+me St&ue;bli,
+und li&sr;t in der Bibel und im verriﬂene
+Bettbuch,
+und der Michel chunnt und sch&ae;ndet: &201E;Findi
+di wieder
+&q;an dim ewige Betten und dunderschieﬂige
+H&ue;le?
+&q;Lueg do, wa&sr; i gunne ha, ne rothe Char-
+funkel!&201C;
+&2019;&sr; K&ae;tterli verschrickt: &201E;O Jesi&sr;,&201C; seit e&sr;,
+&201E;wa&sr; siehni!
+&q;&2019;&sr; isch ke guete Schick!&201C; &2014; und sinkt der-
+nieder in Ohmacht.
+W&ae;rsch doch n&ue;mme verwacht, wie men-
+ge bittere Chummer
+h&ae;ttsch verschlofen, armi Frau, wo diner
+no wartet!
+Jez wird&sr; t&ae;gli schlimmer. Uf alle Merte
+flankiert er,
+<pb="60"/>
+goht uf iedi Ch&ue;lbi, und wo me ne Wirth&sr;-
+hu&sr; bitrittet,
+z&2019; nacht um Zw&oe;lfi, Vormittag und z&2019; oben
+um Vieri,
+sizt der Michel do, und m&ue;schlet tr&ue;glichi
+Charte.
+&2019;&sr; Chind verwildert, &2019;&sr; G&ue;etli schwindet,
+Acker um Acker
+chunnt an Stab und d&2019; Frau vergoht in bit-
+tere Thr&ae;ne.
+Goht er &oe;bbe heim, git&sr; schn&oe;di Reden und
+Antwort.
+&201E;Chunnsch du Lump?&201C; Und so und so &2014;
+Mit trunkene Lippe
+fluecht der Michel, schlacht si Frau. Jez
+muﬂ er zum Pfarrer,
+iez vor Oberamt, und mittem Haschierer
+im Thurn zu.
+Goht er schlimm, se chunnt er &ae;rger, wen-
+nem der Vizli
+Buzli wieder d&2019; Ohre striicht, und Gallen
+in&sr; Blut mischt.
+<pb="61"/>
+So w&ae;hrt&sr; siebe Johr. Emol se bringt
+en der Buzli
+wieder usem Thurn, und &201E;Allo g&oe;hn mer
+in&sr; Wirth&sr;hu&sr;,
+&q;eb de heim chunnsch mit de Streiche, wo
+sie der ge hen!
+&q;Wa&sr; der d&2019;Frau zum Willkumm pr&ae;glet,
+wird di nit brenne.
+&q;Lo&sr;, de duursch mi, wenn i dra denk, &2019;&sr;
+m&oe;cht ein versprenge,
+&q;wie&2019;&sr; der goht, und wie der d&2019; Frau di
+Lebe verbittert &2014;
+&q;So ne Ma, wie du, wo &2019;&sr; Tag&sr; si Tha-
+ler verthue cha!
+&q;Gl&ue;ckli bisch im Spiele; doch no nem lei-
+dige Spr&ue;chwort,
+&q;mittem Wibe hesch&2019;&sr; nit troffe, chani der
+sage.
+&q;W&ae;rsch ellei, wie h&ae;ttsch&2019;&sr; so gut, und
+lebtisch so r&ue;eihig!
+&q;&2019;&sr; pin&2019;get di, i sieh der&sr; a, und d&2019; Odere
+schwelle.
+<pb="62"/>
+&q;Trink e Schl&ue;ckli Brentewi, er ch&ue;eltder
+di Jast ab!&201C;
+Aber d&2019; Frau deheim, mit zsemegfchlage-
+ne H&ae;nde
+sizt sie uffem Bank, und luegt dur Thr&ae;nen
+am Himmel:
+&201E;<g>Siebe Johr und siebe Chr&ue;tz</g>!&201C; so
+schluchzget sie endli,
+&201E;&2019;&sr; wird mer redli wohr, und Gott im
+Himmel well&sr; ende!&201C;
+Seit&sr; und nimmt e Buch und betet Tode&sr;-
+gidanke.
+Dr&ue;ber schnellt der Michel d&2019;Th&ue;r uf, und
+f&ue;rchterli schnauzt er:
+&201E;H&ue;lsch au wieder, du hesch&sr; n&oe;thig, fal-
+schi Canali!
+&q;Sur-Chrut choch mer!&201C; &2019;&sr; K&ae;tterli seit: &201E;&2019;&sr;
+isch niene ke F&ue;&ue;r meh.&201C;
+&201E;Sur-Chrut willi! Lueg i dreih der &2019;&sr; Mes-
+ser im Lib um.&201C; &2014;
+&201E;Lieber h&ue;t, a&sr; morn! De bringsch mi un-
+tere Bode
+<pb="63"/>
+&q;ei Weg wie der ander, und &2019;&sr; B&ue;ebli hesch
+mer scho g&2019;mordet.&201C; &2014;
+&201E;Di soll der Dunder und&sr; Wetter in Erd&sr;-
+Boden abe verschlage!&201C;
+seit&2019;&sr; und zukt, und sinnlo&sr; tr&ue;mmlet &2019;&sr;
+K&ae;tterli nieder:
+&201E;O <g>mi bluetig Herz</g>,&201C; so st&oe;hnt&sr; no
+li&sr;li im Falle,
+&201E;<g>Chumm, o Schuflebueb, do hesch
+mi, schufle mi abe</g>!&201C;
+Jez der Michel furt, vom schnelle Schre-
+ken ergriffe,
+lauft in&sr; Feld, der Bode schwankt, und &2019;&sr;
+raﬂlet im Nuﬂbaum.
+&201E;Vizli Buzli roth mer du!&201C; So r&ue;eft er.
+Der Buzli
+hinterem Nuﬂbaum stoht er, und chunnt, und
+frogt <g>en</g>: &201E;Wa&sr; fehlt der?&201C;
+&201E;D&2019; K&ae;th&2019;ri hani verstoche, jez roth mer,
+wa&sr; i soll mache!&201C; &2014;
+&201E;Isch da&sr; alle&sr;?&201C; seit der Buzli. &201E;We-
+ger de chasch ein
+<pb="64"/>
+&q;doch verschrecken, aﬂ me meint, wa&sr; Wun-
+der passiert seig!
+&q;N&ae;rsch, iez chasch im Land nit bleibe, &2019;&sr;
+m&oe;cht e Verdruﬂ ge.
+&q;Isch nit d&oe;rt der Rhi? Und chumm, i
+will di bigleite,
+&q;&2019;&sr; stoht e Schif am Gstad!&201C; &2014; Jez stige
+sie ehnen im Sungg&ae;u
+frisch an&sr; Land, und quer dur&2019;&sr; Feld. Im
+einseme Wirth&sr;hu&sr;
+brennt e Liecht. &201E;Mer wen doch luege, wer
+no do inn isch,&201C;
+seit der Gr&ue;n, &201E;wer weiﬂ de chasch der d&2019;
+Grille vertribe!&201C;
+Aber im Wirth&sr;hu&sr; sitze no spoti n&ae;cht-
+ligi Gselle,
+und &2019;&sr; goht vornen a mit Banketieren und
+Spiele.
+&201E;Chr&ue;tz isch Trumpf! Und no ne mol! Und
+ch&oe;nnetder die do?
+&q;Gstoche die! und no ne Trumpf! Und &2014;
+gstoche da&sr; Herzli!&201C;
+<cw>&2019;&sr;</cw>
+<pb="65"/>
+&2019;&sr; warnet scho uf Zw&oe;lfi. O will mit lo-
+kiger Stirne
+iez ke Chnab erschine? Nei weger! Mi-
+chel, e&sr; endet!
+O, wie spielsch so s&oe;lli ungschickt? <g>Gsto-
+che da&sr; Herzli</g>,
+lengt em tief in d&2019; Seel, und alli mol, wenn
+er e Stich macht,
+wiederholt&sr; der Buzli, und wirft im Mi-
+chel e Blick zu.
+&2019;&sr; schlacht scho Zw&oe;lfi u&sr;. Mit alliwil
+schlechtere Charte
+spielt er allwil schlechter, und zahlt afange
+mit Chride.
+&2019;&sr; schlacht e Viertel uf Ei&sr;. Jez lengt er
+mit g&2019;ringletem Finger
+frisch in Sack: &201E;Wer wech&sr;let no ne bai-
+rische Thaler?&201C;
+Schlechti M&ue;nz, Her Michel! er lengt in
+glasige Scherbe,
+thut e Schrei, und luegt mit Gruu&sr; und
+Schrecke der Gr&ue;n a.
+<bs>5</bs>
+<pb="66"/>
+Aber der Buzli leert si Brenntewi-Gl&ae;&sr;li
+und schmazget:
+&201E;Michel, chumm iez furt, der Wirth w&ue;rd
+wellen in&sr; Bett goh!
+&q;&2019;&sr; ch&oe;mme h&ue;t viel G&ae;st, sie hen e lusti-
+ge Fyrtig.
+&q;Isch nit <g>Ludwig&sr;tag</g>, der f&ue;nfezwen-
+zigst Augusti?
+&q;Dreih am Ring, so lang de witt, de
+bringsch en nit abe!&201C;
+O, wie het der Michel g&2019;lo&sr;t &2014; e <g>lusti-
+ge Fyrtig</g>;
+O wie het er d&2019;F&ue;eﬂ am Tischbei unte ver-
+chlammert!
+&2019;&sr; hilft nit lang, und thut nit gut. Mit
+&ae;ngstlichem Bebe
+stoht er uf, und seit ke Wort, und goht
+mittem Buzli,
+vornen a der Gr&ue;n, und an de Ferse der
+Michel,
+wie ne Chalb im Metzger folgt zur bluetige
+Schlachtbank.
+<pb="67"/>
+Oebbe ne B&ue;chseschuﬂ vom Wirth&sr;hu&sr; stellt
+en der Buzli.
+&201E;Michel, seit er, lueg e&sr; stoht kei Sternli
+am Himmel!
+&q;Lueg, der Himmel hangt voll Wetter &ue;ber
+und &ue;ber!
+&q;&2019;&sr; goht kei Luft, e&sr; schwankt kei Nast, e&sr;
+r&ue;hrt si ke L&ae;ubli,
+&q;und du bischmer au <g>so</g> still! De wirsch
+doch nit bette!
+&q;Machsch der &oe;bbe d&2019;Uerthe? Gell &2019;&sr; Leben
+isch der verleidet?
+&q;Wie de meinsch! Di Wahl isch schlecht, i
+muﬂ der&sr; bikenne.
+&q;Se do hesch e Messer, i ha&2019;&sr; am Blotze-
+mer Mert g&2019;chauft!
+&q;Hau der d&2019; Gurgle selber ab, se chost&2019;&sr;
+di ke Trinkgeld!&201C;</poem>
+<hr>
+<poem>So verzehlt der Aetti, und mit engbr&ue;stigem
+Othem
+<bs>5 *</bs>
+<pb="68"/>
+seit iez d&2019; Muetter: &201E;Bisch bal serig? Mach
+mer die Meidli
+&q;nit so z&2019;f&oe;rche, &2019;&sr; sin doch nummen er-
+dichteti M&ae;hrli!&201C; &2014;
+&201E;Jo, i bi io ferig!&201C; erwiedert der Aetti,
+&201E;d&oe;rt lit er
+&q;mit sim Ring im Dornegh&ue;rst, wo d&2019;
+Trostle nit singe.&201C;
+Aber d&2019; Marei seit: &201E;O Muetter, wer
+wird em denn f&oe;rche!
+&q;Denksch, i merk nit, wa&sr; er meint, und
+wa&sr; er will sage?
+&q;Jo, der Vizli Buzli, da&sr; isch die b&oe;si
+Versuchung.
+&q;Lokt sie nit, und f&ue;hrt sie nit in S&ue;nden
+und Elend,
+&q;wenn e Mensch nit bete mag, und folgt
+nit, und schafft n&ue;t!
+&q;Und der lockig Chnab isch gueti Warnig
+im Gwisse.
+&q;O, i chenn mi Aetti wohl, und sini Gi-
+danke!&201C;</poem>
+<hr>
+<pb="69"/>
+<d2><b><g>Da&sr; Hexlein</g>.</b></d2>
+<hr>
+<poem><pv><in>U</in>nd woni uffem Schnid-Stuhl sitz
+f&ue;r Basseltang, und Liechtsp&oe;h schnitz,
+se chunnt e Hexli wohlgimuth,
+und frogt no frey: &201E;Haut&2019;&sr; Messer gut?&201C;</pv>
+<pv>Und seit mer frey no Gute Tag!
+und woni lueg, und woni sag:
+&201E;&2019;&sr; ch&oe;nnt besser go, und Groﬂe Dank!&201C;
+se wird mer &2019;&sr; Herz uf ei mol chrank.</pv>
+<pv>Und uf, und furt enanderno,
+und woni lueg, isch&sr; n&ue;mme do,
+und woni r&ue;ef: &201E;Du Hexli he!&201C;
+se git&sr; mer scho kei Antwort meh.</pv>
+<pb="70"/>
+<pv>Und sieder schmekt mer &2019;&sr; Esse nit;
+stell umme, wa&sr; de hesch und witt,
+und wenn en ander&sr; schlofe cha,
+se h&oe;ri alli Stunde schla.</pv>
+<pv>Und wa&sr; i schaff da&sr; g&2019;rothet nit,
+und alli Schritt und alli Tritt,
+se chunnt mer ebe da&sr; Hexli f&ue;r,
+und wa&sr; i schwetz, isch hinterf&ue;r.</pv>
+<pv>&2019;&sr; isch wohr, e&sr; het e Gsichtli gha,
+&2019;&sr; verluegti si en Engel dra;
+und &2019;&sr; seit mit so &2019;me freie Muth,
+so lieb und s&ue;ﬂ: &201E;Haut &2019;&sr; Messer gut?&201C;</pv>
+<pv>Und leider hani&2019;&sr; gh&oe;rt und gseh,
+und sellemol&sr; und n&ue;mme meh;
+d&oe;rt isch&sr; an Hag und Hurst verbey,
+und witer&sr; &ue;ber Stock und Stei.</pv>
+<pb="71"/>
+<pv>Wer sp&oe;chtet mer mi Hexli u&sr;,
+wer zeigtmer siner Mutter Hu&sr;?
+J lauf no, wa&sr; i laufe cha,
+wer weiﬂ, se triffi&2019;&sr; doch no a!</pv>
+<pv>J lauf no alli D&oe;rfer u&sr;,
+i such und frog vo Hu&sr; zu Hu&sr;,
+und w&ue;rd mer nit mi Hexli chund,
+se w&ue;rdi ebe n&ue;mme gsund.</pv></poem>
+<hr>
+<pb="72"/>
+<d2><b><g>Der Mann im Mond</g>.</b></d2>
+<hr>
+<poem><pv>&201E;<in>L</in>ueg M&ue;etterli, wa&sr; isch im Mo&2019;?&201C;
+He, siehsch&sr; denn nit, e Ma!
+&q;Jo wegerli, i sieh en scho;
+&q;er het e Tsch&oe;pli a.</pv>
+<pv>&201E;Wa&sr; tribt er denn die ganzi Nacht,
+&q;er r&ue;ehret io kei Glied?&201C;
+He, siehsch nit, aﬂ er Welle macht?
+&201E;Jo, ebe dreiht er d&2019;Wied.&201C;</pv>
+<pv>&201E;W&ae;r ich, wie er, i blieb dehei&2019;,
+&q;und machti d&2019;Welle do.&201C;
+He, isch er denn u&sr; &ue;ser Gmei&2019;?
+Mer hen scho gnug eso.</pv>
+<pb="73"/>
+<pv>Und meinsch, er ch&oe;nn so, wiener well?
+E&sr; wird em, wa&sr; em g&2019;h&oe;rt;
+er gieng wol gern &2014; der sufer Gsell
+muﬂ schellewerche d&oe;rt.</pv>
+<pv>&201E;Wa&sr; het er bo&sr;get, M&ue;tterli?
+&q;Wer het en bannt d&oe;rthi?&201C;
+Me het em gseit der <g>Dieterli</g>,
+e N&ue;tznutz isch er gsi.</pv>
+<pv>Uf&sr; Bete het er nit viel gha,
+uf&sr; Schaffen o nit viel,
+und &oe;bbi&sr; muﬂ me triebe ha,
+sust het me langi Wil.</pv>
+<pv>Drum, het en &oe;bbe nit der Vogt
+zur Strof in&sr; H&ue;&sr;li gspert,
+sen isch er ebe z&2019;Chander g&2019;hockt,
+und het d&2019;Butelli g&2019;lert.</pv>
+<pb="74"/>
+<pv>&201E;Je, M&ue;etterli, wer het em &2019;&sr; Geld
+&q;zu so&2019;me Lebe ge?&201C;
+Du N&ae;rsch, er het in Hu&sr; und Feld
+scho selber w&ue;sse z&2019;neh.</pv>
+<pv>Ne mol, e&sr; isch e Sunntig gsi,
+so stoht er uf vor Tag,
+und nimmt e Beil, und tummlet si,
+und lauft in Lieler Schlag.</pv>
+<pv>Er haut die sch&oe;nste B&ue;echli um,
+macht Bohne-Stecke dru&sr;,
+und treit sie furt, und luegt nit um,
+und isch scho fast am Hu&sr;.</pv>
+<pv>Und ebe goht er &ue;bere Steg,
+se ruuscht em &oe;bbi&sr; f&ue;r:
+&201E;Jez Dieter goht&sr; en andere Weg!
+Jez Dieter chumm mit mir!&201C;</pv>
+<pb="75"/>
+<pv>Und uf und furt, und sieder isch
+kei Dieter wit und breit.
+D&oe;rt obe stoht er im Gib&ue;sch
+und in der Einsamkeit.</pv>
+<pv>Jez haut er iungi B&ue;echli um;
+iez chuchet er in d&2019; H&ae;nd;
+iez dreiht er d&2019; Wied, und leit sie drum,
+und &2019;&sr; Sufe het en End.</pv>
+<pv>So goht&sr; im arme Dieterli;
+er isch e gstrofte Ma!
+&201E;O bh&ue;ti&sr; Gott, lieb M&ue;etterli,
+&q;i m&oe;cht&sr; nit mittem ha!&201C;</pv>
+<pv>Se h&ue;t di vorem b&oe;se Ding,
+&2019;&sr; bringt numme Weh und Ach!
+Am Sunntig rueih, und bet und sing.
+Am Werchtig schaff di Sach.</pv></poem>
+<hr>
+<pb="76"/>
+<d2><b><g>Die Marktweiber in der
+Stadt</g>.</b></d2>
+<hr>
+<poem><pv><in>J</in> chumm do u&sr; &2019;&sr; Roth&sr;here Hu&sr;,
+&2019;&sr; isch wohr, &2019;&sr; sieht proper u&sr;;
+doch isch&sr; mer, sie heigen o M&ue;eih und Roth
+und allerlei schweri Gidanke,
+<g>&201E;Chromet s&ue;ssen Anke!&201C;</g>
+wie&sr; eben &ue;beral goht.</pv>
+<pv>Jo weger, me meint in der Stadt
+seig alle&sr; sufer und glatt;
+die Here sehn eim so lustig u&sr;,
+und &2019;&sr; Chr&ue;tz isch ebe durane,
+<g>&201E;Chromet iungi Hahne!&201C;</g>
+mengmol im pr&oe;perste Hu&sr;.</pv>
+<pb="77"/>
+<pv>Und wemme gch&ae;mpft muﬂ ha,
+goht&sr;, meini, ehnder no a
+im Freie dusse, wo d&2019; Sunn o lacht;
+do innen isch&sr; zum Bitr&ue;ebe;
+<g>&201E;Chromet geli R&ue;ebe!&201C;</g>
+Sie hen schier alliwil Nacht.</pv>
+<pv>Fr&ue;eih, wenn der Tag verwacht,
+wa&sr; isch&sr; nit f&ue;r e Pracht!
+Der lieb Gott, meintme, well selber cho,
+er seig scho an der Chrischone, <fn="*)">Alte Kirche auf einem Bergr&ue;cken.</fn>
+<g>&201E;Chromet gr&ue;ni Bohne!&201C;</g>
+und ch&oe;mm iez enanderno.</pv>
+<pv>Und d&2019; V&oe;geli meine&sr; o,
+sie werde so busper und froh,
+und singe: &201E;Herr Gott dich loben wir&201C;
+und &2019;&sr; glitzeret ebe z&2019;send ane;
+<g>&201E;Chromet iungi Hahne!&201C;</g>
+&2019;&sr; isch wohr, me verlueget si schier.</pv>
+<pb="78"/>
+<pv>Und faﬂt e frische Muth,
+und denkt: Gott meint&sr; io gut,
+sust h&ae;tt der Himmel kei Morgeroth;
+er willi&sr; nummen o &ue;ebe;
+<g>&201E;Chromet geli R&ue;ebe!&201C;</g>
+mer bruche ke Zuckerbrod.</pv>
+<pv>Und innewendig am Thor
+se hen sie d&2019;Umh&ae;ng no vor,
+&2019;&sr; isch ebe no alle&sr; still und tod.
+Und ziehn sie der Umhang f&ue;rsi,
+<g>&201E;Chromet schwarzi Chirsi!&201C;</g>
+se sehn sie kei Morgeroth.</pv>
+<pv>Drum merke sie&sr; selber schier,
+und ch&oe;mme zum Pl&ae;sir
+uf&sr; Land, und hole ne frische Muth
+im Adler und bym Schwane;
+<g>&201E;Chromet iungi Hahne!&201C;</g>
+&ue;&sr; st&ue;nd io d&2019; Stadt wol gut!</pv>
+<pb="79"/>
+<pv>Und doch meint so ne Her,
+er seig weiﬂ Wunder mehr,
+aﬂ &ue;ser&sr; gattig&sr; und bschaut ein nit.
+e&sr; dunkt mi aber, er ir si;
+<g>&201E;Chro met s&ue;ssi Chirsi!&201C;</g>
+mer tnuschte wegerli nit.</pv>
+<pv>Rich sin sie, &2019;&sr; isch kei Frog,
+&2019;&sr; Geld het nit Platz im Trog;
+thut &ue;ser eim e B&ue;eﬂli weh,
+Verbause sie Dublone,
+<g>&201E;Chromet gr&ue;ni Bohne!&201C;</g>
+und hen no alliwil meh.</pv>
+<pv>Wa&sr; chost en Immi&sr; nit?
+&2019;&sr; heiﬂt numme: Mul, wa&sr; witt?
+Pastetli, Str&ue;bli, Fleisch und Fisch,
+und T&oe;rtli und Makrone;
+<g>&201E;Chromet gr&ue;ni Bohne!&201C;</g>
+der Platz fehlt uffem Tisch.</pv>
+<pb="80"/>
+<pv>Und erst der Staat am Lib!
+me cha&2019;&sr; nit seh vor Chib.
+Jo wedelet numme, d&2019;Stroﬂ isch breit,
+mit eue Junten! J th&ae;tich &2014;
+<g>&201E;Chromet zarti Retich!&201C;</g>
+i h&ae;tt schier gar n&ae;umi&sr; gseit.</pv>
+<pv>Doch isch eim &2019;&sr; Herz bitr&ue;bt,
+se gib em, wa&sr; em bliebt,
+e&sr; schmekt em nit und freut en nit;
+e&sr; goht eim wie de Chranke;
+<g>&201E;Chromet s&ue;ssen Anke!&201C;</g>
+Wa&sr; thut me denn dermit?</pv>
+<pv>Und het me Chr&ue;tz und Harm,
+sen isch me ringer arm;
+me het nit viel, und brucht nit viel,
+und isch doch sicher vor Diebe;
+<g>&201E;Chromet geli R&ue;ebe!&201C;</g>
+z&2019;lezt chuunt men o zum Ziel.</pv>
+<cw>Jo</cw>
+<pb="81"/>
+<pv>Jo gell, wenn&sr; St&ue;ndli schlacht?
+He io, &2019;&sr; bringt iedi Nacht
+e Morgen, und me freut si druf.
+Gott het im Himmel Chrone;
+<g>&201E;Chromet gr&ue;ni Bohne!&201C;</g>
+Mer wen do da&sr; G&ae;ﬂli uf.</pv></poem>
+<hr>
+<bs>6</bs>
+<pb="82"/>
+<d2><b><g>Der Sommerabend</g>.</b></d2>
+<hr>
+<poem><pv><in>O</in>, lueg doch, wie isch d&2019; Sunn so m&ue;ed,
+lueg, wie sie d&2019; Heimeth abezieht!
+O lueg, wie Stral um Stral verglimmt,
+und wie sie &2019;&sr; Fazenetli nimmt,
+e W&ue;lkli, blau mit roth verm&ue;scht,
+und wie sie an der Stirne w&ue;scht.</pv>
+<pv>&2019;&sr; isch wohr, sie het au &ue;bel Zit,
+im Summer gar, der Weg isch wit,
+und z&2019; schaffe findt sie &ue;beral
+in Hu&sr; und Feld, in Berg und Thal;
+&2019;&sr; will alle&sr; Liecht und W&ae;rmi ha,
+und spricht sie um e Segen a.</pv>
+<pb="83"/>
+<pv>Meng Bl&ue;mli het sie u&sr;staffirt,
+und mit scharmante Farbe ziert,
+und mengem Immli z&2019;trinke ge,
+und gfrogt: Hesch gnug und witt no meh?
+und &2019;&sr; Ch&ae;ferli het hinte no
+doch au si Tr&oe;pfli &ue;bercho.</pv>
+<pv>Meng Some-Ch&oe;pfli het sie gsprengt,
+und &2019;&sr; zitig S&oe;mli use g&2019;lengt.
+Hen d&2019; V&oe;gel nit bi&sr; z&2019; allerlezt
+e Bettle&sr; gha, und d&2019; Schn&ae;bel g&2019;wezt?
+Und kein goht hungerig in&sr; Bett,
+wo nit si Theil im Chr&oe;pfli het.</pv>
+<pv>Und wo am Baum e Chriesi lacht,
+se het sie&2019;m rothi B&ae;ckli gmacht;
+und wo im Feld en Aehri schwankt,
+und wo am P#ohl e Rebe rankt,
+se het sie eben abe glengt,
+und het&2019;&sr; mit Laub und Bluest umhengt.</pv>
+<bs>6 *</bs>
+<pb="84"/>
+<pv>Und uf der Bleichi het sie gschaft
+h&ue;tie und ie u&sr; aller Chraft;
+der Bleicher het si selber gfreut,
+doch h&ae;tt&2019; er nit: Vergelt&sr; Gott! gseit;
+und het e Frau ne W&oe;schli gha,
+se het sie trochnet druf und dra.</pv>
+<pv>&2019;&sr; isch weger wohr, und &ue;beral
+wo d&2019; S&ae;gesen im ganze Thal
+dur Gra&sr; und Halme gangen isch,
+se het sie g&2019;heuet froh und frisch.
+E&sr; isch e Sach, by miner Treu,
+am Morge Gra&sr; und z&2019;obe Heu!</pv>
+<pv>Drum isch sie iez so s&oe;lli m&ue;ed,
+und brucht zum Schlof kei Obe-Lied;
+kei Wunder, wenn sie schnuft und schwizt,
+lueg wie sie d&oe;rt uf &2019;&sr; Bergli sizt!
+Jez l&ae;chlet sie zum lezte mol,
+jez seit sie: Schlofet alli wohl!</pv>
+<pb="85"/>
+<pv>Und d&2019;unten isch sie! B&2019;h&ue;t di Gott!
+Der Guhl, wo uffem Chilch-Thurn stoht,
+het no nit gnug, er bschaut sie no.
+Du Wundervitz wa&sr; gafsch denn so?
+Wa&sr; gilt&sr;, sie thut der bald derf&ue;r,
+und zieht e rothen Umhaug f&ue;r!</pv>
+<pv>Sie duuret ein, die guti Frau,
+sie het ihr redli Hu&sr;-Chr&ue;tz au.
+Sie lebt gwiﬂ mittem Ma nit gut,
+und chunnt sie heim, nimmt er si Hut;
+und wa&sr; i sag, iez chunnt er bald,
+d&oe;rt sizt er scho im Fohre-Wald.</pv>
+<pv>Er macht so lang, wa&sr; tribt er echt?
+Me meint schier gar er trau nit recht.
+Chumm numme, sie isch n&ue;mme do,
+&2019;&sr; wird alle&sr; sy, se schloft sie scho!
+Jez stoht er uf, er luegt in&sr; Thal,
+und &2019;&sr; M&oe;hnli gr&ue;eﬂt en &ue;beral.</pv>
+<pb="86"/>
+<pv>Denkwol, mer g&oe;hn iez au in&sr; Bett,
+und wer kei Dorn im Gwiﬂe het,
+der brucht zum Schlofen au kei Lied;
+me wird vom Schaffe selber m&ue;ed;
+und &oe;bbe hemmer Sch&oe;chli gmacht,
+drum gebi&sr; Gott e guti Nacht!</pv></poem>
+<hr>
+<pb="87"/>
+<d2><b><g>Die Mutter
+am Christ-Abend</g>.</b></d2>
+<hr>
+<poem><pv><in>E</in>rschloft, er schloft! Do lit er, wie ne Grof!
+Du lieben Engel, wa&sr; i bitt,
+by Lib und Lebe verwach mer nit,
+Gott git&sr; de Siinen im Schlof!</pv>
+<pv>Verwachmer nit, verwachmer nit!
+Di Mutter goht mit stillem Tritt,
+sie goht mit zartem Mutter-Sinu,
+und holt e Baum im Ch&ae;mmerli d&2019;inn.</pv>
+<pv>Wa&sr; henki der denn dra?
+Ne sch&oe;ne Lebchueche-Ma;
+ne Gitzeli, ne Mummeli
+und Bl&ue;emli wiiﬂ und roth und gel,
+alle&sr; vo s&ue;essem Zucker-Mehl.</pv>
+<pb="88"/>
+<pv>&2019;&sr; isch gnueg, du Mutter-Herz,
+viel S&ue;eﬂ macht numme Schmerz!
+Gib&2019;&sr; sparsem, wie der liebi Gott,
+er helset nit alli Tag Zucker-Brod.</pv>
+<pv>Jez R&ue;mmechr&ue;sliger her,
+die allersch&oe;nste, woni ha,
+&2019;&sr; isch nummen au kei M&oe;seli dra!
+Wer het sie sch&oe;ner, wer?</pv>
+<pv>&2019;&sr; isch wohr, e&sr; isch e Pracht,
+wa&sr; so en Oepfel lacht;
+und isch der Zucker-Beck e Ma,
+se mach er so ein, wenn er cha!
+Der lieb Gott het en gmacht.</pv>
+<pv>Wa&sr; hani echt no meh?
+Ne Fazenetli wiiﬂ und roth,
+und da&sr; ei&sr; vo de sch&oe;ne.
+O Chind vor bittre Thr&ae;ne
+biwahr di Gott, biwahr di Gott!</pv>
+<pb="89"/>
+<pv>Und wa&sr; isch meh do inn?
+ne B&ue;echli, Chind! &2019;&sr; isch au no di;
+i leg der sch&oe;ni Helgeli dri,
+und sch&oe;ni Gibetli sin selber drinn.</pv>
+<pv>Jez ch&oe;nnti, traui, goh;
+e&sr; fehlt n&ue;t meh zum Gute &2014;
+Potz tausig, no ne Ruthe!
+Do isch sie scho, do isch sie scho!</pv>
+<pv>&2019;&sr; cha sy, sie frent di nit,
+&2019;&sr; cha sy, sie haut der &2019;&sr; V&ue;deli wund;
+doch witt nit anderst, sen isch&sr; der gsund,
+de muesch nit, wenn d&2019; nit witt.</pv>
+<pv>Und willsch&sr; nit anderst ha,
+in Gotti&sr; Name seig e&sr; drum!
+Doch Muetter-Liebe isch zart und frumm,
+sie windet rothi Bendeli dri,
+und macht e Letschli dra.</pv>
+<pb="90"/>
+<pv>Jez w&ae;r er u&sr;staffirt,
+und wie ne May-Baum ziert,
+und wenn bi&sr; fr&ue;eih der Tag verwacht,
+het &2019;&sr; Wienecht-Chindli alle&sr; gmacht.</pv>
+<pv>De nimmsch&sr; und danksch mer&2019;&sr; nit;
+Drum weisch nit, wer der&sr; git;
+Doch macht&sr; der numme ne frohe Muth,
+und schmekt&sr; der numme, sen isch&sr; scho gut.</pv>
+<pv>Bym Bluest, der W&ae;chter r&ue;eft
+scho Oelfi! Wie doch d&2019;Zit verrinnt,
+und wie me si vertieft,
+wenn &2019;&sr; Herz an n&ae;umi&sr; Nahrig findt!</pv>
+<pv>Jez, bh&ue;tdi Gott der Her!
+en anderi Cheri mehr!
+Der heilig Christ isch hinecht cho,
+het Chinde&sr; Fleisch und Blut ag&2019;no;
+W&ae;rsch au so brav, wie er!</pv></poem>
+<hr>
+<pb="91"/>
+<d2><b><g>Eine Frage</g>.</b></d2>
+<hr>
+<poem><in>S</in>ag, weisch denn selber au, du liebi Seel,
+wa&sr;&2019;&sr; Wienechtchindli isch, und hesch&sr; bidenkt?
+Denkwol i sag der&2019;&sr; und i freu mi druf.
+O, &2019;&sr; isch en Engel usem Paradie&sr;
+mit sanften Augen und mit zartem Herz.
+Vom reine Himmel abe het en Gott
+de Chindlene zum Trost und Sege gschickt.
+Er h&ue;etet sie am Bettli Tag und Nacht;
+er deckt sie mittem weiche Fegge zu,
+und weiht er sie mit reinem Othem a,
+wird&2019;&sr; Aeugli hell und &2019;&sr; B&ae;ckli rund und roth.
+Er treit sie uf de H&ae;nden in der Gfohr,
+g&ue;nnt Bl&ue;emli f&ue;r sie uf der gr&ue;ene Flur,
+und stoht im Schnee und Rege d&2019; Wienecht do,
+se henkt er &2019;nen im Wienechtchindli-Baum
+e sch&oe;ne Fr&ue;ehlig in der Stuben uf,
+und l&ae;chlet still, und het si s&ue;eﬂi Freud,
+<pb="92"/>
+uud <g>Muetterliebi</g> heiﬂt si sch&oe;ne Name.
+Jo, liebi Seel, und gang vo Hu&sr; zu Hu&sr;,
+sag <g>Gute Tag,</g> und <g>Bh&ue;tich Gott,</g>
+und lueg,
+der Wienechtchindli-Baum verrothet bald,
+wie alli M&ue;etter sin im ganze Dorf.
+Do hangt e Baum, nei lueg me doch
+und lueg!
+In alle N&ae;ste n&ue;t a&sr; Zuckerbrod!
+&2019;&sr; isch nit viel nutz. Die het e n&ae;rschi Freud
+an ihrem B&ue;ebli, will em alle&sr; s&ue;eﬂ
+und liebli mache, thut em, wa&sr; e&sr; will.
+Gib acht, gib acht, e&sr; chunnt e mol e Zit,
+se schlacht sie d&2019; H&ae;nd no zsemmen &ue;berm
+Chopf,
+und seit: &201E;Du gottlo&sr; Chind, isch da&sr; mi
+Dank?&201C;
+Jo weger M&ue;etterli, da&sr; isch di Dank!
+Jez do sieht&sr; anderst dri in&sr; Nochber&sr; Hu&sr;.
+Scharmanti bruni Bire, welschi Nuﬂ!
+Scharmanti rothi Oepfel ab der Hurt!
+e Gufeb&ue;chsli, doch will&sr; Gott der Her
+<pb="93"/>
+ke Gufe drinn! Vom zarte Bese-Ri&sr;
+e goldig R&ue;ethli, schlank und nagelneu!
+Lueg, so ne Muetter het ihr Chindli lieb!
+Lueg, so ne Muetter zieht&sr; verst&ae;ndig uf,
+und wird mi B&ue;rstli meisterlo&sr;, und meint
+e&sr; seig der Her im Hu&sr;, se hebt si b&2019;herzt
+der Finger uf, und f&oe;rcht ihr B&ue;ebli nit,
+und seit: &q;Weisch nit, wa&sr; hinterm Spie-
+gel steckt?&q;
+Und &2019;&sr; B&ue;ebli folgt, und wird e brave Chnab;
+Jez g&oe;hn mer wieder witer&sr; um e Hu&sr;.
+Zwor Chinder gnug, doch wo me luegt und
+luegt
+schwankt wit und breit ke Wienechtchindli-
+Baum.
+Chumm, weidle chumm, do blibe mer nit lang!
+O Frau, wer het di Muetterherz so gch&ue;elt?
+Verbarmt&2019;&sr; di nit, und goht&sr; der nit dur
+d&2019; Seel,
+wie dini Chindli, wie di Fleisch und Blut
+verwildern ohni Pfleg und ohni Zucht,
+<pb="94"/>
+und hungerig by andre Chinde st&oe;hn
+mit ihre breite Rufe, sch&ue;ch und fremd?
+Und Wi&2019; und Caffi schmekt der doch so gut!
+Doch lueg im vierte Hu&sr;, da&sr; Gott er barm,
+wa&sr; hangt am gr&ue;ene Wienechtchindli-Baum?
+Viel stachlig Laub, und n&ae;ume zwische drinn
+ne schrumpfig Oepfeli, ne d&ue;rri Nuﬂ!
+Sie m&oe;cht, und het&2019;&sr; nit, nimt ihr Chind
+uf d&2019; Schoﬂ,
+und w&ae;rmt&sr; am Buse, lueget&sr; a und briegt;
+der Engel st&ue;&ue;rt im Chindll Thr&ae;nen i.
+Sel isch nit gfehlt, &2019;&sr; isch mehr a&sr; Marzipan
+und Zuckererb&sr;li. Gott im Himmel sicht&sr;,
+und het u&sr; mengem arme B&ue;ebli doch
+e brave Ma und Vogt und Richter gmacht,
+und usem T&oe;chterli ne bravi Frau,
+wenn&sr; numme nit an Zucht und Warnig fehlt.</poem>
+<hr>
+<pb="95"/>
+<d2><b><g>Noch eine Frage</g>.</b></d2>
+<hr>
+<poem><in>U</in>nd weisch denn selber an du liebi Seel,
+worum de dine zarte Chinde d&2019; Freud
+in so ne stachlig B&ae;umli <fn="*)">Stechpalme.</fn> ine henksch?
+Wil&2019;&sr; gr&ue;eni Bl&ae;ttli het im Winter, meinsch,
+und D&oe;rnli dra, aﬂ &2019;&sr; B&ue;ebli nit, wie &2019;&sr; will
+die sch&oe;ne Sachen use h&oe;ckle cha.
+&2019;&sr; w&ae;r nit gar &ue;bel gfehlt, doch weisch&sr; nit
+recht!
+Denkwol, i sag der&sr;, und i freu mi druf;
+Lueg, liebi Seel, vom Menschelebe soll
+der dornig Freudebaum en Abbild sy.
+Nooch by nenander wohne Leid und Freud,
+und wa&sr; der &2019;&sr; Lebe s&ue;eﬂ und liebli macht,
+und wa&sr; no sch&oe;ner in der Zukunft schwebt,
+<pb="96"/>
+de freusch di druf, doch in de D&oe;rne hangt&sr;!
+Wa&sr; denksch derzu? <g>Zum Erste</g> sagi so:
+Wenn Wermeth in di Freudebecher flieﬂt
+und wenn e scharfe Schmerz dur&2019;&sr; Lebe zuckt,
+verschrick nit drab, und stell di nit so fremd!
+Di eigeni Mutter selig, tr&oe;st sie Gott,
+sie het der &2019;&sr; Zeichen in der Chindheit ge;
+drum denk: &201E;E&sr; isch e Wienechtchindli-
+Baum,
+nooch by nenander wohne Freud und Leid.&201C;
+<g>Zum Zweyte</g> sagi da&sr;: E&sr; w&ae;r nit gut,
+wenn&sr; auderst w&ae;r. Wa&sr; u&sr; de Dorne
+luegt,
+sieht gar viel gattiger und sch&oe;ner u&sr;,
+und &2019;&sr; f&ue;rnehmst isch, me het au l&ae;nger dra.
+&2019;&sr; w&ae;r iust, a&sr; wemme Zuckerbrod und Nuﬂ,
+und wa&sr; am B&ae;umli sch&oe;n und glitz&2019;rig
+hangt,
+uf eimol in e Suppesch&ue;ﬂle th&ae;t,
+und stellti &2019;&sr; umme: &201E;Iﬂ so lang de magsch,
+&q;und n&ae;umi&sr; do isch!&201C; W&ae;r&sr; nit Uh-
+verstand?
+<cw><g>Zum</g></cw>
+<pb="97"/>
+<g>Zum Dritte</g> sagi: Wemmen in der Welt
+will Freude hasche, Vorsicht gh&oe;rt derzu;
+sust lengt me bald in d&2019; Aglen und in D&oe;rn
+und zieht e leeri Hand voll Schrunde z&2019;ruck.
+Denn d&2019;Freud hangt in de Dorne. Denk
+mer dra,
+und thue ne wenig gmach! Doch wenn de&2019;&sr;
+hesch,
+se loﬂ der&sr; schmecke! Gunn der&sr; Gott der Her!</poem>
+<hr>
+<bs>7</bs>
+<pb="98"/>
+<d2><b><g>Gespenst an der Kanderer
+Straﬂe</g>.</b></d2>
+<hr>
+<poem><pv>&2019;&sr; git Gspenster, sel isch u&sr; und isch verbey!
+Gang nummen in der Nacht vo Chander hei&2019;,
+und bring e Ruusch! De trifsch e Pl&ae;tzli a,
+und d&oe;rt verirrsch. J setz e B&ue;eﬂli dra.</pv>
+<pv>Vor Ziten isch nit wit vo sellem Platz
+e H&ue;&sr;li gsi; e Frau, e Chind, e Chatz
+hen g&2019;othmet drinn; der Ma het vorem Zelt
+si Lebe g&2019;lo im Heltelinger Feld.</pv>
+<pv>Und wo sie h&oe;rt: &201E;Di Ma lit unterm Sand&201C;
+se het me gmeint, sie stoﬂ der Chopf an d&2019;Wand;
+doch holt sie d&2019; Pappe no am F&ue;&ue;r und blo&sr;t,
+und git&sr; im Chind, und seit: &201E;Du bisch mi
+Trost!&201C;</pv>
+<pb="99"/>
+<pv>Und&2019;&sr; w&ae;r&sr; au gsi! Doch schlicht e mol mi
+Chind
+zur Th&ue;ren u&sr;, und d&2019; Mutter sizt und spinnt,
+und meint, &2019;&sr; seig in der Chuchchi, r&ue;eft
+und goht,
+und sieht no iust, wie&2019;&sr; uffem Fuﬂweg stoht.</pv>
+<pv>Und dr&ue;ber lauft e Ma, voll Wi und Brenz,
+vo Chander her an&sr; Chind und &ue;berrennt&2019;&sr;,
+und bi&sr; sie &2019;m helfe will, sen isch&sr; scho hi,
+und r&ue;ehrt si nit &2014; e fl&oe;sche Bueb isch&sr; gsi.</pv>
+<pv>Jez r&ue;stet sie ne Grab im tiefe Wald,
+und deckt ihr Chind, und seit: &201E;J folg der bald!&201C;
+Sie sezt si nider, h&ue;tet&2019;&sr; Grab und wacht,
+und endli stirbt sie in der n&ue;nte Nacht.</pv>
+<pv>Und so verwest der Lib in Luft und Wind;
+Doch sizt der Geist no d&oe;rt, und h&ue;etet&2019;&sr; Chind,
+und h&ue;tig&sr; Tag&sr;, de Trunkene zum Tort
+goht d&2019; Chand&2019;rer Stroﬂ verbey an selbem Ort.</pv>
+<bs>7 *</bs>
+<pb="100"/>
+<pv>Und schwankt vo Chander her e trunkene Ma,
+se sieht&sr; der Geist si&2019;m Gang vo witem a,
+und f&ue;hrt en abw&ae;rt&sr;; seig er, wer er sey,
+er loﬂt en um kei Pri&sr; am Grab verbey.</pv>
+<pv>Er chunnt vom Weg, er tr&ue;mmlet h&ue;st und
+hott;
+z&2019;lezt seit er: &201E;Bini echterst, woni sott?&201C;
+Er luegt und lo&sr;t, und mauet &oe;bbe d&2019; Chatz,
+se meint er, &2019;&sr; chreih e Guhl an sellem Platz.</pv>
+<pv>Er goht druf dar, und &ue;ber Steg und Bruck
+se maut sie&2019;m eben all&2019;wil witer z&2019;ruck;
+und wenn er meint, er seig iez bald dehei,
+se stoht er wieder vor der Weserey.</pv>
+<pv>Doch, wandle selli Stroﬂ her n&ue;chteri L&ue;t,
+se seit der Geist: &201E;Ihr th&ue;ent mi&2019;m B&ue;ebli
+n&ue;t!&201C;
+Er r&ue;hrt si nit, er loﬂt sie ordeli
+passieren ihre&sr; Weg&sr;. <g>Verst&oe;hntder mi</g>?</pv></poem>
+<hr>
+<pb="101"/>
+<d2><b><g>Der K&ae;fer</g>.</b></d2>
+<hr>
+<poem><pv><in>D</in>er Ch&ae;fer fliegt der Jilge zu,
+e&sr; sizt e sch&oe;nen Engel d&oe;rt;
+er wirthet gwi&sr; mit Blumesaft,
+und &2019;&sr; chostet nit viel, hani gh&oe;rt.</pv>
+<pv>Der Engel seit: &201E;Wa&sr; w&ae;r der lieb?&201C;
+&201E;Ne Sch&oe;pli Alte h&ae;tti gern!&201C;
+Der Engel seit: &201E;Sel cha nit sy,
+sie hen en alle trunke fern.&201C; &2014;</pv>
+<pv>&201E;Se schenk e Sch&oe;pli Neuen i!&201C; &2014;
+&201E;Do hesch ei&sr;!&201C; het der Engel gseit.
+Der Ch&ae;fer trinkt, und &2019;&sr; schmekt em wohl;
+er frogt: &201E;Wa&sr; isch mi Schuldigkeit?&201C;</pv>
+<pb="102"/>
+<pv>Der Engel seit: &201E;He, &2019;&sr; chostet n&ue;t!
+&q;Doch richtsch mer gern e Gfallen u&sr;,
+&q;weisch wa&sr;, se nimm da&sr; Blumemehl,
+&q;und tragmer&sr; gschwind in&sr; Nochber&sr; Hu&sr;!&201C;</pv>
+<pv>&201E;Er het zwor selber, wa&sr; er brucht,
+&q;Doch freut&sr; en, und er schickt mer au,
+&q;mengmol e H&ae;mpfeli Blumemehl,
+&q;mengmol e Tr&oe;pfli Morgethau.&201C;</pv>
+<pv>Der Ch&ae;fer seit: &201E;Jo frili, io!&201C;
+&201E;Vergelt&sr; Gott, wenn de z&2019;friede bisch!&201C;
+Druf treit er &2019;&sr; Mehl in&sr; Nochber&sr; Hu&sr;,
+wo wieder so en Engel isch.</pv>
+<pv>Er seit: &201E;J chumm vom Nochber her,
+&q;Gott gr&ue;eﬂ di, und er schick der do
+au Blumemehl!&201C; Der Engel seit:
+&201E;De h&ae;ttsch nit ch&oe;nne iuster cho.&201C;</pv>
+<pb="103"/>
+<pv>Er ladet ab; der Engel schenkt
+e Sch&oe;pli gute Neuen i.
+Er seit: &201E;Chumm trink ei&sr;, wenn de magsch!&201C;
+Der Ch&ae;fer seit: &201E;Sel cha scho sy!&201C;</pv>
+<pv>Druf fliegt er zu si&2019;m Sch&ae;tzli heim,
+&2019;&sr; wohnt in der n&oe;chste Haselhurst.
+E&sr; balgt und seit: &201E;Wo blibsch so lang?&201C;
+Er seit: &201E;Wa&sr; chani f&ue;r mi Durst?&201C;</pv>
+<pv>Jez stoht er uf, er nimmt&sr; in Arm,
+er ch&ue;ﬂt&sr;, und isch bym Sch&ae;tzli froh.
+Druf leit er si in&sr; Todtebett,
+und seit zum Sch&ae;tzli: &201E;Chumm bal no!&201C;</pv>
+<pv>Gell Sepli, &2019;&sr; dunkt di ordeli!
+De hesch au so ne lustig Bluet.
+Je so ne Lebe, liebe Fr&ue;nd,
+e&sr; isch wohl f&ue;r e <g>Thierli</g> gut!</pv></poem>
+<hr>
+<pb="104"/>
+<d2><b><g>Der Statthalter
+von Schopfheim</g>.</b></d2>
+<hr>
+<poem><in>V</in>etter Han&sr; Jerg, &2019;&sr; dunnert, e&sr; dun-
+deret ehnen am Rhi-Strom,
+und e&sr; git e Wetter! Mir isch, wenn&sr; num-
+me verbey w&ae;r.
+&2019;&sr; chunnt so schwarz &2014; nei lueget, wie&2019;&sr; blizt,
+und loset, wie&2019;&sr; windet,
+wie&2019;&sr; im Chemi to&sr;t, und der Guhl uffem
+Chilche-Thurn gahret!
+Helfi&sr; Gott! &2014; &2019;&sr; chunnt alliwil n&oe;cher und
+alliwil st&ae;rcher;
+ziehnt doch d&2019; L&ae;den a, aﬂ der Glast den
+Auge nit weh thut,
+und iez holet &2019;&sr; Chr&ue;&sr;li und sitzet do um-
+men, i willich
+u&sr; den alte Zite vom Statthalter n&ae;umi&sr;
+verzehle.
+<pb="105"/>
+<g>Friedli</g> het me nem gseit, und het&2019;&sr; e selt-
+seme Bueb ge,
+isch&sr; der Friederli gsi in siner Juged, da&sr;
+weiﬂi.
+Aber sch&oe;ner a&sr; er, isch ken uf der Bor-
+Chilche gstande,
+woner no Bure-Chnecht bym alte Statt-
+halter gsi isch.
+Chrusi L&oe;ckli het er gha und Auge wie Chole,
+Backe wie Milch und Blut und rnndi chr&ae;s-
+tigi Glieder;
+&2019;&sr; Statthalter&sr; Vreneli het an ihm si eige-
+ni Freud gha,
+er am Vreneli au, doch isch er numme der
+Chnecht gsi.
+Nei, wie macht&sr;, und nei, wie sch&ue;ttet&sr;!
+Bringetder &2019;&sr; Chr&ue;&sr;li
+und e R&ae;nftli Brod derzu? Jez sitzet und loset!
+Vor f&ue;nfhundert Johren, i ha&2019;&sr; vom Aetti
+erfahre,
+isch e schwere Chrieg und sin Panduren im
+Land gsi:
+<pb="106"/>
+drunter isch&sr; und dr&ue;ber gange, wa&sr; me
+cha sage.
+Rich isch richer worden an Geld, an Mat-
+ten und Hochmuth,
+aber Arm isch &ae;rmer worde, ch&oe;nnetder denke.
+Menge brave Ma het&sr; n&ue;mme wisse z&2019;pre-
+stiere,
+het si Sach verlohren und Hunger g&2019;litten
+und bettlet:
+mengi hen si zsemme g&2019;rottet zwische de Berge.
+Z&2019;lezt het no der Friede ne Pack Marodi
+im Land g&2019;lo,
+gf&oe;hrli Volch mit Schwerd und B&ue;chse, li-
+stig und unheim,
+&2019;&sr; sin bitr&ue;bti Zite gsi, Gott well ein bi-
+wahre!
+Sel mol het e Bur uf der Ergerte nieden
+an Farnau
+Hu&sr; und Sch&ue;re gha und Stiere, &2019;&sr; w&ae;rich
+ke Tropfe
+Wasser uffene gstanden, und uf de Matten
+vo Farnau
+<pb="107"/>
+bi&sr; go Huse Tensch an Tensch und Schmeh-
+len an Schmehle
+het der Uhli g&2019;meiht, und &2019;&sr; Heu uf d&2019;
+Egerte heimg&2019;f&ue;hrt.
+Aber e w&ue;ste Ma isch er gsi, wie&2019;&sr; ken
+meh in siebe
+Here-L&ae;ndere git, und isch im Welschland
+so worde.
+H&ae;tt em der Statthalter z&2019;Schopfe nit &2019;&sr;
+Vreneli endli zur Frau ge,
+&2019;&sr; Vreneli gscheidt wiene Pfarer, sch&oe;n wie
+der Morge, ke Magd w&ae;r
+bynem bliebe vo Steffi&sr;-Tag bi&sr; numme
+drei Ch&ue;nig,
+und kei Chnecht h&ae;tt&2019; zuenem dingt. E&sr;
+chunnt eim e Bettler,
+und me git em ke Brod, se seit me doch
+&oe;bben im Friede:
+&201E;Helfich Gott!&201C; &2014; Er nit! &201E;J will der
+&2019;&sr; Bettle verleide,&201C;
+het er gseit, &201E;und gang, wil&sr; Zit isch!
+Flieh mi der Teufel!&201C;
+<pb="108"/>
+und die arme L&ue;t sin gangen, und hen ebe
+briegget.
+Jedem chunnt si Zit! So &oe;bbe drei Wuche
+vor Wienecht
+het der Uhli gmezget, und het er der Tag
+dure gwurstet,
+het er z&2019;obe &2019;&sr; Chr&ue;gli g&2019;l&ue;pft bym brotene
+Ribbli.
+&201E;Vreni gang in Cheller, und Vreni leng
+mer z&2019; trinke!&201C;
+het er mehr a&sr; zwenzig mol mit brochener
+Stimm gseit.
+Gsinnet isch er gsi uf siebe Mo&sr; und e
+Sch&oe;pli,
+Aber wo meinetder m&oe;g sel Zit der Frie-
+derli gsi sy?
+Oebben im Futergang, und &oe;bbe by&2019;&sr; Statt-
+halter&sr; Stiere?
+Hender gmeint io wohl! Scho z&2019; Fa&sr;necht
+isch er im Meister
+u&sr; de H&ae;nde gw&ue;tscht, sust h&ae;tt en der
+Statthalter gh&ue;blet.
+<pb="109"/>
+Het er n&ae;umi&sr; bo&sr;get, se willi &2019;&sr; nit ver-
+rothe;
+wa&sr; goht&sr; mi denn a? Furt isch er! Ueber
+e Monet
+het me ke Spur vonem gha, bi&sr; &oe;bben
+afang&sr; Aprille
+stoht er by den arme Manne zwische de
+Berge.
+Sch&oe;n an Wuch&sr; und Gsicht, und fr&ue;ndli
+gege de L&ue;te,
+muthig wie ne Leu, doch voll verborgener
+Bsinnig
+hen sie &2019;n alli gern, und sage: &201E;Seig du
+der Hauptma!
+&q;wa&sr; de seisch, da&sr; th&ue;emer, und fchicki&sr;
+numme se g&oe;ihmer,
+&q;hundert f&ue;fzig Ma und siebenesiebezig
+Buebe!&201C;
+Und der Friedli seit: &201E;D&2019; Marodi wemmer
+verfolge;
+&q;wenn e riche Bur die Arme ploget und
+schindet,
+<pb="110"/>
+&q;wemmer em der Meister zeigen, aﬂ e&sr; en
+Art het,
+&q;bi&sr; aﬂ wieder Recht und Gsetz und Ord-
+nig in&sr; Land chunnt.&201C;
+Helfi&sr; Gott der Her! &2014; Jez r&ue;eft der
+Hauptma sim V&oe;lchli:
+&201E;Manne, wa&sr; fange mer a? J h&oe;r der
+Uhli heig gmezget.
+&q;&2019;&sr; w&ae;r e Site Speck wol u&sr; der B&ue;tene
+z&2019; hole
+&q;und e Dozzet W&ue;rst; wie w&ae;r&sr;? Doch &2019;&sr;
+Vreneli duurt mi.
+&q;G&oe;hnt e St&ue;cker drei, &2019;&sr; isch besser, sin-
+get um&sr; W&ue;rstli!
+&q;Saget, i l&oe;ﬂ en gr&ue;eﬂen, er soll&sr; im Frie-
+de verzehre,
+&q;und mer vo der Sau doch au ne M&ue;-
+sterli schicke.
+&q;Hemmer nit menge Hirz u&sr; sine G&ae;rte
+verscheuchet?
+&q;Hemmer uf sine Matte ne Habermark-
+St&oe;rzli vertrette?
+<pb="111"/>
+&q;Hemmer em e B&ae;umli gsch&ue;ttlet? Isch
+sine Chnechte
+&q;nummen au so viel gscheh? Sie hen doch
+g&2019;h&ue;tet und g&2019;wassert
+&q;z&2019;nacht um Ei&sr;, und fr&ue;eih vor Tag; sie
+ch&oe;nne nit chlage.
+&q;Leget em&2019;&sr; ordli an&sr; Herz, i w&ue;nschich
+guti Verrichtig!&201C;
+Seit&sr; und &2019;&sr; g&oe;hn drei Buben, und ch&oe;m-
+me mit S&ae;cke zum Uhli.
+&201E;Guten Obe!&201C; &2014; &201E;Dunderschieﬂ! Wa&sr;
+hender, wa&sr; wender?&201C; &2014;
+&201E;He mer ch&oe;mme do abe vom Sattel-Hof;
+sind nummen ordli!
+&q;So het &ue;se Meister gseit, so sagemer
+wieder.&201C;
+Schlimmer Wi&sr; isch, wo sie cho sin, &2019;&sr;
+Vreneli n&ae;ume
+dusse gsi, doch d&2019; Chnecht sin uffem Ofe-
+Bank glege,
+und der Uhli im Ruusch git grobi Reden
+und Antwort.
+<pb="112"/>
+&201E;Saget euem Meister &2014; (e&sr; isch mit Eh-
+re nit z&2019;melde)
+&q;Wa&sr; gheit mi eue Meister, und he, wer
+isch eue Meister?
+&q;&2019;&sr; lauft so Waar iez gnug im Land wo
+bettlen und stehle,
+&q;Schere-Schlifer, Hafe-Binder, alti Sal-
+date,
+&q;S&ae;ge-Feiler, Zeinemacher, anderi Strolche.
+&q;Wemmen alle wott ge, me m&ue;eﬂt no mit-
+tene laufe.
+&q;Packetich, &2019;&sr; isch hochi Zit!&201C; &2014; &201E;He io,
+der Gott&sr;wille!
+&q;Numme ne H&ae;mpfeli Mehl, und nummen
+an so ne W&ue;rstli!&201C; &2014;
+&201E;Wart du Siebe-Chetzer, e Ribbe-St&ue;ckli
+isch besser!
+&q;Jobbi, gang an d&2019; Stud, und leng mer
+der Fareschwanz abe!
+&q;Wenderich packe iez gli, i frog, ihr luftige
+Strolche?&201C;
+<cw>Jo,</cw>
+<pb="113"/>
+Jo, sie hen si packt, doch hinterne schliche
+vom Ofe
+d&2019; Chnecht zur Th&ue;ren u&sr;, und suche &2019;&sr;
+Vreneli dusse.
+&201E;Meisterne, jez isch&sr; gfehlt, jez Meisterne
+helfet und rothet!
+&q;Da&sr; und da&sr; isch gscheh, und weger sie
+hen&sr; nit verdienet.
+&q;Hemmer &2019;&sr; Wasser g&2019;chert, und hemmer
+de Hirze gh&ue;tet
+&q;z&2019;nacht um Ei&sr;, und fr&ue;eih vor Tag, mer
+ch&oe;nne nit chlage,
+&q;kuntereri sie henni&sr; ghulfe, gellaber Jobbi!
+&q;Aber ch&oe;mmemer wieder, se werde sie an-
+derster rede.&201C;
+&2019;&sr; Vreneli lo&sr;t und lo&sr;t, e&sr; macht bidenk-
+lichi Mine;
+&2019;&sr; Vreneli bindet d&2019; Chappen, und sch&ue;ttlet
+&2019;&sr; Mayl&ae;nder Hal&sr;tuch;
+&2019;&sr; Vreneli chn&ue;pft am F&ue;rtuch-Bendel &2014;
+&201E;Sepli, spaun &2019;&sr; Roﬂ a,
+<bs>8</bs>
+<pb="114"/>
+&q;und e Welle Strau, hesch gh&oe;rt, und
+mach, aﬂ der Meister
+&q;n&ue;t eninne wird, und gang ein d&2019;Farnaner
+Stroﬂ uf,
+&q;lueg, &oe;b alle&sr; sicher isch, und niene ke
+Volch stoht!&201C;
+Sieder ch&oe;mme d&2019; Bube mit leere S&ae;cke
+zum Friedli.
+Tausig Sapermost, wie sin em d&2019; Flammen
+in&sr; Gsicht cho!
+Woner frogt: &201E;Wa&sr; hender?&201C; und wo sie&2019;m
+d&ue;tliche Bricht gen:
+&201E;N&ue;t, und w&ue;ssetder wa&sr;? G&oe;hnt ihr en-
+andermol selber!
+&q;&2019;&sr; isch im Uhli z&2019;heiﬂ, der sollet cho, go
+nem blose!&201C; &2014;
+&201E;Blibt&sr; derby, i gang,&201C; seit iez der Friedli
+und funklet,
+&201E;Lang soll&sr; en n&ue;mme brenne, &2019;&sr; isch ch&ue;el
+uffem Farnauer Chilchhof!
+&q;Uhli du hesch &2019;&sr; lezt im R&ae;f, sel chani
+der sage!&201C;
+<pb="115"/>
+Seit&sr;, und pfift in Wald, und gschwinder,
+a&sr; me ne Hand chert,
+pfift&sr; vo Wald zu Wald an allen Enden
+und Orte,
+und e&sr; lauft derher vo allen Orten und
+Ende.
+&201E;Allo frisch, bergab! Der Uhli het h&ue;t
+gmezget,
+&q;&2019;&sr; goht in eim iez hi, mir metzge hinecht
+der Uhli!
+&q;&2019;&sr; Vreneli duuret mi wohl, &2019;&sr; wird frili
+uding verschrecke.&201C;
+Jez chunnt&sr; schwarz bergab, wohl &ue;ber Stu-
+den und Hecke,
+nebe Reibbech aben in&sr; Tanner&sr; Wald, und
+vo d&oe;rtweg
+recht&sr; und link&sr; in&sr; Farnauer Holz, wa&sr;
+gischmer, wa&sr; hesch mer!
+D&2019; W&ae;lder fahre mit Schlitte voll Sp&oe;h&2019;
+der Wiese no abe,
+schn&sr; und huure nieder am Steine-Br&ue;ckli
+und bette:
+<bs>8 *</bs>
+<pb="116"/>
+&201E;Alli gute Geister!&201C; und &201E;Heiligi Mut-
+ter Gotti&sr;!&201C;
+Aber wo der Hauptme by Farnau usen au
+Wald chunnt,
+d&ue;sslet er: &q;Bube z&2019;ruck! Ih&oe;r e W&ae;gelifahre;
+&q;&2019;&sr; ch&oe;nnt d&2019; Faktorene sy, sie isch die Nem-
+tig go Basel,
+&q;und der m&ue;ent sie nit verschrecke, doch
+willi luege!
+Seit&sr;, und wiener chunnt, w&ue;tscht&sr; &ue;ber&sr;
+W&ae;geli abe,
+und goht uffen dar, und lueget em fr&ue;ndli
+in d&2019; Auge.
+&201E;Friedli, bisch&sr;?&201C; &2014; &201E;Imein&2019;&sr; emol!&201C; &2014;
+&q;se bi&sr; mer Gottwilche
+&q;unterem freie Himmel und unter de liebe
+Sterne!
+&q;Gell i darf di duze? Wa&sr; wirsch doch
+nummen au denkt ha
+&q;ob mim trutzige Ma und sine trutzige Rede.
+&q;Lueg, i cha nit derf&ue;r, i bi am Wasser-
+Stei gstande;
+<pb="117"/>
+&q;w&ae;ri in der Stube gsi, &2019;&sr; w&ae;r anderster
+gange.
+&q;O, de glaubsch nit, wieni gstroft bi, doch
+i will schwige.
+&q;Chumm, do bringi der n&ae;umi&sr;, e S&ae;ckli
+voll d&ue;rri Chriesi,
+&q;sch&oe;ni Gumpist-Oepfel, und au e bizzeli
+Geiﬂ-Ch&ae;&sr;,
+&q;do ne S&ae;ckli Haber-Mehl und do ne
+par W&ue;rstli,
+&q;und e Logel voll Wi, gib achtig, aﬂ e&sr;
+nit g&ae;utschet,
+&q;&2019;&sr; isch kei Bunte druf, und au ne R&oe;l-
+leli Tuback.
+&q;Gang e wenig absit&sr;, bi&sr; do die W&ae;lder
+verbey sin,
+&q;und bi&sr; ordli, zeig wie, und lad mer n&ue;t
+uf di Gwisse!
+Aber der Friedli schw&oe;rt: &201E;By Gott, der
+Uhli muﬂ sterbe!
+&q;&2019;&sr; isch nit Gnad!&201C; Doch &2019;&sr; Vreneli seit:
+&201E;Jez lo&sr; no ne W&oe;rtli!
+<pb="118"/>
+&q;Gschwore hesch, und &2019;&sr; isch wohr, mer
+sterben alli, wenn&sr; Zit isch,
+&q;und der Uhli au, doch lo&sr; du lebe, wa&sr;
+Gott will,
+&q;und denk an di selber und au e wenig an&sr;
+Ch&ue;nftig!
+&q;So blibsch nit wie de bisch, und so ne
+Lebe verleidet.
+&q;Bisch nit im Land deheim, und hesch nit
+Vater und Mutter?
+&q;Oebbe m&oe;chtsch au heim, den erbsch en
+ordeli G&ue;tli
+&q;in der Langenau, und gfallt der e sufer
+Meidli,
+&q;isch&sr; bym Aetti nit Rei, de chasch no
+Stabhalter werde.
+&q;Nimm, wie m&ue;eﬂt&2019;&sr; der sy, an so ne
+Missethat z&2019;denke,
+&q;und mi &2019;&sr; Here Stab mit blutige H&ae;nde
+z&2019;regiere!
+&q;Halt&sr; im Uhli z&2019;gut! Si Grobheit nimm
+f&ue;r en Ehr uf,
+<pb="119"/>
+&q;&2019;&sr; isch zwor keini gsi, doch denk au, aﬂ
+e&sr; mi Ma isch!
+&q;Schlacht&sr; nit z&2019; Schopfen Oel#i! &2019;&sr; isch Zit,
+se sag numme: Jo denn!&201C;
+Aber der Friederli stoht, er stoht in schwe-
+re Gidanke,
+und het d&2019; Auge voll Wasser, und m&oe;cht gern
+schwetzen, und cha nit.
+Endli bricht em &2019;&sr; Herz: &201E;Nu io denn, wenn
+d&2019; mer e Schmutz gisch!
+&q;Bh&ue;tdi Gott der Her, und io i will an-
+derst werde!
+&q;Bnbe, iez packet uf, &2019;&sr; git hinecht n&ue;t
+me z&2019; verdiene!
+&q;G&oe;hnt e Par uf d&2019; M&oe;hr, und schieﬂet
+n&ae;umen e Hirzli;&201C;
+Seit&sr;, und goht in Wald, und lueget an
+Himmel und briegget,
+biﬂ si d&2019; Sternen in&sr; Morge-Licht tunken,
+und drinn verl&oe;sche.
+Endli goht er au, doch luege mengmol en-
+ander
+<pb="120"/>
+d&2019; Mannen a, und sage: &201E;Wa&sr; fehlt doch
+echterst im Hauptma?&201C;
+Aber &2019;&sr; Statthalter&sr; Tochter lit iez bym
+Uhli und stoﬂt en:
+&201E;Schnarchle mer doch nit so! Me cha io
+nit nebe der schlofe!&201C;
+Und der Uhli zukt und strekt si: &201E;Vreni
+wie isch mer?&201C; &2014;
+&201E;He, wie wird&2019;&sr; der sy?&201C; &2014; &201E;J ha ne
+blutige Traum gha.
+&q;Vreni &2019;&sr; goht nit gut, i ha mi selber
+gseh metzge.
+&q;Hen sie mi nit gstochen, und in der B&ue;t-
+tene br&ue;eihet,
+&q;mittem Messer gschabt? de glaubsch nit,
+wie&2019;&sr; mer so weh thut!
+Aber &2019;&sr; Vreneli seit: &q;He &2019;&sr; macht n&ue;t,
+d&2019; Sau isch der f&ue;rcho,
+&q;wie&2019;&sr; der &oe;bbe goht, drum hesch di selber
+seh metzge.&201C;
+Aber &2019;&sr; Uhli&2019;&sr; Schlof isch u&sr;, und schweri
+Gidanke
+<pb="121"/>
+ch&ae;mpse bi&sr; an Tag mit sine zerr&ue;ttete Sinne,
+biﬂ er &2019;&sr; Caffi trinkt, bi&sr; &2019;&sr; Vreneli Sup-
+pen ischnidet,
+biﬂ en alte Ma verzagt zur Stube-Th&ue;r
+itritt:
+&201E;Ch&ue;mmi, Reckholder-Beri! Will nieme&sr;
+u&ue;t chrome do inne?&201C; &2014;
+&201E;Nei der l&oe;set n&ue;t!&201C; &2014; &201E;Drum isch&sr; mer
+au n&ue;t um&sr; L&oe;se!
+&q;Meister Uhli i ha mit euch e wengeli z&2019;rede,
+&q;isch da&sr; eui Frau, se cha sie&2019;&sr; mintwege
+h&oe;re.
+&q;Nechte fahri selb fenft, mit Waar der
+Wiese no abe,
+&q;ich, mi R&oe;ﬂli, mi Bueb, und &2019;&sr; Richertli&2019;&sr;
+R&oe;ﬂli und Matthi&sr;.
+&q;Womer an Farnau ch&oe;mme, se stoht&sr; voll
+Manne und Bube
+&q;link&sr; im Wald, und an der Stroﬂ e luf-
+tige Kerli.
+&q;&2019;&sr; stoht e Wib&sr;bild by&2019;nem, &2019;&sr; mag au e
+sufere gsi sy,
+<pb="122"/>
+&q;wenni &2019;&sr; unter Hundert sieh, se willi &2019;&sr;
+erchenne;
+&q;het der Mond nit gschiene, und hani d&2019;
+Auge nit bymer?
+&q;So viel hani gh&oe;rt: &2019;&sr; <g>isch gflucht, der
+Uhli muﬂ sterbe</g>!
+&q;Woni neben abe bi, se seit er&sr; zum Wib&sr;-
+Bild.
+&q;Witer&sr; weiﬂ i n&ue;t, und witer&sr; chani n&ue;t
+sage;
+&q;stoh bliben isch nit gut, me lo&sr;t und goht
+siner Wege.
+&q;Bh&ue;tich Gott, i gang, und th&ue;nt iez sel-
+ber, wa&sr; gut isch.&201C; &2014;
+&2019;&sr; Vreneli&2019;&sr; Schrecke bildi mer i, doch bhal-
+tet&sr; si Bsinnig:
+&201E;Hesch en denu nit gmerkt, e&sr; isch em num-
+men um Brenz gsi?&201C;
+Aber &2019;&sr; Uhli&sr; G&2019;h&oe;r isch weg, er lit in der
+Ohmacht,
+d&2019;Auge st&oe;hn verchehrt, me sieht fast n&ue;t
+meh vom Schwarze,
+<pb="123"/>
+und e Spanne lang hangt d&2019; Zungen usen
+und ch&oe;lschblau
+isch er bi&sr; an Hal&sr;. Me holt der Meister
+vo Hage,
+holt vo Zell der Dokter-Friedli, &2019;&sr; will nit
+viel helfe.
+Friederli du hesch d&2019; Wohret gseit, <g>der
+Uhli muﬂ sterbe</g>.
+Vormittag isch&sr; so, und Nomittag isch&sr; an-
+derst.
+Schwetze lehrt er n&ue;mmen, und siechet ebe
+so ane,
+bi&sr; am dritte Tag; uf ei mol schnappt er,
+und endet;
+und am Zistig druf, se singt&sr; haupth&oe;chlige:
+&201E;Mitten
+wir im Leben sind&201C; &2014; d&2019; Stroﬂ uf zum
+Farnauer Chilch-Hof.
+Furt treit hen sie&2019;n, sel isch gwiﬂ, doch heiﬂt
+e&sr;, en Andere
+heig en gholt, und &2019;&sr; gang zu Ziten e blu-
+tigen Eber.
+<pb="124"/>
+G&oe;hntder z&2019;nacht vom Bergwerch heim, und
+hentder uf d&2019; Site
+gladen, und e&sr; chunnt en Eber mit blutige
+Wunde,
+g&oe;hnt em still u&sr;weg, und denket: Du bisch
+der Uhli!
+Aber wer wird iez mit Zuspruch &2019;&sr; Vre-
+neli tr&oe;ste?
+Groﬂ isch &2019;&sr; Leid nit gsi, und siebe Wuche
+no Pfingste
+r&ue;eft me &2019;&sr; wieder u&sr;. Mit wem? Der wer-
+det nit froge.
+Gr&ue;seli het der Statthalter gmacht, und
+gmeint, e&sr; m&ue;eﬂ nit sy.
+&201E;So ne vertlaufeue Burst mit miner liib-
+liche Tochter,
+&q;mit mi&2019;m Fleisch und Blut? J f&ue;hr sie
+selber in&sr; Zuchthu&sr;.&201C;
+Aber wa&sr; isch&sr; gsi? &2014; E&sr; isch die einzigi
+Tochter,
+und isch Frau f&ue;r ihn&sr;, und will er wohl
+oder &ue;bel,
+<pb="125"/>
+muﬂ er&sr; ebe lo gscheh, &2014; doch het&sr; em
+n&ue;mmen in&sr; Hu&sr; d&oe;rft,
+het&sr; au n&ue;mme bitrette, bi&sr; no Micheli si
+Vater
+z&2019; Basel uffem Chorn-Mert goht, und un-
+ter e Rad chunnt.
+Schopfe het er n&ue;mme gseh, sie hen en z&2019;
+El&sr;bethe
+ohni Gsang in d&2019; Erde gleit, wie&2019;&sr; z&2019; Basel
+der Bruuch isch.
+Aber iez zieht &ue;ser Par im Friede go Schopfe,
+und nimmt Bsitz vo Hu&sr; und Gut; der
+Fridli wird Burger,
+f&ue;hrt si ordeli uf, er cha gut lesen und schribe, &2014;
+Helfi&sr; Gott! &2014; und stigt nootno zu W&ue;r-
+den und Ehre.
+Wer w&ue;rd Chilche-Lueger? Wer streckt e
+sammeten Ermel
+usem Rothhu&sr;-Fenster, wenn Langenauer
+verbey g&oe;hn?
+Isch&sr; nit mi Her Frider mit siner lockige
+Stirne? &2014;
+<pb="126"/>
+Nei wie macht&sr;, und nei, wie sch&ue;ttet&sr;, lo-
+set doch numme,
+&2019;&sr; fangt wieder vornen a &2014; Z&2019;lezt sage d&2019;
+Burger: &201E;Der H&ue;gli
+&q;cha io nit Gschriebe&sr; lese, wie chaner denn
+Statthalter blibe?
+&q;Er Her Frieder schickti si, und Er muﬂ
+e&sr; werde;#
+&q;Er isch e brave Ma, in alle St&ue;cke bi-
+wandert,
+&q;und si Frau, vo Statthalter&sr; Blut, mit
+Tuged bihaftet,
+&q;isch die guti Stund, und gscheit, no gschei-
+ter, aﬂ Er schier!
+&q;Sageri&sr; nit Nei, &2019;&sr; nuzt n&ue;t, mer nehme
+kei Bricht a!&201C; &2014;
+&201E;Nu, se sagi Jo, i willich ordli regiere.&201C;
+Dreimol chl&oe;pft der Hurlibau&sr; &2014; nei loset
+wie&sr; sch&ue;ttet,
+lueget wie&sr; dur d&2019; Chlimse blizt! &2014; Im Pflug
+und im Engel
+<pb="127"/>
+hen sie tanzt bi&sr; tief in d&2019; Nacht, und ges-
+sen und trunke.
+Wohr isch&sr;, e br&ae;vere Ma h&ae;tt d&2019; Stadt
+nit ch&oe;nnen erchise,
+und im Vreneli gunni &2019;&sr; au. In d&2019; Scho-
+pfemer Chilche
+het er en Orgle gschaft, vor sine Ziten isch
+n&ue;t gsi,
+(z&2019; Huse stoht sie no) d&2019; Marodi het er ver-
+triebe,
+und uf d&2019; Burger Obsicht gha, und g&2019;rothen
+und gwarnet.
+Aber si Frau und er, sie hen in Frieden
+und Liebi
+mit enander glebt, und Gut&sr; an Armen er-
+wiese,
+io, und &2019;&sr; isch em e Mutter zu siebe Chin-
+dere worde,
+Helfi&sr; Gott! &2014; und &2019;&sr; stammt von ihnen im
+Schopfemer Chilchspiel
+Mengi Famili ab, und bl&ue;eiht in Rich-
+thum und Ehre.
+<pb="128"/>
+Helfi&sr; Gott, und bh&ue;ti&sr; Gott, in&sr; Here
+Gott&sr;-Name
+da&sr; het gchl&oe;pft, und da&sr; het gmacht &2014; &2019;&sr;
+isch weger e Schlag gsi &2014;
+Mengi Famili, sagi &2014; die wenigste w&ue;sse&2019;&sr;
+meh selber.
+Wer sie sin, und wie sie heisse, da&sr; willi
+iez sage.
+Zwor isch &2019;&sr; Chr&ue;gli leer &2014; Nei loset wa&sr;
+git&2019;&sr; uf der Gaﬂ duﬂ?
+Vetter Han&sr; Jerg, &2019;&sr; st&ue;rmt! F&ue;rio! &2019;&sr;
+lauft alle&sr; der Drau zu.</poem>
+<hr>
+<cw>Der</cw>
+<pb="129"/>
+<d2><b><g>Der Schreinergesell</g>.</b></d2>
+<hr>
+<poem><pv><in>M</in>i Hamberch h&ae;tti g&2019;lert, so so, la la;
+doch stoht mer &2019;&sr; Trinke gar viel besser a,
+a&sr; &2019;&sr; Schaffe, sel bikenni frey und frank;
+der Rucke bricht mer schier am Hobelbank.</pv>
+<pv>Drum het mer d&2019; Mutter mengmol profezeit:
+&201E;Du chunnsch ke Meister &ue;ber wit und breit!&201C;
+J ha&2019;&sr; z&2019;lezt selber glaubt, und denkt: Isch&2019;&sr; so,
+wie wird&sr; mer echterst in der Fremdi go?</pv>
+<pv>Wie isch&sr; mer gange? Numme z&2019;gut! J ha
+in wenig Wuche <g>siebe</g> Meister gha.
+O M&ue;etterli, wie falsch hesch profezeit?
+J ch&oe;mm <g>kei</g> Meister &ue;ber, hesch mer gseit.</pv></poem>
+<hr>
+<bs>9</bs>
+<pb="130"/>
+<d2><b><g>Han&sr; und Verene</g>.</b></d2>
+<p><c>(mit einer Melodie.)</c></p>
+<hr>
+<poem><pv><in>E</in>&sr; gfallt mer nummen eini,
+und selli gfallt mer gwi&sr;!
+O wenni doch da&sr; Meidli h&ae;tt,
+e&sr; isch so flink und dunder&sr;nett,
+so dunder&sr;nett,
+i w&ae;r im Paradie&sr;!</pv>
+<pv>&2019;&sr; isch wohr, da&sr; Meidli gfallt mer,
+und &2019;&sr; Meidli h&ae;tti gern!
+&2019;&sr; het alliwil e frohe Mueth,
+e Gsichtli het&sr;, wie Milch und Bluet,
+wie Milch und Bluet,
+und Auge wie ne Stern.</pv>
+<pb>
+<abb>
+<pb>
+<pb="131"/>
+<pv>Und wenni &2019;&sr; sieh vo witem,
+se schieﬂt mer &2019;&sr; Bluet in&sr; Gsicht;
+e&sr; wird mer &ue;ber&sr; Herz so chnapp,
+und &2019;&sr; Wasser lauft mer d&2019; Backen ab,
+wohl d&2019; Backen ab;
+i weiﬂ nit, wie mer gschicht.</pv>
+<pv>Am Zistig fr&ue;eih bym Brunne,
+se redt &2019;&sr; mi frey no a:
+&201E;Chumm, l&ue;pf mer Han&sr;! Wa&sr; fehlt der echt?
+&q;E&sr; isch der n&ae;ume gar nit recht,
+nei gar nit recht!&201C;
+J denk mi Lebtig dra.</pv>
+<pv>J ha &2019;&sr; em solle sage,
+und h&ae;tti &2019;&sr; numme gseit!
+Und wenni numme richer w&ae;r,
+und w&ae;r mer nit mi Herz so schwer,
+mi Herz so schwer,
+&2019;&sr; g&ae;b wieder Glegeheit.</pv>
+<bs>9 *</bs>
+<pb="132"/>
+<pv>Und uf und furt, iez gangi,
+&2019;&sr; w&ue;rd i&ae;ten im Salat,
+und sag em&2019;&sr;, wenni n&ae;ume cha,
+und luegt e&sr; mi nit fr&ue;ndli a,
+nit fr&ue;ndli a,
+se bini morn Saldat.</pv>
+<pv>En arme Kerli bini,
+arm bini sel isch wohr!
+Doch hani no n&ue;t Unrecht&sr; tho,
+und sufer gwachse w&ae;ri io,
+da&sr; w&ae;ri io,
+mit sellem h&ae;tt&sr; kei Gfohr.</pv>
+<pv>Wa&sr; wisplet in de H&ue;rste,
+wa&sr; r&ue;ehrt si echterst d&oe;rt?
+E&sr; visperlet, e&sr; ruuscht im Laub.
+O bh&ue;eti&sr; Gott der Her, i glaub,
+i glaub, i glaub,
+e&sr; het mi n&ae;umer gh&oe;rt.</pv>
+<pb="133"/>
+<pv>&q;Do bini io, do hesch mi,
+&q;und wenn de mi denn witt!
+&q;J ha &2019;&sr; scho sieder&2019;m Sp&oe;htlig gmerkt;
+&q;am Zistig hesch mi v&oe;llig bst&ae;rkt,
+io, v&oe;llig bst&ae;rkt.
+&q;Und worum seisch &2019;&sr; denn nit?</pv>
+<pv>&201E;Und bisch nit rich an G&ue;lte,
+&q;und bisch nit rich an Gold,
+&q;en ehrli Gm&ue;eth isch &ue;ber Geld,
+&q;und schaffe chasch in Hu&sr; und Feld,
+in Hu&sr; und Feld,
+&q;und lueg, i bi der hold!&201C;</pv>
+<pv>O Vreneli, wa&sr; seisch mer,
+o Vreneli isch&sr; so?
+De hesch mi usem Fegf&ue;&ue;r gholt,
+und l&ae;nger h&ae;tti &2019;&sr; n&ue;mme tolt,
+nei, n&ue;mme tolt.
+Jo, freili willi, io!</pv></poem>
+<hr>
+<pb="134"/>
+<d2><b><g>Der Winter</g>.</b></d2>
+<hr>
+<poem><pv><in>I</in>sch echt do obe Bauwele feil?
+Sie sch&ue;tten eim e redli Theil
+in d&2019; G&ae;rten aben und uf&sr; Hu&sr;;
+e&sr; schneit doch au, e&sr; e isch Gruu&sr;;
+und &2019;&sr; hangt no menge Wage voll
+am Himmel obe, merki wol.</pv>
+<pv>Und wo ne Ma vo witem lauft,
+so het er vo der Bauwele gchauft;
+er treit sie uf der Ach&sr;le no,
+und uffem Hut, und lauft dervo.
+Wa&sr; laufsch denn so, du n&ae;rsche Ma?
+De wirsch sie doch nit gstole ha?</pv>
+<pb="135"/>
+<pv>Und G&ae;rten ab, und G&ae;rten uf,
+hen alli Scheie Ch&ae;pli uf;
+sie st&oe;hn wie groﬂi Here do;
+Sie meine &2019;&sr; heig&sr; sust nieme&sr; so.
+Der Nuﬂbaum het doch au si Sach,
+und &2019;&sr; Here Hu&sr; und &2019;&sr; Chilche-Dach.</pv>
+<pv>Und wo me luegt, isch Schnee uud Schnee,
+me sieht kei Stroﬂ und Fuﬂ-Weg meh.
+Meng Some-Ch&oe;rnli, chlei und zart,
+lit unterm Bode wohl verwahrt,
+und schnei &2019;&sr;, so lang e&sr; schneie mag,
+e&sr; wartet uf si Ostertag.</pv>
+<pv>Meng Summer-V&oe;geli sch&oe;ner Art
+lit unterm Bode wohl verwahrt;
+e&sr; het kei Chummer und kei Chlag,
+und wartet uf si Ostertag;
+und gang&sr; au lang, er chunnt emol,
+und sieder schloft&sr;, und &2019;&sr; isch em wohl.</pv>
+<pb="136"/>
+<pv>Und wenn im Fr&ue;hlig &2019;&sr; Schw&ae;lmli singt,
+und d&2019; Sunne-W&ae;rmi abe dringt,
+Potz tausig! wacht&sr; in iedem Grab,
+und streift si Todte-Hemdli ab.
+Wo nummen au e L&oe;chli isch,
+schlieft &2019;&sr; Leben use iung und frisch. &2014;</pv>
+<pv>Do fliegt e hungerig Sp&ae;tzli her!
+e Br&oe;&sr;li Brod w&ae;r si Bigehr.
+E&sr; luegt ein so verb&ae;rmtli a;
+&2019;&sr; het sieder nechte n&ue;t meh gha.
+Gell B&ue;rstli, sel isch anderi Zit,
+wenn &2019;&sr; Chorn in alle Fure lit?</pv>
+<pv>Do hesch! Loﬂ andern au dervo!
+Bisch hungerig, chasch wieder cho! &2014;
+&2019;&sr; muﬂ wohr sy, wie&2019;&sr; e Spr&ue;chli git:
+&201E;Sie seihe nit, und ernde nit;
+&q;sie hen kei Pflug, und hen kei Joch,
+&q;und Gott im Himmel n&ae;hrt sie doch.&201C;</pv></poem>
+<hr>
+<pb="137"/>
+<d2><b><g>Da&sr; Haber-Muﬂ</g>.</b></d2>
+<hr>
+<poem>&2019;&sr; Haber-Mueﬂ w&ae;r ferig, iez ch&oe;mmet
+ihr Chinder und esset!
+Betet: <g>Aller Augen</g> &2014; und gent mer
+ordeli Achtig,
+aﬂich nit am rueﬂige T&ue;pfi &2019;&sr; Ermeli schwarz
+wird.
+Esset denn, und segnich&sr; Gott, und wach-
+set und tr&ue;eihet!
+G&2019;seiht het der Aetti der Haber, und abe
+g&2019;eget im Fr&ue;eih-Johr,
+und der himmlisch Vater het gseit: &201E;Jez
+chasch wieder heim goh,
+&q;aﬂ e&sr; wach&sr;t und zitig wird, f&ue;r sel willi
+sorge!&201C;
+Denket numme Chinder, e&sr; schloft in ied-
+wedem Ch&oe;rnli
+<pb="138"/>
+chlei und zart e Chiimli, &2019;&sr; thut nummen
+au kei Schn&ue;&ue;fli,
+nei, e&sr; schloft, und seit kei Wort, und iﬂt
+nit, und trinkt nit,
+biﬂ e&sr; in de Fuhre lit, im luckere Bode.
+Aber in de Fuhren und in der f&ue;echtige W&ae;rmi
+wacht e&sr; heimli uf u&sr; sim verschwiegene
+Schl&oe;fli,
+streckt die zarte Gliedli, und suget am saf-
+tige Ch&oe;rnli,
+wie ne Mutter-Chind, &2019;&sr; isch alle&sr;, aﬂ e&sr;
+nit briegget.
+Siederie wird&sr; gr&oe;ﬂer, und heimli sch&oe;ner
+und st&ae;rcher,
+und schlieft u&sr; de Windle, bohrt mittem
+W&ue;rzeli abe,
+tiefer aben in Grund, und sucht si Nahrig
+und findt sie.
+Jo und &2019;&sr; sticht&sr; der Wundervitz, e&sr; m&oe;cht
+doch gern wisse,
+wie&2019;&sr; au witer oben isch. Gar heimlig und
+furchtsem
+<pb="139"/>
+g&ue;ggelet&2019;&sr; zum Boden u&sr; &2014; Potz tausig,
+wie gfallt&sr; em!
+Uese lieber Herget, er schikt en Engeli abe:
+&201E;Bringem e Tr&oe;pfli Thau, und sag em
+fr&ue;ndli Gottwilche!&201C;
+Und e&sr; trinkt, und &2019;&sr; schmektem wohl, und
+&2019;&sr; strekt si gar s&oe;lli.
+Sieder strehlt si d&2019; Sunnen, und wenn sie
+gw&ae;schen und gstrehlt isch,
+chunnt sie mit der Strikete f&ue;re hinter de
+Berge,
+wandlet ihre Weg hoch an der himmlische
+Land-Stroﬂ,
+strikt und lueget aben, aﬂ wie ne fr&ue;ndligi
+Muetter
+no de Chindlene luegt; sie l&ae;chlet gegenem
+Chiimli,
+und e&sr; thut em wohl, bi&sr; tief in&sr; W&ue;rzeli abe.
+&201E;So ne tolli Frau, und doch so g&ue;etig
+und fr&ue;ndli!&201C;
+Aber wa&sr; sie strickt? He, Gw&ue;lch u&sr; himm-
+lische D&ue;fte!
+<pb="140"/>
+&2019;&sr; tr&oe;pflet scho, ne Spr&ue;tzerli chunnt, druf
+regnet&sr; gar s&oe;lli;
+&2019;&sr; Chiimli trinkt bi&sr; gnug; druf weiht e
+L&ue;ftli und trochnet&2019;&sr;,
+und e&sr; seit: &201E;Jez gangi n&ue;mmeu untere
+Bode,
+um ke Pri&sr;! Do blibi, geb, wa&sr; no u&sr;
+mer will werde!&201C;
+Esset Chindli, gsegn&2019; e&sr; Gott, und wach-
+set und tr&ue;eihet!
+&2019;&sr; wartet herbi Zit uf&sr; Chiimli; Wulken
+an Wulke
+st&oe;hn am Himmel Tag und Nacht, und d&2019;
+Sunne verbirgt si;
+uf de Berge schneit&2019;&sr;, und witer nide hur-
+niglet&2019;&sr;;
+Schocheli schoch, wie schnatteret iez, und
+briegget mi Chiimli!
+und der Boden isch zu, und &2019;&sr; het gar ch&ue;n-
+digi Nahrig.
+&201E;Isch denn d&2019;Sunne gstorbe, seit e&sr;, aﬂ
+sie nit cho will,
+<pb="141"/>
+&q;oder f&oe;rcht sie au, e&sr; frier&2019; sie? W&ae;ri
+doch bliebe,
+&q;woni gsi bi, still und chlei im mehlige
+Ch&oe;rnli,
+&q;und deheim im Boden und in der f&ue;ech-
+tige W&ae;rmi.&201C;
+Lueget Chinder, so goht&sr;! Der werdet au
+no sage,
+wenn der use ch&oe;mmet, und unter fremde
+L&ue;te
+schaffe m&ue;ent und reble, und Brod und
+Plunder verdiene:
+&201E;W&ae;ri doch deheim by&2019;m M&ue;etterli, hin-
+terem Ofe!&201C;
+Tr&oe;stich Gott! &2019;&sr; nimmt au en End, und
+chunnt wieder besser,
+wie&2019;&sr; im Chimli gangen isch. Am heitere
+May-Tag
+weiht&sr; so lau, und d&2019; Sunne stigt so chr&ae;f-
+tig vom Berg uf,
+und sie luegt, wa&sr; &2019;&sr; Chiimli macht, und
+git em e Schm&ue;tzli,
+<pb="142"/>
+Jez isch em wieder wohl, nnd &2019;&sr; weiﬂ nit
+z&2019;blibe vor Freude.
+Nootno prange d&2019; Matte mit Gra&sr; und
+farbige Blume;
+nootno duftet &2019;&sr; Chriesi-Blust, und gr&ue;n
+wird der Pflum-Baum;
+nootno wird der Rogge buschig, Weizen
+und Gerste,
+und mi H&ae;berli seit: &201E;Do blibi au nit de-
+hinte!&201C;
+Nei er spreitet d&2019; Bl&ae;ttli u&sr; &2014; wer het sie
+echt gwobe?
+und iez schieﬂt der Halm &2014; wer tribt in
+R&oe;hren an R&oe;hre
+&2019;&sr; Wasser u&sr; de Wurzle bi&sr; in die saftige
+Spitze?
+Endli schlieft en Aehri u&sr; und schwankt in
+de L&ue;fte &2014;
+Sagmer au e Mensch, wer het an sideni
+F&ae;de
+do ne Chn&oe;spli ghenkt, und d&oe;rt mit ch&ue;nsi-
+lige H&ae;nde?
+<pb="143"/>
+d&2019; Engeli, wer sust? Sie wandle zwische de
+Fuhren
+uf und ab, vo Halm zu Halm, und schaffe
+gar s&oe;lli.
+Jez hangt Bluest an Bluest am zarte schwan-
+kigen Aehri,
+und mi Haber stoht, a&sr; wie ne Br&ue;&ue;tli im
+Chilch-Stuhl.
+Jez sin zarti Ch&oe;rnli drinn, und wachsen
+im Stille,
+und mi Haber merkt afange, wa&sr; e&sr; will
+werde.
+D&2019; Ch&ae;ferli und d&2019; Fliege sie ch&oe;mme z&2019;Stu-
+bete zu&2019;nem,
+luege, wa&sr; er macht, und singen: <g>Eye
+Popeye</g>!
+Jo, und &2019;&sr; Schi&2019;-W&ue;rmli chunnt, Potz tau-
+sig mittem Laternli,
+z&2019;nacht um n&ue;ni z&2019;Liecht, wenn d&2019; Fliegen
+und d&2019; Ch&ae;ferli schlofe.
+Esset Chinder, seg&2019;n e&sr; Gott, und wach-
+set und tr&ue;eihet!
+<pb="144"/>
+Sieder het me gheuet, und Chriesi gunne
+no Pfingste;
+fieder het me Pfl&ue;mli gunne hinterem Garte;
+sieder hen sie Rocke gschnitte, Weizen und
+Gerste,
+und die arme Chinder hen barfi&sr; zwische de
+Stupfle
+gfalleni Aehri glesen, und &2019;&sr; M&ue;&ue;&sr;li hetene
+ghulfe.
+Druf het au der Haber bleicht. Voll meh-
+ligi Ch&oe;rner
+het er gschwankt und gseit: &201E;Jez isch&sr; mer
+afange verleidet,
+&q;und i merk, mi Zit isch u&sr;, wa&sr; thueni
+ellei do
+&q;zwische de Stupfel-R&ue;ben, und zwische de
+Grumbire-Stude?&201C;
+Druf isch&sr; Vreni usen und &2019;&sr; Efersinli und
+&2019;&sr; Plunni,
+&2019;&sr; het sie scho an d&2019; Finger gfrore z&2019;mor-
+gen und z&2019; obe;
+endli isch er cho, und in der staubige Sch&ue;re
+<cw>hei</cw>
+<pb="145"/>
+hei sie&2019;n dr&oe;scht vo fr&ue;eih um zwey bi&sr; z&2019;o-
+ben um Vieri.
+Druf isch&2019;&sr; M&ue;ller&sr; Esel cho, und hetten
+in d&2019; M&ue;hli
+gholt, und wieder brocht, in chleini Ch&oe;rn-
+li vermahle,
+und mit feister Milch vom iunge fleckige
+Ch&ue;eihli
+hetten &2019;&sr; M&ue;etterli g&2019;chocht im T&ue;pfi &2014; Gel-
+tet, &2019;&sr; isch gut gsi?
+W&ue;schet d&2019; L&oe;ffel ab, und bett ei&sr;: <g>Dan-
+ket dem Heren</g> &2014;
+und iez g&oe;hnt in d&2019; Schul, d&oe;rt hangt der
+Oser am Simse!
+Fall mer kei&sr;, gent achtig, und lehret, wa&sr;
+menich ufgit!
+Wenn der wieder ch&oe;mmet, se ch&oe;mmetder
+Zibbertli &ue;ber.</poem>
+<hr>
+<bs>10</bs>
+<pb="146"/>
+<d2><b><g>W&ae;chterruf</g>.</b></d2>
+<p><c>(mit einer Melodie.)</c></p>
+<hr>
+<poem><pv><in>L</in>oset, wa&sr; i euch will sage!
+D&2019; Glocke het <g>Zehni</g> gschlage.
+Jez betet, und iez g&oe;hnt in&sr; Bett,
+und wer e r&ue;eihig Gwisse het,
+schloft sanft und wohl! Im Himmel wacht
+e heiter Aug die ganzi Nacht.</pv>
+<pv>Loset, wa&sr; i euch will sage!
+D&2019; Glocke het <g>Oelfi</g> gschlage.
+Und wer no an der Arbet schwitzt,
+und wer no by de Charte sizt,
+dem bieti iez zum leztemol.
+&2019;&sr; isch hochi Zit! Und schlofet wohl!</pv>
+<pb>
+<abb>
+<pb>
+<pb="147"/>
+<pv>Loset, wa&sr; i euch will sage!
+D&2019; Glocke het <g>Zw&oe;lfi</g> gschlage.
+Und wo no in der Mitternacht
+e Gm&ue;eth in Schmerz und Chummer wacht,
+se geb der Gott e r&ue;eihige Stund,
+und mach di wieder froh und gsund!</pv>
+<pv>Loset, wa&sr; i euch will sage!
+D&2019; Glocke het <g>Ei&sr;</g> gschlage.
+Und wo mit Satan&sr; G&2019;heiﬂ und Roth
+e Dieb uf dunkle Pfade goht,
+&2014; i will&sr; nit hoffe, aber gschieht&sr; &2014;
+Gang heim! Der himmlisch Richter sieht&2019;&sr;.</pv>
+<pv>Loset, wa&sr; i euch will sage!
+D&2019; Glocke het <g>Zwey</g> gschlage.
+Und wem scho wieder, eb&2019;&sr; no tagt,
+die schweri Sorg am Herze nagt,
+du arme Tropf, di Schlof isch hi&2019;!
+Gott sorgt! E&sr; w&ae;r nit n&oe;thig gsi.</pv>
+<bs>10 *</bs>
+<pb="148"/>
+<pv>Loset, wa&sr; i euch will sage,
+D&2019; Glocke het <g>Dr&ue;</g> gschlage.
+Die Morgestund am Himmel schwebt,
+und wer im Friede der Tag erlebt,
+dank Gott, und faﬂ e frohe Mueth,
+und gang an&sr; Gsch&ae;ft, und &2014; halt di guet!</pv></poem>
+<hr>
+<pb="149"/>
+<d2><b><g>Der Bettler</g>.</b></d2>
+<hr>
+<poem><in>E</in>n alte Ma, en arme Ma,
+er sprichtich um e Wohlthat a!
+e St&ue;ckli Brod ab euem Tisch,
+wenn&sr; eue guete Willen isch!
+He io, dur Gott&sr; Wille!
+In Sturm und Wetter arm und blo&sr;
+gibore bini uf der Stroﬂ,
+und uf der Stroﬂ in Sturm und Wind
+erzogen, arm, e Bettelchind.
+Druf woni chr&ae;ftig worde bi,
+und d&2019; Eltere sin gstorbe gsi,
+se hani denkt: Saldate-Tod
+isch besser, weder Bettelbrod.
+J ha in schwarzer Wetternacht
+vor Laudon&sr; Zelt und Fahne gwacht
+i bi bym Paschal Paoli
+in Corsika Draguner gsi,
+<pb="150"/>
+und gfochte hani, wie ne Ma,
+und Bluet an Gurt und Sebel g&2019;ha.
+J bi vor menger Batterie,
+i bi in zwenzig Schlachte gsi,
+und ha mit Treu und Tapferkeit
+dur Schwerdt und Chugle &2019;&sr; Lebe treit.
+Z&2019;lezt hen sie mi mit lahmem Arm
+in&sr; Elend gschickt. Da&sr; Gott erbarm!
+He io, dur Gott&sr; Wille!</poem>
+<hr>
+<poem>Vergelt&sr;der Gott, und dankder Gott
+du zarten Engel wiiﬂ und roth,
+und geb der Gott e brave Ma!
+Wa&sr; luegsch mi so biwegli a?
+Hesch &oe;bben au e Schatz im Zelt,
+mit Schwerdt und Roﬂ im wite Feld?
+Biwahr di Gott vor Weh und Leid,
+und geb dim Schatz e sicher Gleit,
+und bring der bald e gsunde Ma!
+&2019;&sr; goht ziemli scharf vor Mantua,
+<pb="151"/>
+&2019;&sr; cha sy, i ch&oe;nnt der Meldig ge.
+Wa&sr; luegsch mi a, und wirsch wie Schnee,
+und seisch nit: &201E;Henk di Bettelgwand
+di falsche graue Bart an d&2019; Wand?&201C;
+Jez bschau mi recht, und chennsch mi no?
+Geb Gott, i seig Gottwilche do!</poem>
+<hr>
+<poem>Her Jesi&sr;, der Friedli, mi Friedli isch do!
+Gottwilche, Gottwilche, wohl chenni di no!
+Wohl het mi bigleitet di liebligi Gstalt,
+uf duftige Matten im schattige Wald.
+Wohl het di bigleitet mi b&2019;ch&ue;mmeret Herz
+dur Schwerdter und Chugle mit Hofnig
+und Schmerz,
+und briegget und bettet. Gott het mer will-
+fahrt,
+und het mer mi Friedli und het mer en gspart.
+Wie chlopft&sr; mer im Buese, wie bini so froh!
+O Muetter, chumm weidli, mi Fridli isch do!</poem>
+<hr>
+<pb="152"/>
+<d2><b><g>Der Storch</g>.</b></d2>
+<p><c><g>Nach dem Frieden</g>.</c></p>
+<hr>
+<poem><pv><in>W</in>illkumm Her Storch! bisch au scho do,
+und schmecksch im Weiher d&2019; Fr&oe;sche scho?
+Und meinsch der Winter heig si Sach,
+und &2019;&sr; besser Wetter ch&oe;mm al&sr;gmach?</pv>
+<pv>He io, der Schnee gieng &ue;beral;
+me meint, e&sr; werd scho gr&ue;n im Thal.
+Der Himmel isch so rein und blau,
+und &2019;&sr; weiht ein a so mild und lau. &2014;</pv>
+<pv>Nei loset, wiener welsche cha!
+Verstoht men au ne W&oe;rtli dra?
+Drum chunnt er &ue;ber Strom und Meer
+u&sr; wite fremde L&ae;ndere her.</pv>
+<pb="153"/>
+<pv>Wa&sr; bringsch denn Neu&2019;&sr; u&sr; Afrika?
+Sie hen gwi&sr; au so Umst&ae;nd gha,
+und d&2019; B&ue;chse gspannt, und d&2019; S&ae;bel g&2019;wezt,
+und Freiheit&sr;-B&ae;um vor d&2019; Chilche gsezt?</pv>
+<pv>De hesch so rothi Str&ue;mpfli a.
+Isch &oe;bbe Blut vom Schlachtfeld dra?
+Wo hesch die schwarze Fegge gno?
+Bisch &oe;bbe z&2019;nooch an d&2019; Flamme cho?</pv>
+<pv>Um da&sr; h&ae;ttsch &ue;ber Land und Meer
+nit reise d&oe;rfe hi und her
+vom Rhi&2019;-Strom bi&sr; in Afrika;
+de h&ae;ttsch&sr; io in der N&oe;&oe;chi g&2019;ha.</pv>
+<pv>Mer w&ue;sse leider au dervo,
+und mengi Wunde blutet no,
+und &2019;&sr; drukt no menge Chummer schwer,
+und menge sch&oe;ne Trog isch leer.</pv>
+<pb="154"/>
+<pv>Und witer an den Alpe hi
+isch&sr;, Gott erbarm&sr;, no &ae;rger gsi,
+und Weh und Ach het usem Wald
+und u&sr; de Berge widerhallt.</pv>
+<pv>An&sr; Wilhelm Telle Freiheit&sr;-Hut
+hangt menge Tropfe Schwitzerblut.
+Wie het&sr; nit ummen blizt und g&2019;chracht,
+und dunderet in der Wetter-Nacht!</pv>
+<pv>Doch &oe;bben in der Wetter-Nacht
+het Gotti&sr; Engel au no gwacht &2014;
+Wa&sr; peppersch? Mer verst&oe;hn di nit!
+Schwetz d&ue;tli, wenn de rede witt!</pv>
+<pv>Gang, hol ein &2019;&sr; Becke Chasperli!
+Er isch e Rung im Welschland gsi;
+er het emol go Vivi&sr; gschmekt,
+und wie der Storch si Schnabel g&2019;strekt.</pv>
+<pb="155"/>
+<pv>Und welsche chaner, &2019;&sr; isch e Gruu&sr;;
+e&sr; blibt ke Wentelen im Hu&sr;,
+und &2019;&sr; Gla&sr; stoht an de Fenstern ab;
+wer weiﬂ, verstoht er <g>Chlip</g> und <g>Chlap</g>!</pv>
+<pv>Zwor w&ue;rd&2019; er anderi Gsch&ae;fte ha;
+er martschet n&ae;ume, wenn er cha
+&201E;Jez <g>Chr&ue;tz im Baum</g>, und Sakertie!
+&q;ne Mo&sr; verspielt! Potz Mundie!&201C; &2014;</pv>
+<pv>&2019;&sr; isch gnug, Her Storch! Mer w&ue;sse&2019;&sr; scho,
+und wa&sr; de seisch, mer glaube&2019;&sr; io!
+E&sr; freut di au, aﬂ &2019;&sr; Dorf no stoht,
+und alle&sr; gsund isch &2014; dank der Gott!</pv>
+<pv>&2019;&sr; isch au nit alle&sr; grad und recht,
+und &2019;&sr; Nochber&sr; Chind isch s&oe;lli schlecht;
+mi Gschwey het hinecht bynem gwacht,
+&2019;&sr; het Gichter gha die ganzi Nacht.</pv>
+<pb="156"/>
+<pv>Sust m&oe;cht&sr;, Gottlob, so ziemli go,
+und &2019;&sr; Feld-Picket isch n&ue;mme do;
+wo Lager gsi sin Zelt an Zelt,
+goht iez der Pflug im Ackerfeld.</pv>
+<pv>Und der, wo d&2019; Storche heiﬂet cho,
+und d&2019; Rabe n&ae;hrt, isch au no do;
+er schafft den Arme Brod in&sr; Hu&sr;,
+und heilt die alte Presten u&sr;.</pv>
+<pv>Und wo me luegt, und luege cha,
+se l&ae;chlet ein der Frieden a,
+wie Morgeliecht, wenn d&2019; Nacht vergoht,
+und d&2019; Sunne hinter de Tanne stoht.</pv>
+<pv>Gang lueg e wenig d&2019; Gegnig a!
+J glaub, de wirsch e Gfalle ha.
+Mi Matten isch der wol bikannt,
+am Brunnen abe linker Hand.</pv>
+<pb="157"/>
+<pv>Und trifsch am Bach e Fr&oe;schli a,
+sen isch&sr; der gunnt. Verstick nit dra!
+Und, wa&sr; i bitt, loﬂ d&2019; Imme goh!
+Mi Groﬂe seit, sie fliege scho.</pv></poem>
+<hr>
+<pb="158"/>
+<d2><b><g>Sonntag&sr;fr&ue;he</g>.</b></d2>
+<hr>
+<poem><pv><in>D</in>er Samstig het zum Sunntig gseit;
+&201E;Jez hani alli schlofe gleit;
+&q;sie sin vom Schaffe her und hi
+&q;gar s&oe;lli m&ue;ed und schl&oe;srig gsi,
+&q;und &2019;&sr; gohtmer schier gar selber so,
+&q;i cha fast uf ke Bei me stoh.&201C;</pv>
+<pv>So seit er, und wo&2019;&sr; Zw&oe;lfi schlacht,
+se sinkt er aben in d&2019; Mitternacht.
+Der Sunntig seit: &201E;Jez isch&sr; an mir!&201C;
+Gar still und heimli bschlieﬂt er d&2019; Th&ue;r;
+er d&ue;selet hinter de Sterne no,
+und cha schier gar nit obsi cho.</pv>
+<pb="159"/>
+<pv>Doch endli ribt er d&2019; Augen u&sr;,
+er chunnt der Sunn an Th&ue;r und Hu&sr;;
+sie schloft im stille Ch&ae;mmerli;
+er p&oe;pperlet am L&ae;demli;
+er r&ue;eft der Sunne: &201E;d&2019; Zit isch do!&201C;
+Sie seit: &201E;J chumm enanderno!&201C; &2014;</pv>
+<pv>Und li&sr;li uf de Zeche goht,
+und fr&ue;ndli uf de Berge stoht
+der Sunntig, und &2019;&sr; schloft alle&sr; no;
+e&sr; sieht und h&oe;rt en nieme&sr; goh;
+er chunnt in&sr; Dorf mit stillem Tritt,
+und winkt im Guhl: &201E;Verroth mi nit!&201C;</pv>
+<pv>Und wemmen endli au verwacht,
+und gschlofe het die ganzi Nacht,
+se stoht er do im Sunne-Schi&2019;,
+und luegt eim zu de Fenstern i
+mit sinen Auge mild und gut,
+und mittem Meyen uffem Hut.</pv>
+<pb="160"/>
+<pv>Drum meint er&sr; treu, und wa&sr; i sag,
+e&sr; freut en wemme schlofe mag,
+und meint e&sr; seig no dunkel Nacht,
+wenn d&2019; Sunn am heitere Himmel lacht;
+drum isch er au so li&sr;li cho,
+drum stoht er au so liebli do.</pv>
+<pv>Wie glitzeret uf Gra&sr; und Laub
+vom Morgethau der Silberstaub!
+Wie weiht e frische Mayeluft,
+voll Chriesi-Blust und Schleche-Duft!
+Und d&2019; Immli sammle flink und frisch,
+sie w&ue;sse nit, aﬂ &2019;&sr; Sunntig isch.</pv>
+<pv>Wie pranget nit im Garte-Land
+der Chriesi-Baum im Maye-Gwand,
+Gel Veieli und Tulipa,
+und Sterneblume nebe dra,
+und gf&ue;llti Zinkli blau und wiiﬂ,
+me meint, me lueg in&sr; Paredie&sr;!</pv>
+<cw>Und</cw>
+<pb="161"/>
+<pv>Und &2019;&sr; isch so still und heimli do,
+men isch so r&ue;eihig und so froh!
+me h&oe;rt im Dorf kei <g>H&ue;st</g> und <g>Hott</g>;
+e <g>Gute Tag</g>! und <g>Dank der Gott</g>!
+und &2019;&sr; <g>git gottlob e sch&oe;ne Tag</g>!
+isch alle&sr;, wa&sr; me h&oe;re mag.</pv>
+<pv>Und &2019;&sr; V&oe;geli seit: &201E;Frili io!
+&q;Potz tausig, io, er isch scho do:
+&q;Er dringtmer scho im Himmel&sr;-Glast
+&q;Dur Bluest und Laub in Hurst und Nast!&201C;
+Und &2019;&sr; Distelzwigli vorne dra
+het &2019;&sr; Sunntig-R&oe;ckli au scho a.</pv>
+<pv>Sie l&ue;te weger &2019;&sr; Zeiche scho,
+der Pfarer, schint&sr;, well zitli cho.
+Gang, brechmer ei&sr; Aurikli ab,
+verw&ue;schet mer der Staub nit drab,
+und Ch&ue;ngeli, leg di weidli a,
+de muesch derno ne Meje ha!</pv></poem>
+<hr>
+<bs>11</bs>
+<pb="162"/>
+<d2><b><g>Auf einem Grabe</g>.</b></d2>
+<hr>
+<poem><pv><in>S</in>chlof wohl, schlof wohl im ch&ue;ele Bett!
+De ligsch zwor hert uf Sand und Chie&sr;;
+doch sp&ue;rt&sr; di m&ue;ede Rucke nit.
+Schlof sanft und wohl!</pv>
+<pv>Und &2019;&sr; Deckbett lit der, dick und schwer
+in d&2019; H&oe;chi gsch&ue;ttlet, uffem Herz;
+Doch schlofsch im Friede, &2019;&sr; druckt di nit.
+Schlof sanft und wohl!</pv>
+<pv>De schlofsch und h&oe;rsch mi Bh&ue;tdi Gott,
+de h&oe;rsch mi sehnli Chlage nit.
+W&ae;r&sr; besser, wenn de &2019;&sr; h&oe;re ch&oe;nntsch?
+Nei, weger nei!</pv>
+<pb="163"/>
+<pv>O &2019;&sr; isch der wohl, e&sr; isch der wohl!
+Und wenni numme by der w&ae;r,
+se w&ae;r scho alle&sr; recht und gut.
+Mer tolteni&sr;!</pv>
+<pv>De schlofsch und achtisch &2019;&sr; Unrneih nit
+in Chilche-Thurn die langi Nacht,
+und wenn der W&ae;chter <g>Zw&oe;lfi</g> r&ue;eft
+im stille Dorf.</pv>
+<pv>Und wenn&sr; am schwarze Himmel blizt,
+und Gw&ue;lch an Gw&ue;lch im Donner chracht
+se fahrtder &2019;&sr; Wetter &ue;ber&2019;&sr; Grab,
+und weckt di nit.</pv>
+<pv>Und wa&sr; di fr&ue;eih im Morgeroth
+bi&sr; spot in d&2019; Mittnacht bch&ue;mmert het,
+Gottlob, e&sr; ficht di n&ue;mmen a
+im stille Grab.</pv>
+<bs>11 *</bs>
+<pb="164"/>
+<pv>E&sr; isch der wohl, o &2019;&sr; isch der wohl!
+und alle&sr; wa&sr; de glitte hesch,
+Gottlob und Dank, im ch&ue;ele Grund
+thut&sr; n&ue;mme weh.</pv>
+<pv>Drum, wenni numme by der w&ae;r,
+se w&ae;r io alle&sr; recht und gut;
+iez sitzi do, und weiﬂ kei Trost
+mi&2019;m tiefe Schmerz.</pv>
+<pv>Doch &oe;bbe bald, wenn&sr; Gott&sr;will isch,
+se chunnt mi Samstig z&2019; oben au,
+und druf, se grabt der Nochber Chlau&sr;
+mir au ne Bett.</pv>
+<pv>Und wenni lig, und n&ue;mme schnuuf,
+und wenn sie &2019;&sr; Schloflied gsunge hen,
+se sch&ue;ttle sie mer &2019;&sr; Deckbett uf,
+und &2014; Bh&ue;tdi Gott!</pv>
+<pb="165"/>
+<pv>J schlof derno so sanft wie du,
+und h&oe;r&2019; im Chilch-Thurn &2019;&sr; Unrueth nit!
+mer schlofe, bi&sr; am Sunntig fr&ue;eih
+der Morge thaut.</pv>
+<pv>Und wenn emol der Sunntig tagt,
+und d&2019; Engel singe &2019;&sr; Morgelied,
+se st&oe;hn mer mit enanderno uf,
+erquickt und gsund.</pv>
+<pv>Und &2019;&sr; stoht e neui Chilche do,
+hel funklet sie im Morgeroth.
+Mer g&oe;hn, und singen am Altar
+&2019;&sr; Hallelujah!</pv></poem>
+<hr>
+<pb="166"/>
+<d2><b><g>Der W&ae;chter
+in der Mitternacht</g>.</b></d2>
+<hr>
+<poem><pv>&201E;<g>Loset, wa&sr; i euch will sage!
+&q;D&2019; Glocke het zw&oe;lfi gschlage</g>.&201C;</pv>
+<pv>Wie still isch alle&sr;! Wie verborgen isch,
+wa&sr; Lebe heiﬂt, im Schoﬂ der Mitternacht
+uf Stroﬂ und Feld! E&sr; t&oe;nt kei Mensche-
+Tritt;
+e&sr; fahrt kei Wagen u&sr; der Ferni her;
+kei Hu&sr;th&ue;r gahret, und kei Othem schnuft,
+und nit emol e M&oe;hnli r&ue;eft im Bach.
+&2019;&sr; lit alle&sr; hinterm Umhang iez und schloft,
+und &oe;b mit liichtem Fuﬂ und stillem Tritt
+e Geist vor&ue;ber wandlet, weiﬂi nit.
+Doch wa&sr; i sag! ruuscht nit der Tiich?
+Er schieﬂt
+<pb="167"/>
+im Leerlauf ab am m&ue;ede M&ue;hli-Rad,
+und n&ae;ume schliicht der Ilti&sr; unterm Dach
+de Tremle no, und lueg, do obe zieht
+vom Chilchthurn her en Uehl im stille Flug
+dur d&2019; Mitternacht, und hangt denn nit im
+Gw&ue;lch
+die groﬂi Nacht-Laterne d&oe;rt, der Mond?
+Still hangt sie d&oe;rt, und d&2019; Sterne flimmere,
+wie wemmen in der dunkle Rege-Nacht,
+vom wite Gang ermattet, uf der Stroﬂ
+an d&2019; Heimeth chunnt, no keini D&ae;cher sieht
+und numme do und d&oe;rt e fr&ue;ndli Liecht.
+Wie wird&sr; mer doch uf eimol so kurio&sr;?
+wie wird&sr; mer doch so weich um Brust und
+Herz?
+A&sr; wenni briegge m&oe;cht, weiﬂ nit worum?
+a&sr; wenni &2019;&sr; Heimweh h&ae;tt, weiﬂ nit &2014;
+no wa&sr;?</pv>
+<pv>&201E;<g>Loset, wa&sr; i euch will sage!
+&q;D&2019; Glocke het zw&oe;lfi gschlage</g>.
+<pb="168"/>
+<g>&q;Und isch&sr; so schwarz und fin-
+ster do,
+&q;se schine d&2019; Sternli no so froh:
+&q;und u&sr; der Heimeth chunnt
+der Schi&2019;;
+&q;&2019;&sr; muﬂ lieblig in der Hei-
+meth sy</g>!&201C;</pv>
+<pv>Wa&sr; willi? willi &ue;bere Chilchhof goh
+in&sr; Unterdors? E&sr; isch mer d&2019; Th&ue;r seig off,
+a&sr; wenn die Todten in der Mitternacht
+u&sr; ihre Gr&ae;bere giengen, und im Dorf
+e wenig luegten, &oe;b no alle&sr; isch
+wie almig. &2019;&sr; isch mer doch bi&sr; dato ken
+bigegnet, aﬂ i weiﬂ. Denkwol i thue&2019;&sr;,
+und r&ue;ef de Todte &2014; Nei sel thueni nit!
+Still willi uf de stille Gr&ae;bere goh!
+Sie hen io d&2019; Uhr im Thurn, und weiﬂi denn,
+isch au scho ihri Mitternacht verbey?
+&2019;&sr; cha sy, e&sr; fallt no dunkler alliwil
+und schw&ae;rzer uf sie abe &2014; d&2019; Nacht isch
+lang;
+<pb="169"/>
+&2019;&sr; cha sy, e&sr; zuckt e Streifli Morgeroth
+scho an de Bergen uf &2014; i weiﬂ e&sr; nit.</pv>
+<pv>Wie isch&sr; so heimli do? Sie schlofe wohl!
+Gott gunnene&2019;&sr;! &2014; e bizli schuderig,
+sel l&ae;ugni nit; doch isch nit alle&sr; tod.
+J h&oe;r io &2019;&sr; Unrueih in der Chilche; &2019;&sr; isch
+der Pulz der Zit in ihrem tiefe Schlof,
+und d&2019; Mitternacht schnuft vo de Berge her.
+Ihr Othem wandlet &ue;ber d&2019; Matte, spielt
+d&oe;rt mittem Tsch&ae;ubbeli am gr&ue;ne Nast,
+und pfist dur d&2019; Scheie her am Gartehag.
+Sie chuuchet f&ue;echt an d&2019; Chilche-Mur und
+chalt;
+die lange Fenster schnattere dervo
+und &2019;&sr; lopperig Chr&ue;tz. Und lueg, do l&ue;f-
+tet sie
+en offe Grab! &2014; Du guten alte Franz
+se hen sie der di Bett scho gmacht im Grund,
+und &2019;&sr; Deckbett wartet uf di nebe dra,
+und d&2019; Liechtli u&sr; der Heimeth schine dri!</pv>
+<pb="170"/>
+<pv>He nu, e&sr; gohti&sr; alle so; der Schlof
+zwingt ieden uffem Weg, und eb er gar
+in d&2019; Heimeth dure chunnt; doch wer emol
+si Bett im Chilchhof het, Gottlob er isch
+zum lezte mol do niden &ue;bernacht;
+und wenn e&sr; taget, und mer wachen uf,
+und ch&oe;mmen use, hemmer n&ue;mme wiit,
+e St&ue;ndli &oe;bben, oder nitemol. &2014;
+Se stolperi denn au no d&2019; St&ae;pfli ab,
+und bi so n&ue;echter bliebe hinechtie.</pv>
+<pv><g>&201E;Loset, wa&sr; i euch will sage!
+&q;D&2019; Glocke het zw&oe;lfi gschlage.
+&q;Und d&2019; Sternli schine no so
+froh,
+&q;und u&sr; der Heimeth schim-
+mert&sr; so;
+&q;und &2019;&sr; isch no um e chleini
+Zit,
+&q;Vom Chilchhof seig&sr; gwiﬂ
+n&ue;mme wiit.&201C;</g></pv>
+<pb="171"/>
+<pv>Wo bini gsi? wo bini echterst iez?
+e St&ae;pfli uf, e St&ae;pfli wieder ab,
+und witer&sr; n&ue;t? Nei weger witer&sr; n&ue;t!
+Isch nit &2019;&sr; ganz D&oe;rfli in der Mitternacht
+e stille Chilchhof? Schloft nit alle&sr; do,
+wie d&oe;rt vom lange m&ue;ede Wachen u&sr;,
+vo Freud und Leid, und lit in Gotti&sr; Hand,
+do unterm Strau-Dach, d&oe;rt im ch&ue;ele
+Grund,
+und warte, biﬂ e&sr; taget um sie her?</pv>
+<pv>He, &2019;&sr; w&ue;rd io &oe;bbe! Und wie lang und
+schwarz
+au d&2019; Nacht vom hoche Himmel abe hangt,
+verschlofen isch der Tag de&sr;wege nie;
+und biﬂi wieder chumm, und no ne mol,
+so gen mer d&2019; G&ue;hl scho Antwort, wenni
+r&ue;ef,
+se weiht mer scho der Morgeluft in&sr; Gsicht.
+Der Tag verwacht im Tanne-Wald, er l&ue;pft
+al&sr;gmach der Umhang obsi; &2019;&sr; Morgeliecht
+e&sr; rieslet still in d&2019; Nacht, und endli wahlt&2019;&sr;
+<pb="172"/>
+in goldne Str&oe;men &ue;ber Berg und Thal;
+e&sr; zuckt und wacht an allen Orte; &2019;&sr; goht
+e Lade do und d&oe;rt e Hu&sr;th&ue;r uf,
+und &2019;&sr; Lebe wandlet use frey und froh.</pv>
+<pv>Du liebi Seel, wa&sr; wird&sr; e Fyrtig sy,
+wenn mit der Zit die lezti Nacht versinkt,
+wenn alli goldne Sterne groﬂ und chlei,
+und wenn der Mond und &2019;&sr; Morgeroth und
+d&2019; Sunn
+in Himmel&sr;-Liecht verrinnen, und der Glast
+bi&sr; in die tiefe Gr&ae;ber abe dringt,
+und d&2019; Muetter r&ue;eft de Chindlene: &201E;&2019;&sr; isch
+Tag!&201C;
+und alle&sr; usem Schlof verwacht, und do
+ne Laden uf goht, d&oe;rt e schweri Th&ue;r!
+Die Todten luegen use iung und sch&oe;n.
+&2019;&sr; het menge Schade gutet &ue;bernacht,
+und menge tiefe Schnatte biﬂ in Herz
+isch heil. Sie luegen use gsund und sch&oe;n,
+<pb="173"/>
+und tunke &2019;&sr; Gsicht in Himmel&sr;-Luft; sie
+st&ae;rkt
+bi&sr; tief in&sr; Herz &2014; Du alte Nar, wa&sr;
+briegsch?</pv>
+<pv><g>&201E;Loset, wa&sr; i euch will sage!
+&q;D&2019; Glocke het zw&oe;lfi gschlage.
+&q;Und d&2019; Liechtli brennen al-
+li no;
+&q;der Tag will iemerst no nit
+cho.
+&q;Doch Gott im Himmel lebt
+und wacht,
+&q;er h&oe;rt wohl, wenn e&sr; Vie-
+rischlacht!&201C;</g></pv></poem>
+<hr>
+<pb="174"/>
+<d2><b><g>Der zufriedene Landmann</g>.</b></d2>
+<hr>
+<poem><pv><in>D</in>enkwol, iez lengi au in Sack,
+und trink e Pfifli Rauchtuback,
+und fahr iez heim mit Eg und Pflug,
+der Laubi meint scho lang, &2019;&sr; w&ae;r gnug.</pv>
+<pv>Und wenn der Kayser usem Roth
+in Feld und Forst uf&sr; Jage goht,
+se lengt er eben au in Sack,
+und trinkt e Pfifli Rauchtuback.</pv>
+<pv>Doch trinkt er wenig Freud und Lust,
+e&sr; isch em n&ae;ume gar nit iust.
+Die goldne Chrone drucke schwer;
+&2019;&sr; isch nit, aﬂ wenn&sr; e Schie-Hut w&ae;r.</pv>
+<pb="175"/>
+<pv>Wohl goht em menge Batzen i,
+doch will au menge gfuttert sy;
+und woner lo&sr;t isch Bitt und Bitt,
+und alli tr&oe;ste chaner nit.</pv>
+<pv>Und wenn er hilft, und sorgt und wacht
+vom fr&ue;eihe Morge bi&sr; in d&2019; Nacht,
+und meint, iez heiger alle&sr; tho,
+se het er erst kei Dank dervo.</pv>
+<pv>Und wenn, vom Treffe blutig roth,
+der Jenneral im Lager stoht,
+se lengt er endli au in Sack,
+und trinkt e Pfifli Rauchtuback.</pv>
+<pv>Doch schmeckt&sr; em nit im wilde Gw&ue;hl,
+by&2019;m Ach und Weh und Saitespiel;
+er het thurnieret um und um,
+und nieme&sr; will en lobe drum.</pv>
+<pb="176"/>
+<pv>Und F&ue;rio und Mordio
+und schweri Wetter ziehnem no;
+do lit der Granedier im Blut,
+und d&oe;rt e Dorf in Rauch und Glut.</pv>
+<pv>Und wenn in d&2019; Meﬂ mit Gut und Geld
+der Chaufher rei&sr;t im wite Feld,
+se lengt er eben an in Sack,
+und holt si Pfifli Rauchtuback.</pv>
+<pv>Doch schmeckt&sr; der nit, du arme Ma!
+Me sieht der dini Sorgen a,
+und&sr; Ei mol ei&sr;, e&sr; isch e Gruu&sr;,
+e&sr; luegt der zu den Augen u&sr;.</pv>
+<pv>De treisch so schwer, e&sr; thut der weh;
+Doch hesch nit gnug, und m&oe;chtsch no me,
+und weisch io nit, wo ane mit;
+drum schmeckt der au di Pfifli nit.</pv>
+<cw>Mir</cw>
+<pb="177"/>
+<pv>Mir schmeckt&sr;, Gottlob, und &2019;&sr; isch mer
+gsund;
+der Weize lit im f&ue;echte Grund,
+und mittem Thau im Morgeroth,
+und mit sim Othem segnet&sr; Gott.</pv>
+<pv>Und &2019;&sr; Anne Meili flink und froh,
+e&sr; wartet mit der Suppe scho,
+und d&2019; Chinderli am chleine Tisch,
+me weiﬂ nit, welle&sr; &2019;&sr; f&ue;rnehmst isch.</pv>
+<pv>Drum schmeckt mer au mi Pfifli wohl;
+denkwol, i f&ue;llmer&sr; no ne mol!
+Zum frohe Sinn, zum freie Muth,
+und heimetzu schmeckt alle&sr; gut.</pv></poem>
+<hr>
+<bs>12</bs>
+<pb="178"/>
+<d2><b><g>Die Verg&ae;nglichkeit</g>.</b></d2>
+<p><c>(Gespr&ae;ch auf der Straﬂe nach Basel zwischen
+Steinen und Brombach, in der Nacht.)</c></p>
+<hr>
+<p><c><g>Der Bub seit zum Aetti</g>:</c></p>
+<poem><pv><in>F</in>ast allmol, Aetti, wenn mer &2019;&sr; R&oe;tt-
+ler Schloﬂ
+so vor den Auge stoht, se denki dra,
+&oe;b&sr; &ue;sem Hu&sr; echt au e mol so goht.
+Stoht&sr; denn nit d&oe;rt, so schuderig, wie
+der Tod
+im Basler Todtetanz? E&sr; gruset mer,
+wie l&ae;nger aﬂi &2019;&sr; bschau. Und &ue;ser Hu&sr;,
+e&sr; sizt io wie ne Chilchli uffem Berg,
+und d&2019;Fenster glitzeren, e&sr; isch e Staat.
+Schwetz Aetti, goht&sr; em echterst au no so?
+J mein emol, e&sr; ch&oe;nn schier gar nit sy.</pv></poem>
+<pb="179"/>
+<p><c><g>Der Aetti seit</g>:</c></p>
+<poem><pv>Du gute Burst, &2019;&sr; cha frili sy, wa&sr; meinsch?
+&2019;&sr;chunnt alle&sr; iung und neu, und alle&sr; schlicht
+im Alter zu, und alle&sr; nimmt en End,
+und n&ue;t stoht still. H&oe;rsch nit, wie &2019;&sr;
+Wasser ruuscht,
+und siehsch am Himmel obe Stern an Stern?
+Me meint, vo alle r&ue;hr si kein, und doch
+ruckt alle&sr; witer&sr;, alle&sr; chunnt und goht.
+Je, &2019;&sr; isch nit anderst, lueg mi a, wie
+d&2019; witt.
+De bisch no iung; u&ae;rsch, i bi au so gsi,
+iezt w&ue;rd&sr; mer anderst, &2019;&sr; Alter, &2019;&sr; Alter
+chunnt,
+und woni gang, go Gre&sr;gen oder Wie&sr;,
+in Feld und Wald, go Basel oder heim,
+&2019;&sr; isch einerley, i gang im Chilchhof zu, &2014;
+briegg, alder nit! &2014; und biﬂ de bisch wien
+ich,
+e gstandene Ma, se bini n&ue;mme do,
+und d&2019; Schof und Geiﬂe weide uf mi&2019;m Grab.
+<bs>12 *</bs>
+<pb="180"/>
+Jo wegerli, und &2019;&sr; Hu&sr; wird alt und w&ue;st;
+der Rege w&ae;scht der&2019;&sr; w&ue;ster alli Nacht,
+und d&2019; Sunne bleicht der&2019;&sr; schw&ae;rzer alli Tag,
+und im Vert&ae;fer popperet der Wurm.
+E&sr; regnet no dur d&2019; B&ue;hne ab, e&sr; pfist
+der Wind dur d&2019; Chlimse. Dr&ue;ber thuesch
+du au
+no d&2019; Auge zu; e&sr; ch&oe;mme Chinde&sr;-Chind,
+und pletze dra. Z&2019;lezt fuult&sr; im Fundement,
+und&2019;&sr; hilft n&ue;t me. Und wemme nootno gar
+zweytusig zehlt, isch alle&sr; zsemme g&2019;keit.
+Und endli sinkt &2019;&sr; ganz D&oe;rfli in si Grab.
+Wo d&2019; Chilche stoht, wo &2019;&sr; Vogt&sr; und &2019;&sr;
+Here Hu&sr;,
+goht mit der Zit der Pflug &2014;</pv></poem>
+<p><c><g>Der Bub seit</g>:</c></p>
+<poem><pv>Nei, wa&sr; de seisch!</pv></poem>
+<p><c><g>Der Aetti seit</g>:</c></p>
+<poem><pv>Je, &2019;&sr; isch nit anderst, lueg mi a, wie
+d&2019; witt!
+<pb="181"/>
+Isch Basel nit e sch&oe;ni tolli Stadt?
+&2019;&sr; sin H&ue;ser drinn, &2019;&sr; isch mengi Chilche nit
+so groﬂ, und Chilche, &2019;&sr; sin in mengem
+Dorf
+nit so viel H&ue;ser. &2019;&sr; isch e Volchspiel, &2019;&sr;
+wohnt
+e Richthum drinn, und menge brave Her,
+und meuge, woni gchennt ha, lit scho lang
+im Chr&ue;tz-Gang hinterm M&ue;nster-Platz
+und schloft.
+&2019;&sr; ifch eithue, Chind, e&sr; schlacht e mol e
+Stund,
+goht Basel au in&sr; Grab, und streckt no do
+und d&oe;rt e Glied zum Boden u&sr;, e Joch,
+en alte Thurn, e Giebel-Wand; e&sr; wach&sr;t
+do Holder druf, do B&ue;echli, Tanne d&oe;rt,
+und Moo&sr; und Farn, und Reiger sitze
+druf &2014;
+&2019;&sr; isch schad derf&ue;r! &2014; und sin bi&sr; d&oe;rthi
+d&2019; L&ue;t
+so n&ae;rsch wie jez, se g&oe;hn au Gspenster um,
+der Sulger, wo die arme Bettel-L&ue;t
+<pb="182"/>
+vergelstert het, der Lippi L&ae;ppeli,
+und wa&sr; wei&sr; tch, wer meh. Wa&sr; stoﬂisch
+mi?</pv></poem>
+<p><c><g>Der Bub seit</g>:</c></p>
+<poem><pv>Schwetz lisli Aetti, bi&sr; mer &ue;ber d&2019; Bruck
+do sin, und do an Berg und Wald verbey!
+D&oe;rt obe iagt e wilde J&ae;ger, weisch?
+Und lueg, do niden in de H&ue;rste seig
+gwiﬂ &2019;&sr; Eyer-Meidli g&2019;lege, halber ful,
+&2019;&sr; isch Johr und Tag. H&oe;rsch, wie der
+Laubi schnuft?</pv></poem>
+<p><c><g>Der Aetti seit</g>:</c></p>
+<poem><pv>Er het der Pfn&ue;sel! Seig doch nit so
+n&ae;rsch!
+<g>H&ue;st Laubi, Merz</g>! &2014; und loﬂ die Tod-
+te go,
+&2019;&sr; sin Nare-Posse! &2014; Je, wa&sr; hani gseit?
+Vo Basel, aﬂ e&sr; au e mol verfallt. &2014;
+Und goht in langer Zit e Wander&sr;-Ma
+<pb="183"/>
+ne halbi Stund, e Stund wit dra verbey
+se luegt er dure, lit ke Nebel druf,
+und seit si&2019;m Camerad, wo mittem goht:
+&201E;Lueg, d&oe;rt isch Basel gstande! Selle Thurn
+&q;isch d&2019; Peter&sr;-Chilche gsi, &2019;&sr; isch schad
+derf&ue;r!&201C;</pv></poem>
+<p><c><g>Der Bnb seit</g>:</c></p>
+<poem><pv>Nei Aetti, isch&sr; der Ernst, e&sr; cha nit sy?</pv></poem>
+<p><c><g>Der Aetti seit</g>;</c></p>
+<poem><pv>Je &2019;&sr; isch nit anderst, lueg mi a, wie
+d&2019; witt,
+und mit der Zit verbrennt die ganzi Welt.
+E&sr; goht e W&ae;chter u&sr; um Mitternacht,
+e fremde Ma, me weiﬂ nit, wer er isch,
+er funklet, wie ne Stern, und r&ue;eft:
+<g>&201E;Wacht auf!
+Wacht auf, e&sr; kommt der Tag!&201C;</g> &2014;
+Drob r&oe;thet si
+der Himmel, und e&sr; duudert &ue;beral,
+<pb="184"/>
+z&2019; erst heimli, al&sr;gmach lut, wie sellemol
+wo Anno Sechsen&ue;nzgi der Franzo&sr;
+so uding gschoﬂe het. Der Bode wankt,
+aﬂ d&2019; Chilch-Th&ue;rn guge; d&2019; Glocke schla-
+gen a,
+und l&ue;te selber Bet-Zit wit und breit,
+und alle&sr; betet. Dr&ue;ber chunnt der Tag;
+o, bh&ue;ti&sr; Gott, me brucht ke Sunn derzu,
+der Himmel stoht im Blitz, und d&2019; Welt
+im Glast.
+Druf gschieht no viel, i ha iez nit der Zit;
+und endli z&ue;ndet&sr; a, und brennt und brennt,
+wo Boden isch, und nieme&sr; l&oe;scht; e&sr;
+glnmst
+zlezt selber ab. Wie meinsch, sieht&sr; u&sr;
+derno?</pv></poem>
+<p><c><g>Der Bub seit</g>:</c></p>
+<poem><pv>O Aetti, sag mer n&ue;t me! Zwor wie goht&sr;
+de L&ue;te denn, wenn alle&sr; brennt und
+brennt?</pv></poem>
+<pb="185"/>
+<p><c><g>Der Aetti seit</g>:</c></p>
+<poem><pv>N&ae;rsch, d&2019; L&ue;t sin n&ue;mme do, wenn&sr;
+brennt, sie sin &2014;
+wo sin sie? Seig dn frumm, und halt di
+wohl,
+geb, wo de bisch, und bhalt di Gwisse rein!
+Siehsch nit, wie d&2019; Luft mit sch&oe;ne Sterne
+prangt!
+&2019;&sr; isch iede Stern verglichlige ne Dorf,
+und witer oben isch e sch&oe;ni Stadt,
+me sieht sie nit vo do, und haltsch di gut,
+se chunnsch in so ne Stern, und &2019;&sr; isch der
+wohl,
+und findsch der Aetti d&oe;rt, wenn&sr; Gott&sr;will
+isch,
+und &2019;&sr; Ch&ue;ngi selig, d&2019; Mutter. Oebbe
+fahrsch
+au d&2019; Milchstroﬂ uf in die verborgeni Stadt,
+und wenn de sitw&ae;rt&sr; abe luegsch, wa&sr; siehsch?
+e <g>R&oe;ttler Schloﬂ</g>! Der Belche stoht
+verchohlt,
+<pb="186"/>
+der Blauen au, a&sr; wie zwee alti Th&ue;rn,
+und zwische drinn isch alle&sr; use brennt.
+bi&sr; tief in Boden abe. D&2019; Wiese het
+ke Wasser meh, &2019;&sr; isch alle&sr; &oe;d und schwarz
+und todtestill, so wit me luegt &2014; da&sr; siehsch,
+und seisch di&2019;m Cammerad, wo mitder goht:
+&201E;Lueg, d&oe;rt isch d&2019;<g>Erde</g>gsi, und selle Berg
+&q;het Belche gheiﬂe! Nit gar wiit dervo
+&q;isch Wi&sr;leth gsi, d&oe;rt hani au scho glebt,
+&q;und Stiere g&2019; wettet, Holz go Basel gf&ue;hrt,
+&q;und brochet, Matte g&2019;rau&sr;t, und Liecht-
+Sp&oe;h&2019; gmacht,
+&q;und gv&ae;tterlet, biﬂ an mi selig End,
+&q;und m&oe;cht iez n&ue;mme hi.&201C; &2014; <g>H&ue;st
+Laubi, Merz</g>!</pv></poem>
+<hr>
+<pb="187"/>
+<d2><b><g>Der Jenner</g>.</b></d2>
+<hr>
+<poem><pv><in>I</in>m Aetti sezt der Oehldampf zu.
+Mer ch&oe;nnte &2019;&sr; Aempeli use thue,
+und d&2019;L&ae;den uf. Der Morge-Schi&2019;
+blickt scho zum runde Nastloch i. &2014;
+O lueget doch, wie chalt und roth
+der Jenner uf de Berge stoht.</pv>
+<pv>Er seit: <g>&201E;J</g> bi ne <g>b&2019;liebte</g> Ma,
+&q;der Stern am Himmel lacht mi a!
+&q;Er glitzeret vor Lust und Freud,
+&q;und mueﬂ er furt, sen isch&sr; em Leid;
+&q;er luegt mi a, und cha &2019;&sr; nit lo,
+&q;und w&ue;rd byzite wieder cho.</pv>
+<pb="188"/>
+<pv>&201E;Und unter mer in Berg und Thal,
+&q;wie flimmeret&sr; nit &ue;beral!
+&q;An allen Ende Schnee und Schnee;
+&q;&2019;&sr; isch alle&sr; mir zu Ehre gscheh,
+&q;und woni gang im wite Feld,
+&q;sin Stroﬂe bahnt, und Brucke gstellt.&201C;</pv>
+<pv>Er seit: <g>&201E;J</g> bi ne <g>frische</g> Ma,
+&q;i ha ne luftig Tsch&oe;pli a,
+&q;und rothi Backe bi&sr; an&sr; Ohr,
+&q;e heiter Aug und Duft im Hoor,
+&q;ke Wintergfrist, ke Gliederweh,
+&q;und woni gang, se chracht der Schnee.&201C;</pv>
+<pv>Er seit: <g>&201E;J</g> bi ne <g>gschickte</g> Ma,
+&q;lueg, wieni &ue;berzuckere cha!
+&q;J chuuch, und an de H&ue;rste hangt&sr;,
+&q;und an de zarte Birche schwankt&sr;.
+&q;Der Zuckerbeck mit gschickter Hand,
+&q;mit Geld und Gut w&ae;r&2019;&sr; nit im Stand.</pv>
+<pb="189"/>
+<pv>&201E;Jez lueg au dini Schiben a,
+&q;und wieni Helgli chritzle cha!
+&q;Do hesch e Bl&ue;emli, wenn&sr; der gfallt,
+&q;do hesch e ganze Tannewald!
+&q;Der Fr&ue;ehlig ch&oe;nnt&sr; nit halber so,
+&q;&sr; isch mit der Farb nit alle&sr; tho.&201C;</pv>
+<pv>Er seit: &201E;J bi ne st <g>arche</g> Ma,
+&q;und zwing mi n&ae;umer, wenn er cha!
+&q;Der Forster gstablet uf der Jacht,
+&q;der Bru&00F1;trog springt, der Eichbaum chracht.
+&q;D&2019; Frau Sunne mittem Gsichtli rund,
+&q;het &2019;&sr; Herz nit, aﬂ sie f&ue;re chunnt.&201C; &2014;</pv>
+<pv>&2019;&sr; isch wohr, me weiﬂ nit, wa&sr; sie tribt,
+und wo sie alli Morge blibt.
+Wie l&ae;nger Nacht, wie sp&oe;ter Tag,
+wie besser, aﬂ sie schlofe mag,
+und blieb e&sr; bi&sr; um Zehni Nacht,
+se ch&ae;m sie erst, wenn&sr; Oelfi schlacht.</pv>
+<pb="190"/>
+<pv>Nei het sie&2019;&sr; gh&oe;rt? D&oe;rt chunnt sie io!
+Me meint, &2019;&sr; brenn alle&sr; liechterloh! &2014;
+Sie stoht im chalte Morgeluft,
+sie schwimmt im rothe Nebelduft.
+Zeig, chuuch e wenig d&2019; Schiben a,
+&2019;&sr; isch, aﬂ me besser luege cha!</pv>
+<pv>Der Nebel woget uf und ab,
+und d&2019; Sunne ch&ae;mpft, sie loﬂt nit ab. &2014;
+Jez het sie &2019;&sr; gunne. Wit und breit
+strahlt ihri Pracht und Herlichkeit.
+O lueg, wie&2019;&sr; &ue;ber d&2019; D&ae;cher wahlt,
+am Chilche-Fenster, lueg, wie&sr; strahlt.</pv>
+<pv>Der Jenner sezt si Arm in d&2019; Huft,
+er rukt am Hut, und schnellt in d&2019; Luft.
+Der Jenner seit: &201E;J f&oe;rch di nit!
+&q;Chumm, wenn de mit mer baschge witt!
+&q;Wa&sr; gilt&sr;, de w&ue;rsch byzite goh,
+&q;und r&ue;ehmsch dim B&ue;eble nit dervo!&201C;</pv>
+<pb="191"/>
+<pv>Je &2019;&sr; w&ae;r wol h&ue;bsch und liebli so,
+im warme St&ue;bli gfallt&sr; eim scho.
+Doch meugi Frau, da&sr; Gott erbarm,
+sie nimmt ihr nackig Chind in d&2019;Arm,
+sie het em n&ue;t um d&2019; Gliedli z&2019; thue,
+und wicklet&2019;&sr; mittem F&ue;rtuech zu.</pv>
+<pv>Sie het kei Holz, und het kei Brod,
+sie sizt und chlagt&sr; im liebe Gott.
+Gfriert Stei und Bei, wohl thaut der Schmerz
+no Thr&ae;nen uf im Muetterherz.
+Der Jenner isch e <g>ruuche</g> Ma,
+er nimmt si n&ue;t um d&2019; Armeth a.</pv>
+<pv>Gang bring der arme Fischer-Li&sr;&2019;
+e S&ae;ckli Mehl, e Hemdli wiﬂ,
+nimm au ne Wellen oder zwo,
+und sag, sie soll au zueni&sr; cho,
+und Weihe hole, wenni bach,
+und decket iez der Tisch al&sr;gmach.</pv></poem>
+<hr>
+<pb="192"/>
+<d2><b><g>Der Knabe
+im Erdbeerschlag</g>.</b></d2>
+<hr>
+<poem><pv><in>E</in> B&ue;ebli lauft, e&sr; goht in Wald
+am Sunntig Nomittag;
+e&sr; chunnt in d&2019; H&ue;rst und findet bald
+Erberi Schlag an Schlag;
+e&sr; g&ue;nnt und iﬂt si halber z&2019; tod,
+und denkt: &201E;Da&sr; isch mi Obebrod.&201C;</pv>
+<pv>Und wie ne&sr; iﬂt, se ruuscht&sr; im Laub;
+e&sr; chunnt e sch&oe;ne Chnab.
+Er het e Rock, wie Silberstaub,
+und treit e goldige Stab;
+er gl&ae;nzt wie d&2019; Sunn am Schwitzer-Schnee;
+si lebelang het&sr; n&ue;t so gseh.</pv>
+<cw>Druf</cw>
+<pb="193"/>
+<pv>Druf redt der Chnab mi B&ue;ebli a:
+&201E;Wa&sr; iﬂisch, i halt&sr; mit?&201C; &2014;
+&201E;He, n&ue;t,&201C; seit &2019;&sr; B&ue;ebli, luegt en a,
+und l&ue;pft si Ch&ae;ppli nit.
+Druf seit der Chnab: &201E;He, iﬂisch n&ue;t,
+&q;Du grobe Burst, se battet &2019;&sr; n&ue;t!&201C;</pv>
+<pv>Verschwunden isch mi Chnab, und&sr; st&oe;hn
+die n&oe;chste H&ue;rst im Duft;
+dru&sr; fliegt en Engeli wundersch&oe;n
+uf in die blaue Luft,
+und &2019;&sr; B&ue;ebli stoht, und luegt em no,
+und chrazt im Hoor, und lauft dervo.</pv>
+<pv>Und sieder isch kei Sege meh
+im Beeri-Esse gsi.
+J ha mi lebtig n&ue;t so gseh,
+sie bschieﬂen ebe nie.
+Iﬂ hampflevoll, so viel de witt,
+sie stille der di Hunger nit!</pv>
+<bs>13</bs>
+<pb="194"/>
+<pv>Wa&sr; gibi der f&ue;r Lehre dri?
+Wa&sr; seisch derzu? Me mueﬂ
+vor fremde L&ue;te fr&ue;ndli si
+mit Wort und Red und Grueﬂ,
+und &2019;&sr; Ch&ae;ppli l&ue;pfe z&2019; rechter Zit
+sust het me Schimpf und chunnt nit wit.</pv></poem>
+<hr>
+<pb="195"/>
+<d2><b><g>Die Spinne</g>.</b></d2>
+<hr>
+<poem><pv><in>N</in>ei lueget doch da&sr; Spinnli a,
+wie &2019;&sr; zarti F&ae;de zwirne cha!
+Ba&sr; Gvatter meinsch, chasch&2019;&sr; au ne so?
+De wirsch mer&sr;, traui, blibe lo.
+E&sr; macht&sr; so subtil und so nett,
+i wott nit, aﬂi &2019;&sr; z&2019; hasple h&ae;tt.</pv>
+<pv>Wo het&2019;&sr; die fini Riste g&2019;no,
+by wellem Meister hechle lo?
+Meinsch, wemme &2019;&sr; w&ue;ﬂt, e mengi Frau,
+sie w&ae;r so gscheit, und holti au!
+Jez lueg mer, wie &2019;&sr; si F&ue;eﬂli sezt,
+und spinne will, und d&2019; Finger nezt.</pv>
+<bs>13 *</bs>
+<pb="196"/>
+<pv>E&sr; zieht e lange Faden u&sr;,
+e&sr; spinnt e Bruck an&sr; Nochber&sr; Hu&sr;,
+e&sr; baut e Land-Stroﬂ in der Luft,
+morn hangt sie scho voll Morgeduft,
+e&sr; baut e Fuﬂweg nebe dra,
+&2019;&sr; isch, aﬂ e&sr; ehne dure cha.</pv>
+<pv>E&sr; spinnt und wandlet uf und ab,
+Potz tausig, im Gallop und Trap! &2014;
+Jez goht&sr; ring um, wa&sr; hesch, wa&sr; gisch!
+Siehsch, wie ne Ringli worden isch!
+Jez schieﬂt&2019;&sr; die zarte F&ae;den i.
+Wird&sr; &oe;bbe solle gwobe sy?</pv>
+<pv>E&sr; isch verstuunt, e&sr; haltet still,
+e&sr; weiﬂ nit recht, wo &2019;&sr; ane will.
+&2019;&sr; goht weger z&2019;ruck, i sieh&2019;&sr; em a;
+&2019;&sr; muﬂ n&ae;umi&sr; recht&sr; vergesse ha.
+&201E;Zwor, denkt e&sr;, sel pressiert io nit,
+i halt mi nummen uf dermit.&201C;</pv>
+<pb="197"/>
+<pv>E&sr; spinnt und webt, und het kei Rast,
+so gliichlig, me verluegt si fast
+Und &2019;&sr; Pfarer&sr; Christoph het no gseit,
+&2019;&sr; seig iede Fade zseme gleit.
+E&sr; mueﬂ ein guti Auge ha,
+wer&sr; zehlen und erchenne cha.</pv>
+<pv>Jez puzt e&sr; sini H&ae;ndli ab,
+e&sr; stoht, und haut der Faden ab.
+Jez sizt e&sr; in si Summer-Hu&sr;,
+und luegt die lange Stroﬂen u&sr;.
+E&sr; seit: &201E;Me baut si halber z&2019; tod,
+doch freut&sr; ein au, wenn&sr; H&ue;&sr;li stoht.&201C;</pv>
+<pv>In freie L&ue;ste wogt und schwankt&sr;,
+und an der liebe Sunne hangt&sr;;
+sie schint em frey dur d&2019; Beinli dur,
+und &2019;&sr; isch em wohl. In Feld und Flur
+sieht &2019;&sr; M&ue;ckli tanze, iung und feiﬂ;
+&2019;&sr; denkt by nem selber: &201E;H&ae;tti ei&sr;!&201C;</pv>
+<pb="198"/>
+<pv>O Thierli, wie hesch mi vertz&ue;ckt!
+Wie bisch so chlei, und doch so gschickt!
+Wer het di au die Sache glehrt?
+Denkwol der, woni&sr; alli n&ae;hrt,
+mit milde H&ae;nden alle git.
+Bi&sr; zfrieden! Er vergiﬂt di nit.</pv>
+<pv>Do chunnt e Fliege, nei wie dumm!
+Sie rennt em schier gar &2019;&sr; H&ue;&sr;li um.
+Sie schreit und winslet Weh und Ach!
+Du arme Chetzer hesch di Sach!
+Hesch keini Auge by der g&2019;ha?
+Wa&sr; g&oe;hn di &ue;si Sachen a?</pv>
+<pv>Lueg, &2019;&sr; Spinnli merkt&sr; enanderno,
+e&sr; zuckt und springt und het sie scho.
+E&sr; denkt: &201E;J ha viel Arbet g&2019;ha,
+iez muﬂi au ne Broti&sr; ha!&201C;
+J sag&sr; io, der wo alle git,
+wenn&sr; Zit isch, er vergiﬂt di nit.</pv></poem>
+<hr>
+<pb="199"/>
+<d2><b><g>Der Wegweiser</g>.</b></d2>
+<p><c><g>Guter Rath zum Abschied</g>.</c></p>
+<hr>
+<poem><pv><in>W</in>eisch, wo der Weg zum Mehlfaﬂ isch,
+zum volle Faﬂ? Im Morgeroth
+mit Pflug und Charst dur&2019;&sr; Weizefeld,
+bi&sr; Stern und Stern am Himmel stoht.</pv>
+<pv>Me hackt, so lang der Tag eim hilft,
+me luegt nit um, und blibt nit stoh;
+z&2019; lezt goht der Weg dur &2019;&sr; Sch&ue;re-Tenn
+in d&2019; Chuchchi, und do hemmer&sr; io!</pv>
+<pv>Weisch wo der Weg zum Gulden isch?
+Er goht de rothe Chr&ue;tzere no,
+und wer nit uffe Chr&ue;tzer luegt,
+der wird zum Gulde schwerli cho.</pv>
+<pb="200"/>
+<pv>Wo isch der Weg zur Sunntig-Freud?
+Gang ohni Gfohr im Werchtig no
+dur d&2019; Werkstatt nnd dur &2019;&sr; Ackerfeld!
+der Sunntig wird scho selber cho.</pv>
+<pv>Am Samstig isch er nit gar wit.
+Wa&sr; deckt er echt im Ch&oe;rbli zu?
+Denkwol e Pf&ue;ndli Fleisch in&sr; Gm&ue;e&sr;,
+&2019;&sr; cha sy, ne Sch&oe;pli Wi derzu.</pv>
+<pv>Weisch, wo der Weg in d&2019; Armeth goht?
+Lueg numme, wo Tafere sin!
+Gang nit verbey, &2019;&sr; isch gute Wi,
+&2019;&sr; sin nagelneui Charte d&2019;inn!</pv>
+<pv>Im letste Wirth&sr;hu&sr; hangt e Sack,
+und wenn de furt gohsch, henk en a!
+&201E;Du alte Lump, wie stoht der nit
+&q;der Bettelsack so zierlig a!&201C;</pv>
+<pb="201"/>
+<pv>E&sr; isch e h&oe;lzene Becher drinn,
+gib achtig druf, verliehr en nit!
+Und wenn de an e W&ae;sserli chunnsch
+und trinke magsch, se sch&oe;pf dermit!</pv>
+<pv>Wo isch der Weg zu Fried und Ehr,
+der Weg zum guten Alter echt?
+Grad f&ue;rsi goht&sr; in M&ae;ﬂigkeit
+mit stillem Sinn in Pflicht und Recht.</pv>
+<pv>Und wenn de amme Chr&ue;tzweg stohsch,
+und n&ue;mme weisch, wo &2019;&sr; ane goht,
+halt still, und frog di Gwisse z&2019;erst,
+&2019;&sr; cha d&ue;tsch, Gottlob, und folg si&2019;m Roth!</pv>
+<pv>Wo mag der Weg zum Chilchhof sy?
+Wa&sr; frogsch no lang? Gang, wo de witt!
+Zum stille Grab im ch&ue;ele Grund
+f&ue;hrt iede Weg, und &2019;&sr; fehlt si nit.</pv>
+<pb="202"/>
+<pv>Doch wandle du in Gotti&sr; Furcht,
+i roth der, wa&sr; i rothe cha!
+Sel Pl&ae;tzli het e gheimi Th&ue;r,
+und &2019;&sr; sin no Sachen ehne dra.</pv></poem>
+<hr>
+<pb>
+<d1><b><g>Worterkl&ae;rungen
+zu
+vorstehendem Texte</g>.</b></d1>
+<pb>
+<pb>
+<hr>
+<d2>A.</d2>
+<li><g><in>A</in>ecke</g>, der Nacken.</li>
+<li><g>Aetti</g>, Vater. Altdeutsch <g>Atta. Atta
+unsar</g>, im gothischen Vater unser. Id.
+<g>Atti, Aette</g>.</li>
+<li><g>¡fange</g>, <aq>verb.</aq> Anfangen. Aber <g>Af·nge</g>,
+<aq>adv.</aq> Endlich, Nach und nach.</li>
+<li><g>Agle</g>, <aq>subst. plur.</aq> Steife stechende Spitzen,
+z. B. an den Aehren. <aq>Aculei? Sch. Agle,
+Agel.</aq> Id. <g>Achel</g>.</li>
+<li><g>Alder</g>, Oder (auf dem Wald.) <aq>Sch. Ald,
+Alder, Alt.</aq></li>
+<li><g>Almig</g>, Ehemal&sr;.</li>
+<li><g>Ane</g>, Hin. <g>Wo ane</g>? Wohin?</li>
+<li><g>Anke</g>, Frische Butter. Altdeutsch: <g>Anka</g>.</li>
+<li><g>Arfel</g>, <aq>subst.</aq> Ein Arm voll. <g>Aerfeli</g>.
+<aq>deminut.</aq></li>
+<li><g>A&sr;</g>, Al&sr;. <g>Aﬂ</g>, Daﬂ.</li>
+<d2>B.</d2>
+<li><g>Bah</g>, 1) Bahn, 2) Bann, Gemarkung.</li>
+<pb="206"/>
+<li><g>Balge</g>, Vorw&ue;rfe machen. Altdeutsch: z&ue;r-
+nen, von <g>Balg</g>, Zorn. <aq>Sch. Balg, sto-
+machu&sr;. Balgen, irasci, iurgari.</aq></li>
+<li><g>Bammert</g>, Feldh&ue;ter, Bannwart. <aq>Sch.
+Bannwart, Custo&sr; banni.</aq></li>
+<li><g>Baschge</g>, <aq>verb. neutr.</aq> Im Ringen die
+Kr&ae;fte gegen einander messen. <aq>act.</aq> Bezwin-
+gen. Id. Schmettern, Zwingen.</li>
+<li><g>Basseltang</g>, Kurzweil. <aq>Passe le temp&sr;.</aq></li>
+<li><g>Batte</g>, N&ue;tzen, fruchten. Goth. <g>Botan</g>,
+Verwandt mit <g>Baﬂ, Besser</g>.</li>
+<li><g>Bause</g>, Aufgeblasen seyn, daher: Groﬂ-
+thun. <g>Verbause</g>, Verschwenden. Da&sr;
+Primitiv zu <g>Verbutzen</g>, wie <g>Chraue</g>
+zu <g>Chratze</g> (Kratzen) <g>Vause</g> zu <g>Vitze</g> &204A;c.
+<aq>Sch. <g>Baussen</g>, largiter potare.</aq></li>
+<li><g>Bederthalbe</g>, <aq>adv.</aq> Auf beiden Seiten.
+Dah. <g>Bederthalbe</g>, <aq>subst.</aq> Ein Zwerch-
+sack. Von <g>Beide</g> und <g>Halb</g>, altd. die
+Seite.</li>
+<li><g>Belche</g>, <aq>subst. propr.</aq> Hoher Berg de&sr;
+Schwarzwaldgebirge&sr; im Brei&sr;gau. (Auch
+Schweitz und Elsaﬂ haben <g>Belchen</g>)
+<aq>Sch. <g>Belch, Boelchen</g>, cacumina mon-
+tium.</aq> Nach Ad. von <g>Berg</g>, durch Ver-
+wech&sr;lung de&sr; r und l, wie <g>Kirche</g> und
+<g>Chilche</g>.</li>
+<li><g>Bi&sr;</g>. Imperativ zu Seyn. Sey!</li>
+<li><g>Bitzeli</g>, Wenig.</li>
+<pb="207"/>
+<li><g>Bluest</g>, Bl&ue;the. <g>By&2019; m Bluest</g>! Eine
+miﬂstellte Betheurung&sr;formel, dann ein
+Au&sr;druck der Verwunderung, besonder&sr; bey
+unangenehmen Ueberraschungen. Eingentlich:
+Bey dem Blut (de&sr; Sacrament&sr;) wie:
+<g>by Gost</g>!</li>
+<li><g>Bohle</g>, Werfen. &03B2;&03B1;&03BB;&03BB;&03B5;&03B9;&03BD;. <aq>Sch. Pollen
+Polen, proiicere.</aq></li>
+<li><g>Bo&sr;ge</g>, Eine Bo&sr;heit ver&ue;ben. Id.</li>
+<li><g>Bo&sr;get</g>, Bo&sr;heit, auch im unschuldigern
+Sinn Muthwille.</li>
+<li><g>Brenz</g> <aq>subst. masc.</aq> Brantewein. Gebrannte&sr;.</li>
+<li><g>Briegge</g>, Weinen. &0392;&03C1;&03C5;&03C7;&03B5;&03B9;&03BD;, &0392;&03C1;&03C5;&03B3;&03BC;&03BF;&03C2;?</li>
+<li><g>Briggem</g>, Br&ae;utigam. (Basel.)</li>
+<li><g>Bringe</g>, 1) Bringen. 2) Zutrinken.</li>
+<li><g>Bruttle</g>, <aq>verb.</aq> 1) mit dem H&ue;lf&sr;wort
+<g>Haben</g>: Halblaut reden, besonder&sr; im
+Unwillen. 2) mit <g>Seyu</g>: Halblaut re-
+dend fortgehen.</li>
+<li><g>B&2019; scheid</g>, Bescheid. <g>Bscheid thue</g>,
+Einen zugebotenen Trunk annehmen.</li>
+<li><g>B&2019; schieﬂe</g>, Zureichen, S&ae;ttigen, gedeih-
+lichen Fortgang haben. <aq>Par.</aq> Joh. 6. <g>Wa&sr;
+erscheuﬂt da&sr; unter so viele</g>?
+<aq>Sch. <g>Beschiessen</g>, proficere.</aq></li>
+<li><g>B&ue;eﬂli</g>, Zehnkreutzerst&ue;ck. <aq>Piece.</aq></li>
+<pb="208"/>
+<li><g>B&ue;hni</g>, 1) Obere Decke de&sr; Zimmer&sr;. 2)
+Der oberste Boden de&sr; Hause&sr;. 3) Raum
+zwischen demselben und dem Dache.</li>
+<li><g>Bunte</g>, Pfropfer, Spunte. <aq>Sch. Punteu.</aq></li>
+<li><g>Busper</g>, Munter, besonder&sr; von V&oe;geln.
+Etwa so viel al&sr; <g>buschbar</g>, wenn die
+Hecken buschig werden, und die V&oe;gel nisten?</li>
+<li><g>Butsche</g>, Mit dumpfem Ton anstoﬂen.</li>
+<li><g>B&ue;ttene</g>, Groﬂe&sr; h&oe;lzerne&sr; Gef&ae;ﬂ zum
+Einsalzen de&sr; Fleische&sr; &204A;c. Von <g>Butte</g>.
+<aq>Sch. Butten.</aq></li>
+<d2>Ch.</d2>
+<li><g>Cheri</g>, Reihe, Ordnung dessen, wa&sr; regel-
+m&ae;ﬂig wieder kommt. Daher: <g>Die Che-
+ri</g>, Di&sr;mal; <g>en anderi Cheri</g>, Ein
+andermal. Von Kehren.</li>
+<li><g>Chetteneblueme</g>, Kettenblume. <aq>Leont-
+odon taraxacum Lin.</aq></li>
+<li><g>Chib</g>, Neid, Verdruﬂ, auch Feindschaft.
+Dah. <g>Chibe</g>, <aq>verb.</aq> verwandt mit <g>Kei-
+fen. Chibig</g>, <aq>adject. Sch. Kip. Keib.</aq>
+Id. Kipp.</li>
+<li><g>Chtlche, Chille</g>, Kirche. Altd. <g>Chil-
+cha</g>. <aq>Sch. Kilch.</aq></li>
+<li><g>Chilchelueger</g>, Kirchenaufseher. Von
+<g>Luege</g>, Schauen.</li>
+<cw><g>Chil</g>-</cw>
+<pb="209"/>
+<li><g>Chilspel</g>, Kirchspiel. Aehnliche noch ge-
+br&ae;uchliche Zusammensetzungen in <g>Volk-
+spiel, Leutspiel, Geldspiel</g>,
+rechtfertigen die Ableitung von <g>Spiel</g> im
+Sinn der leichten Bewegung. Daher: 1)
+Die zu einer Kirche au&sr; und eingehende
+Menge. 2) Die Abtheilung de&sr; Volk&sr;,
+da&sr; zu <g>einer</g> Kirche geh&oe;rt. 3) <g>Der Di-
+strikt</g>, den sie bewohnt. Vergl. Ad.</li>
+<li><g>Chlimse</g>, Spalte. Verwandt mit <g>Klemm,
+Klemmen</g>. <aq>Sch.</aq></li>
+<li><g>Chl&oe;pfe</g>, Knallen, Krachen. <aq>Par.</aq> <g>Ton-
+derchlapf</g>. Id. Klapf.</li>
+<li><g>Chresme</g>, Klettern.</li>
+<li><g>Chretze</g>, 1) Geflochtener H&ae;ngkorb. Von
+<g>Chratte</g>, Handkorb. <aq>Crate&sr;. Sch. Kratt</aq>
+und <aq>Kretze.</aq> 2) Ueber die Achseln gehen-
+de&sr; Tragband f&ue;r die Beinkleider.</li>
+<li><g>Chriesi</g>, Kleine, Waldkirschen. <g>Chirsi</g>,
+Groﬂe, Veredelte.</li>
+<li><g>Chrome</g>, 1) Einkaufen. 2) Zum Geschenk
+vom Markt &204A;c. bringen.</li>
+<li><g>Cbruse</g>, Krug mit Bauch und weiter Oef-
+nung. <g>Chr&ue;&sr;li</g>, <aq>deminutiv. Sch.</aq> Id.</li>
+<li><g>Chummli, Chummlig</g>, Bequem. Von
+Kommen. Kommlich. <aq>Sch. <g>Kommenlich</g>,
+convenienter.</aq></li>
+<bs>14</bs>
+<pb="210"/>
+<li><g>Ch&ue;ndig</g>, Aermlich. <aq>Sch. <g>Kundig, kun-
+diglich</g>, Parcu&sr;.</aq></li>
+<li><g>Ch&ue;ngi</g>, Kunigunda.</li>
+<li><g>Chuuche</g>, Hauchen.</li>
+<d2>D.</d2>
+<li><g>Dei&sr;</g>, Jene&sr;.</li>
+<li><g>Dengle, Dengele</g>, Sensen und Sicheln
+durch da&sr; H&ae;mmern sch&ae;rfen. Schwedisch,
+<g>D&ae;nga</g>, Schlagen. <aq>Sch. Tengeln.</aq> Id.
+Danglen, D&ae;nglen.</li>
+<li><g>Dinge</g> (zu iemand) Dienste nehmrn. <aq>Sch.
+<g>Ding</g> Pactum. <g>Dingen</g> Paci&sr;ci.</aq></li>
+<li><g>Distelzwigli</g>, Distelfink. <aq>Sch. &201E;Alle
+Gesch&0153;pfte und alle&sr;, da&sr; do lebet, begehrt
+Freyheit, ein F&0153;gelin, ein Distelzwiglin,
+Geil. v, Keyser&sr;b.&201C;</aq></li>
+<li><g>Dolder</g>, Gipfel eine&sr; Baum&sr;, Strauche&sr;.
+Noch &ue;brig in <g>Dolde</g>. <aq>Sch. <g>Dolde</g>,
+Told etc.</aq></li>
+<li><g>Dordurwille</g>, Um de&sr;willen.</li>
+<li><g>Dosch</g>, Kr&oe;te.</li>
+<li><g>Dose</g>, <aq>verb.</aq> Schlummern. Id.</li>
+<li><g>Dunder&sr;-</g> &2014; verst&ae;rkt in der Zusammen-
+setzung mit einigen Adverbien. <g>Dunder&sr;-
+nett</g>, Ueberau&sr; nett.</li>
+<pb="211"/>
+<li><g>Dunte</g>, Unten mit Beziehung auf einen
+gewissen Ort.</li>
+<li><g>Durane</g>, Ueberall. Au&sr; <g>Dur</g>&2019; Durch
+und <g>Ane</g>, Hin.</li>
+<li><g>Dure</g> <aq>adv.</aq> Hindurch, Hin&ue;ber, Her&ue;ber.
+Verschieden von <g>Dur&2019;e, Dur&2019;en</g>, durch
+ihn, den, einen &2014;</li>
+<li><g>D&ue;sele</g>, Schlummern, Halbschlafend ge-
+hen. <aq>Deminut.</aq> von <g>Dosen</g>. Id. <g>Du-
+selicht</g>, Schl&ae;frig, Taumelnd.</li>
+<li><g>D&ue;ssele</g>, 1) <aq>act.</aq> Leisereden. 2) <aq>neutr.</aq> Leise
+gehen. <g>Von Dussen</g>, verwandt mit <g>To-
+sen</g>. <aq>Sch. <g>Dussen</g> Murmur edere.</aq></li>
+<li><g>Duure</g> <aq>verb. imper&sr;.</aq> Bedauren. <g>E&sr;duurt
+mi</g>, Ich bedaure e&sr;.</li>
+<d2>E.</d2>
+<li><g>Echt, Echter, Echterst</g>, Etwa, Doch,
+Wohl? In Fragen. <aq>Sch. Eht, Echter,
+Echtern.</aq></li>
+<li><g>Egerte</g>, Ungebauter Feldplatz. <aq>Sch. Egerd,
+incultu&sr;.</aq></li>
+<li><g>Ehne</g>, Jenseit&sr;, dr&ue;ben.</li>
+<li><g>Eiern-Anke</g>, <aq>subst.</aq> Eier in Butter ge-
+backen.</li>
+<bs>14 *</bs>
+<pb="212"/>
+<li><g>Eithue</g>, Einerley, Gleichviel. Ein Thun.</li>
+<li><g>Enanderno</g>, Unmittelbar, Geschwinde.
+Einander nach.</li>
+<li><g>Engels&ue;eﬂ</g>, die Wurzel von <aq>Polypodium
+vulg. Lin.</aq> (Vorder&oe;streich) Sonst: <g>S&ue;ﬂ-
+wurz</g>.</li>
+<li><g>Eninne</g>, Gewahr. Entinnen.</li>
+<li><g>Erlustere</g>, Erlauschen.</li>
+<li><g>Ermel</g>, <aq>subst. plur.</aq> Weibliche&sr; Kleidung&sr;-
+st&ue;ck zur Bedeckung der Arme.</li>
+<d2>F.</d2>
+<li><g>Fatzenetli</g>, Sacktuch. Au&sr; dem Italie-
+nischen <aq>Fazzoletto.</aq> Id. Fazeile, Fazeneitle.</li>
+<li><g>Fegge</g>, Fl&ue;gel.</li>
+<li><g>First</g>, Da&sr; Oberste. Daher 1) R&ue;cken de&sr;
+Dach&sr;, besonder&sr; an Strohd&ae;chern. 2)
+Fortlaufender Bergr&ue;cken. <aq>Sch.</aq> Id.</li>
+<li><g>Fl&oe;sch</g>, Schwammicht von Leibe&sr;konstitu-
+tion. <aq>Flaccu&sr;.</aq></li>
+<li><g>Frauem&ae;nteli</g>. <aq>Alchemilla vulgari&sr; Lin.</aq></li>
+<li><g>Frech</g>, 1) Frey, wahrscheinlich da&sr; Inten,
+sivum zu diesem. 2) Gesund von Ansehen-
+<pb="213"/>
+Fest, Muthig. 3) Frech. <aq>Sch. Forti&sr;, li-
+ber.</aq> Id. Hellfarbig. Sch&oe;n. Durl? Au&sr;
+der zweiten Bedeutung.</li>
+<li><g>Frey</g>. Ausser der gew&oe;hnlichen Bedeutung,
+<aq>adverb.</aq> So gar.</li>
+<li><g>F&ue;rcho</g>, Scheinen, Erscheinen im Traume &204A;c.
+Vorkommen.</li>
+<li><g>F&ue;re</g>, Hervor. Verschieden von <g>F&ue;re,
+F&ue;ren</g>. F&ue;r ihn, den, einen &2014;</li>
+<li><g>F&ue;rtuch</g>, Sch&ue;rze.</li>
+<li><g>F&ue;si</g>, Flinte, <aq>Fusil.</aq></li>
+<li><g>Futergang</g>, Seitengang nebeu den Stal-
+lungen zur Bereitung und Aufsteckuug de&sr;
+Futter&sr;.</li>
+<d2>G.</d2>
+<li><g>Gahre</g>, Knarren.</li>
+<li><g>Gattig</g>, Wohlgebildet, Gef&ae;llig. Von der
+Stammsylbe <g>Gatt</g> in Gattung, wie <g>Ar-
+tig</g> von Art.</li>
+<li><g>G&ae;utsche</g>, Schwanken, von fl&ue;ssigen Din-
+gen. Daher <g>Verg&ae;utsche</g>. 1) <aq>act.</aq>
+Durch Schwanken au&sr;giessen. 2) <aq>neutr.</aq>
+Durch Schwanken au&sr;fliessen.</li>
+<pb="214"/>
+<li><g>Geb</g>. Abgek&ue;rzt, statt: <g>Gebe Gott. Geb,
+wodebisch</g>, Du magst seyn, wo du
+willt. Zur Aufkl&ae;rung einer Stelle in Ent-
+felder&sr; Schriften N. theolog. Journ. 15r
+Bd. 4&sr; St. S. 319.</li>
+<li><g>Gell, Gellaber</g>, <aq>verb. imperat.</aq> Nicht
+wahr? <aq>plur.</aq> <g>Geltet</g>. <aq>Sch.</aq> Id.</li>
+<li><g>Gehre</g>, Begehren. Da&sr; Stammwort zu die-
+sem, und zu Gierde, Gierig, Gerne. <aq>Sch.</aq></li>
+<li><g>G&2019;halt</g>, Gehalt, Zimmer.</li>
+<li><g>G&2019;heie</g>, <aq>verb. imper&sr;.</aq> Verdrieﬂen, anfech-
+ten. <aq>Sch. <g>Heyen, Geheyen</g>, vexare.</aq></li>
+<li><g>Gigse</g>, Knarreu.</li>
+<li><g>Gitzi</g>, Junge Ziege. <g>Gitzeli</g>, <aq>demin. Sch.
+<g>Kytzen</g>, h&0153;du&sr;; <g>Kitzlin</g>, h&0153;dulu&sr;.</aq>
+Id. Kitzen.</li>
+<li><g>Glast</g>, Glanz, besonder&sr; Schein von Blitz
+und Feuer. <aq>Sch.</aq></li>
+<li><g>Gliichlig</g>, Durchgehend&sr; gleich.</li>
+<li><g>Glitzere</g>, Schimmern. Von <g>Glitzen</g>,
+Gl&ae;nzen, verw. mit <g>Gleissen</g> &204A;c. <aq>Sch.</aq>
+Id. Glitzen, Glitzgen. Davon</li>
+<li><g>Glitzerig</g>, Schimmernd.</li>
+<li><g>Glumse</g>, Heimlich (in der Asche) brennen.
+Daher: <g>Abglumse</g>, Nach und nach er-
+l&oe;schen. <aq>Sch. <g>Glun&sr;</g> scintilla <g>Glunst</g>
+favilla.</aq></li>
+<pb="215"/>
+<li><g>Go</g>, <aq>pr&00E6;p.</aq> Gen, Nach. Verschieden von
+<g>Goh</g>, Gehen.</li>
+<li><g>Gottwilche</g>, Begr&ue;ﬂung&sr;formel. Von
+Gott oder Gotte&sr; Willkomm!</li>
+<li><g>Gr&ue;ebe</g>, Ueberreste von au&sr;gesottenem
+Schweinfett. Id.</li>
+<li><g>Grumbire</g>, Cartoffeln (Grundbirnen)
+<aq>Dem.</aq>-bireli.</li>
+<li><g>Grumse</g>, Durch unverst&ae;ndliche T&oe;ne und
+abgebrochene Worte seine Unzufriedeuheit
+au&sr;dr&ue;cken. Von <g>Gram</g>. Id. Gramsen,
+Gramonzen machen.</li>
+<li><g>Gsegott</g>, Segne Gott!</li>
+<li><g>Guge</g>, Sich hin und her bewegen. Primi-
+tiv zu <g>Gaukeln?</g> &204A;c. vergl. Id. Art.
+<g>Gugel</g>.</li>
+<li><g>G&ue;ggele</g>, Durch eine kleine Oefnung schauen.
+Deminut. von <g>Gucken</g>.</li>
+<li><g>Guhl</g>, Hahn. <aq>Gallu&sr;.</aq></li>
+<li><g>G&ue;lle</g>, Pf&ue;tze. <aq>Par.</aq> &201E;und daﬂ die Pre-
+dikanten sich befleissigen zu predigen, nit
+au&sr; menschlichen <g>G&ue;llen</g>, sondern au&sr;
+dem lautern Brunnen evangelischer Leer.&201C;</li>
+<li><g>Gumpe</g>, H&ue;pfen, Ueber etwa&sr; hinweg oder
+hinabspringen. Dah. <g>Gumperig</g>, Au&sr;-
+gelassen. Id. <g>Gumpet</g>, Schwelgerisch.</li>
+<pb="216"/>
+<li><g>Gumpist&oe;pfel</g>, Eingemachte Aepfel. Von
+<aq>Compositum. Compot. Sch. <g>Kompest</g>
+olu&sr;, <g>Ruobenkumpost</g>.</aq></li>
+<li><g>G&ue;nne</g>, Pfl&ue;cken. Gewinnen. Vergl. <aq>Sch.
+&201E;Gewunnen und Ungewunnen.&201C;</aq></li>
+<li><g>Gv&ae;tterle</g>, <aq>verb.</aq> Da&sr; Spielen der Kin-
+der, wenn sie Verrichtungen der Erwachse-
+nen nachahmen. Id. <g>Gfr&ae;ulen</g> Brei&sr;g.</li>
+<d2>H.</d2>
+<li><g>Habermark</g>, <aq>Tragopogon pratense Lin.</aq> Id.
+Gukkigauch &204A;c.</li>
+<li><g>Halde</g>, Auf oder absteigende Bergseite. Von
+<g>Helden</g>, Neigen, (ein Gef&ae;ﬂ an der un-
+tern Seite aufrichten, um der M&ue;ndung
+eine Neigung zu geben.) Dah. auch <g>Ab-
+heldig</g>, schiefliegend. <aq>Sch. <g>Helden</g>,
+inclinare. Halde.</aq> Id.</li>
+<li><g>H&ae;li</g>, Schaf in der Kindersprache und beym
+Locken.</li>
+<li><g>Hamberch</g>, Handwerk.</li>
+<li><g>Hampfle</g>, <aq>subst.</aq> 1) Eine Handvoll. 2)
+Der Raum zwischen beyden hohlen H&ae;nden.
+Dah. <g>Hampflevoll</g>, beyde H&ae;nde voll.
+<g>H&ae;mpfeli</g>. <aq>Demin.</aq></li>
+<pb="217"/>
+<li><g>Handumcher</g>, <aq>adv.</aq> So geschwind al&sr; man
+eine Hand umkehrt.</li>
+<li><g>Hasebr&oe;dli</g>, <aq>Juncu&sr; pilosu&sr; Lin.</aq></li>
+<li><g>H&ae;tteli</g>, Ziege in der Kindersprache und
+beym Locken.</li>
+<li><g>Haupth&oe;chlige</g>. <aq>adv.</aq> Mit aufgerichtetem
+Haupt. Dah. laut, munter.</li>
+<li><g>Hebe</g>, Halten.</li>
+<li><g>Heimele</g>, Der Heimath &ae;hnlich seyn. Da-
+her <g>Aheimele</g>, An die Heimath erin-
+nern. Id. Heimen.</li>
+<li><g>Helge, Helgli, Helgeli</g>, 1) ein auf
+Papier gemahlter Heiliger. Daher 2) Je-
+de&sr; kleine Papiergem&ae;hlde. Id. Kupfer-
+stich.</li>
+<li><g>Helse</g>, Gl&ue;ckw&ue;nschen, Dah. Etwa&sr; zum
+Gruﬂ, Neujahr &204A;c. schenken. Von <g>Heil</g>.
+Altd. <g>Heilizen</g>, Gr&ue;ﬂen; <g>Heilizun-
+ga</g>, Gruﬂ. D&ae;n. <g>Helse</g>, Schwed. <g>Helsa</g>.</li>
+<li><g>Her</g>, Herr. <g>Der Her</g>, der Pfarrer. <g>Her-
+get</g>, Herr Gott.</li>
+<li><g>Hinecht</g>, <aq>ad.</aq> In dieser Nacht. <aq>Sch. Hin-
+nacht.</aq> <g>Hinnechtie</g>, die ganze Nacht hin-
+durch.</li>
+<li><g>Hirz</g>, Hirsch. <aq>Hircu&sr;, Hirci</aq> die Hirzen.</li>
+<li><g>Hofertig stoh</g>, Zu Gevatter stehn. Von
+der alten Form Hohfart.</li>
+<pb="218"/>
+<li><g>Hold</g>, Geneigt, Au&sr;schlieﬂlich von der ge-
+genseitigen Liebe zwischen J&ue;ngling und
+M&ae;dchen gebr&ae;uchlich. Von Helden, s.
+Halde. Daher</li>
+<li><g>Holderstock</g>, der oder die Geliebte.</li>
+<li><g>H&ue;ble</g>, 1) An den Haaren sch&ue;tteln. Da-
+her 2) Z&ue;chtigen.</li>
+<li><g>Hurlibau&sr;</g>, Canone.</li>
+<li><g>Hurnigel</g>, Kleiner Winter-Hagel. Dah.
+&2019;&sr; <g>hurniglet</g>, <aq>verb.</aq> auch <g>e&sr; rieslet</g>.
+<aq>Sch.</aq> Von Hornisse. Id. Vielleicht eher
+Verwandt mit <g>Hornung, Hornig.
+&2019;&sr; horniggelet</g>. E&sr; friert empfindlich
+an die Finger.</li>
+<li><g>Hurst</g>, Strauch. d&2019;<g>H&ue;rst</g> <aq>pl.</aq> Da&sr; Geb&ue;-
+sche, Dickicht. <aq>Sch. Horst</aq> und <aq>Hurst,
+vepretum.</aq> Angels. <aq>Hurst</aq> und <aq>Hyrst.</aq></li>
+<li><g>Hurt</g>, Lager zur Aufbewahrung de&sr; Win-
+terobste&sr;, <aq>Sch. Hurt, Crate&sr;.</aq></li>
+<li><g>H&ue;st</g> und <g>Hott</g>, Link&sr; und Recht&sr;! Zuruf
+an Zu#pferde. <aq>Sch. Hott, quo celeusmate
+incitantur equi ad currendum</aq> (Dah. <g>Hot-
+ten</g>, von statten gehn) und <aq>Hutsch, ce-
+leu&sr;mati&sr; genu&sr;</aq> von <aq>Hutschen, repere.</aq></li>
+<li><g>H&ue;tie</g>, <aq>adv.</aq> Heute den ganzen Tag. <g>H&ue;-
+tieund ie</g>, Heute ie und ie.</li>
+<li><g>Huure, Niederhuure</g>, Den K&oe;rper
+stehend gegen die Erde niederlassen. Hau-
+<pb="219"/>
+ren. Ganz verschieden von einem &ae;hnlichen
+Wort, da&sr; in Meiner&sr; Br. &ue;ber die Schweitz
+damit verwechselt wird.</li>
+<d2>J.</d2>
+<li><g>Jemerst</g>. Affekt&sr;wort der Klage und Sehn-
+sucht.</li>
+<li><g>Jeste</g>, <aq>subst. plur.</aq> Launen, Muthwille. Von
+<g>Jesen</g>, G&ae;hren. Dah. <g>Jast</g>, Hitze;
+<g>Jesten</g> Hitze, Launen. Oder von <aq>Gestu&sr;?</aq></li>
+<li><g>Imme</g> 1) <aq>fem.</aq> Die Biene. 2) <aq>masc. collect.</aq>
+Der Bienenstock. Id. Verschieden von <g>im-
+me</g>, Einem, In einem. <g>Immli</g> <aq>Deminnt.</aq></li>
+<li><g>Immi&sr;</g>, auch <g>Zimmi&sr;</g>, Da&sr; Mittages-
+sen. (Basel) <aq>Sch. <g>Imbi&sr;, Imbe&sr;</g>.</aq> Et-
+wa entstanden au&sr; dem Altdeutschen Va-
+ter Unser. <aq>&201E;Proth unsar emezhic kip un&sr;
+hiutu?&201C;</aq></li>
+<li><g>Jobbi</g>, Jakob.</li>
+<li><g>Junte</g>, Weiberrock.</li>
+<li><g>Just</g>, Eben, gerade recht, Dah. Wohl zu
+Muthe. In der ersten Bedeutung auch
+<g>Justement</g>. Au&sr; dem Franz. oder Ital.</li>
+<d2>K.</d2>
+<li><g>Keie</g>, 1) <aq>neutr.</aq> Fallen. 2) <aq>act.</aq> Werfen
+&03BA;&03B5;&03B9;&03C3;&03B8;&03B1;#.</li>
+<pb="220"/>
+<d2>L.</d2>
+<li><g>Landsem</g>, Langsam.</li>
+<li><g>Laubi</g>. Einer von den Namen, die der
+Landmann den Zugochsen gibt. <g>Horni,
+Merz, Laubi, Lusti</g>, von den vier zum
+Theil nicht mehr gebr&ae;uchlichen Namen der
+Fr&ue;hiahr&sr;monate: Hornung, Merz, Laub-
+monat (April) Lustmonat, (May.)</li>
+<li><g>Leerlauf</g>, Canal zur Ableitung de&sr; Was-
+ser&sr; neben den M&ue;hlr&ae;dern.</li>
+<li><g>Legi</g>, Damm durch da&sr; Beet eine&sr; Flusse&sr;
+zur Ableitung de&sr; Wasser&sr;. Auch <g>Wehr,
+Wuhr</g>.</li>
+<li><g>Lenge</g>, 1) Bi&sr; wohin reichen. Daher 2)
+Nach etwa&sr; greifen, Holen. 3) Zureichen,
+Genugseyn. Von <g>Lange</g> nnd noch &ue;brig
+in <g>An- Be- Verlangen</g>. &204A;c. <aq>Sch.</aq></li>
+<li><g>Letsch</g>, Schlinge, Schlaufe au&sr; dem Ueber-
+schuﬂ von Band an Kleidern &204A;c. Ital. <aq>Lac-
+cio.</aq> <g>Letschli</g> <aq>Deminut.</aq></li>
+<li><g>Lewat</g>, <aq>Brassica Napu&sr; L.</aq></li>
+<li><g>Logel,</g> F&ae;ﬂchen. <aq>Lagenula. Sch. Logel L&00E6;-
+gel etc.</aq></li>
+<li><g>Lopperig</g>, <aq>adj.</aq> Wa&sr; nicht mehr fest ist,
+hin und her wankt.</li>
+<li><g>Lose</g>, Horchen. Stammwort zu <g>Losung,
+Lauschen</g> &204A;c. <aq>Sch.</aq> Id.</li>
+<pb="221"/>
+<li><g>Luege</g>, Schauen, <aq>Sch.</aq> &2014; <g>Verluege</g> <aq>recipr.</aq>
+Sich &ue;ber dem Zufchauen vergessen.</li>
+<li><g>Luft</g>, <aq>masc.</aq> Sanfter Wind. <aq>fem.</aq> Luft.
+Bey den Alten auch al&sr; <aq>masc.</aq> Luft.</li>
+<li><g>L&ue;pfe</g>, In die H&oe;he heben. <aq>Sch.</aq> Id.</li>
+<li><g>Luppe</g>, Groﬂer Klumpe gl&ue;henden Eisen&sr;,
+da&sr; au&sr; dem Frischfeuer zum erstenmal un-
+ter den Hammer kommt.</li>
+<li><g>Lustere</g>, Lauschen. Von <g>Losen</g>.</li>
+<d2>M.</d2>
+<li><g>Manne</g>, <aq>verb.</aq> Einen Mann nehmen.</li>
+<li><g>Marcher</g>, Der die Felder au&sr;miﬂt und
+Gr&ae;nzsteine sezt. Von <g>March</g>, Gr&ae;nze.
+<aq>Sch. <g>March</g> signum.</aq></li>
+<li><g>Martsche</g>, Eine Art Kartenspiel.</li>
+<li><g>Maﬂle</g>, Masse Roheisen in langer prisma-
+tischer Form <aq>Massa, Massula.</aq> Sonst <g>Gan&sr;,
+Eisengan&sr;</g>.</li>
+<li><g>Matte</g>, Wiese. Von M&ae;hen. <aq>Sch. Mad.
+Mat, Matte. Ang. Sax. M&00E6;d.</aq></li>
+<li><g>Meidli</g>, M&ae;dchen. Von <g>Meid</g>. <aq>Par.</aq>
+Marc. 5. &201E;<g>Meidle</g>, ich sag dir stand
+auf! Und al&sr;bald stuond da&sr; <g>Meidlin</g>
+auf.&201C; <aq>Sch. Meide.</aq> Davon da&sr; neue De-
+minutiv.</li>
+<pb="222"/>
+<li><g>Meiddeli</g>, Ein kleine&sr; M&ae;dchen.</li>
+<li><g>Meje</g>, Blumenstrau&sr;.</li>
+<li><g>Meng</g>, Manch. Noch &ue;brig in Mannigfaltig.</li>
+<li><g>M&oe;hnli</g>, Unke. Mayfr&oe;schchen von <g>M&oe;n</g>.
+<aq>Sch. <g>Moen</g>, Maju&sr;.</aq></li>
+<li><g>Morn</g>, <aq>adv.</aq> Morgen. <aq>Sch.</aq></li>
+<li><g>Mose</g>, Flecke. Verw. mit <g>Maser</g>. <aq>Sch.
+<g>Ma&sr;</g>, cicatrtx; <g>Mose</g>, macula.</aq> Id. Maase.
+<g>M&oe;sli</g> und <g>Moseli</g> <aq>Deminut.</aq></li>
+<li><g>Mummeli</g>, Name de&sr; Rinde&sr; in der Kin-
+dersprache und beym Locken.</li>
+<li><g>Mumpfel</g>, <aq>subst.</aq> St&ue;ck Eﬂwaare. Ein
+Mundvoll. Id. Da&sr; Weiche im Brod.</li>
+<d2>N.</d2>
+<li><g>N&ae;umer</g>, Jemand; <g>N&ae;umi&sr;</g>, Etwa&sr;,
+<g>N&ae;ume#</g>, Irgendwo. Au&sr; einer unbekann-
+ten Vorsilbe und den W&oe;rtern <g>Wer, Wa&sr;,
+Wo</g>. <aq>Sch. Neiﬂwar, wa&sr;, wo.</aq></li>
+<li><g>Necht</g> <aq>adv.</aq> In der ersten H&ae;lfte der vorigen
+Nacht. <aq>Sch. Nechten.</aq> Id.</li>
+<li><g>Nemtig</g>, <aq>subst.</aq> <g>Die Nemtig</g>, Vor ei-
+nigen Tagen. <aq>Sch. <g>Antdag</g>, Die&sr; post cer-
+tam die</aq>m <aq>octav&00E6;.</aq> Id. Nie<aq>m</aq>tig, Neulich.</li>
+<pb="223"/>
+<li><g>Niede</g>, Unten.</li>
+<li><g>Nieme&sr;</g>, Niemand. <aq>Sch. <g>Niemensche</g>.</aq></li>
+<li><g>Niene</g>, Nirgend&sr;. <aq>Sch.</aq></li>
+<li><g>Nootno</g>, Nach und Nach.</li>
+<li><g>Numme</g>, Nur. <aq>Sch. Nummen, Newan,
+Newer, Newr.</aq></li>
+<li><g>N&ue;mme</g>, Nicht mehr.</li>
+<li><g>N&ue;t</g>, Nicht&sr;.</li>
+<d2>O.</d2>
+<li>O, zusammengezogen au&sr; <g>Au</g>, Auch.</li>
+<li><g>Oebber</g> Jemand; <g>Oebbi&sr;</g> Etwa&sr;; <g>Oeb-
+be</g> Etwa. In alten Schriften <g>Etwer,
+Etber, Ebber, Etbe&sr;</g> &204A;c. <aq>Sch. Et-
+wer etc.</aq></li>
+<li><g>Oebsch, Oebsche</g>, Etwa.</li>
+<li><g>Oehli</g>, Oehlpresse.</li>
+<li><g>Oser</g>, B&ue;chersack. Id. <g>Aunser</g>, Schnap-
+sack.</li>
+<d2>P.</d2>
+<li><g>Pappe</g>, Brey.</li>
+<li><g>Pfn&ue;sel</g>, Schnuppen. &03A0;&03BD;&03B5;&03C5;&03C3;&03B9;&03C2;. <aq>Sch.
+Pfn¸&sr;el, Phnysel, Pfunst.</aq></li>
+<pb="224"/>
+<li><g>Ph·test</g>, Laune, Muthwille. Phantast.</li>
+<li><g>Plunder</g>, Kleiduug&sr;st&ue;cke. Alle&sr; wa&sr; zum
+Anzug geh&oe;rt. Dah. Pl&ue;ndern, <aq>spoliare. Sch.</aq></li>
+<li><g>Plunni</g>, Apollonia.</li>
+<li><g>Poperment</g>, Operment, Arsenik.</li>
+<li><g>Poppere</g>, Schnell und schwach klopfen.
+<g>P&oe;pperle</g>, <aq>demin.</aq></li>
+<li><g>Preste</g> <aq>subst.</aq> Gebrechen. Vom <aq>verb.</aq> <g>Pre-
+sten</g>, Feylen. Altd. <aq>&201E;Ni imo brusti</aq> &2014;
+Ihm gebrach nicht, <aq>Par.</aq> Un&sr; <g>prist</g> nit
+an Geschicklichkeit. <aq>Sch.</aq></li>
+<d2>R.</d2>
+<li><g>R&ae;f</g>, Leiterwerk, hinter welchem dem Vieh
+da&sr; Futter aufgesteckt wird. <aq>Sch.</aq> &2014; <g>Da&sr;
+Lezte im R&ae;f haben</g>. Sprichw. dem
+Tode nahe seyn.</li>
+<li><g>Ranft</g>, Rand, Rinde, <g>R&ae;nftli</g>, <aq>de-
+min</aq> Id.</li>
+<li><g>Reble</g>, Sich kraftlo&sr; bin und her bewegen.
+Dah. Mit un&ue;berwindlichen Schwierigkei-
+ten k&ae;mpfen. Dah. <g>Verreble</g>, Langsam
+zu Grunde gehn. Id. Ausg&2019;rablen, Sich
+wieder erholen.</li>
+<li><g>Reckholder</g>, Wachholder.</li>
+<li><g>Ribi</g>, Reibm&ue;hle.</li>
+<cw><g>Rickli</g>,</cw>
+<pb="225"/>
+<li><g>Rickli</g>, Angesezte Schn&ue;re, durch welche
+ein Band geht, um Kleidung&sr;st&ue;cke fest
+anzuziehen. Id. Rick, Eine gewisse An-
+zahl F&ae;den.</li>
+<li><g>Ring</g>, <aq>adv.</aq> Leicht, <g>Ringer</g>, mit weni-
+ger M&ue;he, Lieber. Dah. <g>Geringe</g>. <aq>Sch.</aq></li>
+<li><g>Rinke</g>, Schnalle. Rinkli <aq>demin.</aq> Id.</li>
+<li><g>Rnchgra&sr;</g>, <aq>Anthoxanth. odoratum L.</aq></li>
+<li><g>Rufe</g>, Au&sr;schlag, Kruste auf heilenden Wun-
+den &204A;c. <aq>Sch.</aq> Id.</li>
+<li><g>Ruuke</g>, Girren.</li>
+<li><g>R&ue;mmechr&ue;&sr;liger</g>, Eine Art Winter-
+&ae;pfel.</li>
+<li><g>Rung</g>, <aq>subst.</aq> 1) Unbestimmt kurze Zeit.
+2)-mal <g>Ei Rung</g>, Einmal. <g>R&ue;ngli</g>
+<aq>dem.</aq> von 1.</li>
+<d2>S.</d2>
+<li><g>S&ae;gese</g>, Sense. Altd. <g>Sagy&sr;, Sagy-
+sen</g>. Au&sr; einer alten Stammsylbe, die
+noch in <g>Sech, S&ae;ge, Sichel</g>, <aq>Seco</aq>
+&ue;brig ist, und au&sr; <g>Eisen</g> zusammengesezt.
+<aq>Sch. Sagy&sr;, S&00E6;gi&sr;. etc.</aq> Id. S&ae;ge&sr;.</li>
+<li><g>Schaffig</g>, Arbeitsam.</li>
+<li><g>Scheie</g>, Pallisade um die G&ae;rten. <aq>Sch.
+Schyen, Schygen.</aq></li>
+<li><g>Schellewerche</g>, Oeffentliche Arbeit straf-
+weise verrichten.</li>
+<li><g>Schicht</g>, Arbeit&sr;zeit der Schmelzer &204A;c. am
+Hohofen. <aq>Sch. <g>Serie&sr;, Ordo, Partitio</g>.</aq></li>
+<bs>15</bs>
+<pb="226"/>
+<li><g>Schiehut</g>, Strohhut. Von <g>Schiene</g>,
+oder <g>Schein</g>.</li>
+<li><g>Schliefe</g>, Schl&ue;pfen. Da&sr; veraltete Stam&0303;-
+wort zu diesem und zu Schleifen, Schlep-
+pen &204A;c. <aq>Sch.</aq> Id.</li>
+<li><g>Schm&ae;hle</g>, <aq>verb.</aq> Vorw&ue;rfe machen. Da&sr;
+Deminut. von <g>Schm&ae;hen</g>, und verw.
+mit <g>Schwolleu</g>. <aq>Sch.</aq></li>
+<li><g>Schmehle</g>, <aq>subst.</aq> Gra&sr;halm. Id. Schmie-
+le, Schmeele, <aq>Aira. L.</aq></li>
+<li><g>Schnatte</g>, Wunde. Von Schneiden. <aq>Sch.
+<g>Schnatten</g>, Cicatrix.</aq></li>
+<li><g>Schnaue</g>, Im Unwillen sprechen. <g>Aschnaue</g>
+Hart anreden. Da&sr; Stammwort zu dem
+Intens. <g>Schnautzen</g>, und zu <g>Schnau-
+ben</g>, und ohne Zweifel auch zu dem noch
+nicht heimgewiesenen Hochd. <g>Schn&oe;de</g>.
+Vergl. Ad. unter <g>Schn&oe;de</g>. <aq>Sch. <g>Schnˆ-
+wen, Anschnauen</g>, a Schnau pro
+<g>Schnautze</g>.</aq> Id.</li>
+<li><g>Schn&oe;re</g>, R&ue;ssel. <aq>Sch. Schnorre.</aq></li>
+<li><g>Schoch, Schocheli</g>, Au&sr;druck de&sr; Ge-
+f&ue;hl&sr; der K&ae;lte beym Schauern. <aq>Sch.
+Schoch Interjectio ex frigore.</aq></li>
+<li><g>Sch&oe;chli</g>, Kleine Heuhaufen auf den Wie-
+sen. Demin. von <g>Schoch</g>, Haufe. Da-
+her <g>Sch&oe;chle</g>, <aq>verb.</aq> da&sr; Heu in solche
+zusammenbringen. <aq>Sch. <g>Schoch</g>. acervu&sr;.</aq></li>
+<li><g>Schrunde</g>. Aufgesprungene und aufgerizte
+Haut. <aq>Sch.</aq></li>
+<li><g>Sieder</g> <aq>pr&00E6;p.</aq> Seit. <aq>adv.</aq> Unterdessen. <g>Sie-
+derie</g>, Seither. <aq>Sch. <g>Sid Sider</g> etc.</aq></li>
+<pb="227"/>
+<li><g>Simse</g>, Vorschuﬂ unter den Fenstern. Dav.
+<g>Gesimse</g>. <aq>Sch. <g>Symi&sr;, Sim&sr;</g>.</aq></li>
+<li><g>Sinne</g> <aq>verb.</aq> Weinf&ae;sser au&sr;messen und be-
+zeichnen. Scherzweise von Menschen. <aq>Sig-
+nare. Sch. <g>Sinnen</g>, signare in dolii&sr;
+quantitatcm mensur&00E6;. Hinc <g>Sinner</g>,
+Homo qui id facit.</aq></li>
+<li><g>S&oe;lli</g>, Sehr. Id. Sellig.</li>
+<li><g>Sp&oe;chte</g>, Sp&ae;hen. Da&sr; Intens. zu die-
+sem. <aq>Spectare. Sch. Spechen etc.</aq></li>
+<li><g>Sp&oe;htlig</g>, Sp&ae;tling, Sp&ae;tiahr. Da&sr;
+Gegenwort zu Fr&ue;hling.</li>
+<li><g>Stapfle</g>, Stufe. <g>St&ae;pfeli</g>. <aq>Demin.</aq></li>
+<li><g>Stellaschi</g>, Ger&ue;ste, Gestell, Wa&sr; viel
+Raum einnimmt.</li>
+<li><g>Storze</g>, Strunk der Staudengew&ae;chse.
+<g>St&oe;rzli</g>, <aq>Demin.</aq></li>
+<li><g>Stotze</g>, Starke Beine und Schenkel. <aq>Sch.
+<g>Stotzen</g>, refercire.</aq> Id. Stotz, Stamm,
+Klotz.</li>
+<li><g>Strehle</g>, K&ae;mmen. Von <g>Strehl</g> Kamm.
+Verw. mit Striegel, <aq>Strigili&sr;.</aq> Id. von
+Strahl.</li>
+<li><g>Strolch</g>, Vagabund, Id. Grober Mensch.</li>
+<li><g>Str&ue;bli</g>, Gewundene&sr; Backwerk. Von
+<g>Strube, Struve</g>, Schraube. <aq>Scribli-
+ta.</aq> Id. Strauben, Str&ae;ublein.</li>
+<li><g>Stud</g>, Pfosten. Verw. mit St&ue;tze, Stotze.
+<aq>Statua. Sch. Stud.</aq></li>
+<bs>15 *</bs>
+<pb="228"/>
+<li><g>Sunneblume</g>, <aq>Chrysanthemum Leucanth,
+Lin.</aq></li>
+<li>Stubete. Z&2019;stubete. Auf Besuch.</li>
+<d2>T.</d2>
+<li><g>TafÈre</g>, Wirth&sr;hau&sr;schild. <aq>Taberna. Sch.
+<g>Tafern</g>.</aq></li>
+<li><g>Tage</g>, <aq>verb.</aq> Tag werden. <aq>Sch.#</aq></li>
+<li><g>Taue</g>, Feldmaﬂ bey Wiesen. <g>Ein Morgen</g>,</li>
+<li><g>Tensch</g>, Schleuse bey der Wasserleitung,
+<aq>Sch. <g>Tenfch</g>, Landveste a latino Tenere,</aq></li>
+<li><g>Togge</g>, Strohfackel.</li>
+<li><g>Tole</g>, Vertragen, Dulden. Da&sr; Stamm-
+wort zu diesem. <g>Mer tolteni&sr;</g>, Wir
+duldeten un&sr;. Goth. <g>Thulan</g>, An. S&ae;chs.
+<g>Tholian</g>, D&ae;n. <g>Taale</g>, I&sr;l. <g>Dol</g>,
+Schwed. <g>Tola</g>, Gr. &03A4;&03B1;&03BB;&03B1;&03C9;. Lat. <g><aq>to-
+lero, tuli.</aq></g></li>
+<li><g>Toll</g>, 1) &ue;berhaupt Sch&oe;n. 2) In&sr;bes.
+Wa&sr; mit groﬂem Aufwand versch&oe;nert ist.
+K&oe;nnte wohl da&sr; Wort von dieser Urbe-
+deutung zur Bezeichnung de&sr; <g>th&oe;richten</g>
+Aufwande&sr;, und zulezt de&sr; <g>Th&oe;richten,
+Uebertriebenen</g> &204A;c. &ue;berhaupt &ue;ber-
+gegangen seyn? Vergl. Ad. unter diesem
+Art. Id. <g>Toll</g>, Groﬂ, H&ue;bsch. Engl. <aq>tall.</aq></li>
+<li><g>Treber</g>, Trestern.</li>
+<li><g>Tremel</g>, Balke. Von <g>Tram</g> <aq>Sch.</aq> Id.</li>
+<li><g>Trinke, Tuback trinke</g>, Taback rau-
+cheu. Noch au&sr; einer alten Bedeutung
+<pb="229"/>
+de&sr; Worte&sr; <g>Trinken</g>, Ziehen. <aq>Trahere.
+Par.</aq> &201E;Die den sreien und reichlichen Geist
+(der Lehre) in sich <g>getrunken</g> haben.</li>
+<li><g>Trog</g>, H&oe;lzerne Kiste. <aq>Sch. <g>Truhe</g>, re-
+ceptaculum clausum, <g>Trog</g>.</aq> Id. Truhe,
+Truche. Davon</li>
+<li><g>Tr&ue;eihe</g> (Tr&ue;hen) Urspr&ue;nglich; Sam-
+melu, Zulegen. Daher: Fett, stark wer-
+den. <aq>Sch. <g>Truhen</g>, in arculam coniicere.
+&201E;Unrecht Gut truhet nicht.&201C;</aq></li>
+<li><g>Tr&ue;mmle</g>, 1) Sich auf einem Puukt her-
+um bewegen. 2) Unst&ae;t gehen. <aq>Tremulare.</aq>
+Id. Trumseln. Davon</li>
+<li><g>Tr&ue;mmlig</g>, Schwindlicht. Id. Trum-
+selig.</li>
+<li><g>Tsch&ae;ubli, Tsch&ae;ubbeli</g>, Kleiner
+Strohb&ue;schel, Warnung&sr;zeichen an verbot-
+tenen Wegen. Deminut. von <g>Schaub</g>,
+Strohwelle.</li>
+<li><g>Tschope</g>, Kamisol mit Ermeln. <g>Tsch&oe;p-
+li</g> <aq>Demin.</aq> Au&sr; dem Ital. <aq>Giubba,</aq> woher
+auch <g>J&ue;ppe</g>, Kinderrock.</li>
+<li><g>Tunke</g>, Tauchen. <aq>Tingere.</aq></li>
+<d2>U.</d2>
+<li><g>Uding, Unding</g>, <aq>adv.</aq> Sehr, Ueber da&sr;
+Gew&oe;hnliche.</li>
+<li><g>Umme</g>, Hin, Herum, Verschieden von
+<g>Umme, Ummen</g>, Um ihn, den, einen.</li>
+<li><g>Uurueih</g>, Perpendikel an der Uhr. Un-
+ruhe.</li>
+<pb="230"/>
+<li><g>Urig</g>, 1) Lauter Dinge einer Art beysam-
+men. 2) So viel Dinge einer Art, daﬂ
+man die andern nicht bemerkt. Wahr-
+scheinlich von der noch in Zusammensezun-
+gen &ue;brigen Stammsylbe <g>Ur</g>.</li>
+<d2>V.</d2>
+<li><g>Ver-</g> in der Zusammensetzung mit dem Ver-
+bum, ost statt <g>Er- &2014; Vert-</g> statt <g>Ent-</g></li>
+<li><g>Verbause, s. Bause</g>.</li>
+<li><g>Vergelstere</g>, Erschrecken. <aq>Sch. <g>Gall-
+stern</g>, fascinare. <g>Vergallen</g>, facere
+ut sonet.</aq></li>
+<li><g>Verglichlige</g>, <aq>adv.</aq> Vlrgleichung&sr;weise.</li>
+<li><g>Verstune</g>, Irre werden.</li>
+<li><g>Visperle</g>, <aq>v. act.</aq> Kleine&sr; Ger&ae;usch ma-
+chen. <aq>neutr.</aq> Mit solchem sich fortbewegen.</li>
+<li><g>Vogt</g>, Schulze.</li>
+<li><g>Volchspiel</g>, Menge Volk&sr; in Bewegung.</li>
+<d2>W.</d2>
+<li><g>W&ae;gese</g>, Pflugschar. Altd. <g>Wagisen,
+W&ae;genese, Wagy&sr;</g>. Von <g>W&ae;gen</g>,
+Aufwinden, In die H&oe;he heben und Eisen.
+Nach Ad. von <g>Wagen</g>. <aq>Sch.</aq></li>
+<li><g>Wagle</g>, Wiege.</li>
+<li><g>Wahle</g>, <aq>verb.</aq> Wogen. Verw. mit <g>Wal-
+len</g>, Sieden, und <g>Welle</g>.</li>
+<li><g>Warbe</g>, Da&sr; gem&ae;hte Gra&sr; zum Trocknen
+au&sr;einander sch&ue;tteln. Eigentl. Umwenden,
+<pb="231"/>
+Verarbeiten. Verwandt mit Werben, Er-
+werben, Gewerbe, Wirbel &204A;c.</li>
+<li><g>Wasserstelzli</g>, Bachstelze.</li>
+<li><g>Weger, Wegerli</g>, Wahrlich. Eigent-
+lich Comparativ von <g>Wahe</g>, Sch&oe;n, Gut.
+<aq>Par.</aq> &201E;H&ae;tten sie gesprochen, e&sr; w&ae;re <g>w&ae;-
+ger</g>, man liesse einen Menschen Schaden
+leiden mit Haltung de&sr; Sabbathtag&sr;.&201C;
+<aq>Sch.</aq> Id. W&ae;ger, Wahrlich, Besser.</li>
+<li><g>Weidli</g>, Hurtig. <aq>Sch. Weidelich, Decoru&sr;,
+Gnavu&sr;.</aq> Id.</li>
+<li><g>Weihe</g>, Speckkuchen.</li>
+<li><g>Welle</g>, <aq>subst.</aq> B&ue;ndel von Rei&sr;, Stroh, &204A;c. <aq>Sch.</aq></li>
+<li><g>Wentele</g>, Wanze.</li>
+<li><g>Werchtig</g>, Werktag.</li>
+<li><g>Weserei</g>, 1) Verrechnung&sr;stelle bey den
+Eisenh&ue;tten. 2) Dabey errichtete Wein-
+schenke.</li>
+<li><g>Wette</g>, <aq>verb.</aq> Binden, Zusammenf&ue;gen; Dah.
+An da&sr; Joch spannen. Wind&sr;beck. &201E;Nu
+hat da&sr; Alter mit Gewalt in sinen Strick
+mich so gewetteu.&201C;</li>
+<li><g>Wetterleich</g>, Wetterleuchten. <g>Im Wet-
+terleich</g>, Blitzschnell.</li>
+<li><g>Wibe</g>, <aq>verb.</aq> Ein Weib nehmen.</li>
+<li><g>Wied</g>, gedrehte Weide zum Binden. Altd.
+<g>Bey der Wide</g>, Beym Strang. Dah.
+viell. <g>Wiedsauer</g>.</li>
+<li><g>Windeweh, Wind und Weh</g>. Au&sr;-
+druck f&ue;r da&sr; Gef&ue;hl der Unruhe bey lan-
+gem Warten. Wunden weh? Wunder weh?
+<pb="232"/>
+<aq>Sch.# &201E;Wer kann allwegen gedultig seyn,
+wann eim so <g>wunn</g> uud wee ist.&201C;</aq> Nach
+dieser Orthogr. viell. so viel al&sr; Wohl und
+Weh, in Hofnung und Furcht.</li>
+<li><g>Wintergfrist, Gfristig</g>, Frostbeuleu.</li>
+<li><g>Wolfel</g>, Wohlfeil.</li>
+<li><g>Wuhr</g>, Damm durch einen Fluﬂ zur Ablei-
+tung de&sr; Wasser&sr;. Id. Um dem Wasser h&oe;-
+hern Fall zu geben.</li>
+<li><g>Wuli</g>, Namen der G&ae;nse bey dem Locken und
+in der Kindersprache.</li>
+<li><g>Wundervitz</g>, 1) Neugierde. 2) Ein Mensch,
+der alle&sr; zu wissen verlangt.</li>
+<li><g>W&ue;tsche</g>, Sich schnell bewegen. Intens.
+von <g>Wischen</g> in Entwischen &204A;c.</li>
+<d2>Z.</d2>
+<li><g>Zeiche. Alle Zeichen fluchen</g>, Alle
+Verw&ue;nschung&sr;formeln au&sr;sprechen.</li>
+<li><g>Zeine</g>, Rundkorb. Von Zein. <aq>Sch. Zein,
+virga, et <g>Zain</g>.</aq> Id.</li>
+<li><g>Zeiner</g>, Schmid, der da&sr; Stabeisen in Sran-
+gen streckt.</li>
+<li><g>Zibertli</g>, (Getrocknete) weiﬂe Pflaumen.
+Id. Zibarten, Prunellen.</li>
+<li><g>Zimpfer</g>, Jungfr&ae;ulich, Fein im Betragen,
+auch Affektirt. <aq>Sch.</aq> Id. <g>Zumpfer</g>.</li>
+<li><g>Zinkli</g>, Hyacinthen.</li>
+<li><g>Ziftig</g>, Dienstag. <aq>Sch.</aq></li>
+<li><g>Zit</g>. 1) <aq>foem.</aq> Zeit. 2) <aq>neutr.</aq> Uhr. Dah. <g>Zit-
+li</g>, <aq>dem.</aq> Die Taschenuhr. Altd. <g>Zit</g>. Stun-
+de. Otfrid. <g>Niunhunt Zito</g>, Neunhun-
+dert Stunden.</li>
+<li><g>Zsendane</g>. Ueberall. Zur Hand hin.</li>
+<li><g>Z&ue;ber</g>, H&oe;lzerne&sr; Wassergef&ae;ﬂ.</li>
+<hr>
+<pb>
+<pb>
+<pb>

@@ -1,0 +1,549 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b><g>G&oe;ttingische
+gelehrte Anzeigen</g>.</b>
+Unter der Aufsicht
+der k&oe;nigl. Gesellschaft der Wissenschaften.
+<hr>
+<b><g>Der erste Band</g></b>
+auf da&sr; Jahr 1831.
+<abb>
+<hr>
+<g>G&oe;ttingen,
+gedruckt bey Friedrich Ernst Huth</g>.</front>
+<pb>
+<pb="625"/>
+<front><g>G&oe;ttingische
+<b>gelehrte Anzeigen</b></g>
+unter der Aufsicht
+der K&oe;nigl. Gesellschaft der Wissenschaften.
+<hr>
+64. <g>St&ue;ck.
+Den 23. April 1831</g>.</front>
+<hr>
+<d1><g>G&oe;ttingen</g>.</d1>
+<p>Eine am 15. April von dem Hofr. Gauﬂ der
+K&oe;nigl. Societ&ae;t &ue;berreichte Vorlesung: <aq>Theo-
+ria re&sr;iduorum biquadraticorum, commen-
+tatio &sr;ecunda,</aq> ist die Fortsetzung der bereit&sr; im
+sech&sr;ten Bande der <aq>Commentatione&sr; novae</aq> ab-
+gedruckten Abhandlung, wovon auch in unsern
+Bl&ae;ttern zu seiner Zeit 1825 S. 59 eine Anzeige
+gemacht war. Auch diese Fortsetzung, obgleich
+mehr al&sr; doppelt st&ae;rker wie die erste Abhand-
+lung, ersch&oe;pft den &ue;berau&sr; reichhaltigen Gegen-
+stand noch nicht, und erst einer k&ue;nftigen dritten
+Abhandlung wird die Vollendung de&sr; Ganzen
+vorbehalten bleiben.</p>
+<p>Obgleich die Grundbegriffe dieser Lehren und
+der Inhalt der ersten Abhandlung al&sr; allen, die
+au&sr; der h&oe;hern Arithmetik ein Studium gemacht
+haben, bekannt vorau&sr;gesetzt werden k&oe;nnen, wol-
+len wir doch jene zur Bequemlichkeit solcher Freun-
+de diese&sr; Theil&sr; der Mathematik, welchen die
+erste Abhandlung nicht gleich zur Hand ist, hier
+<bs>[56]</bs>
+<pb="626"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+kurz in Erinnerung bringen. In Beziehung auf
+eine beliebige ganze Zahl <i><aq>p</aq></i> heiﬂt eine andere <i><aq>k</aq></i>
+ein biquadratischer Rest, wenn e&sr; Zahlen der
+Form <i><aq>x</aq></i><up>4</up> &2014; <i><aq>k</aq></i> gibt, die durch <i><aq>p</aq></i> theilbar sind;
+im entgegengesetzten Fall heiﬂt sie biquadratischer
+Nicht-Rest von <i><aq>p</aq></i>. E&sr; ist zureichend, sich hiebey
+auf den Fall einzuschr&ae;nken, wo <i><aq>p</aq></i> eine Primzahl
+der Form 4<i><aq>n</aq></i> + 1, und <i><aq>k</aq></i> durch dieselbe nicht
+theilbar ist, da alle andere F&ae;lle entweder f&ue;r
+sich klar, oder auf diesen zur&ue;ckzuf&ue;hren sind.</p>
+<p>F&ue;r einen solchen <g>gegebenen</g> Werth von <i><aq>p</aq></i>
+zerfallen s&ae;mmtliche durch <i><aq>p</aq></i> nicht theilbare Zah-
+len in <g>vier</g> Klassen, wovon die eine die biqua-
+dratischen Reste, eine zweyte solche biquadratische
+Nicht-Reste, die quadratische Reste von <i><aq>p</aq></i> sind,
+enth&ae;lt, und in die beiden &ue;brigen die biquadra-
+tischen Nicht-Reste, welche zugleich quadratische
+Nicht-Reste sind, vertheilt werden. Da&sr; Prin-
+cip dieser Vertheilung besteht darin, daﬂ allemahl
+entweder <i><aq>k<up>n</up></aq></i> &2014; 1, oder <i><aq>k<up>n</up></aq></i> + 1, oder <i><aq>k<up>n</up></aq></i> &2014; <i><aq>f</aq></i>,
+oder <i><aq>k<up>n</up></aq></i> + <i><aq>f</aq></i> durch <i><aq>p</aq></i> theilbar seyn wird, wo <i><aq>f</aq></i>
+eine ganze Zahl bedeutet, die <i><aq>ff</aq></i> + 1 durch <i><aq>p</aq></i>
+theilbar macht. Jeder, dem die elementarische
+Terminologie bekannt ist, sieht von selbst, wie
+diese Worterkl&ae;rungen in dieselbe eingekleidet
+werden.</p>
+<p>Die Theorie dieser Classificierung nicht nur f&ue;r
+den an der Oberfl&ae;che liegenden Fall <i><aq>k</aq></i> = &2014; 1,
+sondern auch f&ue;r die, subtile H&ue;lf&sr;untersuchun-
+gen erfordernden F&ae;lle <i><aq>k</aq></i> = &00B1; 2, findet sich in
+der erster Abhandlung ganz vollendet. Im An-
+fang der gegenw&ae;rtigen Abhandlung wird nun
+zu gr&oe;ﬂern Werthen von <i><aq>k</aq></i> fortgeschritten: man
+braucht aber dabey zun&ae;chst nur solche in Betracht
+zu ziehen, die selbst Primzahlen sind, und der
+Erfolg zeigt, daﬂ die Resultate am einfachsten
+au&sr;fallen, wenn man die Werthe positiv oder
+<pb="627"/>
+<kt>64. St., den 23. April 1831.</kt>
+negativ nimmt, je nachdem sie, absolut betrach-
+tet, von der Form 4 <i><aq>m</aq></i> + 1 oder 4 <i><aq>m</aq></i> + 3 sind.
+Die Induction gibt hier sofort mit groﬂer Leich-
+tigkeit eine reiche Ernte von neuen Lehrs&ae;tzen,
+wovon wir hier nur ein Paar anf&ue;hren. Die
+Numerierung der Classen mit 1, 2, 3, 4 wird
+auf die F&ae;lle bezogen, wo <i><aq>k<up>n</up></aq></i> den Zahlen 1, <i><aq>f</aq></i>,
+&2014; 1, &2014; <i><aq>f</aq></i> congruent wird; zugleich ist f&ue;r die
+Zahl <i><aq>f</aq></i> immer derjenige Werth angenommen, wel-
+cher <i><aq>a</aq></i> + <i><aq>bf</aq></i> durch <i><aq>p</aq></i> theilbar macht, wenn <i><aq>aa</aq></i> + <i><aq>bb</aq></i>
+die Zerlegung von <i><aq>p</aq></i> in ein ungerade&sr; und ein
+gerade&sr; Quadrat vorstellt. So findet sich durch
+die Induction, daﬂ die Zahl &2014; 3 allemal zu der
+Classe 1, 2, 3, 4 geh&oe;rt, je nachdem <i><aq>b</aq>, <aq>a</aq></i> + <i><aq>b</aq>,
+<aq>a</aq>, <aq>a</aq></i> &2014; <i><aq>b</aq></i> durch 3 theilbar ist; daﬂ die Zahl + 5
+der Reihe nach zu jenen Classen geh&oe;rt, je nach-
+dem <i><aq>b</aq>, <aq>a</aq></i> &2014; <i><aq>b</aq>, <aq>a</aq>, <aq>a</aq></i> + <i><aq>b</aq></i> durch 5 theilbar ist;
+daﬂ die Zahl &2014; 7 in die Classe 1 f&ae;llt, wenn
+<i><aq>a</aq></i> oder <i><aq>b</aq></i>; in die Classe 1, wenn <i><aq>a</aq></i> &2014; 2 <i><aq>b</aq></i> oder
+<i><aq>a</aq></i> &2014; 3 <i><aq>b</aq></i>; in die Classe 2, wenn <i><aq>a</aq></i> &2014; <i><aq>b</aq></i> oder
+<i><aq>a</aq></i> + <i><aq>b</aq></i>; in die Classe 3, wenn <i><aq>a</aq></i> + 2 <i><aq>b</aq></i> oder
+<i><aq>a</aq></i> + 3 <i><aq>b</aq></i> durch 7 theilbar ist. Aehnliche Theore-
+me ergeben sich in Beziehung auf die Zahlen
+&2014; 11, + 13, + 17, &2014; 19, &2014; 23 u. s. f.
+So leicht sich aber alle dergleichen specielle Theo-
+reme durch die Induction entdecken lassen, so
+schwer scheint e&sr;, auf diesem Wege ein allgemei-
+ne&sr; Gesetz f&ue;r diese Formen aufzufinden, wenn
+auch manche&sr; Gemeinschaftliche bald in die Au-
+gen f&ae;llt, und noch viel schwerer ist e&sr;, f&ue;r diese
+Lehrs&ae;tze die Beweise zu finden. Die f&ue;r die
+Zahlen + 2 und &2014; 2 in der ersten Abhandlung
+gebrauchten Methoden vertragen hier keine An-
+wendung mehr, und wenn gleich andere Metho-
+den ebenfall&sr; da&sr;, wa&sr; sich auf die erste und
+dritte Classe bezieht, zu erledigen dienen k&oe;nn-
+<bs>[56] *</bs>
+<pb="628"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+ten, so zeigen sich doch solche zur Begr&ue;ndung
+von <g>vollst&ae;ndigen</g> Beweisen untauglich.</p>
+<p>Man erkennt demnach bald, daﬂ man in die-
+se&sr; reiche Gebiet der h&oe;hern Arithmetik nur auf
+ganz neuen Wegen eindringen kann. Der Verf.
+hatte schon in der ersten Abhandlung eine An-
+deutung gegeben, daﬂ dazu eine eigenth&ue;mliche
+Erweiterung de&sr; ganzen Felde&sr; der h&oe;hern Arith-
+metik wesentlich erforderlich ist, ohne damal&sr; sich
+n&ae;her dar&ue;ber zu erkl&ae;ren, worin dieselbe beste-
+he: die gegenw&ae;rtige Abhandlung ist dazu be-
+stimmt, diesen Gegenstand in&sr; Licht zu setzen.</p>
+<p>E&sr; ist diese&sr; nicht&sr; ander&sr;, al&sr; daﬂ f&ue;r die
+wahre Begr&ue;ndung der Theorie der biquadrati-
+schen Reste da&sr; Feld der h&oe;hern Arithmetik, wel-
+che&sr; man sonst nur auf die reellen ganzen Zah-
+leu au&sr;dehnte, auch &ue;ber die imagin&ae;ren erstreckt
+werden, und diesen da&sr; v&oe;llig gleiche B&ue;rger-
+recht mit jenen einger&ae;umt werden muﬂ. So
+bald man dieﬂ einmahl eingesehen hat, erscheint
+jene Theorie in einem ganz neuen Lichte, und
+ihre Resultate gewinnen eine h&oe;chst &ue;berraschende
+Einfachheit.</p>
+<p>Ehe jedoch in diesem erweiterten Zahlengebiet
+die Theorie der biquadratischen Reste selbst ent-
+wickelt werden kann, m&ue;ssen in jenem die dieser
+Theorie vorangehenden Lehren der h&oe;hern Arith-
+metik, die bi&sr;her nur in Beziehung auf reelle
+Zahlen bearbeitet sind, an dieser Erweiteruug
+Theil nehmen. Von diesen vorg&ae;ngigen Unter-
+suchungen k&oe;nnen wir hier nur Einige&sr; anf&ue;hren.
+Der Verf. nennt jede Gr&oe;ﬂe <i><aq>a</aq></i> + <i><aq>b i</aq></i>, wo <i><aq>a</aq></i> und
+<i><aq>b</aq></i> reelle Gr&oe;ﬂen bedeuten, und <i><aq>i</aq></i> der K&ue;rze we-
+gen anstatt &2261; &2014; 1 geschrieben ist, eine complexe
+ganze Zahl, wenn zugleich <i><aq>a</aq></i> und <i><aq>b</aq></i> ganze Zah-
+len sind. Die complexen Gr&oe;ﬂen stehen also
+nicht den reellen entgegen, sondern enthalten diese,
+<pb="629"/>
+<kt>64. St., den 23. April 1831.</kt>
+al&sr; einen speciellen Fall, wo <i><aq>b</aq></i> = 0, unter sich.
+Zur bequemen Handhabung war e&sr; erforderlich,
+mehrere auf die complexen Gr&oe;ﬂen sich beziehende
+Begriff&sr;bildungen mit besondern Benennungen
+zu belegen, welche wir aber in dieser Anzeige zu
+umgehen suchen werden.</p>
+<p>So wie in der Arithmetik der reellen Zahlen
+nur von zwey Einheiten, der positiven und ne-
+gativen, die Rede ist, so haben wir in der
+Arithmetik der complexen Zahlen vier Einheiten
++ 1, &2014; 1, + <i><aq>i</aq></i>, &2014; <i><aq>i</aq></i>. <g>Zusammengesetzt</g>
+heiﬂt <g>eine</g> complexe ganze Zahl, wenn sie da&sr;
+Product au&sr; zwey von den Einheiten verschiede-
+nen ganzen Factoren ist; eine complexe Zahl hin-
+gegen, die eine <g>solche</g> Zerlegung in Facto-
+ren nicht zul&ae;ﬂt, heiﬂt eine complexe Primzahl.
+So ist z. B. die reelle Zahl 3, auch al&sr; com-
+plexe Zahl betrachtet eine Primzahl, w&ae;hrend
+5 al&sr; complexe Zahl zusammengesetzt ist =
+(1 + 2 <i><aq>i</aq></i>) (1 &2014; 2 <i><aq>i</aq></i>). Eben so wie in der h&oe;hern
+Arithmetik der reellen Zahlen spielen auch in
+dem erweiterten Felde dieser Wissenschaft die
+Primzahlen eine Hauptrolle.</p>
+<p>Wird eine complexe ganze Zahl <i><aq>a</aq></i> + <i><aq>bi</aq></i> al&sr; Modu-
+lu&sr; angenommen, so lassen sich <i><aq>aa</aq></i> + <i><aq>bb</aq></i> unter sich
+nicht congruente, und nicht mehrere, complexe Zahlen
+aufstellen, von denen einer jede vorgegebene ganze
+complexe Zahl congruent seyn muﬂ, und die man
+ein vollst&ae;ndige&sr; System incongruenter Reste nen-
+nen kann. Die sogenannten kleinsten und abso-
+lut kleinsten Reste in der Arithmetik der reellen
+Zahlen haben auch hier ihr vollkommene&sr; Analo-
+gon. So besteht z. B. f&ue;r den Modulu&sr; 1 + 2 <i><aq>i</aq></i>
+da&sr; vollst&ae;ndige System der absolut kleinsten Reste
+au&sr; den Zahlen 1, <i><aq>i</aq></i>, &2014; 1 und &2014; <i><aq>i</aq></i>. Fast die
+s&ae;mmtlicheu Untersuchungen der vier ersten Ab-
+schnitte der <aq>Di&sr;qui&sr;itione&sr; Arithmeticae</aq> fin-
+<pb="630"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+den, mit einigen Modificationen, auch in der
+erweiterten Arithmetik ihren Platz. Da&sr; ber&ue;hmte
+Fermatsche Theorem z. B. nimmt hier folgende
+Gestalt an: Wenn <i><aq>a</aq></i> + <i><aq>b i</aq></i> eine complexe Prim-
+zahl ist, und <i><aq>k</aq></i> eine durch jene nicht theilbare
+complexe Zahl, so ist immer <i><aq>k</aq></i><up><i><aq>aa</aq></i> + <i><aq>bb</aq></i> &2014; 1</up> &221A; 1
+f&ue;r den Modulu&sr; <i><aq>a</aq></i> + <i><aq>b i</aq></i>. Ganz besonder&sr; merk-
+w&ue;rdig ist e&sr; aber, daﬂ da&sr; Fundamentaltheorem
+f&ue;r die quadratischen Reste in der Arithmetik der
+complexen Zahlen sein vollkommene&sr;, nur hier
+noch einfachere&sr;, Gegenst&ue;ck hat; sind n&ae;mlich
+<i><aq>a</aq></i> + <i><aq>b i</aq>, <aq>A</aq></i> + <i><aq>B i</aq></i> complexe Primzahlen, so daﬂ
+<i><aq>a</aq></i> und <i><aq>A</aq></i> ungerade, <i><aq>b</aq></i> und <i><aq>B</aq></i> gerade sind, so
+ist die erste quadratischer Rest der zweyten, wenn
+die zweyte quadratischer Rest der ersten ist, hin-
+gegen die erste quadratischer Nichtrest der zwey-
+ten, wenn die zweyte quadratischer Nichtrest der
+ersten ist.</p>
+<p>Indem die Abhandlung nach diesen Vorunter-
+suchungen zu der Lehre von den biquadratischen
+Resten selbst &ue;bergeht, wird zuv&oe;rderst anstatt
+der bloﬂen Unterscheidung zwischen biquadrati-
+schen Resten und Nichtresten eine Vertheilung
+der durch den Modulu&sr; nicht theilbaren Zahlen
+in vier Klassen festgesetzt. Ist n&ae;mlich der Mo-
+dulu&sr; eine complexe Primzahl <i><aq>a</aq></i> + <i><aq>b i</aq></i>, wo im-
+mer <i><aq>a</aq></i> ungerade <i><aq>b</aq></i> gerade vorau&sr;gesetzt, und der
+K&ue;rze wegen <i><aq>p</aq></i> statt <i><aq>aa</aq></i> + <i><aq>bb</aq></i> geschrieben wird,
+und <i><aq>k</aq></i> eine complexe durch <i><aq>a</aq></i> + <i><aq>bi</aq></i> nicht theilbare
+Zahl, so wird allemahl <i><aq>k</aq></i><up>&frac14; (<i><aq>p</aq></i> &2014; 1)</up> einer der Zah-
+len + 1, + <i><aq>i</aq></i>, &2014; 1, &2014; <i><aq>i</aq></i> congruent seyn, und
+dadurch eine Vertheilung s&ae;mmtlicher durch <i><aq>a</aq></i> + <i><aq>bi</aq></i>
+nicht theilbarer Zahlen in vier Classen begr&ue;n-
+det, denen der Reihe nach der biquadratische
+Character 0, 1, 2, 3 beygelegt wird. Offenbar
+bezieht sich der Character 0 auf die biquadrati-
+schen Reste, die &ue;brigen auf die biquadratischen
+<pb="531"/>
+<kt>64. St., den 23. April 1831.</kt>
+Nichtreste, und zwar so, daﬂ dem Character 2
+zugleich quadratische Reste, den Charactern 1 und
+3 hingegen quadratische Nichtreste entsprechen.</p>
+<p>Man erkennt leicht, daﬂ e&sr; haupts&ae;chlich darauf
+ankommt, diesen Character bloﬂ f&ue;r solche Wer-
+the von <i><aq>k</aq></i> bestimmen zu k&oe;nnen, die selbst com-
+plexe Primzahlen sind, und hier f&ue;hrt sogleich
+die Induction zu h&oe;chst einfachen Resultaten.</p>
+<p>Wird zuerst <i><aq>k</aq></i> = 1 + <i><aq>i</aq></i> gesetzt, so zeigt sich,
+daﬂ der Character dieser Zahl allemahl &221A;
+&frac18; (&2014; <i><aq>aa</aq></i> + 2<i><aq>ab</aq></i> &2014; 3<i><aq>bb</aq></i> + 1) (<aq>mod.</aq> 4) wird, und
+&ae;hnliche Au&sr;dr&ue;cke finden sich f&ue;r die F&ae;lle
+<i><aq>k</aq></i> = 1 &2014; <i><aq>i</aq>, <aq>k</aq></i> = &2014; 1 + <i><aq>i</aq>, <aq>k</aq></i> = &2014; 1 &2014; <i><aq>i</aq></i>.</p>
+<p>Ist hingegen <i><aq>k</aq></i> = <i>&03B1;</i> + <i>&03D0; <aq>i</aq></i> eine solche Primzahl,
+wo <i>&03B1;</i> ungerade und <i>&03D0;</i> gerade ist, so ergibt sich
+durch die Induction sehr leicht ein dem Funda-
+mentaltheorem f&ue;r die quadratischen Reste ganz
+analoge&sr; Reciprocit&ae;t&sr;gesetz, welche&sr; am einfach-
+sten auf folgende Art au&sr;gedr&ue;ckt werden kann:</p>
+<p>Wenn sowohl <i>&03B1;</i> + <i>&03D0;</i> &2014; 1 al&sr; <i><aq>a</aq></i> + <i><aq>b</aq></i> &2014; 1 durch
+4 theilbar sind (auf welchen Fall alle &ue;brigen
+leicht zur&ue;ckgef&ue;hrt werden k&oe;nnen), und der Cha-
+racter der Zahl <i>&03B1;</i> + <i>&03D0; <aq>i</aq></i> in Beziehung auf den
+Modulu&sr; <i><aq>a</aq></i> + <i><aq>b i</aq></i> durch <i>&03BB;</i>, hingegen der Cha-
+racter von <i><aq>a</aq></i> + <i><aq>b i</aq></i> in Beziehung auf den Mo-
+dulu&sr; <i>&03B1;</i> + <i>&03D0; <aq>i</aq></i> durch <i>&03B9;</i> bezeichnet wird: so ist
+<i>&03BB;</i> = <i>&03B9;</i>, wenn zugleich eine der Zahlen <i>&03D0;, <aq>b</aq></i> (oder
+beide) durch 4 theilbar ist, hingegen <i>&03BB;</i> = <i>&03B9;</i> &00B1; 2,
+wenn keine der Zahlen <i>&03D0;, <aq>b</aq></i> durch 4 theilbar ist.</p>
+<p>Diese Theoreme enthalten im Grunde alle&sr;
+Wesentliche der Theorie der biquadratischen Reste
+in sich: so leicht e&sr; aber war, sie durch In-
+duction zu entdecken, so schwer ist e&sr;, strenge
+Beweise f&ue;r sie zu geben, besonder&sr; f&ue;r da&sr;
+zweyte, da&sr; Fundamentaltheorem der biquadra-
+tischen Reste. Wegen de&sr; groﬂen Umfange&sr;, zu
+welchem schon die gegenw&ae;rtige Abhandlung an-
+<pb="632"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+gewachsen ist, sah sich der Verfasser gen&oe;thigt,
+die Darstellung de&sr; Beweise&sr; f&ue;r da&sr; letztere
+Theorem, in dessen Besitz er seit 20 Jahren ist,
+f&ue;r eine k&ue;nftige dritte Abhandlung zur&ue;ckzulas-
+sen. Dagegen ist in vorliegender Abhandlung
+noch der vollst&ae;ndige Bewei&sr; f&ue;r da&sr; erstere die
+Zahl 1 + <i><aq>i</aq></i> betreffende Theorem (von welchem
+die anderen f&ue;r 1 &2014; <i><aq>i</aq></i>, &2014; 1 + <i><aq>i</aq></i>, &2014; 1 &2014; <i><aq>i</aq></i> ab-
+h&ae;ngig sind) mitgetheilt, welcher schon einigen
+Begriff von der Verwicklung de&sr; Gegenstande&sr;
+geben kann.</p>
+<p>Wir haben nun noch einige allgemeine An-
+merkungen beyzuf&ue;gen. Die Versetzung der Lehre
+von den biquadratischen Resten in da&sr; Gebiet
+der complexen Zahlen k&oe;nnte vielleicht manchem,
+der mit der Natur der imagin&ae;ren Gr&oe;ﬂen we-
+niger vertraut und in falschen Vorstellungen da-
+von befangen ist, anst&oe;ﬂig und unnat&ue;rlich schei-
+nen, und die Meinung veranlassen, daﬂ die Un-
+tersuchung dadurch gleichsam in die Luft gestellt
+sey, eine schwankende Haltung bekomme, und
+sich von der Anschaulichkeit ganz entferne. Nicht&sr;
+w&ue;rde ungegr&ue;ndeter seyn, al&sr; eine solche Mei-
+nung. Im Gegentheil ist die Arithmetik der
+complexen Zahlen der anschaulichsten Versinnli-
+chung f&ae;hig, und wenn gleich der Verf. in sei-
+ner dieﬂmahligen Darstellung eine rein arithme-
+tische Behandlung befolgt hat, so hat er doch auch
+f&ue;r diese die Einsicht lebendiger machende und
+de&sr;halb sehr zu empfehlende Versinnlichung die
+n&oe;thigen Andeutungen gegeben, welche f&ue;r selbst-
+denkende Leser zureichend seyn werden. So wie
+die absoluten ganzen Zahlen durch eine in einer
+geraden Linie unter gleichen Entfernungen geord-
+nete Reihe von Puncten dargestellt werden, in
+der der Anfang&sr;punct die Zahl 0, der n&ae;chste
+die Zahl 1 u. s. w. vertritt; und so wie dann
+<pb="633"/>
+<kt>64. St., den 23. April 1831.</kt>
+zur Darstellung der negativen Zahlen nur eine
+unbegrenzte Verl&ae;ngerung dieser Reihe auf der
+entgegengesetzten Seite de&sr; Anfang&sr;punct&sr; erfor-
+derlich ist: so bedarf e&sr; zur Darstellung der com-
+plexen ganzen Zahlen nur de&sr; Zusatze&sr;, daﬂ jene
+Reihe al&sr; in einer bestimmten unbegrenzten Ebe-
+ne befindlich angesehen, und parallel mit ihr auf
+beiden Seiten eine unbeschr&ae;nkte Anzahl &ae;hnli-
+cher Reihen in gleichen Abst&ae;nden von einander
+angenommen werde, so daﬂ wir anstatt einer
+Reihe von Puncten ein System von Puncten
+vor un&sr; haben, die sich auf eine zwiefache Art
+in Reihen von Reihen ordnen lassen, und zur
+Bildung einer Eintheilung der ganzen Ebene in
+lauter gleiche Quadrate dienen. Der n&ae;chste
+Punct bey 0 in der ersten Nebenreihe auf der
+einen Seite der Reihe welche die reellen Zahlen
+repr&ae;sentiert, bezieht sich dann auf die Zahl <i><aq>i</aq></i>,
+so wie der n&ae;chste Punct bey 0 in der ersten
+Nebenreihe auf der andern Seite auf &2014; <i><aq>i</aq></i> u. s. f.
+Bey dieser Darstellung wird die Au&sr;f&ue;hrung der
+arithmetischen Operationen in Beziehung auf
+die complexen Gr&oe;ﬂen, die Congruenz, die Bil-
+dung eine&sr; vollst&ae;ndigen System&sr; incongruenter
+Zahlen f&ue;r einen gegebenen Modulu&sr; u. s. f. ei-
+ner Versinnlichung f&ae;hig, die nicht&sr; zu w&ue;nschen
+&ue;brig l&ae;ﬂt.</p>
+<p>Von der andern Seite wird hierdurch die wahre
+Metaphysik der imagin&ae;ren Gr&oe;ﬂen in ein neue&sr;
+helle&sr; Licht gestellt.</p>
+<p>Unsere allgemeine Arithmetik, von deren Um-
+fang die Geometrie der Alten so weit &ue;berfl&ue;-
+gelt wird, ist ganz die Sch&oe;pfung der neuern
+Zeit. Urspr&ue;nglich au&sr;gehend von dem Begriff
+der absoluten ganzen Zahlen hat sie ihr Gebiet
+stufenweise erweitert; zu den ganzen Zahlen sind
+die gebrochenen, zu den rationalen die irratio-
+<pb="634"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+nalen, zu den positiven die negativen, zu den
+reellen die imagin&ae;ren hinzugekommen. Dieﬂ
+Vorschreiten ist aber immer anfang&sr; mit furcht-
+sam z&oe;gerndem Schritt geschehen. Die ersten
+Algebraisten nannten noch die negativen Wurzeln
+der Gleichungen falsche Wurzeln, und sie sind e&sr;
+auch, wo die Aufgabe, auf welche sie sich be-
+ziehen, so eingekleidet vorgetragen ist, daﬂ die
+Beschaffenheit der gesuchten Gr&oe;ﬂe kein Entge-
+gengesetzte&sr; zul&ae;ﬂt. Allein so wenig man in der
+<g>Allgemeinen</g> Arithmetik Bedenken hat, die
+gebrochenen Zahlen mit aufzunehmen, obgleich e&sr;
+so viele z&ae;hlbare Dinge gibt, wobey eine Bruch-
+zahl ohne Sinn ist, eben so wenig durften in
+jener den negativen Zahlen gleiche Rechte mit
+den positiven de&sr;halb versagt werden, weil un-
+z&ae;hlige Dinge kein Entgegengesetzte&sr; zulassen:
+die Realit&ae;t der negativen Zahlen ist hinreichend
+gerechtfertigt, da sie in unz&ae;hligen andern F&ae;l-
+len ein ad&ae;quate&sr; Substrat finden. Dar&ue;ber ist
+man nun freylich seit langer Zeit im Klaren-
+Allein die den reellen Gr&oe;ﬂen gegen&ue;bergestellten
+imagin&ae;ren &2014; ehemal&sr;, und hin und wieder
+noch jetzt, obwohl unschicklich, <g>unm&oe;gliche</g> ge-
+nannt &2014; sind noch immer weniger eingeb&ue;rgert
+al&sr; nur geduldet, und erscheinen also mehr wie
+ein an sich inhaltleere&sr; Zeichenspiel, dem man
+ein denkbare&sr; Substrat unbedingt abspricht, oh-
+ne doch den reichen Tribut, welchen diese&sr; Zei-
+chenspiel zuletzt in den Schatz der Verh&ae;ltnisse
+der reellen Gr&oe;ﬂen steuert, verschm&ae;hen zu wollen.</p>
+<p>Der Verf. hat diesen hochwichtigen Theil der
+Mathematik seit vielen Jahren au&sr; einem ver-
+schiedenen Gesicht&sr;punct betrachtet, wobey den
+imagin&ae;ren Gr&oe;ﬂen eben so gut ein Gegenstand
+untergelegt werden kann, wie den negativen: e&sr;
+hat aber bi&sr;her an einer Veranlassung gefehlt,
+<pb="635"/>
+<kt>64. St., den 23. April 1831.</kt>
+dieselbe &oe;ffentlich bestimmt au&sr;zusprechen, wenn
+gleich aufmerksame Leser die Spuren davon in
+der 1799 erschienenen Schrift &ue;ber die Gleichun-
+gen, und in der Prei&sr;schrift &ue;ber die Umbil-
+dung der Fl&ae;chen leicht wiederfinden werden. In
+der gegenw&ae;rtigen Abhandlung sind die Grund-
+z&ue;ge davon kurz angegeben; sie bestehen in Fol-
+gendem.</p>
+<p>Positive und negative Zahlen k&oe;nnen nur da
+eine Anwendung finden, wo da&sr; gez&ae;hlte ein
+Entgegengesetzte&sr; hat, wa&sr; mit ihm vereinigt
+gedacht der Vernichtung gleich zu stellen ist. Ge-
+nau besehen findet diese Vorau&sr;setzung nur da
+Statt, wo nicht Substanzen (f&ue;r sich denkbare
+Gegenst&ae;nde) sondern Relationen zwischen je
+zweyen Gegenst&ae;nden da&sr; gez&ae;hlte sind. Postu-
+liert wird dabey, daﬂ diese Gegenst&ae;nde auf ei-
+ne bestimmte Art in eine Reihe geordnet sind
+z. B. <i><aq>A</aq>, <aq>B</aq>, <aq>C</aq>, <aq>D</aq></i> ...., und daﬂ die Re-
+lation de&sr; <i><aq>A</aq></i> zu <i><aq>B</aq></i> al&sr; der Relation de&sr; <i><aq>B</aq></i> zu
+<i><aq>C</aq></i> u. s. w. gleich betrachtet werden kann. Hier
+geh&oe;rt nun zu dem Begriff der Entgegensetzung
+nicht&sr; weiter al&sr; <g>der Umtausch</g> der Glieder
+der Relation, so daﬂ wenn die Relation (oder
+der Uebergang) von <i><aq>A</aq></i> zu <i><aq>B</aq></i> al&sr; + 1 gilt, die
+Relation von <i><aq>B</aq></i> zu <i><aq>A</aq></i> durch &2014; 1 dargestellt
+werden muﬂ. Insofern also eine solche Reihe
+auf beiden Seiten unbegrenzt ist, repr&ae;sentiert
+jede reelle ganze Zahl die Relation eine&sr; belie-
+big al&sr; Anfang gew&ae;hlten Gliede&sr; zu einem be-
+stimmten Gliede der Reihe.</p>
+<p>Sind aber die Gegenst&ae;nde von solcher Art,
+daﬂ sie nicht in Eine, wenn gleich unbegrenzte,
+Reihe geordnet werden k&oe;nnen, sondern sich nur
+in Reihen von Reihen ordnen lassen, oder wa&sr;
+da&sr;selbe ist, bilden sie eine Mannigfaltigkeit von
+zwey Dimensionen; verh&ae;lt e&sr; sich dann mit den
+<pb="636"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+Relationen einer Reihe zu einer andern oder den
+Ueberg&ae;ngen au&sr; einer in die andere auf eine
+&ae;hnliche Weise wie vorhin mit den Ueberg&ae;ngen
+von einem Gliede einer Reihe zu einem andern
+Gliede derselben Reihe, so bedarf e&sr; offenbar
+zur Abmessung de&sr; Uebergange&sr; von einem Glie-
+de de&sr; System&sr; zu einem andern auﬂer den vo-
+rigen Einheiten + 1 und &2014; 1 noch zweyer an-
+dern unter sich auch entgegengesetzten + <i><aq>i</aq></i> und
+&2014; <i><aq>i</aq></i>. Offenbar muﬂ aber dabey noch postuliert
+werden, daﬂ die Einheit <i><aq>i</aq></i> allemahl den Ueber-
+gang von einem gegebenen Gliede einer Reihe
+zu einem <g>bestimmten</g> Gliede der unmittelbar
+angrenzenden Reihe bezeichne. Auf diese Weise
+wird also da&sr; System auf eine doppelte Art in
+Reihen von Reihen geordnet werden k&oe;nnen.</p>
+<p>Der Mathematiker abstrahiert g&ae;nzlich von
+der Beschaffenheit der Gegenst&ae;nde und dem In-
+halt ihrer Relationen; er hat e&sr; bloﬂ mit der
+Abz&ae;hlung und Vergleichung der Relationen un-
+ter sich zu thun: insofern ist er eben so, wie er
+den durch + 1 und &2014; 1 bezeichneten Relatio-
+nen, an sich betrachtet, Gleichartigkeit beylegt,
+solche auf alle vier Elemente + 1, &2014; 1, + <i><aq>i</aq></i>
+und &2014; <i><aq>i</aq></i> zu erstrecken befugt.</p>
+<p>Zur Anschauung lassen sich diese Verh&ae;ltnisse
+nur durch eine Darstellung im Raume bringen,
+und der einfachste Fall ist, wo kein Grund vor-
+handen ist, die Symbole der Gegenst&ae;nde an-
+der&sr; al&sr; quadratisch anzuordnen, indem man
+n&ae;mlich eine unbegrenzte Ebene durch zwey Sy-
+steme von Parallellinien, die einander rechtwink-
+lich durchkreuzen, in Quadrate vertheilt, und
+die Durchschnitt&sr;puncte zu den Symbolen w&ae;hlt.
+Jeder solche Punct <i><aq>A</aq></i> hat hier vier Nachba-
+ren, und wenn man die Relation de&sr; <i><aq>A</aq></i> zu
+einem benachbarten Puncte durch + 1 bezeich-
+<pb="637"/>
+<kt>64. St., den 23. April 1831.</kt>
+net, so ist die durch &2014; 1 zu bezeichnende von
+selbst bestimmt, w&ae;hrend man, welche der bei-
+den andern man will, f&ue;r + <i><aq>i</aq></i> w&ae;hlen, oder
+den sich auf + <i><aq>i</aq></i> beziehenden Punct nach Ge-
+fallen <g>recht&sr;</g> oder <g>link&sr;</g> nehmen kann. Die-
+ser Unterschied zwischen recht&sr; und link&sr; ist, so
+bald man vorw&ae;rt&sr; und r&ue;ckw&ae;rt&sr; <g>in</g> der Ebne,
+und oben und unten in Beziehung auf die bei-
+den Seiten der Ebne einmahl (nach Gefallen)
+festgesetzt hat, <g>in sich</g> v&oe;llig bestimmt, wenn
+wir gleich unsere Anschauung diese&sr; Unterschie-
+de&sr; andern <g>nur</g> durch Nachweisung an wirklich
+vorhandenen materiellen Dingen mittheilen k&oe;n-
+nen <fn="*)">Beide Bemerkungen hat schon Kant gemacht, aber
+man begreift nicht, wie dieser scharfsinnige Philo-
+soph in der ersteren einen Bewei&sr; f¸r seine Mei-
+nung, daﬂ der Raum <g>nur</g> Form unserer ‰uﬂern
+Anschauung sey, zu finden glauben konnte, da die
+zweyte so klar da&sr; Gegentheil, und daﬂ der Raum
+unabh‰ngig von unserer Anschauung&sr;art eine reelle
+Bedeutung haben muﬂ, beweiset.</fn>. Wenn man aber auch &ue;ber letztere&sr; sich
+entschlossen hat, sieht man, daﬂ e&sr; doch von
+unserer Willk&ue;hr abhing, welche von den bei-
+den in Einem Puncte sich durchkreuzenden Rei-
+hen wir al&sr; Hauptreihe, und welche Richtung
+in ihr man al&sr; auf positive Zahlen sich bezie-
+hend ansehen wollten; man sieht ferner, daﬂ
+wenn wir die vorher al&sr; + <i><aq>i</aq></i> behandelte Re-
+lation f&ue;r + 1 nehmen will, man nothwendig
+die vorher durch &2014; 1 bezeichnete Relation f&ue;r
++ <i><aq>i</aq></i> nehmen muﬂ. Da&sr; heiﬂt aber, in der
+Sprache der Mathematiker, + <i><aq>i</aq></i> ist mittlere Pro-
+portionalgr&oe;ﬂe zwischen + 1 und &2014; 1 oder ent-
+spricht dem Zeichen &2261; &2014; 1: wir sagen absicht-
+lich nicht <g>die</g> mittlere Proportionalgr&oe;ﬂe, denn
+&2014; <i><aq>i</aq></i> hat offenbar gleichen Anspruch. Hier ist
+<pb="638"/>
+<kt>G&oe;ttingische gel. Anzeigen</kt>
+also die Nachwei&sr;barkeit einer anschaulichen Be-
+deutung von &2261; &2014; 1 vollkommen gerechtfertigt,
+und mehr bedarf e&sr; nicht, um diese Gr&oe;ﬂe in
+da&sr; Gebiet der Gegenst&ae;nde der Arithmetik zu-
+zulassen.</p>
+<p>Wir haben geglaubt, den Freunden der Ma-
+thematik durch diese kurze Darstellung der Haupt-
+momente einer neuen Theorie der sogenannten
+imagin&ae;ren Gr&oe;ﬂen einen Dienst zu erweisen.
+Hat man diesen Gegenstand bi&sr;her au&sr; einem
+falschen Gesicht&sr;punct betrachtet und eine ge-
+heimniﬂvolle Dunkelheit dabey gefunden, so ist
+dieﬂ groﬂentheil&sr; den wenig schicklichen Benen-
+nungen zuzuschreiben. H&ae;tte man + 1, &2014; 1,
+&2261; &2014; 1 nicht positive, negative, imagin&ae;re (oder
+gar unm&oe;gliche) Einheit, sondern etwa directe,
+inverse, laterale Einheit genannt, so h&ae;tte von
+einer solchen Dunkelheit kaum die Rede seyn
+k&oe;nnen. Der Verf. hat sich vorbehalten, den
+Gegenstand, welcher in der vorliegenden Abhand-
+lung eigentlich nur gelegentlich ber&ue;hrt ist, k&ue;nf-
+tig vollst&ae;ndiger zu bearbeiten, wo dann auch
+die Frage, warum die Relationen zwischen Din-
+gen, die eine Mannigfaltigkeit von mehr al&sr;
+zwey Dimensionen darbieten, nicht noch andere
+in der allgemeinen Arithmetik zul&ae;ssige Arten
+von Gr&oe;ﬂen liefern k&oe;nnen, ihre Beantwortung
+finden wird.</p>
+<pb>
+<pb>
+<pb>

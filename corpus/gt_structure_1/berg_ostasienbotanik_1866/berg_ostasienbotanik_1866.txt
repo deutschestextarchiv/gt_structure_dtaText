@@ -1,0 +1,3440 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b>DIE
+PREUSSISCHE EXPEDITION</b>
+NACH
+<b>OST-ASIEN.
+<g>NACH AMTLICHEN QUELLEN</g>.
+BOTANISCHER THEIL.
+DIE TANGE.</b>
+MIT VIII ILLUSTRATIONEN.
+BEARBEITET VON GEORG v. MARTENS.
+<abb>
+<b>BERLIN MDCCCLXVI.</b>
+VERLAG DER KÖNIGLICHEN GEHEIMEN OBER-HOFBUCHDRUCKEREI
+(R. v. DECKER).</front>
+<pb>
+<pb>
+<con><c><b>INHALT.</b></c>
+<hr>
+Seite
+Einleitung _ _ 3
+I. Tange aus dem atlantischen Weltmeer _ _ 4
+1. Zu Portsmouth gesammelt _ _ 4
+2. Auf Madeira gesammelt _ _ 5
+3. Die Krautsee (Sargasso) _ _ 7
+Verzeichniss der im Sargasso lebenden Thiere _ _ 9
+4. In Rio Janeiro gesammelt _ _ 15
+5. In der Simonsbai am Cap gefunden _ _ 17
+II. Gebiet des indischen und stillen Weltmeeres innerhalb der Wendekreise _ _ 19
+1. Tange des süssen Wassers _ _ 19
+2. Tange des Meeres _ _ 21
+Ausdehnung und Eintheilung des Gebiets _ _ 34. 35
+Alphabetische Liste der einzelnen Finder _ _ 35
+Fälschlich aus dem Gebiet angegebene Arten _ _ 38
+Rumph&2019;s Nachrichten über indische Tange _ _ 42
+Blanco&2019;s Nachrichten über philippinische Tange _ _ 44
+Uebersicht der bis jetzt bekannten indischen und polynesischen Tange _ _ 50
+Allgemeine Bemerkungen über dieselben _ _ 104
+III. Gebiet des nordchinesischen und japanischen Meeres vom Wendekreise
+bis 45° Nordbreite _ _ 111
+1. Tange des süssen Wassers _ _ 111
+2. Tange des Meeres _ _ 112
+Fälschlich aus dem Gebiet angegebene Arten _ _ 120
+Angaben der japanischen Encyclopädie über Tange _ _ 120
+Uebersicht der bis jetzt aus Japan und dem nördlichen China be-
+kannten Tange _ _ 125
+Allgemeine Bemerkungen darüber _ _ 135
+Nutzen der Algen für Thiere und Menschen _ _ 137
+Anhang. Einige weitere auf der Expedition gesammelte Wasserpflanzen.
+a) Süsswasserpflanzen _ _ 143
+b) Meer-Phanerogamen _ _ 144
+Nachträge _ _ 146
+Tafel-Erklärung _ _ 147
+Register der botanischen Namen _ _ 149
+Einheimische Trivialnamen _ _ 152</con>
+<hr>
+<pb>
+<pb>
+<d1><b>DIE TANGE.</b>
+<hr>
+BEARBEITET
+VON
+D<up>R</up>. GEORG VON MARTENS.</d1>
+<hr>
+<bs>Ost-Asien. Botanisch I. 1</bs>
+<pb>
+<pb>
+<p><in>I</in>ndem mein Sohn Eduard, als Zoolog der Expedition, sich viel mit
+den Meerthieren und deren örtlichem Vorkommen beschäftigte, liess
+er dabei die Meerpflanzen, für welche er schon früher, durch mein
+Beispiel angeregt, Interesse gewonnen hatte, nicht unberücksichtigt;
+sein oftmaliger Zimmergenosse, <g>Otto Schottmüller</g> (gestorben
+den 1. December 1864 zu Berlin), welcher im Interesse der botani-
+schen Gärten die Reise mitmachte, unterstützte ihn hierin vielfach.
+und diesem verdanken wir namentlich alle im nördlichsten China
+und den grösseren Theil der bei Nangasaki gesammelten Algen, da
+die Fregatte Thetis die erstere Gegend gar nicht, den zweiten Ort
+nur auf kürzere Zeit besuchte.</p>
+<p>Einige weiteren Algen lieferten der vorzugsweise von den
+Landpflanzen in Anspruch genommene Botaniker der Expedition,
+Herr Regierungsrath <g>Wichura</g>, und der Geognost Freiherr <g>von
+Richthofen</g>.</p>
+<p>In der hier folgenden Zusammenstellung des Gesammelten
+sind die Namen der einzelnen Finder durch ihre Anfangsbuchstaben
+angedeutet.</p>
+<p>Geordnet und benannt habe ich die ganze Sammlung, bei
+aller Achtung für die verdienstvollen Arbeiten der berühmten
+Algologen Jacob Agardh, Camille Montagne und Wilhelm Harvey,
+nach des unermüdlich thätigen Professors Fr. Tr. Kützing Species
+Algarum, Lipsiae 1849, 8., als dem letzten und vollständigsten,
+das ganze Reich der Algen umfassenden Werke, wobei ich mich
+des thätigen Beistandes meines scharfsichtigen und geistreichen
+Freundes, Finanzrath Gustav <g>Zeller</g>, erfreuen durfte.</p>
+<p>Die reiche Ausbeute aus der grossen Unterclasse der Diatomeen
+wurde einem anderen Bearbeiter anvertraut, die zweifelhaften Myco-
+phyceen und die beinahe ausschliesslich im süssen Wasser lebenden
+Chamaephyceen blieben aus dem einfachen Grunde weg, weil nichts
+in diese beiden Unterordnungen Gehöriges mitgebracht wurde.</p>
+<hr>
+<bs>1*</bs>
+<pb>
+<d1><b>I.
+IM ATLANTISCHEN WELTMEER.</b></d1>
+<hr>
+<d2>1. Zu Portsmouth.</d2>
+<p><g><in>C</in>ladophora rupestris</g> L., Kg. S.
+<g>Cladostephus Myriophyllum</g> Ag. M. S.
+<g>Ozothallia vulgaris</g> Decaisne (Fucodium nodosum J. Ag.) M. S.
+<g>Fucus serratus</g> L. S.
+<g>Halidrys siliquosa</g> Lyngbye M. S.
+<g>Corallina officinalis</g> L. M.
+<g>Jania corniculata</g> L., Lamouroux. M. S.
+<g>Chondrus crispus &03B4; patens</g> Turn. M.
+&2014; &2014; &03B7; <g>lacerus</g> Turn. S.
+<g>Furcellaria fastigiata</g> Lx. M.
+<g>Sphaerococcus palmatus</g> L., Kg. (Rhodymenia palmata Gre-
+ville), an den Needles der Insel Wight, M.
+&2014; &2014; &03B4; <g>marginifer</g> Ag. M.
+<g>Phyllotylus membranifolius</g> Goods., Kg. (Phyllophora mem-
+branifolia J. Ag.) M.
+<g>Halopitys pinastroides</g> Gmel., Kg.
+<g>Phyllacantha fibrosa</g> Huds., Kg. Brook auf Wight.</p>
+<p>Nur dreizehn Meergewächse aus einer der durchforschtesten
+Gegenden der Erde, aber hinreichend, um selbst am südlichsten
+England den nordischen Charakter der britischen Algenflora hervor-
+zuheben.</p>
+<p>Während mehr als die Hälfte dieser Algen bis über den
+Polarkreis hinaufgeht, befinden sich die meisten schon in der Nähe
+ihrer südlichen Gränze; Cladophora rupestris, Ozothallia vulgaris,
+Fucus serratus, Halidrys siliquosa, Corallina officinalis, Chondrus
+crispus und Furcellaria fastigiata gedeihen noch an Finnmarkens
+beeisten Küsten, der essbare Sphaerococcus palmatus sogar an
+<pb="5"/>
+<kt>Tange von Portsmouth und Madeira.</kt>
+denen von Spitzbergen. Phyllotylus membranifolius findet sich noch
+bei Island, Halopitys pinastroides an den Faröern.</p>
+<p>Nur zwei, Cladostephus Myriophyllum und Jania corniculata,
+haben schon in Grossbritannien ihre Nordgränze, während nach
+Süden zwar alle noch an der gegenüberliegenden Küste Frankreichs
+gedeihen, aber beinahe die Hälfte, Cladophora rupestris, Fucus
+serratus, Furcellaria fastigiata, Sphaerococcus palmatus und Phyllo-
+tylus membranifolius, die Mündung der Garonne nicht überschreitet.</p>
+<p>Halidrys siliquosa und Jania corniculata erhielt ich von Biariz,
+Ozothallia vulgaris auch von den Azoren, den gebleicht unter seinem
+irischen Namen Carrageen in die Apotheken wandernden Chondrus
+crispus gibt Turner bei Gibraltar an, aber nur drei, Cladostephus
+Myriophyllum, Corallina officinalis und Halopitys pinastroides, treten
+in das mittelländische Meer ein, keine erreicht die kanarischen
+Inseln.</p>
+<d2>2. Madeira.</d2>
+<p><k>Madeira</k> (Funchal 32° 38&2032; N. Br., 16° 56&2032; W. L.), die erste
+Station der Reise, lieferte eben so viele, aber lauter andere Algen:
+<g>Phycoseris lobata</g> Kg., in der Zone der Corallina, M.
+<g>Enteromorpha complanata</g> Kg., M. und
+&2014; <g>Jürgensii</g> Kg., M., beide bei San Vincente, an der Nord-
+seite der Insel, während der Ebbe im Trocknen.
+&2014; <g>fucicola</g> Kg., M. und
+<g>Valonia incrustans</g> Kg., beide daselbst die Patellen über-
+ziehend.
+<g>Cystosira pumila</g> Mont., nur drei Zoll lang, obgleich voll
+Früchte, M.
+<g>Trichoceras pubescens</g> Kg. Funchal an der folgenden, M.
+<g>Corallina Calvadosii</g> Lx., M.
+<g>Caulacanthus fastigiatus</g> Kg., M.
+<g>Gelidium corneum &03C0; heterophyllum</g> Clemente, M.
+<g>Polysiphonia obscura</g> J. Ag. San Vincente, M.
+<g>Laurencia pinnatifida</g> Gmel., Lx., daselbst, M.
+<g>Lomentaria articulata</g> Huds., Lgb., ebendaselbst, M.</p>
+<p>Die genannten Florideen, so wie die kleine Cystosira, fanden
+sich alle in der Nähe des tiefsten Wasserstandes, an Klippen, am
+zahlreichsten und geselligsten die Corallina.</p>
+<p>Während man von den Azoren, vorzüglich durch Karl
+<pb="6"/>
+<kt>Früher bekannte Tange von Madeira.</kt>
+Hochstetter&2019;s, in Seubert&2019;s Flora azorica, Bonnae 1844, 4., ver-
+öffentlichte Sammlungen, 48 Algenarten kennt, kannte man bisher
+von dem vielbesuchten Madeira durch Friedrich <g>Holl</g> aus Dresden
+(Regensburger botanische Zeitung 1830, Seite 371), <g>Masson</g> und
+R. <g>Brown</g> (v. Buch, Beschreibung der kanarischen Inseln, S. 199)
+nur folgende mit den Anfangsbuchstaben der Finder bezeichnete
+20 Arten,</p>
+<li>Nostoc pruniforme Mohr, H.</li>
+<li>Sirosiphon panniforme Kg., H.</li>
+<li>Chroolepus aureum Kg., M. et B.</li>
+<li>Stypocaulon scoparium M. et B.</li>
+<li>Phycoseris australis &03B2; umbilicalis Kg., M. et B.</li>
+<li>Valonia utricularis Ag., H.</li>
+<li>Dasycladus clavaeformis Ag., H.</li>
+<li>Liagora distenta Lx., H.</li>
+<li>Chorda Filum &03B6; lomentaria Lgb., H.</li>
+<li>Stypopodium flavum Kg.</li>
+<li>Dictyota intricata Kg., H.</li>
+<li>Zonaria pavonia Ag., H.</li>
+<li>Cystosira abrotanifolia Ag., H.</li>
+<li>Sargassum bacciferum Ag., M. et B.</li>
+<li>Trichoceras pubescens Kg., Tab. phyc. Vol. XII., Tab. 85, Fig. 2.</li>
+<li>Porphyra vulgaris Ag., M. et B.</li>
+<li>Caulacanthus fastigiatus Kg.</li>
+<li>Hypnea musciformis Lx., M. et B.</li>
+<li>&2014; spinella Kg., H. und</li>
+<li>Sphaerococcus confervoides Ag., M. et B.</li>
+<p>so dass die Zahl der Algen von Madeira nun um ein Dritttheil ver-
+mehrt wurde, da unter den von meinem Sohne gesammelten sich
+nur zwei früher schon bekannte befinden; ein Fingerzeig, wie viel
+noch zu finden sein mag.</p>
+<p>Auffallend ist die Uebereinstimmung der Algenflora von
+Madeira mit der mittelländischen, von den früher bekannten 20
+kommen 17, meist sehr häufig, im Mittelmeere vor, und von den
+neu mitgebrachten 11 doch 8. Es fehlen nämlich im Mittelmeere
+das auch nicht bei Madeira wachsende Sargassum bacciferum, das
+bis jetzt dieser Insel eigenthümliche Trichoceras pubescens und die
+einzige westindische Art, Hypnea spinella. Die übrigen sind schwer
+zu erkennende, bisher nur von der Stelle, wo sie entdeckt wurden,
+<pb="7"/>
+<kt>Aussehen und Verbreitung des Sargassum.</kt>
+bekannte Seegewächse: Enteromorpha Jürgensii von der deutschen
+Küste der Nordsee, Gelidium corneum &03C0; heterophyllum von Cadix
+und Cystosira pumila von den Canarien.</p>
+<p>Ein zweiter Zug dieser Flora ist die Kleinheit aller gefundenen
+Algen; von den neu mitgebrachten erreicht keine einzige die Länge
+einer Spanne, und auch unter den früheren befinden sich kaum
+drei oder vier, welche möglicherweise dieses Maass um etwas
+übersteigen könnten. Die frühe Jahreszeit, 30. März bis 12. April,
+kann nicht ein Grund dafür sein, da in Portsmouth viel grössere
+Algen noch früher gefunden wurden, eher theilweise die heftige
+Brandung des weiten Oceans bei gänzlichem Mangel an geschützten
+Buchten und der geringe Wechsel von Ebbe und Fluth.</p>
+<d2>3. Die Krautsee.</d2>
+<p>In offener See traf die Thetis auf der Heimfahrt unter 21°
+N. Br. und 37° W. L. von Greenwich auf den schwimmenden
+Traubentang, <g>Sargassum bacciferum</g> Ag., Fucus natans L.,
+ästig, ohne Wurzel oder Anheftungsscheibe, mit glattem, stiel-
+rundem, &frac12;&2014;1 Fuss langem Stengel, eine halbe bis ganze Linie
+breiten, 1&2014;2 Zoll langen, scharf gezähnten Blättern, gestielten,
+kugelrunden, mit Luft gefüllten Blasen von der Grösse eines Hasen-
+schrotes oder kleiner Erbsen und ohne die geringste Spur von
+Früchten, die Farbe des alten Laubes fuchsbraun, der neuen durch-
+scheinenden Triebe bleich olivenfarbig, getrocknet Alles dunkelbraun.</p>
+<p>Nach Burmeister&2019;s Beobachtungen stehen die einzelnen Büsche
+senkrecht mit dem Ende des Stammes nach unten, die Zweige schief
+aufsteigend, so dass sie mit einander einen Trichter im Wasser bil-
+den und ihre Spitzen auf der Oberfläche einen Kreis. Die Pflanze
+ist sammt ihren Bewohnern schwerer als das Wasser, wird nur
+durch ihre Blasen getragen und sank unter, als Ruiz solche ab-
+gepflückt hatte.</p>
+<p>Diese berühmteste, vielbesprochenste aller Algen trifft der
+Seefahrer zwischen dem 19. und 45. Grad N. Br. von 39° bis 74°
+W. L. von Ferro auf einer Oberfläche, welche die von Deutschland
+sechsmal übertrifft, an wechselnden Stellen in unabsehbar langen,
+10&2014;20 Ellen breiten Reihen schwimmend an, eine Erscheinung,
+welche schon im Alterthum bekannt war. Humboldt hat in seinen
+Ansichten der Natur, 3. Ausgabe, Bd. I., S. 80&2014;82, die auf uns
+gekommenen dunkeln Nachrichten hierüber zusammengestellt.</p>
+<pb="8"/>
+<kt>Name Sargassum; sein Wachsthum.</kt>
+<p>Helleres Licht verbreitete Columbus, welcher den 16. Septem-
+ber 1492 im 28° 30&2032; N. Br., 1493 im 37°, jedesmal zwischen 58 und
+61° W. L., diese Tang-Ansammlungen durchschnitt. Die Portugiesen,
+Entdecker der Azoren, nannten diese Gegend &00BB;O mar de Sargasso&00AB;
+und erneuerten die alte Sage von schwimmenden Wiesen, welche
+die Schiffe im Lauf aufhielten, wie die Remora. Jener Name hat
+in den Sprachen der iberischen Halbinsel keine Wurzel und ist
+wahrscheinlich das durch die häufig vorkommende Versetzung des r
+veränderte deutsche Wort Seegras. <fn="*)">Rumph, Herbarium Amboinense, vol. VI., um 1699 geschrieben, gebraucht
+den Ausdruck sargasso speciell für die riemenähnliche Himanthalia lorea L. sp. von
+der portugiesischen Küste und unterscheidet den schwimmenden Tang davon als
+Sargassum pelagium; ältere holländische Schriftsteller haben die Form sargassa oder
+sargossa. Schon Rumph protestirt mit Recht gegen die Annahme, dass er in der
+Tiefe wachse.</fn> Die Engländer bezeichnen
+den schwimmenden Traubentang mit dem Namen Seaweed und
+Gulfweed, die Holländer vergleichen ihn mit den in Holland die
+Canäle bedeckenden Wasserlinsen und nennen ihn Zee-Kroost,
+deutsche Seefahrer sprechen jetzt von der Krautsee.</p>
+<p>Dass dieser Tang ursprünglich an Felsen wachse, beweist
+schon sein ganzer Bau und noch entcheidender der Umstand, dass
+er, wie alle höheren Algen, im schwimmenden Zustande zwar neue
+Zweige, Blätter und Blasen entwickelt, aber eben so wenig, als die
+in blossem Wasser gezogenen Phanerogamen, zur Fruchtbildung zu
+gelangen vermag. Meyen&2019;s Angabe, dass diese Alge ursprünglich
+unbewurzelt sei, ist unrichtig, zwar erschienen grössere Exemplare
+dadurch, dass ihre Zweige nach allen Seiten strahlen, etwas kugelig,
+aber ich habe Hunderte von Exemplaren in Händen gehabt und an
+jedem die Stelle, wo der Stamm abgebrochen war, so deutlich ge-
+sehen, wie sie auf den Tafeln 23. von Esper und 47. von Turner
+zu sehen ist.</p>
+<p>Einmal abgerissen, treibt er, wie eine Menge anderer Tange,
+fortsprossend, aber fruchtlos auf dem Meere herum und vermehrt sich,
+wie Harvey annimmt, nur dadurch, dass die grösseren Büsche bei
+Stürmen zerreissen und die Bruchstücke weitere junge Zweige treiben.</p>
+<p>Nun entsteht aber die Frage, wo die ursprüngliche Heimath
+dieses Nomaden zu suchen sei?</p>
+<p>Des älteren Agardh&2019;s Annahme, an Ort und Stelle (Species
+Algarum Vol. I., pag. 7), ist unhaltbar, da bis nahe an die Ober-
+<pb="9"/>
+<kt>Thiere im Sargassum.</kt>
+fläche des Meeres reichende Felsen schon längst durch die Brandung,
+welche sie verursachen müssten, entdeckt worden wären, in grösserer
+Tiefe aber keine Alge Schwimmblasen entwickelt, wie Ozothallia
+vulgaris und Halidrys siliquosa beweisen.</p>
+<p>J. Agardh&2019;s Angabe angewachsener und fruchttragender
+Exemplare aus dem Amerika bespülenden Meere (Spec. Fucoid.
+p. 344), schon an sich etwas unbestimmt, scheint mir um so un-
+sicherer, als nach seiner Beschreibung dieser Exemplare solche
+auch im Sinne Kützing&2019;s ein Sargassum wären, während das Aus-
+sehen des schwimmenden Traubentangs entschieden für einen
+Carpacanthus spricht.</p>
+<p>Von sonst an Sargassen häufigen parasitischen Algen, ein-
+schliesslich der Diatomeen, welche mir als Wegweiser hätten dienen
+können, habe ich an Sargassum bacciferum nie die leiseste Spur
+entdecken können, dagegen fand ich die dem Thierreich angehörende
+Bevölkerung dieser schwimmenden Wiesen überraschend zahlreich
+und mannichfaltig. Man beobachtete bis jetzt:</p>
+<d3>1. <g>Fische</g>.</d3>
+<li>1. Antennarius marmoratus Less. sp. = Lophius tumidus L.
+<g>Osbeck</g>, Reise nach China, S. 400 = Chironectes pictus
+var. vittatus Richardson in <g>Ross</g> zool. voy. Ereb. and
+Terror, fishes, p. 15, Taf. 9., Fig. 3., 4.; diese Art ist in
+der Umgränzung, wie sie Dr. Günther catal. acanthopt.
+fishes III., p. 186 annimmt, im atlantischen und indischen
+Ocean weit verbreitet.</li>
+<li>2. Blennius <g>fucorum</g> Gay. Valenciennes hist. nat. des poissons
+XI., p. 263, Taf. 324.</li>
+<li>2b. Blennius <g>oceanicus</g> Gay, l. c. p. 265. <fn="*)">Cyclopterus minutus, Pallas spicilegia zoologica fasc. VII. Taf. 3., Fig. 7&2014;9
+soll auch aus der Krautsee stammen. Die Angabe ist wenig glaublich, da die ganze
+Gattung eine nordische ist und die genannte Art nicht von dem bekannten C. lumpus
+verschieden scheint.</fn></li>
+<li>3. Sygnathus pelagicus Linné, <g>Osbeck</g>. Von Commodore <g>Sun-
+devall</g> und Stabsarzt <g>Johswich</g> auf der Rückfahrt der
+Thetis ebenfalls im schwimmenden Sargasso gesammelt.</li>
+<d3>2. <g>Crustaceen</g>.</d3>
+<li>4. <g>Lupa Sayi</g> Gibbes, Cancer pelagicus Linné ex parte,
+<g>Osbeck, Bosc</g>., Lupa pelagica Say Journal acad. Phila-
+<pb="10"/>
+<kt>Crustaceen im Sargassum.</kt>
+delph. I., p. 97. Lupa hastata (Linné), <g>Burmeister</g>
+Geologische Bilder Bd. II., 1853. Lupa sanguinolenta
+(Herbst), <g>Krauss</g> südafr. Crustaceen p. 11. L. Sayi Gibbes
+Proceed. Am. Association at Charleston 1850, p. 178. <g>Dana</g>
+crustac. I. p. 275. Die Schwimmkrabbe der Krautsee wurde
+fast von jedem der zahlreichen Beobachter anders bestimmt.
+Nach den von Commodore <g>Sundevall</g> auf der Rückkehr
+von der ostasiatischen Expedition aufgefischten Exemplaren
+muss ich mit Dana darin übereinstimmen, dass es eine bis
+jetzt noch nicht anderswo beobachtete Art ist; sie unter-
+scheidet sich von der nächstverwandten, L. sanguinolenta
+Herbst sp. des indischen Oceans, durch verhältnissmässig
+geringere Breite des Brustschildes (Länge zur Breite = 1:0,60,
+bei L. sanguinolenta = 1:0,53), durch geringere Breite und
+minder vorspringende Ecken des drittletzten Abdominal-
+segments beim Männchen und durch constanten Mangel
+der drei die L. sanguinolenta charakterisirenden Augen-
+flecken. <et>(Eduard von Martens.)</et></li>
+<li>5. Planes minutus L. sp., Cancellus marinus minimus quadratus,
+<g>Sloane</g>, Voyage to Jamaica etc. Vol. I. 707, pag. 59;
+Vol. II. 1725, pag. 270, pl. 245., Fig. 1. <g>Osbeck, Dana</g>,
+Grapsus cinereus <g>Say</g> l. c. Nautilograpsus min. Milne
+Edwards hist. nat. crustac. II. pag. 90 und III. pag. 569.
+<g>Goodsir</g> Annals and mag. of nat. hist. XIV. 1845, p. 73,
+Taf. 7., Fig. 1. Nautilograpsus major et N. Smithii <g>Mac-
+leay</g> in A. Smith&2019;s illustrations of South-Africa. Sesarma
+cinerea <g>Burmeister</g> l. c. Eine ausschliesslich pelagische
+Krabbe, auch schon im Mittelmeer auf Seeschildkröten
+beobachtet.</li>
+<li>6. Hippolyte ensifera Milne Edwards, <g>Goodsir</g> Annals and
+magazine of nat. hist. XV. 1845, pag. 74, Taf. 7., Fig. 2.
+(? Ein ähnlicher Krebs mit kleinen Scheerenfüssen am
+ersten und zweiten Paar. <g>Burmeister</g> l. c.) Auch sonst
+im atlantischen Ocean auf hoher See, Reynaud.</li>
+<li>7. Alpheus sp. Burmeister.</li>
+<li>8. Palaemon <g>natator Milne Edwards</g> crustac. II. p. 393,
+<g>Goodsir</g> l. c. Fig. 3., <g>Krauss, Burmeister</g> ll. cc., <g>Dana</g>
+crustacea I. p. 588, Leander erraticus Ann. soc. entomol. de
+France 1849.</li>
+<pb="11"/>
+<kt>Crustaceen und Würmer im Sargassum.</kt>
+<li>8b. Palaemon <g>fucorum</g> Fabricius suppl. entom. syst.# unsichere
+Arten.</li>
+<li>8c. &2014; <g>pelagicus</g> Bosc. hist. nat. crustac.#</li>
+<li>9. Amphitho&00EB; <g>pelagica Goodsir</g> l. c. pag. 75, Fig. 4.</li>
+<li>10. Eine Amphipode aus der Familie der Hyperiidae, <g>Bur-
+meister</g>.</li>
+<li>11. Pontia atlantica Milne Edwards, tief indigoblau, <g>Burmei-
+ster</g>. Auch sonst im atlantischen Ocean.</li>
+<li>12. Lepas anserifera L. <g>Philippi</g> in den Monatsberichten der
+Berliner Akademie 1849.</li>
+<li>12b. &2014; pectinata Spengler = L. sulcata auctorum, <g>Goodsir</g>
+l. c. Fig. 13.</li>
+<li>13. &2014; anatifera L. = Anatifa laevis Brug. Vom Bearbeiter dieser
+Abtheilung schon früher an Exemplaren des Sargassum
+bacciferum bemerkt. Die Arten dieser Gattung wurden
+vor Darwin&2019;s Monographie weniger bestimmt unterschieden,
+daher es nicht vollständig sicher ist, ob die drei genannten
+Beobachtungen wirklich drei verschiedene Arten betreffen.</li>
+<li>14. Cineras virgata Spengler sp. var. C. <g>Olfersii</g> Cranch in
+Narrative of an expedition to the Zaire 1818 p. 412.</li>
+<li>Die genannten Cirripedien, Lepas und Cineras, sind durch
+fast alle Meere verbreitet und finden sich an den ver-
+schiedensten schwimmenden Gegenständen angeheftet, so an
+Schiffen, Seeschildkröten, treibendem Holz.</li>
+<d3>3. <g>Würmer</g>.</d3>
+<li>15. Eine noch nicht wieder erkannte Amphinomee, als Nereis
+crassa O. Fr. <g>Müller</g>, von Würmern des süssen und sal-
+zigen Wassers, 1771 S. 166 beschrieben und Taf. 12. ab-
+gebildet.</li>
+<li>16. Serpula spirorbis Linné = Anatomus indicus <g>Montfort</g>
+conchyliologie systematique II. p. 279. &2014; Georg <g>von Mar-
+tens</g>. Auch in den europäischen Meeren an Tangen häufig.</li>
+<li>17. Planocera <g>sargassicola</g> (Planaria) <g>Mertens</g> Mém. acad.
+sc. Pétersbourg, sixième série Bd. II., Taf. 1., Fig. 4&2014;6. =
+Stylochus Mertensii Diesing systema helminthum I. p. 216.</li>
+<d3>4. <g>Mollusken</g>.</d3>
+<li>18. Ommastrephes <g>laticeps</g> Owen sp. Transact. zool. soc. II.
+1841. pag. 108, Taf. 21., Fig. 6&2014;11.</li>
+<pb="12"/>
+<kt>Mollusken und Bryozoen im Sargassum.</kt>
+<li>19. Philonexis microstomus Orbigny cephalopod. p. 100; 10, 5.</li>
+<li>20. Octopus semipalmatus Owen l. c. p. 111, Fig. 12., 13. =
+Tremoctopus Quoyanus Orb.</li>
+<li>21. Scyllaea pelagica L. <g>Osbeck, Quoy</g> et <g>Gaimard, Cha-
+misso, Rang, Goodsir</g>, ohne Zweifel <g>Burmeister&2019;s</g>
+kleine nackte Schnecke, von der gelben Farbe des frischen
+Tanges. Sonst noch im rothen Meer von Forskal und im
+indischen Ocean unweit Neuholland auf Baudin&2019;s Expedition
+gefunden.</li>
+<li>22. Aeolis <g>annulicornis Chamisso</g> Act. acad. nat. curios.
+Caes. Leop. X. 1821 p. 307.</li>
+<li>23. <g>Fucola rubra Quoy</g> et Gaimard zool. voy. Astrolabe. 21,<do>21</do>.</li>
+<li>24. Aplysia <g>citrina</g> Rang hist. nat. aplysiens p. 71, Taf. 22.,
+Fig. 1., 2. Ebenfalls von der Farbe des frischen Tanges.</li>
+<li>25. Litiopa nitidula Pfr. <g>Tams</g> bei Dunker Mollusken von Guinea
+S. 64. Taf. 26., Fig. 21., 22.</li>
+<li>26. Avicula <g>strix Philippi</g> Zeitschrift für Malakoz. 1849. pag. 22.</li>
+<li>27. Eine kleine Ascidie, <g>Burmeister</g>.</li>
+<d3>5. <g>Bryozoa</g>.</d3>
+<li>28. Membranipora tuberculata, Bosc. sp., <g>Busk</g> Microscopical
+Journal VI. 1858 pag. 126, Taf. 18., Fig. 2. &2014; Flustra
+membranacea (non Müll.) <g>Esper</g> Pflanzenthiere, Flustra
+Taf. 5. &2014; Flustra tuberculata Bosc. hist. nat. des vers III.
+p. 143. &2014; Flustra tubulosa Bosc. ibid. &2014; <g>Lamouroux</g>
+pol. flexibles p. 108? &2014; Escharina tubulosa Milne Edwards
+bei Lamarck an. s. vert. edit. 2., Bd. II. pag. 237? &2014; G.
+v. Martens Etiketten zu Hohenacker&2019;s verkäuflichen Algen
+Nr. 34. &2014; Flustra sp. Burmeister l. c. sehr häufig. &2014; Rio
+Janeiro und im Bereich des Golfstromes bis Madeira ge-
+funden, nicht im nördlichen Theil des atlantischen Oceans
+(Busk), wohl aber auf festgewachsenen Algen von Batavia
+und dem persischen Meerbusen (v. Martens).</li>
+<d3>6. <g>Zoophyten</g>.</d3>
+<li>29. Actinia <g>reclinata Bosc</g>. hist. nat. des vers; <g>Chamisso</g>.</li>
+<li>30. &2014; (Heteractis) <g>hyalina</g> Lesueur Journ. acad. Philadelph. 1817.</li>
+<li>31. Anemonia <g>pelagica Quoy</g> et <g>Gaimard</g> zool. voy. de
+l&2019;Astrolabe Taf. 11., Fig. 10.</li>
+<pb="13"/>
+<kt>Hydroid-Polypen im Sargassum.</kt>
+<li>32. Halecium nanum Alder Ann. and mag. nat. hist. 1859.</li>
+<li>33. Sertularia pumila L. <g>Binder</g> und G. v. <g>Martens</g>. Allgemein
+europäisch, aber auch im südöstlichen Afrika bei Port Natal
+vorkommend.</li>
+<li>34. Sertularia <g>indivisa Meyen</g> Reise um die Erde III. S. 326,
+Taf. 44., Fig. 4&2014;7.; sehr ähnlich der vorigen.</li>
+<li>35. &2014; disticha <g>Bosc</g>. hist. nat des vers, Lamarck an. s. vert.
+ed. 2. &2014; <g>Busk</g> Microscop. Journ. VI. 1858, p. 129, scheint
+auch im rothen Meere vorzukommen, da sie in der De-
+scription de l&2019;Egypte Taf. 14., Fig. 2. abgebildet ist.</li>
+<li>36. &2014; <g>pelagica Bosc</g>. l. c. (Nach Kirchenpauer zur Gattung
+Pennaria gehörig.)</li>
+<li>Diese vier Sertularien stehen bei Lamouroux in der
+Gattung Dinamena.</li>
+<li>37. <g>Plumularia pelagica</g> (Aglaophenia) <g>Lamouroux</g> polypes
+flexibles 1816, G. v. <g>Martens</g>, kaum verschieden von Pl.
+cristata Lam. = pluma L. sp., welche von Südafrika bis
+England verbreitet ist.</li>
+<li>38. Laomedea <g>gracilis</g> Pickering, <g>Dana</g> zoophyt. p. 689, Tab. 61.,
+Fig. 7 = Campanularia <g>Brasiliensis Meyen</g> l. c. S. 322,
+Taf. 42., Fig. 5. Campanularia verwandt mit dichotoma
+<g>Burmeister</g>.</li>
+<li>39. Campanularia clytioides (Tubularia) <g>Lamx, Quoy</g> et <g>Gai-
+mard</g> in Freycinet, voyage de l&2019;Uranie, zoophyt. Taf. 95.,
+Fig. 6&2014;8.</li>
+<li>40. Campanularia volubilis L. sp. G. v. <g>Martens</g>. In der Nord-
+see bis Grönland verbreitet, aber auch an Algen gefunden,
+welche Kotschy an der Insel Karek im persischen Meer-
+busen sammelte (G. v. Martens).</li>
+<li>41. Campanularia <g>gracilis</g> (Silicularia) <g>Meyen</g> Reise III. p. 330,
+Taf. 45. Act. acad. Leop. Carol. nat. curios. XVI. 1834
+Taf. 35. Burmeister. Acrochordium album Meyen ibid. ist
+nach Burmeister der Jugendzustand derselben, und sie
+selbst ist wenig von der vorhergehenden verschieden.</li>
+<li>42. Pasithea quadridentata <g>Lamouroux</g> exposition p. 9, Taf. 15.,
+Fig. g. G.</li>
+<li>43. P. <g>gracilis</g> Dana zoophyt. p. 688, Fig. pag. 25.</li>
+<p>Von diesen 43 Thierarten sind 19 (durch gesperrte Schrift
+ausgezeichnet) bisher nur auf diesem Tang gefunden worden, mehrere
+<pb="14"/>
+<kt>Ursprung des Sargassum.</kt>
+sind Bewohner des indischen Weltmeeres, z. B. Sclylaea pela-
+gica L., Membranipora tuberculata. Diese Membranipora, von allen
+Bewohnern des schwimmenden Traubentangs der häufigste, dessen
+Individuenzahl Burmeister (Reise nach Brasilien S. 514) auf 135 Bil-
+lionen berechnet, erhielt ich an von Kotschy an der Küste der Insel
+Karek im persischen Meerbusen angewachsen gefundenen Exemplaren
+der Sirophysalis virgata und des Carpacanthus herbaceus, in Gesell-
+schaft derselben Clytia volubilis. Setzt man diese Thatsache mit
+Humboldt&2019;s Bemerkung in Verbindung, dass der zwischen Madagaskar
+und der Ostküste von Afrika von Norden nach Süden gerichtete
+Mozambique-Strom sich um die Spitze von Afrika herumwendend der
+Ursprung des für Europa&2019;s Klima so wichtigen Golfstromes sei (Ans. d.
+Natur I. 194), so wird es sehr wahrscheinlich, dass dieser Strom die
+an den arabischen und afrikanischen Küsten des indischen Oceans
+durch Stürme abgerissenen Sargassenzweige mitnehme und an den
+Rändern seines ungeheuren Wirbels<fn="*)">Mein Vater hat diese Ansicht schon 1852 auf den Etiketten zu Hohenacker&2019;s
+verkäuflichen Algen ausgesprochen; auch <g>Maury</g> leitet das Vorkommen des Sargasso
+auf gleiche Weise vom Golfstrom ab, indem er es mit dem Ansammeln schwimmender
+Körper in der Mitte rotirender Flüssigkeiten, als der Stelle geringster Bewegung,
+erklärt. Maury, physical geography of the sea, sixth edition 1860, pag. 8 und
+Taf. VI. (Ed. v. Martens.)</fn> ausstosse, wo sie dann, in
+langen Reihen geordnet, seine oder seiner Gegenwasser Richtung
+bezeichnen, wie die losgerissene schwimmende Valonia aegagropila
+die der Ebbeströmung in den Lagunen von Venedig. Einzelne
+Exemplare werden dann von Stürmen weiter verschlagen und
+gelangen an weit entfernte Küsten; Weststürme sollen sie in Menge
+an der Azoreninsel Flores auswerfen, einzelne stranden an den
+Canarien, Madeira, bei Cadix; Endress fand sie bei Biariz, Jürgens
+bei Wangeroge und Harvey erhielt sie von den Orkneys.</p>
+<p>Auch angeblich aus Ostindien und von der Westküste Neu-
+hollands gekommene Exemplare habe ich erhalten, schwimmend
+angetroffen, mit völlig gleichem Aussehen und gleichen Bryozoen,
+aber nicht aus erster Hand, und es ist mir sehr wahrscheinlich,
+dass solche auf der Reise im atlantischen Ocean gefischt und ohne
+Bezeichnung des Fundortes zu den anderswo gesammelten Algen
+gelegt wurden, da die Naturforscher der preussischen Expedition
+wohl einunddreissig andere Sargassen, nie aber auch nur eine Spur
+von diesem in den ostasiatischen Gewässern angetroffen haben.
+<pb="15"/>
+<kt>Aehnlichkeit mit einem Tang des rothen Meeres.</kt>
+Eben so unwahrscheinlich und zum Theil auf unrichtiger Bestimmung
+beruhend mögen daher die Angaben sein, dass Sargassum bacciferum
+nach Tilesius in der Sundastrasse, nach Turner im stillen Weltmeer,
+nach d&2019;Urville bei Neu-Seeland vorkomme.</p>
+<p>Der Stammvater des schwimmenden Traubentangs wird viel-
+mehr an Afrika&2019;s Ostküste zu suchen sein, von deren innerhalb der
+Wendekreise liegenden Theil aber noch keine Alge nach Europa
+gekommen ist. Bekannter ist das rothe Meer, und hier finden wir
+den Carpacanthus dentifolius Kg., Fucus denticulatus Forskahl, den
+Turner (hist. fuc. I. p. 103) als Synonym seines Fucus bacciferus
+anführt, als den ihm ähnlichsten und nächstverwandten, und zwar
+sehr häufig, so dass er wohl auch von der Mündung des rothen
+Meeres, an der Pforte des Todes weiter heraustretend, in den Be-
+reich des Mozambique-Stromes gelangen könnte. Indessen bestehen
+zwischen beiden immer noch erhebliche Verschiedenheiten, nament-
+lich die gezähnte Blattrippe und die kürzer gestielten, selten be-
+grannten Blasen des C. denticulatus, so dass diese Abstammung
+immer noch zweifelhaft bleibt, wenn man auch annimmt, dass die
+von J. Agardh beschriebene Frucht des S. bacciferum einer andern
+Art angehöre, und Harvey&2019;s sehr richtige Bemerkung (Manual of
+the British Algae p. XVII) in die Wagschale legt, es habe der
+schwimmende Traubentang in seiner unnatürlichen Lage sein Aus-
+sehen verändert, wie sich unter ähnlichen Umständen Ozothallia
+vulgaris zu Ozothallia Mackaji und Fucus vesiculosus zu Fucus
+balticus umgestaltet habe.</p>
+<p>In früheren Zeiten gebrauchten die Portugiesen und Holländer
+diesen Tang als Heilmittel gegen Scorbut und Harnbeschwerden, die
+Nordamerikaner gegen Kröpfe, später wurde Kelp daraus gebrannt,
+jetzt dient er nur noch als eine dem Reisenden stets erwünschte
+Abwechselung des einförmigen Schifflebens. Die Hühner picken seine
+Blasen ab, können sie aber nicht verdauen und kommen dadurch um.</p>
+<d2>4. Rio Janeiro.</d2>
+<p><k>Rio Janeiro</k>, an der Südgränze des tropischen Amerika&2019;s
+unter 22° 54&2032; S. Br. und 43° 16&2032; W. L., war die zweite Station
+unserer Seefahrer.</p>
+<p>Hier fand Schottmüller an den feuchten Felsen des viel-
+besuchten Berges o Corcovado &00BB;der Bucklichte&00AB; die erste Landalge,
+das von Sellow in Brasilien entdeckte <g>Chroolepus villosum</g> Kg.,
+<pb="16"/>
+<kt>Tange von Rio Janeiro.</kt>
+mein Sohn in einem Brunnen der Tejuca die <g>Spirogyra tro-
+pica</g> Kg.</p>
+<p>Im Salzwasser fanden sich:</p>
+<p><et><g>Cladophora brasiliana</g> n. sp. Taf. III. Fig. 2. pollicaris, di-
+trichotome divaricatim ramosa, bicolor, ramis primariis atro-
+virentibus 1/36&2034;, secundariis flavescentibus 1/80&2014;1/100&2034; crassis;
+articulis teretibus, primariis diametro 6&2014;8plo, ramulorum ad
+10plum longioribus, ramellis elongatis, flagelliformibus, atte-
+nuatis.</et></p>
+<p><et>In dem Brackwasser der Lagoa Rodriguez bei dem
+botanischen Garten, der Cl. fracta am nächsten verwandt,
+in der Färbung der Cl. dichlora (Kützing, Sp. Alg. p. 413)
+ähnlich. Die schwarzen Fäden scheinen alte, halb ab-
+gestorbene, die grünlichgelben, viel dünneren, halbdurch-
+sichtigen, von jenen proliferirte Zweige zu sein. M.</et></p>
+<li><g>Phycoseris australis &03B2; umbilicalis</g> Kg., M.</li>
+<li>&2014; <g>fasciata</g> Kg., M.</li>
+<li><g>Enteromorpha complanata</g> Kg., M.; mit den vorhergehen-
+den, oberhalb der Gränze des tiefsten Wasserstandes, auf
+Steinen innerhalb der Stadt.</li>
+<li><g>Codium tomentosum &03B3; divaricatum</g> Ag., M.</li>
+<li>&2014; <g>elongatum</g> Ag., S.</li>
+<li><g>Dictyota indica</g> Sonder, M.</li>
+<li><g>Haliseris Justii</g> Ag., M.</li>
+<li><g>Zonaria tenuis</g> Mont., Kg., M.</li>
+<li><g>Sargassum cymosum</g> Ag. = stenophyllum Martius M., S.</li>
+<li><g>Centroceras micracanthum</g> Kg., M.</li>
+<li><g>Amphiroa exilis</g> Harv., M., S.</li>
+<li><g>Hypnea musciformis</g> Wulf., Lx., M.</li>
+<li><g>Acrocarpus crinalis</g> Turn., Kg., M.</li>
+<li><g>Gelidium multifidum</g> Grev., M.</li>
+<li><g>Acanthophora Thierryi</g> Lx., M.</li>
+<li><g>Plocamium coccineum</g> Huds., Lgb., M.</li>
+<p>Die Mehrzahl der genannten Fucoideen und Florideen wurde
+am Strande bei Praya grande aufgelesen.</p>
+<p>Neunzehn Arten, von welchen nur zwei, Enteromorpha com-
+planata und Plocamium coccineum, auch in der Nordsee vorkommen,
+zehn aber im mittelländischen Meer, nämlich die zwei eben genannten,
+dann die beiden Phycoseris- und die beiden Codium-Arten, Zonaria
+<pb="17"/>
+<kt>Verbreitung der brasilianischen Tange.</kt>
+tenuis, nach J. Ag. (Spec. Alg. II. 535), die auch am Cap vorkom-
+mende Amphiroa exilis, endlich die weitverbreiteten Hypnea musci-
+formis und Acrocarpus crinalis.</p>
+<p>Von den neun übrigen ist Acanthophora Thierryi eine tropische,
+zwischen den Wendekreisen in allen Meeren häufige Alge, ausserhalb
+derselben aber nur um einen Grad nördlicher an der Südspitze von
+Florida von Tuomey und Harvey entdeckt, im Mittelmeer durch die
+nahe verwandte, von Delile bei Alexandrien entdeckte Acanthophora
+Delilei vertreten, deren äusserste Gränzen bis jetzt nach Osten
+Smyrna, nach Westen Trapani und nach Norden Civita-vecchia sind.
+Dass letztere im rothen Meere vorkomme, ist unrichtig, dass solche
+im schwarzen Meere gefunden worden sei, unwahrscheinlich.</p>
+<p>Spirogyra tropica, Dictyota indica, Haliseris Justii und
+Sargassum cymosum hat Brasilien mit Westindien gemein, Chroo-
+lepus villosum, Cladophora brasiliana, Centroceras micracanthum
+und Gelidium multifidum sind bis jetzt Eigenthümlichkeiten dieses
+Kaiserreiches.</p>
+<p>Auch diese Algen gehören ohne Ausnahme zu den kleinen,
+die grössten davon, Codium elongatum und Sargassum cymosum,
+fand man hier kaum acht Zoll lang.</p>
+<d2>5. Simonsbai am Cap.</d2>
+<p>Auf der Heimkehr ging die Thetis in der Simonsbai der Cap-
+Colonie, 34° S. Br., 18° 30&2032; O. L., vor Anker, und Schottmüller
+benutzte den kurzen Aufenthalt daselbst unter Anderem auch zur
+Aufsuchung von Meergewächsen.</p>
+<p>Gefunden wurden:</p>
+<li><g>Carpacanthus incisifolius</g> Turn., Kg.</li>
+<li><g>Ceramium capense</g> Kg.</li>
+<li><g>Porphyra capensis</g> Kg.</li>
+<li><g>Corallina flabellata</g> Kg.</li>
+<li><g>Gelidium vittatum</g> L., Kg. = Suhria vittata J. Ag.</li>
+<p><et>&2014; <g>pristoides</g> Turn., Kg. = Suhria pristoides J. Ag., von grüner
+Farbe, weil auf der ersten Stufe der Ausbleichung. Die Sonne
+hatte bereits die purpurrothe Farbe der Alge vertilgt, aber
+noch nicht die derselben beigemischte, dem Sonnenschein
+länger widerstehende grüne, welche dagegen bei dem
+Trocknen für das Herbar bald entweicht, wodurch die
+purpurne schöner hervortritt.</et></p>
+<bs>Ost-Asien. Botanisch. I. 2</bs>
+<pb="18"/>
+<kt>Tange vom Cap.</kt>
+<p><et><g>Polysiphonia complanata</g> Spr.</et></p>
+<p><et><g>Thamnocarpus cornutus</g> Kg.</et></p>
+<p>Acht Arten, keine davon in der nördlichen Hemisphäre vor-
+kommend, übrigens alle wohlbekannte Südafrikaner, da die durch
+Reichthum und Schönheit besonders anziehende Algenflora des
+Caplandes, durch Harvey, andere berühmte Reisende und zahlreiche
+Missionäre durchforscht, zu den bekanntesten der Erde gehört.</p>
+<p>Lieferte aber auch diese kleine Algenzahl keinen Beitrag zur
+Kenntniss der geographischen Vertheilung der Gewächse des Meeres,
+so hat sie uns durch die daran klebenden Exemplare einer wunder-
+schönen Diatomee überrascht und erfreut; zahlreiche, kleinen Sand-
+körnern ähnliche, helle Puncte verklärten sich unter dem Mikroskop
+zu den prächtigen runden Scheiben des das Andenken an seinen
+berühmten Entdecker bewahrenden <g>Arachnodiscus Ehren-
+bergii</g> Bailey.</p>
+<hr>
+<pb>
+<d1><b>II.
+GEBIET DES INDISCHEN UND STILLEN WELTMEERES
+INNERHALB DER WENDEKREISE.</b></d1>
+<hr>
+<p><in>I</in>n diesem bisher nur an wenigen Stellen und auch da sehr unvoll-
+ständig durchforschten Gebiete besuchten die Naturforscher auf der
+Thetis vom 25. Juli 1860 bis in den April 1862 Java, Singapore,
+Siam, Makao, Hongkong, die Philippinen und Makassar.</p>
+<p>Mein Sohn trennte sich am 16. März 1862 in Singapore von
+seinen Reisegefährten, besuchte die vier grossen Sunda-Inseln, die
+Molukken und Timor in Neuhollands Nähe, endlich Ceylon und
+verliess erst am 27. Juli 1863 bei Aden das uns beschäftigende
+Gebiet.</p>
+<p>Gefunden und mitgebracht wurden:</p>
+<d2>1. Tange des süssen Wassers.</d2>
+<li><g>Lyngbya majuscula</g> Dillw., Harvey, auf Celebes ohnweit Ma-
+kassar, an den Wasserfällen bei Maros, der Stelle, wo
+Zollinger sie gefunden hatte. M.</li>
+<li>&2014; <g>fluviatilis</g> n. sp. Taf. III., Fig. 5., strato cespitoso laxe intri-
+cato obscure caerulescente-viridi, filis capillaceis flexuosis
+cum vagina tenui hyalina 1/90&2014;1/75&2034; crassis, articulis dia-
+metro 8&2014;5plo brevioribus.</li>
+<li>Nordwest-Borneo im Flusse Sambas, 1° N. Br., theils
+den Schlamm überziehend, theils im Sonnenschein langsam
+schwimmend. M.</li>
+<li><g>Ulothrix Zelleri</g> n. sp. Taf. I., Fig. 4., filis simplicibus laete
+viridibus mucosis, articulis diametro (1/50&2014;1/64&2034;) 7&2014;8plo
+brevioribus. Die mit einzelnen dunkleren untermengten leb-
+<bs>2*</bs>
+<pb="20"/>
+<kt>Süsswassertange des indischen Archipels.</kt>
+haft grünen Glieder erscheinen als schmale, im Schlauche
+eingeschlossene Scheiben, wie Geldstücke in einer Rolle.</li>
+<li>Im Festungsgraben von Palembang im südöstlichen
+Sumatra, vermengt mit Cladophora sumatrana und der
+niedlichen, gleich Wasserlinsen schwimmenden Azolla de-
+composita Zollinger. M.</li>
+<li><g>Confervae (Oedogonium?) Cladophorae</g> n. sp., Taf. I. Fig. 2.,
+filis simplicibus, radicatis, viridibus, articulis inaequalibus
+diametro (1/150&2014;1/180&2034;) 2&2014;4plo longioribus. Sitzt mittelst einer
+kleinen Scheibe fest auf den viel dickeren Fäden der Clado-
+phora sumatrana; die Glieder sind häufig, besonders die
+unteren, kürzeren, nach oben becherförmig erweitert.</li>
+<li>Im Festungsgraben von Palembang. M.</li>
+<li><g>Cladophora sumatrana</g> n. sp. Taf. II., Fig. 2., setacea, vage
+ramosa, diffusa, flavescente-viridis, filis primariis 1/15&2034;, ramis
+patentibus elongatis obtusis 1/30&2034; crassis, articulis diametro
+16&2014;6plo longioribus, exsiccatis teretibus.</li>
+<li>Im Festungsgraben von Palembang. M.</li>
+<li>&2014; <g>tondanensis</g> n. sp., Taf. II., Fig. 4., setacea, vage ramosa,
+flaccida, usque pedalis, intense viridis; filis primariis 1/10&2014;1/14&2034;,
+ramis patentibus elongatis obtusis 1/30&2014;1/40&2034; crassis; articulis
+primariis diametro 6&2014;3plo, ramulorum 4&2014;3plo longioribus,
+interdum tumidulis, exsiccatis teretibus.</li>
+<li>Im Binnensee von Tondano auf der nördlichsten Halbinsel
+von Celebes, 1° N. Br. Der Cl. Roettleri Kg. am nächsten
+verwandt, aber die Glieder kürzer und nicht so ungleich. M.</li>
+<li>&2014; <g>diluta</g> n. sp., Taf. II., Fig. 5., cespitosa, setacea, spithamea, vage
+ramosa, flaccida, dilute viridis; filiis primariis 1/12&2014;1/15&2034;, ramellis
+crebris abbreviatis divaricatis attenuatis 1/40&2014;1/45&2034; crassis;
+articulis clavatis, inferioribus diametro 3&2014;2plo, superioribus
+6&2014;5plo longioribus, exsiccatis saepe alternatim compressis.</li>
+<li>Auf der Philippinen-Insel Luzon im Flusse bei San
+Mateo ohnweit Manila. Der Cl. strepens Kg. am nächsten
+stehend. M.</li>
+<li>&2014; <g>luzoniensis</g> n. sp., Taf. III., Fig. 3., capillaris, uncialis, vage
+ramosa; filis primariis 1/34&2034;, ramellis elongatis gracillimis 1/50&2034;
+crassis; articulis inferioribus diametro 6&2014;4plo longioribus,
+superioribus paulo brevioribus.</li>
+<li>Mit der vorhergehenden. M.</li>
+<pb="21"/>
+<kt>Süsswasser- und Meer-Conferven.</kt>
+<li><g>Spirogyra nitida</g> Dillw., Kg. Singapore. M.</li>
+<li>&2014; <g>atroviolacea</g> n. sp., Taf. III., Fig. 6., articulis diametro (1/80&2034;) 15
+ad 8plo longioribus, spiris vel fasciis spiralibus duabus laxis.</li>
+<li>Der Gruppe der Sp. decimina angehörend, bildet, in
+Wassergräben schwimmend, schwärzliche Wolken, mit der
+Hand aufgefischt, schlüpfrig wie Eiweiss abfliessend.</li>
+<li>Mandhor in der Nähe des Aequators im nordwestlichen
+Borneo. M.</li>
+<li><g>Zygnema tropicum</g> n. sp., Taf. I., Fig. 7., articulis diametro
+(1/120&2014;1/100&2034;) 2&2014;6plo, plerumque 3&2014;4plo, longioribus; globulis
+non dentatis; spermatiis elliptico-globosis.</li>
+<li>Rostbraune schlüpfrige Flocken im austrocknenden Wasser
+zwischen Lumar und Sepang im chinesischen District von
+Nordwest-Borneo. M.</li>
+<li><g>Zygogonium javanicum</g> n. sp. Taf. III., Fig. 4., gracile, triun-
+ciale, atroviolaceum, articulis diametro (1/300&2014;1/225&2034;) 2&2014;4plo
+longioribus.</li>
+<li>Java, fluthend in einem kleinen Bache des Vulkans
+Papendayan. M.</li>
+<li><g>Batrachospermam guianense</g> Kg. Lembok oberhalb Pa-
+lembang, östliches Sumatra. M.</li>
+<d2>2. Tange des Meeres.</d2>
+<li><g>Oscillaria subsalsa</g> Ag. Bedeckte den 26. Juni 1861, Nach-
+mittags 4&frac12; Uhr, in der offenen Celebes-See, unter 4° N. Br.
+und 121° O. L., ausser Sicht von jedem Lande, die Ober-
+fläche des Meeres mit gelblichen Flocken. W.</li>
+<li><g>Chthonoblastus salinus</g> Kg. Palabuan an der Wynkopers-
+bai, Südküste des westlichen Java. M.</li>
+<li><g>Lyngbya crispa</g> Ag. Sich auflösend mit anderen organischen
+Resten, in der Celebes-See mit obiger Oscillaria subsalsa. M.</li>
+<li>&2014; <g>anguina</g> Mont. Bei Benkulen, Westküste von Sumatra, und
+Mampawa, Nordwestküste von Borneo. M.</li>
+<li>&2014; <g>prasina</g> Mont. Anjer auf Java an der Sunda-Strasse. M. S.</li>
+<li><g>Physactis Wichurae</g> n. sp., Taf. I., Fig. 1., fronde minutissima,
+hemisphaerica, molli, diametro 1/5&2014;&frac18;&2034;; filis homogeneis ex
+centro radiantibus, basi 1/4000&2034; crassis, olivaceis, subtorulosis,
+flagelliformibus, vaginis arctis hyalinis.</li>
+<li>Jeder Faden beginnt mit einer grösseren, kugelrunden
+<pb="22"/>
+<kt>Conferven des indischen Oceans.</kt>
+Zelle, welcher bei einem Exemplar noch zwei bis drei
+kleinere folgen, bei anderen nicht, dann ist er fein gegliedert,
+wird immer dünner und endigt peitschenförmig lang und
+dünn, gegliedert bis an&2019;s Ende, umgeben von einer engen
+farblosen Scheide.</li>
+<li>4. Sept. 1860 im nordchinesischen Meere in kleinen
+gallertartigen Häufchen. W.</li>
+<li><g>Goniotrichum ceramicola</g> Lgb., Kg. Timor, Kupang an Plo-
+camium patens. M.</li>
+<li><g>Chaetomorpha javanica</g> Kg. Weynitu auf Amboina im
+Brackwasser der Flussmündung. M.</li>
+<li>&2014; <g>inflata</g> Kg. Zamboanga an der Südküste von Mindanao, der
+Insel Basilan gegenüber. Benkulen auf Sumatra. Muntok
+auf Banka. Makassar auf Celebes. Kupang auf Timor. M.</li>
+<li>&2014; <g>crassa</g> Ag. Anjer. S.</li>
+<li>&2014; <g>pacifica</g> Kg. Palabuan. M.</li>
+<li><g>Rhizoclonium setaceum</g> Kg. Salzsumpf bei Makassar. M.</li>
+<li>&2014; <g>tortuosum</g> Dillw., Kg. Singapore. M.</li>
+<li><g>Cladophora fusca</g> n. sp., Taf. III., Fig. 1., valde radicata, polli-
+caris; filis primariis elongatis 1/15&2034; crassis, ramis fasciculatis,
+basi 1/25&2034;, deinde usque ad 1/12&2034; crassis, acutiusculis, ramellis
+lateralibus saepe rugulose annulatis.</li>
+<li>Wurzeln dünn und lang, 1/30&2034; dick, schwärzlichbraun,
+mit stumpfer Spitze, Stamm mit zahlreichen aufrechten
+Aesten, diese mit kleinen, 1/30&2034; dicken, ganz oder nur zum
+Theil geringelten Zweigen.</li>
+<li>An dieser kleinen Alge sassen sonderbare plattrunde, ge-
+stielte Knöpfe von 1/40&2034; Durchmesser, der Stiel ein Bündel
+von sechs Fäden, der Knopf mit zahlreichen länglichen
+Zellen oder Sporen überzogen, welche sich leicht lostrennten.
+Wahrscheinlich ein neuer Parasit, unter welcher Vor-
+aussetzung die Hauptalge zu Kützing&2019;s catenatae neben der
+mittelländischen Cladophora prolifera gehören würde.</li>
+<li>Mampawa an der Westküste von Borneo. Palabuan. M.</li>
+<li>&2014; <g>viridula</g> Kg. Singapore. M.</li>
+<li>&2014; <g>timorensis</g> n. sp., Taf. II., Fig. 6., parvula, semipollicaris,
+ramosissima, repetite dichotoma; ramis divaricatis hinc inde
+ramellis brevibus distantibus instructis; articulis diametro
+6&2014;4plo longioribus, inferioribus 1/15 &2014;1/20&2034;, superioribus ad 1/40&2034;
+<pb="23"/>
+<kt>Ulvaceen des indischen Oceans.</kt>
+crassis, extremis flaccidis, elongatis, acutiusculis, ad 1/80&2034;
+crassis.</li>
+<li>Atapupu auf Timor unter den Sargassen. M.</li>
+<li><g>Ectocarpus indicus</g> Sonder. Newharbour bei Singapore. M.</li>
+<li><g>Sphacelaria rigidula</g> Kg. Chinesisches Meer an Sargassen.
+See von Mindoro an Turbinaria ornata. Benkulen an Sar-
+gassum microcystum. M.</li>
+<li>&2014; <g>radicans</g> Dillw., Kg. Chinesisches Meer an Sargassen. Benku-
+len und Banda-neira an Turbinaria ornata. M.</li>
+<li>&2014; <g>fusca</g> Huds., Ag., ausgezeichnet durch dreispitzige Seitentriebe,
+bisher nur als Seltenheit an Englands Küsten gefunden.</li>
+<li>Kupang auf Timor an Sargassen. M.</li>
+<li><g>Ulva Lactuca</g> L. Hongkong. M.</li>
+<li><g>Phycoseris gigantea &03B2; perforata</g> Kg. = Ulva fenestrata
+Postels et Ruprecht. Unregelmässig durchlöchert, vielleicht
+nur von Seethieren (Gasteropoden?) angefressen; in Ancona
+fand ich einst an einer ähnlich durchlöcherten Porphyra
+vulgaris eine kleine Schnecke, Nassa Corniculum Olivi, in
+Mehrzahl.</li>
+<li>Singapore. M. S. Amboina. M.</li>
+<li>&2014; <g>lobata</g> Kg. Pointe de Galle an der Südküste von Ceylon.
+Singapore. Makao. Hongkong. Anjer. Banda-neira. M.</li>
+<li>&2014; <g>fasciata</g> Delile. Pointe de Galle. M.</li>
+<li>&2014; <g>reticulata</g> Forsk., Kg. Besteht aus anastomosirenden Bändern
+und ist daher wirklich unregelmässig gegittert, wie Hydro-
+clathrus cancellatus. Sehr häufig, lebend lebhaft grün,
+aber leicht ausbleichend.</li>
+<li>Singapore. Cavite bei Manila. Zamboanga. Anjer. Ma-
+kassar. Amboina. Banda-neira. Kupang. M.</li>
+<li><g>Enteromorpha ramulosa</g> E. B., Hooker. Amboina. M.</li>
+<li>&2014; <g>fucicola</g> Kg. Chinesisches Meer. W.</li>
+<li>&2014; <g>compressa &03B6; trichodes</g> Kg. Simaharadscha an der Ost-
+seite des Golfs von Siam. Benkulen an Thonfelswänden
+in der Brandung und bei Pulo tikus (der Ratteninsel) an
+Halimeda Opuntia. M.</li>
+<li>&2014; <g>complanata</g> Kg. Anjer. Atapupu. M.</li>
+<li>&2014; &2014; &03B3; <g>crinita</g> Kg. Pointe de Galle. Singapore. M.</li>
+<li>&2014; &2014; &03B4; <g>confervacea</g> Kg. Pointe de Galle in einem Bache unter
+der Brücke, von der Fluth erreicht. Hongkong. M.</li>
+<pb="24"/>
+<kt>Indische Siphoneen.</kt>
+<li><g>Vaucheria submarina</g> Lgb., Berkeley. Durchmesser der Fäden
+1/12&2034;. Salzsumpf bei Makassar. M.</li>
+<li><g>Bryopsis pachynema</g> n. sp., Taf. IV., Fig. 2., cespitosa, intri-
+cata; filis laxis, flexuosis, &frac12;&2034; crassis, sursum parum atte-
+nuatis, di-trichotomis vel repetite umbellatis; ramis paten-
+tibus, flagelliformibus; sinubus acutis; apicibus obtusiusculis.</li>
+<li>Dichte, 3&2014;4&2033; lange Rasen in einander verwickelter,
+zäher, farbloser, aber inwendig mit einer durchscheinenden,
+körnigen, dunkelgrünen Masse überzogener Röhren, welche
+bei einem Durchmesser von einer halben Linie eine Länge
+von einem bis zwei Zoll erreichen; die eben so dicken
+Zweige gehen zu zwei bis sechs von einem Puncte aus
+und sind an ihren Enden wieder in eben so viele Zweigchen
+getheilt. Ist die dickste bis jetzt bekannte Bryopsis
+und hat ziemlich viel Aehnlichkeit mit Kützing&2019;s Valonia
+verticillata aus Sainte Croix in Westindien (Spec. Alg.
+p. 508. Tab. phycologicae Bd. VI., Taf. 88.), die Röhren
+gehen aber ohne Scheidewände in die Zweige über, welche
+bei ungleicher Länge häufig sich nach oben verdünnend
+peitschenförmig enden.</li>
+<li>Sumatra bei Benkulen und Pulo tikus. M.</li>
+<li><g>Caulerpa Freycinetii</g> Bory. Korallenbank bei Singapore. Ben-
+kulen. Pulo tikus. Molukken-Insel Batjan, 1° S. Br.,
+127° 30&2032; O. L. Kupang auf Timor. M. Caulerpa najadi-
+formis Bory (Kützing, Tab. phyc. Bd. VII., Taf. 4., Fig. 1.)
+wird von Bory selbst (Hydrophytes du Voyage de la Co-
+quille p. 192) für blosses Synonym seiner Caulerpa Frey-
+cinetii erklärt.</li>
+<li>&2014; <g>plumaris</g> Forsk., Ag. Pulo tikus. Anjer. M.</li>
+<li><g>Chauvinia clavifera</g> Turn., Kg. Zamboanga. Benkulen und
+Pulo tikus auf Halimeda Opuntia wurzelnd. Amboina. M.</li>
+<li>&2014; <g>macrophysa</g> Sonder. Schöne, ansehnliche Art. Klein Ta-
+walli und Mareh oder Pottebakers Eyland (zwischen Tidore
+und Batjan). M.</li>
+<li>&2014; <g>simpliciuscula</g> R. Br. Korallenriff bei Atapupu auf Timor. M.</li>
+<li><g>Codium tomentosum</g> Huds., Stackhouse. Korallenriff bei Singa-
+pore. Anjer. M.</li>
+<li>&2014; &2014; &03B3; <g>divaricatum</g> Ag. Klein Tawalli. M.</li>
+<li>&2014; &2014; &03B6; <g>tenue</g> Kg. Anjer. S.</li>
+<pb="25"/>
+<kt>Indische Kalktange.</kt>
+<li><g>Halimeda Opuntia</g> Sol., Lx. Sehr häufig. Singapore. Zamboanga.
+Anjer. Pulo tikus. Batjan. Gross Tawalli. Wahai an der
+Nordküste der Insel Ceram. Banda neira. Atapupu. M.</li>
+<li>&2014; <g>discoidea</g> Esp., Decaisne. Singapore. Zamboanga. Batjan.
+Gross Tawalli. Atapupu. M.</li>
+<li>&2014; <g>multicaulis</g> Lx. Kupang. M.</li>
+<li>&2014; <g>cuneata</g> Kg. Tab. phyc. Bd. VII., Taf. 21., Fig. 3., nicht
+H. cuneata Hering, welche Kützing daselbst Bd. VIII.,
+Taf. 25., Fig. 1. unter dem Namen H. obovata abgebildet
+hat. Zamboanga. Batjan. M.</li>
+<li><g>Valonia utricularis</g> Roth, Ag. Zamboanga. M.</li>
+<li>&2014; <g>macrophysa</g> Kg. Zamboanga. M.</li>
+<li><g>Acetabularia major</g> n. sp., Taf. IV., Fig. 3., stipite filiformi
+breviore; pelta magna, membranacea, tenui, nitente, sub-
+diaphana, margine levissime crenulata.</li>
+<li>Der Stiel hat nur einen bis anderthalb Zoll Länge,
+der Schild bis zehn Linien Durchmesser. Bei A. mediter-
+ranea fand ich den Stiel doppelt so lang, drei bis vier Zoll,
+dagegen den Durchmesser des Schildes nur halb so gross,
+drei bis fünf Linien. Simaharadscha (Siam). M. S.</li>
+<li><g>Microdictyon clathratum</g> n. sp., Taf. IV., Fig. 1., phyllo-
+mate viridi, umbilicato, flaccido, foliaceo, utriculis tricho-
+tomis dichotomisque percursum, foraminibus irregularibus
+variae magnitudinis pertusum.</li>
+<li>Ungleich durchlöchert, wie Phycoseris reticulata. Zam-
+boanga. Wahai auf Ceram. Larentuka auf Flores. M.</li>
+<li><g>Galaxaura spongiosa</g> Kg. Batjan. Kupang und Atapupu auf
+Timor. M.</li>
+<li>&2014; <g>lapidescens</g> Solander sp., Lx. Batjan. Amboina. M.</li>
+<li>&2014; <g>plicata</g> Kg. Kupang. M.</li>
+<li>&2014; <g>annulata</g> Lx. Singapore. Batjan. M.</li>
+<li><g>Actinotrichia rigida</g> Lx. sp., Decaisne. Benkulen. Amboina.
+Kupang. M.</li>
+<li><g>Ralfsia expansa</g> J. Ag. Ternate, todte Korallen überziehend. M.</li>
+<li><g>Haplosiphon filiformis</g> Rupr. Hongkong. M.</li>
+<li><g>Encoelium tortile</g> Suhr. Bisher nur von Suhr gesehen und
+mit dem unbestimmten Fundort &00BB;Ostindien&00AB; in der Regens-
+burger Flora 1836, S. 339, Taf. 3., Fig. 24. und 25. be-
+schrieben und abgebildet. Hongkong. M.</li>
+<pb="26"/>
+<kt>Indische Melanospermen.</kt>
+<li><g>Encoelium sinosum</g> Roth sp. Ag. Simaharadscha. Hongkong.
+M. Anjer. S.</li>
+<li><g>Hydroclathrus cancellatus</g> Bory = Encoelium clathratum
+Ag. Singapore. Insel Ko Sichan und bei Simaharadscha
+im Golf von Siam. Kupang. M.</li>
+<li><g>Dictyota indica</g> Sonder. Simaharadscha. Kupang. M.</li>
+<li>&2014; <g>ceylanica</g> Kg. Zamboanga. M.</li>
+<li>&2014; <g>lata</g> Lx., fronde dichotoma, lata, fructificationibus in lineas poly-
+morphas per totam frondem sparsis, Lamouroux Extr. Journ.
+Bot. p. 14. Indes orientales, Lamouroux Essai sur les genres
+de la famille des Thalassiophytes non articulées p. 58. Von C.
+und J. Agardh und Kützing als unbekannt unter den Species
+inquirendae aufgeführt. Wird nach oben keilförmig breiter,
+so dass bei fruchttragenden Exemplaren die obersten, bis drei
+Linien breiten Zweige spitzig ausgerandet enden, während
+die unfruchtbaren sich proliferirend in eine Menge, eine halbe
+bis eine Linie breite, sparrige, abgerundete Zweigchen theilen.</li>
+<li>Korallenriff bei Singapore. An Granitblöcken bei Tand-
+jong kaleang ohnweit Muntok auf Banka. Batjan. Laren-
+tuka auf Flores. M.</li>
+<li><g>Zonaria tenuis</g> Montagne sp., Kg. Benkulen und Pulo tikus.
+Muntok. Batavia. Palabuan. Larentuka. Wahai. M.</li>
+<li>&2014; <g>Commersonii</g> Bory. Pointe de Galle. M.</li>
+<li>&2014; <g>Fraseri</g> Grev. Pulo tikus. Anjer. M., S.</li>
+<li>&2014; <g>gymnospora</g> Kg. Singapore. Simaharadscha. Zamboanga.
+Benkulen. Amboina. Batjan. Kupang und Atapupu. M.</li>
+<li><g>Chnoospora pannosa</g> J. Ag. Zamboanga. M.</li>
+<li><g>Hormophysa articulata</g> Kg. Atapupu. M.</li>
+<li>&2014; <g>latifrons</g> Kg. Singapore. M.</li>
+<li><g>Sargassum aquifolium</g> Turner sp., Ag. Anjer. S.</li>
+<li>&2014; <g>cristaefolium</g> Ag. Vor Manila in offener See schwimmend,
+daher ohne Früchte, aber wahrscheinlich ein Carpacanthus.</li>
+<li>&2014; <g>microcystum</g> Kg. Singapore. Benkulen. Pulo tikus.
+Muntok. M.</li>
+<li>&2014; <g>enerve</g> Ag. Muntok. M.</li>
+<li>&2014; <g>cystocarpum</g> Ag. Zamboanga. M.</li>
+<li>&2014; <g>pygmaeum</g> Kg. Anjer. M., S.</li>
+<li>&2014; <g>polycystum</g> Ag. Pulo tikus. Muntok. Anjer. Palabuan.
+Kupang und Atapupu. M.</li>
+<pb="27"/>
+<kt>Indische Sargassen.</kt>
+<li><g>Sargassum granuliferum</g> Ag. Singapore. Muntok. Makassar. M.</li>
+<li>&2014; <g>capillare</g> Kg. Makassar. M.</li>
+<li>&2014; <g>angustifolium</g> Turn. sp., Ag. Singapore. Muntok. M.</li>
+<li>&2014; <g>Swartzii</g> Turn., Ag. Tandjong kaleang bei Muntok. M.</li>
+<li>&2014; <g>filiforme</g> Mont. Zamboanga. M.</li>
+<li>&2014; <g>gramiuifolium</g> Ag., eine ausgezeichnete Art, wovon Carp-
+acanthus Ivani Montagne wahrscheinlich nur ein Synonym
+ist. Makao. M.</li>
+<li>&2014; <g>duplicatum</g> Bory. Palabuan. M.</li>
+<li>&2014; <g>siliquosum</g> J. Ag. Singapore. Zamboanga. Manila. Anjer.
+Makassar. M.</li>
+<li>&2014; <g>myriocystum</g> J. Ag. Singapore. Batavia. Anjer. Pulo tikus.
+Kupang. Im chinesischen Meere und namentlich in der
+Strasse von Formosa mehrfach treibend gefunden. M.</li>
+<li><g>Turbinaria ornata</g> J. Ag. Singapore. Pulo tikus. Anjer.
+Batjan. Banda-neira. Kupang. In der Mindoro-See,
+Philippinen, schwimmend aufgefischt. M.</li>
+<li>&2014; <g>decurrens</g> Bory. Anjer. M., S. Chinesisches Meer. M.</li>
+<li>&2014; <g>conoides</g> J. Ag. Palabuan. M.</li>
+<li>&2014; <g>heterophylla</g> Kg. Batavia. Anjer. M.</li>
+<li>&2014; <g>condensata</g> Sonder. Canal von Formosa. M.</li>
+<li><g>Carpacanthus parvifolius</g> Turn. sp., Kg. Muntok. M.</li>
+<li>&2014; <g>Gaudichaudii</g> Montagne sp., Kg. Singapore. Benkulen.
+Canal von Formosa. M.</li>
+<li>&2014; <g>oligocystus</g> Montagne sp., Kg. Benkulen. Pulo tikus.
+Muntok. M.</li>
+<li>&2014; <g>herbaceus</g> (Sargassum) Kg. Mampawa an Borneo&2019;s West-
+küste. Pulo tikus an Sumatra&2019;s Westküste. M.</li>
+<li>Man kannte bisher nur von Kotschy an der Küste der
+Insel Karek im innersten Theil des persischen Meerbusens,
+gesammelte Exemplare ohne Früchte, die unsrigen haben
+ausgebildete, entschieden stachlige Früchte und bestätigen
+die Erfahrung, dass scharfgezähnte Blätter auf stachlige
+Früchte hinweisen. M.</li>
+<li>&2014; <g>Hombronianus</g> Mont. Pulo tikus. Muntok. M.</li>
+<li>&2014; <g>latifolius</g> Turn., Kg. Singapore. Atapupu. M.</li>
+<li>&2014; <g>ilicifolius</g> Turn., Kg. Singapore. Pulo tikus. Anjer. Gross
+Tawalli. Kupang. Mindoro-See. Manila. M.</li>
+<li>&2014; <g>spinulosus</g> Kg. Singapore. Atapupu. Manila. M.</li>
+<pb="28"/>
+<kt>Indische Florideen.</kt>
+<li><g>Carpacanthus microcystis</g> J. Ag. Benkulen. Pulo tikus.
+Chinesisches Meer. Zamboanga.</li>
+<li><g>Spiridia Montagneana</g> Kg. Benkulen. M.</li>
+<li>&2014; <g>villosiuscula</g> Kg. Makassar. M.</li>
+<li><g>Hormoceras polyceras</g> Kg. Chinesisches Meer. W.</li>
+<li>&2014; <g>nodosum</g> Zanardini sp., Kg. Simaharadscha. M.</li>
+<li>&2014; <g>polygonum</g> Kg. Kupang. M.</li>
+<li>&2014; <g>Catenula</g> Kg. Daselbst. M.</li>
+<li>&2014; <g>variegatum</g> Kg. Atapupu auf Timor. M.</li>
+<li><g>Gongroceras nodiferum</g> Kg. Muntok an Sphaerococcus
+lichenoides. M.</li>
+<li><g>Centroceras hyalacanthum</g> Sonder sp., Kg. Zamboanga. M.</li>
+<li>&2014; <g>oxyacanthum</g> Kg. Simaharadscha. M.</li>
+<li><g>Peyssonnelia major</g> Kg. Anjer. M., S.</li>
+<li><g>Hildenbrandtia sanguinea</g> Kg. sp., Nardo. Benkulen auf
+Amphiroa Gailloni. Palabuan an Steinen. M.</li>
+<li>&2014; <g>Nardi</g> Zanardini. Amboina auf todten Madreporen. M.</li>
+<li><g>Melobesia membranacea</g> Esper sp., Lx. Pointe de Galle.
+Singapore. M.</li>
+<li>&2014; <g>pustulata</g> Lx. Benkulen an Amphiroa Gaillonii. M.</li>
+<li><g>Spongites racemosa</g> Lam. sp., Kg. Amboina. M.</li>
+<li><g>Amphiroa fragilissima</g> L. sp., Lx. Häufig. Benkulen. Pulo
+tikus. Anjer. Batjan. Banda-neira. Timor bei Kupang
+und Atapupu. M.</li>
+<li>&2014; <g>pacifica</g> Kg. Zamboanga. M.</li>
+<li>&2014; <g>anceps</g> Lam. sp., Decaisne. Singapore. M.</li>
+<li>&2014; <g>canaliculata</g> n. sp., Taf. VI., maxima, dichotoma, rigida;
+ramis divergentibus; articulis convexis, altero latere lato-
+canaliculatis, superioribus decrescentibus.</li>
+<li>Nur ein von Herrn von Richthofen an der Südküste
+von Java bei Buntjo-tji-owor gefundenes Exemplar von
+drei Zoll Länge, licht graugrün, wahrscheinlich durch Aus-
+bleichen der bei Kalkalgen besonders flüchtigen Purpur-
+farbe; die mittleren Glieder bis drei Viertelzoll lang und
+einen Viertelzoll breit, auf einer Seite stielrund gewölbt,
+auf der anderen tief rinnenförmig mit einer Erhöhung in
+der Mitte, welche, sich an beiden Enden bei dem Gelenke
+abgerundet verdickend, die Gestalt eines Schenkelknochens
+hat. Die Endglieder nur halb so lang und breit, auf beiden
+<pb="29"/>
+<kt>Indische Florideen.</kt>
+Seiten flach, stumpf zugespitzt. Hat unter allen Amphiroen
+die grössten und derbsten Glieder.</li>
+<li><g>Amphiroa Gaillonii</g> Lx. Benkulen. M.</li>
+<li>&2014; <g>galaxauroides</g> Sonder. Der Name ist nicht glücklich ge-
+wählt, die Art aber gut, obschon von J. Agardh nicht
+anerkannt und mit A. dilatata Lx. vereinigt. Die Glieder
+sind alle flach und ziemlich gleich breit, ein wenig keil-
+förmig, bei A. dilatata sind die untersten Glieder stielrund,
+die anderen allmählig breiter, zuletzt flach, was den Namen
+dilatata, verbreiterte, veranlasst hat. Anjer. M., S.</li>
+<li>&2014; <g>sagittata</g> Lx. Cheilosporum sagittatum J. Ag. Palabuan. M.</li>
+<li>&2014; <g>cultrata &03B3; globulifera</g> Kg. Cheilosporum cultratum J. Ag.
+Benkulen. M.</li>
+<li><g>Jania adhaerens</g> Lx. Palabuan. M.</li>
+<li>&2014; <g>pumila</g> Lx. Pulo tikus. M.</li>
+<li>&2014; <g>tenuissima</g> Sonder. Wahai auf Ceram an Sphaerococcus
+lichenoides. M.</li>
+<li><g>Gymnophloea dichotoma</g> J. Ag. sp., Kg. Pointe de Galle. M.</li>
+<li><g>Halymenia Durvillei</g> Bory. Zamboanga. Ternate. Larentuka
+an Steinen nächst der Ebbegränze. M.</li>
+<li>Die mitgebrachten Exemplare bestätigen vollkommen
+J. Agardh&2019;s Annahme (Spec. Alg. II. p. 206), dass die von
+Bory natürlich geglaubte grüne Farbe es nicht sei. Diese
+der mittelländischen Halymenia Floresia nahe verwandte
+Alge ist frisch eben so schön purpurroth, wie die genannte,
+bleicht aber eben so leicht durch grün in gelblich aus.
+Mein Sohn sah sie frisch im Meere dunkelroth mit
+einem Stich in&2019;s Gelbe, manche Büschel (im Absterben
+begriffen?) heller gelbroth; bei raschem Trocknen sorgfältig
+ausgebreiteter Stücke unter Glimmerblättchen erhielt sich
+die rothe Farbe mehr oder weniger vollständig, aber alle
+Exemplare, welche einige Zeit an der Luft liegen geblieben
+waren, verbleichten während des Trocknens zusehends zu
+einem blassen Grün.</li>
+<li>&2014; <g>amoena</g> Bory. Korallenriff bei Singapore. M.</li>
+<li>&2014; <g>carnosa &03B2; dentata</g> Suhr, Kg. Pulo tikus. M.</li>
+<li><g>Catenella Opuntia</g> L. sp., Grev. Weynitu auf Amboina, häufig
+an Holz im Brackwasser der Flussmündung. M.</li>
+<pb="30"/>
+<kt>Indische Florideen.</kt>
+<li><g>Grateloupia filicina</g> Wulfen sp., Ag. Zamboanga. M.</li>
+<li>&2014; &2014; &03B4; <g>conferta</g> Kg. Zamboanga. Palabuan. M.</li>
+<li><g>Mastocarpus Klenzeanus</g> Kg. Muntok. Palabuan. Kupang. M.</li>
+<li><g>Chondrus crispus</g> Ag.? Hongkong. M.</li>
+<li>&2014; <g>spermophorus</g> L. sp., Grev. Pointe de Galle. M.</li>
+<li><g>Gigastina horrida</g> Ag. sp., Grev. Korallenriff bei Singapore. M.</li>
+<li><g>Caulacanthus ustulatus</g> Mertens sp., Kg. Korallenriff bei
+Singapore. Amboina. M.</li>
+<li>&2014; <g>fastigiatus</g> Kg. Hongkong. M.</li>
+<li><g>Gloeopeltis tenax</g> Turner sp., J. Ag. Hongkong. Wahai auf
+Ceram. M.</li>
+<li><g>Hypnea musciformis</g> Wulfen sp., Lx. Singapore. Makassar.
+M. Anjer. S.</li>
+<li>&2014; <g>divaricata</g> R. Br. sp., Grev.: viel häufiger. Simaharadscha.
+Hongkong. Zamboanga. M. Anjer. S. Palabuan. Ben-
+kulen. Muntok. Kupang und Atapupu. M.</li>
+<li>&2014; &2014; &03B2; <g>ramulosa</g> J. Ag. Benkulen. Muntok. M. Anjer. S.
+Kupang und Atapupu. M.</li>
+<li>&2014; <g>spinella</g> J. Ag. Larentuka auf Flores. M.</li>
+<li>&2014; <g>rugulosa</g> Mont. (angulosa bei J. Ag., Spec. Alg. II., p. 597,
+ist Druckfehler). Anjer. M., S. Amboina. M.</li>
+<li>&2014; <g>chordacea</g> Kg. Palabuan. M.</li>
+<li>&2014; <g>rangiferina</g> R. Br. sp., Grev. Palabuan. M.</li>
+<li><g>Acrocarpus crinalis</g> Turner sp., Kg. Anjer. Batavia. Ku-
+pang. M.</li>
+<li>&2014; <g>pusillus</g> Turner sp., Kg. Korallenriff bei Singapore. Hong-
+kong. Zamboanga. M.</li>
+<li><g>Echinocaulon spinellum</g> Kg. Pointe de Galle. M.</li>
+<li><g>Gelidium corneum &03B5; pinnatum</g> Huds. sp., Ag. Anjer. M., S.</li>
+<li>&2014; <g>rigidum</g> Vahl sp., von Mertens der Hauptgräte eines Härings
+verglichen und Fucus halecinus genannt; aus gleichem
+Grunde von Lamouroux Gelidium spinaeforme. So häufig
+wie in Westindien. Korallenriff bei Singapore. Benkulen.
+Anjer. Batavia. Palabuan. Kupang. M.</li>
+<li>&2014; <g>divaricatum</g> n. sp., Taf. VIII., Fig. 4., parvulum, dense cespi-
+tosum; fronde cartilaginea, filiformi, compressiuscula, bi-
+pinnata; pinnulis oppositis vel alternis, divaricatis, in-
+aequalibus, acutis, fructiferis obtusis.</li>
+<li>Kaum einen halben bis ganzen Zoll hoch, trüb purpur-
+<pb="31"/>
+<kt>Indische Florideen.</kt>
+roth. Hongkong häufig am Felsen in der Region der
+Balanen zwischen der Fluth- und Ebbegränze. M.</li>
+<li><g>Gelidium Amansii</g> Lx. Paknam an der Mündung des Menam
+in Siam. S.</li>
+<li><g>Sphaerococcus confervoides</g> L. sp., Ag. Mampawa an der
+Westküste von Borneo. M.</li>
+<li>&2014; <g>lichenoides</g> L. sp., Ag. Sehr häufig. Singapore. Zamboanga.
+Mampawa. Benkulen. Muntok. Anjer. Wahai. Weynitu.
+Mareh. Larentuka. Kupang. Atapupu. M.</li>
+<li>&2014; <g>corallopsis</g> Mont. Zamboanga. Benkulen. Anjer. Palabuan.
+Ternate. Amboina. M.</li>
+<li>&2014; <g>spinosus</g> L. sp., Ag. Anjer. M., S. Makassar. M.</li>
+<li><g>Corallopsis Salicornia &03B2; simplicior</g> Ag., eine tropische
+Alge, welche von Chamisso durch Verwechselung des
+Fundortes von Brasilien nach Unalaschka versetzt worden
+ist. Benkulen. M.</li>
+<li><g>Gymnogongrus densus</g> Grev. Palabuan. M.</li>
+<li>&2014; <g>pygmaeus</g> Grev. Zamboanga. M.</li>
+<li><g>Polysiphonia</g> (Calliptera) <g>javanica</g> n. sp., Taf. VII., Fig. 3., re-
+pens, arcte adnata, pusilla, nigrescens, bipinnata; pinnulis
+breviusculis, alternis, divaricatis, lanceolatis, subincurvatis,
+obtusis; articulis primariis 12-siphoneis, diametro (1/12&2034;) paulo,
+ramellorum 8-siphoneis diametro (1/20&2034;) duplo brevioribus,
+horum infimo angustato et diametro duplo longiore.</li>
+<li>Der P. dendritica J. Ag. am nächsten verwandt. Palabuan
+auf Dictycta indica kriechend. M.</li>
+<li>&2014; <g>siamensis</g> n. sp., Taf. VII., Fig. 1., parvula, vix pollicaris,
+capillaris, nuda, radicans; articulis polysiphoniis diametro
+aequalibus, inferis brevioribus; ramis attenuatis 4&2014;6-
+siphoneis, apice penicillatis; carpocloniis elongatis fusifor-
+mibus; cystocarrpiis ovatis.</li>
+<li>Simaharadscha auf Acetabularia major. M.</li>
+<li>&2014; <g>Jacobi</g> de Notaris. Amboina. M.</li>
+<li>&2014; ? <g>inflata</g> n. sp., Taf. VII., Fig. 2., badia, flaccida, ramosissima,
+1&2014;1&frac12; pollicaris; ramis ramellisque divaricatis; articulis
+pellucidis, inflatis, primariis diametro (1/6&2014;1/8&2034;) aequalibus
+vel paulo longioribus, ramellorum (1/25&2034;) duplo brevioribus;
+siphonibus 3&2014;5 laxis, continuis; carpocloniis confertis,
+fastigiatis, acutiusculis.</li>
+<pb="32"/>
+<kt>Indische Florideen.</kt>
+<li>Weicht unvollkommen auf, wie alle Polysiphonien, klebt
+aber nur schwach am Papier, und die dünnen Röhren
+setzen nicht in jedem Gliede vor der Scheidewand deutlich
+ab, sondern scheinen ununterbrochen durchzulaufen.</li>
+<li>Pulo tikus. M.</li>
+<li>Unbestimmbare Bruchstücke weiterer Polysiphonien fan-
+den sich bei Singapore auf dem Korallenriff und an Sar-
+gassen, bei Makao und bei Benkulen. M.</li>
+<li><g>Bostrychia mixta</g> Hooker et Harvey. Weynitu auf Amboina. M.</li>
+<li><g>Laurencia laxa</g> R. Br. sp., Grev. Benkulen. M.</li>
+<li>&2014; <g>obtusa</g> Huds. sp., Lx. Pointe de Galle. Batavia. M. Anjer. S.</li>
+<li>&2014; <g>Forsteri &03B2; delicatula</g> Sonder. Benkulen. Palabuan. M.</li>
+<li>&2014; <g>implicata</g> J. Ag. Simaharadscha. M., S.</li>
+<li>&2014; <g>papillosa</g> Forskal sp., Grev. Häufig. Anjer. S. Batavia.
+Pulo tikus. Palabuan. Banda neira. Kupang. M.</li>
+<li>&2014; <g>botryoides</g> Turner sp., Gaillon. Korallenriff bei Singapore. M.</li>
+<li><g>Acanthophora Thierryi</g> Lx. Häufig. Simaharadscha. M., S.
+Anjer. S. Benkulen, Muntok, Makassar. Palabuan. Ata-
+pupu. M.</li>
+<li><g>Lomentaria parvula</g> Ag. sp., Gaillon. Pulo tikus. Palabuan. M.</li>
+<li><g>Pollexfenia pedicellata</g> Harvey, zart und durchscheinend,
+wie Aglaophyllum ocellatum, ein einfaches Netz unregel-
+mässig stumpfeckiger Zellen. Die Cystocarpien befinden
+sich stets auf anderen Pflanzen, als die Tetrachocarpien,
+sind fast flaschenförmig und unverhältnissmässig derb für
+das zarte Blatt, sie enthalten eine grosse Zahl birnförmiger
+körniger Samen, welche, mit der Spitze festsitzend, eine
+im Centrum stehende Säule ganz überziehen und bald
+gerade, bald krumm gebogen sind. Die Säule besteht aus
+einem Büschel von Zellenreihen mit zarten, durchsichtigen
+Fäden. Die Farbe der ganzen Alge ist schön rosenroth,
+aber flüchtig und leicht ausbleichend. Getrocknet klebt
+diese Alge fest an dem Papier und hat einen schönen Seiden-
+glanz. Zamboanga. M.</li>
+<li><g>Leveillea Schimperi</g> Decaisne. Singapore und Makassar an
+Sargassen kriechend, wie im rothen Meer. Anjer. Kupang
+auf Phycoseris reticulata. M.</li>
+<li><g>Plocamium patens</g> n. sp., fronde lineari, ecostata; compressa,
+bipollicari, decomposite pinnata; pinnis pinnulisque alternis
+<pb="33"/>
+<kt>Zellera, neue Florideengattung.</kt>
+patentibus, axillis rotundatis, apicibus acutis saepe involutis.
+Dunkel purpurroth, schwach am Papier klebend. Zamboanga.
+Kupang. M.</li>
+<li><g><k>Zellera</k></g>, novum genus. Phycoma caulescens, ramis falcatis,
+basi costatis, superne costas secundarias flabelliformes,
+costis tertiariis inter se parallelis conjunctas, emittens.
+Reticulum costarum membrana tenerrima, ex cellulis ver-
+ticalibus polygonis formata, intertextum. Tetrachocarpia
+ignota. Cystocarpia globosa, marginalia, sessilia.</li>
+<li>Der Claudea nahe verwandt, aber durch die Cysto-
+carpien verschieden, welche sich nicht zuspitzen und nicht
+gestielt am Stiele des sichelförmigen Blattes sitzen, sondern
+an den Enden der secundären Rippen am obersten Rande
+desselben.</li>
+<li>Meinem Freunde und unermüdlichen Mitforscher der
+Alge, Finanzrath Gustav Zeller in Stuttgart, als Zeichen
+meiner innigsten Hochachtung geweiht.</li>
+<li><g>Zellera tawallina</g> n. sp., Taf. VIII., Fig. 3., 2&2014;4 pollicaris,
+filiformis; stipite complanato, basi fere lineam lato, sursum
+attenuato; ramis unilateralibus, superne reticuliferis, inferne
+membrana tenuissima alatis; cystocarpiis magnitudine se-
+minis Sinapeos. Color amoene purpureus.</li>
+<li>An der Küste der unbewohnten Insel Klein Tawalli,
+Molukken, zwischen Ternate und Batjan, 1° S. Br., 127°
+15&2032; O. L. von Greenwich. M.</li>
+<hr>
+<p>Ich habe versucht, auf den folgenden Tafeln eine Uebersicht
+aller bis jetzt bekannt gewordenen tropischen Algen des indischen
+und polynesischen Weltmeeres zu geben.</p>
+<p>Das besonders in seinem aussertropischen Theile durch
+Forsk&00E5;l, Delile, Figari und vor Allen Wilhelm Schimper ziemlich
+bekannte rothe Meer mit sehr eigenthümlicher Flora habe ich ganz
+aus den Tafeln ausgeschlossen, die persische Küste, von welcher
+man nur durch Kotschy ein paar Algen der Insel Karek kennt,
+fällt auch, als ausserhalb des Wendekreises liegend, weg; von der
+ganzen Küste von Ostafrika, von Bab el Mandeb, der Pforte des
+<bs>Ost-Asien. Botanisch I. 3</bs>
+<pb="34"/>
+<kt>Ausdehnung der indischen Tangflora.</kt>
+Todes, am Eingang des rothen Meeres, bis Inhambane ist bis jetzt
+kaum Eine Alge bekannt geworden, so interessant es auch wäre,
+die südliche Gränze der Algen des rothen Meeres und die nördliche
+der Algen der Cap-Colonie und des Natallandes, welche in diese
+Strecke fallen müssen, zu erfahren.</p>
+<p>Die Westküste des tropischen Amerika&2019;s gehört auch zu den
+in algologischer Beziehung bisher sehr vernachlässigten Theilen der
+Erdkugel, doch lässt schon das Wenige, was man davon weiss,
+eine eigenthümliche, von der ostasiatischen und polynesischen stark
+abweichende Algenflora annehmen, deren Schlüssel neben der weiten
+Entfernung auch in dem von dem Feuerlande heraufziehenden kalten
+Meeresstrom liegen dürfte. Ich habe sie daher auch ausgeschlossen.</p>
+<p>Endlich musste auch das tropische Dritttheil des grossen
+Continents von Australien als noch vollständig unbekannt wegfallen,
+da man wegen Mangels an europäischen Ansiedelungen &2014; Port
+Essington ist als misslungener Versuch eingegangen &2014; keine einzige
+Alge von daher kennt, so viele und merkwürdige man auch von
+dem aussertropischen Australien durch Robert Brown, Labillardière,
+Peron, Gunn, Harvey und Ferdinand Müller erfahren und erhalten
+hat, und so anziehend auch hier die Erforschung der Gränze dieser
+australischen Meergewächse gewesen wäre und einst sein wird.</p>
+<p>Die so begränzte Algenflora umfasst, von einem Wendekreise
+zu dem anderen, 47 Breitengrade und von Madagaskar, 45° O. L. von
+Greenwich, bis zu den Gambiers-Inseln, südöstlich von den Gesell-
+schafts-Inseln, 215° O. L., 170 Längengrade, was in runder Summe
+nahe an anderthalb Millionen geographische Quadratmeilen gibt.</p>
+<p>Dieser bedeutende Theil der Erdoberfläche lässt sich in fünf
+Provinzen theilen.</p>
+<li>I. Der tropische Theil des indischen Weltmeeres, von Mada-
+gaskar bis zur Westküste Hinterindiens.</li>
+<li>II. Das südchinesische Meer vom Golf von Siam bis zum Canal
+von Formosa, Ostküste Hinterindiens und Westküste von
+China mit den daneben liegenden Inseln.</li>
+<li>III. Die Philippinen.</li>
+<li>IV. Niederländisch Indien oder der grosse indische Archipel
+von Sumatra bis Timor, mit Einschluss der nun britischen
+Insel Singapore.</li>
+<li>V. Polynesien oder die zahlreichen Inselgruppen und Inseln
+des stillen Weltmeeres von den Sandwichs-Inseln bis zu
+<pb="35"/>
+<kt>Quellen für dieselbe.</kt>
+den Gesellschafts-Inseln, von Neuguinea bis zu den Gam-
+biers-Inseln.</li>
+<p>Die Fundorte mit gesperrter Schrift sind Ergebniss der
+preussischen Expedition.</p>
+<p>Die Finder und, wo diese unbekannt blieben, die Quelle,
+aus welcher die Nachrichten über dieses und das nordchinesisch-
+japanische Algengebiet geschöpft wurden, sind durch beigesetzte
+Anfangsbuchstaben, wie folgt, bezeichnet.</p>
+<li>B. <g>Bory de Saint Vincent</g>, geb. 1780 zu Agen, gest. 1846 in
+Paris, voyage dans les quatre principales îles des mers
+d&2019;Afrique. Paris 1804. III Vol. 8. (Vergl. auch d&2019;Urville.)</li>
+<li>Be. C. <g>Belanger</g>, Director des botanischen Gartens zu Pondi-
+chery, voyage aux Indes orientales. Botanique, Crypto-
+gamie. Paris 1836. 8. mit Atlas in 4.</li>
+<li>Bl. <g>Blanco</g>, P. Fr. Manuel, Agustino calzado, Flora de Filipinas.
+Manila 1845. gross 8.</li>
+<li>Bu. <g>Busseuil</g>.</li>
+<li>Bur. <g>Burnett</g> in an historical and descriptive account of China
+by Hugh Murray, John Crawfurd, Peter Gordon, Thomas
+Lynn, William Wallace and Gilbert Burnett, late Professor
+of Botany, Kings College, London. Edinburg 1836.
+III Vol. 8.</li>
+<li>C. <g>Cuming</g>, siehe Plantae cellulares, quas in insulis Philippi-
+nensibus a cl. Cuming collectas recensuit, observationibus
+nonnullis descriptionibusque illustravit C. Montagne. (Hoo-
+kers London Journal of botany. 8. Vol. III., p. 658&2014;662.)</li>
+<li>Ch. Ludwig Carl Adalbert <g>von Chamisso</g>, geb. 1781 zu Bon-
+court in der Champagne, gest. in Berlin 1838, begleitete
+1815&2014;1817 Kotzebue auf dessen Reise um die Welt.</li>
+<li>D. J. <g>Dumont d&2019;Urville</g>, geb. zu Condé sur Noireau, Calvados,
+1790, Zweit-Kommandirender auf der Weltreise der Co-
+quille 1822&2014;1825, Befehlshaber auf derjenigen der
+Astrolabe 1826&2014;1829 und der desselben Schiffes &00BB;au pole
+Sud&00AB; 1837&2014;1840, umgekommen bei dem bekannten Eisen-
+bahnunglück zu Versailles 1842. Er sammelte auf seinen
+Reisen selbst auch Algen, und sein Interesse für die Natur-
+geschichte erklärt die reiche Ausbeute jener Expeditionen.
+Voyage autour du monde sur la corvette la Coquille, publié
+par le commandant L. Duperrey. Botanique par Urville,
+<bs>3*</bs>
+<pb="36"/>
+<kt>Quellen</kt>
+Cryptogamie par Bory de St. Vincent. Paris 1828, 4., und
+Atlas Fol. (Auch unter dem besonderen Titel: Bory St.
+Vincent histoire des hydrophytes ou plantes des eaux re-
+coltées par M. Durville, Lesson etc. Paris 1829. 4.) Die
+erste Reise der Astrolabe hat keine Algen aus dem uns
+hier interessirenden Gebiete geliefert. Wegen der zweiten
+siehe Hombron et Jaequinot.</li>
+<li>E. Japanische Encyclopädie siehe weiter unten.</li>
+<li>G. <g>Gaudichaud</g>, machte zwei Weltreisen als Botaniker mit;
+Voyage autour du Monde, executé sur les Corvettes l&2019;Uranie
+et la Physicienne, sous les ordres du Capitain Freycinet en
+1817&2014;1820. Partie botanique par M. Ch. Gaudichaud,
+pharmacien de la marine. Paris 1826&2014;1827. 4. avec Atlas
+in folio, und Voyage autour du monde, executé sur la
+Corvette la Bonite, 1836&2014;1837. Botanique. Paris 1844&2014;
+1846. 8. (Die Algen von Montagne bearbeitet, die Kalk-
+algen unter den Thieren im zoologischen Theil.)</li>
+<li>Gll. E. <g>Le Guillou</g>, chirurgien-major auf dem französischen
+Schiffe la Zélée, vergl. die folgenden.</li>
+<li>H. J. <g>Hombron</g> und <g>Jacquinot</g>. Voyage au Pole Sud et
+dans l&2019;Océanie sur les corvettes l&2019;Astrolabe et la Zélée
+pendant les années 1837&2014;1840 sous le commandement de
+M. Dumont d&2019;Urville, publié sous la direction spéciale de
+M. Jacquinot. Botanique, Tom. 1. Plantes cellulaires, par
+M. C. Montagne. Paris 1845. 1 Bd. 8. und Atlas in Fol.</li>
+<li>Ho. <g>Horner</g>, Astronom aus Zürich, begleitete Krusenstern auf
+seiner Reise um die Welt mit den Schiffen Newa und Na-
+deshda.</li>
+<li>K. <g>Klein</g>, Missionar in Tranquebar.</li>
+<li>Kaem. <g>Kaempfer</g>, Engelbert, geb. 1631 in Lemgo, bereiste
+Ostasien von 1683&2014;1693, gab 1712 in Lemgo seine Amoe-
+nitates exoticae heraus und starb daselbst 1716.</li>
+<li>Koe. <g>Koenig</g>, Johann Gerhard, aus Kurland, ging 1768 als
+Missionsarzt nach Tranquebar, wo er 1785 starb.</li>
+<li>L. C. <g>Lay</g> und <g>Collie</g>, Ersterer der Naturforscher, Letzterer
+einer der Officiere auf der Expedition von Capitän Beechey,
+s. Botany of the voyage of Capt. Beechey by Sir Will.
+Hooker and Arnott. London 1841. 4.</li>
+<li>La. <g>Labillardière</g>, Jacques Jules, geb. 1745 zu Alençon, gest.
+<pb="37"/>
+<kt>der indischen Tangflora.</kt>
+1834, Botaniker der Weltumsegelung d&2019;Entrecasteaux&2019;s.
+Relation du voyage à la recherche de La Peyrouse. Paris
+1798. II Vol. 4. et 8. mit Atlas in Folio.</li>
+<li>Le. <g>Lesson</g>, R. P., Naturforscher auf der Reise der Coquille
+1822&2014;1825, siehe Dumont d&2019;Urville.</li>
+<li>Lo. <g>Loureiro</g>, Joao de, 30 Jahre lang Missionar in Ostindien.
+Flora Cochinchinensis. Ulyssiponae 1790. II Vol. 4. Ed. 2.
+curante C. S. Willdenow. Berolini 1793. II Vol. 8.</li>
+<li>M. <g>Martens</g>, Dr. Eduard von, Zoolog der preussischen ost-
+asiatischen Expedition.</li>
+<li>Ma. <g>Maillard</g>, notes sur l&2019;île de la Réunion (Bourbon). Paris
+1863. II Vol. und I Vol. Planches. 8.</li>
+<li>P. <g>Perottet</g>, G. Sam., bereiste mit Le Prieur Madagaskar und
+die Mascarenischen Inseln.</li>
+<li>Pe. <g>Perry</g>. Narrative of the expedition of an american squadron
+to the China seas and Japan, performed in the years 1852
+&2014;1854 under the command of Commodore M. C. Perry,
+United states Navy. Washington 1856. II Vol. 4. S. Wells
+Williams und Dr. James Marrow sammelten die Algen,
+wovon ein Theil verloren ging, 22 Arten von Dr. W. H.
+Harvey bestimmt wurden.</li>
+<li>R. <g>Reynaud</g>, reiste in Indien vor 1834.</li>
+<li>Re. <g>Reinwardt</g>, Caspar Georg Carl, geb. 1773 zu Lüttring-
+hausen, bereiste 1815&2014;1822 niederländisch Indien.</li>
+<li>Rph. Georg Eberhard <g>Rumph</g>, geb. zu Hanau, 1637 Kaufmann
+und Rath auf Amboina, gest. daselbst 1706. Sein hinter-
+lassenes Werk: Herbarium Amboinense, 1750 von Burmann
+herausgegeben.</li>
+<li>S. <g>Schottmüller</g>, Otto, zweiter Botaniker der preussischen
+ostasiatischen Expedition.</li>
+<li>Si. <g>Siebold</g>, Philipp Fr. von, geb. 1796 zu Würzburg, 1823&2014;
+1830 und später wieder in Japan, Verfasser einer Flora
+japonica.</li>
+<li>T. <g>Telfair</g>, Charles, geb. um 1778 zu Belfast in Irland, gest.
+1833 zu Port Louis auf Mauritius.</li>
+<li>Th. <g>Thunberg</g>, Carl Peter, geb. 1743 zu Joenkoeping, war
+1775&2014;1778 in Batavia und Japan, gest. 1828 zu Tunaberg
+bei Upsala. Flora japonica. Lipsiae 1784. 8.</li>
+<li>Ti. <g>Tilesius</g> von Titenau, W. G., geb. 1769 zu Mühlhausen in
+<pb="38"/>
+<kt>Falsche Fundortsangaben.</kt>
+Thüringen, begleitete Krusenstern auf dessen Reise um die
+Welt.</li>
+<li>V. Rev. G. H. <g>Vachell</g>, Kaplan der englischen Factorei in
+Kanton, 1827, theilte Pflanzen an die Expedition von
+Beechey mit, siehe Lay und Collie.</li>
+<li>Vi. <g>Vieillard</g>.</li>
+<li>W. <g>Wichura</g>, erster Botaniker bei der preussischen ostasiatischen
+Expedition.</li>
+<li>Wa. <g>Watts</g>, G., theilte Turner Algen mit.</li>
+<li>Wi. <g>Wight</g>, Robert, Prodromus florae peninsulae Indiae orien-
+talis 1834.</li>
+<li>Z. <g>Zollinger</g>, H., aus Zürich, vor wenigen Jahren auf Java
+gestorben. Systematisches Verzeichniss der im indischen
+Archipel in den Jahren 1842&2014;1848 gesammelten Pflanzen.
+Zürich 1854. 8.</li>
+<p>Noch blieb eine Schwierigkeit zu überwinden, die An-
+wendung einer strengen Kritik zur Beseitigung aller irriger Weise
+der in Frage stehenden Flora zugeschriebenen Arten. Diese in
+früherer Zeit häufigeren, jetzt selteneren, aber immer noch vor-
+kommenden und durch Anführung derselben auch in den neuesten
+Werken angehäuften Irrthümer mögen zum kleineren Theile durch
+unrichtige Bestimmung entstanden sein, die Mehrzahl aber dadurch,
+dass Reisende, welche die im Meere schwimmenden oder am Strande
+ausgeworfenen Seegewächse zum Zeitvertreibe oder um einen be-
+freundeten Sammler damit zu erfreuen, auffischen und auflesen, bei
+dem Mangel an Interesse für Pflanzengeographie solche in einem
+Pack vereinigen, von welchem dann der Empfänger annimmt, es
+enthalte lauter am Bestimmungsorte des Reisenden gesammelte
+Sachen.</p>
+<p>Beispiele für beide Fälle sind:</p>
+<li>Sargassum bacciferum Ag., im indischen Ocean und stillen Welt-
+meer nach Turner, hist. fuc. I., p. 105, im Mittelmeer, der
+Sundastrasse (Tilesius), Neuholland (Preiss) und Neu-
+Seeland (d&2019;Urville) nach J. Agardh, spec. alg. I., p. 344.</li>
+<li>Gelidium cartilagineum Gaillon, bei Finnmarken nach Gunner,
+Nizza nach Allione, Ragusa nach Wulfen, Portugal an der
+Mündung des Tajo nach Link, Teneriffa nach Mertens,
+Brasilien nach Martius, Californien nach J. Agardh.</li>
+<p>Mir selbst kam ein solcher Fall vor; in einer Abendgesellschaft
+<pb="39"/>
+<kt>Algae pseudo-indicae.</kt>
+traf ich mit einem eben aus Bahia in Brasilien zurückgekehrten
+Reisenden zusammen und fragte ihn, ob er keine Algen mitgebracht
+habe. Er bejahte es und übersendete mir den folgenden Morgen
+ein Päckchen einfach getrockneter Algen. Ich machte mich sogleich
+daran, sie aufzuweichen und für das Herbar einzulegen, es waren
+gegen zwanzig Arten; aber ich erstaunte nicht wenig, darunter nur
+sechs Brasilianer zu finden, die anderen waren alte Bekannte, ächte
+Triestiner mit triestinischen Zoophyten, Parasiten und triestinischem
+Sande. Wäre ich leichtgläubig und nie in Triest gewesen, so hätte
+ich die Flora von Brasilien durch ein ganzes Dutzend falscher Arten
+entstellt, um so mehr, da ich nicht anders glaubte, als dass mein
+Reisender über England gekommen sei; doch es waren einmal
+Triestiner, ich reihte sie als solche ein und erfuhr erst später, er
+sei wirklich über Triest gekommen und habe dort einen Theil der
+mir gegebenen Algen am Meeresufer aufgelesen und zu den anderen
+gelegt.</p>
+<p>Entschiedener Widerspruch reizt lebhafter zur Erforschung
+der Wahrheit, als ein blosses Fragezeichen, und so wage ich es,
+selbst auf die Gefahr hin, dass eine oder ein paar derselben doch
+noch innerhalb der oben bezeichneten Gränzen aufgefunden würden,
+folgende einunddreissig Algenarten als
+<c><g>Algae pseudoindicae</g></c>
+auszuschliessen.</p>
+<li><g>Conferva dichotoma</g> Loureiro, flora cochinchinensis p. 847,
+in Seen in Cochinchina. (Ist nicht die Linnéische, sondern
+eine Nitella.)</li>
+<li><g>Fucus vulpinus</g> Esper Icones fucorum I., p. 194, tab. 106.,
+unter anderen ostindischen Tanggattungen. (Von Niemand
+citirt, dürfte das capische Stypocaulon paniculatum Kg. sein.)</li>
+<li><g>Halimeda Tuna</g> Maillard, Insel Bourbon. (Die ächte ist rein
+mittelländisch, diese wahrscheinlich H. cuneata Hering =
+H. obovata Kg.)</li>
+<li><g>Haliseris polypodioides</g> Lx. e Zeylona accepit Linnaeus,
+Turner Fuci II., p. 41. (Vorzugsweise mittelmeerisch, weit
+verbreitet, aber nirgends die Wendekreise erreichend.)</li>
+<li><g>Haliseris Woodwardia</g> Ag. in septentrionalibus novae Hol-
+landiae oris, D. Brown, Turner Fuci III., p. 53. (Kann
+sich nur auf das aussertropische Neuholland beziehen, da
+R. Brown das tropische nicht betrat.)</li>
+<pb="40"/>
+<kt>Fälschlich aus dem indischen</kt>
+<li><g>Zonaria Durvillei</g> Bory, Insel Mauritius nach Harvey, nach
+J. Agardh, spec. alg. I., p. 114, kaum von Z. pavonia ver-
+schieden, also nicht die ächte.</li>
+<li><g>Desmarestia aculeata</g> Lx. e Zeylona accepit Linnaeus, Turner
+Fuci III., p. 123. (Hochnordisch, von Grönland und Spitz-
+bergen kaum bis an Frankreichs Nordküste herabgehend,
+fehlt schon bei Biarritz und kommt in Ceylon eben so
+wenig vor, als in Spanien, Brasilien und im schwarzen
+Meer, woher sie auch irrig angegeben wird.)</li>
+<li><g>Macrocystis pirifera</g> Ag. in Oceano aethiopico, Linné (soll
+am Cap heissen). Bei Sumatra, Esper Ic. Fuci II., p. 29.
+Mare indicum, Sundevall, J. Ag., spec. alg. I., p. 157.</li>
+<li><g>Macrocystis planicaulis</g> J. Ag. in mari indico J. Ag., spec.
+alg. I., p. 155.</li>
+<li><g>Macrocystis Humboldti</g> Ag., Otaheiti, Lay et Collie.</li>
+<li>(Die ganze Gattung ist rein antarctisch, hat sich an
+dem Südende von Amerika am stärksten, schwächer an
+dem von Neuholland, am schwächsten in Süd-Afrika
+angesiedelt und erreicht nirgends den Wendekreis des
+Steinbocks.)</li>
+<li><g>Hormosira Billardieri</g> Bory sp., Insel Leyden bei Batavia
+H. J., sonst nur von Neuseeland bekannt.</li>
+<li><g>Fucus serratus</g> L., Insel Bourbon nach Montagne in Maillard
+Notes sur l&2019;île de la Réunion. (Reine Nordseealge, die
+schon bei Biarritz und im Mittelmeer fehlt und an der
+Insel Bourbon so wenig vorkommen kann, als am Cap,
+wo Suhr sie angab.)</li>
+<li><g>Fucus chondrophyllus</g> Brown, Neu-Guinea, Lesson nach
+Bory. (Neu-Seeland und südliches Neuholland.)</li>
+<li><g>Cystosira corniculata</g> Zanardini ex insula Zeylona accepit
+Linnaeus, Turner III., p. 135. (Ist rein mittelmeerisch.)</li>
+<li><g>Cystosira barbata &03B3; obtusa</g> Turner, in mari Zeylonam
+alluente legit et cum Linnaeo communicavit Thunberg:
+Turner Fuci IV., p. 126. (C. barbata Ag. ist rein mittel-
+meerisch, was unter Turner&2019;s Spielart zu verstehen sei,
+nicht zu enträthseln.)</li>
+<li><g>Anthophycus longifolius</g> Turn. Ostindische Meere, Esper
+Icones fucorum I., p. 58. (Soll heissen am Cap der guten
+Hoffnung.)</li>
+<pb="41"/>
+<kt>Ocean angegebene Tange.</kt>
+<li><g>Sargassum bacciferum</g> Turn. Sundastrasse, Tilesius. Phi-
+lippinen, Cuming. (Verwechselung mit anderen Arten.)</li>
+<li><g>Myagropsis Thunbergii</g> Kg. Makao, Mus. Paris. J. Ag.,
+spec. alg. I., p. 233. (Ist rein nordchinesisch.)</li>
+<li><g>Sargassum cymosum</g> Ag. Mangareva-Inseln und Magellan-
+strasse, H. J. Atlantische Küsten des tropischen Amerika
+nach Kützing; es scheint daher wenig glaubwürdig, dass
+alle drei Angaben richtig seien oder sich auf dieselbe Art
+beziehen.</li>
+<li><g>Ballia Hombroniana</g> Montagne. Insel Leyden (bei Batavia),
+sonst nur von der Auckland-Insel bekannt, ihre nächste
+Verwandte von Kerguelensland und Cap Horn.</li>
+<li><g>Mastophora Decaisnei</g> Kg., deren Dasein Areschoug bei J.
+Agardh, spec. alg. II., p. 529, widerspricht, wird von Mon-
+tagne unter Cuming&2019;s Algen von Manila als M. licheniformis
+aufgeführt.</li>
+<li><g>Spongocarpus Horneri</g> Turn. sp. Cochinchina, G., ist eine
+nordchinesisch-japanische Art.</li>
+<li><g>Corallina rigida</g>, India orientalis? Kg., spec. alg. p. 708, habe
+ich als unsicher übergangen.</li>
+<li><g>Calliphyllis variegata</g> J. Ag. Neu-Guinea, Lesson. (Chile,
+Cap Horn und Kerguelensland.)</li>
+<li><g>Rhynchococcus coronopifolius</g> Kg. e Zeylona est missus
+ad Linnaeum, Turner Fuci II., p. 133. (Ist rein europäisch.)</li>
+<li><g>Gelidium cartilagineum</g> Gaillon, im indischen Ocean von den
+Philippinen bis Madagaskar, J. Agardh, spec. alg. II., p. 473.
+(Ist wahrscheinlich Gelidium Amansii Lamouroux; das ächte
+G. cartilagineum erhielt ich nie wo anders her, als aus der
+Cap-Colonie, von wo es schon Seba und Gmelin bekamen
+und es früher viel häufiger, als gegenwärtig, nach Europa
+gebracht wurde.)</li>
+<li><g>Gelidium cornigerum</g>, Indes orientalis, Lamouroux Essai p. 41.
+(Als unenträthselbar von Jedermann übergangen.)</li>
+<li><g>Suhria vittata</g> J. Ag. ad insulas Molukkas, Herb. Binder, J.
+Ag., spec. alg. II., p. 480. (Rein capisch, auf den Molukken
+so unbekannt, wie in Brasilien und Südamerika, wo sie
+eben so unbestimmt angegeben wird.)</li>
+<li><g>Sphaerococcus concinnus</g> R. Br. sp. Gesellschafts-Inseln,
+Lay und Collie. Ist eine Art von Neuholland und Peru
+<pb="42"/>
+<kt>Die Tange des Rumph.</kt>
+(Voy. Bonite, botanique p. 100). Die obige Angabe wird
+durch die beigefügte Macrocystis verdächtig und nicht
+wahrscheinlicher dadurch, dass Guillemin, der Lay&2019;s An-
+gabe kannte, auch diese zwei und eben nur diese zwei
+Algen von den Sandwichsinseln anführt. (Ann. sc. nat.,
+seconde séries, Vol. VI., 1836, p. 310.) E. v. M.</li>
+<li><g>Sphaerococcus palmatus &03B4; marginiferus</g> Ag. ad rapes
+littoris Javae austro-orientalis, Prov. Malang, Zollinger
+systematisches Verzeichniss der im indischen Archipel ge-
+sammelten Pflanzen, Seite 3. (Ist in der Nordsee zu Hause
+und fehlt schon im südlichen Europa.)</li>
+<li><g>Thaumasia flava</g> in freto Zeylanico, Agardh Syst. Algarum
+p. 196. (Könnte die im indischen Meere häufige Spongia
+aculeata L. sein.)</li>
+<hr>
+<p>Die ersten Nachrichten über Algen des indischen Oceans
+hat Georg Eberhard <g>Rumph</g> gegeben, welcher selbst lange Zeit
+als Kaufmann und Beamter der holländisch-ostindischen Gesellschaft
+auf Amboina lebte; da seine Beschreibungen und Abbildungen von
+den neueren Systematikern selten und nicht immer richtig citirt
+werden, so möge eine Aufzählung und Bestimmung derselben hier
+folgen. Letztere wurde, wie bei den von den alten Classikern
+erwähnten Pflanzen und Thieren, nur dadurch möglich, dass man
+von den in denselben Gegenden heute noch vorkommenden ausgeht
+und nur unter ihnen auswählt, was auf die Worte des Schriftstellers
+sich beziehen lasse. Rumph behandelt die Algen im sechsten Band
+des Herbarium Amboinense, im eilften, den weichen Wasserpflanzen
+gewidmeten Buch, während das zwölfte die damals als Pflanzen
+geltenden Zoophyten und Schwämme enthält.</p>
+<li>1) Capillus nympharum, Seite 179, Taf. 40., Fig. 3., malaiisch
+lumut laut, d. h. Meermoos, oder sayor kompan, an den
+Mündungen einiger Flüsschen von Amboina, namentlich des
+Weynitu, grün, Algen aus der Familie der Conferven und,
+der Lokalität nach zu schliessen, zunächst <g>Chaetomorpha
+Javanica</g> Kg., welche mein Sohn an der angegebenen Stelle
+wieder gesammelt hat.</li>
+<li>2) Alga coralloides, Seite 181, Taf. 74., Fig. 3. und Taf. 76.,
+<pb="43"/>
+<kt>Agarum von Rumph.</kt>
+Fig. A., B., C., malaiisch sayor-karang, Korallenriffgemüse,
+und agar agar karang, von der offenen Südostküste Amboina&2019;s
+(Lei-timor), ist sicher <g>Sphaerococcus lichenoides</g> Ag.,
+wofür sie auch schon von Gmelin (unter dem Namen Fucus
+edulis) erkannt wurde. Der ältere Agardh, species algarum I.,
+p. 310, citirt sie zu seiner var. &03B2; tenuis, worin J. Agardh Sph.
+confervoides vermuthet. Beide Arten variiren übrigens bedeu-
+tend in der Dicke der Stämme und Zweige, Rumph unter-
+scheidet viererlei Arten davon, wahrscheinlich andere Florideen
+mit umfassend.</li>
+<li>3) Agarum, Seite 85, nach dem malaiischen Worte agar-agar,
+das verschiedene grössere, namentlich die als Speise benutzten
+Algen bezeichnet, ein Name, der sehr unpassend von den
+Systematikern auf ganz andere, dem indischen Ocean fremde
+Algen übertragen wurde. Rumph unterscheidet davon auch
+viererlei Arten:</li>
+<li>a) Acetabulum marinum, an flachen Orten des Strandes,
+unsere Turbinarien, zunächst wohl die im indischen
+Ocean häufigste <g>Turbinaria ornata</g> J. Ag. Das dabei
+erwähnte grüne laki-laki (Männchen) ist vielleicht auf
+Chauvinia macrophysa zu deuten.</li>
+<li>b) Agarum secundum sive bracteatum, Seite 186, von der
+Südspitze von Amboina (Hoek van Nussaniva), ohne
+Zweifel der von Zollinger entdeckte <g>Mastocarpus
+Klenzeanus</g> Kg., auf welchen namentlich die zweierlei
+Blätter passen. Mastocarpus radula, für welchen es sonst
+erklärt wurde, ist eine Alge vom Cap und passt nicht zu
+Rumph&2019;s Beschreibung, wie schon der ältere Agardh,
+spec. alg. I., p. 26, richtig gegen Turner bemerkt.</li>
+<li>c) Agarum funiculare sive foliatum, Seite 186, umfasst drei
+Sargassen, im erstbeschriebenen ist <g>Carpacanthus
+herbaceus</g> (Sarg.) Kg., in der altera forma <g>Sargassum
+granuliferum</g> Ag. zu erkennen.</li>
+<li>d) Agarum lactucarium sive Lactuca marina enthält ver-
+schiedene Florideen, die letzterwähnte, &00BB;composita ex
+simplicibus et tenuissimis laciniis&00AB;, kann <g>Hypnea di-
+varicata</g> J. Ag. sein.</li>
+<li>Ueber Agarum corticosum sive culeola, Seite 187, wage
+ich keine Vermuthung.</li>
+<pb="44"/>
+<kt>Weitere Tange bei Rumph.</kt>
+<li>Bei dieser Gelegenheit erwähnt Rumph noch dreier Tange,
+welche er an den atlantischen Küsten von Spanien und Portugal
+beobachtet hat, S. 187, es sind <g>Fucus vesiculosus</g> L., unter der
+portugiesischen Bezeichnung bodelhas, <g>Sargassum flavifolium</g>
+Kg. und <g>Himanthalia lorea</g> L., Lyngb., portugiesisch sargasso.</li>
+<li>4) Sargassum pelagicum, S. 188, ist das oben besprochene <g>Sar-
+gassum bacciferum</g> Ag., auf der Seereise beobachtet und
+Taf. 76., Fig. 2. abgebildet, wo aber die Tafelerklärung miss-
+verständlich es das Strand-Sargasso nennt. Rumph kannte
+sehr wohl das Vorkommen dieses Tanges, namentlich auch,
+dass er frei schwimmt, und weisst mit Recht einige aben-
+theuerliche Hypothesen über dasselbe zurück. Das Sargassum
+von Amboina, Taf. 76., Fig. 1., stellt ein schön aufgelegtes
+<g>Sargassum polycystum</g> J. Ag. dar.</li>
+<li>5) Muscus gelatinus japonensis, S. 90, ist sicher das von Siebold
+aus Japan mitgebrachte <g>Gelidium Amansii</g> Kg., aber Rumph
+scheint verschiedene andere heterogene Gegenstände nicht ge-
+hörig davon zu unterscheiden.</li>
+<hr>
+<p>Unter den Erzeugnissen der philippinischen Presse, welche
+mein Sohn von Manila mitgebracht hat, befinden sich auch zwei
+botanische Schriften, von zwei dortigen Augustinermönchen verfasst.</p>
+<p>Die erste ist: Flora de Filipinas por el P. Fr. Manuel <g>Blanco</g>,
+Agustino calzado, segunda impression. Manila 1845. LX und 620 S.
+gr. 8., es lässt sich etwas auf die Algen ein, aber nur mit geringer
+Sachkenntniss.</p>
+<p>Wir finden hier Seite 578 Tremella. Ein Stoff, wie Gallerte,
+von verschiedener Grösse und Gestalt. Ich habe diese Tremellen,
+von welchen ich jetzt reden will, bei vielen Gelegenheiten am Ufer
+des Meeres an verschiedenen Stellen gesehen, auf den Steinen aus-
+gebreitet, welche die Fluth bedeckt und die Ebbe entblösst; ich
+hatte sie jedoch nie viel beachtet, bis ich mich einmal auf einem
+öden Ufer der Insel Negros von vielen ähnlichen Steinen umgeben
+befand, welche damit wie mit Decken schön überzogen waren,
+einige von dunkelgrüner Farbe, andere gelb; ich stiess ohne irgend
+eine Absicht mit dem Stock auf eine dieser Decken und war nicht
+<pb="45"/>
+<kt>Philippinische Tange bei Blanco.</kt>
+wenig erstaunt, als ich sah, dass sich jene ganze Masse gleichzeitig
+zusammenzog, indem sie aus den Oeffnungen, welche sie hatte,
+ziemlich viel Wasser ausspritzte. Ich wiederholte dasselbe einige
+Mal an anderen mit gleichem Erfolg. Dieses ist wirklich eine
+sonderbare Erscheinung, welche nach Jussieu schon Adanson an
+einigen Tremellen beobachtet hat. (Vermuthlich gesellige Ascidien.)</p>
+<p>Die Schriftsteller der Inseln versichern auch, dass man an
+einigen Ufern eine dem Kohl ähnliche reizbare Pflanze antreffe, Seite 579,
+welche sich zurückziehe und verberge, indem sie der Hand ent-
+schlüpfe, welche sie fassen wolle. Sie besitze viel Schleim, und
+das Sonderbarste dabei sei, dass die kleinen Fischchen in sie hin-
+eingehen und sie häufig berühren, ohne dass sie dabei eine Reiz-
+barkeit zeige. (Eine Spongia?)</p>
+<p>Fucus prolifer. Kurzer, runder Stamm, welcher sich in zwei
+oder mehr Aeste theilt, mit Blasen, welche fleischige grüne Blätter
+scheinen, alle nach einer Seite gerichtet und an einander gereiht,
+wie bei den Opuntien; einige unregelmässig kreisrund, andere keil-
+förmig oder rhomboidisch und gelappt. Was Blätter zu sein scheint,
+sind in Wirklichkeit grosse, stark flachgedrückte Blasen und bildet
+keinen dichten Körper, sondern hat eine Höhlung zwischen den
+zwei Oberflächen der Blätter. &2014; Ist eine einen Fuss hohe Pflanze,
+sehr selten, die ich an der Punta Santiago (Luzon) gesehen habe.
+Die Blätter sind einen Zoll breit (Halimeda discoidea Decaisne,
+cuneata Kg., Opuntia Lx. und triloba Decaisne).</p>
+<p>Fucus natans. Stamm ästig, mit stielrunden Zweigen. Blätter
+lanzettlich, fein gezähnelt, die reifen mit Bärten. Früchte in kleinen,
+Erbsen ähnlichen, eirunden, etwas zusammengedrückten Blasen
+mit kleinem Stiel. &2014; Es sind sehr häufige Algen, welche man ge-
+wöhnlich im Meer in grösseren oder kleineren Haufen treiben sieht.
+Die Farbe ist fahl braun, und die pergamentartigen Blätter sind
+über einen Zoll lang. Die Eingeborenen von Ilocos essen sie, ich
+weiss aber nicht, wie sie dieselben zubereiten. (Verschiedene Arten
+von Sargassum.)</p>
+<p>Seite 580. Fucus edulis. Ist ein Kraut, welches die Wogen
+an den Strand werfen und das bis in den an das Meer anstossenden
+Seen gefunden wird. Es ist sperrig, am Fusse gegabelt, sehr ästig,
+stielrund, durchscheinend wie Kleister oder Gallerte, brüchig und
+mit Warzen besetzt, in welchen die Samen verborgen liegen. &2014;
+Häufig bei den Dörfern Tambobon, Paranaque und anderen. Es
+<pb="46"/>
+<kt>Angaben über philippinische</kt>
+ist weit über einen Fuss lang und eine bis zwei Linien dick. Die
+Eingeborenen kennen es, benutzen es und verkaufen es in Manila;
+sie waschen es gut aus, trocknen und bleichen es an der Sonne
+und machen dann ein sehr angenehmes Eingemachtes daraus, indem
+sie es mit einem Zusatz von Zucker kochen. Dieses Kraut löst sich
+im Sieden auf und bildet eine Gallerte von der Gestalt der Form,
+in welche sie gegossen wird. Diese Gallerte ist dann sehr glatt,
+durchscheinend und brüchig, und ein Sachverständiger hat mir ver-
+sichert, dass sie eine kühlende und sehr schätzbare Arznei für
+Brustleidende sei, wenn man ein wenig Lichen pulmonarius hinzu-
+füge. (Sphaerococcus gelatinus Ag.)</p>
+<p>Am Meeresufer jener Ortschaften werfen die Wogen auch eine
+Menge Kräuter aus, welche, obgleich sie von jenen verschieden zu sein
+scheinen, weil sie viel dünner sind, doch auch gallertartig sind, daher
+ich glaube, dass sie das Gleiche seien. (Sphaerococcus lichenoides Ag.)</p>
+<p>Ich habe bemerkt, dass diese Kräuter, wenn sie austrocknen,
+eine Purpurfarbe haben, hinreichend schön, welche vielleicht eine
+verständige Hand der Leinwand mittheilen könnte. Ich nahm ein
+Stückchen von diesem schon seit einigen Tagen trockenen Kraut,
+und nachdem ich es nass gemacht hatte, habe ich, ohne mich vor-
+zubereiten oder daran zu denken, was daraus werden würde, sie
+mit einem Tropfen Salzsäure, welchen ich zufällig hatte, auf der
+Ecke eines weissen Schnupftuches ganz ausgezogen, und es theilte
+letzterem augenblicklich eine sehr angenehme Purpurfarbe mit;
+blosses Wasser zog keine Farbe aus. Diese kurze Nachricht kann
+vielleicht die Neugierde einer überlegenden und fleissigen Person,
+welche sich in günstigeren Verhältnissen als ich befindet, auf-
+muntern, sich die Mühe zu nehmen, diese und andere ähnliche
+Kräuter dieser Meere, welche unzählbar sind, in Beziehung auf den
+Nutzen zu untersuchen, welchen sie für Gewerbe und Heilkunde
+haben könnten. Tagalisch Gulaman.</p>
+<p>Ich habe auch ein Meergewächs gesehen, welches eine Art
+von Fucus ist, es besteht aus flachen Zweigen mit sehr kleinen
+Fäden, wie am Ende ausgefranzte Bänder. Die Eingeborenen der
+Batanes-Inseln bringen es nach Ilocos und verkaufen es daselbst,
+es wird gegessen. Getrocknet hat es eine der des Gulaman ähnliche
+Farbe und theilte, auf die oben angeführte Weise behandelt, dem
+Schnupftuch eine ähnliche Färbung mit, doch nicht so stark, weil
+es schon seit einigen Monaten trocken war. (Grateloupia filicina Ag.?)</p>
+<pb="47"/>
+<kt>Tange bei Blanco.</kt>
+<p>Seite 581 ich habe auch die folgenden Fucusarten gesehen,
+unter vielen anderen, deren Aufzählung zu weitläufig und deren
+Bestimmung für mich zu schwierig wäre.</p>
+<p>Die eine besteht aus vielen rosenkranzartig an einander ge-
+reihten Bläschen. Sie ist an vielen Meeresufern häufig. Ist vielleicht
+Fucus concatenatus. (Eine Sirophysalis?)</p>
+<p>Eine andere besteht aus vielen herzförmigen Bläschen, trau-
+benförmig gereiht, mit Flecken, oben abgeschnitten mit einem
+gezähnten Saum. (Turbinaria ornata J. Ag.)</p>
+<p>Eine andere endlich mit halbrunden, zusammengedrückten
+Zweigen, weich und wie wollig, welche sich wieder einige Male
+theilen, mit einer Reihe von Oeffnungen auf einer Seite. Es ist
+eine Meerpflanze, eine Spanne hoch und von blauer Farbe. (Codium
+tomentosum St.)</p>
+<p>Ulva umbilicalis. Es ist eine etwas concave Alge, kreisrund,
+angewachsen, schildförmig, biegsam und mit concentrischen Linien.
+&2014; Ist häufig im Meer von Batangas, in Pinamocan, Bauang und an
+dem Dayatan genannten Orte. Ist einen Zoll breit, und es wachsen
+viele bei einander an den Steinen. (Zonaria gymnospora Kg.)</p>
+<p>Ulva compressa. Es sind viele Röhren, welche von einem
+Puncte aufsteigen, am Ende zugespitzt, hohl, sehr dünn, zusammen-
+gedrückt und von grüner Farbe. &2014; Ist sehr häufig im Meer von
+Batangas, einen Zoll hoch und sehr zart und weich. (Enteromorpha
+complanata &03B3; crinita Kg.)</p>
+<p>Ulva reticulata. Hat das Laub voller Oeffnungen mit zusammen-
+gedrückten, in Gestalt eines Netzes verwachsenen Aesten und mit
+vielen, wenig sichtbaren Blättchen. &2014; Ist häufig im Meer von
+Batangas und in anderen Gegenden, die Farbe wie fahl braun, sie
+ist weich, und ich zweifle, ob die Eingeborenen sie einmachen.
+(Encoelium clathratum Ag.)</p>
+<p>Ulva intestinalis. Es sind Kräuter von grüner Farbe, von
+Gestalt gleicher Röhren, einfach, häutig, lang, ungleich zusammen-
+gedrückt, an Stellen aufgeblasen und an anderen flach, so dass sie
+wie Gedärme aussehen.</p>
+<p>Seite 582. Diese Kräuter sind wenig mehr als eine Linie
+breit und verworren unter einander gemengt. In dem Innern der
+Röhren gibt es einige Tropfen Wasser. &2014; Sind häufig in den zurück-
+bleibenden Lachen und haben keinen Namen. (Enteromorpha in-
+testinalis Link.)</p>
+<pb="48"/>
+<kt>Tange bei Llanos.</kt>
+<p>Conferva litoralis (ist offenbar eine Chara).</p>
+<p>Seite 583. Conferva setosa, eine Alectoria (Flechte) oder
+Tillandsia.</p>
+<p>So weit Pater Blanco.</p>
+<p>Ein Supplement hierzu: Fragmentos de algunas plantas de
+Filipinas por el P. Fr. Antonio <g>Llanos</g>, Agustino calzado. Manila
+1851. 126 S. 12., enthält nur folgende hierher gehörige Stelle:</p>
+<p>Seite 113. Confervinische Algen. Conferva Lia. Ich habe
+keine Gelegenheit gehabt, diese Kryptogame zu beschreiben, zweifle
+aber beinahe nicht, dass sie in diese Gattung gehöre. Sie wächst
+in stehendem und langsam fliessendem Wasser, und man muss sich
+vor ihr in acht nehmen, da, wie ich gehört habe, die Fische und
+sogar die Büffel manchmal durch sie umkommen. Die Eingeborenen
+kennen sie und nennen sie Lia.</p>
+<p>Pater Llanos hat wohl von dieser Lia etwas gehört, aber
+nichts gesehen, wahrscheinlich ist sie eine unseren Potamogetonen
+ähnliche fluthende phanerogame Pflanze, welche die Fische wohl
+schützen, ihnen aber nicht schaden kann, immerhin jedoch in&2019;s
+Wasser gerathenden Menschen und Landthieren gefährlich.</p>
+<p>Lia ist kein tagalisches Wort, sondern der spanische Name
+der aus dem Espartogras, Stipa tenaeissima L., gedrehten Stricke,
+von liar, binden, verwandt mit Liana, dem spanischen Namen des
+Hagseils, Clematis Vitalba L., im spanischen Amerika auf Schling-
+pflanzen überhaupt ausgedehnt und für solche in andere Sprachen
+übergegangen.</p>
+<hr>
+<p>Der Anordnung der folgenden Uebersichten liegt, wie der
+vorhergegangenen Aufzählung, die Classification in Kützing&2019;s species
+algarum zu Grunde; die Gattungen und Familien sind mit wenigen
+Ausnahmen so angenommen, wie er sie bestimmt hat. Nur in Betreff
+der höheren Abtheilungen sind dessen Classen, Subclassen, Tribus,
+Ordnungen und Unterordnungen, welche kein späterer Autor an-
+genommen, bei Seite gelassen und dafür, schon der leichteren
+Uebersicht wegen, die altbekannten Namen der Nostochineen,
+Confervaceen, Florideen beibehalten, denen sich die Palmellaceen
+und Siphoneen als gleichwerthig anreihen. Nur die Fucoideen
+<pb="49"/>
+<kt>Anordnung der Fucoideen.</kt>
+konnten Angesichts der neueren Entdeckungen über ihre Fort-
+pflanzung nicht in dem früheren, noch von J. Agardh beibehaltenen
+Umfang belassen werden und mussten in die zwei Abtheilungen
+Phaeosporeen (mit Zoosporen) und Fucaceen (Tribus Angiospermeae
+bei Kützing) zerfällt werden, während die Dictyoteen trotz ihrer
+Farbe wegen der Uebereinstimmung in der Fructification zu den
+Florideen gebracht wurden. Dieses veränderte denn auch noth-
+wendiger Weise für einige Familien und Gattungen die Kützing&2019;sche
+Reihenfolge.</p>
+<p>Ich glaube diese Anordnung am besten mit den Worten von
+A. Le Jolis zu rechtfertigen: &00BB;ce serait en effet une prétention chimé-
+rique dans l&2019;état actuel de nos connaissances que de vouloir donner
+une classification definitive des algues. Mais d&2019;autre part, il est
+devenu impossible de conserver sans modifications des systèmes
+qui ne sont plus en rapport avec les faits acquis à la science, sur-
+tout en ce qui concerne les algues olivacées.&00AB; (Liste des algues
+marines de Cherbourg. Paris et Cherbourg 1863. 8. p. 12.)</p>
+<hr>
+<bs>Ost-Asien. Botanisch I. 4</bs>
+<pb="50"/>
+<d3><g>Ueber</g>
+des gegenwärtigen Standes der tropischen</d3>
+<tab>
+<pb="51"/>
+<d3><g>sicht</g>
+Indisch-Polynesischen Algenflora.</d3>
+<tab>
+<bs>4*</bs>
+<pb="52"/>
+<kt>Süsswasser-Algen innerhalb der Wendekreise</kt>
+<tab>#<fn="*)">Conferva arborum Agardh von den Marianen ist nach dem Zeugniss von</fn>
+<pb="53"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<fnf>Gaudichaud, voy. de Freycinet, bot. p. 214 ein Coelogonium, also keine Alge.</fnf>
+<pb="54"/>
+<kt>Süsswasser-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="55"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="56"/>
+<kt>Süsswasser-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="57"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="58"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="59"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="60"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="61"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="62"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="63"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="64"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="65"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<bs>Ost-Asien. Botanisch I. 5</bs>
+<pb="66"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>#<fn="*)">Nesaea nodulosa Quoy und Gaimard Voy. de l&2019;Uranie zoologie p. 622, nicht</fn>
+<pb="67"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<fnf>granulosa, wie Kützing irrthümlich schreibt.</fnf>
+<bs>5*</bs>
+<pb="68"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="69"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="70"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="71"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="72"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="73"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="74"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="75"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="76"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="77"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="78"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="79"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="80"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="81"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<bs>Ost-Asien. Botanisch I. 6</bs>
+<pb="82"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="83"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<bs>6*</bs>
+<pb="84"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="85"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="86"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="87"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="88"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="89"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="90"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="91"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="92"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="93"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="94"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>#<fn="*)">Kützing spec. alg. S. 767 nennt auch île de France und Rawak auf Gaudi-
+die Sandwichinseln für diese, île de France für die vorhergehende Art als Fundort an.</fn>
+<pb="95"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<fnf>chaud&2019;s Autorität; Gaudichaud selbst aber voy. de l&2019;Uranie, bot. S. 163 gibt nur</fnf>
+<pb="96"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="97"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<bs>Ost-Asien. Botanisch I. 7</bs>
+<pb="98"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="99"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<bs>7*</bs>
+<pb="100"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="101"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="102"/>
+<kt>Meer-Algen innerhalb der Wendekreise</kt>
+<tab>
+<pb="103"/>
+<kt>von Madagaskar bis zu den Gambiers-Inseln.</kt>
+<tab>
+<pb="104"/>
+<kt>Zahl und Grösse der indischen Algen.</kt>
+<p>Von diesem ungeheuer grossen Gebiete kennt man durch
+andere Reisende, vorzüglich französische Weltumsegler, 36 Süss-
+wasser- und 337 Meer-Algen, zusammen 373. Unsere Reisenden
+sammelten deren 185, halb so viel, als alle ihre Vorgänger zusam-
+men genommen, und unter diesen 185 befinden sich nur 78 von
+Anderen innerhalb der oben angenommenen Gränzen gefundene, so
+dass der Zuwachs an für dieses Gebiet früher unbekannten Arten
+107 beträgt.</p>
+<p>Man kennt also gegenwärtig von diesen anderthalb Millionen
+Quadratmeilen mit einem grossen Theile Asiens und mehr als tausend
+Inseln 480 Arten von Algen.</p>
+<p>Die Zahl der britischen Algen überstieg schon nach Harvey&2019;s
+Manual of the British Algae, London 1841, 8., mit 510 Arten diese
+Anzahl; diejenige der deutschen war nach Rabenhorst&2019;s Algen
+Deutschlands, Leipzig 1847, 8., wenn man auch dort, wie hier, die
+Diatomaceen und Characeen ausschliesst, 1009, also mehr als doppelt
+so viel; beide sind unterdessen bedeutend vermehrt worden, und
+man kann hiernach annehmen, dass unsere Kenntniss der indisch-
+polynesischen Flora noch nicht den zehnten Theil der dort vor-
+kommenden Algen umfasse.</p>
+<p>Dennoch gestattet schon diese unvollkommene Kenntniss
+einige Blicke in den Charakter derselben.</p>
+<p>Das Erste, was besonders auffällt, ist die geringe Grösse
+der tropischen Algen. Von den 480 Arten erreichen kaum 50 die
+Länge eines Fusses, wenige Sargassen und Turbinarien drei Fuss.
+Die längsten unter den mitgebrachten sind Sagassum polycystum
+von Muntok, 1&2032; 5&2033;, Sargassum siliquosum von Anjer, 2&2032;, Turbinaria
+conoides von Palabuan, 2&2032; 6&2033;, und Carpacanthus ilicifolius von
+Timor, 3&2032;. Die Familie der Laminarieen, diese Riesen der Algen,
+welche gesellig an den Küsten der Polarländer unterseeische Wälder
+bildend, an die Scitamineen und Palmen der Tropenländer erinnern,
+fehlt gänzlich, eben so fehlen auch die derben Formen der Gattungen
+Halidrys, Himanthalia, Fucus, Desmarestia, und steigen auch kosmo-
+politische Algen aus hohen Breiten so weit herab, um, den Wende-
+kreis überschreitend, in unserem Gebiete aufzutreten, so geschieht
+es mit bedeutender Verminderung ihrer Grösse, Phycoseris gigantea
+von 3&2032; auf 1&2032;, Codium elongatum von 6&frac12;&2032; (in England nach Wood-
+ward) auf 1&2032;, Codium tomentosum von 1&2032; auf 6&2033;.</p>
+<p>Erwägt man, wie an den Faröern nach Lyngbye Laminaria
+<pb="105"/>
+<kt>Kleiner und mannichfaltiger als die nordischen.</kt>
+saccharina 9&2032;, Himanthalia lorea 12&2032;, Alaria esculenta 20&2032;, Hafgygia
+digigata 21&2032; Länge erreichen, im hohen Norden des stillen Welt-
+meeres an den Küsten von Kamtschatka und des russischen Amerika&2019;s
+Laminaria bifida 14&2032;, Alaria fistulosa 30&2032;, Nereocystis Lütkeana nach
+Mertens auf einem bis 270&2032; langen Stamm eine 6&2032; lange Blase mit
+27&2032; langen Blättern entwickelnd, den spanischen Galionen die Nähe
+Amerika&2019;s ankündigte, den arg verfolgten Meerottern Schutz bietet;
+wie eben so gegen den Südpol Lessonia nigrescens und ovata über
+5&2032;, Lessonia fuscescens 30&2032;, Durvillea utilis vielleicht eben so viele,
+die den Schiffen besser als Boyen die blinden Klippen und die
+Richtung der Strömung anzeigenden, aber ihren Booten das Landen
+erschwerenden Macrocystis-Arten zwar nicht, wie ehemals behauptet
+und geglaubt wurde, 1500&2032;, aber doch nach Gaudichaud&2019;s Messungen
+45&2014;50&2032; Länge erreichen, so erscheint die Flora des Meeres, wie
+dessen Fauna, im schroffen Gegensatz zu derjenigen des Landes,
+um so grössere Formen entwickelnd, je mehr sie sich den Polen
+nähert. Sollten die Algen in hohen Breiten deswegen grösser werden,
+weil die Fluthen stärker, die Meere stürmischer sind, wie in Flüssen
+die Wasserpflanzen länger werden, als in stehendem Wasser, der
+Kampf mit den Elementen auch sie stärken, wie den Menschen?</p>
+<p>Ein anderer Grund, warum mit der zunehmenden Ueppigkeit
+der Landpflanzen gegen die Linie eine Abnahme der Meergewächse
+zusammentrifft, liegt in der zunehmenden Herrschaft der Korallen,
+welche, alle Klippen überziehend, den Algen das Dasein bestreiten
+und erschweren; so hat schon in der blauen Grotte von Capri die
+Astroites calycularis L. sp. alle guten Plätze besetzt, und man sieht
+keine Spur von Algen.</p>
+<p>Dieser Umstand hat eine Aehnlichkeit der Meer- mit den
+Landpflanzen zur Folge, die tropischen sind ungesellig, bunter
+gemischt und getrennt, bilden keine monotonen Wiesen, wie so oft
+die nordischen.</p>
+<p>Eine zweite Aehnlichkeit der tropischen Algen mit den
+tropischen Landpflanzen, die ihren Grund in der höheren Temperatur
+hat, ist die einer feineren Ausbildung der Gestalt, einer höheren
+Entwickelung.</p>
+<p>Die grünen Algen haben einen zierlicheren Bau, Phycoseris
+lobata und fasciata treten verästelt an die Stelle der ungetheilten
+nordischen Ulven, und die sonderbare, einem Netze aus grünseidenen
+Bändern gleichende, noch im rothen Meere vorkommende, aber
+<pb="106"/>
+<kt>Blattbildung bei Caulerpa und Sargassum.</kt>
+schon im Mittelmeere fehlende Phycoseris reticulata ist von Singapore
+bis Timor einer der häufigsten Tange.</p>
+<p>Die ächt tropische Familie der <g>Caulerpeen</g> ist die höchste
+Entwickelung der einzelligen Tange, ein kriechender, stielrunder,
+schlanker, grüner oder grüngelber Stamm entwickelt nach unten in
+bestimmten Zwischenräumen vielverzweigte Büschel farbloser Wur-
+zeln, nach oben Zweige mit lebhaft grünen Blättchen, meist auf
+dem groben Korallengrus der Riffe, aber auch auf reinem Sand-
+boden, es sind die einzigen Tange, welche sich auf diesem anzusie-
+deln vermögen. In unserem Gebiete ist diese merkwürdige Familie
+durch die mannichfaltigen Gestalten von neunzehn Arten vertreten,
+ausserhalb der Wendekreise und des rothen Meeres nur durch ein
+paar Arten der am einfachsten gebauten Gattung Phyllerpa, so Ph.
+flagelliformis am Cap in der Natalbai, der von den Portugiesen nach
+ihr benannten Algoa-Bai und an Afrika&2019;s äusserster Spitze, am Cap
+Agulhas, 35° S. Br.; Phyllerpa prolifera, schon von Forskal im
+Hafen von Alexandrien entdeckt, nebst der allzu nahe damit ver-
+wandten Phyllerpa nervata im südlichen Mittelmeer bis Sicilien,
+38° N. Br.</p>
+<p>Eben so sind die mit 80 Arten auftretenden <g>Sargasseen</g> ein
+Ersatz für die ganz fehlenden subpolaren Laminarieen und Fuceen
+und für die durch drei selten vorkommende Arten kaum vertretenen
+Cystosireen der gemässigten Zonen, die höchste Entwickelung der
+vielzelligen Algen, mit geschiedenem Stamm, Blättern und Früchten,
+die Wurzelblätter grösser, besonders breiter, die oberen allmälig
+schmäler und kürzer, wie bei den Phanerogamen, ja, die einzige
+Tangfamilie, welche, wie diese, die Zweige aus den Blattachseln
+entwickelt. Auch im indischen Ocean trifft man sehr oft auf offener
+See treibende Sargassen, von ihrem Heimathboden losgerissen,
+fortlebend, aber nicht mehr fruchtbringend und reichlich mit Luft-
+blasen versehen. In dem chinesischen Roman Ping Chan Ling Yen
+(die zwei gelehrten Mädchen) werden die Liebenden diesen im Ocean
+herumirrenden Sargassen verglichen, welche einmal zusammentreffen,
+dann getrennt werden und sich nicht wiederfinden können.</p>
+<p>Ein anderer Charakterzug der tropischen Algenflora ist ihr
+Reichthum an <g>kalkhaltigen Tangen</g>. Der Kalk tritt von den Polen
+gegen den Aequator mit der zunehmenden Wasserverdünstung immer
+stärker auf und culminirt in den Organismen zwischen den Wende-
+kreisen. Wie der hohe Norden und Süden beinahe keine kalkhaltige
+<pb="107"/>
+<kt>Kalkhaltige Tange.</kt>
+Zoophyten hat, die gemässigten Zonen nur wenige und kleine be-
+sitzen, bis mit der Annäherung an die Wendekreise die mehr einer
+Gebirgsformation als einer Colonie kleiner Thierchen gleichenden
+Korallenmassen erscheinen, eben so verhält es sich mit den kalk-
+haltigen Tangen, welche man noch zu Anfang des gegenwärtigen
+Jahrhunderts, befangen in der Linnéischen Ansicht, dass Kalk nur
+bei Thieren vorkomme, den Zoophyten beizählte, zu welchen sie,
+dem äusseren Aussehen nach, den Uebergang bilden, Polypiers à
+Polypes invisibles, wie Lamarck sagte und selbst Cuvier noch glaubte,
+bis mikroskopische Untersuchungen ihres durch Säuren entkalkten
+Gewebes ihre Pflanzennatur nachwiesen.</p>
+<p>Die einst mit weissen und rothen Korallen die Apotheken
+schmückende Corallina officinalis ist der einzige dieser Kalktange,
+welcher an den Küsten von Lappland und Sibirien den Polarkreis
+überschreitet; Postels und Ruprecht geben Corallina pilulifera und
+filiformis im Ochotzkischen Meere, Corallina Arbuscula bei Unalaschka
+an, und auch von ihren anderen (24 nach Areschoug oder 35 nach
+Kützing) Gattungsverwandten finden wir die Mehrzahl in gemässigten
+Zonen, nur eine in der hier in Frage stehenden Flora.</p>
+<p>Stärker sind hier die schmächtigen Janien vertreten, durch
+fünf von den bekannten siebzehn Arten.</p>
+<p>Dass in diesem Gebiete von sieben Melobesien nur drei, von
+vierzehn Spongites-Arten, so häufig im Mittelmeere, gar nur eine
+vorkommen, dürfte eher den sie nicht beachtenden Sammlern
+zuzuschreiben sein, bei letzteren, den letzten, welche von den
+Thieren zu den Pflanzen versetzt wurden, auch der Herrschaft der
+Korallen, welche sie nicht aufkommen lassen.</p>
+<p>Zu der mittelländischen Acetabularia mediterranea, der west-
+indischen A. crenulata und der neuholländischen A. Calyculus ist als
+vierte und grösste die schöne siamesische A. major hinzugekommen.</p>
+<p>Von den zuerst durch Schweigger zu den Tangen versetzten
+Halimeden kennt man dreizehn Arten, welche die Wendekreise nur
+wenig überschreiten, am weitesten noch die mittelländische H. Tuna,
+im adriatischen Meere bis Venedig und Triest, 45° N. Br. Im stillen
+Ocean fehlen schon alle in dem nordchinesischen und japanischen
+Meere vorkommenden, und die Angabe, dass H. multicaulis und
+discoidea in Kamtschatka vorkommen, ist völlig unglaubwürdig und
+kann nur auf einer Verwechselung der ohne Bezeichnung des Fund-
+ortes gesammelten Exemplare beruhen. Eben so unrichtig ist es,
+<pb="108"/>
+<kt>Wenig Florideen.</kt>
+dass die in Westindien und unserer ostindischen Flora sehr häufige
+H. Opuntia im Mittelmeer vorkomme. Im Gebiete unserer Flora
+fand man acht Arten, eben so viele von Galaxaura, zwei von
+Corallocephalus, vier von Mastophora, vier von Cheilosporum und
+vierzehn von der merkwürdigen, ächt tropischen, kaum noch in&2019;s
+Mittelmeer hineinreichenden Gattung Amphiroa, deren knorpelige
+Verbindung der kalkigen Glieder, im Leben biegsam, getrocknet
+ungemein spröde und brüchig, an die Korallengattung Isis erinnert.
+Endlich bildet Actinotrichia rigida eine eigene, nur hier vorkommende
+Gattung.</p>
+<p>In die Augen fallend durch ihre eigenthümliche Pfauenschweif-
+form und den leichten Silberglanz unter Wasser ist die Gattung
+Zonaria, an beinahe jeder der besuchten Küsten wiederkehrend und
+nicht spärlich; doch auch nirgends gesellig, in unserem Gebiet mit
+fünf Arten culminirend, doch auch nördlich bis 51° in England,
+südlich bis 39° an Neuhollands Südküste verbreitet.</p>
+<p>Auffallend ist die Armuth dieser Tropenmeere an zarteren,
+rosenroth gefärbten Florideen im Allgemeinen (leben diese vielleicht
+dort in grösserer Tiefe, intensives Licht scheuend?) und insbesondere
+an den in den gemässigten Himmelsstrichen so zahlreichen Calli-
+thamnieen. Mein Sohn fand nur als Mittelglied zwischen den schon
+bekannten zwei ostindischen und zwei neucaledonischen zwei weitere
+bei Benkulen und Makassar, znsammen vier Gattungen mit sechs
+Arten von den 25 Gattungen mit 265 Arten in Kützing&2019;s species al-
+garum und tabulae phycologicae.</p>
+<p>Nicht viel besser steht es mit den in den europäischen Meeren
+so häufigen Ceramieen: von den daselbst aufgeführten eilf Gattungen
+mit 113 Arten kennt man bis jetzt innerhalb der Gränzen unseres
+Gebietes nur vier Gattungen mit dreizehn Arten und auch diese
+bloss in einzelnen kleinen, meist mit der Lupe und dem Mikroskop
+mühsam aufgesuchten Exemplaren, eine Ausnahme von der Regel,
+dass die Algen gegen die Pole an Grösse zunehmen.</p>
+<p>Von anderen Florideen erwähne ich nur die Häufigkeit der
+Hypneen und Laurencien, dann die Vertretung der in gemässigten
+Zonen so häufigen, hier seltenen Gelidium corneum und Sphaerococcus
+confervoides durch die hier sehr häufigen Gelidium rigidum und
+Sphaerococcus lichenoides, endlich die Entdeckung, leider in wenigen
+Exemplaren, der merkwürdigen Zellera, welche sich enge an die
+vielgerühmte Claudea anschliesst.</p>
+<pb="109"/>
+<kt>Algen der Litoralzone und der Korallenriffe.</kt>
+<p>Ueber das Vorkommen und die Farben im frischen Zustande
+theilt mein Sohn folgende Bemerkungen mit:</p>
+<p>Der Grund der meisten von mir besuchten Küstenstrecken,
+abgesehen von den Flussmündungen, im Gebiete des indischen Oceans
+bestand aus Korallen, lebenden oder todten, in Massen oder zu
+Grus zertrümmert; ein solcher Boden scheint den Tangen nicht
+günstig, ich fand daselbst wachsend weniger an Arten und Indi-
+viduen, als ich erwartet, dagegen an jedem Strande immer einzelne
+ausgeworfen, freilich fast immer wieder dieselben, hauptsächlich
+die kräftigen Sargassen und Turbinarien, die feineren eingerollten
+Zonarien und die verkalkten Halimeden. Die obersten Klippen, zur
+Ebbezeit von Wasser entblösst, fand ich bei Palabuan nur mit
+kürzeren, frisch grünlich moosartig aussehenden Florideen be-
+wachsen, wie Sphaerococcus corallopsis, Gymnogongrus densus u. a.,
+bei Atapupu fand ich auf einzelnen, zeitweise vom Wasser ver-
+lassenen Steinblöcken auch schon die grössere, wie filzig anzu-
+fühlende Galaxaura spongiosa; auch Amphiroa fragilissima lebt
+schon in dieser Höhe. Die Korallenriffe selbst an der unteren
+Ebbegränze, hauptsächlich die kleineren Einsenkungen derselben,
+in denen auch bei tiefster Ebbe das Wasser bleibt, sind die Heimath
+der verschiedenen Sargassen, denen sich sehr oft grössere Zonarien
+(Z. gymnospora), seltener z. B. bei Atapupu Hormophysa articulata,
+bei Singapore Laurencia botryoides zugesellt; die Kalkfülle zeigt
+sich hier auch an der Häufigkeit der verschiedenen Kalkalgen:
+Halimeda und Galaxaura fehlte auf keiner Korallenbank. Nirgends
+überziehen aber diese Tange, wie z. B. Fucus serratus und vesi-
+culosus in Norwegen, Stein für Stein eine ganze Strecke hindurch,
+sondern überall bilden sie nur Gruppen, durch grössere Zwischen-
+räume als sie selbst getrennt. Laurencia, auf Steinen wenig über
+der Ebbegränze wachsend, macht sich durch ihre knorpelartige
+Steifheit beim Anfassen bemerklich, Halymenia an ähnlichen Stellen
+durch schlüpfrige, fast eiweissartige Weichheit. Die flachen Strecken
+von Sand und Grus, von zertrümmerten Korallen herrührend, um
+die Korallenbänke oder zwischen ihnen und dem Strande, sind die
+Heimath der kriechenden Caulerpen, wie auch auf Timor der im
+Habitus ihnen ähnlichen phanerogamen Halophila. An Pfählen,
+welche im Wasser stehen, findet man zuweilen kleinere niedliche
+Florideen, manche und darunter die interessantesten fand ich aber
+nur ausgeworfen am Strande. Tiefer, unterhalb der Ebbegränze
+<pb="110"/>
+<kt>Brackwasseralgen. Farben im Leben.</kt>
+waren bei Palabuan die meisten Steine und viele Austern mit Flecken
+der rothen Hildenbrandtia sanguinea gezeichnet.</p>
+<p>Brackwasserbildungen, salzhaltige Sümpfe an der Meeresküste,
+wie z. B. einer bei Makassar, und Flussmündungen ergaben mir nur
+grüne Tange, Enteromorphen oder Confervaceen (Chaetomorpha
+Javanica, inflata, Rhizoclonium setaceum). Grössere Schlammstrecken,
+z. B. an der Westküste von Borneo, ergaben in den meisten Fällen
+gar keine Tange.</p>
+<p>Die Vertheilung der Farben nach der Tiefe, wie sie Oersted
+aufgestellt hat, oben grün, dann olivenbraun, in der Tiefe roth,
+bestätigt sich also wohl im Grossen und Ganzen, aber durchaus
+nicht überall im Einzelnen, wie schon daraus hervorgeht, dass
+Tange verschiedener Farbe auf einander wachsend beobachtet
+wurden, so Zonaria auf Laurencia botryoides, Enteromorpha auf
+Halimeda, Goniotrichum (Confervacee) auf Ceramium.</p>
+<p>Die meisten Kalkalgen sind frisch mehr oder weniger hell-
+grün, am schönsten Acetabularia, blasser Halimeda und Galaxaura,
+mit roth gemischt Amphiroa. Die Florideen zeigen meist eine
+Mischung von Grün und Roth, keines so entschieden, wie im Herbar.
+Am flüchtigsten ist das Roth bei den schleimig anzufühlenden, so
+vor allen bei Halymenia, dann bei Hypnea. Laurencia ist schon
+im Leben mehr grün, die Polysiphonien oft dunkel. Alle Sargassen,
+Turbinarien und Verwandte sind im Leben so hell olivengelb, wie
+die nordischen Fucus vesiculosus und Ozothallia nodosa. Zonaria ist
+auch hellbraun, aber zeigt einen mehr oder minder ausgesprochenen,
+mehr oder minder beständigen Anflug von Violettgrau, unter Wasser
+silberglänzend an ihrer oberen Seite. Mehrere Caulerpen sind die
+einzigen Tange, bei denen auch in der Farbe ein Gegensatz von
+Stamm und Blatt merklich wird, die im Sand kriechenden Stengel
+der Caulerpa Freycinetii fand ich frisch hell olivengelb, ähnlich den
+grösseren Fucoideen, die frei emporstehenden und flottirenden blatt-
+artigen Gebilde lebhaft grün.</p>
+<hr>
+<pb>
+<d1><b>III.
+GEBIET DES NORDCHINESISCHEN UND JAPANISCHEN MEERES
+VOM WENDEKREIS BIS 45° NORDBREITE.</b></d1>
+<hr>
+<d2>1. Tange des süssen Wassers.</d2>
+<li><g>Nostoc commune</g> Vauch., Nangasaki, 10. Februar 1861, Wichura.</li>
+<li><g>Rivularia Lens</g> Meneghini, in einer Thalschlucht bei Yokohama
+an der Westseite der Bai von Yeddo, an der unteren Seite
+der Blätter von Trapa bicornis L. fil., genau so, wie sie
+Meneghini an Trapa natans L. im botanischen Garten von
+Padua entdeckte, M.</li>
+<li><g>Cladophora Zelleri</g> n. sp., Taf. II., Fig. 1., setacea, vage
+ramosa, flaccida, spithamea et ultra, fusco-viridis; filis
+primariis 1/18&2034;, ramis patentibus, elongatis 1/25&2034;, ramellis
+obtusis usque ad 1/150&2034; crassis; articulis primariis longissi-
+mis, utrinque attenuatis, diametro 10plo et ultra, ramorum
+8&2014;3plo, ramellorum 4&2014;2plo longioribus, exsiccatis alter-
+natim compressis.</li>
+<li>Gehört in Kützing&2019;s zwölfte Gruppe, fractae. Yokohama
+in den Reisfeldern, M.</li>
+<li><g>Zygnema undulatum</g> n. sp., Taf. I., Fig. 6., articulis diametro
+(1/100&2014;1/90&2034;) 1&frac12;&2014;2plo longioribus, ad globulos inflatis, glo-
+bulis sphaericis integerrimis, filo mucoso connexis.</li>
+<li>Die gelblichgrünen, absterbend schwarzbraunen Fäden
+haben eine wellenförmige Oberfläche, weil der Schlauch
+sich bei jeder Kugel, durch dieselbe ausgedehnt, über
+sie wölbt. In jedem Gliede liegen zwei glatte, runde, aus
+Körnchen zusammengesetzte Kugeln, getrennt von der
+Wand, aber unter sich durch ein deutliches, helleres Band
+zusammenhängend. Am nächsten mit Z. Vaucherii Ag.
+verwandt, aber dünner, wellenförmig, die Glieder kürzer.
+<pb="112"/>
+<kt>Japanisch-chinesische Confervaceen.</kt>
+Yokohama in einem kleinen, zur Bewässerung der Reis-
+felder dienenden See am Anfang einer Schlucht, M.</li>
+<li><g>Hydrodictyon utriculatum</g> Roth. Yokohama, 1860, Wichura;
+Tamsui an der Westküste von Formosa, 25° N. Br., M.</li>
+<d2>2. Meeralgen.</d2>
+<li><g>Leibleinia australis</g> Kg. Nordchinesisches Meer an schwim-
+menden Sargassen, M.</li>
+<li><g>Goniotrichum dichotomum</g> Kg. An Halochloa pachycarpa
+bei Nangasaki. S.</li>
+<li><g>Chaetomorpha crassa</g> Ag. sp., Kg. Yokohama. M.</li>
+<li>&2014; <g>antennina</g> Bory sp., Kg. Yokohama. S.</li>
+<li><g>Cladophora rugulosa</g> Martens ined., Taf. II., Fig. 3., cespite
+viridi-fusco, filis dichotomis, ramellis terminalibus fascicu-
+latis, erectis, obtusis, articulis inferioribus elongatis ruguloso-
+annulatis, &frac15;&2034; crassis, superioribus sensim brevioribus oblon-
+gis &frac16; ad 1/12&2034; crassis. Neben Cl. prolifera Kg. Früher nur
+durch Dr. Krauss von Port Natal bekannt. Yokohama auf
+Haliotisschalen. M., S.</li>
+<li>&2014; <g>zostericola</g> n. sp., Taf. I., Fig. 3., cespitosa, 1&2014;2 uncialis,
+flavescente-viridis; filis primariis 1/16&2034;, ramis 1/20&2034; crassis,
+ramellis crebris, secundis, brevibus, obtusis, 1/50&2014;1/75&2034;
+crassis; articulis inflatis, primariis diametro 6&2014;4plo, ra-
+morum 3plo longioribus, exsiccatis alternatim compressis.
+Reiht sich an die adriatische Cl. utriculosa Kg. an.</li>
+<li>Yokohama an Zostera marina L. M., S.</li>
+<li><g>Sphacelaria furcigera</g> Kg. Nangasaki an Halochloa pachy-
+carpa. S.</li>
+<li>&2014; <g>japonica</g> n. sp., Taf. I., Fig. 5., minuta, cespitosa, olivacea,
+capillaris, parce ramosa; filis 4&2014;8&2034; longis, 1/60&2014;1/100&2034;
+crassis, laxis, ramis inaequalibus erectiusculis; articulis
+diametro aequalibus vel paulo longioribus, inferioribus
+1/50&2034;, superioribus 1/60&2034; longis.</li>
+<li>An Corallinen bei Kanagawa an der Westseite der Bai
+von Yeddo. M.</li>
+<li><g>Ulva Lactuca</g> L. Nangasaki. M., S.</li>
+<li>&2014; <g>latissima</g> L. Yokohama. W. Nangasaki. S.</li>
+<li><g>Phycoseris lanceolata &03B2; angusta</g> Kg. Tamsui. M.</li>
+<li>&2014; <g>gigantea &03B2; perforata</g> Kg. Yokohama. M., S.</li>
+<pb="113"/>
+<kt>Japanische Ulven und Phaeosporeen.</kt>
+<li><g>Phycoseris lapathifolia</g> Kg. Tamsui, Yokohama. M.</li>
+<li>&2014; <g>lobata</g> Kg. Mogi bei Nangasaki. S. Yokohama. M.</li>
+<li><g>Enteromorpha ramulosa</g> Engl. Bot. sp., Hooker. Kanagawa. M.</li>
+<li>&2014; <g>paradoxa &03B2; tenuissima</g> Kg. Nur Spuren an einer Coralline
+bei Kanagawa. M.</li>
+<li>&2014; <g>complanata</g> Kg. Nangasaki. M. Mogi. S.</li>
+<li>&2014; &2014; &03B3; <g>crinita</g> Link sp., Kg. Nangasaki. S. Yokohama an
+der Landungstreppe. M.</li>
+<li><g>Bryopsis Arbuscula</g> Lx. Kanagawa. W.</li>
+<li><g>Codium tomentosum</g> Huds. sp., Stackh. Yokohama. W., M.</li>
+<li><g>Galaxaura spongiosa</g> Kg. Nangasaki. S.</li>
+<li>&2014; <g>lapidescens</g> Solander sp., Lx. Nangasaki. S.</li>
+<li><g>Actinotrichia rigida</g> Lx. sp., Decaisne. Nangasaki. S.</li>
+<li><g>Leathesia marina</g> Lyngbye sp., Gray. Tschifu im Meerbusen
+von Petscheli, 37° N. Br. S.</li>
+<li><g>Cladosiphon erythraeus</g> J. Ag. Nangasaki an Sargassum
+pinnatifolium, genau so, wie im rothen Meer an Carp-
+acanthus dentifolius Kg.</li>
+<li><g>Haplosiphon filiformis</g> Ruprecht (Chorda Filum Burnett,
+Chorda lomentaria Perry). Schnurförmige Röhren, 1&2014;10&2033;
+lang, &frac14;&2014;1&frac12;&2034; breit, ziemlich lederartig, nur spiralig gedreht
+oder sparsam und undeutlich eingeschnürt. Bei Tschifu,
+S., mit zahlreichen längeren Paraphysen und wenigen birn-
+förmigen kurzen Sporenschläuchen; bei Nangasaki und
+Mogi, M., S., nur stellenweise mit dichtgedrängten Para-
+physen bedeckt, ohne Sporenschläuche.</li>
+<li><g>Spermatochnus australis</g> Harvey sp., Sonder. Tschifu an
+Myagropsis microceratia Kg. S.</li>
+<li><g>Encoelium sinuosum</g> Roth sp., Ag. Nangasaki. S.</li>
+<li><g>Haliseris polypodioides</g> Lx. sp., Ag. Tschifu. S.</li>
+<li><g>Zonaria Durvillei</g> Bory, auffallend derb und dunkelbraun mit
+rothbraunem Filz an der Basis und bleicher Melobesia
+pustulata. Nangasaki. S. Yokohama. M.</li>
+<li><g>Hafgygia Bongardiana</g> Kg.? Nur ein unvollständiges Exem-
+plar. Yokohama. S.</li>
+<li><g>Capea flabelliformis</g> A. Richard sp., Hooker et Harvey.
+Yokohama. S.</li>
+<li>&2014; <g>elongata</g> n. sp., Taf. V. Frons digitatim decomposita, lobis
+rectis, lineari-lanceolatis, basi 2&2034; latis, deinde ad 2&2033;
+<bs>Ost-Asien. Botanisch I. 8</bs>
+<pb="114"/>
+<kt>Capea, Alaria.</kt>
+dilatatis, longitudinaliter rugulosis, regulariter dentatis,
+2&2014;3&2032; longis, apice obtusis.</li>
+<li>Hellbraun, getrocknet dunkelbraun, nicht an das Papier
+klebend, die stumpfen Zähne wagerecht abstehend. Unter-
+scheidet sich von C. flabelliformis durch die nicht regel-
+mässig gefiederten und nicht sichelförmig aufsteigenden,
+stärker gezähnten, vier bis sechs Mal längeren Blätter oder
+Lappen. Die erhaltenen Exemplare, ohne Stamm, im
+Winter 1860/1 in Yeddo auf dem Gemüsemarkt gekauft. W.</li>
+<li><g>Capea Richardiana</g> J. Ag.? Derber, schwärzer, einfach bis
+doppelt gefiedert, ungefurcht, glatt. In Bruchstücken als
+Esswaare auf dem Markte von Yokohama gekauft. M.</li>
+<li><g>Alaria amplexicaulis</g> n. sp. costa solida complanata stipite
+brevi latiore; lamina tenuissima profunde pinnatifida, basi
+demum cordata; foliola basilaria brevissima, crassiuscula,
+amplexicaulia, margine crispata.</li>
+<li>Die Wurzel besteht aus vielverzweigten, 1&2014;1&frac12;&2033; langen,
+zähen Klammern, von Bory den Wurzeln der Monocotyle-
+donen verglichen, mit welchen sich die Alge sehr fest an
+Felsen, Korallen, Muscheln und Geröll anklammert; der
+stielrunde Stamm ist nur 3&2033; lang, von der Dicke eines
+Schwanenkiels und grösstentheils durch einen sonderbaren,
+in der Jugend fehlenden Kragen bedeckt; dieser Kragen
+besteht aus etwa zehn derben, festen, glatten, am Rande
+krausen Blättern von 1&frac12;&2033; Durchmesser, welche, in wage-
+rechter Stellung dicht über einander sitzend, den Stamm
+ringförmig so umfassen, dass derselbe nur auf einer Seite
+frei bleibt und durch Umbiegung ihrer sich kreuzenden
+Endlappen blossgelegt werden kann. Ueber und unter
+diesem Kragen bleibt der Stamm nur wenige Linien lang
+frei, setzt sich aber als einfache Rippe doppelt so breit
+durch das Hauptblatt bis an dessen Spitze fort.</li>
+<li>Das im Hauptumriss eirunde Blatt ist 1&frac12;&2032; lang und etwas
+über 1 &2032; breit, so dünn und lebend oder aufgeweicht auch
+beinahe so zähe, wie japanisches Papier, mehr oder minder
+tief fiederspaltig eingeschnitten, die zahlreichen Lappen,
+durch abgerundete Buchten getrennt, etwas sichelförmig
+aufsteigend, unregelmässig gezähnt und an der Spitze stumpf
+abgerundet.</li>
+<pb="115"/>
+<kt>Japanische Fucoideen.</kt>
+<li>Die Pflanze wächst von oben nach unten, die oberste
+Spitze ist der älteste Theil, oft schon verwittert, zerrissen
+oder verloren gegangen; unten sieht man bei jungen Exem-
+plaren die noch unentwickelten Fiederlappen als kleine,
+dicklichte Zähne zweireihig am nackten Stamm sitzen und
+von unten nach oben allmälich an Grösse zunehmen, so
+dass das ganze Blatt einen elliptischen Umriss hat; später
+sind gerade diese untersten Lappen die längsten, 6&2014;8&2033;
+lang, und breitesten, so dass das Blatt eine herzförmige
+Basis erhält, und nun entwickelt sich auch der Kragen.</li>
+<li>Die Farbe der getrockneten Exemplare schwankt zwischen
+hellbraun und grasgrün, die zarte Haut ist dicht mit feinen
+schwarzen Puncten besäet, zwischen welchen sparsamere
+braune Flecken eingestreut sind. Unter dem Mikroskop
+erblickt man ein Netz von unregelmässig eckigen Zellen
+mit doppeltem Rande, die braunen Flecke als Fadenbüschel,
+Turner&2019;s fibrarum fasciculi (Fuci Vol. II., Tab. 117., Fig.
+c. und d.), J. Agardh&2019;s paranemata, die schwarzen Puncte
+als länglich runde Körner.</li>
+<li>Die getrocknete Pflanze weicht schwer wieder auf, die
+zarten Spitzen oft gar nicht, ich fand sie nach dreissig
+Stunden noch so unentwickelbar, wie in der ersten Stunde,
+sie klebt fest an das Papier; von einer Neigung, wie die
+Blätter der Bananen, mehr in die Quere zu reissen, be-
+merkte ich keine Spur.</li>
+<li>Schottmüller erhielt in Nangasaki im April 1861 zwei
+grosse und einige kleine, nur spannenlange Exemplare.</li>
+<li><g>Hormophysa triquetra</g> L. sp., Kg. Ein treibender Zweig im
+stillen Weltmeer bei Japan. M.</li>
+<li><g>Anthophycus japonicus</g> n. sp., caule inferne tereti, deinde
+plano, costato, pinnato; foliis e margine egredientibus,
+linearibus, integriusculis, costatis, acutis; a&00EB;rocystis ellipti-
+cis, apice constricto folio coronatis.</li>
+<li>Der Stamm hat unten nur 1&2034; Durchmesser, weiter oben
+2&2014;3&2034; Breite; die Fiedern sind unten mit wenigen Luft-
+blasen, oben mit mehreren wechselständigen Blättern besetzt,
+die unteren Blätter bis 6&2033; lang und 8&2034; breit, die oberen
+abnehmend, zuletzt unr 2&2033; lang, 1&2014;2&2034; breit, einfach,
+selten gegabelt oder dreitheilig, undeutlich gezähnelt bis
+<bs>8*</bs>
+<pb="116"/>
+<kt>Chinesisch-japanische Fucoideen.</kt>
+völlig ganzrandig. Die Luftblasen sind kurz gestielt, bis
+9&2034; lang und 3&2034; dick, nach beiden Enden zugespitzt und
+viel kürzer, als das sie krönende Blatt. Früchte fehlten. Die
+Farbe der getrockneten, nicht anklebenden Alge ist schwarz.
+Yokohama. M., S.</li>
+<li><g>Sargassum subrepandum</g> Forskal sp., Kg. tab. phycologicae
+Vol. XI., Tab. 2., Fig. 1., nicht Agardh&2019;s, welches Carp-
+acanthus Turneri Kg., Vol. XI., Tab. 41., Fig. 2., ist. Nan-
+gasaki. M. Mogi unweit Nangasaki. S.</li>
+<li>&2014; <g>brevifolium</g> Kg. Treibend im nordchinesischen Meer. M.</li>
+<li>&2014; <g>enerve</g> Ag. Yokohama. M., S.</li>
+<li>&2014; <g>Acinaria</g> L. sp., Ag. Nordchinesisches Meer, M.</li>
+<li>&2014; <g>fuliginosum</g> Kg.? Unvollständige Bruchstücke, ausgeworfen
+bei Nangasaki, M.</li>
+<li>&2014; <g>pinnatifolium</g> Ag. Nangasaki, S.</li>
+<li>&2014; <g>piluliferum</g> Turner sp., Ag. Yokohama, M., S. Nangasaki
+und Mogi, S.</li>
+<li>&2014; <g>obtusifolium</g> J. Ag. Nangasaki, S.</li>
+<li>&2014; <g>siliquosum</g> J. Ag. Nangasaki, S.</li>
+<li>&2014; <g>myriocystum</g> J. Ag. Canal von Formosa und nordchinesisches
+Meer, M.</li>
+<li><g>Carpacanthus trichophyllus</g> Kg. Yokohama, Kanagawa,
+häufig ausgeworfen, M., S., W. Nangasaki, S.</li>
+<li>&2014; <g>latifolius</g> Turner sp., Kg. Nangasaki, S.</li>
+<li><g>Spongocarpus Horneri</g> Turner sp., Kg., häufig, auch jung
+mit den bisher unbekannten, breitfiederspaltigen Wurzel-
+blättern. Yokohama, M., S.</li>
+<li>&2014; <g>fulvellus</g> Turn., Kg. Nangasaki, S.</li>
+<li><g>Halochloa patens</g> Ag. sp., Kg. Yokohama, W. und M.
+Nangasaki, Mogi, S. Halochloa schizophylla Kg., der
+flache Stamm spiralig gedreht, wie an den meisten flachen
+und dabei schmalen Algen, ist, wie J. Agardh, species
+algarum Vol. I., p. 289, schon annimmt, nicht von H. patens
+verschieden, sondern nur der Jugendzustand oder untere,
+mit Wurzelblättern versehene Theil derselben.</li>
+<li>&2014; <g>serratifolia &03B2; longifolia</g> Kg. Tschifu, S.</li>
+<li>&2014; <g>polyacantha</g> Kg. Yokohama, Mogi, S.</li>
+<li>&2014; <g>Siliquastrum</g> Turn. sp., Kg. Nangasaki, M.</li>
+<li>&2014; <g>pachycarpa</g> Kg. Tschifu, Nangasaki, S.</li>
+<pb="117"/>
+<kt>Japanische Florideen.</kt>
+<li><g>Halochloa heterophylla</g> n. sp., caule brevi, tereti, noduloso,
+crassitie pennae corvinae; ramis elongatis, divaricatis, flexuo-
+sis, hinc inde spinulosis; foliis distichis, petiolatis, costatis,
+in ramis sterilibus ovato-oblongis usque ad 2&2033; longis et 6&2034;
+latis, inaequaliter acute duplicato-dentatis, superioribus
+lineari-lanceolatis, parce dentatis, acuminatis, in ramis
+fructiferis linearibus integerrimis, supremis filiformibus; a&00EB;ro-
+cystis parvis, oblongis, glabris, muticis vel breviter acumi-
+natis; receptaculis clavatis, teretibus, axillaribus, simplicibus
+vel racemosis.</li>
+<li>Einen halben bis ganzen Fuss hoch, auffallend durch die
+grosse Verschiedenheit ihrer Blätter. Tschifu, S.</li>
+<li><g>Myagropsis microceratia</g> Turn. sp., Kg. Tschifu, S.</li>
+<li>&2014; <g>Swartzii</g> Turn., Kg. Einfach oder mit 1&2014;2&2033; langen Zweigen
+dicht besetzt, bis über 1&2032; lang, häufig. Nangasaki, M.
+Mogi und Tschifu, S.</li>
+<li><g>Castraltia salicornoides</g> Richard. Zwei Exemplare von
+Yokohama, M., S.</li>
+<li><g>Ceramium rubrum</g> Huds. sp., Ag. Yokohama, M.</li>
+<li><g>Campylaephora hypneoides</g> J. Ag. Tschifu, S.</li>
+<li><g>Centroceras micracanthum</g> Kg. Kanagawa, Nangasaki, M.</li>
+<li><g>Melobesia pustulata</g> Lx. Yokohama an Gelidium corneum, M.
+Nangasaki auf der oberen Seite der Zonaria Durvillei, S.</li>
+<li>&2014; <g>granulata</g> Meneghini. Yokohama, S.</li>
+<li>&2014; <g>farinosa</g> Lx. Yokohama an Zostera marina, M.</li>
+<li><g>Amphiroa dilatata</g> Lx. Yokohama, S.</li>
+<li>&2014; <g>Gaillonii</g> Lx. Yokohama, S.</li>
+<li><g>Corallina officinalis &03B2; mediterranea</g> Areschoug. Nangasaki,
+M., S. Yokohama, Tschifu, S.</li>
+<li>&2014; <g>Filicula</g> Lamarck. Yokohama an Haliotis gigantea, M.</li>
+<li>&2014; <g>frondescens</g> Ruprecht. Yokohama, Nangasaki, S.</li>
+<li><g>Jania tenuissima</g> Sonder. Nordchinesisches Meer an treibenden
+Sargassen, M.</li>
+<li><g>Catenella Opuntia</g> L. sp., Grev. Nangasaki, S.</li>
+<li><g>Grateloupia filicina</g> Wulfen sp., Ag. Nangasaki, M. Mogi, S.</li>
+<li>&2014; <g>filiformis</g> Kg. Tamsui an Formosa&2019;s Westküste, M. Yoko-
+hama, S.</li>
+<li><g>Mastocarpus Klenzeanus</g> Kg. Yokohama, S.</li>
+<li><g>Chondrus crispus &03B1; genuinus</g> Ag. Mogi, S.</li>
+<pb="118"/>
+<kt>Chinesisch-japanische Florideen.</kt>
+<li><g>Chondrus crispus &03B6; patens</g> Turn. sp., Ag. Nangasaki, S.</li>
+<li>&2014; <g>platynus</g> Ag. sp. = Iridaea platyna Postels et Ruprecht,
+Kg. Yokohama, M., S. Nangasaki, S.</li>
+<li>&2014; &2014; &03B2; <g>elongatus</g> Martens, fronde basi tereti, dichotoma, an-
+gustata, elongata. Form tieferer Standorte, wie bei Chondrus
+crispus. Yokohama, S.</li>
+<li><g>Euhymenia reniformis</g> Turn. sp., Kg. Yokohama, S.</li>
+<li>&2014; <g>latissima</g> Hering sp., Kg. Yokohama, S.</li>
+<li><g>Calliphyllis rhynchocarpa</g> Ruprecht. Nangasaki, S.</li>
+<li><g>Gigartina acicularis</g> Wulfen sp., Lx. Yokohama, M., S.</li>
+<li><g>Caulacanthus fastigiatus</g> Kg. Tamsui, M.</li>
+<li><g>Cystoclonium armatum</g> Harvey in Perry&2019;s Reise nach Japan,
+Washington 1846, gr. 4., Bd. II., S. 332. Hat das Aus-
+sehen von Sphaerococcus armatus, die Härte von Gelidium
+cartilagineum und die Frucht von Cystoclonium purpurascens.
+Yokohama, S.</li>
+<li><g>Hypnea musciformis</g> Wulfen sp., Lx. Yokohama, Nangasaki, S.</li>
+<li>&2014; <g>Esperi</g> Bory. Nangasaki, S.</li>
+<li>&2014; <g>nigrescens</g> Grev. Tschifu, S.</li>
+<li><g>Acrocarpus pusillus</g> Turn., Kg. Tamsui, M.</li>
+<li><g>Gelidium corneum &03B5; pinnatum</g> Turn. sp., Lx. Yokohama, M.</li>
+<li>&2014; &2014; <g>capillaceum</g> Gmel. sp., Ag. Yokohama, S.</li>
+<li>&2014; <g>Amansii</g> Lx. = Sphaerococcus cartilagineus &03B2; setaceus Ag. =
+Gelidium cartilagineum Harvey in Perry&2019;s Reise II., p. 331.
+Bedeutend kleiner, schmächtiger und weicher als G. carti-
+lagineum. Häufig. Yokohama, M., S.</li>
+<li>&2014; <g>rigens</g> Grev. Lebend dunkel purpurroth bei Nangasaki, S.
+Ausgebleicht, in einander verwickelt und halb zu Gallerte
+aufgelöst, wie ihn Tilesius erhielt, ziemlich unrein in vier-
+eckigen Täfelchen als Esswaare verkauft in Yokohama,
+M., S.</li>
+<li><g>Sphaerococcus confervoides</g> L. sp., Ag. Tamsui, M. Nan-
+gasaki, Yokohama und Kanagawa, M., S. Tschifu, S.</li>
+<li>&2014; &2014; &03B2; <g>procerrimus</g> Esper sp., Ag. Nangasaki, S.</li>
+<li><g>Gymnogongrus pygmaeus</g> Grev. Nangasaki, S.</li>
+<li><g>Polysiphonia abscissa</g> Hooker et Harvey. Nangasaki, S.</li>
+<li>&2014; <g>elongella</g> Harv. Kanagawa, W.</li>
+<li>&2014; <g>spinescens</g> Mont. &03B2; <g>sinensis</g> Martens, articulis supremis
+ramellorum diametro duplo brevioribus. Shanghai, S.</li>
+<pb="119"/>
+<kt>Chinesisch-japanische Florideen.</kt>
+<li>Unbestimmbare Fragmente dreier weiterer Polysiphonien
+von Mogi und Yokohama, S. Kanagawa, M.</li>
+<li><g>Dictyomenia gracilis</g> n. sp., Taf. VII., Fig. 4. Bipollicaris.
+complanata, semilineam lata, alterne ramosa vel subpinnata;
+ramis alterne pinnulatis, pinnulis inferioribus inciso-dentatis,
+superioribus subsimplicibus acuminatis.</li>
+<li>Rindenzellen ungleich gross, unregelmässig an einander
+gereiht; Farbe der getrockneten Exemplare schwärzlich,
+aufgeweicht kaffeebraun. Der D. tridens ähnlich, schmäler
+und einfacher gefiedert, im Habitus an Polysiphonia pen-
+nata erinnernd. Tschifu, S.</li>
+<li><g>Lophura floccosa</g> Turn. sp., Kg. Tschifu, S.</li>
+<li><g>Laurencia tenuissima</g> Goodenough sp., Grev. = Alsidium
+tenuissimum Kg., der L. dasyphylla viel zu nahe verwandt,
+als dass sie generisch davon getrennt werden dürfte. Kana-
+gawa, M.</li>
+<li>&2014; <g>dasyphylla</g> Good. sp., Grev. Tamsui, M.</li>
+<li>&2014; <g>obtusa</g> Huds. sp., Lx. Nangasaki, S.</li>
+<li>&2014; <g>pinnatifida</g> Huds. sp., Lx. Yokohama, S.</li>
+<li>&2014; <g>botryoides</g> Turn. sp., Gaillon. Nangasaki und Tschifu, S.</li>
+<li><g>Rhizophyllis Corallinae</g> n. sp., Taf. VIII., Fig. 1., fronde plana,
+lineari, elongata, dichotoma, costa evanescente percursa;
+segmentis pinnatifide lobatis, integriusculis, apice rotundatis;
+cellulis aequalibus, radiatim dispositis, diametro 1/200&2034;.</li>
+<li>Yokohama, fest angewachsen auf Corallina Filicula und
+frondescens an Haliotis gigantea M., S.</li>
+<li><g>Leveillea Schimperi</g> Decaisne. Yokohama an Halochloa
+patens, W.</li>
+<li>&2014; <g>bidentata</g> n. sp., Taf. VII., Fig. 5., repens, ramosa, fronde fili-
+formi opposite pinnata; pinnulis sessilibus quadratis, margine
+integro, angulis exterioribus in dentem acutum productis.</li>
+<li>Stammzellen langgestreckt, viereckig; Blattzellen unregel-
+mässig gleichförmig, ohne bemerkbare Spur von Querlinien,
+Farbe braun, wohl im Trocknen von der Myagropsis an-
+genommen. Nur ein Bruchstück an Myagropsis Swartzii von
+Tschifu, S.</li>
+<li><g>Plocamium affine</g> Kg. Yokohama an Capea Richardiana, M.</li>
+<hr>
+<pb="120"/>
+<kt>Pseudo-chinesische Tange.</kt>
+<li>Die folgenden Tafeln geben eine Uebersicht der bis jetzt
+bekannten chinesischen und japanischen Algen, bei welcher die
+nachstehenden sieben als unrichtig ausgeschlossen wurden:</li>
+<li><g>Fucus vesiculosus</g> L. China, nach Burnett account of China
+III., p. 329. (Nordisch, kommt nicht so weit herab.)</li>
+<li><g>Phyllacantha granulata</g> Kg. China, Burnett l. c. (Kommt
+nur im atlantischen Ocean von England bis Spanien vor.)</li>
+<li><g>Halidrys siliquosa</g> Lgb., in oceano sinensi, Herb. Banks,
+Turner Fuci III., p. 55, ad litora Japonica, Tilesius,
+Kützing spec. alg. p. 604. (Ist nordatlantisch und fehlt
+selbst in Ruprecht&2019;s Verzeichniss der Algen des nörd-
+lichsten Weltmeeres in von Middendorff&2019;s Reise in den
+äussersten Norden und Osten Sibiriens, Bd. I., Thl. 2.,
+S. 191&2014;435.)</li>
+<li><g>Sargassum vulgare</g> Ag. China, Burnett l. c. (Ist rein atlantisch.)</li>
+<li><g>Blossevillea heterophylla</g> Kg. Japan, Thunberg. China,
+Burnett l. c. (Nur jenseits der Tropenzone am Cap und
+bei Port Natal.)</li>
+<li><g>Ceramium obsoletum</g> Ag. Japan, Tilesius. (Ist Campylaephora
+hypneoides J. Ag.)</li>
+<li><g>Gelidium cartilagineum</g> Gaillon. Chinesisches Meer, Kützing
+spec. alg. p. 763. Simoda Perry Narrative II., p. 331. (Ver-
+muthlich ist G. Amansii Lx. gemeint.)</li>
+<p>Eine von meinem Sohne mitgebrachte japanische Encyclopädie
+(Wa-kan-san-sai-dzu-e) führt im 97sten und 98sten Heft nach
+mehreren phanerogamischen Wasserpflanzen, wie Limnocharis,
+Limnanthemum, Pontederia, Potamogeton, Ceratophyllum, auch
+achtzehn Meeralgen auf, allein in so rohen Holzschnitten und mit
+so kurzen Nachrichten <fn="*)">Die Uebersetzung des Textes, woraus im Folgenden Einzelnes gegeben wird,
+verdankt mein Sohn der Güte des Prof. J. Hoffmann in Leyden.</fn>, dass nur wenige mit Sicherheit, manche
+gar nicht bestimmt werden können, auch wenn man das fünfte
+Heft von Kaempfer&2019;s Amoenitates exoticae zu Hülfe nimmt, welches
+acht Meeralgen mit ihren chinesischen, in Japan unseren lateini-
+schen entsprechenden und den volksthümlichen japanischen Namen
+enthält.</p>
+<p>Ein Versuch, diese Algen mit Hülfe der mitgebrachten zu
+errathen, hat folgendes Ergebniss geliefert.</p>
+<pb="121"/>
+<kt>Tange der japanischen Encyclopädie.</kt>
+<p>Blatt 11. <g>Tokorosen gusa</g> <fn="*)">Kusa, in Zusammensetzungen gusa, ausgesprochen ksa, bedeutet im Japani-
+schen ganz allgemein Kraut oder Gras, nori specieller Tang; soweit sich die Be-
+deutung der japanischen Namen erkennen liess, ist deren Uebersetzung beigefügt.</fn>, im japanischen Meer, ge-
+gessen, ersetzt Vogelnester-Gelée. Kaempfer p. 832: <g>Seki qua,</g>
+vulgo kokuro buto, it. Tokoro tengusa. Muscus submarinus sive
+Alga rupium capillaris, ramosa, lutescens (ausgebleicht), ex qua in
+Japonia et Sina coquitur Gelatina, quae per cribrum in vermiculatos
+bacillos coacta et siccata, ubique prostat venalis, japonice <g>Toko-
+roten,</g> sinice <g>Tsjantsjaù</g> dicta. Von Hof-Apotheker Vrydag
+Zynen im Haag erhielt ich von Siebold mitgebrachte gebleichte
+Exemplare unter dem Namen <g>Tosako.</g> Ist <g>Gelidium Amansii</g> Lx.</p>
+<p>11. v. <g>Tosakanori,</g> oder richtiger <g>tori-saka-nori,</g> d. h.
+Hahnenkamm-Tang, gezähnt, tiefroth.</p>
+<p><g>Gelidium rigens</g> Greville.</p>
+<p>Kaempfer&2019;s <g>Roku kaku,</g> vulgo <g>Ino matta, Tori sakanori,</g>
+i. e. Cornua cervina (ungenaue, doch ebenfalls die zackige Form
+ausdrückende Uebersetzung), p. 833 dürfte eher auf <g>Gigartina
+acicularis</g> Lx. zu beziehen sein.</p>
+<p>12. <g>Modsugu,</g> in der Provinz Hisen (Westküste von Kiusiu)
+und auf der Insel Tsusima, viele Fuss lang, biegsam, flottirend,
+klebrig, dunkelgrün.</p>
+<p><g>Desmarestia viridis</g> Lx.?</p>
+<p>12. v. <g>Ogo nori,</g> auf Steinen im Meer, 1&2014;2&2032; lang, grün;
+in kupfernen Kesseln gekocht gibt es (grüne) Farbe.</p>
+<p><g>Cladophora??</g></p>
+<p>12. v. <g>Fu-nori,</g> chinesisch Hirschhornkraut, überall im
+Süden und Norden von Japan, essbar.</p>
+<p>Was Siebold unter diesem Namen mitbrachte, ist halb
+aufgelöstes, sorgfältig gereinigtes, silberfarbig glänzendes oder
+karminroth, grün oder blau gefärbtes <g>Gelidium Amansii,</g> als
+Schlichte für die Seiden- und Baumwollenweber und zur Bereitung
+durchscheinenden Papiers verwendet. Auch in der Abbildung der
+Encyclopädie lässt sich kein rechter Unterschied von dem vor-
+hergehenden tokorosen-gusa erkennen, nur geht die Verästelung
+weniger weit.</p>
+<p>13. v. <g>Udsu furu i nori,</g> 2&2014;3&2032; lang, 2/10&2033; breit, fein wie
+Haar, purpurfarbig, sehr wohlschmeckend, von Tauchern geholt.
+<pb="122"/>
+<kt>Tange der japanischen Encyclopädie.</kt>
+Die kostbarste Art. Die Abbildung stellt lange, einfache, parallele
+Fäden dar.</p>
+<p>Unerkennbar.</p>
+<p>14. <g>Siumo</g> oder <g>Siwo mo,</g> d. h. Salzwasser-Ceratophyllum,
+blass purpurfarbig, in der Binnensee zwischen Nipon und Sikok
+vorkommend.</p>
+<p><g>Sphaerococcus confervoides</g> L.</p>
+<p>Zu Yokohama hörte mein Sohn die Zostera marina L. mit
+dem ähnlich lautenden Namen <g>S&2019;na-mo</g> bezeichnen, d. h. Sand-
+Ceratophyllum. Zostera wächst bekanntlich auf Sandboden, Sphaero-
+coccus, wie die meisten anderen Algen, auf Felsengrund, und auf
+solchem bildet die Encyclopädie auch ihren siumo ab.</p>
+<p>14. <g>Sakura-nori,</g> d. h. Kirschen-Tang, gelblich weiss
+oder fahl purpurn; mit Blasen der Sakura ähnlich. Sakura ist nach
+Kaempfer und Thunberg der japanische Name der Weichsel, Prunus
+Cerasus S.</p>
+<p><g>Sargassum piluliferum</g> Turn. und andere <g>Sargassen.</g></p>
+<p>14. v. <g>Si sai,</g> chinesisch Purpurkraut, japanisch <g>Ama nori,</g>
+süsses Moos, essbar. Kaempfer p. 832: <g>Si sai,</g> vulgo <g>Ama nori</g>
+et <g>Mura sakinori,</g> muscus marinus purpureus rupium; edulis,
+quanquam substantiae durioris et membranaceae.</p>
+<p><g>Cystoclonium armatum</g> Harvey?</p>
+<p>15. <g>Wagame,</g> gebraten, auch geschnitten, ähnlich dem
+Kombu, dünner, schmaler und kürzer.</p>
+<p><g>Alaria amplexicaulis</g> Martens? <g>Kauam</g> ist der kamt-
+schadalische Name der <g>Alaria esculenta</g> Grev., welche dort
+auch gekocht wird; das Bild passt freilich nicht. Jedenfalls, wie
+die drei nächstfolgenden, eine Laminariee.</p>
+<p>15. v. <g>Arame,</g> in den südlichen und westlichen Meeren
+häufig, in Streifen geschnitten, schwer zu verdauen, in Hungersnoth
+viel gegessen. (Chinesisch <g>Hai tai,</g> Meergürtel, in Tengtscheu,
+vermuthlich die Stadt Tangtschau oder Teng-tschau-fu am Ein-
+gang des Golfs von Petscheli, getrocknet zu Seilen benutzt.) Kaempfer
+p. 833: <g>Kai tei,</g> vulgo <g>Arame,</g> fucus lanceiformis tricubitalis
+et longior, striatus, ora integra, mucosus, a strenua coctione edulis.
+Oris rupium adnatus, in superficie maris fluctuat.</p>
+<p>In Yokohama wurde <g>Capea Richardiana</g> Ag., wie Nudeln
+geschnitten, als Esswaare verkauft.</p>
+<p>16. <g>Sagarani</g> oder <g>Katsime,</g> wird auch gegessen, besonders
+<pb="123"/>
+<kt>Tange der japanischen Encyclopädie.</kt>
+in Sagara ura, Provinz Tohadomi (an der Südküste von Nipon,
+zwischen Miako und Yeddo). <g>Kadshume</g> nannte man in Yokohama
+die <g>Capea flabelliformis</g> Rich.</p>
+<p>16. <g>Kombu</g> oder <g>Hirome,</g> auch <g>Yebisu me,</g> d. h. breiter
+Gürtel oder Gürtel des Fischer-Gottes, Yebisu-sama, hauptsächlich
+in Yesso, bildet einen Artikel des Tributs von dort nach Japan,
+wird gegessen, 20&2014;30&2032; lang, 4/10&2014;5/10&2032; breit; Ein Stamm bildet ein
+Gebüsch. Kaempfer p. 833: <g>Firomé</g> et <g>Konbu</g> vulgo et literatis.
+Fucus marinus lanceatae formae, orgya longior, margine dentato.
+Rupibus adnascens in maris superficie fluctuat, totus genti post
+praeparationem esculentus, quanquam coriaceae substantiae.</p>
+<p>Nach Thunberg, fl. jap. p. 346, <g>Laminaria saccharina</g>
+Lx.; der gezähnte Rand, auch in der Abbildung der Encyclopädie
+deutlich erkennbar, passt besser auf <g>Capea elongata,</g> die aber
+kaum so lang werden dürfte.</p>
+<p>17. <g>Fiziki,</g> dunkelgrün, gekocht schwarz, 2/10&2014;3/10&2032;, mit
+Mausschwänzen verglichen.</p>
+<p><g>Codium tomentosum</g> Huds.</p>
+<p>17. v. <g>Umi-Madsu,</g> Meer-Tanne. <g>Carpacanthus tricho-
+phyllus</g> Kg.</p>
+<p>17. v. <g>Umi-Soomen,</g> Meer-Nudel, getrocknet versandt.</p>
+<p>Ist wahrscheinlich das oben erwähnte, aus aufgelöstem Geli-
+dium Amansii auf dieselbe Weise, wie die neapolitanischen Macaroni
+aus Mehlteig, verfertigte Tschau-tschau, welcher von den Chinesen in
+bedeutender Menge von Nangasaki nach China ausgeführt wird. In
+Desima nennt man ihn künstliche Vogelnester, da er eben so
+schmecken und eben so stärkend sein soll.</p>
+<p>18. <g>Aosa, Awosa</g> (ob ao-kusa, grünes Kraut?). Clado-
+phora??</p>
+<p>18. v. <g>Ao-nori,</g> grünes Moos, kraus, dünn, im südlichen
+Japan gegessen, wohlschmeckend.</p>
+<p>Die Abbildung höchst undeutlich. In Yokohama wurde
+meinem Sohn Ulva lactuca L. mit diesem Namen bezeichnet,
+und hierauf passen auch die angeführten Worte des Textes
+recht gut.</p>
+<p>23. v. <g>Ma-kuri,</g> aus den Liu-kiu-Inseln und dem süd-
+lichsten Theil von Kiusiu, Satsuma, eingeführt, 1/10&2014;2/10&2032; lang,
+hohle, etwas verzweigte Röhren, von schleimigem Geschmacke, den
+kleinen Kindern zur Beruhigung gegeben; die Abbildung wenig
+<pb="124"/>
+<kt>Weitere japanische Namen für Tange.</kt>
+verständlich. Ist vielleicht nur ein besonderes Präparat aus dem
+mehrerwähnten Gelidium.</p>
+<p>Die weiteren von Kaempfer Seite 833 erwähnten Algen sind:
+<g>Tai sei,</g> vulgo <g>Aii nori</g> (indigofarbiger Tang), muscus marinus
+Corallinae similis, multifidus, folio tenuissimo. <g>Ceramium rubrum</g>
+Huds. und</p>
+<p><g>Sisjo,</g> vulgo <g>Miru,</g> muscus marinus ramosus coralloides.</p>
+<p>Meinem Sohne nannte man ferner die <g>Corallina Filicula</g>
+Lamarck, wie überhaupt die kleinen, auf Haliotis gigantea auf-
+sitzenden Algen, <g>Awabi ksa,</g> d. h. Haliotis-Kraut, die Halochloen
+<g>Gembusa</g> (?? kenbu-k&2019;sa, Seidenstoff-Kraut) und <g>Mo,</g> letzteres ist
+nach Thunberg zugleich der Name einer Süsswasserpflanze, Cerato-
+phyllum demersum L. Die Japaner besitzen demnach, wie die
+Schotten und Norweger, wirklich mehr allgemein verständliche
+Namen für verschiedene Tangarten, als die Mehrzahl der euro-
+päischen Schriftsprachen, und aus demselben Grunde, weil die
+einzelnen Arten für sie von practischem Interesse sind, aber sie
+halten bei ihren Namen eben so wenig die Gränzen der botanischen
+Hauptabtheilungen ein, wie wir, wenn wir von isländischem oder
+irländischem Moos sprechen, oder die Botaniker selbst, als sie den
+alten Namen der phanerogamen Zostera, Alga, auf die Classe der
+Wasser-Thallophyten übertrugen.</p>
+<hr>
+<pb="125"/>
+<kt>Süsswasser-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<d2><b><g>Uebersicht</g></b>
+der bis jetzt aus Japan und dem nördlichen China
+bekannten Tange.</d2>
+<tab>#<fn="*)">Wegen der Abkürzungen vgl. oben S. 35&2014;38.</fn>
+<pb="126"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<pb="127"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<pb="128"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<pb="129"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<bs>Ost-Asien. Botanisch I. 9</bs>
+<pb="130"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<pb="131"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<bs>9*</bs>
+<pb="132"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<pb="133"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<pb="134"/>
+<kt>Meer-Algen Ostasiens vom Wendekreis des Krebses bis 45° nördl. Br.</kt>
+<tab>
+<hr>
+<pb="135"/>
+<kt>Zahl und Grösse.</kt>
+<p>Das Erste, was uns an der vorstehenden Uebersicht auffällt,
+ist, dass man von dem in sehr runder Zahl zu 250,000 geographischen
+Quadratmeilen angegebenen China, so wie von Japan, dem man
+deren 13,824 gibt, bis zum Jahre 1860 auch nicht eine einzige Alge
+des süssen Wassers kannte. Die preussische Expedition hat jetzt
+wenigstens den Anfang gemacht und von mehr als tausend Arten,
+welche unsere Nachkommen aus diesen grossen, an Flüssen, Seen,
+Canälen und Reisfeldern reichen Ländern kennen und verzeichnen
+werden, vier mitgebracht, von Formosa den Nachweis einer grossen
+Verbreitung des schönen Wassernetzes, von Yokohama die bisher
+nur aus Padua bekannte linsenförmige Rivularie, eine neue Clado-
+phora und ein neues Zygnema.</p>
+<p>Etwas weniger unbekannt ist die Meeresflora beider Reiche
+von 23° 30&2032; bis 45° N. Br. und 118° bis 150° O. L. von Greenwich,
+also 21° 30&2032; Breitengrade und 32 Längengrade umfassend.</p>
+<p>Durch andere Reisende, vorzüglich Horner und Tilesius,
+Naturforscher der russischen Erdumsegelung unter Krusenstern,
+und Williams und Morrow bei der nordamerikanischen Expedition
+unter Perry, kennt man 78 Arten und Spielarten; die Naturforscher
+der preussischen brachten deren 111 mit, darunter nur 30 schon
+von Anderen gefundene, so dass der Zuwachs an für dieses Gebiet
+unbekannten Arten und Spielarten 81 beträgt, also von den 159
+gegenwärtig bekannten über die Hälfte eine Frucht der königlich
+preussischen Unternehmung ist.</p>
+<p>An Grösse haben die Algen dieser Meere gegen die tropischen
+zugenommen, doch, nach den mitgebrachten Exemplaren zu urtheilen,
+nur mässig. Die grösste Länge ist bei Anthophycus japonicus 1&2032; 9&2033;,
+Halochloa Siliquastrum 1&2032; 6&2033;, H. patens 2&2032;, H. polyacantha 2&2032; 3&2033;,
+Carpacanthus trichophyllus 2&2032; und Sargassum pinnatifolium 3&2032; 3&2033;.
+Zugleich treten nun auch Laminarieen auf, Capea Richardiana bis
+1&2032; 6&2033; lang, Capea flabelliformis 1&2032; lang, Stamm und Zweige bis
+1&frac12;&2033; breit, und Capea elongata mit bis 2&frac12;&2032; langen, 1&frac34;&2033; breiten
+Zweigen, neuseeländische Algen, deren Fundort in Japan insofern
+nicht genau bestimmt ist, als sie getrocknet als Esswaaren in den
+Läden gekauft wurden.</p>
+<p>Eine schöne, zarte Alaria ist bis zwei Fuss lang und über
+einen Fuss breit, und von Laminarien im engeren Sinne erhielt man
+zwar nicht die von Kämpfer und Thunberg in Japan, von Burnett
+in China angegebene Laminaria saccharina, nach Kaempfer über eine
+<pb="136"/>
+<kt>Charakteristische Gattungen.</kt>
+Klafter lang, nach der japanischen Encyclopädie sogar bis dreissig
+Fuss lang und einen halben Fuss breit, aber doch ein vielleicht zu
+Hafgygia Bongardiana Kg. gehörendes Fragment.</p>
+<p>Die in den Tropengegenden so häufigen Zonarien fand man
+hier nur durch eine einzige, aber ausgezeichnete, dort fehlende Art
+vertreten, die Zonaria Durvillei Bory, von deren Fundorten nur der
+an Chile&2019;s Küste richtig sein dürfte.</p>
+<p>Die nahe verwandten Gattungen Sargassum und Carpacanthus
+sind mit vierzehn Arten stärker vertreten, als in den entsprechenden
+Breiten des atlantischen Meeres.</p>
+<p>Die Hauptmerkwürdigkeit dieser Flora ist das Auftreten
+einer sie wesentlich charakterisirenden Gruppe von Fucaceen,
+welche Kützing&2019;s Gattungen Spongocarpus mit sechs, Halochloa
+mit dreizehn, Myagropsis mit fünf und Coccophora mit zwei,
+zusammen 26 ausschliesslich chinesisch-japanischen Arten ohne
+Gattungsverwandte in anderen Meeren umfasst. Diese Gruppe
+entspricht den hier ganz fehlenden Blossevilleen der südlichen
+gemässigten Zone des stillen Weltmeeres, von welchen sie durch
+die tropische Zone getrennt sind, den durch Asiens Festland
+unübersteiglich geschiedenen 45 Cystosireen des atlantischen Welt-
+meeres, hier nur durch drei Familien-, nicht Gattungsverwandte,
+die halbtropische Hormophysa triquetra und zwei eigenthümliche,
+nicht häufige Sirophysalis-Arten, schwach vertreten; sie bilden
+mit ihren in eine Granne oder ein Blatt endigenden Blasen und
+ihren endständigen Früchten ein Mittelglied zwischen den Cysto-
+sireen und den von beiden Agardh mit ihnen vereinigten Sargassen,
+in welche sie durch Sargassum pinnatifolium, piluliferum und Car-
+pacanthus trichophyllus übergehen.</p>
+<p>Von Caulerpeen keine Spur, selbst die Phyllerpen fehlen,
+welche doch in anderen Meeren beide Wendekreise überschreiten;
+auch die noch an den Küsten der Philippinen sehr häufigen Halimeden
+sind mit den Korallenbänken verschwunden, und die 42 anderen
+kalkhaltigen Algen der angränzenden tropischen Meere sind auf
+dreizehn vermindert.</p>
+<p>Von der zahlreichen Familie der Callithamnieen zeigt unsere
+Uebersicht nur eine zweifelhafte Spur in Burnett&2019;s Angabe der Grif-
+fittsia corallina und auch die Ceramieen, im gemässigten atlantischen
+Meer so häufig, sind mit vier Arten schwach vertreten.</p>
+<p>Das schöne Cystoclonium armatum erinnert durch seine
+<pb="137"/>
+<kt>Nutzen der Tange für die Thiere.</kt>
+Starrheit und reiche Verzweigungen an den mittelländischen
+Sphaerococcus armatus, während es sich durch seine Frucht an
+eine Gattung kälterer Meere anschliesst. Hypneen, Gelidien, Poly-
+siphonien und Laurencien bleiben noch häufig, aber der Sphaerococcus
+confervoides gemässigter Zonen tritt ganz an die Stelle des die
+Wendekreise nicht überschreitenden tropischen Sphaerococcus liche-
+noides, und in Tschifu trifft eine neue Art der tropischen Gattung
+Leveillea mit der hochnordischen Lophura floccosa zusammen.</p>
+<d2>Nutzen der Tange.</d2>
+<p>Jedes Einzelwesen ist zunächst für sich da, dann für seine
+Kinder; dieses hindert jedoch nicht, dass es in vielfachen Beziehungen
+zu anderen Einzelwesen stehe, welche letzteren schädlich oder nützlich
+sein können.</p>
+<p>Was nun die Algen betrifft, so sind diese so harm- und
+wehrlos, selbst ihre Stacheln stechen nicht, dass bei ihnen von
+einem Schaden gar nicht die Rede sein kann.</p>
+<p>Ihr grösster Nutzen besteht in dem Schutze, welchen sie
+Millionen von Zoophyten, Crustaceen, Mollusken, vielen Fischen
+und dem Laich all dieser Thiere gewähren, ein Schutz, von welchem
+der oben erwähnte schwimmende Traubentang ein auffallendes Bei-
+spiel liefert. In Tropenmeeren jedoch ist derselbe wegen ihrer
+geringeren Grösse und Häufigkeit nicht so bedeutend, wie in höheren
+Breiten, und wird den gleichen oder ähnlichen Thieren hier auch
+von den Korallen gewährt.</p>
+<p>Weit geringer ist der Nutzen der Algen als Nahrung für
+Seethiere, welche in der Regel nur von thierischer Kost leben,
+so dass man weitaus die meisten Algen nie angenagt oder zer-
+fressen findet.</p>
+<p>Dass der Schwertfisch sein Schwert zum Mähen der Wiesen
+des Abgrundes benutze, ist längst als Mährchen erkannt, und Couch&2019;s
+Vermuthung, dass eine Heringsart, Clupea Pilchardus, sich von dem
+Samen der Tange nähre, ist eben so grundlos.</p>
+<p>Harvey erzählt, dass an der Südküste von Florida die
+Meerschildkröten auf den Caulerpa-Wiesen weiden, und nach
+Carmichael sollen der bis 25 Fuss lange Seelöwe und ein andert-
+halb Fuss langer Fisch, Chaetodon monodactylus Carmichael,
+im äussersten Süden Amerika&2019;s von Macrocystis pyrifera leben;
+nach Steller nährte sich am äussersten Norden des gleichen
+<pb="138"/>
+<kt>Tange als Nahrungsmittel.</kt>
+Welttheils die seitdem ausgerottete Rhytina Stelleri von anderen
+Laminarieen.</p>
+<p>Cuvier und Valenciennes fanden den Magen einiger Fische
+mehr oder minder mit Tangen gefüllt, so bei Sparus Boops L.,
+Charax Puntazzo Cuv., Scorpis georgianus Cuv., einem Cantharus
+aus dem mittelländischen Meere, einigen Sargusarten aus dem rothen
+und atlantischen Meere und Sargus Aries Cuv. aus der Lagune von
+Maracaibo im tropischen Südamerika.</p>
+<p>Ich selbst fand nie in dem Magen eines Fisches etwas Algen-
+ähnliches, junge Fische und Taschenkrebse waren fast immer der
+Inhalt, seltener junge Schalthiere. In der Lagune von Venedig
+fand ich an einer etwas löcherigen Ulva latissima L. mehrere Exem-
+plare von Bulla Hydatis L. und schrieb dieser die Löcher zu; an
+der Hafenmauer von Ancona sass an wie ein Sieb durchlöcherten
+Exemplaren der Porphyra vulgaris Ag. eine kleine Meerschnecke,
+Nasa Corniculum Olivi, in Mehrzahl, dazwischen Grateloupia filicina
+Ag. und Chaetomorpha Linum Kg. ganz unverletzt und unbewohnt,
+woraus ich schloss, dass diese Schnecke sich von der Porphyra
+ernähre, und so dürfte auch die unregelmässig durchlöcherte Phy-
+coseris gigantea von Amboina, Singapore und Yokohama ihre Löcher
+durch Gasteropoden erhalten haben.</p>
+<p>Die Rolle, welche die Tange als Nahrungsstoff für den poly-
+phagen Menschen spielen, ist ebenfalls eine sehr untergeordnete,
+übertrifft zwar die der Moose, welche gar nicht gegessen werden,
+der Farn, welche nur den Maori&2019;s Neuseelands einige Nahrung
+liefern, und der Flechten, welche selbst in Polarländern wegen
+ihrer Bitterkeit weniger hierzu benutzt werden, als sie verdienen,
+dürfte aber der der Pilze bedeutend nachstehen, von welchen viele
+höheren Arten, ja selbst die tiefstehenden Trüffel, besonders von
+den slavischen und romanischen Völkerstämmen, Chinesen und
+Japanern (Thunberg fl. jap. p. 347) in Menge gegessen werden.</p>
+<p>Gegen den Südpol ist das wenige Land ganz unbewohnt oder
+sehr schwach bevölkert, die Algenkost fällt ganz weg; gegen den
+Nordpol gibt es mehr Land und Menschen, aber der Umstand, dass
+das zugefrorene Meer die Benutzung der dortigen Riesentange gerade
+im langen Winter, wenn die Hungersnoth am grössten ist, verhindert,
+während im Sommer der Fisch- und Vogelfang die Bevölkerung
+vollauf beschäftigt und sättigt, lässt auch hier keine Phykophagen
+aufkommen.</p>
+<pb="139"/>
+<kt>Tangessen in Norwegen und Schottland.</kt>
+<p>Sibiriens und Amerika&2019;s hochnordische Ureinwohner an den
+Küsten des Eismeeres, in Grönland und Labrador, scheinen die
+Algenkost ganz zu verschmähen, nur von Sitka im russischen
+Amerika berichtet Heinrich Mertens (Linnaea Bd. IV., S. 46), dass
+die Kaloschen den untersten Theil von Fucus vesiculosus L. sowohl
+frisch als gekocht essen, Laminaria saccharina <k>Lx</k>. und Alaria esculenta
+Grev. würden auch gegessen; was Mertens aber unter Fucus edulis,
+welcher vorzüglich zum Wintervorrath eingesammelt werde, ver-
+standen habe, ist nicht zu errathen, da Fucus edulis Withering =
+Iridaea edulis Bory und Fucus edulis Gmelin = Sphaerococcus
+lichenoides Ag. dort nicht vorkommen.</p>
+<p>In Europa sind es die Normänner in Island, den Faröern
+und Norwegen und die Einwohner celtischen Stammes im nörd-
+lichen Schottland, in Wales, Cornwallis und Irland, welche die
+Tange als Nahrung benutzen, und zwar namentlich die jungen
+Stengel und Blätter der Laminarien, welche zehn bis fünfzehn
+Procent Mannazucker enthalten, so wie der Hafgygia digitata,
+Tangle der Schotten, dann Mittelrippe und Fiederblättchen der
+Alaria esculenta, welche schon von Linné den Beinamen die
+Essbare erhielt, honey ware der Schotten; ferner Sphaerococcus
+palmatus Kg., schottisch Dulse, irisch Dillisk, süsslich mit Veilchen-
+geruch; Iridaea edulis, zu zähe, um roh gegessen zu werden, daher
+in der Pfanne gebraten; Porphyra, Laver, als Salat oder gekocht
+und als die beste gerühmt; Ulva und Phycoseris, green Laver,
+gedämpft; Chondrus crispus und Mastocarpus mammillosus, Carra-
+geen, zu Sulze verkocht; endlich Laurencia pinnatifida, Pepperdulse,
+des pfefferartigen Geschmackes wegen als Würze zu anderen Speisen
+(nach Greville und Harvey).</p>
+<p>Indessen ist das Tangessen im nördlichen Europa sichtbar
+im Abnehmen und weicht mit zunehmender Wohlhabenheit und
+Bildung mehr und mehr anderen Nahrungsmitteln. Greville hörte
+schon vor 35 Jahren in den Strassen von Edinburg nur selten noch
+den alten Ruf: &00BB;Kauft Dulse und Tangle!&00AB; und jetzt wird er wohl
+ganz verhallt sein.</p>
+<p>Ueberschreitet man den Canal, so ist jede Spur von Algen-
+kost verschwunden; ich habe in Frankreich, Holland, Deutschland
+und Italien nie etwas davon gesehen oder gehört, und wenn
+Greville die Bewohner des griechischen Archipels Sphaerococcus
+palmatus essen lässt, so widerlegt sich diese Angabe einfach da-
+<pb="140"/>
+<kt>Agar-agar der Malaien.</kt>
+durch, dass im ganzen Mittelmeer weder diese, noch eine andere,
+leicht damit zu verwechselnde Alge vorkommt.</p>
+<p>In ganz Afrika und Westasien weiss man auch nichts von
+essbaren Tangen, und von Südamerika fand ich bloss die Angabe,
+dass in Chile die ärmeren Volksclassen die Durvillea utilis Bory
+braten und essen, welche freilich beinahe mehr Aehnlichkeit mit
+Bratwürsten, als mit Algen hat.</p>
+<p>Nur Ostasien, das jetzt uns beschäftigende Floragebiet, tritt
+als das Land hervor, wo die Tange im Grossen als Speise nicht
+nur gesammelt, sondern auch gebleicht, getrocknet und in den
+Handel gebracht werden; die malaiischen und mongolischen Volks-
+stämme sind die stärksten Phykophagen der Erde: während anderswo
+die Algen selten mehr als Nothbehelfe bei Hungersnoth und Armuth
+sind, sind sie hier Leckerei der Reichen und als solche einträglicher
+Handelsartikel, wie die Holothurien.</p>
+<p>In niederländisch Indien ist es vorzüglich Sphaerococcus
+spinosus Ag. (Eucheuma spinosum J. Ag.), welcher, im Leben
+dunkelroth, als Agar Agar gesammelt, mit Kalkwasser gewaschen
+und an der Sonne gebleicht und getrocknet, dann zu einer Gallerte
+versotten wird, um die beliebten heissen und beissenden Gewürze
+für den Gaumen behaglicher zu machen. Drei andere, diesem nahe
+verwandte Eucheumen J. Agardh&2019;s, nämlich Sphaerococcus Serra Kg.,
+Sphaerococcus gelatinus Ag. und Gigartina horrida Harvey, werden
+unter gleichem Namen auf gleiche Weise behandelt, ja mein Sohn
+erhielt auf Timor selbst die schmächtige, fadendünne Hypnea
+divaricata Greville als Agar Agar.</p>
+<p>Weniger beliebt, aber viel häufiger, daher leichter ein-
+zusammeln, ist Sphaerococcus lichenoides Ag., welcher diesen
+Namen und den noch unpassenderen Plocaria candida Nees dem
+Umstande verdankt, dass man ihn früher nur gebleicht erhielt;
+allein schon Rumph erwähnt seine verschiedene Färbung. Er wird
+nach ihm auf Amboina Aysana und Aystana genannt, in Java Bulung,
+in Makassar Dongi Dongi, in süssem Wasser ausgewaschen und
+frisch mit Atsjar oder Dabbo Dabbo, einer Sauce von Citronensaft
+mit etwas Ingwer, gegessen, wobei er angenehm zwischen den
+Zähnen knistere, oder getrocknet in den Handel gebracht, kommt
+auch als Ceylon-Moos nach Europa. Die Annahme, dass er den
+Stoff zu den mit Lebensgefahr gesammelten, theueren, essbaren
+Schwalbennestern liefere, ist längst schon widerlegt.</p>
+<pb="141"/>
+<kt>Tosako der Japaner, Leimtang der Chinesen.</kt>
+<p>Auf der unbewohnten Insel Klein-Tawalli sammelten die
+malaiischen Bootsleute meines Sohnes zu seiner Ueberraschung die
+schöne Chauvinia macrophysa Sonder, um sie gesotten als Zugemüse
+zum Reis zu essen; sie gaben auf Befragen dafür die Benennung
+lai-lai an.</p>
+<p>Nach Gaudichaud wird Enteromorpha compressa Link von
+den Sandwichs-Insulanern für essbar gehalten.</p>
+<p>Ueber die essbaren Algen der Philippinen habe ich S. 45
+Blanco&2019;s Nachrichten angeführt und über die von Japan die
+Kaempfer&2019;s und der japanischen Encyclopädie S. 121&2014;123.</p>
+<p>In den Kaufläden von Yeddo und Yokohama fanden unsere
+Reisenden den Tosako in Menge gebleicht; die Farbe des lebenden
+ist, wie bei den meisten Florideen, ein durch Grün getrübtes Purpur-
+roth, halb verbleicht durch das Verschwinden der flüchtigeren rothen
+Farbe grün, stärker gebleicht gelblich bis weiss, ein Farbenwechsel,
+durch welchen das nahe verwandte capische Gelidium cartilagineum,
+an welchem oft alle drei Farben zugleich vorhanden sind, je nach-
+dem seine Zweige im Meeresauswurf bedeckt oder mehr oder weniger
+der Sonne ausgesetzt lagen, berühmt geworden ist; Esper, Icones
+fucorum, hat mit einer solchen Curiosität die Reihe seiner Tange
+auf Tafel I. begonnen.</p>
+<p>Das kleinere Gelidium rigens Grev. erhielten sie gebleicht, aber
+ziemlich unrein, in flachen, viereckigen, drei Zoll langen und breiten
+Täfelchen; auch Cystoclonium armatum, Capea Richardiana, flabelli-
+formis und elongata wurden als Esswaaren feilgeboten und erkauft.</p>
+<p>Von dem berühmten zähen Leimtang der Chinesen, Gloeopeltis
+tenax J. Ag., fand mein Sohn nur ein paar vereinzelte Exemplare
+am Hafen von Hongkong und bei Wahai auf Ceram. Es sind
+schlüpfrige, bei dem Trocknen an das Papier fest anklebende, viel-
+verzweigte, stielrunde, oft sichelförmig gebogene Fäden von der
+Dicke eines Rabenkiels und nur ein bis zwei Zoll Länge. Nach
+Turner (Fuci II., p. 142) wird dieser Tang vorzüglich an den
+Küsten von Fokien und Tschekiang gesammelt und in Canton jähr-
+lich ohngefähr 27,000 Pfund davon eingeführt. Er werde an der
+Sonne gebleicht und getrocknet, zum Gebrauch in kaltem Wasser
+von Salz und fremden Bestandtheilen gereinigt, dann in warmem
+Wasser eingeweicht, in welchem er sich bald ganz auflöse und zu
+einer festen Gallerte erkalte, welche, wie Leim, in der Hitze wieder
+flüssig werde. Man benutze diese Gallerte ganz wie das arabische
+<pb="142"/>
+<kt>Leimtang.</kt>
+Gummi oder Tischlerleim, vorzüglich als Firniss der papierenen
+Laternen und Gitterfenster und als Schlichte bei Seidengeweben.
+Turner schrieb 1809 und verdankte diese Nachrichten dem berühm-
+ten Joseph Banks und Herrn Goodhall; neuere sind mir nicht
+bekannt geworden, die 1836 in Edinburg erschienene Beschreibung
+von China fügt nur die Vermuthung Dr. Neill&2019;s hinzu, dass der als
+Nahrung, Leim und Firniss benutzte Hai-Tsai eben diese Gloeopeltis
+sei, nach der japanischen Encyclopädie bedeutet aber Hai Tai auf
+chinesisch Meergürtel und sei der Name einer grossen Laminarie,
+so dass es hier noch Manches aufzuhellen gibt.</p>
+<hr>
+<pb>
+<d1><b><g>ANHANG</g>.</b></d1>
+<hr>
+<p>Ich schliesse hier eine kurze Aufzählung der Wasserpflanzen
+aus anderen Abtheilungen des Pflanzenreichs an, welche mein Sohn
+von der Reise mitgebracht hat.</p>
+<d2>a) Süsswasserpflanzen.</d2>
+<d3><g>Characeen</g>.</d3>
+<p>Die Bestimmung derselben, so wie der Najas-Arten, verdanke
+ich Herrn Prof. A. Braun in Berlin.</p>
+<p>Nitella pseudoflabellata A. Br. Im westlichen Borneo bei Lumar.</p>
+<p>&2014; polyglochin var. Zollingeri A. Br. Ebenda bei Bengkajang.</p>
+<p>&2014; eine mit N. flexilis verwandte Art. Ebenda.</p>
+<p>Chara Ceylanica Willd. Ceylon bei Pointe d. Galle.</p>
+<d3><g>Rhizopteriden</g>.</d3>
+<p>Salvinia natans L. Japan bei Yokohama.</p>
+<p>Azolla sp. Java, in einem künstlichen Teich der &00BB;Wasserburg&00AB;
+bei Djokjakarta.</p>
+<p>&2014; sp. Rio Janeiro, in einem Teich des botanischen Gartens zu
+Botafogo.</p>
+<d3><g>Monocotyledonen</g>.</d3>
+<p>Pistia stratiotes L. Sumatra, im Flusse Musi bei Palembang
+treibend, stellenweise in grosser Menge; sehr häufig im
+Pasigfluss oberhalb Manila.</p>
+<p>&2014; sp.? Siam, in sumpfigen Gräben bei Bangkok.</p>
+<p>Najas falciculata A. Br. (Journal of botany 1864). Philippinen,
+in der Laguna del Bai oberhalb Manila.</p>
+<p>&2014; minor var. Indica A. Br. l. c. (Caulinia Indica Willd.). Timor
+bei Kupang.</p>
+<p>&2014; graminea Del. Ceylon bei Pointe de Galle.</p>
+<p>Wolffia arrhiza Wimm. Bei Manila.</p>
+<pb="144"/>
+<kt>Weitere ostasiatische Wasserpflanzen.</kt>
+<p>Eriocaulon intermedium Körnicke. Oestliches Sumatra, bei Lembok
+in einem langsam fliessenden, klaren Bach, schwimmend.</p>
+<p>Hydrilla verticillata L. fil. sp. Singapore in einem kleinen Bach
+und auf Celebes im See von Tondano.</p>
+<d3><g>Dicotyledonen</g>.</d3>
+<p>Ceratophyllum submersum L. Japan bei Yokohama.</p>
+<p>Utricularia sp. sp. Singapore, Sumatra bei Lembok, Borneo bei
+Singkawang und Sintang.</p>
+<p>Limnophila, wahrscheinlich gratioloides Gaudichaud, eine Scrofu-
+larinee. Westliches Borneo, bei Mandhor in einem seichten
+Teiche.</p>
+<p>Trapa bicornis L. fil. In Japan häufig.</p>
+<p>Nymphaea stellata Willd. Westliches Borneo bei Sambas.</p>
+<p>Schon bei dieser kleinen Anzahl tritt die weite geographische
+Verbreitung der Süsswasser-Organismen erkennbar hervor. Von
+den zwölf bestimmten Arten ist nur Eine, Chara Ceylanica, allein auf
+derselben Insel, von wo sie seit früher bekannt ist, wiedergefunden
+worden; mehr als die Hälfte der Arten findet sich auch in anderen
+Welttheilen (so ausser den drei europäischen Arten die Pistia, die
+Nymphaea und eine Najas in Afrika), zwei weitere Arten, Najas
+falciculata und Eriocaulon, mindestens zugleich auf dem vorder-
+indischen Festlande und im Archipel. Von den vierzehn Gattungen,
+welchen die zwanzig Arten angehören, sind nur vier, Azolla, Pistia,
+Eriocaulon und Limnophila, Europa fremd, von den zwölf Familien
+derselben nur Eine, Eriocauleae, ausschliesslich tropisch.</p>
+<d2>b) Meer-Phanerogamen.</d2>
+<li>Enhalus acoroides Richard, nicht selten an flachen, sandigen
+Stellen, bei Singapore nahe den Inseln von Newharbour,
+bei Zamboanga auf Mindanao und in der Bai von Amboina
+gefunden, schon von Rumph, herbar. amb. VI., p. 191,
+unter dem Namen Acorus marinus als häufig bei Amboina,
+den (ächten) Molukken, ganz Celebes, Java und Bali erwähnt,
+also durch den ganzen Archipel verbreitet. Vergl. Miquel
+flor. Ind. III., p. 237.</li>
+<li>Zostera marina L., # alle drei in der Bai von Yeddo bei Yoko-
+hama, die letztgenannte Art oder Varietät
+auch innerhalb des indischen Archipels bei</li>
+<li>&2014; angustifolia Roth,#</li>
+<li>&2014; uninervis Forsk.,#</li>
+<pb="145"/>
+<kt>Meer-Phanerogamen.</kt>
+<li>Singapore und in einem Salzsumpf bei Makassar (Celebes)
+gefunden.</li>
+<li>Halophila ovata Gaudichaud, eine eigenthümliche, seltene Pflanze,
+nur einmal bei Atapupu auf der Insel Timor gefunden,
+auf Korallengrus eines Riffs nahe am Strande kriechend,
+wie eine Caulerpa, aber durch die Rippen ihrer einzelnen,
+lebhaft grünen, ovalen Blätter sofort als Phanerogame
+unter den sie umgebenden Algen (Sargassen u. a.) sich
+verrathend. Gaudichaud kennt sie von den Marianen und
+bemerkt selbst, dass die Korallenriffe dieser Inseln viel
+Aehnlichkeit mit denen von Timor haben (voy. de l&2019;Uranie
+bot. p. 38). Miquel lässt zweifelhaft, ob sie zu den Hydro-
+charideen oder Najadeen zu stellen sei (flor. ind. III., p. 229).</li>
+<hr>
+<bs>Ost-Asien. Botanisch I. 10</bs>
+<pb>
+<d1><b>NACHTRÄGE.</b></d1>
+<hr>
+<p><c>Zu Seite 19. nach Lyngbya fluviatilis.</c></p>
+<p><g>Scytonema varium</g> Kg. Bei Singkawang an der Westküste
+von Borneo am Rande des Waldes zwischen Sandhügeln, alten, jetzt
+über eine Stunde vom Meer entfernten Dünen, in einer Vertiefung, in
+welcher vielleicht zur Regenzeit süsses Wasser stehen bleibt, auf dem
+nackten, trockenen Sande schwarzrothe Flecken bildend.</p>
+<p><c>Zu Seite 27. Carpacanthus herbaceus.</c></p>
+<p>Nach einer Mittheilung des Herrn A. Grunow in Wien ist
+unser Carpacanthus herbaceus von Mampawa &00BB;ziemlich typische
+Form von <g>Sargassum Binderi</g> Sonder, zu dessen Formenkreise
+Sargassum herbaceum Kg., Carpacanthus oligocystus Montagne,
+Sargassum dumosum Greville und Sargassum cervicorne Greville
+gehören dürften.&00AB;</p>
+<p><c>Zu Seite 29. Gymnophloea dichotoma.</c></p>
+<p>Die Gymnophloea von Pointe de Galle auf Ceylon dürfte als
+neue Art aufzustellen sein: <g>Gymnophloea gracilis</g> Martens, fronde
+gelatinoso-carnosa, inferne laxe et remote, superne crebre dichotoma,
+fronde subtereti semilineam lata, axillis rotundatis, ramis divaricatis,
+sensim attenuatis, ultimis linearibus acutiusculis.</p>
+<p>Zwei Zoll lang, purpurroth, leicht in grünlich ausbleichend,
+schlüpfrig, dem Papier fest anklebend. Der Stamm bleibt bis zur
+zweiten oder dritten Gabelung gleich dick und verdünnt sich bei
+weiterer Theilung bald langsamer regelmässig dichotomisch, bald
+plötzlich in gedrängten Büscheln.</p>
+<p>Die Rindenzellen bilden dünne, gegliederte Fäden, welche
+an der Spitze eine grössere birnförmige Zelle von 1/150 bis 1/100&2034; Länge
+und 1/200 bis 1/150&2034; Durchmesser tragen. Die Fäden sind dünner als
+die der von Kützing (Phycologia generalis Tab. 74. Fig. IV., 2.) ab-
+gebildeten adriatischen Gymnophloea dichotoma, dagegen die durch
+einen körnigen Inhalt ganz oder nur an der Spitze dunkel gefärbten
+Endzellen beträchtlich grösser.</p>
+<p><c>Zu Seite 117. vor Ceramium.</c></p>
+<p><g>Hormoceras tenerrimum</g> Martens, biunciale, capillaceum, re-
+gulariter repetite dichotomum; articulis inferioribus diametro 8&2014;10plo
+longioribus, zonis parum incrassatis diametro brevioribus, interstitiis
+diaphanis; articulis superioribus sensim brevioribus, denique con-
+fluentibus, apicibus circinnato-forcipatis. Taf. VIII. Fig. 2.</p>
+<p><c>April 1861 bei Nangasaki, Schottmüller.</c></p>
+<hr>
+<pb>
+<d1><b>TAFEL-ERKLÄRUNG.</b></d1>
+<hr>
+<p>Die Vergrösserungen sind auf den Tafeln selbst in Bruchzahlen der natürlichen
+Grösse angegeben.</p>
+<p>Die mit derselben Ziffer bezeichneten Figuren Einer Tafel gehören derselben
+Art an.</p>
+<p><c>Tafel I.</c></p>
+<p>Fig. 1. Physactis Wichurae, Chinesisches Meer. 1 b. Einzelne Fadenstücke ver-
+grössert. Seite 21.</p>
+<p>&00BB; 2. Conferva (Oedogonium?) Cladophorae, auf Cladophora Sumatrana aufsitzend.
+Sumatra, Süsswasser. S. 20.</p>
+<p>&00BB; 3. Cladophora zostericola, Japan, auf Zostera aufsitzend, natürliche Grösse;
+1 b. vergrössert. S. 112.</p>
+<p>&00BB; 4. Ulothrix Zelleri, Sumatra, Süsswasser. S. 19.</p>
+<p>&00BB; 5. Sphacelaria japonica, Japan. S. 112.</p>
+<p>&00BB; 6. Zygnema undulatum, Japan, Süsswasser. S. 111.</p>
+<p>&00BB; 7. Zygnema tropicum, Borneo, Süsswasser. S. 21.</p>
+<p><c>Tafel II.</c></p>
+<p>Fig. 1. Cladophora Zelleri, Japan, Süsswasser. S. 111.</p>
+<p>&00BB; 2. &2014; sumatrana. Sumatra, Süsswasser. S. 20.</p>
+<p>&00BB; 3. &2014; rugulosa, Japan, im Meer, natürliche Grösse; 1 b. Zweige ver-
+grössert; 1 c. ein unteres Stück vergrössert. S. 112.</p>
+<p>&00BB; 4. &2014; tondanensis, Celebes, Süsswassersee von Tondano. S. 20.</p>
+<p>&00BB; 5. &2014; diluta, Luzon, im Flusse S. Mateo. S. 20.</p>
+<p>&00BB; 6. &2014; timorensis, Timor, marin. S. 22.</p>
+<p><c>Tafel III.</c></p>
+<p>Fig. 1. Cladophora fusca, Borneo und Java, marin, natürliche Grösse; 1 b. ver-
+&2014; grössert. S. 22.</p>
+<p>&00BB; 2. &2014; brasiliana. Rio Janeiro, Brackwasser. S. 16.</p>
+<p>&00BB; 3. &2014; luzoniensis. Luzon, im Flusse S. Mateo. S. 20.</p>
+<p>&00BB; 4. Zygogonium javanicum, Java, im Binnenland. S. 21.</p>
+<p>&00BB; 5. Lyngbya fluviatilis, Borneo im Sambasfluss. S. 19.</p>
+<p>&00BB; 6. Spirogyra atroviolacea, Borneo, Süsswasser. S. 21.</p>
+<bs>10*</bs>
+<pb="148"/>
+<kt>Tafel-Erklärung.</kt>
+<p><c>Tafel IV.</c></p>
+<p>Fig. 1. Microdictyon clathratum, Zamboanga auf Mindanao, Philippinen; ver-
+grössert. S. 25.</p>
+<p>&00BB; 2. Bryopsis pachynema, Sumatra, natürliche Grösse. S. 24.</p>
+<p>&00BB; 3. Acetabularia major, Siam; natürliche Grösse. S. 25.</p>
+<p><c>Tafel V.</c></p>
+<p><et>Capea elongata, Yeddo, verkleinert, ein Stück in natürlicher Grösse. S. 113.</et></p>
+<p><c>Tafel VI.</c></p>
+<p><et>Amphiroa canaliculata, Südküste von Java. a) convexe, b) flache Seite. S. 28.</et></p>
+<p><c>Tafel VII.</c></p>
+<p>Fig. 1. Polysiphonia siamensis, Siam; unten ein Wurzeltrieb. S. 31.</p>
+<p>&00BB; 2. &2014; inflata, Sumatra. S. 31.</p>
+<p>&00BB; 3. &2014; javanica, Palabuan auf Java; 3 b. ein Stück stärker ver-
+grössert. S. 31.</p>
+<p>&00BB; 4. Dictyomenia gracilis, nördliches China, natürliche Grösse; 4 b. ein Stück
+vergrössert. S. 119.</p>
+<p>&00BB; 5. Leveillea bidentata, nördliches China, schwach vergrössert; 5 b. ein Blatt
+stark vergrössert. S. 119.</p>
+<p><c>Tafel VIII.</c></p>
+<p>Fig. 1. Rhizophyllis Corallinae, Japan, natürliche Grösse; 1 b. vergrössert, 1 c. ein
+Stück noch mehr vergrössert. S. 119.</p>
+<p>&00BB; 2. Hormoceras tenerrimum, Nangasaki, vergrössert. S. 146.</p>
+<p>&00BB; 3. Zellera tawallina, Molukken, Insel Klein Tawalli, natürliche Grösse; 3 b. ein
+Stück schwach vergrössert, um die Berippung zu zeigen; 3 c. ein Stück aus
+der Mitte mit einer Rippe, und 3 d. ein Stück vom Rande, noch stärker ver-
+grössert; 3 e. Cystocarpien. S. 33.</p>
+<p>&00BB; 4. Gelidium divaricatum, Hongkong, natürliche Grösse; 4 b. schwach ver-
+grössert. S. 30.</p>
+<hr>

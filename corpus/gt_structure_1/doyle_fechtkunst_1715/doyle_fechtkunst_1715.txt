@@ -1,0 +1,1260 @@
+<pb>
+<abb>
+<pb>
+<pb>
+<front><c><b>Neu
+Alamodische Ritterliche
+<in>H</in>echt- und <in>S</in>chirm-
+<in>K</in>unst.</b>
+Da&sr; ist:
+<b>Wahre und nach neuester Frantz&oe;sischer Manier eingerichtete
+<g>Unterweisung</g>
+Wie man sich in Fechten und Schirmen <aq>perfectioni</aq>ren und verhalten solle;</b>
+Denen <aq>respectivË</aq> Herren Liebhaberen zu besserer Erleuterung mit 60. hierzu
+dienlichen Figuren herau&sr;gegeben
+Von
+<b><aq>Alexander Doyle</aq> au&sr; Jrrland geb&ue;rtig.</b>
+Jhrer Churf&ue;rstl. Gnaden zu Mayntz verordneten Hof-Fechtmeistern.
+<hr>
+N&ue;rnberg und Franckfurt/ zu finden bey Paul Lochnern/ Buchh&ae;ndlern. <aq>A. M. D. C. C. XV.</aq></c></front>
+<pb>
+<pb>
+<abb>
+<pb>
+<pb>
+<ded><c><b>Dem</b>
+<fr>Hochw&ue;rdigsten F&ue;rsten und Herrn/</fr>
+<g>HERRN/</g>
+<aq>LOTHARIO</aq> <fr>Frantzen/
+de&sr; Heil. Stuhl&sr; zu Mayntz Ertz-Bischoffen/
+de&sr; Heyl. R&oe;m. Reich&sr; durch</fr> <aq>Germani</aq> <b>en Ertz-Cantzlern
+und Churf&ue;rsten/ Bischoffen zu Bamberg &rr;c.
+Meinem Gn&ae;digsten Herrn/</b></c></ded>
+<pb>
+<kt><hr></kt>
+<sal><fr>Hochw&ue;rdigster Ertz-Bischoff und
+<et>Thurf&ue;rst/
+Gn&ae;digster Herr!</et></fr></sal>
+<p><in>S</in><fr>Eith deme/ daﬂ in Eu. Churf&ue;rstl.
+Bnaden hoher</fr> <aq>Protection</aq> <fr>und Diensten</fr>
+<cw><fr>zu ste-</fr></cw>
+<pb>
+<kt><hr></kt>
+<fr>zu stehen ich die h&oe;chste Gnad gehabt/ habe nicht al-
+lein meine unterth&ae;nigste Schuldigkeit und</fr> <aq>Incum-
+benz</aq> <fr>Eu. Churf&ue;rstl. Bnaden Edelkna-
+ben in dieser Ritterlichen Schirm- und Fecht-
+Kunst mit treulichst- und sorgf&ae;ltigster Unterwei-
+sung zu dienen billig allstet&sr; vor Augen gehabt/
+sondern bin anbey dahin bedacht gewesen/ wie ich
+einem jeden/ so theil&sr; zu seiner Schutz- und Siche-
+rung/ theil&sr; und insonderheit bey gegenw&ae;rtigen
+gef&ae;hrlichen L&ae;ufften dem</fr> <aq>Publico</aq> <fr>dienen zu k&oe;nnen/
+durch Ritterliche Ubungen sich zu</fr> <aq>qualifici</aq><fr>ren trach-</fr>
+<bs>)( 3</bs><cw><fr>tet/</fr></cw>
+<pb>
+<kt><hr></kt>
+<fr>tet/ dem von GOtt mir verliehenen</fr> <aq>Talento</aq> <fr>nach
+darzu an Hand gehen/ und solche l&oe;bl.</fr> <aq>Intention,</aq> <fr>so
+viel an mir ist/ bef&oe;rdern helffen m&oe;ge; Welchem-
+nach dann ich gegenw&ae;rtige nach heutiger</fr> <aq>perfectio-
+nir</aq><fr>ten so Frantz&oe;s. al&sr;</fr> <aq>Italiani</aq><fr>scher</fr> <aq>Manier</aq> <fr>eingerich-
+tete/ von mir so</fr> <aq>tituli</aq><fr>rte: Neu Alamodische
+Ritterliche Fecht- und Schirmkunst &rr;c.
+zu verfassen/ und die darzu n&oe;thige</fr> <aq>Figu</aq><fr>ren durch
+wohlerfahrne K&ue;nstler nach meiner Anweisung</fr>
+<aq>accuratË delinei</aq><fr>ren zu lassen/ umb so mehr veran-
+lasset worden/ al&sr; mehr jederm&ae;nniglich bekannt/</fr>
+<cw><fr>daﬂ</fr></cw>
+<pb>
+<kt><hr></kt>
+<fr>daﬂ in denen wenigen von dieser Edlen Kunst hie-
+bevor zum Druck gekommenen</fr> <aq>Tract</aq><fr>&ae;tlein viele
+ungereimbte/ nicht</fr> <aq>practici</aq><fr>rliche/ ja irrmachende/
+und leichter zu gr&oe;ster Gefahr und Schaden gerei-
+chende Unrichtigkeiten/ auch von denen Kupfer-
+stecheren oder sonst herr&ue;hrende Fehler befindlich
+seynd; Obwohlen nun Gn&ae;digster Chur-
+f&ue;rst und Herr/ ich mich fast entbl&oe;den solte/
+Eu. Churf&ue;rstl. Gnaden al&sr;einem Geist-
+lichen Herrn und</fr> <aq>Regen</aq><fr>ten diese&sr;</fr> <aq>purË</aq> <fr>weltliche und</fr>
+<cw><fr>fast</fr></cw>
+<pb>
+<kt><hr></kt>
+<fr>fast nur zum Krieg dienende Wercklein unterth&ae;-
+nigst zu</fr> <aq>dedici</aq><fr>ren/ so</fr> <aq>animi</aq><fr>ret mich dannoch eine&sr;
+theil&sr; die von Deroselben geniesende hohe Chur-
+f&ue;rstl.</fr> <aq>Clemenz,</aq> <fr>al&sr; welcher ich meine zeitliche Wol-
+fahrt zu dancken habe/ andern theil&sr; aber/ daﬂ
+Eu. Churf&ue;rstl. Gnaden diese und alle
+andere Ritterliche</fr> <aq>Exercitia</aq> <fr>und Wissenschafften
+nicht allein in Dero Jugend selbsten h&oe;chsten&sr;
+geliebt und ge&ue;bt/ sondern nunmehro alle diejenige/
+so adelich/ al&sr; unadeliche/ welche dem von Eu.</fr>
+<cw><fr>Lhur-</fr></cw>
+<pb>
+<kt><hr></kt>
+<fr>Churf&ue;rstl. Gnaden biﬂhero in so grosser
+und Welt-gepriesener Sorgfalt gehabten werthe-
+sten teutschen Vatterland und gemeinen Besten zu
+r&ue;hmlich- und ersprieﬂlichen Diensten zu stehen ge-
+dencken/ gar gerne in dergleichen wohl ge&ue;bt und er-
+fahren sehen: Und gelanget solchem nach an Eu.
+Churf&ue;rstl. Gnaden mein unterth&ae;nigste&sr;
+Bitten/ Dieselbe geruhen diese&sr; Tract&ae;tlein/ so
+Deroselben ich hiemit in tieffester</fr> <aq>Submission</aq> <fr>ge-
+horsamst</fr> <aq>devovi</aq><fr>re/ gn&ae;digst anzunehmen/ und daﬂ</fr>
+<cw><fr>e&sr;</fr></cw>
+<pb>
+<kt><hr></kt>
+<fr>e&sr; zum Druck bef&oe;rdert werde/ zu erlauben/ mich
+aber in best&ae;ndigen hohen Churf&ue;rstl. Hulden zu
+erhalten/ al&sr;</fr></p>
+<p><fr>Eu. Churf&ue;rstl. Gnaden</fr></p>
+<clos><et>Unterth&ae;nigst-treu-gehorsambster
+<aq>Alexander Doyle.</aq></et></clos>
+<cw><fr>Sum-</fr></cw>
+<pb>
+<abb>
+<d1><b><in>S</in>ummarischer <in>U</in>nterricht</b>
+Derer
+<b><in>J</in>n der <in>R</in>itterlichen <in>F</in>echt-<in>K</in>unst sich befinden-
+den vier f&ue;rnehmsten <aq>Quardien,</aq> wovon solche den Nahmen</b>
+f&ue;hren/ und worinnen deren W&ue;rckung bestehet/ al&sr; welche
+nach der Ordnung <aq>accuratÈ</aq> hierinnen beschrieben
+werden;</d1>
+<p><c>Dahero zu bemercken/ daﬂ so viele <aq>Quardi</aq>en/ al&sr; f&ue;rnehmste oder Haupt-
+st&oe;sse/ und zwar deren vier: al&sr; <aq>Prima, Secunda,
+Tertia, Quarta.</aq></c></p>
+<bs>A</bs><cw>Die</cw>
+<pb>
+<kt><hr></kt>
+<p>Die Erstere nun/ <aq>Prima</aq> genannt/ belangend/ ziehet selbige ihren Nahmen
+daher/ wann man den Degen au&sr; der Scheiden ziehen will/ denselben mit verkehr-
+ter Faust auf der Seiten ergreiffet/ und nach dessen Entbl&oe;sung seinem Feinde die
+Spitze bietet/ da dann mit dem kleinen Finger in der H&oe;he/ dem Daumen unten/
+mit zugelegter Faust und au&sr;gestrecktem Arm gegen die Achsel die Spitze <aq>pr&00E6;-
+senti</aq>rt wird: Und in solcher <aq>Positur</aq> wird die so genannte <aq>Prima formi</aq>ret;
+Wobey gleichwohl nicht unrecht zu mercken/ daﬂ solche nicht mehr im Gebrauch/
+dessen Ursach diese ist/ weilen bey Ergreiff- und Au&sr;ziehung de&sr; Degen&sr; man mit
+dem Feind gleich in <aq>Tertia</aq> zu liegen kommt: Also dann gewiﬂ/ daﬂ/ wann ei-
+ner de&sr; andern Spitze oder Schw&ae;che der Klingen <aq>stringi</aq>ret/ und solche abzu-
+wenden suchet/ der ander umb de&sr; Feinde&sr; Bl&oe;se in der <aq>Quart</aq> zu stossen/ inde-
+me er solche in der <aq>Tertz</aq> abgewiesen/ <aq>lavi</aq>rt/ und in der <aq>Quart</aq> zu stossen ge-
+zwungen wird; welche Manier von allen <aq>expedi</aq>ten <aq>Maiter&sr;</aq> ihren <aq>respectivË</aq>
+Herren <aq>Schola</aq>ren zu erst angegeben wird.</p>
+<cw>Damit</cw>
+<pb>
+<abb>
+<pb>
+<pb>
+<kt><hr></kt>
+<p>Damit aber auch der vorkommend und geziemenden <aq>Reverence,</aq> welche f&ue;r
+die einige und f&ue;rnehmste Zierlichkeit/ besonder&sr; bey Schertzfechten gehalten wird/
+nicht m&oe;ge vergessen werden/ so will hiemit anzeigen/ daﬂ wann/ wie vorge-
+meldt/ die Klingen zusammen kommen/ man den rechten Fuﬂ einen Schritt vor
+sich stellen/ den rechten Arm au&sr;strecken/ die Spitze so hoch/ al&sr; hoch de&sr; Fein-
+de&sr; Achsel/ f&ue;hren/ die F&ue;sse in einer Linie/ desto fester auf denen Beinen stehen
+zu k&oe;nnen/ halten/ damit der rechte Daumen und die Z&ae;he de&sr; Fusse&sr; in einer
+Weite de&sr; Leib&sr; sich gerichtet m&oe;ge finden/ wie auch da&sr; lincke Knie so biegen/
+daﬂ der gantze Leib darauff ruhe/ und die lincke Hand so hoch/ al&sr; da&sr; lincke Aug
+ein wenig/ doch nicht zu weit/ zuruck halten m&ue;sse/ und diese&sr; deﬂwegen/ damit
+man in sch&oe;ner <aq>Positur</aq> sich sehen/ wie auch seinem Feinde desto weniger entbl&oe;sen
+m&oe;ge.</p>
+<bs>A 3</bs><cw>Jn</cw>
+<pb>
+<kt><hr></kt>
+<p>Jn solcher <aq>Positur</aq> stehend/ greifft man in einem <aq>Tempo</aq> mit der lincken
+Hand nach dem Hut/ <aq>batti</aq>ret mit dem Fuﬂ/ l&ae;sset die Spitze mit gehobener
+Faust in die <aq>Quart</aq> gegen die anwesende <aq>Compagnie</aq> sincken/ wie <aq>Num.</aq> 2.
+zeiget/ zween Schritt zuruck weichend/ <aq>batti</aq>ret man mit dem rechten Fuﬂ/ thut
+einen Schritt mit dem lincken Fuﬂ vor sich/ und nach auffgesetztem Hut in einem
+<aq>Tempo</aq> l&ae;sset man die Spitze gegen den Feind sincken/ und stellet sich also wie-
+der in sein vorige&sr; Lager/ wie <aq>lit. A.</aq> zeiget. Ob nun wohl die <aq>Figu</aq>ren oder
+Kupfer dieser hochzierlichen Manier der <aq>Reverence,</aq> in allen St&ue;cken nicht k&oe;n-
+nen so vollkommentlich gerichtet werden/ e&sr; seye dann/ daﬂ eine jegliche Art de-
+ren au&sr;gelegt w&ue;rde/ welche&sr; aber in etwa&sr; verdrieﬂlich vork&ae;me/ so wird jedoch
+hiebeneben stehende <aq>Figur</aq> zum theil solche&sr; vorzeigen/ mit welcher sich jede <aq>re-
+spective</aq> Herrn Liebhaber/ welche&sr; ich bitte/ zu vergn&ue;gen belieben werden.</p>
+<cw>Wie</cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie man die <aq>Quart</aq> stosse?</b></d2>
+<p><in>M</in>Jt wider vor sich gestellten Fuﬂ (wie oben gemeldet) gegen dem Feind hebet
+man die Faust so hoch/ al&sr; sein Angesicht in die H&oe;he/ l&ae;st den lincken Arm
+au&sr;gestreckt sincken/ h&ae;lt den lincken Fuﬂ steiff/ die rechte Schulter hoch richtend/
+um die lincke zu bedecken/ den Kopff grad hinter die Faust haltend/ auf daﬂ der
+Feind den Kopff nicht <aq>l&00E6;dir</aq>en m&oe;ge/ und also wird die <aq>Quart</aq> gestossen/ wie <aq>Figur</aq>
+weiset.</p>
+<d2><b>Wie die <aq>Quart</aq> zu <aq>parir</aq>en.</b></d2>
+<p><in>H</in>Jebey ist zu wissen/ und wohl zu <aq>observi</aq>ren/ daﬂ man nur allein seine Faust
+in die <aq>quart</aq> inwart&sr; umkehre/ damit der Daume in die H&oe;he komme/ so
+wird und kan man/ de&sr; Feinde&sr; Schw&ae;che zu <aq>parir</aq>en/ kr&ae;fftig und m&ae;chtig seyn/
+solche abzuwenden/ wie solche&sr; au&sr; nebenstehender <aq>Figur</aq> abzumercken ist.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<bs>B</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die <aq>Tertia</aq> zu stossen.</b></d2>
+<p><in>D</in>Jese&sr; geschicht/ wann eine&sr; Hand umgedrehet/ und deren Fl&ae;che unter sich
+gerichtet: die lincke Hand sinckend und die Fl&ae;che au&sr;w&ae;rt&sr; gehalten/ den
+Kopff aber/ damit er vor seinem <aq>Adversario</aq> desto gesicherter sey/ dicht am rech-
+ten Arm gehalten wird/ und dann seinem <aq>Adversario</aq> von au&sr;wendig &ue;ber den
+Arm stossend/ al&sr; die <aq>Figur</aq> 4. zu verstehen gibt.</p>
+<d2><b>Wie die <aq>Tertz</aq> zu <aq>parir</aq>en.</b></d2>
+<p><in>D</in>Erselbe wendet seine Faust/ die Finger unter sich/ in die <aq>Tertz, pari</aq>ret sei-
+nem Gegner die Schw&ae;che/ richtet die Spitz gegen dessen Kopff/ damit/
+wann derselbe zuruck gehet/ er in seinem Lager den Nachstoﬂ desto leichter f&ue;hren
+und anbringen k&oe;nne/ wie auch in <aq>Figur</aq> 4. zu sehen.</p>
+<cw><fr>Wie</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie man die <aq>Secund</aq> stossen solle.</b></d2>
+<p><in>S</in>Olche wird gestossen in derselbigen <aq>Linie</aq> al&sr; die <aq>Tertz,</aq> doch daﬂ der Leib
+ein wenig niedriger sey/ die Brust aber &ue;ber da&sr; rechte Knie/ der Kopff am
+Arm/ und die Faust/ um den Kopff zu bedecken/ ein wenig hoch gehalten wer-
+de/ damit man seinen Feind unter der Klinge desto mehr und besser im Gesicht ha-
+ben kan/ wie bey der <aq>Figur</aq> 5. zu sehen.</p>
+<d2><b>Wie die <aq>Secund parir</aq>et wird.</b></d2>
+<p><in>Z</in>U dem Ende kehret man wiederum die Faust mit der Klingen unter sich/ sei-
+nem Feind die Schw&ae;che seiner Klinge abzuwenden/ richtet die Spitze gera-
+de auf de&sr; <aq>Adversarii</aq> seine Brust oder Leib/ damit man in der <aq>Secund,</aq> oder
+aber in der <aq>Tertz</aq> den Nachstoﬂ/ wann der Feind etwan zuruck gehen solte/ je be-
+quemer f&ue;hren m&oe;ge/ <fr>welche&sr; bey der</fr> <aq>Figur</aq> 5. <fr>anzumercken ist.</fr></p>
+<cw><b>N&ue;tz-</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<hr>
+<d1><b><in>Y</in>¸tzliche <aq>Observation</aq> und <in>U</in>nterrichtung deren
+drey Haubt-St&oe;ﬂ im Fechten.</b></d1>
+<p><in>H</in>Jebey ist zuvorderst zu melden/ daﬂ/ wann einer mit seinem <aq>Adversario</aq>
+jetzo will angehen/ er vor allen Dingen sich wohl au&sr; der <aq>Mes&sr;ur</aq> halte/
+so lang/ bi&sr; daﬂ er wohl betrachtet und beschauet/ wie sein <aq>Adversariu&sr;</aq>
+gegen ihn gestaltet; Ob er nemlich Erstlich den Leib vorwart&sr; auf den rechten
+Schenckel liegend/ oder ob er Zweyten&sr; geschwinder Faust/ oder Dritten&sr;/ ob er
+mit einem krummen Arm/ oder ob er Vierden&sr; hitzig im Fechten angehen/ oder
+ob er sich F&ue;nfften&sr; auf seiner lincken Hand <aq>parade</aq> verlassen thue.</p>
+<p>Wa&sr; da&sr; Erstere belanget/ ist zu wissen/ wann der <aq>Adversariu&sr;</aq> mit dem
+Leib vorwart&sr; auf dem rechten Schenckel liegend sich befindet/ oder zu Fechten ge-
+wohnet ist/ muﬂ er gleich zwey <aq>Tempo</aq> machen/ oder haben; Eine&sr; daﬂ er vom
+Schenckel sich erst muﬂ heben/ da&sr; andere zum Stoﬂ: Und wann nun solche&sr;/
+so kan <aq>Adversariu&sr;</aq> e&sr; leichtlich mercken/ und sich auf seine <aq>Defensiv</aq> desto besser
+<cw>stellen/</cw>
+<pb>
+<kt><hr></kt>
+stellen/ also daﬂ er seinem <aq>Adversario</aq> eine <aq>Tertz,</aq> oder <aq>Quart</aq> nachstossen kan und
+mag;</p>
+<p><fr>Zweyten fall&sr;/</fr> wann der <aq>Adversariu&sr;</aq> eine geschwinde Faust hat/ so muﬂ
+man sich wohl vor der Klinge im Lager bedecken/ dann und wann eine falsche Bl&oe;-
+se geben/ welche&sr; so viel gesagt ist/ wann einer von der Spitze sich entbl&oe;se/ daﬂ
+er sich dann wohl mit der St&ae;rcke bedecke/ oder wann sich mit der St&ae;rcke entbl&oe;-
+sete/ daﬂ er sich mit der Spitze bedecke/ und also den Feind desto besser anlocken
+und verf&ue;hren/ sich aber zum <aq>pari</aq>ren und nachstossen bereit machen/ und folgli-
+chen dardurch seinen Feind verletzen kan;</p>
+<p><fr>Dritten fall&sr;/</fr> wann einer mit krummen Arm fechtet/ so muﬂ man wissen/
+wann solche&sr; <aq>observi</aq>ret wird/ daﬂ derselbige allezeit grausam auf der Klinge zu
+liegen und solche zu <aq>forci</aq>ren suchet und trachtet/ einem solchen Fechter aber soll
+und muﬂ man der Klingen Schw&ae;che mit nichten geben/ sondern vielmehr schau-
+en/ daﬂ man ihm auf <aq>Tempo</aq> St&oe;sse ansetzen m&oe;ge/ doch auch sich wohl in acht
+nehmen/ daﬂ er nicht etwan zugleich einen <aq>Contra</aq> Stoﬂ bekomme/ welche&sr; von
+solchen und dergleichen Herren Fechteren gar gemeiniglich geschiehet;</p>
+<cw><fr>Vierd-</fr></cw>
+<pb>
+<kt><hr></kt>
+<p><fr>Vierdten fall&sr;/</fr> ob eine&sr; <aq>Adversariu&sr;</aq> hitzig im fechten angienge? So muﬂ
+solchen fall&sr; nothwendig dessen Leib wohl betrachtet werden/ ihn auf <aq>Tempo</aq>
+St&oe;ﬂ entweder zu <aq>arreti</aq>ren/ oder aber ihn auf <aq>Volt</aq>en zu empfangen;</p>
+<p><fr>F&ue;nfften fall&sr;/</fr> da der <aq>Adversariu&sr;</aq> auf seiner Hand <aq>parad</aq>en sich verlas-
+sen solte/ muﬂ man beflissen seyn/ nur allein halbe St&oe;sse au&sr;zustossen/ damit
+man de&sr; Feinde&sr; Hand <aq>parade</aq> betr&ue;gen/ und ihn zum Stoﬂ verf&ue;hren m&oe;ge/
+er aber so leichter an seiner Klinge Nachst&oe;sse vollbringen k&oe;nne/ wie solche&sr; alle&sr; au&sr;
+nachfolgenden <aq>Lectionibu&sr;</aq> und <aq>Figuri&sr;</aq> mit mehrerm Vergn&ue;gen zu mercken
+und zu erkennen.</p>
+<cw><fr>Von</fr></cw>
+<pb>
+<abb>
+<bs>C</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Von Ab- oder Auﬂtheilung der Klingen.</b></d2>
+<p><in>D</in>Jeselbige wird auﬂ- oder abgetheilet in vier Theile/ mit diesen Worten:
+<fr>gantze und halbe Starcke/</fr> so dann <fr>halbe und gantze Schw&ae;-
+che/</fr> wie ein solche&sr; au&sr; hier nebengebildeter <aq>Figur</aq> 6. abzunehmen ist.</p>
+<p>Hierher seynd nun auch geh&oe;rig die bey der Fecht-Kunst vorkommende und
+gebr&ae;uchliche <aq>Termini,</aq> samt deroselben Au&sr;deutung: Al&sr;</p>
+<li>(1) <aq>Approchi</aq>ren/ ist so viel gesagt/ al&sr; Beyrucken.</li>
+<li>(2) <aq>Camini</aq>ren/ ist so viel al&sr; gehen/ und den Feind zu <aq>l&00E6;di</aq>ren suchen.</li>
+<li>(3) <aq>Attaqui</aq>ren/ den Feind angehen/ oder ihn an die Klinge gehen.</li>
+<li>(4) <aq>Engagi</aq>ren/ die Klinge gewinnen.</li>
+<li>(5) <aq>Batti</aq>ren/ an die Klinge schlagen/ oder mit dem Fuﬂ an die Erde klappen.</li>
+<li>(6) <aq>Appelli</aq>ren/ weiter belangen/ oder einen entweder zum Stoﬂ/ oder zur
+<aq>parade</aq> bewegen.</li>
+<li>(7) <aq>Stringi</aq>ren/ die Klinge bezwingen/ oder d&ae;mpfen.</li>
+<li>(8) <aq>Ligi</aq>ren/ den Degen anbinden/ oder umdrehen.</li>
+<cw>(9) <aq>Cavi-</aq></cw>
+<pb>
+<kt><hr></kt>
+<li>(9) <aq>Cavi</aq>ren/ unten durch/ oder oben &ue;ber gehen.</li>
+<li>(10) <aq>Allongi</aq>ren/ au&sr;stossen.</li>
+<li>(11) <aq>Pari</aq>ren/ au&sr;nehmen/ oder den Stoﬂ abwenden.</li>
+<li>(12) <aq>Repousi</aq>ren/ nachstossen.</li>
+<li>(13) <aq>Passi</aq>ren/ einlauffen.</li>
+<li>(14) <aq>Volti</aq>ren/ sich umdrehen.</li>
+<li>(15) <aq>Sessi</aq>ren/ den Degen ergreiffen.</li>
+<li>(16) <aq>Rumpi</aq>ren/ die <aq>Mensur</aq> brechen.</li>
+<li>(17) <aq>Retrahi</aq>ren/ sich zuruck begeben.</li>
+<li>(18) <aq>Disarmi</aq>ren/ den Degen nehmen.</li>
+<li>(19) <aq>Ludi</aq>ren/ den Feind zur Erden werffen.</li>
+<li>(20) <aq>Fainti</aq>ren/ oder <aq>fainte</aq> machen/ den Feind zu verf&ue;hren/ oder dessen
+Bl&oe;se gewinnen.</li>
+<cw><b>Art</b></cw>
+<pb>
+<kt><hr></kt>
+<d2><b>Art und Weise ein <aq>Fainte</aq> zu machen/ und dem Feind
+keine Bl&oe;se zu geben.</b></d2>
+<p><in>E</in>Rstlichen ist zu wissen/ wann man an de&sr; <aq>Adversarii</aq> Klinge kommet/ e&sr;
+geschehe solche&sr; in der <aq>Tertz,</aq> oder <aq>Quarta,</aq> daﬂ man die Faust hebet/ um
+sich von oben wohl zu besch&ue;tzen/ l&ae;sset dann die Spitze sincken/ und <aq>bat-
+ti</aq>ret in einem <aq>Tempo</aq> den Fuﬂ/ machet eine kleine <aq>Fainte</aq> unter die Faust/ in
+die <aq>Tertiam,</aq> st&oe;sset hernach eine <aq>Quartam,</aq> h&ae;lt die Faust hoch an de&sr; Fein-
+de&sr; Klinge/ und <aq>reteri</aq>ret sich geschwind in seiner <aq>Positur,</aq> und suchet in einem
+<aq>Tempo</aq> an de&sr; Feinde&sr; Klinge zu kommen/ die Schw&ae;che zu gewinnen/ und so
+dardurch vor de&sr; <aq>Adversarii</aq> Nachstoﬂ sich desto sicherer zu machen/ wie bey der
+<aq>Figur</aq> 7. gesehen wird.</p>
+<cw><fr>Zwey</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Zweyte oder gedoppelte <aq>Fainte.</aq></b></d2>
+<p><in>H</in>Jerzu werden zwey oder drey <aq>Tempo</aq> gebraucht/ nemlich so <aq>Adversariu&sr;</aq>
+an die Kling in die <aq>Quart</aq> zu liegen kommet/ so l&ae;st man die Spitze sincken
+oder fallen/ unter de&sr; <aq>Adversarii</aq> seiner Klinge/ machet ihm eine <aq>Fainte</aq> in
+der <aq>Tertz</aq> und in der <aq>Quart,</aq> und stosset geschwind in die <aq>Tertz,</aq> wie bey der
+<aq>Figur</aq> 8. gezeiget wird.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> in der <aq>Tertz</aq> lieget.</b></d2>
+<p><in>S</in>O machet man eine <aq>Fainte</aq> in der <aq>Quart</aq> und in der <aq>Tertz,</aq> l&ae;sset die
+Spitz und den Leib sincken/ und stosset hernach unter de&sr; <aq>Adversarii</aq> sei-
+nem Arm in die <aq>Secundam;</aq> Weil nun aber die <aq>Secunda</aq> von den dreyen Haubt-
+St&oe;ssen die gef&ae;hrlichste ist/ muﬂ einer sich wohl suchen zu <aq>reteri</aq>ren/ und seine&sr;
+Feinde&sr; Klingen Schw&ae;che zu gewinnen/ al&sr; an der <aq>Figur</aq> 9. kan gemercket
+werden.</p>
+<cw><fr>Drey-</fr></cw>
+<pb>
+<abb>
+<bs>D</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Dreyfache <aq>Finte</aq> zu machen.</b></d2>
+<p><in>D</in>Jese nimmt an sich mit samt den Stoﬂ/ vier <aq>Tempo,</aq> nemlich wann <aq>Ad-
+versariu&sr;</aq> in der <aq>Tertz</aq> zu liegen k&ae;me/ oder kommet/ so macht man eine
+<aq>Finte</aq> in der <aq>Quart,</aq> und in <aq>Terti&00E2;</aq> und <aq>Secunda,</aq> und stosset <aq>Adversa-
+rio</aq> geschwind &ue;ber den Arm die <aq>Tertz,</aq> welche&sr; durch die <aq>Figur</aq> 10. bezeuget
+wird.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> au&sr; der <aq>Mes&sr;ur</aq> stehet.</b></d2>
+<p><in>B</in>Ey solcher Begebenheit <aq>attaqui</aq>ren die Klingen hoch die <aq>Quart</aq> im <aq>mar-
+chi</aq>ren/ den Feind zum <aq>pari</aq>ren zu bringen/ dann l&ae;sset man die Spitze
+sincken/ und stosset geschwinde seinem <aq>Adversario</aq> die <aq>Quart</aq> unter dem Arm/
+wie gesehen wird bey der <aq>Figur</aq> 11.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann der <aq>Adversariu&sr;</aq> in der <aq>Tertz</aq> suchet zu
+<aq>attaqui</aq>ren.</b></d2>
+<p><in>J</in>M fall ein solche&sr; gesehen wird/ so machet man geschwinde eine <aq>Fainte</aq> in
+die <aq>Quart,</aq> und st&oe;sset die <aq>Quart</aq> &ue;ber den Arm/ <aq>apponi</aq>ret seine Faust
+an de&sr; Feinde&sr; Klinge/ so daﬂ man mit seiner St&ae;rcke de&sr; Feinde&sr; Schw&ae;che ge-
+winnen kan/ wie durch die <aq>Figur</aq> 12. vorgebildet wird.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Art und Weise/ wie hergegen man seinen Gegner an-
+locken und zum Stoﬂ verf&ue;hren soll.</b></d2>
+<p><in>W</in>Ann einer de&sr; Willen&sr;/ oder ein solche&sr; zu thun geneigt ist/ so muﬂ er mit
+der Faust in der <aq>Quart,</aq> de&sr; Gegner&sr; Kling in die <aq>Tertz stringi</aq>ren/
+also und dergestalten/ daﬂ der Feind die <aq>Quart</aq> zu stossen bereit sey/ seine Schw&ae;-
+che zu <aq>pari</aq>ren/ und die <aq>Flanconade</aq> zu stossen/ so von denen Teutschen die
+<aq>Quart Rever&sr;</aq> genennet wird/ doch also/ daﬂ er behender ding&sr; die Hand wohl
+<aq>apponi</aq>ret/ damit der Feind seine Faust nicht umdrehen/ und ihn selbsten ver-
+letze/ wie bey der <aq>Figur</aq> 13. gezeiget wird.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<bs>E</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann einer an de&sr; <aq>Adversarii</aq> Kling in der <aq>Tertz</aq>
+zu liegen kommet.</b></d2>
+<p><in>S</in>O machet der ander eine <aq>Appell,</aq> an de&sr; <aq>Adversarii</aq> Klinge in <aq>Quart,</aq>
+so daﬂ derselbe sich beweget/ selbe zu <aq>pari</aq>ren/ al&sr;dann kehret man die Faust
+um/ und stosset die <aq>Tertz CavÈ dan&sr; le&sr; arme&sr;,</aq> welche&sr; die <aq>Tertz</aq> in <aq>Quart</aq>
+gestossen heisset/ oder teutscher zu sagen/ ein Winckel-Stoﬂ genannt ist/ jedoch
+aber muﬂ der Leib niedrig &ue;ber dem rechten Schenckel zu liegen kommen/ damit
+er unter de&sr; <aq>Adversarii</aq> Klinge sich befinden k&oe;nne/ und dann geschwind an de&sr;
+Feinde&sr; Klinge <aq>batti</aq>ren und sich <aq>retrahi</aq>ren/ oder zuruck springen/ wie zu se-
+hen bey der <aq>Figur</aq> 14.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> in <aq>Quart</aq> mit seiner Schw&ae;che an der
+St&ae;rck zu liegen kommet.</b></d2>
+<p><in>S</in>Olchen fall&sr; drehet man in einer guten Geschwindigkeit die Faust herum/
+<aq>ligir</aq>et dessen Klinge und stosset in die <aq>Secund,</aq> wie die <aq>Figura</aq> deutet/
+welche&sr; alle&sr; dann von denen geraden Stossen gesagt sey; Doch muﬂ man sich in
+acht nehmen/ daﬂ <aq>Adversariu&sr;</aq> die Faust nicht an die Klinge ablauffen lasse/
+und euch verletze/ welche&sr; gar leichtlich geschehen kan; Man kan auch/ wann <aq>Ad-
+versariu&sr;</aq> zuruck gehet/ eine kleine <aq>Fainte</aq> in die <aq>Tertz</aq> thun/ wollte aber <aq>Ad-
+versariu&sr; pari</aq>ren/ so stosse man in <aq>Secunda,</aq> wie <aq>Figur</aq> 15. zeiget.</p>
+<cw><fr>Art</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> den Degen <aq>engagi</aq>ret in die
+<aq>Tertz.</aq></b></d2>
+<p><in>M</in>Ache man eine <aq>Appell</aq> in die <aq>Quart,</aq> damit man ihn/ die <aq>Tertz</aq> zu stos-
+sen/ suche zu verf&ue;hren/ und so dann solche&sr; von ihm geschicht/ nemlich/ daﬂ
+er sich die <aq>Tertz</aq> zu stossen verf&ue;hren lasse/ dann <aq>pari</aq>re man wohl/ und mit sei-
+ner St&ae;rcke/ an de&sr; andern Schw&ae;che/ den Arm wohl au&sr;gestreckt haltend/ den
+Leib aber nidrig/ also wird der <aq>Adversar</aq> selbst in den Degen hinein lauffen/ und
+sich verletzt machen/ wie bey der <aq>Figur</aq> 16. wird gesehen werden.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> seinen Degen hoch an die Kling in
+die <aq>Tertz attaqui</aq>ret.</b></d2>
+<p><in>A</in>L&sr;dann muﬂ Gegner/ oder der/ so mit demjenigen zu fechten kommt/ sich
+gar wohl f&ue;rsehen/ daﬂ <aq>Adversariu&sr;</aq> nicht etwan einen <aq>Tempo</aq> Stoﬂ in
+die <aq>Secund</aq> f&ue;hret/ dieweilen die Faust hoch gehoben wird/ wo aber solche&sr; nicht/
+nemlich/ daﬂ <aq>Adversariu&sr;</aq> keinen <aq>Tempo</aq> Stoﬂ th&ae;te/ oder f&ue;hrete/ so machet
+man al&sr;dann eine <aq>Finte</aq> in <aq>Secund,</aq> daferne er dann solche <aq>pari</aq>ret/ so <aq>doupli-</aq>
+ret wieder eine <aq>Fainte</aq> in <aq>Tertz,</aq> und st&oe;sset eine <aq>Quart; pari</aq>ret aber dann
+<aq>Adversariu&sr;</aq> und will nachstossen in die <aq>Flanconade,</aq> so kehre man die Faust
+nur geschwind um/ in die <aq>Secund,</aq> so wird zwarn <aq>Adversariu&sr;</aq> selbst in die
+Klinge hinein lauffen/ man muﬂ aber al&sr;dann in einer sonderlichen Geschwindig-
+keit an die Klinge in die <aq>Tertz reiteri</aq>ren/ damit <aq>Adversariu&sr;</aq> durch einen Nach-
+stoﬂ nicht schaden k&oe;nne/ wie <aq>Figura</aq> 17. bemercket.</p>
+<cw><fr>Wie</fr></cw>
+<pb>
+<abb>
+<bs>F</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die gehobene St&oe;sse m&ue;ssen gef&ue;hret werden/ welche
+von denen Frantzosen die <aq>cupir</aq>te St&oe;ﬂ &ue;ber die Klinge
+genennet werden.</b></d2>
+<p><in>D</in>Arbey <aq>batti</aq>ret man mit dem Fuﬂ/ machet eine <aq>Fainte</aq> hoch an de&sr; <aq>Ad-
+versarii</aq> seine Klinge in Form und Weise/ al&sr; wann man &ue;ber selbig seine
+Kling <aq>cupi</aq>ren wollte/ <aq>apponi</aq>ret oder bewegt er sich nicht zu <aq>pari</aq>ren/ so hebe
+man die Faust mit der St&ae;rck an die Schw&ae;che/ und stosse gerad in <aq>Quart; pa-
+ri</aq>ret er aber/ so <aq>cupi</aq>re man &ue;ber die Kling/ und stosse in <aq>Tertz,</aq> welche <aq>Lection</aq>
+in <aq>Tertz</aq> und <aq>Quart</aq> gar leicht gemacht werden kan/ man muﬂ sich aber auch
+dabey wohl f&ue;rsehen/ daﬂ man seinem Widerpart keine Bl&oe;se gebe/ und er auf sel-
+bigem <aq>Tempo</aq> nicht etwan einige Verletzung anbringe/ deﬂwegen man dann auch
+den Leib wohl zuruck halten muﬂ/ wie bey <aq>Figur</aq> 18. zu sehen.</p>
+<cw><fr>Wie</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie man seinen <aq>Adversarium</aq> zu verf&ue;hren suchen/ und
+ihn mit <aq>Tempo</aq> St&oe;ssen empfangen solle.</b></d2>
+<p><in>W</in>Ann der Widerpart anrucket/ und seine&sr; Gegner&sr; Klinge in demselbigen
+<aq>Tempo</aq> zu gewinnen suchet/ oder suchen sollte/ so breche man die <aq>Mes&sr;ur</aq>
+zur&ue;ck/ und suche wieder an seine Kling zu kommen/ wo er vorhin oder zuvor ge-
+legen/ e&sr; sey oder geschehe dann solche&sr; in <aq>Tertz,</aq> oder <aq>Quart,</aq> so wird <aq>Adver-
+sariu&sr;</aq> vermeinen/ e&sr; geschehe au&sr; einer Forcht/ und so er dann nochmahlen an-
+<aq>marchi</aq>ren und die Klinge gewinnen wolle/ muﬂ man seinen Leib wohl in acht neh-
+men/ geschwinde unter die Klinge <aq>cavi</aq>ren/ und in <aq>Tempo</aq> hinein stossen/ wie
+<aq>Figur</aq> 19. angibt.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> an die Klinge in <aq>Quart</aq> zu liegen
+kommet.</b></d2>
+<p><in>A</in>L&sr;dann mache man eine <aq>Appell</aq> hoch in die <aq>Tertz,</aq> stosset er dann in <aq>Tem-
+po</aq> in <aq>Secund,</aq> muﬂ man wohl <aq>pari</aq>ren und ihm eine <aq>Finte</aq> hoch in die
+<aq>Tertz</aq> machen/ gleich al&sr; wolle er die <aq>Tertz</aq> stossen; hebet er <aq>Adversariu&sr;</aq> die
+Faust al&sr;dann zur <aq>parade,</aq> so <aq>repost</aq>irt man geschwind in die <aq>Secund,</aq> da&sr; ist
+nachstossen/ wie e&sr; die Frantzosen nennen/ welche&sr; gezeiget wird bey der <aq>Figur</aq>
+20.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> an der Klinge in der <aq>Tertz</aq>
+lieget.</b></d2>
+<p><in>S</in>Olchen fall&sr;/ so <aq>engagi</aq>ret man seine halbe Schw&ae;che/ gibt ihm eine Bl&oe;se
+in die <aq>Tertz,</aq> ihn dadurch zu verf&ue;hren/ nimmt al&sr;dann seine Faust wohl
+in Obacht; so bald er sich nun bewegt &ue;ber den Arm in die <aq>Tertz</aq> zu stossen/ so
+falle man geschwind mit dem Leib niedrig/ lasse die Spitze sincken/ und <aq>arr&00EA;ti</aq>re
+ihn in die <aq>Secund,</aq> wie <aq>Figur</aq> 21. anzeiget.</p>
+<cw><fr>Art</fr></cw>
+<pb>
+<abb>
+<bs>G</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> die Klinge <aq>attaqui</aq>ret in
+<aq>Quart.</aq></b></d2>
+<p><in>S</in>O machet man ihm geschwind eine <aq>Fainte</aq> in die <aq>Tertz,</aq> und thut dann ei-
+nen halben Stoﬂ in die <aq>Quart;</aq> und wann er wollte <aq>pari</aq>ren/ so st&oe;sset man
+ihme eine <aq>Quart</aq> unter den Armen/ mit dem Leib innwendig sich jedoch wohl au&sr;
+dem Wege haltend/ wie <aq>Figur</aq> 22. zeiget/ <aq>batti</aq>ret dann geschwind an de&sr; <aq>Ad-
+versarii</aq> Klingen/ und springet zuruck.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> die Klinge suchet in <aq>Quart</aq> zu
+<aq>engagi</aq>ren/ und seine Spitze niedrig h&ae;lt.</b></d2>
+<p><in>B</in>Ey einem solchen Fall muﬂ man mit seiner St&ae;rcke seine&sr; <aq>Adversarii</aq> Schw&ae;-
+che <aq>subtiliter</aq> zu gewinnen suchen/ und stossen an die Klinge dem Leibe zu/
+e&sr; seye solche&sr; in <aq>Tertz</aq> oder <aq>Quarta,</aq> wie <aq>Figur</aq> 23. andeutet/ ist aber auch
+wohl in acht zu nehmen/ daﬂ <aq>Adversariu&sr;</aq> nicht etwan eine geschwinde <aq>Quart</aq>
+untern Arm zu stossen suche/ und anbringen m&oe;chte/ solchen fall&sr; aber muﬂ man
+seine&sr; <aq>Adversarii</aq> Faust gar genau in acht nehmen/ und allezeit zur <aq>parade</aq> sich
+bereit halten.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> suchet die Kling in <aq>Quart</aq> zu
+<aq>stringi</aq>ren.</b></d2>
+<p><in>S</in>O machet man ein <aq>Appell</aq> in <aq>Tertz</aq> hoch mit au&sr;gestrecktem Armen; wann
+dann euer <aq>Adversariu&sr;</aq> solche <aq>pari</aq>ren wolle/ so kehret man die Faust an
+die Kling in <aq>Quart</aq> um/ und stosset ihme so fort eine <aq>Quart</aq> &ue;bern Arm/ wie
+an <aq>Figur</aq> 24. zu sehen/ wiewohlen solche&sr; ein gef&ae;hrlich- und besorglicher Stoﬂ
+und schwehr zu <aq>pari</aq>ren ist.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> den Degen sucht zu <aq>engagi</aq>ren.</b></d2>
+<p><in>W</in>Ann solche&sr;/ so muﬂ man ihme eine <aq>Appell</aq> in <aq>Tertz</aq> machen/ und zwar
+mit au&sr;gestrecktem Arm/ und wann er dann die <aq>Tertz</aq> oder <aq>Secund</aq>
+stossen wollte/ und <aq>Adversariu&sr;</aq> zeigen/ al&sr; wolle er <aq>pari</aq>ren/ oder nicht/ so dre-
+het man den Leib in die <aq>Quart</aq> wohl um/ und stellet sich in <aq>Positur,</aq> al&sr; die
+<aq>Figur</aq> 25. weiset.</p>
+<cw><fr>So</fr></cw>
+<pb>
+<abb>
+<bs>H</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>So <aq>Adversariu&sr;</aq> den Degen in <aq>Quart</aq> zu <aq>engagi</aq>ren/ oder
+zu <aq>string</aq>iren/ und so dardurch einen zum Stoﬂ zu ver-
+f&ue;hren/ suchete.</b></d2>
+<p><in>W</in>Ann ein gleiche&sr; an <aq>Adversario</aq> bemercket wird/ so machet man ihme
+<aq>Fainte</aq> in <aq>Tertz,</aq> oder aber eine <aq>Appell,</aq> so werden de&sr; Widerpart&sr; sei-
+ne <aq>Concept</aq>en von Stund an verruckt werden/ so er aber dann <aq>pari</aq>ret/ so stos-
+set man ihm eine <aq>Secund</aq> oder eine <aq>Quart,</aq> wo seine Bl&oe;se am besten zu finden
+ist/ wobey dennoch auch zu wissen/ und wohl zu mercken/ daﬂ/ so offt al&sr; <aq>Ad-
+versariu&sr;</aq> mehrere <aq>Fint</aq>en zu machen suchet/ man al&sr;dann ihme jede&sr;mahl eine
+Gegen <aq>Appell</aq> machen m&ue;sse/ umb ihn in seinen <aq>Concept</aq>en fort und fort ver-
+r&ue;ckt zu machen/ wie <aq>Figur</aq> 26. zeiget.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> den Degen in <aq>Quart</aq> zu <aq>engagi</aq>ren
+suchet.</b></d2>
+<p><in>M</in>Uﬂ ihme geschwind eine <aq>Appell</aq> in <aq>Quart</aq> &ue;ber den Arm mit einem geschwin-
+den halben Stoﬂ in <aq>Quart</aq> unter den Arm gemacht werden/ und muﬂ sol-
+che&sr; mit geschwinder Zuruckkommung in die <aq>Positur</aq> an <aq>Adversarii</aq> Klingen in
+<aq>Tertz</aq> geschehen/ umb seine Schw&ae;che zu gewinnen/ wann nun solche gewonnen/
+<aq>doupli</aq>ret man in Geschwindigkeit an die Klinge in <aq>Tertz,</aq> wie <aq>Figur</aq> 27.
+zeiget.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> an<aq>marchi</aq>ret den Degen in <aq>Quart</aq>
+zu <aq>forci</aq>ren.</b></d2>
+<p><in>S</in>O muﬂ man ihn die Klinge nicht finden lassen/ sondern ihme eine <aq>Finte</aq> in
+<aq>Tertz</aq> machen/ und eine <aq>Secund</aq> stossen/ <aq>batti</aq>ret dann die Klinge/ und
+springet geschwinde zuruck in sein Lager/ wie bey <aq>Figur</aq> 28. zu sehen.</p>
+<cw><fr>So</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>So <aq>Adversariu&sr;</aq> die Klinge ihm <aq>engagi</aq>ret in <aq>Quart</aq>
+au&sr; der <aq>Mes&sr;ur.</aq></b></d2>
+<p><in>A</in>L&sr;dann so suchet man ihm die <aq>Mes&sr;ur</aq> zu gewinnen/ und mit seiner St&ae;rcke
+an seine de&sr; <aq>Adversarii</aq> Schw&ae;che zu kommen/ machet ihme eine <aq>Ligation</aq>
+in <aq>Quart,</aq> welche&sr; zu verstehen/ daﬂ man den Degen anbinde/ oder umbdrehet/
+au&sr; der Faust/ wordurch dann <aq>Adversariu&sr;</aq> gezwungen wird um gut Wetter zu
+bitten/ wie in der <aq>Figur</aq> 29. gesehen wird.</p>
+<cw><fr>Wie</fr></cw>
+<pb>
+<abb>
+<bs>J</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie und auf wa&sr; Wei&sr; man suchen solle seine&sr; <aq>Adversarii</aq>
+Klinge in die <aq>Quart engagi</aq>ren.</b></d2>
+<p><in>E</in>Jn solche&sr; zu thun/ so gebe man ihme ein wenig Bl&oe;se/ daﬂ er entweder in
+<aq>Quart,</aq> oder <aq>Tertz,</aq> desto leichter stossen kan/ &ue;bern Arm; und wann al&sr;-
+dann <aq>Adversariu&sr;</aq> sich darob verf&ue;hren l&ae;sset/ so <aq>pari</aq>ret man ihm mit der <aq>Ca-
+vation,</aq> und <aq>apponi</aq>ret die lincke Hand an seine Klingen/ damit er an dieselbe/
+verstehendlich eure Klinge/ zu <aq>pari</aq>ren nicht kommen kan/ wordurch dann ihme
+leichtlichen zween oder drey St&oe;sse anzubringen/ ehe er in sein Lager zuruck kommen
+thut/ wie angemerckt bey <aq>Figur</aq> 30.</p>
+<cw><fr>Eine</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Eine <aq>Appell</aq> an seine&sr; <aq>Adversarii</aq> Klingen in <aq>Tertz</aq> zu
+machen/ und wie einer dabey sich zu verhalten?</b></d2>
+<p><in>W</in>Ann solche&sr; einer <aq>tenti</aq>ren oder f&ue;rnehmen will/ muﬂ er mit dem rechten
+Fuﬂ <aq>batti</aq>ren/ und den Arm au&sr;strecken in <aq>Tertz,</aq> eben al&sr; wann er den
+Stoﬂ in <aq>Tertz</aq> f&ue;hren wollte/ und also suchen den Feind zu verf&ue;hren/ in <aq>Quart</aq>
+zu stossen/ f&ue;hret er aber dann einen <aq>Tempo</aq> Stoﬂ/ so <aq>pari</aq>ret man ihm mit der
+<aq>Cavation,</aq> welche&sr; <aq>contra de gagement</aq> genennet wird/ und stosset dann ge-
+schwinde in <aq>Tertz;</aq> sollte aber etwan <aq>Adversariu&sr; pari</aq>ren/ so <aq>doupli</aq>ret man
+in <aq>Secund,</aq> und springet zuruck in sein Lager/ wovon dann <aq>Figur</aq> 31. anzeignng
+thut.</p>
+<cw><fr>An</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>An <aq>Adversarii</aq> Kling in <aq>Quart</aq> liegend zu kommen.</b></d2>
+<p><in>E</in>Ben diese&sr; zu f&ue;gen/ so <aq>batti</aq>ret man in einer Geschwindigkeit mit dem Fuﬂ/
+und <aq>cavi</aq>ret unter de&sr; Feinde&sr; Klinge/ al&sr; wann man eine <aq>Tertz</aq> oder
+<aq>Quart</aq> &ue;bern Arm stossen wollte/ <aq>cupi</aq>ret al&sr;dann &ue;ber die Klinge/ und st&oe;sset
+die <aq>Quart,</aq> wie <aq>Figur</aq> 32. euch zeiget/ und diese werden von denen Teutschen die
+geschobene St&oe;sse genennet; Eine solche <aq>Lection</aq> kan nun zwar in <aq>Tertz</aq> und
+<aq>Quart</aq> gemachet werden/ dennoch aber ist sie schwehr zu <aq>pari</aq>ren/ und hat man
+sich absonderlich dabey in acht zu nehmen/ daﬂ <aq>Adversariu&sr;</aq> nicht etwan ein
+<aq>Tempo</aq> Stoﬂ anbringe/ wie an <aq>Figur</aq> 32. zu sehen.</p>
+<cw><fr>Wie</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die <aq>Quart Base,</aq> oder auf teutsch die niedrige <aq>Quart</aq>
+zu machen/ al&sr; welche gegen einen mit der lincken Hand
+Fechtenden gar n&ue;tzlich ist.</b></d2>
+<p><in>D</in>Jeselbige zu machen/ h&ae;lt man die Faust hoch/ den Ober-Leib zu bedecken/
+die Spitze aber niedrig/ den Unter-Leib zu bedecken/ und machet eine <aq>Ap-
+pell</aq> in <aq>Quart,</aq> wie <aq>Figur</aq> 33. zeiget/ und wann dann <aq>Adversariu&sr;</aq> ein geraden
+Stoﬂ in <aq>Quart</aq> &ue;bern Arm thun wollte/ so drehet man die Faust um/ <aq>apponi-</aq>
+ret die lincke Hand an seine Klinge/ und stosset eine gerade <aq>Quart,</aq> wie <aq>Fig.</aq> 33.
+zeiget/ und eine solche <aq>Parade</aq> ist bey der Nacht gar nutzlich/ absonderlich aber de-
+nen jenigen/ welche ohngefehr von zweyen oder dreyen angefochten werden/ doch
+muﬂ man dabey auch diese&sr; mercken/ daﬂ man die Faust wohl umbdrehet/ die
+<aq>Muline</aq> oder Rad zu machen/ so lange und viel/ biﬂ man Gelegenheit bekommet/
+ein oder andern zu verletzen/ wie <aq>Figur</aq> 33. angemerckt.</p>
+<cw><fr>Wann</fr></cw>
+<pb>
+<abb>
+<bs>K</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann sich die Klingen in <aq>Quart</aq> zusammen befinden.</b></d2>
+<p><in>D</in>Ann so mache man eine <aq>Appell</aq> in <aq>Tertz,</aq> gebe seinem <aq>Adversario</aq> eine
+kleine Bl&oe;se/ ihn zu zwingen/ oder zu verursachen/ die <aq>Quart</aq> untern Arm
+zu stossen/ <aq>pari</aq>re dann die <aq>Quart base,</aq> und mit der lincken Hand <aq>apponi</aq>re
+an <aq>Adversarii</aq> Kling/ so wird er so dann nicht wieder zu <aq>pari</aq>ren kommen k&oe;n-
+nen/ weil die lincke Hand seine Klinge nieder truckt/ wie <aq>Figur</aq> 34. anzeigt.</p>
+<cw><fr>Wie</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie man die <aq>Quart Base Reverse,</aq> da&sr; ist so viel al&sr;
+verkehrt gesagt/ machen solle.</b></d2>
+<p><in>H</in>Jerzu wird erfordert/ daﬂ man eine <aq>Fint,</aq> oder <aq>Appell</aq> in die <aq>Quart</aq> &ue;ber
+den Arm gebe/ al&sr;dann <aq>Adversario</aq> die v&oe;llige Bl&oe;se/ den Leib innwendig
+haltend/ um <aq>Adversarium</aq> dadurch zu locken; wann dann <aq>Adversariu&sr;</aq> die
+gerade <aq>Quart</aq> st&oe;sset/ so lasse man die Spitze innwendig an <aq>Adversarii</aq> Klingen
+sincken/ <aq>pari</aq>re dessen Schw&ae;che untern Arm von au&sr;w&ae;rt&sr;/ und stosse ihm unter
+der Achsel zu/ und so balden al&sr; <aq>Adversariu&sr;</aq> st&oe;sset/ <aq>pari</aq>re man im <aq>marchi-</aq>
+ren/ damit de&sr; Feinde&sr; Klinge hinter in Rucken komme/ wordurch er dann gar
+leicht und geschwind wehrloﬂ gemacht wird/ und zwar ohne einige Sorge und Ge-
+fahr/ wie <aq>Figur</aq> 35. zeiget.</p>
+<cw><fr>Wel-</fr></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Welcher gestalten die <aq>Tertz Base</aq> zu machen/ welche die
+<aq>Positur</aq> hat/ al&sr; wie die hohe <aq>Secund.</aq></b></d2>
+<p><in>H</in>Jebey ist diese&sr; zu mercken/ daﬂ man die <aq>Lectione&sr;</aq> eben al&sr; wie bey jetzt
+gemeldter <aq>Quart base</aq> geschicht/ gebrauchen kan/ wann man <aq>per Exem-
+ple</aq> an einem geschlossenen Ort/ oder an einem Wasser/ welche&sr; hinten auff dem Ru-
+cken w&ae;re/ so daﬂ man sich nicht <aq>reteri</aq>ren k&oe;nne/ und dardurch in Gefahr st&ue;nde/ so
+leget man sich geschwind mit einer Faust hoch vor da&sr; Angesicht/ doch den Leib ein
+wenig vorgestreckt/ und halte dann die Spitz gegen de&sr; Feinde&sr; Kling oder Brust;
+so dann <aq>Adversariu&sr;</aq> stossen th&ae;te/ <aq>pari</aq>ret man <aq>in Ligation,</aq> gleichwie in der
+<aq>Quart base,</aq> wie <aq>Figur</aq> 36. zeiget; <aq>pa&sr;si</aq>re dann recht&sr; oder linck&sr;/ wo/ oder
+wie man am besten eine <aq>Avantage</aq> zu finden/ und sich au&sr; Gefahr zu halten/ die
+Gelegenheit sich erbietet/ so wird <aq>Adversariu&sr;</aq> wieder in sein vorigen Stand ge-
+bracht werden/ wo er zuvor gewesen ist.</p>
+<cw><b>Auff</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Auff wa&sr; Art und Weise eine <aq>Ligation</aq> zu machen/ seine&sr;
+Feinde&sr; Degen au&sr; der Hand zu drehen.</b></d2>
+<p><in>W</in>Ann jetzo <aq>Adversariu&sr;</aq> den Degen mit der Spitze niedrig in <aq>Quarta at-
+taqui</aq>rete/ oder <aq>engagi</aq>rte/ so muﬂ man seine Schw&ae;che mit der St&ae;rcke
+zu gewinnen suchen/ in <aq>formi</aq>rung einer an seiner Klinge zu machenden <aq>Ligation</aq>
+in <aq>Quart,</aq> und drehen die Faust mit der St&ae;rcke an seiner Schw&ae;che geschwind
+herumb/ so <aq>ligi</aq>ret oder drehet man ihm seinen Degen au&sr; der Faust/ wordurch er
+also dann <aq>obligi</aq>ret wird/ um <aq>Pardon</aq> zu bitten/ springet aber dessen Dege nicht
+au&sr; der Faust/ so kan man einen Stoﬂ in die <aq>Tertz</aq> oder <aq>Secund</aq> in ihn thun/
+ehe und bevorn derselbe wieder in sein Lager kommet/ und so gar leichte verletzet wer-
+den kan/ wie <aq>Figur</aq> 37. davon weiset.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<bs>L</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die <aq>Ligation</aq> um die Klinge in <aq>Tertz</aq> oder <aq>Quart,</aq>
+auff teutsch ein <aq>Circul</aq> an die Kling zu machen.</b></d2>
+<p><in>S</in>O balden <aq>Adversariu&sr;</aq> an die Klinge in <aq>Quart</aq> mit seiner Spitze niedrig
+zu liegen kommt/ so muﬂ man suchen mit seiner Klinge de&sr; <aq>Adversarii</aq>
+Schw&ae;che zu gewinnen/ drehe demnach geschwind mit der St&ae;rcke an seiner Klin-
+ge Schw&ae;che/ dieselbe behend in Gestalt eine&sr; <aq>Circul</aq>&sr; umkehrend/ und stosse eine
+gerade <aq>Quart</aq> zu/ welche Art nicht nur in <aq>Quart/</aq> sondern auch in <aq>Tertz</aq> und
+<aq>Secund,</aq> auch ohne Gefahr gemacht werden kan/ wie davon gesehen wird in der
+<aq>Figur</aq> 38.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie und auff wa&sr; Weise die <aq>Pas&sr;ade</aq> zu machen seye.</b></d2>
+<p><in>Z</in>U <aq>observi</aq>ren ist/ wann gefehen wird/ daﬂ der Feind keinen Stand in seinem Fech-
+ten halten thue/ sondern hin und her wancke/ auch seine <aq>Mes&sr;ur</aq> also breche/ oder
+auch daﬂ jemand ihm zu h&ue;lff kommen solte/ so ist n&oe;thig/ daﬂ man von einem sich si-
+cher zu machen und zu befreyen suche/ wie dann zu dem Ende die <aq>Pas&sr;ade</aq> zu ergreiffen/
+dabey aber auch sich wohl in acht zu nehmen/ wann man will <aq>pa&sr;si</aq>ren und entkom-
+men/ daﬂ nicht <aq>Adversariu&sr;</aq> (welche&sr;/ wann derselbe auch schlimm und behend seyn
+sollte/ gewiﬂlich erfolget) einen nicht <aq>arresti</aq>ren thue/ oder sonst sein <aq>Maitre</aq> werde/
+al&sr; <aq>per Exemple,</aq> wann <aq>Adversariu&sr;</aq> die Faust niedrig h&ae;tte/ so <aq>attaqui</aq>re man dessen
+Degen in <aq>Quart,</aq> mit einer <aq>Appell</aq> von der Klingen/ und halte die Faust hoch. Las-
+set sich aber <aq>Adversariu&sr;</aq> dardurch nicht schr&oe;cken oder verf&ue;hren/ au&sr; seinem Lager zu
+gehen/ so <aq>passi</aq>re man nur geschwinde die <aq>Quart</aq> &ue;bern Arm mit seiner St&ae;rcke an <aq>Ad-
+versarii</aq> seine Schw&ae;che/ und wann dann derselbige diese <aq>Pas&sr;ade</aq> mit der <aq>Tertz pari</aq>ren
+th&ae;te/ so laﬂ man innwendig an die Kling ablauffen/ so daﬂ man in Behendigkeit seinen
+Arm um de&sr; <aq>Adversarii</aq> seinen Arm oder H&ae;nde/ suche zu winden/ und greiffe ihn
+um den Degen herum/ bey seinem Arm/ stelle sich also dann geschwinde mit dem rech-
+ten Fuﬂ wieder zuruck/ und biethe seine&sr; Feinde&sr; Brust die Spitze/ sonst kan man
+auch seinen Feind mit dem lincken unter den rechten Fuﬂ schlagen/ und ihn so auff die
+Erde nieder bringen/ wie gesehen wird bey der <aq>Figur</aq> 39.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die <aq>Pasade</aq> in <aq>Quart</aq> &ue;bern Arm zu machen.</b></d2>
+<p><in>B</in>Jllig ist in acht zu nehmen/ wann man sich mit seinem Feind in der <aq>Quart</aq>
+befinden thut/ daﬂ dessen Degen <aq>stringi</aq>ret werde/ und ihm also eine <aq>Fain-
+te</aq> in die <aq>Quart</aq> zu machen suche/ wofern er sich dann verf&ue;hren lasset/ so <aq>cavi</aq>re
+man durch und <aq>passi</aq>re in der <aq>Quart</aq> &ue;bern rechten Arm/ die Schultern wohl
+zuruck haltend/ sonsten m&oe;gte <aq>Adversariu&sr;</aq> mit der <aq>Volte</aq> einen <aq>Arrest</aq> anbrin-
+gen/ wann aber <aq>Adversariu&sr;</aq> sich darinn nicht verf&ue;hren lassen sollte/ muﬂ man
+gerad in die <aq>Quart pa&sr;si</aq>ren/ wie <aq>Figur</aq> 40. zeiget.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die <aq>Pas&sr;ade</aq> unten in der <aq>Secund</aq> zu machen.</b></d2>
+<p><in>W</in>Ann man mit seinem <aq>Adversario,</aq> also beyderseit&sr; in der <aq>Tertz</aq> sich be-
+findet/ so <aq>cavi</aq>re man unten durch/ und mache ihme eine <aq>Finte</aq> an seine
+Schw&ae;che nach seinem Haupt; bleibet er dann also still liegen/ so lasse man die Spi-
+tze in der <aq>Secunda</aq> sincken/ und <aq>pa&sr;si</aq>re in Geschwindigkeit mit gebogenem Leib
+und stosse ihn untern Arm; man kan sonst auch mit einer <aq>Finte</aq> in der <aq>Secund</aq>
+seinen Feind suchen zu verf&ue;hren; Daferne er aber sollte still liegen/ und auf einen
+<aq>Contra</aq> Stoﬂ warten/ so erhebe man unten die Klinge mit einer <aq>Appell,</aq> verhin-
+dere dadurch sein Vorhaben/ <aq>pa&sr;si</aq>re gleichfall&sr; geschwind unten in der <aq>Secunda,</aq>
+wie <aq>Figur</aq> 41. zeiget.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<bs>M</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die gerade <aq>Pas&sr;ade</aq> in <aq>Quart</aq> zu bemercken/ und wie
+sich darinn zu verhalten.</b></d2>
+<p><in>W</in>Ann sich die Degen zusammen in <aq>Quart</aq> befinden/ muﬂ man an de&sr; <aq>Ad-
+versarii</aq> Kling eine <aq>Appell</aq> hoch in <aq>Quart</aq> &ue;bern Arm machen; und wann
+er sich al&sr;dann w&ue;rde lassen verf&ue;hren/ oder aber <aq>pari</aq>ren/ oder auch nicht <aq>pari-</aq>
+ren/ mit der Faust hoch/ mit seiner St&ae;rcke an dessen Schw&ae;che den Leib gerad in
+einer <aq>Linie</aq> sich haltend/ nehme sich dann wohl in Obacht/ wann er <aq>pa&sr;si</aq>ret daﬂ
+sein <aq>Adversariu&sr;</aq> ihn nicht bey dem Gef&ae;ﬂ seine Klinge/ welche&sr; gar leicht gesche-
+hen kan/ ergreiffe; wann also solche&sr; gesehen wird/ muﬂ man geschwinde (man
+kan sonsten auch/ wann <aq>Adversariu&sr;</aq> den Degen nehmen wollte) die Faust nur
+allein umkehren/ und ihme <aq>Adversario</aq> den Winckelstoﬂ anbringen/ wie <aq>Figur</aq>
+42. euch weiset.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie in der <aq>Pas&sr;ade</aq> man seinen <aq>Adversarium arreti-</aq>
+ren kan.</b></d2>
+<p><in>W</in>Ann <aq>Adversariu&sr; passi</aq>ren wollte/ so gebe man ihme eine falsche Bl&oe;se &ue;-
+ber den Arm/ mache ihme dabey etliche falsche <aq>Tempo</aq> oder <aq>Fainte&sr;,</aq> ihn
+desto ehend - und besser zu verf&ue;hren/ aber dessen Faust und Leib gar wohl in acht
+habend; so balden man aber siehet/ daﬂ <aq>Adversariu&sr; pa&sr;si</aq>ren wollte/ so <aq>arre-
+ti</aq>ret man geschwind in die <aq>Secund;</aq> sp&ue;hrete man aber/ daﬂ er sich auf die Klin-
+ge verlasse/ so kehre man geschwind den Leib herum/ und <aq>arreti</aq>re ihn <aq>in Volt;</aq>
+Jst aber <aq>Adversariu&sr;</aq> etwan zu geschwind in der Klinge/ so l&ae;sset man inwendig
+an den Degen ablauffen/ und nehme ihm seinen Degen beym Gef&ae;ﬂ oder Griff/
+wie gezeiget wird bey der <aq>Figur</aq> 43.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die <aq>Volte</aq> am sichersten zu machen.</b></d2>
+<p><in>H</in>Jebey muﬂ zwar gestehen/ daﬂ ich hin und wieder offtmahl&sr; gesehen/ von de-
+nen/ welche die <aq>Information</aq> auf ihren <aq>Adversarium</aq> zu <aq>volti</aq>ren/ ge-
+ben haben/ nemlich daﬂ man in seinem Lager auf seinen Feind <aq>volti</aq>ren solle/ ich
+hergegen versichere festiglich und getreulich/ daﬂ ein solche&sr; gar schwer und unsicher
+oder gef&ae;hrlich zu machen seye/ die Ursach aber ist diese/ weilen <aq>Adversariu&sr;</aq> in
+seinem Lager wohl bedecket ist/ und halte ich derowegen f&ue;r da&sr; allergewisseste und
+beste zu seyn daﬂ man seinen Feind zum Stoﬂ zu verf&ue;hren suche/ daferne aber
+<aq>Adversariu&sr;</aq> eine&sr; Klinge in die <aq>Tertz</aq> suchete zu <aq>stringi</aq>ren/ und zwarn starck/
+so muﬂ man ihm die Klinge nicht finden lassen/ und wann da&sr; aber ja gesehen w&ue;r-
+de/ so <aq>volti</aq>ret man nicht/ sondern <aq>cavi</aq>ret vielmehr unter die Klinge durch/ und
+breche die <aq>Mes&sr;ur</aq> zur&ue;ck; wann dann aber <aq>Adversariu&sr;</aq> die Klinge dennoch wie-
+der zu <aq>stringi</aq>ren suchen sollte so lasse man die Spitze nur sincken/ mit dem lincken
+Fuﬂ zuruck hinter den rechten/ und den Leib wohl umgedrehet/ stellend/ damit <aq>Ad-
+versariu&sr;</aq> in selbigem <aq>Tempo,</aq> in <aq>Volt, arresti</aq>ret werde/ welche&sr; dann da&sr;
+sicherste und gewisseste ist/ und gezeigt wird bey der <aq>Figur</aq> 44.</p>
+<cw><b>Wann</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann sich die Degen&sr; zusammen in <aq>Quart</aq> findeten.</b></d2>
+<p><in>A</in>L&sr;dann mache man seinem <aq>Adversario</aq> eine <aq>Finte</aq> in <aq>Tertz,</aq> um einen
+halben Stoﬂ in <aq>Quart</aq> zu stossen/ so bald nun <aq>Adversariu&sr; pari</aq>ret ha-
+ben wird/ und von der Kling die <aq>Quart</aq> zu stossen gehe/ drehet man den Leib in
+Geschwindigkeit herum/ und <aq>arresti</aq>ret ihn <aq>in Volt,</aq> wie die <aq>Figur</aq> 45. an-
+zeiget.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<bs>N</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie man eine <aq>Volte</aq> machen solle/ seinem <aq>Adversario</aq> da&sr;
+Gesicht oder dessen H&ae;nde zu zerhauen.</b></d2>
+<p><in>E</in>Rstlichen so <aq>engagi</aq>ret man die Kling in <aq>Tertz, attaqui</aq>ret dann geschwind
+in die <aq>Quart</aq> mit einer wenig zu gebenden Bl&oe;se &ue;bern Arm/ umb ihn zu
+verf&ue;hren; und wann er dann in die Bl&oe;se fl&oe;sset/ so l&ae;sset man die Klinge ablauf-
+fen/ thut den lincken Fuﬂ hinter den rechten; so balden e&sr; abgelauffen/ machet man
+mit dem rechten Fuﬂ einen langen Schritt/ und f&ue;hret den Streich in einem <aq>Tem-
+po,</aq> in Feinde&sr; Angesicht/ oder &ue;ber die Faust/ welche&sr; gar f&ue;glich und wohl zu
+thun ist/ wie <aq>Figur</aq> 46. zeiget.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie die doppelte <aq>Volte</aq> zu machen/ in geschwind- und
+leichtester Manier.</b></d2>
+<p><in>D</in>Jese ist zwar in scharffem Fechten gar schwehr zu vollbringen/ indeme man sei-
+nem <aq>Adversario</aq> den R&ue;cken zu kehren/ dennoch aber wann <aq>Adversariu&sr;</aq> den
+Degen sehr in <aq>Quart engagi</aq>rete/ so <aq>stringi</aq>re man denselbigen/ die Spitze au&sr; dem
+Wege/ und gebe eine falsche Bl&oe;se &ue;bern Arm in <aq>Quart,</aq> ihn dardurch desto besser zu
+verf&ue;hren; so balden man aber siehet/ daﬂ er sich r&ue;hret oder den Stoﬂ zu f&ue;hren/ rich-
+tet/ so lasse man den Degen ablauffen/ al&sr; bey nechst vorstehender <aq>Lection</aq> angedeutet
+ist/ und wie man nun solchen hat lassen ablauffen/ kehret man sich gantz zuruck/ und
+schlage auf de&sr; <aq>Adversarii</aq> seine Klinge hinein/ kehre sich dann wieder gantz herum/
+gehe auf seinen <aq>Adversarium</aq> loﬂ/ und greiffe ihn fein geschwinde bey der Brust oder
+Faust/ jedannoch muﬂ man sich aber auch gar wohl in acht nehmen/ daﬂ <aq>Adversa-
+riu&sr;,</aq> indeme daﬂ man sich umkehret/ einen nicht f&ae;nget und zur Erden w&ue;rffet/ wie
+<aq>Figur</aq> 47. euch vorstellet.</p>
+<cw><b>Einen</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Einen zu <aq>disarmi</aq>ren in unterschiedlicher Manier/ und
+wann solche&sr; zu thun seye.</b></d2>
+<p><in>Z</in>U diesem Zweck hat man f&ue;rnemlich zu mercken/ wie <aq>Adversariu&sr;</aq> allenfall&sr;
+gesinnet seyn m&oe;ge; wann nun etwan derselbe einen langen Stoﬂ in der <aq>Quart</aq>
+zu versetzen gemeinet/ al&sr;dann <aq>pari</aq>ret man denselbigen Stoﬂ in der <aq>Quart</aq> inn-
+wendig/ trette hernacher mit dem rechten Fuﬂ fein behende zu/ und dr&ue;cke seine&sr;
+Feinde&sr; Klinge etwa&sr; nieder/ ergreiffe in Geschwindigkeit mit der lincken Hand sei-
+nen Degen beym Gef&ae;ﬂ/ und ziehe ihme in m&oe;glicher Geschwindigkeit seinen De-
+gen au&sr; der Hand/ auch wann man wollte/ kan man al&sr;dann mit seine&sr; Feinde&sr;
+eigenen Degen seinen Feind erlegen/ wie gesehen wird bey <aq>Figur</aq> 48.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie <aq>Adversariu&sr;</aq> nach gestossener <aq>Quart</aq> &ue;bern Arm zu
+<aq>disarmi</aq>ren.</b></d2>
+<p><in>W</in>Ann der Feind die Klinge in <aq>Tertz engagi</aq>rete/ so mache man ihme eine
+<aq>Fainte</aq> in <aq>Quart</aq> &ue;bern Arm/ so balden dann der Stoﬂ geschehen/ so tritt
+man mit dem lincken Fuﬂ herzu/ ergreiffet de&sr; <aq>Adversarii</aq> Degen/ und dr&ue;cket
+selbigen au&sr;w&ae;rt&sr; &ue;ber die Klinge herum/ so wird sich auf solche Art seine Hand
+er&oe;ffnen/ er selbsten aber seinen Degen entweder zu <aq>quiti</aq>ren gezwungen/ oder aber/
+und wo solche&sr; nicht/ leidet doch wenigsten&sr; Schaden an seiner Hand/ welche&sr; dann
+denen/ so mit einem krummen Arm zu fechten gewohnet/ sehr gewiﬂ und leichtlichen
+begegnen thut/ wie bey der <aq>Figur</aq> 49. zu sehen.</p>
+<cw><b>Seine&sr;</b></cw>
+<pb>
+<abb>
+<bs>O</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Seine&sr; Feinde&sr; Degen im Ablauffen zu eroberen/ und
+wie solche&sr; zu f&ue;gen.</b></d2>
+<p><in>S</in>Olche&sr; zu bewerckstelligen ist insonderheit zu mercken/ wann <aq>Adversariu&sr;</aq>
+entweder eine <aq>Tertz,</aq> oder aber eine <aq>Quart</aq> &ue;bern Arm zu stossen <aq>inclini-</aq>
+ren th&ae;te/ so ist da&sr; sicherste/ daﬂ man dessen Stoﬂ innwendig nach dem Leib/ &ue;ber
+der Klinge lasse ablauffen/ stellet den lincken Fuﬂ vor sich/ und greiffet in einem <aq>Tem-
+po</aq> nach dem Gef&ae;ﬂ seine&sr; Degen&sr;/ f&ue;hre dann sofort einen Streich nach seinem An-
+gesicht/ mache einen langen Schritt mit dem rechten Fuﬂ zuruck/ und biete die Spitze
+de&sr; Feinde&sr; Brust/ und weilen man dardurch seine&sr; Feinde&sr; Degen untern Arm be-
+findet/ muﬂ man einen starcken Zug in die H&oe;he/ oder aber nach sich/ thun/ so wird
+der Feind darob gezwungen/ seinen Degen zu <aq>quiti</aq>ren/ und selbst fahren zu lassen/
+wie <aq>Figur</aq> 50. andeutet.</p>
+<cw><b>Einen</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Einem in <aq>Tertz</aq> zu <aq>disarmi</aq>ren.</b></d2>
+<p><in>D</in>Arzu <aq>attaqui</aq>ret man den Degen frisch/ <aq>batti</aq>ret mit dem Fuﬂ in <aq>Quart,</aq> so
+daﬂ <aq>Adversariu&sr;</aq> sich verf&ue;hren l&ae;st/ und so er dann einen <aq>Tempo</aq> Stoﬂ in
+<aq>Tertz</aq> f&ue;hren wollte/ <aq>pari</aq>ret man ihm und <aq>marchi</aq>ret auf ihn zu/ den Leib nied-
+rig haltend/ und greiffet behend nach dem Gef&ae;ﬂ seine&sr; Degen&sr;/ haltet die Spitze
+nach de&sr; Feinde&sr; Brust zu/ und ob er dann etwan seine Faust zur&ue;ck ziehen th&ae;te/
+ehe und bevorn man dessen Degen beym Gef&ae;ﬂ ergriffen/ ist man dennoch seiner Mei-
+ster worden/ dieweilen desselben Kling und Leib schon gewonnen ist/ wie die <aq>Figur</aq> 52.
+davon Deutung gibt.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie einer seinem Feind mittel&sr; der <aq>Cavation</aq> durch eine
+<aq>Tertz</aq> oder <aq>Quart</aq> &ue;bern Arm zu <aq>disarmi</aq>ren.</b></d2>
+<p><in>H</in>Jerzu thue man seinem Feind/ eine falsche Bl&oe;se &ue;bern Arm geben/ ihn dar-
+ob zu verf&ue;hren suchend/ und solte solche&sr; allenfall&sr; von ihme geschehen/
+<aq>pari</aq>ret man mit der <aq>Cavati</aq>on/ <aq>marchi</aq>ret dann geschwind auf ihn zu/ und
+greiffet mit der lincken Hand seinen Degen beym Gef&ae;ﬂ/ schlaget dann mit der
+St&ae;rcke dessen Degen nieder/ und thut einen Zug mit der Faust/ so ist er und wird
+gezwungen denselbigen fahren zu lassen/ und wo man dann will/ kan denselben/
+al&sr; dardurch eroberten Feinde&sr; Degen nur ein wenig/ Mittel&sr; dem Gef&ae;ﬂe nach
+sich wenden; und stossen/ mit der Spitze/ seinen Feind mit dessen eigenen Degen
+darnieder/ doch muﬂ man bey solchem <aq>Casu</aq> gar geschwinde sich finden/ damit
+(wann der Feind/ indeme daﬂ man ihm nach seinem Degen zu greiffen trachte) er
+nicht die Faust umdrehet/ und den die <aq>Cavati</aq>on suchenden mit einem Winckelstoﬂ
+verletze/ wie bey der <aq>Figur</aq> 51. zu mercken.</p>
+<cw><b>Einen</b></cw>
+<pb>
+<abb>
+<pb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie man sich gegen einen Linck&sr;-fechtenden zu verhalten.</b></d2>
+<p><in>D</in>Jese&sr; belangend/ so seynd e&sr; nur <aq>contraire</aq> St&oe;sse/ also daﬂ e&sr; mehrer&sr; nicht&sr;/
+dann die <aq>Tertz</aq> auf <aq>Quart,</aq> und die <aq>Quart</aq> auf <aq>Tertz</aq> stossen/ sonst aber in allen
+<aq>Lectionibu&sr;</aq> mit denen vorhergangenen &ue;berein kommen thut/ ohne daﬂ einem/ der
+linck&sr; zu fechten gewohnet/ e&sr; nur im Brauch hat; dann erstlich wann man sich vor
+einem Linck&sr;-Fechter im Lager stellet/ so ist zu <aq>observi</aq>ren/ daﬂ man sich in <aq>Tertz</aq> im
+Lager wohl bedecke/ <aq>attaqui</aq>ret al&sr;dann seinen Degen in <aq>Quart</aq> auf <aq>Tertz,</aq> machet ihm
+eine <aq>Finte</aq> unter die Faust/ und so er al&sr;dann darauff <aq>pari</aq>ren oder nicht <aq>pari</aq>ren m&oe;ch-
+te/ so stosset man geschwind die <aq>Quart</aq> hinein.</p>
+<p>Zweyten&sr; so <aq>engagi</aq>ret man <aq>Adversarii</aq> Degen in die <aq>Quart</aq> frisch &ue;bern Arm/
+gibt ihm ein wenig Bl&oe;se/ ihn darob zu verf&ue;hren und zugleich zu <aq>obligi</aq>ren/ die <aq>Quart</aq>
+zu stossen; lasset er sich dann nun locken die <aq>Quart</aq> zu stossen/ <aq>pari</aq>ret man ihm in die
+<aq>Cavation,</aq> und stosset in selbige <aq>Quart</aq> gerade &ue;bern Arm hinein/ wie <aq>Figur</aq> 53. an-
+zeiget.</p>
+<p>Dritten&sr;/ wann aber <aq>Adversariu&sr;</aq> den Degen <aq>stringi</aq>rete/ so <aq>contra stringi</aq>ret
+man an seine Schw&ae;che/ wollte er sich aber etwan an die Klinge <aq>apponi</aq>ren/ so <aq>cupi-</aq>
+<bs>P</bs><cw>ret</cw>
+<pb>
+<kt><hr></kt>
+ret man geschwind unter die Faust/ und st&oe;sset die <aq>Quart</aq> unter den Arm/ hernach
+und darauff muﬂ man sich geschwind zu <aq>reteri</aq>ren suchen/ so daﬂ man wieder an seine
+Schw&ae;che komme/ sich aber auch wohl bedeckt halten/ damit <aq>Adversariu&sr;</aq> durch einen
+behenden Nachstoﬂ nicht etwan jemand verfolgen oder verletzen k&oe;nne.</p>
+<p>Vierdten&sr; <aq>engagi</aq>ret man <aq>Adversarii</aq> Degen frisch in die <aq>Quart,</aq> machet ihm ein
+falsch <aq>Tempo</aq> in die <aq>Tertz;</aq> st&oe;ssete aber <aq>Adversariu&sr;</aq> auf da&sr; <aq>Tempo</aq> gerade in <aq>Quart</aq> zu/
+so <aq>pari</aq>ret man mit der Faust in <aq>Tertz,</aq> und stossetdie <aq>Flanconade</aq> oder teutsch <aq>Quart
+Rever&sr;,</aq> wie <aq>Figur</aq> 53. weisen thut.</p>
+<p>F&ue;nfften&sr;/ solte <aq>Adversariu&sr;</aq> eine Bl&oe;se &ue;bern Arm geben in <aq>Quart,</aq> so f&ue;hret
+man einen halben Stoﬂ al&sr; <aq>Quart,</aq> &ue;bern Arm; l&ae;sset er sich dann darob verf&ue;hren/
+und zur <aq>Parade</aq> bewegen/ so kehret man die Faust nur geschwind um/ und st&oe;sset ge-
+rade in <aq>Tertz</aq> &ue;bern Arm hinein/ den Leib aber muﬂ man niedrig au&sr;gestreckt halten/
+hernacher <aq>batti</aq>ret man geschwind an die Kling mit einem Sprung zuruck.</p>
+<cw><b>Wann</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> den Degen in die <aq>Tertz</aq> suchet zu
+<aq>engagi</aq>ren.</b></d2>
+<p><in>S</in>O machet man beh&rr;nd eine <aq>Appell</aq> in die <aq>Quart,</aq> wann aber <aq>Adversariu&sr;</aq>
+zum Stoﬂ/ oder wieder an die Kling zu kommen/ <aq>cavi</aq>ren wolte/ so <aq>pari-</aq>
+ret man in <aq>Contra Cavati</aq>on/ und stosset gerade in die <aq>Quart</aq> hinein/ man
+kan ihme sonsten auch einen halben Stoﬂ &ue;bern Arm f&ue;hren/ und wann er sich zur
+<aq>Parade</aq> bewegete/ kan man ihm doch einen Stoﬂ oder <aq>Quart</aq> untern Arm gar
+leicht bey-<aq>practici</aq>ren/ wie <aq>Figur</aq> 54. zeiget.</p>
+<cw><b>Wann</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wann <aq>Adversariu&sr;</aq> seinen Degen frisch mit der St&ae;rcke
+an die Schw&ae;che in <aq>Tertz engagi</aq>ren wolte.</b></d2>
+<p><in>S</in>O gibt man ihm darauff eine falsche Bl&oe;se/ verstehe in <aq>Tertz,</aq> wann er
+dann hierauff/ unter die Faust/ geschwind <aq>cupi</aq>ren/ oder die <aq>Tertz</aq>
+stossen wolte/ so <aq>pari</aq>ret man hoch mit der <aq>Cavati</aq>on/ und stosset geschwind in
+die <aq>Secund,</aq> suchet dann schnell/ im zuruck springen/ wieder an seine Kling in
+<aq>Quart</aq> zu kommen/ damit <aq>Adversariu&sr;</aq> keinen Stoﬂ einf&ue;hren/ oder dar-
+durch verfolgen k&oe;nne/ wie solche&sr; sonsten geschicht/ und in der <aq>Figur</aq> 55. zu sehen.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie auf Linck&sr; die <aq>coupir</aq>te St&oe;sse angebracht werden
+k&oe;nnen.</b></d2>
+<p><in>A</in>Llenfall&sr; <aq>Adversariu&sr;</aq> die Klinge in <aq>Tertz</aq> oder <aq>Quart</aq> zu <aq>stringi</aq>ren
+suchete/ so machet man ihme eine hohe <aq>Appell</aq> in seine Spitze/ doch aber die
+Faust in seinem Lager haltend/ dergestalten/ daﬂ nicht <aq>Adversariu&sr;</aq> eine Bl&oe;se
+findet; bewegte er sich dann zur <aq>Parade, coupi</aq>ret man geschwind &ue;ber seine
+Klinge/ und wann er sich aber zur <aq>Parade</aq> nicht finden m&oe;gte/ so <aq>apponi</aq>ret
+man mit der St&ae;rcke an seine Schw&ae;che/ und st&oe;sset gerade auf den Leib zu/ so gar
+leichtlich zu thun ist/ wie zu mercken bey <aq>Figur</aq> 56.</p>
+<cw><b>Auff</b></cw>
+<pb>
+<abb>
+<bs>Q</bs>
+<pb>
+<kt><hr></kt>
+<d2><b>Auff wa&sr; Manier die <aq>Pas&sr;ade</aq> auff Linck&sr; zu machen sey.</b></d2>
+<p><in>S</in>Olche&sr; geschicht also/ wann die Degen zusammen sich in <aq>Tertz</aq> befinden/ ma-
+chet man seinem <aq>Adversario</aq> einige falsche Bewegung in die <aq>Quart,</aq> gleich
+al&sr; wann man die <aq>Quart</aq> stossen wollte/ bewegte er sich dann/ oder bewegte er sich
+nicht/ so <aq>passi</aq>ret man mit au&sr;gestrecktem Arm geschwind in die <aq>Quart,</aq> dabey
+aber hat man sich wohl in acht zu nehmen/ daﬂ man sich nicht auf de&sr; <aq>Adversarii</aq>
+Klinge verlasse/ oder selbe zu <aq>stringi</aq>ren suche/ weil man den Leib gar leicht dabey
+verfehlen/ und sich in Gefahr geben kan/ sondern muﬂ <aq>Adversario</aq> gerad auf
+den Leib zu/ zu <aq>passi</aq>ren suchen wie bey der <aq>Figur</aq> 57. gesehen wird.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie eine <aq>Volte</aq> auff Linck&sr; zu machen sey.</b></d2>
+<p><in>M</in>Ache man eine <aq>Appell</aq> an die Klinge in <aq>Tertz,</aq> und gebe seinem Feind eine
+falsche Bl&oe;se; wann dann derselbe sich verf&ue;hren l&ae;sst/ und wollte in <aq>Quart</aq>
+stossen/ so kehret man den Leib geschwind um/ und <aq>arresti</aq>ret ihn fort <aq>in Tem-
+po, in Volt,</aq> welche&sr; ebenm&ae;ssig unter den Arm/ und gar leichte auch zu thun
+ist. Jm fall daﬂ aber <aq>Adversariu&sr;</aq> nur allein einen halben Stoﬂ f&ue;hren th&ae;te so
+hat man sich zu h&ue;ten/ daﬂ er nicht <aq>pari</aq>ret/ und einen <aq>in Flanconade</aq> empfan-
+get. Man kan ihn sonsten auch in <aq>Tertz volti</aq>ren/ ein solche&sr; aber muﬂ mit einer
+gar f&ue;glichen Geschwindigkeit geschehen/ und sich dabey auch ein wenig au&sr; der
+<aq>Mes&sr;ur</aq> gehalten werden; So balden dann aber <aq>Adversariu&sr;</aq> den Degen in <aq>Tertz</aq>
+zu <aq>stringi</aq>ren suchete/ so muﬂ man fein geschwind in einem <aq>Tempo</aq> mit dem rech-
+ten Fuﬂ <aq>volti</aq>ren/ den Degen in die lincke Faust nehmen/ und seinen Feind gerade
+in <aq>Volt</aq> empfangen/ wie die <aq>Figur</aq> 58. zeiget; welche <aq>Manier</aq> ich gar &oe;ffter&sr;
+mit vielen/ so sich auf die Klinge verlassen/ <aq>practici</aq>ret hab/ und ohne Gefahr wohl
+zu <aq>practici</aq>ren ist.</p>
+<cw><b>Wie</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d2><b>Wie einer auf Linck&sr; <aq>disarmi</aq>rt oder Gewehr-loﬂ k&oe;nne ge-
+macht werden.</b></d2>
+<p><in>D</in>Jese&sr; zu thun/ ist zu wissen/ wann sich die Degen in <aq>Tertz</aq> zusammen be-
+finden/ so machet man seinem <aq>Adversario</aq> etliche falsche <aq>Tempo,</aq> densel-
+ben zum Stoﬂ zu bewegen/ und wann dann solche&sr; von ihm gesehen wird/ und er
+die gerade <aq>Quart</aq> stosset/ so <aq>pari</aq>ret man niedrig mit dem Leib/ und <aq>marchi</aq>ret
+in einem <aq>Tempo</aq> auf ihn loﬂ/ greiffet mit der lincken Hand an dessen Gef&ae;ﬂ/ und
+reisset ihm den Degen au&sr; seiner Faust/ welche&sr; dann in <aq>Tertz</aq> auch eben so leicht
+geschehen kan; So dann der Feind eine <aq>Tertz</aq> f&ue;hrete/ <aq>pari</aq>ret man mit der Hand
+in <aq>Quart,</aq> gehet in ihn drein/ und ergreiffet seinen Degen beym Gef&ae;ﬂ/ wie
+<aq>Figur</aq> 59. zeiget.</p>
+<cw><b><in>E</in>dle</b></cw>
+<pb>
+<abb>
+<pb>
+<kt><hr></kt>
+<d1><b><in>E</in>dle und <in>H</in>ochgeehrtest-auch <in>H</in>ochgeehrte
+<in>H</in>erren.</b></d1>
+<p><in>J</in><fr>Ch h&ae;tte zwarn (wie ich da&sr; mit Warheit wohl versicheren kan/ auch
+leichtlichen au&sr; vorhergehenden allen ermessen und erkennet werden
+kan) noch weit mehrere</fr> <aq>Lectione&sr;</aq> <fr>hierinnen anf&ue;hren und beybringen k&oe;n-
+nen/</fr> <aq>in specie</aq> <fr>von</fr> <aq>Paraden,</aq> <fr>Armbrechen/</fr> <aq>Contra Volt</aq><fr>en &rr;c. Jndeme
+aber alle&sr; solche&sr; von keiner</fr> <aq>Nece&sr;si</aq><fr>t&ae;t oder Nothwendigkeit; al&sr; habe
+auch f&ue;r ohnn&oe;thig gehalten/ diese&sr; mit dergleichen anzuf&ue;llen/ sonderlichen
+dahero/ weilen da&sr; auf einem Fecht-Boden/ wo sich der an Ort und En-
+den findet/ denen Edlen und Hochgeehrten Herren</fr> <aq>Schola</aq><fr>ren selbige Din-
+ge besser m&ue;ndlich/ al&sr; im Druck k&oe;nnen angedeutet werden/ wobey dann
+auch zu erwegen/ daﬂ alle&sr;/ wa&sr; hierinnen unterlassen/ bey scharffem zier-
+lichen Gefecht/ al&sr; wovon diese&sr; einig und allein gehandelt ist/ nicht ge-
+br&ae;uchlich/ also daﬂ ich diese meine auffrichtig &2012; und wohlmeynende obige</fr>
+<cw><aq>In-</aq></cw>
+<pb>
+<kt><hr></kt>
+<aq>Instruction</aq> <fr>im Nahmen GOtte&sr; hiemit beschliesse/ allen</fr> <aq>respectivË</aq> <fr>Her-
+ren Liebhabern dieser erkl&ae;rten Fecht-Kunst aber mich auff&sr; beste</fr> <aq>recom-
+mendi</aq><fr>rt haben will/ und nochmahlen</fr> <aq>recommendi</aq><fr>re/ mit der gehorsam-
+sten Bitte/ dieser wegen mich stet&sr; hin im besten Angedencken zu halten;
+Jch aber</fr> <aq>offeri</aq><fr>re mich hergegen/ daﬂ/ wofern da&sr; Gl&ue;ck sonst haben kan/
+einem jeglichen/ so m&ue;ndlich/ al&sr; auch sonsten meine Wissenschafft im Fech-
+ten/ gerne</fr> <aq>communici</aq><fr>ren werde und</fr> <aq>communici</aq><fr>ren will. Wa&sr; letzli-
+chen aber die</fr> <aq>Voltegier-</aq><fr>Kunst anbelanget/ so h&ae;tte gleichfall&sr; zwarn da-
+von genugsame</fr> <aq>Figu</aq><fr>ren w&oe;llen beyf&ue;hren/ al&sr; aber ich etwogen/ daﬂ sol-
+che&sr; an den</fr> <aq>Figu</aq><fr>ren nicht wohl k&oe;nne erlernet oder verstanden werden/ so
+hab auch davon/ weilen e&sr; doch nur allein</fr> <aq>pro form&00E2;,</aq> <fr>und nicht&sr; davon
+gesch&oe;pffet werden kan/ mich abgehalten/ angesehen/ daﬂ</fr> <aq>sine viv&00E2; Voce
+&amp; Manuductione speciali</aq> <fr>selbige nicht zu etlernen; Und beschliesse diese&sr;
+Werck hiemit in GOtte&sr; Nahmen.</fr></p>
+<bs><b>R</b></bs><cw><b>Re-</b></cw>
+<pb>
+<kt><hr></kt>
+<abb>
+<d1><b><in>R</in>egister
+<in>A</in>ller deren in diesem <in>B</in>uch sich befindlichen
+<aq>Lection</aq>en der Edlen Fecht-Kunst.</b></d1>
+<li><in>S</in>Ummarischer Unterricht. _ _ <aq>Pag.</aq> <ref>1</ref></li>
+<li>Wie man die <aq>Quart</aq> stosse. _ _ <ref>3</ref></li>
+<li>Wie die <aq>Quart</aq> zu <aq>pari</aq>ren. _ _ <ref><aq>ibid.</aq></ref></li>
+<li>Wie die <aq>Tertia</aq> zu stossen. _ _ <ref>4</ref></li>
+<li>Wie die <aq>Tertz</aq> zu <aq>pari</aq>ren. _ _ <ref><aq>ibid.</aq></ref></li>
+<li>Wie man die <aq>Secund</aq> stossen solle. _ _ <ref>5</ref></li>
+<li>Wie die <aq>Secund pari</aq>ret wird. _ _ <ref><aq>ibid.</aq></ref></li>
+<cw>N&ue;tzli-</cw>
+<pb>
+<kt><b>Register.</b></kt>
+<li>N&ue;tzliche <aq>Observation</aq> und Unterrichtung deren drey Hauptst&oe;ﬂ im Fechten. _ _ <aq>Pag.</aq></li>
+<li>Von Ab- oder Au&sr;theilung der Klingen. _ _ <ref>6</ref></li>
+<li>Au&sr;deutung derer bey der Fecht-Kunst vorkommender und gebr&ae;uchlicher <aq>Termino-
+rum.</aq> _ _ <ref><aq>ibid.</aq></ref></li>
+<li>Art und Weise eine <aq>Fainte</aq> zu machen/ und den Feind keine Bl&oe;se zu geben. _ _ <ref>7</ref></li>
+<li>Zweyte oder gedoppelte <aq>Fainte.</aq> _ _ <ref>8</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> in der <aq>Tertz</aq> lieget. _ _ <ref>9</ref></li>
+<li>Dreyfache <aq>Finte</aq> zu machen. _ _ <ref>10</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> au&sr; der <aq>Mes&sr;ur</aq> stehet. _ _ <ref>11</ref></li>
+<li>Wann der <aq>Adversariu&sr;</aq> in der <aq>Tertz</aq> suchet zu <aq>attaqui</aq>ren. _ _ <ref>12</ref></li>
+<li>Art und Weiﬂ/ wie hergegen man seinen Gegner anlocken und zum Stoﬂ verf&ue;hren
+soll. _ _ <ref>13</ref></li>
+<li>Wann einer an de&sr; <aq>Adversarii</aq> Kling in der <aq>Tertz</aq> zu liegen kommet. _ _ <ref>14</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> in <aq>Quart</aq> mit seiner Schw&ae;che an der St&ae;rck zu liegen kommet.
+_ _ <ref>15</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> den Degen <aq>engagi</aq>ret in die <aq>Tertz.</aq> _ _ <ref>16</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> seinen Degen hoch an die Klinge in die <aq>Tertz attaqui</aq>ret. _ _ <ref>17</ref></li>
+<li>Wie die gehobene St&oe;sse m&ue;ssen gef&ue;hret werden/ welche von denen Frantzosen die
+<aq>cupir</aq>te St&oe;ﬂ &ue;ber die Klinge genennet werden. _ _ <ref>18</ref></li>
+<li>Wie man seinen <aq>Adversarium</aq> zu verf&ue;hren suchen/ und mit <aq>Tempo</aq> St&oe;ssen empfan-
+gen solle. _ _ <ref>19</ref></li>
+<bs>R 2</bs><cw>Wann</cw>
+<pb>
+<kt><b>Register.</b></kt>
+<li>Wann <aq>Adversariu&sr;</aq> an die Klinge in <aq>Quart</aq> zu liegen kommet. _ _ <ref>20</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> an der Klinge in der <aq>Tertz</aq> lieget. _ _ <ref>21</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> die Klinge <aq>attaqui</aq>ret in <aq>Quart.</aq> _ _ <ref>22</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> die Klinge suchet in <aq>Quart</aq> zu <aq>engagi</aq>ren/ und seine Spitze nied-
+rig h&ae;lt. _ _ <ref>23</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> suchet die Kling in <aq>Quart</aq> zu <aq>stringi</aq>ren. _ _ <ref>24</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> den Degen suchet zu <aq>engagi</aq>ren. _ _ <ref>25</ref></li>
+<li>So <aq>Adversariu&sr;</aq> den Degen in <aq>Quart</aq> zu <aq>engagi</aq>ren oder zu <aq>stringi</aq>ren/ und so dar-
+durch einen zum Stoﬂ zu verf&ue;hren suchete. _ _ <ref>26</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> den Degen in <aq>Quart</aq> zu <aq>engagi</aq>ren suchet. _ _ <ref>27</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> an<aq>marchi</aq>ret/ den Degen in <aq>Quart</aq> zu <aq>forci</aq>ren. _ _ <ref>28</ref></li>
+<li>So <aq>Adversariu&sr;</aq> die Klinge ihm <aq>engagi</aq>ret in <aq>Quart</aq> au&sr; der <aq>Mes&sr;ur.</aq> _ _ <ref>29</ref></li>
+<li>Wie und auf wa&sr; Weise man suchen soll/ seine&sr; <aq>Adversarii</aq> Klinge in die <aq>Quart</aq> zu
+<aq>engagi</aq>ren. _ _ <ref>30</ref></li>
+<li>Eine <aq>Appell</aq> an seine&sr; <aq>Adversarii</aq> Klingen in <aq>Tertz</aq> zu machen/ und wie einer dabey
+sich zu verhalten. _ _ <ref>31</ref></li>
+<li>An <aq>Adversarii</aq> Kling in <aq>Quart</aq> liegend zu kommen. _ _ <ref>32</ref></li>
+<li>Wie die <aq>Quart Base,</aq> oder auf teutsch die niedrige <aq>Quart</aq> zu machen/ al&sr; welche gegen
+einen mit der lincken Hand fechtenden gar nutzlich ist. _ _ <ref>33</ref></li>
+<li>Wann sich die Klingen in <aq>Quart</aq> zusammen befinden. _ _ <ref>34</ref></li>
+<li>Wie man die <aq>Quart Base Reverse,</aq> da&sr; ist so viel al&sr; verkehrt gesagt/ machen solle.
+_ _ <ref>35</ref></li>
+<cw>Welcher</cw>
+<pb>
+<kt><b>Register.</b></kt>
+<li>Welcher gestalten die <aq>Tertz Base</aq> zu machen/ welche die <aq>Positur</aq> hat/ al&sr; wie die hohe
+<aq>Secund. _ _ Pag.</aq> <ref>36</ref></li>
+<li>Auff wa&sr; Art und Weise eine <aq>Ligation</aq> zu machen/ seine&sr; Feinde&sr; Degen au&sr; der Hand
+zu drehen. _ _ <ref>37</ref></li>
+<li>Wie die <aq>Ligation</aq> umb die Klinge in <aq>Tertz</aq> oder <aq>Quart,</aq> auf teutsch ein <aq>Circul</aq> an die
+Kling zu machen. _ _ <ref>38</ref></li>
+<li>Wie und auf wa&sr; Weise die <aq>Pas&sr;ade</aq> zu machen seye. _ _ <ref>39</ref></li>
+<li>Wie die <aq>Pas&sr;ade</aq> in der <aq>Quart</aq> &ue;bern Arm zu machen. _ _ <ref>40</ref></li>
+<li>Wie die <aq>Pas&sr;ade</aq> unten in der <aq>Secund</aq> zu machen. _ _ <ref>41</ref></li>
+<li>Wie die wahre <aq>Pas&sr;ade</aq> in <aq>Quart</aq> zu bemercken/ und wie sich darinn zu verhalten.
+_ _ <ref>42</ref></li>
+<li>Wie in der <aq>Pas&sr;ade</aq> man seinen <aq>Adversarium arreti</aq>ren kan. _ _ <ref>43</ref></li>
+<li>Wie man die <aq>Volte</aq> am sichersten zu machen. _ _ <ref>44</ref></li>
+<li>Wann sich die Degen zusammen in <aq>Quart</aq> finden. _ _ <ref>45</ref></li>
+<li>Wie man eine <aq>Volte</aq> machen solle/ seinem <aq>Adversario</aq> da&sr; Gesicht/ oder dessen H&ae;nde
+zu zerhauen. _ _ <ref>46</ref></li>
+<li>Wie die doppelte <aq>Volte</aq> zu machen/ in geschwind und leichtester <aq>Manier.</aq> _ _ <ref>47</ref></li>
+<li>Einen zu <aq>disarmi</aq>ren in unterschiedlicher <aq>Manier,</aq> und wann solche&sr; zu thun seye. _ _ <ref>48</ref></li>
+<li>Wie <aq>Adversariu&sr;</aq> nach gestossener <aq>Quart</aq> &ue;bern Arm zu <aq>disarmi</aq>ren. _ _ <ref>49</ref></li>
+<li>Seine&sr; Feinde&sr; Degen im Ablauffen zu erobern/ und wie solche&sr; zu f&ue;gen. _ _ <ref>50</ref></li>
+<li>Wie einer seinen Feind mittel&sr; der <aq>Cavation</aq> durch eine <aq>Tertz</aq> oder <aq>Quart</aq> &ue;bern Arm
+zu <aq>disarmi</aq>ren. _ _ <ref>51</ref></li>
+<bs>R 3</bs><cw>Einen</cw>
+<pb>
+<kt><b>Register.</b></kt>
+<li>Einen in <aq>Tertz</aq> zu <aq>disarmi</aq>ren. _ _ <aq>Pag.</aq> <ref>52</ref></li>
+<li>Wie man sich gegen einen Linck&sr;-fechtenden zu verhalten. _ _ <ref>53</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> den Degen in die <aq>Tertz</aq> suchet zu <aq>engagi</aq>ren. _ _ <ref>54</ref></li>
+<li>Wann <aq>Adversariu&sr;</aq> seinen Degen frisch mit der St&ae;rcke an die Schw&ae;che in <aq>Tertz
+engagi</aq>ren wollte. _ _ <ref>55</ref></li>
+<li>Wie auff Linck&sr; die <aq>coupi</aq>rte St&oe;sse angebracht werden k&oe;nnen. _ _ <ref>56</ref></li>
+<li>Auff wa&sr; <aq>Manier</aq> die <aq>Pas&sr;ade</aq> auff Linck&sr; zu machen sey. _ _ <ref>57</ref></li>
+<li>Wie eine <aq>Volte</aq> auff Linck&sr; zu machen sey. _ _ <ref>58</ref></li>
+<li>Wie einer auff Linck&sr; <aq>disarmi</aq>rt oder Gewehrloﬂ k&oe;nne gemacht werden. _ _ <ref>59</ref></li>
+<pb>

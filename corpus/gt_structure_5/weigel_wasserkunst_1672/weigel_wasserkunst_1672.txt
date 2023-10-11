@@ -1,0 +1,585 @@
+<pb>
+<front><aq><g><k>Erhardi Weigelii,</k></g>
+P. P.
+concentri</aq>rte
+<fr>Wasserkunst</fr>
+und
+<fr>Unmaszgeblicher Vor-
+schlag zur Rettung</fr>
+in
+<fr>Feuer&sr;-Gefahr/</fr>
+sonst aber im Hauﬂ
+<b>Zu Nutz und zur Belustigung</b>
+zu gebrauchen.
+<hr>
+<fr><g>JENA/</g></fr>
+Gedruckt bey Johann Jacob Bauhofern/
+1672.</front>
+<pb>
+<hr>
+<ded><c>Dem Durchlauchtigsten F&ue;rsten und
+<g>HERRN/
+<fr>Herrn ERYST/</fr></g>
+Herzogen zu Sachsen/ J&ue;lich/ Cleve und Berg/
+Landgrafen in Th&ue;ringen/ Marggraffen zu
+Meissen/ Gef&ue;rsteten Grafen zu Henneberg/
+Grafen zu der Marck und Raven&sr;berg/
+Herrn zu Ravenstein/
+De&sr; H&oe;chst-L&oe;bl. Chur- und Hoch-F&ue;rstl.
+<fr>Hause&sr; Sachsen/</fr>
+Ja de&sr; gantzen H. R&oe;m. Reich&sr;
+hohen F&ue;rsten-<aq><g>COLLEGII</g></aq>
+h&oe;chst <aq>meritir</aq>ten <aq>Senio</aq>rn/
+<fr>Meinem gn&ae;digsten F&ue;rsten
+und Herrn:</fr></c>
+<pb>
+<c>wie auch
+Denen Durchlauchtigsten F&ue;rsten und
+<g>HERREN</g>
+<fr>Herrn Johann Ernsten/</fr>
+und S. Hoch-F&ue;rstl. Durchl. Hoch-F&ue;rstl.
+<fr>Herrn Br&ue;dern/</fr>
+Herrn Johann Georgen/
+und
+<fr>Herrn Bernharden/</fr>
+Herzogen zu Sachsen/ J&ue;lich/ Cleve und
+Berg/ Landgrafen in Th&ue;ringen/ Marggra-
+fen zu Meissen/ Gef&ue;rsteten Grafen zu Hen-
+neberg/ Grafen zu der Marck und Ra-
+ven&sr;berg/ Herren zu Ravenstein/
+<fr>Meinen gn&ae;digsten F&ue;rsten
+und Herren.</fr></c>
+<pb>
+<c>Alﬂ
+Denen s&ae;mtlichen Hoch-F&ue;rstlichen
+<aq><g>NUTRITO</g></aq> <fr>R Y</fr>
+und
+<fr>Erhaltern/</fr>
+Der nunmehro/ durch <g>GOTT</g>e&sr; Gnad/
+in vollem Flor stehenden
+&ue;ber hundertj‰hrigen
+<fr>Universit&ae;t</fr>
+<fr><g>JENA/</g></fr>
+Gl&ue;ck und Heyl!</c></ded>
+<pb>
+<p><in>D</in>aﬂ Eurer Hoch F&ue;rstllll. Durchlauch-
+tigkeiten weltgepriesenen hohen
+Namen diesem geringf&ue;gigen Werk-
+lein in unvergreiflicher/ vielleicht erstmahliger/
+Zusa&tm;ensetzung vordr&ue;cken zu lassen ich mich
+erk&ue;hnet/ hat so wohl der bey Verfertigung des-
+selben sich durch GOtte&sr; sonderbahre Schi-
+ckung ereignete Hoch-F&ue;rstl. Zufall; al&sr; auch
+die nat&ue;rliche Billigkeit/ daﬂ iede&sr; Werck sei-
+nen Ursprung danckbarlich erkenne/ verursa-
+chet. Denn wie durch jenen unserer gesamten
+Academie Schutz und Erhaltung/ nechst so vie-
+ler Land und Leute Regierung&sr;-Last/ von Gott
+auf Eurer Hoch-F&ue;rstllll. Durchlauchtigkeiten
+Schultern allein geleget; worzu meine Wenig-
+keit so wohl/ al&sr; alle treu-gehorsame Diener
+und Unterthanen/ von dem Allerh&oe;chsten be-
+st&ae;ndige Gesundheit/ fernerweitige&sr; lange&sr;
+Leben/ Gl&ue;ck und Hoch-F&ue;rstlichen Seegen/
+inbr&ue;nstig zu w&ue;nschen verpflichtet/ und nun
+im Werck eyferigst begriffen; also muﬂ ich of-
+<cw>fent-</cw>
+<pb>
+fentlich bekennen/ daﬂ ich bey der mir nun vor
+20. Jahren gn&ae;digst aufgetragenen <aq>Profe&sr;si-
+one Mathematum</aq> von denen sonst gew&oe;hn-
+lichen Schul-<aq>speculationibu&sr;</aq> mich so weit ab-
+zuziehen/ und auf die/ dem gemeinen Wesen so
+n&ue;tzliche/ dabey aber sehr kostbare/ Mechanische
+<aq>Praxin,</aq> worau&sr; diese&sr; wenige gleichsam zur
+Prob entsprungen/ eussersten Verm&oe;gen nach
+zu befleissigen/ vornehmlich von Eurer Hoch-
+F&ue;rstllll. Durchlauchtigkeiten hoher Hand u&tn;
+Anf&ue;hrung selbst geleitet worden. Denn aus-
+ser dem/ daﬂ die/ &ue;ber die ordentliche stet&sr;
+richtig erhaltene Profession&sr;-Verpflegung/
+mir besonder&sr; gn&ae;digst aufgetragene <aq>extra-
+ordinar-</aq>Bestallungen/ und die dabey so
+offtmahliche mildeste Begnadigungen/ al&sr;
+offtmahlige <aq>Specimina Mechanica</aq> gehor-
+samst <aq>offerirt</aq> worden/ (worvor ich zu unsterbli-
+chem Danckmahl mich verpflichtet erkenne)
+bi&sr;hero die sonst gleichsam schlafende Mecha-
+nic samt denen <aq>Exercitii&sr;</aq> bey hiesiger Uni-
+<cw>ver-</cw>
+<pb>
+sit&ae;t wohl aufgemundert/ und nechst andern
+<aq>Studii&sr;</aq> in Schwang zu kommen kr&ae;fftiglich be-
+f&oe;rdert; so haben Eure Hoch-F&ue;rstllll. Durch-
+lauchtigkeiten/ al&sr; auch in der Mechani-
+schen Wissenschafft Hocherfahrne/ meine We-
+nigkeit hierinnen selbst m&ue;ndlich wohl zu <aq>in-
+formi</aq>ren/ und zu guter Nachforschung gleich-
+sam bey der Hand zu f&ue;hren sich iederzeit gn&ae;-
+digst gefallen lassen. Gewiﬂ ist&sr;/ daﬂ die/ Zeit
+meiner unterth&ae;nigsten Aufwartung/ erbaute/
+u&tn; mit so vilerley Kunstwercken von Dero eige-
+ner <aq>Invention</aq> au&sr;ger&ue;stete/ <aq>Palatia</aq> mehr An-
+weisung/ al&sr; alle B&ue;cher/ mir zu gutem Grund
+hierinnen ertheilet. Absonderlich ist zu vollst&ae;n-
+diger Au&sr;f&ue;hrung diser gleichsam <aq>concentrir-</aq>
+ten Wasserkunst/ von Euren Hoch-F&ue;rstllll.
+Durchlauchtigkeiten meine Wenigkeit nicht
+allein durch sothane Vorleuchtung h&oe;chst-
+r&ue;hmlich angef&ue;hret/ sondern auch durch ein
+besonder gn&ae;digst <aq>a&sr;signir</aq>te&sr; <aq>subsidium</aq> un-
+abl&ae;ﬂig fortgetrieben worden. Dahero wie
+<cw>die</cw>
+<pb>
+die nutzbare W&ue;rckung de&sr; Werck&sr; dem ge-
+meinen Wesen hiermit unmaﬂgeblich anzu-
+tragen ich nicht Umbgang nehmen k&oe;nnen;
+also muﬂ ich bekennen/ daﬂ/ wa&sr; hierdurch gu-
+te&sr; gestifftet werden m&oe;chte/ solche&sr; nechst
+GOtt allein Euren Hoch-F&ue;rstllll. Durch-
+lauchtigkeiten danckbarlich zuzuschreiben: vor
+Dero stet&sr; wachsende&sr; Hoch-F&ue;rstliche&sr; Auf-
+nehmen GOtt zu bitten alle K&016F;nst&2019; und Wis-
+senschafften von nun an in vollstreckter Ord-
+nung zusammen treten werden. Gegeben
+Jena den 1. Julij/ 1672.</p>
+<clos><c>E. E. E. E. Hoch-F. Hoch-F. Hoch-F. Hoch-F.
+D. D. D. D.</c></clos>
+<clos><et>Unterth&ae;nigst-gehorsamster
+Knecht
+<aq>Erhardu&sr; Weigeliu&sr;, P. P.</aq></et></clos>
+<pb>
+<hr>
+<d1><b>Unmaﬂgeblicher Vorschlag</b>
+Zur Rettung
+in
+<fr>Feuer&sr; Gefahr</fr>
+sonst aber in Hauﬂ und Hof zu Nutz und
+zur Lust zugebrauchen.</d1>
+<d2>Da&sr; <aq>I.</aq> Capitel.
+<b>Von den nothwendigsten St&ue;cken so</b>
+zur Feuer-Wehr geh&oe;ren. Und wa&sr; dabey
+biﬂher vor M&ae;ngel vorgefallen.</d2>
+<d3><aq>I.</aq></d3>
+<p><in>W</in>Eil da&sr; Feuer von einer so gar ge-
+schwinden W&ue;rckung ist/ so scheinet
+da&sr; aller vornehmste St&ue;ck zur Ret-
+tung in Feuer&sr; Gefahr zu seyn/ daﬂ
+man da&sr; Wasser/ al&sr; welche&sr; dem Feuer am nechsten
+zu wieder/ &ue;berall/ da e&sr; von n&oe;then/ in Bereit-
+schafft habe.</p>
+<d3><aq>II.</aq></d3>
+<p>Nun ist da&sr; Wasser in allen wohlbestalten Or-
+ten zwar mit geringer M&ue;he in den Gassen darzu-
+<bs>A</bs><cw>stellen</cw>
+<pb="2."/>
+stellen/ und unten in die H&ae;user zubringen. Allein
+oben hinauf in die Gem&ae;cher/ und &ue;ber da&sr; Dach/
+wie mehrentheil&sr; von n&oe;then/ wird e&sr; nach ge-
+meiner Art gar schwerlich gebracht.</p>
+<d3><aq>III.</aq></d3>
+<p>Denn ehe man entweder von aussen die Feu-
+er Leitern anbringet/ und so viel Leute hinauf stel-
+let/ welche einander zulangen/ oder ehe man solche
+innerhalb de&sr; Hause&sr; in Ordnung bringet/ gehet
+viel Zeit weg.</p>
+<d3><aq>IV.</aq></d3>
+<p>So stehen &ue;ber da&sr; die Personen auf den Lei-
+tern/ oder innerhalb/ in grosser Gefahr de&sr; Bre-
+chen&sr; und Fallen&sr;.</p>
+<d3><aq>V.</aq></d3>
+<p>Und wenn ihrer gleich 20. oder 30. zusammen
+gebracht/ daﬂ einer dem andern zulange/ so thut doch
+nur ein einiger/ nemlich der letzte/ einige Rettung.</p>
+<d3><aq>VI.</aq></d3>
+<p>Und zwar nur mit halber St&ae;rcke/ weil Er
+sich mehrentheil&sr; mit einer Hand anhalten muﬂ/
+und nur mit der andern giesen kan.</p>
+<d3><aq>VII.</aq></d3>
+<p>So wird auch unterweg&sr; im zulangen viel ver-
+sch&ue;ttet/ und werden die Leute gar naﬂ/ welche&sr; im
+Winter sehr sch&ae;dlich und hinderlich.</p>
+<cw><aq>VIII.</aq></cw>
+<pb="3."/>
+<d3><aq>VIII.</aq></d3>
+<p>Auch da&sr; Gef&ae;ﬂ wird von oben wieder herab
+geworffen/ welche&sr; entweder schaden nimmet/ oder
+verursachet.</p>
+<d3><aq>IX.</aq></d3>
+<p>Und ob zwar die grossen Feuer-Spr&ue;tzen/
+wenn sie an der Hand sind/ und wohl steigen/ ohne
+vorbeschriebene Gefahr grosse Rettung thun k&oe;n-
+nen/ so ist doch nachfolgende&sr; dabey zu <aq>desideri-</aq>
+ren.</p>
+<d3><aq>X.</aq></d3>
+<li>(1.) So sind sie sehr kostbar/ daﬂ man ih-
+rer an den meisten Orten gar wenig schaffen kan/
+da ihrer doch zum wenigsten 5. oder 6. St&ue;ck seyn
+m&ue;ssen/ wenn kr&ae;fftige Rettung geschehen solle.</li>
+<d3><aq>XI.</aq></d3>
+<li>(2) So sind sie schwerlich fort zubringen/
+auch nicht leicht in ein Hauﬂ oder in den Hof zu-
+f&ue;hren: in den engen G&ae;ﬂlein verhindern sie mehr
+al&sr; sie nutzen.</li>
+<li>(3) Die nach gemeiner Art gemachten ha-
+ben viel Unvollkommenheiten: Der Druck gehet
+im Bogen und weiffet/ dahero bi&sr;weiln mehr Was-
+ser beym Stieffel al&sr; durch da&sr; Wende Rohr her-
+au&sr;f&ae;hret. Wird auch dadurch leichtlich etwa&sr;
+zubrochen/ ja/ wie nur neulich geschehen/ dem
+<bs>A 2</bs><cw>der</cw>
+<pb="4."/>
+der da&sr; Rohr wendet/ wird bi&sr;weilen ein Arm oder
+ein Bein verletzet. Der mit so vielen Schrauben
+und Wendungen eingerichtete Kropf am Wende-
+Rohr ist leichtlich zerstosen: Die Ventil werden
+durch Unreinigkeit leichtlich verstopfet: Jm Win-
+ter zerspringet da&sr; Metall gar gern/ wenn e&sr; nur
+wenige Gewalt au&sr;zustehen hat: Der Kasten be-
+komt durch unvorsichtig stosen/ schlagen/ fallen/
+leichtlich ein Loch: Da ist denn alle Rettung au&sr;/
+wann sie am besten seyn soll.</li>
+<d3><aq>XII.</aq></d3>
+<p>Weil von der nechsten Nachtbarschafft/ wenn
+ein Hauﬂ brennet/ die beste Rettung geschehen kan/
+so hat man keinen gewissen Platz &ue;ber dem Dach:
+und ehe man hier oder da durchschl&ae;get/ gehet die
+Zeit weg/ und ist doch unbequem und unbekant da-
+selbst Rettung zu thun.</p>
+<d3><aq>XIII.</aq></d3>
+<p>Kan man nicht wohl von einem Dach auf
+da&sr; andere kommen/ und den au&sr;brechenden Feu-
+er au&sr;weichen.</p>
+<cw><b>Da&sr;</b></cw>
+<pb="5."/>
+<d2><b>Da&sr; <aq>II.</aq> Capitel</b>
+Wie allen oberzehlten M&ae;ngeln
+zu helffen.</d2>
+<d3><b>Der <aq>I.</aq> Vorschlag.</b></d3>
+<p><in>A</in>uf alle und iede H&ae;user/ Scheunen/ St&ae;lle/ &rr;c.
+welche so weit von einander entlegen/ daﬂ man
+von einem zum andern giesen oder schr&ue;zen kan/ were
+ein so genanter Wasser Platz am obersten Theil de&sr;
+Dache&sr; mit zwey oder 4. Laden nach vorgestellten
+Modell anzuordnen. Dergleichen ieder armer
+Mann zu ersparung der Unkosten/ au&sr; 6. oder 12.
+Brettern und etlichen wenig Nageln/ unten mit ei-
+ner h&oe;ltzern Wellen an stat der eisern B&ae;nder/ selbst
+machen kan.</p>
+<d4><b>Dieser Wasser Platz dienet
+1. Zur Lust.</b></d4>
+<p><in>J</in>n dem man denselben al&sr; einen Altan gebrau-
+chen/ und bey sch&oe;nen Wetter sich darauff wohl
+&ue;mbsehen kan/ und geschicht doch dem Hauﬂ dadurch
+wie man sonst gemeiniglich erf&ae;hret/ nicht der ge-
+ringste Schade. So gibt auch dieser Wasserplatz
+dem Dach keine frembde Gestalt/ davor sich man-
+cher scheuen m&oe;chte: denn eusserlich solcher nicht
+<bs>A 3</bs><cw>ander&sr;</cw>
+<pb="6."/>
+ander&sr; al&sr; ein gemeine&sr;/ aber etwa&sr; breite&sr;/ Dach-
+fenster au&sr;siehet/ dergleichen ohne da&sr; die meisten
+H&ae;user haben.</p>
+<d4><b>2. Zum Nutz.</b></d4>
+<p>Denn man kan auff diesem (1) sehr bequem an
+der Lufft und an der Sonnen allerley drocknen/ al&sr;
+W&ae;sche/ Korn/ Weitzen/ Obst &rr;c. (2) kan man da&sr;
+Dach &ue;bersehen und &ue;bersteigen/ b&oe;se Schindeln/
+Ziegeln/ Schiffer/ <aq>corrigi</aq>ren. (3) Da&sr; Dach reine
+halten: den Schnee bey zeiten abstosen: die Feuer-
+Mauren besichtigen/ und von oben her fegen &rr;c.</p>
+<d4><b>3. Zur Noht.</b>
+Besonder&sr; in Feuer&sr; Gefahr.
+Denn</d4>
+<li>(1.) So hat man dadurch eine <aq>ordina</aq>rie Stelle/ da
+man sich hin verf&ue;gen/ und so wohl ob und wo
+etwa Feuer sey/ sich &ue;mbsehen; al&sr; auch wenn e&sr;
+in der selbst eigenen Feuer-Mauer/ wie offtmahl&sr;
+geschicht/ sich findet/ strack&sr; gegenwertige Ret-
+tung thun/ nasse T&ue;cher auf da&sr; Dach breiten/
+oder einen darzu bereiteten St&oe;psel den Schlot
+hinab da&sr; Feuer zul&oe;schen stosen kan. Da man
+sonst nicht weiﬂ/ wo man hinau&sr; solle/ und ge-
+het unterdessen grosser Schade vor.</li>
+<cw>(2.) Weil</cw>
+<pb="7."/>
+<li>(2) Weil ohne da&sr; ieder Hauﬂvater oben im Hause
+Wasser haben soll/ so kan solche&sr; am bequeme-
+sten auf diesem Wasser Platz in einem Bottig o-
+der Wanne/ Kessel &rr;c. enthalten und zur Noht
+aufgehaben werden.</li>
+<li>(3) Von diesem Wasser Platz sollen schlechte R&oe;hren
+oder Rinnlein hinunter wert&sr; in alle Stockwer-
+cke und Gem&ae;cher/ oder nur in die Vorgem&ae;cher
+und S&ae;le/ gef&ue;hret werden/ iede mit ihrem Zei-
+chen/ damit/ wenn in diesem oder jenem Gemach
+Feuer entstehet/ man da&sr; bereite Wasser durch
+weggeschlagenen Zapfen strack&sr; in oder vor das-
+selbe Gemach rinnen lassen/ und daselbst in einer
+Stuntze samlen und zur Wehre gebrauchen m&oe;-
+ge. Wolte iemand so viel drauf wenden/ und
+bleyerne oder sonst gute Canale oben in den Was-
+serh&ae;lter ordnen/ welche oben oder unten in de-
+nen Vorgem&ae;chern ieder seinem Wasserhan hette/
+den man nur uff drehen d&ue;rffte/ so were e&sr; de-
+ste bequemer.</li>
+<li>(4) Solte da&sr; Feuer aber in dem Hause &ue;berhand
+nehmen wollen/ daﬂ niemand darinnen sicherlich
+trauen d&oe;rffte/ so kan eine Person so viel m&ue;glich
+durch die Stockwercke in die h&oe;he lauffen/ alle
+Can&ae;le &oe;ffnen/ und auch oben die Laden aufma-
+chen/ &ue;ber da&sr; Dach zum Nachbar steigen (wie
+<cw>denn</cw>
+<pb="8."/>
+denn dadurch in Noth ein Nachtbar gar leicht
+zum andern kommen kan) da denn</li>
+<li>(5) Von der herum liegenden H&ae;user ihren Wasser-
+Pl&ae;tzen auf diesen Wasser-Platz loﬂ gegossen oder
+geschr&ue;tzet werden kan/ von welchem denn sich da&sr;
+Wasser in alle Gem&ae;cher au&sr;theilet/ und da&sr;
+Feuer also innerlich und eusserlich dempffet.</li>
+<li>(6) E&sr; k&oe;nnen auch von den Vor-H&ae;usern auf ne-
+ben- und hinter-H&ae;user/ nur blose doch etwa&sr;
+bedeckte Rinnen angeordnet werden/ von wel-
+chen da&sr; Wasser/ so ohne Gefahr dahin auf
+gebracht worden/ in die niedrige Wasserh&ae;lter
+und Pl&ae;tze ohn einigem Abgang geleitet und ver-
+f&ue;hret werden mag.</li>
+<li>(7) Und stehen also die Personen/ so Rettung thun
+sollen/ auf solchem Wasser-Paltze ring&sr; herum
+umb ein brennende&sr; Hauﬂ viel sicherer/ al&sr; wenn
+sie auf Leitern oder auf Latten und Sparrn ste-
+hen solten: k&oe;nnen auch dahero viel kr&ae;fftiger
+Rettung thun: Jhnen kan auch bequemer <aq>suc-
+cur</aq>rirt/ und sie abgel&oe;set/ oder mit genugsamen
+Wasser versorget werde.</li>
+<li>(8) Jm Winter muﬂ der Wasserh&ae;lter also leer
+nur in Bereitschafft stehen/ wie auch die bey
+nachfolgendem Vorschlag dahin aufgef&ue;hrten
+R&oe;hren.</li>
+<cw><b><aq>II.</aq> Der</b></cw>
+<pb="9."/>
+<d3><b>Der <aq>II.</aq> Vorschlag.</b></d3>
+<d4><aq>I.</aq></d4>
+<p><in>D</in>ie meisten (wo nicht alle) Hauﬂv&ae;ter solten
+mit einem leichten <fr>Wasserdruck</fr> versehen
+seyn/ dergleichen auf da&sr; k&ue;rtzeste/ best&ae;ndigste und
+kr&ae;fftigste die nach vieler dem <aq>publico</aq> zum besten
+aufgewendeter M&ue;he und Kosten erfundene Was-
+ser Kunst darstellet. Dero erste W&ue;rckung ist/
+daﬂ man da&sr; Wasser/ so unten im Hauﬂ oder
+im Hof/ oder vor der Th&ue;r/ in einem Gef&ae;sse gesam-
+let/ oder sonst vorbey leufft/ vermittel&sr; gewisser be-
+st&ae;ndiger/ wohlverwahrter/ und auf eine sonderli-
+che Art eingefaster R&oe;hren/ bi&sr; oben hinauf in
+den Wasser-Platz/ mit H&ue;lff einer einigen Person/ so
+offt e&sr; von n&oe;then oder beliebig/ treibet: Und sind
+solche R&oe;hren dem Hause gantz unsch&ae;dlich.</p>
+<p><c>Dadurch denn</c></p>
+<li>(1) mit trefflicher Geschwindigkeit da&sr; Wasser in
+der H&oe;he zu finden.</li>
+<li>(2) so viel Handlanger ersparet/ und die Gefahr
+auf den Leitern verh&ue;tet wird/ daﬂ nun zwey
+Personen so viel Wasser in die H&oe;he bringen
+k&oe;nnen/ al&sr; sonst 20. oder mehr.</li>
+<li>(3) Gehet die Rettung gantz ohne <aq>confusion</aq> von
+<bs>B</bs><cw>stat-</cw>
+<pb="10."/>
+statten/ und ist kein Schade wegen de&sr; Ge-
+f&ae;se&sr; zu besorgen.</li>
+<li>(4) Kan dergleichen Wasserdruck auch durch die
+engesten Treppen hinauf zu den Wasserplatz
+durch zwey Personen getragen/ und dadurch
+von daran ring&sr;herum da&sr; Wasser kr&ae;ffti-
+glich fort geschr&ue;tzet werden.</li>
+<d4><aq><g>II.</g></aq></d4>
+<p><in>W</in>eil aber auf die Feuer-Wehr die Leute vor sich
+gemeiniglich nicht ehe dencken/ al&sr; wenn die
+Gefahr vorhanden: so ist diese Wasser Kunst auch
+also angeordnet worden/ daﬂ sie einen t&ae;glichen Ne-
+ben Nutzen gibt/ we&sr;wegen keiner leichtlich seyn
+wird/ welcher dergleichen Hauﬂrath in seinem Hau-
+se sich/ auch nur deﬂwegen/ nicht w&ue;nschen solte.
+<c>Denn</c></p>
+<li>(1) ist diese Wasser Kunst gar leicht von einem Ort
+zum andern/ auch nur durch eine einige Per-
+son/ wegen ihrer seit&sr;wert&sr; angef&ue;gten Rol-
+len/ zubringen. Dahero man solche in den
+Garten mit hinau&sr;nehmen/ und draussen mit
+sonderlichem Vorthel die Gew&ae;chse und den
+gantzen Garten sprengen kan.</li>
+<li>(2) Wenn man die Wasserkunst wieder in&sr; Hauﬂ
+bringet/ wird sie nur an die daselbst gesetzte
+R&oe;hren mit ihrem Rohre angestossen/ da
+<cw>denn</cw>
+<pb="11."/>
+denn/ wenn man dr&ue;cket oder hebet/ da&sr; Was-
+ser nach und nach in die H&oe;he zum Was-
+serbeh&ae;ltni&sr; oben in den Wasserplatz steiget/
+von dannen e&sr; zum t&ae;glichen Gebrauch in
+alle Gem&ae;cher durch obenbeschriebene Cana-
+len/ wenn der Hahn aufgethan/ rinnet.</li>
+<li>(3) Giebt e&sr; die sch&oe;nste Gelegenheit allerhand
+hoch oder mittelm&ae;ssig springende Brunnen
+im Hau&sr; oder im Garten zu <aq>pr&00E6;senti</aq>ren/
+dadurch die Gem&ae;cher im Sommer fein k&ue;hl
+und frisch gemachet werden k&oe;nnen.</li>
+<li>(4) Da&sr; Wasserbeh&ae;ltni&sr; oben auf dem Wasser-
+Platz wird also angeordnet/ daﬂ da&sr; &ue;brige
+Wasser/ wenn mehr und l&ae;nger/ al&sr; von n&oe;-
+then/ gedrucket wird/ durch einen sonderlichen
+Canal entweder &ue;ber da&sr; Dach herab in den
+Hoff oder auf die Gasse lauffe.</li>
+<li>(5) E&sr; kan auch einer seinem Nachbar/ wel-
+cher keine solche Wasserkunst hat/ umb einen
+gewissen Preiﬂ den Abfall &ue;berlassen/ und
+ein solche&sr; Werck etliche her&ue;m liegende H&ae;u-
+ser versorgen/ daﬂ nur in einem Hauﬂ/ oder
+auf einem gemeinen Platz/ unten gedrucket
+wird/ und oben au&sr; dem Castel durch abson-
+derliche Canalen oder blosse Rinnen/ in an-
+dere H&ae;user da&sr; Wasser sich zertheilet.</li>
+<bs>B 2</bs><cw><aq>III.</aq></cw>
+<pb="12."/>
+<d4><aq>III.</aq></d4>
+<p><in>W</in>Enn da&sr; Holtz und alle&sr; nach <aq>Proportion</aq>
+st&ae;rcker gemacht wird/ so giebt e&sr; einen so ge-
+nannten schweren Wasserdruck/ al&sr; eine starcke ein-
+fache oder gedoppelte Feuer-Spr&ue;tze/ welche aber
+aller obbeschriebenen M&ae;ngel und Beschwerlig-
+keiten frey ist.</p>
+<li><c>Denn</c></li>
+<li>(1) Kostet sie nicht &ue;ber 100. G&ue;lden/ wenn sie
+auf da&sr; st&ae;rckeste gemacht wird/ daﬂ sie mit
+grosser <aq>force</aq> &ue;ber die hohen H&ae;user gehe:
+kan auch wohl mit 20. Thl. zu guten <aq>effect</aq>
+gebracht werden.</li>
+<li>(2) Jst sie von einer oder zwey Personen gantz
+leicht fort zu bringen.</li>
+<li>(3) Gehet der Druck gantz <aq>perpendicular:</aq> der
+da&sr; Rohr wendet ist gantz ausser Gefahr:
+der vielwendige Kropff ist abgeschafft/ und
+schiesset da&sr; Wasser nur in einer einigen wei-
+ten Kr&ue;mme durch ein dreyellichte&sr; Rohr oh-
+ne Hindern&ue;&sr; gantz gerad hinau&sr;. We-
+der Stiefel noch Rohr kan leichtlich zersprin-
+gen/ oder so wie Metall zerbrochen werden:
+Die Ventile sind beysammen/ und k&oe;nnen al-
+lezeit/ wenn da&sr; Werck/ nachdem e&sr; gebraucht
+worden/ wieder aufgehaben werden soll/ auf ei-
+<cw>nen</cw>
+<pb="13."/>
+nen Zug gantz leicht und ohne Schaden her-
+au&sr;gezogen und besonder&sr; verwahret/ auch
+eben so leicht/ so bald e&sr; von n&oe;then/ wieder
+hinein gestecket werden; dadurch da&sr; Werck
+gantz ohne Schaden immerfort tauren/ und
+der Stiefel und Kasten unverstocket bleiben
+kan.</li>
+<d3><b>Der dritte Vorschlag.</b></d3>
+<d4>1.</d4>
+<p><in>W</in>Jewohl beyde vorher gesetzte Vorschl&ae;ge zur
+Noth/ und so viel un&sr; Menschen m&ue;glich/ ge-
+nugsamen Wiederstand zu thun scheinen; so solte
+doch nicht unbequem herau&sr; kommen/ wenn der-
+gleichen in einem Hau&sr; oder an gemeinen Orten
+angeordnete&sr; Werck gleichsam von sich selbst gien-
+ge/ daﬂ ohne einem bestellten Drucker oder Heber
+mit einem <aq>extraordinar</aq> Mittel durch anderweiti-
+ge Krafft e&sr; immerfort zu gehen angeordnet werden
+k&oe;nte.</p>
+<d4>2.</d4>
+<p><in>D</in>Jese&sr; kan sich nun wohl auf zweyerley Weise
+schicken. (1) <aq>occasionaliter</aq> und zuf&ae;llig/ wenn
+nehmlich die Th&ue;ren in einem Hause/ da man eine
+&ue;mb die andere offtmahl&sr;/ wo viel Leute au&sr; und
+eingehen/ auf und zumachet/ mit verf&ue;hreten Schie-
+<bs>B 3</bs><cw>be-</cw>
+<pb="14."/>
+be-Rollen also angeordnet werden/ daﬂ wenn ie-
+mand eine Th&ue;r aufmachen will/ er eben dadurch
+ein St&ue;ck von der bewegenden Krafft unvermer-
+cket in die H&oe;he hebet und gleichsam aufziehet.
+Wie solche&sr; durch ein Modell am besten vorzustel-
+len. Dergleichen auch in einem Thor/ wodurch viel
+Wagen zu fahren haben/ mit einer quer &ue;ber ge-
+legten beweglichen Schwellen zu <aq>practici</aq>ren/ wel-
+che wenn sie nur allzeit einen halben Schu von ie-
+dem Rad/ da&sr; dr&ue;ber gehet/ niedergedrucket zu wer-
+den angeordnet ist/ so kan dadurch nach Beschaf-
+fenheit der Last da&sr; Gewichte zwey oder mehrmahl
+so hoch unvermerckt gehoben werden.</p>
+<d4>3.</d4>
+<p><in>S</in>O k&oe;nte man auch an gemeinen Orten/ al&sr;
+an den Rathh&ae;usern/ Kircheth&ue;rnen und an-
+dern/ eine stet&sr;wehrende doch ungef&ae;hrliche Tschau-
+kel oder einen Schwengel machen/ dahin die un-
+m&ue;ﬂige Jugend/ wenn sie ohne da&sr; zu spielen su-
+chet/ sich begeben und solchen Schwengel mit Lust
+treiben k&oe;nte/ daﬂ also durch blosse&sr; zul&ae;ssige&sr;
+Spielen der Jugend/ (welche&sr; auf gewisse Maﬂ
+einzuschrencken were/ damit keine <aq>Excess</aq> dabey
+vorgienge) ein gemeine&sr; Werck getrieben/ und also
+de&sr; Tage&sr; so viel aufgezogen werden k&oe;nte/ daﬂ
+e&sr; die gantze Nacht vor sich weiter gehen m&oe;chte.
+<cw>Wel-</cw>
+<pb="15."/>
+Welche&sr; denn die wenigsten Unkosten erfordern
+w&ue;rde.</p>
+<d4>4.</d4>
+<p>(2) <aq><in>A</in>rtificialiter</aq> aber und k&ue;nstlich/ doch dabey
+desto kostbarer/ wo nicht stet&sr; fliessende&sr; Wasser vor-
+handen/ kan eine sonderliche <aq>Machina</aq> zubereitet
+werden/ durch welche/ wenn sie vom Wind oder von
+dem in Canalen gefasseten Regenwasser nur zu ei-
+niger Zeit im Jahr einmahl aufgezogen worden/
+man die stet&sr;wehrende Treibung zuwege bringen
+kan. Dergleichen Kunstwercke denn bi&sr;anhero von
+unterschiedenen erfunden worden.</p>
+<d4>5.</d4>
+<p><in>E</in>Jne sonderlich bequeme/ mittelm&ae;ssiger Kosten/
+welche ohne Rauschen da&sr; Wasser immerfort
+in die H&oe;he treiben mag/ ist in dem beschriebenen
+Wasserschatz angef&ue;hret/ welche zu solchem Ende
+am besten anzubringen w&ae;re.</p>
+<d4>6.</d4>
+<p><in>W</in>Eil aber eine solche stet&sr;wehrende Bewegung
+nicht so wohl zur Rettung in Feuer&sr;brunst/
+al&sr; zum t&ae;glichen Gebrauch und sonderbahrer
+Bequemligkeit/ Lust- und Ergetzligkeit dienet; so
+kan man dieselbe besonder&sr; in <aq>consideration</aq> neh-
+men/ und von diesen zur Rettung in Feuer&sr;-Ge-
+fahr vornehmlich gethanen Vorschl&ae;gen unterdessen
+<aq>separi</aq>ren.</p>
+<cw>Wir</cw>
+<pb="16."/>
+<p>Wie nun dergleichen Wasser-Werck und Feuer-
+Wehren gesamten St&ae;dten/ ja vielmehr auch ein-
+zelen und mit wenig Volck bewohnten H&ae;usern/
+Schl&oe;ssern und G&ue;thern/ sehr n&ue;tzlich und ersprieﬂ-
+lich seyn k&oe;nnen/ in Betrachtung/ daﬂ dadurch nicht
+allein in Feuer&sr;-Gefahr/ von der untern Wasser-
+samlung an/ mit 2. Mannen so viel Rettung ge-
+schehen kan/ al&sr; sonst kaum mit 20. sondern auch
+ausser der Gefahr/ wa&sr; man zum t&ae;glichen Gebrauch
+von frischem Wasser von n&oe;then/ ohne Gesinde&sr;
+Hand/ so biﬂweilen verschicket wird/ in der H&oe;he
+nur durch auf zudrehende Hanen vorhanden ist;
+so hab ich meine wenige Gedancken davon dem
+gemeinen Wesen zum Behuff/ dazu ein ieder ohne
+da&sr; verpflichtet/ au&sr; treuer Meynung besonder&sr;
+an Tag zu geben nicht Umbgang nehmen sollen/
+wie denn mit meinem wenigen Talent iederman
+nach M&oe;gligkeit zu dienen ich mich nicht weniger/
+al&sr; andere/ schuldig zu seyn erkenne.</p>
+<p><in>D</in>Er allm&ae;chtige Gott verhelffe/ daﬂ e&sr; derglei-
+chen Kunstwercke zur Noth an keinem Orth
+bed&oe;rffe; sondern die dem <aq>publico</aq> so wohl anst&ae;n-
+dige al&sr; n&oe;thige Vorsorge hierinnen nur zum h&ae;uﬂ-
+<c>lichen Nutzen und steter Belustigung &ue;berall
+und allezeit fruchtbarlich au&sr;schlagen
+m&oe;ge.</c></p>
+<cw><b>Zugabe.</b></cw>
+<pb>
+<abb>
+<pb>

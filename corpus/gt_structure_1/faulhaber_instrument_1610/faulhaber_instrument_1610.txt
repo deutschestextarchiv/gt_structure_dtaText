@@ -1,0 +1,1244 @@
+<pb>
+<abb>
+<front>Newe
+Geometrische vnd Perspectiui-
+sche <aq>Inuentione&sr;</aq>
+<b>Etlicher sonderbahrer In-
+strument/ die zum Perspectiuischen
+Grundreissen der Pasteyen vnnd</b> Vestun-
+gen/ wie auch zum Planimetrischen Grundlegen
+der St&ae;tt/ Feldl&ae;ger vnd Landtschafften/ deﬂgleichen
+zur B&ue;chsenmeisterey sehr n&ue;tzlich vnnd ge-
+brauchsam seynd.
+<b>Auﬂ demonstriertem vnnd bewehr-
+tem Fundament zusammen geordnet/ vnd</b>
+mit verst&ae;ndlichen Kupfferst&ue;cken in
+Truck gegeben:
+Durch
+<b>Johann Faulhabern Rechenmeistern vnd</b>
+Modisten/ &rr;c. in Vlm.
+Getruckt zu Franckfurt am Mayn/ bey Wolff-
+gang Richtern/ in Verlegung Anthonj
+Hummen.
+<hr>
+<aq>M. DC. X.</aq></front>
+<pb>
+<front><k><aq>Ex
+Bibliotheca
+Regia Acad.
+Georgi&00E6;
+Aug:</aq></k></front>
+<front><aq>Digitali&sr;iert dank
+freundlicher Unter&sr;t¸tzung
+von
+<b>Gi&sr;ela Lei&sr;&sr;e</b>
+<hr>
+www.DigiWun&sr;chbuch.de</aq></front>
+<pb>
+<d1><b>Dem Edlen/ Vesten
+vnnd Weysen Junckhern/ Wilhelm
+Schn&oe;den/ deﬂ Rath&sr;/ vnd verordneten Zeug vnd</b>
+Bawher&rr;n/ &rr;c. zu Vlm/ Meinem Groﬂg&016F;nstigen vnd
+gepietenden Junckhern.</d1>
+<abb>
+<p><b><in>E</in>Dler Vester/ &rr;c. Groﬂg&ue;nstiger</b>
+Junckher/ E&sr; ist m&ae;nniglich kundtbar/
+wa&sr; die Geometrische vnd Perspectiui-
+sche K&016F;nsten/ in Baw vnd Krieg&sr;wesen
+<bs>A ij</bs><cw>f&ue;r</cw>
+<pb="4"/>
+<kt>Vorrede.</kt>
+f&ue;r grossen mercklichen Nutzen schaffen/ vnd dero-
+wegen die jenige/ so selbige wissen fruchtbarlich zu
+adhibiren/ jeder zeit von grossen Her&rr;n vnnd Com-
+munen lieb vnd werth gehalten worden. Nun seynd
+darunder die gebr&ae;uchlichste vnnd nutzbarste/ da&sr;
+Grundlegen/ abmessen vnd perspectiuisch Reissen/
+dieweil ohne Gebrauch derselben die Baw: Quar-
+tier: Schantz vnnd B&ue;chsenmeister jhre Anschl&ae;g
+nicht w&ue;rcklich in&sr; Werck setzen vnd bringen m&oe;gen.
+Wann dann der liebe Gott durch die Mathematic
+mir (ohne Ruhm zu melden) etlicher geheimer In-
+strumenten Nutz vnd Gebrauch zu ergreiffen geben/
+vnd aber <aq>omne bonum sui sit communicatiuum,</aq>
+vnd beyneben r&ae;thlich vnd f&oe;rderlich ist/ daﬂ die je-
+nige/ welche etwa&sr; publiciren w&oe;llen/ jhnen nach
+Patronen vmbsehen/ denen sie solche&sr; dediciren vnd
+zuschreiben/ darmit sie selbige&sr; wider die Vnverst&ae;n-
+dige vnd Miﬂg&ue;nstige beschirmen vnd handhaben/
+In massen e&sr; die ber&ue;hmbteste <aq>Authore&sr;</aq> auch f&ue;r
+gut angesehen/ daﬂ sie jhre <aq>Inuentione&sr;</aq> vnd <aq>Lucu-
+bratione&sr;</aq> solchen Personen zugeschrieben/ die nicht
+allein darzu lust vnd lieb/ sondern auch derselben
+nicht ein geringe Wissenschafft vnd Erfahrung ge-
+habt/ So hab ich demnach nicht vnterlassen sollen/
+noch w&oe;llen/ diese newe St&ue;cklein E. V. vnd Gun-
+sten Censur gantz gehorsamlich zu subijciren vnd de-
+diciren. Vnd da&sr; zwar auﬂ folgenden Vrsachen.</p>
+<cw>Die-</cw>
+<pb="5"/>
+<kt>Vorrede.</kt>
+<p>Dieweil m&ae;nniglich diﬂ Orth&sr; bewust/ wa&sr; sel-
+bige nicht allein f&ue;r ein grossen Lust vnd Begierd zu
+den Mathemanschen/ Geometrischen/ Perspectiut-
+schen vnd dergleichen K&ue;nsten tragen/ vnd derent-
+halben allen denen welche solche profitiren oder exer-
+ciren mit sondern Gunsten wol gewogen sind son-
+dern auch der#n selbst vollkommene Cognition vnd
+Experientz haben/ wie dann da&sr; hiesig Bauwesen/
+vnd die zween wunderbarliche Proportz vnd Meﬂ-
+zirckel/ so E. V vnd Gimsten selber neben andern
+Dingen erfunden/ gnugsam zu erkennen geben.</p>
+<p>Weil auch selbige seythero sie meine <aq>Inuentione&sr;</aq>
+verstanden/ vnnd just befunden/ mir viel Wol-vnd
+Gutthaten erzeigt vnd bewiesen/ mit dem/ daﬂ die-
+selbe mir zu meinen f&ue;r genommenen Instrumenten
+allerley Bef&oe;rderung gethan/ vnd zur Fundierung
+solcher mit mir die Prob f&ue;r die Handt genommen/
+die Instrument darauff gleich von Messing k&ue;nst-
+lich zugerichtet/ daran E. V. vnnd Gunsten hoher
+Verstand vnd Scharpffsinnigkeit handgreifflich zu
+sp&ue;ren. Zu dem hat selbige mir vor ber&ue;rte Newer-
+fundene Zirckel/ <aq>Sph&00E6;ram C&0153;lestem</aq> vnnd <aq>Terre-
+strem</aq> von Messing artlich zubereitet/ deﬂgleichen
+k&ue;nstliche Quadranten/ Nocturnal vnnd andere
+mehr Instrument/ Groﬂg&ue;nstig verehrt/ Also daﬂ
+ich solche Beneficien nicht gnugsam r&ue;hmen/ viel
+weniger wider verdienen kan/ darmit ich aber ein
+<bs>A iij</bs><cw>wenig</cw>
+<pb="6"/>
+<kt>Vorrede.</kt>
+wenig mein danckbare&sr; Gem&ue;th erzeige/ hab ich
+mich schuldig erke&tn;t diﬂ <aq>opusculum</aq> E. V. vnd Gun-
+sten hiemit gehorsamlich zu offeriren vnd zu dedici-
+ren/ vnterth&ae;nig bittend solche&sr; Groﬂg&016F;nstig von
+mir auff vnd an zu nemen/ vnd hinf&ue;rter mein groﬂ-
+g&ue;nstiger Junckher seyn vnd bleiben/ darmit densel-
+ben zu lang best&ae;ndiger Wolfahrt/ Gl&016F;ckseligkeit
+vnd Gesundheit Gott dem Allm&ae;chtigen befehlend/
+vnd mich zu derselben Gunst vnd Diensten recom-
+mendirend. Datum in Vlm den 24. Septembri&sr;.</p>
+<date>Anno <g>1609</g>.</date>
+<clos><et>E. Vest vnd Gunsten
+Gehorsamer:
+<b>Johann Faulhaber Rechen-
+meister vnd Modist/ &rr;c.</b></et></clos>
+<cw><b>An den</b></cw>
+<pb="7"/>
+<hr>
+<d1>An den Leser.</d1>
+<p><b><in>G</in>Vnstiger kunstliebender Leser/</b>
+e&sr; ist von vielen ansehnlichen Authorn/ der
+f&ue;rtreffliche <aq>Mathematicu&sr; Archimede&sr;,</aq>
+wegen wunderbarer Erfindungen Mathematischer
+Instrumenten/ sehr hoch ber&ue;hmpt worden. Dan-
+nenher selbiger/ al&sr; er dem K&oe;nig Hieroni in Sicilia
+die Prob vor dessen Augen/ mit einem newerfunde-
+nen Krieg&sr; vnd Schiff&sr; Instrument hatte gethan/
+sehr lieb v&tn; angenehm worden Ob nu wol zu vnsern
+Zeiten die Mathematische/ Geometrische vnd Per-
+spectiuische K&016F;nsten so hoch gestiegen/ daﬂ man ver-
+meynt selbige k&oe;nnten nicht h&oe;her steigen/ vnnd et-
+wa&sr; weiter&sr; darinnen erfunden werden: erweiset
+doch die t&ae;gliche Erfahrung/ daﬂ GOtt dem ge-
+meinen Nutzen zum besten/ von tag zu tag den Men-
+schen sonderbare <aq>ingenia</aq> gibt/ dardurch sie immer-
+dar weiter&sr; kommen/ vnnd zu allerhandt Sachen
+leichtere Weg finden: Deﬂwegen die sehr vnrecht
+thun/ so vnbesonnen newe Mittel vnd Weg verach-
+ten/ wiewol sie die niemal&sr; probiret/ ja offt gar nicht
+verstehen.</p>
+<p>Weil ich dann Anno 1604. mit G&oe;ttlicher H&ue;lff
+vnnd Gnad etliche newe Polygonalische <aq>Inuentio-
+ne&sr;</aq> hab auﬂgehen lassen/ welche den Kunstliebenden
+<cw>nicht</cw>
+<pb="8"/>
+<kt>An den Leser.</kt>
+nicht vnangenemb gewesen: darbey aber gesp&ue;rt/
+daﬂ solche subtile <aq>qu&0119;stione&sr;</aq> den kunstreichen Rech-
+nern vnnd Cossisten allein/ vnd gemeinen Leuthen
+nicht/ tauglich seynd/ so bin ich demnach verursacht
+worden/ neben meinem anbefohlenen Beruff/ mich
+auch in solchen Dingen zu &ue;ben/ welche dem gemei-
+nen Wesen bequem vnd ersprieﬂlich seyn m&oe;chten:
+Vnd also vermittelst G&oe;ttlicher Gnad/ vber die In-
+strument/ welche du hieri&tn;en sehen vnd finden wirst
+noch mehrer&sr; erfunden/ Sonderlich aber ein gar
+leichte&sr; Instrument/ darmit man nicht allein aller-
+hand Abmessungen vnd Wasserleitungen/ auff ei-
+nen newen vnd gar geschwinden biﬂhero vnbekand-
+ten <aq>Modum</aq>/ ohne alle Rechnung/ just obseruiren/
+sondern auch eine gantze Statt/ Landt/ Her&rr;schafft/
+Feldtl&ae;ger vnd Quartier auff zweyen oder mehr
+St&ae;nden/ in Grundt legen vnd hernach auffreissen
+kan: Vnd doch solche&sr; Instrument mit sehr geringem
+Vnkosten kan zubereitet werden. Deﬂgleichen ein
+n&ue;tzlich Instrument/ darmit man eine Statt inn
+vnd ausser den Rinckmauren/ so man auff zweyen
+Th&ue;rnen oder sonsten nit vbersehen kan/ durch ein
+Anschlag/ leichtlich auch in Grund legen kan/ ob
+schon solch Instrument weder Theilung/ Grad noch
+Magnet hat. Wo ich nun lieber Leser mit diesen In-
+strumenten/ deren Gebrauch ich auff&sr; k&ue;rtzest so
+m&oe;glich/ vnd darzu in eyl/ verfast/ dir dienlich seyn
+<cw>werde/</cw>
+<pb="9"/>
+<kt>An den Leser.</kt>
+werde/ so kan ich mitler zeit/ geliebt&sr; Gott/ dir den
+Nutzen derselben etwa&sr; weitl&ae;ufftiger&sr; an die Hand
+geben/ darzu verhoffe ich dir den <aq>Vsum</aq> Daniel
+Specklin&sr;/ gewesenen Bauwmeister&sr; zu Straﬂ-
+burg/ vnd anderer Ingenien/ Instrumenten/ auff
+ein andere Weiﬂ/ weder sie beschrieben/ zu zeigen
+vnd zu er&oe;ffnen. Entzwischen da du dergleichen Sa-
+chen/ vnd andere/ noch zur zeit gar geheime vnd ver-
+borgene Instrument/ (darvon aber in diesem Tra-
+ct&ae;tlein gar keine Anregung geschicht) von mir im
+Vertrawen zu lernen begerest/ kanst du e&sr; bey mir
+wol beko&tm;en/ F&ue;rnemlich/ wie alle Geb&ae;w/ St&ae;tt/
+Feldtl&ae;ger vnnd Landtschafften/ auff einem einigen
+Stand/ nicht allein in Grundt gelegt/ sondern auch
+Perspectiuisch auffzuziehen/ vnd in warer vnfehlba-
+rer verj&ue;ngter Proportion f&ue;r die Augen zu reissen/
+Deﬂgleichen/ wie auff ein newe Weiﬂ/ heimliche
+verborgene vnd wunderbare G&ae;ng vnder der Er-
+den/ so wol im Berckwerck/ al&sr; Pasteyen vnd Ve-
+stungen/ zu vnversehnem Auﬂfallen/ retrahiren/
+vntergraben/ vnd zersprengen/ &rr;c. vnfehlbar vnnd
+gewiﬂ k&oe;nnen gemacht werden. Im fall aber in den
+Kupffern/ welche Hanﬂ Carl von N&ue;rmberg/ vn-
+ter seiner Weil gradiert vnd gestochen/ oder sonsten
+etwa&sr; vbersehen worden/ wolle der g&ue;nstige Leser
+<aq>candide</aq> corrigieren/ dieweil vnter den t&ae;glichen <aq>la-</aq>
+<bs>B</bs><cw><aq>bori-</aq></cw>
+<pb="10"/>
+<kt>An den Leser.</kt>
+<aq>boribu&sr;</aq> baldt geirret werden kan. Der Allm&ae;chti-
+ge GOtt w&oe;lle vn&sr; s&ae;mptlich seine Gnad verleyhen
+vnd geben/ daﬂ wir seine Gaaben nicht miﬂbrau-
+chen/ sondern mit danckbarkeit erkennen vnd zu deﬂ
+Nechsten Wolfahrt heylsamlich anlegen/ dich in deﬂ
+<c>H&oe;chsten Schutz vnd Schirm trew-
+lich befehlend.</c></p>
+<sp_b><abb></sp_b>
+<cw><g><aq>AD NO-</aq></g></cw>
+<pb="11"/>
+<hr>
+<d1><aq><g>AD NOVORVM EX-
+QVISITORVMQVE MATHEMA-
+TICORVM INSTRVMENTORVM INDAGATO</g>-
+rem, virum honestissimum ornatissimumque <g><k>Dn. Ioannem
+Favlhabervm</k></g> vt Logistam acutum ita Geome-
+tram eximium Epigramma
+<g>IOANNIS REMMELINI PH. ET MED. DO-
+CTORIS, COMPATRIOT&00C6;</g>.</aq></d1>
+<poem><aq><in>Q</in><i><g><k>Vid</k></g> tibi vi&sr; scribam? memorem quid carmi-
+<et>ne laude&sr;</et>
+Ipse tua&sr; longo? non opu&sr; esse reor.
+Nam quid Pythagor&00E6; pr&00E6;stantiu&sr; arte? quid opte&sr;
+Maiu&sr;, quam radij nosse latenti&sr; opu&sr;?
+Qui&sr; non artifici&sr; suspexerit illiu&sr; arte&sr;,
+Qui specula lustran&sr; optica tela vibrat?
+Mir˘m te quod <g><k>Iane</k></g> poten&sr; Natura beauit!
+Qu&00F4; tibi retrusa&sr; perplacet ire via&sr;!
+Viuax ingenium! primi&sr; splendesci&sr; ab anni&sr;!
+(At nequeunt qu&00E6; sunt magna latere diu.)
+Hinc labor hic quid messi&sr; Lector amande? frequenti
+Sedulu&sr; attrectan&sr; experi&00EA;re manu.
+Si chymici lapidi&sr; miraculum dixero, falsu&sr;
+Non videar? plu&sr; at nobilitati&sr; habet.
+Non tamen &amp; facili sunt h&00E6;c inuenta labore,
+PrÚh qu‡m sollicitum condidit auctor opu&sr;!</aq></i>
+<bs><i><aq>B 2</aq></i></bs><cw><i><aq>Inge-</aq></i></cw>
+<pb="12"/>
+<i><aq>Ingenij non sunt humani viribu&sr; ista
+Eruta, sed summi munera nota <g><k>Dei</k>,</g>
+Excitat ingenua&sr; Heroa&sr; in artibu&sr; ille
+Nec mersa&sr; tenebri&sr; qua&sr; dedit esse sinit.
+Quam dederit varia&sr; diuin&00E6; Palladi&sr; arte&sr;,
+Hoc &amp; doctorum posthuma scripta probant.
+Artibu&sr; inuenti&sr; celebri&sr; sit docta vetusta&sr;,
+Ne modo lau&sr; studii&sr; desit, honorque noui&sr;.
+Nam vulgata haud nunc apponi&sr; lane sed addi&sr;.
+Artifice&sr; summo&sr; qu&00E6; latuisse patet,
+Antiqui&sr; ignota viri&sr;, mirandaque nostri
+Tempori&sr; ingenii&sr;, suspiciendu&sr; eri&sr;.
+At valeat liuor, pauci&sr; licet ista probentur,
+Sufficiet docti&sr; si placu&00EA;re viri&sr;.
+Rustica turba tibi non fa&sr; mysteria tanta
+Nosse, Euclid&00E6;i h&00EE;c fonti&sr; origo nitet.
+Ergo sorte tua gaude si&sr; nomine claru&sr;,
+Clara vetat, casso lumine, Musa mori.
+Euge Mathematica&sr; sic perge industriu&sr; arte&sr;,
+Excolere, &amp; studii&sr; velle iuuare tui&sr;.
+Aurea nam quondam Themido&sr; te puncta salutent,
+Ingenij dote&sr; h&00E6; meru&00EA;re typum,
+Sic quo c&0153;pisti stadio decurre, beabunt
+Sic te doctorum candida iudicia.
+Sic te maior hono&sr;, sic pr&00E6;mia larga manebunt,
+Sic laudi&sr; ver&00E6; vera corona datur.</aq></i>
+<cw><i><aq>Sic</aq></i></cw>
+<pb="13"/>
+<i><aq>Sic perga&sr; tecum tua gloria pergere crescet,
+Non quiui&sr; tant&00E6; munera menti&sr; habet.
+H&00E6;c lau&sr; est Morti&sr; nunquam visuraruinam
+Nil &amp; in hanc Fatum aut Parca seuera potest,
+Quod superest charo&sr; me posthac inter amico&sr;
+Et patiare locum nomen habere meum.
+Sic quoque semper ero meritorum debitor vsque,
+Clara&0071;&0301;ue inoblita munera mente geram.
+Interea tenue&sr; lusi quo&sr; accipe versu&sr;,
+Accipe qu&00E6;so boni consule viue valo.</aq></i></poem>
+<poem><c>&03A0;#&03C2; &03C4;&1F78;&03BD; &1F11;&03B1;&03C5;#&1F78;&03BD; &03C4;&03B9;#&03AC;&03C2;#&03C7;&03BF;&03BD;.</c>
+<in>&0394;</in>&1FF6;#&03BD; # &03BA;#&03B9;&03C2;&03BF;&03BD; # &03C4;&03B9;&03BC;&03B7;&03AD;#&03B1;#&03BF;&03BD; &1F10;&03C2;&1F76;&03BD;
+#&03C1;&03B3;&03B1;&03BD;&03B1; &1F40;&03C1;&03B3;&03AC;&03BD;&03C9;&03BD;; &1F04;&03BC;&03C6;&03C9; &1F14;&03C7;#&03C3;&03B9; &03BA;&03B1;&03BB;&1FF6;&03C2;.
+#&039F;&03C5;&03BA;#&03BD;, &1F10;&03BD; &03BA;&03B1;&03C1;&03B4;&03B9;#&03C3;&03C4;&03BD; &03C6;&03AF;&03BB;&03C9;&03BD; &03C6;&03AF;&03BB;&03C4;&03B9;&03C2;&03B5; &1F70;&03BD;&03CE;&03B3;#
+&03C6;&03AF;&03BB;&03C4;&03B1;&03C4;&03B5; &1F00;&03BD;#&03CE;&03C0;&03BF;&03B9;&03C2;, &03C6;&03AF;&03BB;&03C4;#&03C4;&03B5; &1F20;&03B4;&1F72; #&03B5;&1FF7;.</poem>
+<p><c><aq>Eidem, Anagrammatismu&sr;
+<i><g>CHRONODISTICHO ANNVM, MEN-
+SEM ET DIEM &00C6;DITI OPERIS REVE</g>-
+lante inclusu&sr;</i>.</aq></c></p>
+<p><c><aq><i>Ioanne&sr; Faulaberu&sr;
+An lau&sr; fauere boni&sr;.</i>
+ECCe VIrI&sr;, LIbr&00E6;hIC VbI ter seX &sr; VstInet ort V&sr;
+SoL, DeDeCV&sr; tIbI, La V&sr; an&0071;&0301; Vefa Vere bonI&sr;?</aq></c></p>
+<bs><i><aq>B 3</aq></i></bs><cw><i><g><aq>IN</aq></g></i></cw>
+<pb="14"/>
+<hr>
+<d1><i><aq><g>IN OPVS EGREGIVM IN-
+GENIOSISSIMI VIRI, DOMINI IOAN-
+NIS FAVLHABERI VLMENSIS MATHEMA</g>-
+tici insigni&sr;, &amp;c.</aq></i></d1>
+<poem><aq><in>Q</in><g><k>Vi</k></g> Mathematicam callent; dextrÈque
+<et>propagant</et>
+Et Geometriam; munera magna
+<et><g><k>Dei</k></g>,</et>
+Que&00EE;&sr; longum &amp; latum terra&sr; vrbes&0071;&0301;; metiri
+Possumu&sr;, &amp; summi sydera celsa Poli.
+Hi sibi perpetuam laudem&0071;&0301;; decus&0071;&0301;; parabunt
+Egregium, docti&sr; non reticenda viri&sr;.
+Ergo nunc grate&sr; tibi, <g><k>Favlhabere</k></g>, sonemu&sr;,
+Qui nobi&sr; pr&0119;sta&sr; munera grata, vale.</aq></poem>
+<p><et><i><aq>M. Simon Retter, Gymnasii
+Nordlingensi&sr; Rector, f.</aq></i></et></p>
+<cw><g><aq>IN</aq></g></cw>
+<pb="15"/>
+<hr>
+<d1><g><aq>IN IDEM.</aq></g></d1>
+<poem><aq><in>E</in><i><g><k>S&sr;e</k></g> quid hoc dicam, quod s&00E6;pË, hic quicquid
+<et>ijsdem</et>
+Improbat in studii&sr;, firmiter ille pro-
+<et>bat?</et>
+Et quod in haud varii&sr; vario discrimine rebu&sr;
+Crebra viri docti bella ciere solent?
+Esse quid hoc dicam, quod non simul omnibu&sr; omne&sr;
+Doctrini&sr; animo&sr; excoluisse volunt;
+Sed tacita&sr; rerum causa&sr; hic mente sagaci
+Explicat: ast illum sidera nosse iuuat:
+Hunc morum ratio curi&sr; exercet acerbi&sr;:
+Ille facit medio verbadiserta foro?
+Ex alii&sr; alia&sr; causa&sr; fortasse licebit
+Discere, consultÚ qua&sr; mea Musa tacet.
+Horum tu Natura paren&sr;, tu maximu&sr; auctor
+Esse videre mihi, diceri&sr; esse mihi.
+Sic arte&sr;, crebro qua&sr; versa&sr; Marte, polita&sr;
+Ipsa magi&sr; reddi&sr; conspicua&sr;&0071;&0301;ue magi&sr;.
+Sic arte&sr;, sola&sr; alta qua&sr; voluere mente
+Quisque sole&sr;, lauda&sr; de meliore nota.
+Testi&sr; erit nobi&sr; vir maximu&sr; ille, comatu&sr;
+Pr&00E6; reliqui&sr; cecinit quem sapuisse <g><k>Dev&sr;</k></g>.</aq></i>
+<cw><i><aq>Hic</aq></i></cw>
+<pb="16"/>
+<i><aq>Hic neque natur&00E6; sensu rimatu&sr; acuto
+Abdita, nec motu&sr; nouit &amp; astra poli.
+At diuina tamen morum pr&00E6;cepta reliquit
+Pagina, qu&00E6; clari docta Platoni&sr; habet.
+Plura tibi nostri versu&sr; exempla referrent
+Si vellem medio qu&00E6;rere sole diem.
+Puriu&sr; hinc veluti verum plerunque nitescit,
+Diﬂidium docto&sr; cum trahit acre viro&sr;:
+Ardua sic ver&00E6; scandunt fastigia laudi&sr;,
+Qui studio hanc artem feruidiore colunt,
+Qua&sr; natura sibi solerti indagine veri
+Cimmerii&sr; tenebri&sr; exeruisse dedit.
+Ho&sr; inter numerare tuum, <g>VIR SEDVLE</g>, nomen
+Cynthiu&sr; auriculam vellicat ipse mihi.
+Non etenim tant˘m, qua calculu&sr; arte locandu&sr;,
+Et numeri&sr; vsu&sr; qui&sr; siet, ore doce&sr;:
+Si&sr; licet hinc etiam merito&sr; indeptu&sr; honore&sr;
+Gaudeat &amp; talem patria nacta virum.
+Quin reliqua&sr; etiam qua&sr; ingeniosa Mathesi&sr;
+Re&sr; habet, exorna&sr; sedulitate pari.
+Nil&0071;&0301;ue intentatum, nil, optime, linqui&sr; inausum,
+Egregia vt multo&sr; vtilitate bee&sr;.
+Hoc pro me tacita iam voce h&00E6;c charta loquetur
+Charta Geometric&00E6; qu&00E6; tenet arti&sr; opu&sr;.
+Non illo&sr; sequeri&sr; stimuli&sr; quo&sr; acribu&sr; vrget
+Inuidia &00E6;gra viri&sr; &amp; male grata <g><k>Deo</k></g>;</aq></i>
+<cw><i><aq>Qui</aq></i></cw>
+<pb="17"/>
+<i><aq>Qui sua scripta premunt multo&sr; producta per anno&sr;
+Puluereo&0071;&0301;ue sinunt illa perire situ.
+Macte vir ingenio, cupido sic impete perge
+Edere grata viri&sr;, edere grata <g><k>Deo</k></g>
+Atq; Geometrici&sr; qu&00E6; plurima &amp; optima condi&sr;
+De rebu&sr;, clarum mitte videre diem.
+Sic tua transmittet venturi&sr; nomina secli&sr;
+Mnemosyne, nulla pr&00E6;teritura die.
+Sic rem communem multum tua Musa iuuabit,
+Et cuncto&sr;, arti&sr; quo&sr; pia cura tenet.
+Hoc moneo saltem, ne mali&sr; lector abuti
+Optime, qu‡m tanta commoditate frui.</aq></i></poem>
+<p><et><aq>Ioan. Conr. Merckhiu&sr; Vlmen-
+si&sr; schol&00E6; patri&00E6;</aq> &03C3;&03CD;&03BD;&03B5;&03C1;&03B3;#.</et></p>
+<bs><b>C</b></bs><cw><b>Ge-</b></cw>
+<pb>
+<pb="19"/>
+<hr>
+<d1><b>Gebrauch deﬂ grossen</b>
+runden Instrument&sr; oder
+Kupfferst&ue;ck&sr;.</d1>
+<p><in>O</in>B wol diﬂ Instrument zu der Astrono-
+mi auch k&oe;nte gebraucht werden/ so hat man doch
+<aq>#n Tychoni&sr; Brahe Astronomi&00E6; Instaurat&00E6;</aq><mr><aq>Tycho
+Brahe.
+Cardanu&sr;.
+Apianu&sr;.</aq>
+Simon
+Stefin.
+Quadr&ta;t
+vnd Meﬂ-
+leiter.
+<aq>Hulsiu&sr;.
+Riuiu&sr;.</aq></mr>
+<aq>Mechanica,</aq> zwantzigerley viel bessere Instru-
+me#/ Gleichfal&sr; hat <aq>Cardanu&sr;, Apianu&sr;,</aq> Si-
+mon Stefin/ vnd viel andere alte vnd newe <aq>Authore&sr;</aq> von der-
+gleichen Instrumenten/ zur Astronomi dienlich/ gnugsamen
+Bericht gethan/ daher magstu den Quadranten vnd vierecken-
+de Meﬂleiter gebrauchen/ wie <aq>Hulsiu&sr;, Riuiu&sr;</aq> vnd andere dar-
+von geschrieben haben.</p>
+<p>Ich will dir allein den <aq>vsum</aq> der runden Scheiben diﬂmal&sr;
+an die Handt geben/ die zu allerhand Abmessungen/ durch vnd<mr>Abmessen
+vnd grund
+legen.</mr>
+ohne Rechnung/ so wol auch zum Grundtlegen gebraucht wer-
+den kan/ welchen ich selber auﬂ t&ae;glicher Practic gefunden habe.
+Ehe ich aber darzu schreite/ muﬂ ich zuvor vermelden/ daﬂ e&sr;
+bey vielen disputierlich ist/ wa&sr; man im Feldt zu der Messung
+gebrauchen solle? Etliche w&oe;llen die Meﬂstangen gebrauchen/<mr>Wa&sr; etli-
+che im feld
+messen ge-
+brauchen.</mr>
+welche&sr; andere aber f&ue;r vnrahtsam halten/ dieweil mit solcher
+Meﬂruhten nicht leichtlich ein ebene Linigemessen werden mag/
+dannenher nemmen sie ein gew&ae;chste Schnur mit Kn&oe;pfflein
+<bs>C ij</bs><cw>auﬂ-</cw>
+<pb="20"/>
+<kt>Von Geometrischen</kt>
+auﬂgetheilet/ darzu doch die dritte auch nicht rahten/ dieweil sie
+<ml>Wa&sr; der
+<aq>Auctor</aq> sei-
+nen Disci-
+puln gerah
+ten.</ml>f&016F;rchten/ solche Schnur dehne vnd ziehe sich l&ae;nger vnd weiter
+auﬂeinander/ al&sr; sie an jhr selbst ist. Ich aber hab allwegen mei-
+nen Discipuln gerahten/ ein Schnur mit einer gewissen L&ae;nge
+von starckem Bast/ oder sonsten von Thier oder Roﬂha#r zu
+flechten/ dieselbige nach Gelegenheit auﬂzutheilen/ vnnd zu 10.
+20. 50. mehr oder weniger Schuhen/ mit messing oder silbern
+Ringlein vnterschieden/ darnach dieselbige auff ein bequeme&sr;
+H&ae;spelin zu winden. Da aber einer der H&ae;rin Schnur noch
+nicht wolte trauwen/ oder den Vnkosten nicht darauff wenden/
+<ml>Ein vn-
+fehlbarer
+<aq>modu&sr;.</aq></ml>der neme nur ein schlechte Schnur/ vnnd ziehe die gerad von ei-
+nem Orth zum ande&rr;n/ an welcher dann einer mit einer langen
+auﬂgetheilten Meﬂruthen leichtlich ein gerade Lini just messen
+kan. Angedeute starcke Schnur von Bast oder Roﬂhaar/ ist
+auch nicht vndienstlich/ so man zu vnderst ein ziemlich Gewicht
+oder Bleykl&oe;tzlin/ vnnd darbey ein Schellen von Glockenspeiﬂ
+anhenckt/ wo du vff einer Pastey oder Thurn/ ein Weite/ Brey-
+te/ oder andere H&oe;he zu messen begehrest/ dann dieselbige an stat
+eine&sr; Senckel&sr; sehr bequem ist/ weil di# Schell gleich einen
+<ml>Eigent-
+licher Ge-
+brauch/ der
+h&ae;rin
+Schnur.</ml>Klang von sich gibt/ so baldt sie herab auff den Boden gelassen/
+zu f&oe;rderst ist bemeldte h&ae;rin Schnur sch. n&016F;tzlich/ einen fer&rr;-
+nen Weg oder etwa&sr; ander&sr;/ mit allen abweichenden Kr&016F;m-
+men oder Schreginen/ ohne Theilung/ Grad/ Magnet oder
+Wegzehler/ ab zu gehen/ vnd hernach zu hauﬂ durch ein beson-
+<ml>Ohne Ma#
+gnet/ Thei#
+lung/ grad
+oder Weg
+zehler/ alle
+Schregi-
+nen zu ob-
+seruiren.</ml>der Mittel auffzureyssen/ da dieselbige Schnur vornen ein
+Messing oder silbern&sr; Ringlein hat/ vnd man&sr; in die lincke oder
+rechte Handt nimpt/ vnd fein sittig fortgehet/ biﬂ einer h&oe;rt die
+Schellen klingen/ al&sr;dann stehe er strack&sr; still/ vnd ziehe mit der
+andern Hand da&sr; Bleykl&oe;tzlin vnd die Schellen an der Schnur
+zu r&016F;ck/ vnd procedire fer&rr;ner besagter massen/ &rr;c.</p>
+<p>So viel nun diese&sr; gestochen Instrument belangt/ wann
+<ml>Diﬂ Ku-
+pfferst&ue;ck</ml>einer dasselbig nicht gern von Messing will lassen zu richten/ so
+mag er e&sr; auff Holtz auffziehen/ vnd ein Linial mit zweyen Ab-
+<cw>sehen</cw>
+<pb="21"/>
+<kt>Instrumenten.</kt>
+sehen nach seinem Gefallen/ satt in&sr; <aq>Centrum</aq> schrauben/ vnd<mr>mag auch
+auff Holtz
+auff gezo-
+gen wer-
+den.
+Dreyerley
+F&ue;ﬂ.</mr>
+solche&sr; an statt einer Regul gebrauchen/ wie auch zu einem ver-
+j&016F;ngten Maaﬂstab auﬂtheilen/ vnd soll dasselbige Instrument
+gantz vest auff einen Stab geschraufft werden: deren ich dreyer-
+ley mit f&016F;nff/ vier vnd drey eissernen Spitzen oder F&016F;sen vnter-
+schiedlich gebrauche. E&sr; gilt diﬂfall&sr; gleich/ da nur da&sr; Instru-
+ment fix stehen kan/ al&sr;dann ist solche&sr; zu dem Gebrauch aller-
+ding&sr; fertig.</p>
+<p>Wo du nun solch Instrument/ durch Rechnung (welche&sr;
+doch gar nicht von n&oe;hten) Kunst vnd Lust halben allein gebrau-
+chen willst/ so must du der Tabulen <aq>sinuum</aq> zuvor berichtet
+seyn/ welche du auﬂ deﬂ weitber&016F;hmbten Mann&sr;/ meine&sr; son-
+der&sr; vertrawten lieben Her&rr;n vnd Freund&sr; Ludolph&sr; von C&oe;lln/<mr>Her&rr; Lu-
+dolph von
+Colln Pro
+fessor zu
+Leyden.</mr>
+verordneten <aq>Professori&sr;</aq> zu Leyden/ &rr;c. Niderl&ae;ndischem Buch
+wollernen kanst/ darmit du dich aber desto besser darein richten
+k&oe;ndest/ will ich dir den Gebrauch derselben/ durch nachfolgend
+Exempel erkl&ae;ren.</p>
+<p>Al&sr; nemlich du woltest gern einen Thurn abmessen/ kanst<mr>Eine&sr;
+Thurn&sr;
+H&oe;he vnd
+wie weit
+man dar-
+von stehe/
+auﬂ den
+Tabulen
+<aq>Sinuum</aq> zu
+messen v&tn;
+zu rechnen.</mr>
+aber Wasser&sr; halben nicht darzu kommen/ auch wegen anderer
+Vngelegenheit kein Standt auff die Seiten nemen: So thue
+jhm also: Nimb zween St&ae;ndt vor einander/ vnd gesetzt/ der
+Boden/ darauff beyde St&ae;ndt genommen/ sey eben vmb so viel
+niederer/ daﬂ du mit deinem Aug/ der Ger&ae;de nach (wann da&sr;
+Instrument dem Riﬂ nach senckelrecht gestellet) den Grundt
+deﬂ Thurn&sr; sehen magst/ al&sr; dann r&016F;cke die Regul/ mit den Ab-
+sehen gegen der Spitzen deﬂ Thurn&sr;/ vnd besiehe/ wie weit der
+Winckel sey/ da&sr; ist/ wie viel Grad die Regul vber dem Hori-<mr>Diﬂ obser
+uiren im
+Feld gehet
+sonst&te; gar
+geschwind
+zu.</mr>
+zont erhaben werde/ vnnd gesetzt/ im ersten Standt sey e&sr; 40.
+Grad/ al&sr;dann gehe vngefehr 100. Schuch gerad f&016F;r sich/ vnd
+obseruire/ wie zuvor gesetzt: du habest 60. Grad funden: Al&sr;-
+dann rechne e&sr; daheim folgender massen.</p>
+<p>Dieweil der erste Winckel 40. vnd der ander 60. Grad helt:
+so muﬂ der erste obere Winckel gegen vber 20. vnd der ander 30.
+<bs>C iij</bs><cw>Grad</cw>
+<pb="22"/>
+<kt>Von Geometrischen</kt>
+Grad halten. Dann der <aq>Angulu&sr; rectu&sr;</aq> helt 90. vnd 60. von
+90. Graden abgezogen/ lassen 30. Grad vbrig. Setz demnach
+<ml>Durch
+rechnung.</ml>in die Regul Detri: Vornen/ von 20. Graden thut <aq>Sinu&sr;</aq> Ta-
+bul 3420201. in die Mitten 100. Schuch vnd hinden wa&sr; von
+40. Graden/ die <aq>Sinu&sr;</aq> Tabul gibt/ nemlich 6427876. proce-
+dier/ so kompt mehr al&sr; 187. Schuch/ da&sr; gibt die Lini vom
+Augpuncten/ auff dem vordersten Standt/ biﬂ zur Spitzen deﬂ
+Thurn&sr;. Setz weiter von 90. <aq>Sinu&sr;</aq> 10000000. geben 187.
+Schuch/ &rr;c. wa&sr; von 30. <aq>Sinu&sr;</aq> 5000000. kommen mehr al&sr;
+93. Schuch: so weit ist der forderste Standt vom Thurn:
+Wilt du die H&oe;he wissen/ so setz wider 10000000. geben 187.
+Schuch/ &rr;c. wa&sr; von 60. Graden/ thut in der <aq>Sinu&sr;</aq> Tabul
+8660254. kompt bey nahe 162. Schuch. Welche&sr; die H&oe;he ist
+deﬂ Thurn&sr;/ wie solche&sr; leichtlich zu probieren/ wann die Qua-
+drat beyder kurtzen Seiten/ am winckelrechten Triangel zusa-
+men addiret/ vnnd auﬂ dem Aggregat <aq>Radix quadrata</aq> extra-
+<ml><aq>47. Propo-
+sit. Euclid.
+lib. 1.</aq></ml>hiret wirdt/ so muﬂ sich in allweg d#e l&ae;ngste Seit erzeigen. In
+massen <aq>Euclide&sr;</aq> in der 47. Proposition seine&sr; ersten Buch&sr;
+vnfehlbar demonstriert. Du k&oe;ndtest auch auﬂ den <aq>Tabuli&sr;
+sinuum</aq> rechnen/ wie weit vom Augpuncten auff dem hinder-
+sten Standt/ biﬂ zu der Spitzen deﬂ Thurn&sr; wehre/ da du sub-
+trahirest 60. Grad von 180 Graden/ resticrten 120. Grad/ so
+weit wehre derselbe Winckel/ Wo nun derselbige dir offenbar/
+so w&016F;rde sich die Lini auch nicht verbergen: Welche&sr; gleicher
+gestalt/ wie da&sr; vorige/ auﬂ dem <aq>Euclide</aq> demonstriert m&oe;chte
+werden. Zu mehrerm verstandt will ich dir noch ein Exempel
+<ml>Simon
+Jacob&sr;
+Exempel.</ml>geben/ vnd zwar eben da&sr;/ welche&sr; Christoff Rudolph/ Mi-
+chael Stiefel vnd Simon Jacob gesetzt. Dieser aber meldet/ e&sr;
+sey von vielen al&sr; ein Meisterst&016F;ck der Geometri vnd Mathe-
+matischen Kunst geacht worden: Also lautend:</p>
+<p>E&sr; ist ein Seul 100. Ehlen hoch/ vnd 40. Ehlen von dem
+Erdrich stehet ein Bildt 7. Ehlen hoch/ vnd oben auff der Seul
+stehet ein ander Bildt/ weiﬂ nicht wie hoch/ wann ich aber vom
+<cw>Grund</cw>
+<pb="23"/>
+<kt>Instrumenten.</kt>
+Grund der Seulen 50. Ehlen meinen Stande neme (verste
+he/ wann ich&sr; durch mein Instrument/ wie oben gemeldt/ obser-
+uire) so scheinet ein Bildt so groﬂ/ al&sr; da&sr; ander: Ist nun meine
+Frag/ wie hoch da&sr; obere Bild gewesen sey? Facit/ &rr;c. Diﬂ Ex-
+empel hab ich wol vor vielen Jaren/ auff etlicher kunstliebend&te;
+Her&rr;n Begern/ <aq>mathemacicË</aq> soluiret/ vnd augenscheinlich
+demonstrirt/ e&sr; taug aber hieher nicht&sr;/ dann ich&sr; diﬂmal&sr; nur
+<aq>mechanicË</aq> durch die <aq>Tabula&sr; sinuum,</aq> wiewol anderst/ resol-
+uiren will: Al&sr; dergleichen Exempel von <aq>Nicolao Petri Da-
+uentriense</aq> in seinem gr&oe;ssern Niderl&ae;ndischen B&016F;chlein auff-
+gel&oe;st worden: Wie folgendermassen zu sehen.</p>
+<p>Setz 50. geben 10000000. wa&sr; 40. Ehlen? Facit
+8000000. <aq>tangen&sr;,</aq> gibt 38. Grad 40. Minuten. Fer&rr;ner&sr;
+50. geben abermal&sr; 10000000. wa&sr; 47. Facit 9400000. <aq>tan-
+gen&sr;,</aq> gibt 43. Grad 14. Minuten/ darvon 38. Grad 40 Mi-
+nuten abgezogen/ restiren 4. Grad 34. Minuten/ da&sr; ist der ei-
+gentliche gemeine Winckel der Bilder/ gegen dem perspectiui-
+schen Augpuncten. Setz weiter 50. geben 10000000. wa&sr; 100.
+Ehlen/ Facit 20000000. <aq>tangen&sr;,</aq> gibt 63. Grad 26. Minuten/
+darzu 4. Grad 34. Minuten/ kommen 68. Grad. <aq>Cuiu&sr; tan-
+gen&sr;</aq> ist 24750869. darvon 20000000. rest noch 4750869.
+setz endtlich 20000000. geben 100. Ehlen/ wa&sr; 4750869. Fa-
+cit 23. Ehlen/ vnnd ein wenig mehr al&sr; &00BE;. da&sr; ist die H&oe;he deﬂ
+obern Bildt&sr;/ auff solche Weiﬂ seynd dergleichen Exempel von
+allerley H&oe;he/ weite vnnd tieffe durch angeregte&sr; Instrument/
+nach angezeigtem Weg/ zu machen. Warumb ich aber diese
+schwere <aq>qu&00E6;stione&sr;</aq> vor dem leichten her setze/ hab ich vmb zwey-
+er Vrsachen willen gethan/ Al&sr; erstlich den subtilen K&016F;nstlern<mr>Zwo Vr-
+sachen wa-
+rumb da&sr;
+Schwere
+vor d&te; leich
+ten hierin-
+nen gehan
+delt werde.</mr>
+zu sonderm Gefallen/ dieweil wir in hoch Teutscher Spraach
+(meine&sr; wissen&sr;) sonsten dergleichen Resolutionen nicht ha-
+ben: Zum andern auch darumb/ daﬂ der Kunstliebende (so deﬂ
+Rechnen&sr; vnerfahren) in der That sp&016F;re/ wie n&016F;tzlich vnd leicht
+mein nachfolgender gefundener <aq>Modu&sr;</aq> seye/ so ich mit we-
+<cw>nigem/</cw>
+<pb="24"/>
+<kt>Von Geometrischen</kt>
+nigen/ in obgesetztem Exempel/ an den Tag geben will.</p>
+<p>Zum obserutren magst du die gr&oe;sser/ vnd zum eyntragen
+die kleiner Scheib brauchen/ welche du in der Mitte/ so du wilt/
+herauﬂ schneiden kanst/ wo du nun im Feldt/ wie oben im ersten
+Exempel angedeutet worden/ die gesetzte 40. Grad auff dem er-
+sten/ vnd 60. auff dem andern Standt obseruiret vnd gefunden
+hast/ so trag&sr; daheim also auff/ vnd ein: nem die kleiner Schei-
+ben/ vnnd richte sie/ wie du die gr&oe;ssere im Feldt gegen dem
+Grundt deﬂ Thurn&sr; gerichtet hast: dahin ziehe vom <aq>Centro</aq> an
+dem Linial ein blinde Lini hinauﬂ/ darnach r&016F;cke da&sr; Linial auff
+<ml>Ohne rech#
+nung auff
+ein neuwe
+weiﬂ zu
+messen.</ml>den 40. Grad vnd zeug abermal&sr; ein blinde Lini/ wann da&sr; be-
+schehen/ so nimb vff einem verj&016F;ngten Maaﬂstab 100. Schuch/
+vnnd r&ue;cke da&sr; <aq>Centrum</aq> so weit auff der ersten gerissenen Lini
+f&016F;r sich: Al&sr; dann justificir&sr;/ wie zuvor/ vnd reiﬂ auff dem 60.
+Grad am Linial abermal&sr; ein blinde Lini. Wo nun beyde Linien
+sich durchschneiden/ da mache ein Puncten/ d&2019; bedeutet die Spitz
+deﬂ Thurn&sr;: Laﬂ endtlich vom selben ein perpendicular Lini auff
+den ersten Riﬂ fallen/ so zeigt dir derselbige Punct den Grundt
+deﬂ Thurn&sr;/ kanst also leichtlich durch den vorigen jungen
+Maaﬂstab nicht allein die obgefundene H&oe;he deﬂ Thurn&sr;/ son-
+dern auch die Weite vom fordersten Stand erfahren: Auff die-
+se Weiﬂ ist da&sr; ander Exempel vnnd alle andere Abmessungen/
+wie auff mancherley weiﬂ dieselbige f&016F;rfallen/ auch zu obserui-
+ren vnd auffzureissen/ da man allein Achtung gibt/ daﬂ man die
+Figuren in solcher Proportion verj&016F;ngt auffreisse/ wie sie groﬂ
+im Feldt gewesen/ welche&sr; in Feind&sr;n&oe;hten ein geschwinde&sr; vnd
+n&016F;tzliche&sr; messen ist.</p>
+<ml>Grund-
+legen.
+Wa&sr; der
+Magnet
+im Grund
+legen f&016F;r
+m&ae;ngel
+habe.</ml><p>Zum Grundtlegen hab ich zwar viel vnd mancherley In-
+strument mit Magneten obseruirt: aber ich halte diﬂ Instru-
+ment auﬂ folgenden Vrsachen f&016F;r tauglicher/ dieweil nemlich
+der Magnet gar kurtz/ vnd deﬂhalben zu langen Linien im Feld/
+wie e&sr; die Erfahrung gibt/ sehr vngewiﬂ/ darzu muﬂ einer dem
+Magnet (da etwan da&sr; Grundtlegen kein Verzug leiden mag)
+<cw>f&016F;r-</cw>
+<pb="25"/>
+<kt>Instrumenten.</kt>
+f&016F;rwarten/ biﬂ er stillstehet/ vnter dessen einer etlich Orth mit
+obangeregtem Instrument obseruiren kan/ aller andern Incon-
+penientien zugeschweigen/ vnd ob wol diﬂ Instrument auch ein
+Magnet (welcher vor justificiret werden soll) haben kan: So
+dienet er doch weiter&sr; nicht/ al&sr; ein anderer gemeiner Compa&sr;/
+darmit die vier Orth der Welt zu erkennen/ welche&sr; ich aber
+durch ein ander gewiﬂ Mittel zu erk&016F;ndigen/ erfunden hab/ wie<mr>Newe ge-
+heime In-
+vention.</mr>
+ich dann auch vnter der Erden durch einen gantzen Labyrinth
+ohne einen Magnet forkommen wolte.</p>
+<p>Wo fer&rr;n du auff zweyen bequemen St&ae;nden ein Statt/
+Landt/ Her&rr;schafft/ Feldtl&ae;ger oder Quartier/ in Grundt le-
+gen vnd auffreissen willst/ so stelle da&sr; Instrument auff dem er-
+sten Standt wagrecht/ wie sich&sr; geb&016F;rt/ vnd siehe auff der Re-
+gul oder Linial (welche&sr; du fein sanfft hin vnd wider ziehen sol-
+lest/ darmit da&sr; Instrument nicht verruckt werde) gegen dem
+andern Standt/ vnnd zeichne die Grad fleissig auff: Deﬂglei-
+chen sihe gegen allen Orthen ring&sr;weiﬂ herumb/ wa&sr; du in
+Grundt legen willst/ vnnd schreib die Orth vnnd Grad allent-
+halben auff: misse al&sr; dann/ vnnd gehe zum andern Standt/
+vnnd richte da&sr; Instrument/ wie zuvor: Also/ daﬂ die Regul
+(wann du gegen dem ersten Standt wider zu r&016F;ck sihest) den vo-
+rigen Grad ber&016F;hre: Hierauff r&016F;cke die Regul wider gegen den
+vorigen Oerthern herumb/ so wirdt jede&sr; Orth ein andern
+Grad zeigen/ welche Oerther vnd Grad du mit fleiﬂ sollest mer-
+cken vnd auffzeichnen.</p>
+<p>Zum eintragen brauch da&sr; kleine Scheiblin/ mache e&sr; mit<mr>Eintra-
+gen.</mr>
+Wach&sr; auff einen glatten Tisch/ vnd justificire e&sr; wie im Feld/
+vnd zeuch vber den rechten Grad gegen dem andern Standt ein
+blinde Lini/ auff solche must du die wahre/ gemessene vnd auff-
+geschriebene Distantz/ mit einem verj&016F;ngten Maaﬂstab abtra-
+gen/ reisse darnach vber alle auffgeschriebene Grad/ blinde Li-
+nien/ vnd mach da&sr; Scheiblein mit seinem <aq>Centro</aq> just in den
+Puncten deﬂ andern Standt&sr;/ zeuch nachmal&sr; linien vber alle
+<bs>D</bs><cw>auff-</cw>
+<pb="26"/>
+<kt>Von Geometrischen</kt>
+auffgezeichnete Grad. Wo sich dann die Linien durchschneiden/
+da ist der rechte L&ae;gerpunct/ deﬂ begehrten Oeth&sr;/ vnnd ist alle&sr;
+nach wunsch in Grund gelegt vnd auffgerissen. Letzilich sticht
+man die Puncten durch auff ein sauber Papier/ vnnd vollendet
+den Grundtriﬂ. Diﬂ Grundtlegen darff keiner andern De-
+<ml>Her&rr; Si-
+mon Ste-
+fin/ &rr;c.</ml>monstration/ al&sr; deﬂ hochansehenlichen <aq>Mathematici,</aq> Her&rr;n
+Simoni&sr; Stefin/ deﬂ durchleuchtigen Her&rr;n/ Her&rr;n Printz&sr;
+Moritzen in Niderlandt/ &rr;c. welche im andern theil/ seine&sr; gros-
+sen Werck&sr; fol. 30. vnd 31. klar f&016F;r augen gestelt wirdt/ wann du
+auch mit diesem Instrument ein wenig zur Vbung kompst/ vnd
+<ml>Drey oder
+4. st&ae;nd/ &rr;c.</ml>etwan zu einer grossen Landtschafft (ring&sr;wei&sr; vmb ein Statt)
+drey/ vier oder mehr St&ae;ndt haben must/ so kanst du durch ge-
+schwinden Vortheil dein Sach also anrichten/ daﬂ dir&sr; im drit-
+ten Standt/ gegen dem ersten vnd andern Standt zumahl mit
+einander abschneid/ vnd hinwiderumb. Wie diﬂ alle&sr; vnd noch
+mehrer&sr; die t&ae;gliche Erfahrung vnd vielfaltige Practic/ mit sich
+bringen wirdt/ Demnach ist keine&sr; weitern Bericht&sr; von n&oe;h-
+<ml>Wasser-
+leitung.</ml>ten/ welcher massen durch diﬂ Instrument zu obseruiren sey/ ob
+ein Wasser an ein Orth (den man vff etlichen St&ae;nden/ wegen
+vieler hohen Berg nicht sehen kan) m&oe;chte gef&016F;hret vnd geleitet
+werden/ dieweil auﬂ biﬂher gethaner Erkl&ae;rung durch fleissige&sr;
+<c>nachdencken/ gnugsamer Verstandt hievon kan genommen
+werden/ will nunmehr zum Proportionalzirckel
+schreiten.</c></p>
+<cw><b>Bericht</b></cw>
+<pb="27"/>
+<kt>Instrumenten.</kt>
+<hr>
+<d1><b>Bericht vber den Proportionalzirckel/</b>
+welcher vff den zweyen vberlengten Kupffern
+abgestochen ist.</d1>
+<p><b><in>D</in>Iesen Proportional Zirckel/ hat mir erst-</b>
+ich der hocherfahrne Astronomu&sr; Her&rr; Magister
+Berneckh#r (so jetzundt bey der Vniversitet zu<mr>Her&rr; Ma-
+gister Ber-
+neckher.</mr>
+Straﬂburg in Diensten) al&sr; er allhier im durch-
+reissen sich bey mir in meiner Behausung ange-
+melot/ communicirt/ welchen ich in vielen St&016F;cken vermehret
+vnd gebessert/ vnd darnach mir ein besondern auﬂ Mathemati-
+schem Fundament nach dem Vlmischen Werckschuch selbst
+auffgetragen/ darbey jmmer mein Nachfrag gehabt/ wer doch
+der rechte <aq>Auctor</aq> desselben seyn m&oe;chte/ vnd endtlich erfahren/
+daﬂ e&sr; der f&016F;rtreffliche Mathematicu&sr; <aq>Gallileu&sr; de Gallilei</aq><mr><aq>Gallileu&sr;
+de Gallilei</aq>
+Professor
+zu <aq>Padua.</aq></mr>
+Professor zu <aq>Padua</aq> seye/ der dann billich der erste <aq>Inuentor</aq>
+(vnd nicht Ich) hierinnen soll geheissen werden. Diesen Zir-
+ckel nun magst du dir/ so du wilt/ von Messing lassen machen/
+darffst hernach die Puncten nur darauff durchstechen/ oder aber
+kanst die Kupfferst&016F;ck nur auff Holtz/ wie da&sr; vorige Instru-
+ment/ auffziehen. Wo du aber solchen auﬂ dem Fundament/
+selber just aufftragen woltest/ must du dich auff die <aq>Tabula&sr; si-
+nuum, Quadratorum &amp; Cubicorum</aq> verstehen/ dann die<mr>Der Dia-
+meter deﬂ
+erst&te; pfund
+Eysen&sr;.
+Die <aq>Sph&0119;-
+ram</aq> in an-
+dere Form
+Mathe-
+matisch zu
+verwand-
+len.</mr>
+Puncten etlicher Linien darauﬂ abgetragen werden/ Ich hab
+mir zu den Puncten der proportionierten Metall Lini/ in einem
+Zeughauﬂ/ die gr&oe;ste eysene Kugel fleissig abwegen lassen/ auﬂ
+derer <aq>Diametro</aq> ich die Lini deﬂ ersten Pfundt Eyssen&sr; leicht-
+lich gefunden/ vnd mit rechnen in andere Form tran&sr;feriert ha-
+be: Vnd weil die Proportz der Metall am Tag ist/ nach wel-
+cher die Lini erste&sr; Pfundt&sr;/ anderer Metall/ k&oe;ndten gesucht
+<bs>D ij</bs><cw>wer-</cw>
+<pb="28"/>
+<kt>Von Geometrischen</kt>
+werden/ so ist weiterer Bericht hiervon nicht vonn&oe;hten/ vnd ob
+wol hin vnd wider vnterschiedliche Gewicht seyn/ k&oe;&tn;en doch die
+<ml>Dieser pro
+portzzirckel
+ist zur b&ue;ch
+senmeiste-
+rey allent-
+halben zu
+gebrauch&te;.
+Leichter
+Gebrauch
+deﬂ Zir-
+ckel&sr;.
+Wunder-
+bare newe
+sachen vff
+den zirckel
+zu bringen</ml>B&016F;chsenmeister ermelten Proportional Zirckel allenthalben ge-
+brauchen/ da sie nur die Lini deﬂ ersten Pfund&sr; im selbigen orth/
+e&sr; sey wa&sr; f&016F;r ein Metall e&sr; w&oe;lle/ haben/ Der Gebrauch aber
+desselben ist gar leicht/ dann e&sr; wird der Zirckel (vff jeder Lini nach
+seiner Maﬂ) nur auffgethan/ vnd werden die Puncten mit einem
+andern guten spitzigen Zirckel vberzwerch gesucht: E&sr; k&oe;nte auch
+einer ein sonderbar&sr; Schiberlin/ so gleicher gestalt wie die Linien
+auﬂgetheilt w&016F;rde/ darzu gebrauchen/ wer Gelegenheit vnd Zeit
+zu speculiren hat/ der kan viel andere wunderbare Sachen von
+verwandlung flacher vnd c&oe;rperlicher Figuren/ so wol auch von
+der Extraction v&tn; Coﬂ: Deﬂgleich&te; von der Astronomi/ Sonn-
+vhren vnd Kegelkunst/ darauff bringen: In massen der erfahrne
+<ml>Georg
+Brendel.</ml>vnd kunstreiche Maaler Georg Brendel Burger zu Lawingen/
+mein vertrawter lieber vnd guter Freundt/ dergleichen <aq>Inuen-
+tione&sr;</aq> von Sonnvhren zu wegen gebracht/ in summa der Nutz
+vnd Gebrauch diese&sr; Zirckel&sr; erstreckt sich auff vns&ae;glich viel
+geheime Sachen.</p>
+<p>Wa&sr; die Linien der zwey Kupffer deﬂ Proportionalzirckel&sr;
+betrifft/ stehet auff der ersten kurtzesten Lini deﬂ einen Kupffer&sr;/
+<ml>Bedeu-
+tung der
+Linteu v&tn;
+Puncten.</ml>Vlmer Pfund/ vnd bedeutet ein Pfund Bley Vlmerischen Ge-
+wicht&sr;. Der erst Punct vom <aq>Centro</aq> ist die Seit deﬂ <aq>Cubi,</aq> der
+and&2019; eine&sr; solch&te; Cylinder&sr;/ da die H&oe;he d&te; <aq>diametro</aq> just gleich:
+Der dritte Punct ist die Kugel: Da&sr; vbrig geh&oe;rt zum visiren d&2019;
+Fassen auff alle Eychen. Wo du nun den ersten <aq>diametr&tu;</aq> deﬂ
+Bleye&sr; hast/ so setz die weite mit ein&te; Zirckel vff den Bleypuncten
+<ml>Metall-
+Lini.</ml>nach der Zwerch/ al&sr; dann hast du alle Metall/ vnd Stein in jrer
+rechten Proportion vor augen/ wo du da&tn; dz <aq>corpu&sr;</aq> eine&sr; Me-
+tall&sr; vergr&oe;ssern wilt/ so setz den erst&te; <aq>Diametrum</aq> vff die dritte/
+<ml>Cubic Lini</ml>nemlich auff die Cubic Lini in den ersten Puncten/ vnd also hastu
+abermal&sr; die Proportz selbiger C&oe;rper biﬂ vff 216. Pfund/ Eben
+auff die Gestallt werden alle regulierte Planimetrische Figuren/
+<cw>auff</cw>
+<pb="29"/>
+<kt>Instrumenten.</kt>
+auff der vierten/ nemlich auff der Quadrat Lini/ vergr&oe;ssert vnd<mr>Quadrat-
+Lini.</mr>
+verkleinert. Die letzte Lini aber/ welche durchauﬂ gleiche theil hat
+wird zu vielen Sachen/ sonderlich aber zur Proportionirung der
+gemeinen Linien/ gebraucht/ Dahero kan ein Exempel/ so vff die
+<aq>Regul&ta; detri</aq> gerichtet/ von einem welcher der Arithmetic vner-
+fahren/ auff dieser Lini gesucht vnd auffgel&oe;st werden. E&sr; stehen
+auch vff dieser Lini zwen principal Puncten/ der oberst mit <aq>D</aq> si-<mr>Zwen prin
+cipal Pun-
+cten.</mr>
+gnirt bedeutet den <aq>Diametrum,</aq> der vnder mit <aq>C</aq> weiset die Cir-
+cumferentz eine&sr; jeden Zirckel&sr;.</p>
+<p>Bey dem andern Kupffer/ welche&sr; auff die andere breyte<mr>Wa&sr; auff
+d&te; andern
+Kupffer
+begriffen.</mr>
+Seiten deﬂ Zirckel&sr; kompt/ seynd auff der ersten kurtzesten Lini
+etliche vermischte Metall/ nach d&te; Vlmisch&te; Gewicht verzeich-
+net/ sampt den Cylindrischen Schmaltzpuncten zu den Fassen/
+vff der andern Lini kan man die gleiche Abtheilungen aller ebenen<mr>Ein ebene
+Lini in et-
+lich gleich#
+theil zu di-
+uidiren.</mr>
+Linien finden/ wie die Ziffern vnd Puncten den <aq>vsum</aq> selber an-
+deuten. Die dritte Lini dienet darzu/ da man vmb ein Zirckel ein
+regulirt Vieleck beschreib&te; will/ wie man da&tn; sihet/ dz der vnder-
+ste Punct an 4. anhebt/ weil allwegen dz Viereck vmb einen jeden
+Zirckel/ dem <aq>diametro</aq> gleich ist. Auff der vierten Lini seynd die
+<aq>Corda,</aq> welcher Gebrauch ist mancherley/ sonderlich kan man<mr><aq>Corda.</aq></mr>
+drauff erfahren/ wie viel Grad ein jeder Zirckel offen ist/ da man
+den <aq>Angulum</aq> auff den 60. Grad (wie sich geb&016F;rt) in die Pro-
+portz stellet. Man kan auch die Grad der Stern deﬂ Himmel&sr;<mr>Grad der
+Stern deﬂ
+Himmel&sr;.</mr>
+darmit Creutzweiﬂ obseruiren/ welche&sr; aber nicht f&016F;r jederman
+ist. Die letzte Lini nutzet darzu/ da man ein Vieleck in einen Zir-
+ckel besehreiben will/ greifft man&sr; also an: Reiﬂ einen Zir-<mr>Viel eck in
+einen Zir-
+ckel zu be-
+schreiben.</mr>
+ckel/ so groﬂ du wilt/ vnd setz denselben mit vnverrucktem Fuﬂ
+auff da&sr; Sechﬂeck/ al&sr; dann hast du alle regulierte Vieleck (so
+viel auff dem Zirckel begrieffen seyndt) in jhrer nat&016F;rlichen
+Proportion inwendig solche&sr; Zirckel&sr; zu beschreiben/ Ich hab
+gleichwol vff meinem auffgetragenen Zirckel mehrere Sachen/
+sonderlich auff der einen schmalen Seiten/ ein newe Visierruth/<mr>Visier-
+Ruth.</mr>
+zu allen regulierten Gef&ae;ssen/ e&sr; mag jm einer den Zollstab oder
+<bs>D iij</bs><cw>wa&sr;</cw>
+<pb="30"/>
+<kt>Von Geometrischen</kt>
+<ml>Diesen
+Proportio
+nal Zirckel
+vff ein neu
+we weiﬂ
+auffzutra-
+gen.
+Daﬂ sich
+die Grad
+auffwart&sr;
+verj&ue;ngen
+Exempel
+mit der Cu
+bie Lini.</ml>wa&sr; ander&sr; selber darauff theilen. Diesen Zirckel kan einer wol
+l&ae;nger machen/ vnnd nicht nur Puncten/ sondern auch Grad-
+weiﬂ auﬂtheilen/ der gestallt daﬂ sich die Grad nicht von oben
+herab/ sondern von vnden hinauff verj&016F;ngen: Aber der Ge-
+brauch ist hernach auch <aq>contrarii</aq> vnd widersinn&sr;: Al&sr; du wol-
+test gern ein Zirckel/ welcher vnten zu gespitzt/ zur B&016F;chsenmei-
+sterey/ vnd die Cubic Lini allein/ welche sich auffwert&sr; verj&016F;ng-
+te/ darauff haben/ vnnd selber auﬂtheilen/ da mustu die Pun-
+cten oder Grad/ auﬂ einer andern auﬂgetheilten Cubiclini auff-
+tragen/ vnd den Zirckel bey seinen vndern Spitzen allwegen in
+die Proportz stellen/ darnach mit einem andern Zirckel/ (dessen
+weite den ersten <aq>Diametrum</aq> repr<aq>&0119;</aq>sentiren vnd demnach vnver-
+&ae;ndert bleiben soll) die gleiche Zwerchpuncten vber sich suchen v&tn;
+<ml>Der Ge-
+brauch.</ml>stechen. Der Gebrauch ist nicht anderst al&sr; wie im aufftragen.
+Dann (daﬂ ich eine&sr; bequemen Schiberlin&sr; geschweige) neme
+diesen andern Zirckel/ vnd thue denselben so weit auff/ al&sr; lang
+der erste Diameter ist/ dessen Metall&sr; du begerest/ nachmal&sr;
+<ml>Zum Ge-
+sch&ue;tz.</ml>misse da&sr; Mundtloch/ an jedem Gesch&016F;tz/ e&sr; seyen/ St&016F;ck/
+B&016F;chsen oder M&oe;rser/ mit der Spitzen deine&sr; Proportional-
+Zirckel&sr;/ so stehet er in seiner nat&016F;rlichen Proportion/ Fer&rr;ner
+such mit der vorigen weite deﬂ andern Zirckel&sr;/ die zwerch Pun-
+cten/ auff der auffgetragenen newen Cubic Lini/ dieselbige Pun-
+cten werden dir weisen/ wie viel Pfundt Metall&sr; solche&sr; Ge-
+sch&016F;tz treibt: Also mit andern Linien dergleichen/ &rr;c. Diesem
+nach wann du den Handtgriff in erkl&ae;rtem Zirckel bekommen/
+<ml>Er kan
+auch an-
+derst ver-
+&ae;ndert
+werden.</ml>vnd dich fleissig vben wirst/ so kanst du wie gemeldt noch viel vn-
+zahlbare sachen vnd ver&ae;nderungen darauff zu wegen bringen/
+<c>An jetzo will ich zu den Instrumenten der Per-
+spectiv greiffen.</c></p>
+<cw>Anwei-</cw>
+<pb="31"/>
+<kt>Instrumenten.</kt>
+<hr>
+<d1><b>Anweisung zu den perspectiuischen In-</b>
+strumenten/ anff den dreyen kleinsten
+Kupffern.</d1>
+<p><in>E</in>S haben zwar viel ansehenliche Leuth in
+vnderschiedlichen Spraachen von der Perspectiv ge-
+schrieb&te;/ darund&2019; ist sonderlich ber&016F;mbt Albrecht D&016F;-<mr>Etliche
+<aq>Auctore&sr;.</aq></mr>
+rer/ Gualteru&sr; Riff/ Heinrich Lautensack/ Wentzel
+Jamitzer/ Daniel Barbaro/ Hanﬂ Lencker/ &rr;c. Aber zu den In-
+strumenten d&2019; Perspectiv/ ist mein&te; behalt nach Albrecht D&016F;rer/
+mit seinen dreyen F&ae;den d&2019; Anf&ae;nger vnd Author gewesen. Dar-
+nach hat erstgedachter Barbaro deﬂ D&016F;rer&sr; Invention von den
+besagten dreyen F&ae;den (in seinem Italianischen Perspectiv Buch<mr>Widerho-
+lung Al-
+brecht D&016F;-
+rer&sr; In-
+vention.
+Perspectiv
+Tisch.</mr>
+folio 191.) auff ein newe&sr; repetirt vnd erholet. Auﬂ diesem An-
+fang vnd Vrsprung/ seynd die andere perspectiuische Instru-
+ment erfunden worden/ vnder denselben ist der Perspectiv Tisch
+nicht der geringste/ dessen Proceﬂ mit der Seiten/ in n&ae;chstfol-
+gendem Kupffer mit <aq>A</aq> signirt/ wirdt angedeutet. Hievon hat
+mir anfang&sr; der Hochgel&ae;rte vnd erfahrne <aq>Medicu&sr;</aq> Her&rr; Jo-<mr>Her&rr; Joa&tn;
+<aq>Terrentiu&sr;
+Medicu&sr;.</aq></mr>
+ha&tn; <aq>Terrentiu&sr;</aq> (der in zehen Jahren wie er mich berichtet/ vier-
+tzig Vniversiteten besucht/ auch den freyen K&016F;nsten zu lieb <aq>Eu-
+ropam</aq> fast durchzogen/ vnnd allwegen im Durchreisen mich
+heimgesucht) gesagt: Den wenigsten Bericht aber hat weder er/
+noch ein anderer mir jemal&sr; darinnen geben/ sondern ich bin
+Gott lob auff den Gebrauch ohne alle m&016F;ndtliche oder schrifft-
+liche Instruction selber kommen. Hab darneben stettig&sr; gefor-<mr>Wer der
+erste <aq>Inuen
+tor</aq> seye.</mr>
+schet wer der rechte Author desselbigen seyn m&oe;chte/ den aber nie
+erfahren k&oe;nnen/ biﬂ ich endtlich glaubw&016F;rdig vernommen/ daﬂ
+e&sr; Wentzel Jamitzer von N&016F;rmberg gewesen/ wie solche&sr; auﬂ<mr>Wentzel
+Jamitzer.</mr>
+der Vorrede seine&sr; kunstreichen Buch&sr;/ so er der R&oe;m. Kays.
+Majest. dediciret/ zu vermuten vnd zu sp&016F;ren ist.</p>
+<cw>Den</cw>
+<pb="32"/>
+<kt>Von Geometrischen</kt>
+<abb>
+<p>Den <aq>vsum</aq> hab ich auff mancherley weiﬂ erlangt/ den ge-
+<ml><aq>Cubu&sr;.
+NB.</aq> wann
+der ligende
+Grund vff
+da&sr; ligen-
+de T&ae;ffelin
+gemacht
+wirdt/ so
+kompt da&sr;
+<aq>Corpu&sr;</aq> vff
+den Tisch
+darunder/
+v&tn; hinwi-
+derumb/ &rr;c.
+Gebrauch
+zur Per-
+spectiv.</ml>meinesten <aq>modum</aq> will ich dir durch einen <aq>Cubum</aq> zu verstehen
+geben. Reiﬂ den ligenden vnd auffrechten Grund deﬂ <aq>Cubi</aq> auff
+Papier/ da&sr; eine Papier mache mit Wach&sr; auff ein auffrechte&sr;
+T&ae;ffelein/ da&sr; ander auff den Tisch fest. Dar&016F;ber lege ein an-
+der T&ae;ffelein/ so an einer Spitzen vff den Tisch fein gangbar ge-
+hefftet werde/ vnd kleybe auch ein Papier darauff/ auff welche&sr;
+da&sr; <aq>Corpu&sr;</aq> kommen soll. Henck hernach die Seyten/ welche
+den Augpuncten repr<aq>&0119;</aq>sentirt/ nach Gelegenheit deine&sr; Werck&sr;/
+wie in der Figur zu sehen/ vnnd neme mit der hindern Perpen-
+dicular Regul/ daran die Seyt gehefftet/ durch den beweglichen
+Stefft die H&oe;he der vndern Lini/ am auffrechten Grundt/ vnd
+setz den vndern vnbeweglichen Stefft auff einen Puncten deﬂ li-
+genden Grund&sr;/ vnd r&016F;ck die vordern Regul mit jhrem Stefft
+an die Seyten/ laﬂ auch die Regul vnverr&016F;ckt stehen/ al&sr; dann
+<cw>schla-</cw>
+<pb="33"/>
+<kt>Instrumenten.</kt>
+schlage da&sr; ander T&ae;ffelein vber den ligenden Grundt/ an den
+Absatz deﬂ Tisch&sr;/ vnd drucke mit der vordern Regul den Per-
+spectiuischen Puncten auff da&sr; saubere Papier nider/ deﬂ ber&016F;r-
+ten l#genden T&ae;fflein&sr;/ vnd trage also alle Puncten ab. Wo nun
+die vndere Platt angezeigter massen/ in die Perspectiv gar einge-
+tragen/ so nem mit der hindern Perpendicular Regul/ daran die
+Seyt gemacht ist/ durch den beweglichen Stefft/ die H&oe;he der
+obern Lini am auffrechten Grundt/ vnnd procedire wie mit der
+vndern Platten/ Letztlich zeuch die Linien wie sich geb&016F;rt/ Per-<mr>Auffzug.</mr>
+spectiuisch zusamen/ so hast du dein auﬂgemachte&sr; <aq>Corpu&sr;</aq> just.
+Wann du dann ein Pastey oder Vestung Perspectiuisch inn
+Grundt legen vnd bringen willst/ so darffstu weiter&sr; nicht&sr;/ al&sr;
+den vndern Planimetrischen Grundt haben/ vnd denselben nach
+jetzterzehltem Weg in die Perspectiv bringen/ &rr;c.</p>
+<p>Diese&sr; andern Instrument&sr; (welche&sr; ich verbessert) Ge-<mr>Da&sr; an-
+der Instru
+ment zur
+Perspe-
+ctiv.</mr>
+<abb>
+brauch/ so mit einem verkehrten <aq>B.</aq> signirt/ beschreibet Hanﬂ
+<bs>E</bs><cw>Len-</cw>
+<pb="34"/>
+<kt>Von Geometrischen</kt>
+Lencker von N&016F;rmberg/ in seinem andern Theil folio 22. vnd
+23. also: Vnd so du nun von einer Kugel oder einem andern
+<aq>Corpu&sr;</aq> (da&sr; abpunctirt ist) den halben Grundt <aq>R</aq> abtragen
+wilt/ so mache solch <aq>Corpu&sr;</aq> im Instrument <aq>G</aq> ligend oder ley-
+nend fest/ al&sr; da&tn; heffte ein Papierlein auff da&sr; h&016F;ltzin Decklein/
+mit <aq>E</aq> bezeichnet/ v&tn; wann du dann/ mit d&2019; Spitzen deﬂ Stefft&sr;/
+den Puncten deﬂ <aq>Corpu&sr;</aq> gewiﬂ hast/ so hebe den Stefft vber
+sich/ vnd schlage da&sr; Decklein <aq>E</aq> bey dem Pf&oe;stlein <aq>H</aq> an/ vnd
+trucke den Punct in&sr; Papier <aq>R,</aq> wie du den mitlern Punct mit
+dem obern Zirckel auff dem Decklein <aq>E</aq> mit <aq>R</aq> bezeichnet/ vor
+augen sihest/ vnd also m&oe;gen auch zu gleich die H&oe;he aller auff-
+steigenden Puncten/ zum Auffzug eine&sr; jeden <aq>Corpu&sr;,</aq> am
+<ml>Lencker&sr;-
+eigne wort
+vnnd Be-
+schreibung</ml>Stefft <aq>D</aq> (nach dem der viel oder wenig herab gelassen wirdt)
+gantz eigentlich abgemessen werden. Vnd wiewol die Kugel/ mit
+sampt dem Ring/ im Instrument <aq>G</aq> angezeigt ist/ so must du
+doch ein jede&sr; insonderheit verstehen/ dann wann du ein&te; geleyn-
+ten Ring/ Krantz/ oder ander&sr; machen wilt/ so darffst du zu sol-
+chem Grundt <aq>R</aq> nicht mehr/ dann nur ein flache <aq>Superficie,</aq>
+mit Verzeichnung seiner Puncten/ wie hie die eusseren beyde
+Zirckel zum Ring/ beym Grundt <aq>O,</aq> welche <aq>Superficie</aq> stehet
+erstlich geleynet im Instrument <aq>G</aq> bey dem Puncten <aq>C</aq> auff/
+v&tn; wann du die also abgetrag&te; hast/ so r&016F;cke die fort biﬂ zum Pun-
+cten <aq>B</aq> vnd erhebe die biﬂ zum <aq>A</aq> vnd trage die wider ab/ so hastu
+den Grundt <aq>R</aq> zum Ring mit <aq>Q</aq> bezeichnet vollkommen/ doch
+muﬂ zu m&016F;hsamen Dingen/ welche zwischen dem <aq>A</aq> vnd <aq>C</aq> viel
+auffsteigende Punct oder Theil haben/ eben war genommen
+werden/ daﬂ da&sr; Fortrucken der Superficien von <aq>C</aq> gegen <aq>B</aq>
+vnnd da&sr; Erheben vom <aq>B</aq> gegen <aq>A</aq> jede&sr; nach seiner Maaﬂ/
+geschehe.</p>
+<ml>Lencker&sr;
+Inventi-
+on mit der
+Seyten.</ml><p>E&sr; hat dieser Lencker in der Perspectiv/ noch ein andere
+Weiﬂ mit der Seyten erfunden. Mich bedunckt/ er hab&sr; specu-
+liert auﬂ der Figur bemelten D&016F;rer&sr;/ so am Ende vor den zwo
+letzten Figuren/ in dessen Buch von der Messung mit dem Zir-
+<cw>ckel</cw>
+<pb="35"/>
+<kt>Instrumenten.</kt>
+ckel vnd Richtscheit stehet/ vnd aber im ersten Truck nit zu fin-
+den/ sondern erst im andern <aq>de anno</aq> 1538. auﬂgangen. Solche
+Seyten ist sehr gut etwa&sr; auff einen andern <aq>modum</aq> al&sr; Lencker
+beschrieben/ in die Perspectiv zu bringen/ zu dem sind alle auff-
+gerissene Geb&ae;w/ oder m&016F;hsame <aq>Corpora</aq> gar geschwindt vnd
+leicht Perspectiuisch darmit zu vergr&oe;ssern oder zu verkleinern.<mr>Newe In-
+vention/
+mit der sey
+ten/ vom
+vergr&oe;s-
+sern vnnd
+verkleinern
+aller Per-
+spectiui-
+schen Fi-
+guren.
+Mancher
+ley <aq>cor-
+pora.</aq></mr>
+Will nun einer die Perspectiv recht in die Vbung bringen/ so ist
+rahtsam/ daﬂ er jme die 5. <aq>Corpora regulatia</aq>/ deﬂ gleichen et-
+liche <aq>Irregularia</aq>/ von dickem steiffem Papier selber auﬂschnei-
+de/ vnd zu samen f&016F;ge/ Er mag&sr; auch von Holtz durchbrochen
+machen lassen: Weil er dardurch/ so wol mit dem Perspectiv-
+Tisch (doch auff die Maaﬂ vnnd Weiﬂ/ wie Albrecht D&016F;rer/
+durch da&sr; Exempel/ mit der Lauten andeutet) al&sr; mit deﬂ Len-
+cker&sr; Instrument/ so alle Puncten fleissig observiret werden/
+zum fertigen Handgriff kommen kan/ dann beyde Instrument/
+mit jhrem Gebrauch/ auﬂ einem Fundament zu demonstriren:
+Allein wird in deﬂ Lencker&sr; die Figur vmbgekehrt/ der gestallt dz
+der Augpunct <aq>perpendiculariter</aq> herab f&ae;llt. Mir ist der Per-
+spectiv Tisch mit der Seyten vmb etwa&sr; angenemer/ dieweil der
+Augpunct stetig&sr; an einem Orth bleibt/ vnd nit ver&ae;ndert wird:
+Worinnen ich aber deﬂ Lencker&sr; Instrument ver&ae;ndert/ vnd in<mr>Lencker&sr;
+Instrum&te;t
+gebessert.</mr>
+wie viel St&016F;cken ich solche&sr; gebessert/ wirdt ein jeder selber wohl
+mercken/ wann er beyde Figuren oder Abriﬂ der Instrumenten
+gegen einander halten wirdt. Deﬂ <aq>Cubi</aq> 4. Puncten am ligen-<mr>Auffzug
+deﬂ <aq>Cubi.</aq></mr>
+den Grund/ samit Wach&sr; auff da&sr; Brettein/ welche&sr; im In-
+strument leynet/ fest gemacht ist/ werden mit dem Stefft auff
+deﬂ obern Schieber&sr; Papier getragen/ darnach wirdt solch ley-
+nend Bretlein/ mit fleiﬂ auff dem auffrechten Grundt (welcher
+auff dem vndersten boden auch auffkleybt) wie e&sr; seyn soll/ fort-
+geruckt/ vnd die Puncten abermal&sr; wie zu vor abgetragen/ dann
+wirdt da&sr; <aq>corpu&sr;</aq> wie sich geb&016F;rt Perspectiuisch zu samen gezo-
+gen. Gleichwol k&oe;nd diﬂ Instrument auch noch auff einen an-
+dern <aq>modum</aq> gebraucht werden/ Ebener massen tregt man die
+<bs>E ij</bs><cw>Pa-</cw>
+<pb="36"/>
+<kt>Von Geometrischen</kt>
+Pasteyen vnd Vestungen auch von jhrem Planimetrischen in
+den Perspectiuischen Grundt.</p>
+<ml>Da&sr; dritt
+Perspecti-
+vische In-
+strument.</ml><p>Sintemal ich bey meinen haben den Gesch&ae;fften fast t&ae;glich
+in den Geometrischen Perspectiuischen vnd andern Mathema-
+tischen K&016F;nsten mich vbe/ vnnd darinn jmmerdar andere vnnd
+newe Sachen befinde/ f&016F;rnemlich aber in obangezeigten vnd er-
+&oe;ffneten Perspectiuischen Ins#rumenten/ die Beschwerlichkeit
+f&016F;rfallen will/ daﬂ einer solche grosse Instrument nicht f&016F;glich
+<ml>Wann ein
+Bawmei-
+ster fremb-
+de Pastey&te;
+kesich iget/
+kan er die
+grosse In-
+strument/
+nit allwe-
+g&te; bey sich
+haben.
+Newe In-
+vention.</ml>mit sich vber Landt nemen kan: Vnd derowegen den Krieg&sr; vnd
+Bauwverst&ae;ndigen/ auch allen welche sich der Perspectiv an-
+massen/ im reissen nicht allerding&sr; annemlich seyn/ hab ich nach-
+getrachtet/ wie ein solcher Weg zu finden were/ da einer derglei-
+chen Instrument leichtlich bey sich haben m&oe;chte/ vnnd durch
+Gotte&sr; H&016F;lff so viel gefunden/ daﬂ jetzt die Perspectiv auff je-
+dem Banck vnd auffrechten Wandt/ an allen Orthen kan gar
+leichtlich zu wegen gebracht werden/ wie der gantze Proceﬂ auﬂ
+diesem letzten Kupffer mit <aq>C</aq> signirt/ augenscheinlich vnd deut-
+lich zu vernemmen gibt/ nemlich daﬂ/ da die Perpendicular Re-
+gul mit dem vnbeweglichen Spitzlein/ vff den Planimetrischen
+Puncten gestellt: Al&sr;bald mit dem Instrumentlein in der Hand
+<ml>Leichter
+gebrauch.</ml>der Perspectiuisch Punct (vermittelst der Seyten an dem be-
+weglichen Spitzlein) an die Wand kan gestochen vnd gemacht
+<ml>Pasteyen
+vnd Ve-
+stungen
+perspecti-
+visch auff-
+zuziehen.</ml>werden/ wie auﬂ der auffgezogenen Vestung im Kupfferst&016F;ck
+gnugsam erscheinet. E&sr; k&oe;ndte auch die Perpendicular Regul
+viel geschmeidiger/ k&016F;nstlicher/ vnnd gar in einer andern Form
+<c>zugerichtet werden/ aber grosse&sr; ostentiren vud ber&016F;hmen zu
+vermeiden/ will ich&sr; auff diﬂmal hiebey erwin-
+den lassen.</c></p>
+<cw>Beschluﬂ</cw>
+<pb="37"/>
+<kt>Instrumenten.</kt>
+<abb>
+<pb="38"/>
+<hr>
+<d1>Beschluﬂ an Leser.</d1>
+<p><b><in>W</in>Ann du aber/ g&ue;nstiger Leser/ zwey-</b>
+feln woltest/ ob ich die hieoben angeregte neu-
+we <aq>Inuentione&sr;</aq> von heimlichen G&ae;ngen vnnd ver-
+borgenen Labyrinthen vnder der Erden zum mini-
+ren/ vntergraben/ versprengen/ auﬂfallen/ retra-
+hiren vnd zu den Berckwercken/ auch andern erfun-
+denen Dingen/ just vnnd <aq>fundamentaliter</aq> haben
+m&oe;chte/ so wisse daﬂ du bey mir ansehenlicher vnnd
+vornehmer/ wie auch Kunstverst&ae;ndiger Leuth
+brieffliche vnd schrifftliche Vrkunden/ mir dar&ue;ber
+zu mehrerm glauben mit derer Handt vnnd Adelli-
+chem Insigel ertheilet finden wirst/ welche Sachen
+doch wegen deﬂ Miﬂbrauch&sr; nit zu diuulgiren/ son-
+dern in geheim zu halten/ vnd Christlichen F&ue;rsten
+vnd Her&rr;n allein vertrewlich zu communiciren sind/
+will endlich hiemit im namen Gotte&sr; deﬂ Allerh&oe;ch-
+<c>sten beschlossen haben/ dem sey Ehr/ Lob vnnd
+Preyﬂ/ von nun an biﬂ in Ewigkeit/
+Amen.</c></p>
+<p><c><g>ENDE</g>.</c></p>
+<pb>
+<abb>
+<pb>
+<pb>
+<abb>
+<pb>
+<pb>
+<abb>

@@ -1,0 +1,975 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b>Die
+<g>Electricität</g></b>
+<g>nach ihrer
+<b>Entdeckung und Fortgang</b>
+Mit
+<b>Poetischer Feder</b>
+entworffen
+Von
+<b>George Mathia&sr; Bose</b></g>
+<aq>Prof. Phys.</aq> auf der Academie zu Wittenberg
+<hr>
+<abb>
+<hr>
+<g><fr>Wittenberg</fr>
+Bey Johann Joachim Ahlfelden</g>
+(1744)</front>
+<pb>
+<pb>
+<ded><c><g>Jhro
+<b>Königlichen Hoheit</b>
+Der Durchlauchtigsten Frauen
+FRAUER
+<b>Fridrica Louise</b>
+Gebohrnen
+<b>Königlichen Printzeßin</b>
+von Preussen
+Vermählten
+<b>Marggräfin</b></g>
+von Brandenburg Anspach
+<g>Meiner Gnädigsten
+Marggräfin
+und
+Frau</g></c></ded>
+<pb>
+<pb>
+<sal><b><in>D</in>urchlaucht&2019;ste
+<et><in>M</in>arggräfin,</et></b></sal>
+<poem><et>da <fr>Deine Hoheit Sich</fr></et>
+So weit erniedriget, und unvermuthet mich
+Durch <fr>Deine</fr> Gegenwart unendlich hoch erfreuet,
+Steigt meiner Wunder Krafft, wie sich mein Glück ver-
+<et>neuet.</et>
+<fr>Dein göttlicher Verstand</fr> sieht augenblicklich ein,
+Wa&sr; hier sich zeigen muß, wa&sr; dort vor Folgen seyn,
+Und wa&sr; ich bi&sr; anher unendlich schwer genennet,
+Da&sr; ist <fr>Dir</fr> alle&sr; leicht. <fr>Dein</fr> Einsicht, <fr>Fürstin,</fr>
+<et>trennet</et>
+<cw>De&sr;</cw>
+<pb>
+De&sr; Zweiffel&sr; düstre&sr; Schwartz, so wie der Sonnen
+<et>Licht</et>
+Jn einem Augenblick durch tausend Nebel bricht.
+Wenn dann mein Kiel allhier, wa&sr; sonderbar, entdecket,
+Hast <fr>Du</fr> allein darzu die Krafft in mir erwecket.
+Von <fr>Dir</fr> allein empfing ich die Geschicklichkeit,
+So wird da&sr; <fr>Deinige</fr> ja billig <fr>Dir</fr> geweyht.
+Und ich schließ Ehrfurcht&sr;voll: Blüh ewig wie die Rose,
+Da&sr; wünscht, <fr>Durchlauchtigste,</fr></poem>
+<clos><et><fr>Dein</fr></et>
+<cb>
+<fr>Wittenberg,</fr>
+<g>den 20. <aq>Julii</aq>
+1744.</g>
+<cb>
+<et>unterthänger
+Bose.</et></clos>
+<pb>
+<hr>
+<sal><b>Mein Leser,</b></sal>
+<p><in>D</in>a ich bereit&sr; vor länger al&sr; s@ Jahren, und
+nachdem noch zu zwey unterschiednen mahlen
+von der Electricität geschrieben, so würde ich
+mich wohl schwerlich unterstanden haben, auch
+nunmehro deutsch, ja gar al&sr; ein Dichter, diese Ma-
+terie abzuhandeln, wofern nicht ein ausserordentliche&sr;
+Glück mich darzu aufgemuntert. Die besondre Gnade,
+Eine Hohe Königliche Printzeßin allein de&sr;wegen durch
+Wittenberg reisen zu sehen, (diese Worte, welche au&sr; Jhro
+Königlichen Hoheit Durchlauchtigsten Munde zu vernehmen
+gewürdiget worden, sind mir so Edel, daß alle meine Phi-
+<cw>losophie</cw>
+<pb>
+losophie nicht zureicht, solche hier zu verschweigen,) um
+persönlich zu untersuchen, ob da&sr;jenige sich würcklich also
+verhalte, wa&sr; man von meiner Electricität erzehle, erfor-
+derte zum allerwenigsten diese&sr; Denckmahl von mir. Jch
+verhoffe also hierdurch theil&sr; meiner unterthänigen Pflicht,
+theil&sr; dem Verlangen vieler Leser genung gethan zu haben.
+Denen Kunst-Richtern wird e&sr; unmöglich fallen, von diesem
+meinem Gedichte so hart und unbarmhertzig zu urtheilen,
+al&sr; ich selbst. Wort, Reim, Gedancken, Au&sr;drückungen,
+und alle&sr; gebe ich Jhnen Preiß. Nur an der Materie selbst
+darf sich niemand vergreiffen, so ihr, aber auch mir nicht
+gewachsen. Alle&sr; sticht und brennt. Und da ich mir über all
+die strengste Wahrheit zur Richtschnur vorgeschrieben, so
+schmeichle ich mir eine baldige Verzeihung, daß der Natur-
+Lehrer sich so gar erniedriget, und einen Dichter abzugeben
+kein Bedencken getragen. <et>Lebe wohl.</et></p>
+<cw><b>Die</b></cw>
+<pb>
+<abb>
+<d1><b><g>Die Electricität.
+<hr>
+Da&sr; erste Buch</g>.</b>
+<hr></d1>
+<cit><aq><g>VIRG.</g> &00C6;n. VIII. 205.
+<et>Ne quid inausum,</et>
+Aut intentatum mihi.</aq></cit>
+<hr>
+<pv><in>J</in>hr Dichter, deren Geist Apollen&sr; Blitz bestrahlt,
+Und die ihr die Natur so schön, so lebhafft mahlt,
+Steht keiner von Euch auf, den stoltzen Seltenheiten
+Der Electricität ein Denckmahl zubereiten?
+Reißt sie denn nicht so wohl euch Seel, und Geist, und Sinn
+Bi&sr; zur Verwunderung, ja zum Erstaunen hin,
+<bs>A</bs><cw>Al&sr;</cw>
+<pb="<aq>II</aq>"/>
+Al&sr; eine Rose thut? und müßt ihr nicht gestehen,
+Sie sey wahrhafftig werth den Alpen fürzugehen?
+Auf denn <fr>erhabner Brock&sr;,</fr> auf <fr>grosser Haller</fr> auf.
+Laßt Eurer Dichtkunst hier gantz unumschränckten Lauff.
+Hier, hier laßt Euren Kiel sich zu den Sternen schwingen,
+Und alle&sr; an sich ziehn, in Glut und Feuer bringen.
+Jndessen biß ihr Euch an diese Arbeit macht,
+Und ein Gedichte schreibt, de&sr; ungemeine Pracht
+Auch dem <fr>Lucretio</fr> unendlich fürzuziehen.
+So dultet wenigsten&sr; mein löbliche&sr; Bemühen,
+Und nehmt, dieweil ich nicht nach Würden singen kan,
+Wie <fr>Alexander</fr> dort die Hand voll Wasser an.
+Vielleicht laßt Jhr Euch doch durch diese Schrifft ermuntern,
+Und singt im höhern Ton von so besondern Wundern.</pv>
+<pv><in>S</in>eht, wie schon <fr>Plato</fr> e&sr; erstaunen&sr; werth beschreibt,
+Daß sein Electrum zieht, so bald al&sr; man e&sr; reibt.
+Seht, wie schon <fr>Theophrast</fr> und ein <fr>Plutarch,</fr> berühret, <fn="<aq><i>a</i></aq>"><aq>Tent. Electr. pag.</aq> 17. 56. 59.</fn>
+Daß jede&sr;, wa&sr; nur leicht, den Zug davon verspühret.
+Durch alle Secula findt man die Nachricht klar,
+Wie solch ein seltner Zug in wenig Wesen war.
+Nur <fr>Gilbert</fr> hat zuerst mit grosser Müh entdecket,
+Daß diese Eigenschafft in vielen Cörpern stecket. <fn="<aq><i>b</i></aq>"><aq>ibid. pag.</aq> 17-20.</fn>
+Reibt einen funckelnden Sapphir, und Diamant,
+Crystall, Gla&sr;, Schwefel, Hartz, Fluß von Avonen&sr; Strand,
+Und wa&sr; nur diesen gleicht, so fort ist zu erblicken,
+Wie kleine Cörpergen auf den geriebnen drücken.
+<cw>O <fr>Gil-</fr></cw>
+<pb="<aq>III</aq>"/>
+O <fr>Gilbert</fr> grosser Mann, dein ungemeiner Fleiß
+Brach ohne Wiederspruch un&sr; allen hier da&sr; Ei&sr;.
+Und irrest du ja wo, so muß ich&sr; doch erzehlen,
+Du fehlest, aber so, wie grosse Geister fehlen.</pv>
+<pv><in>D</in>rauf folgt durch Fürsten Huld der <fr>Florentiner</fr> Müh, <fn="*">Jn <aq>de Monconng&sr;</aq> Reisen <aq>pag.</aq> 701, und einem diesen Reisen einverleibten Schrei-
+ben de&sr; Ritter&sr; <aq>Morey pag.</aq> 543, 544. (nach der deutschen Ubersetzung <aq>M.</aq>
+Juncker&sr;, Leipzig und Augspurg. 1697. 4.) ist zu ersehen, daß Otto von Gue-
+ricke seine Schwefelkugel bereit&sr; im Jahre 1663. gebrauchet. Da nun die er-
+ste Au&sr;gabe der <aq>Academia del Cimento</aq> 1666. gedrucket worden, und man
+in Florentz schon zu Galilei und Torricellii Zeiten diesen Versuchen obgelegen,
+so habe kein Bedencken getragen, die Florentiner dem Otto Guericke der Zeit
+nach vorzusetzen. Zu geschweigen daß die Florentiner und Guericke in gantz
+verschiedner Absicht diese electrische Versuche angestellet, und also weder die-
+ser jene, noch jene diese nachgeahmet. Guericken&sr; Buch ist bekannter massen
+1672. herau&sr;gekommen.</fn> <fn="<aq><i>c</i></aq>"><aq>pag.</aq> 20.</fn>
+Lehrt, daß ihr Stein den Rauch, nicht Flammen, an sich zieh.
+Daß selbst da&sr; schwerste Naß dem Agtstein folgen müsse,
+Wofern er seine Krafft mit Nachdruck von sich schiesse.</pv>
+<pv><in>M</in>ein <fr>Otto Guericke</fr> kam auf die rechte Spur, <fn="<aq><i>d</i></aq>"><aq>pag.</aq> 21.</fn>
+Durch einen neuen Pfad, fast gar bi&sr; zur Natur.
+Die Schwefelkugel wieß ihm tausend neue Dinge,
+Daß sie erst an sich zieh, drauf wieder von sich dringe.
+Er pflantzete die Krafft durch einen kleinen Strick
+Auf eine Elle fort, in einem Augenblick.
+Und ließ ein Federgen frey in den Lüfften schweben,
+Nachdem er selbigem vorher die Krafft gegeben.
+Doch <fr>grosser Guericke</fr> hier liessest du e&sr; seyn?
+Drangst nicht in der Natur verborgnen Tempel ein?
+<bs>A 2</bs><cw>Und</cw>
+<pb="<aq>IV</aq>"/>
+Und warest im Begriff da&sr; alle&sr; zu erlangen,
+Womit Britannien und Franckreich jetzo prangen?
+So ist der Lauff der Welt, selbst der Gelehrsamkeit.
+Kein Reich ist Anfang&sr; groß. Rom wächst, doch mit der Zeit.
+Da&sr; Wölckgen, so den Stoff von Dünsten hergenommen,
+Jst klein, nimmt zu, und kan mit Stürmen wieder kommen.</pv>
+<pv><in>E</in>in <fr>Hauk&sr;bej</fr> sucht auf&sr; neu die schönen Lehren vor. <fn="<aq><i>e</i></aq>">22. 24.</fn>
+Rieb mit der Hand, Papier, Tuch, Seyd, ein gläsern Rohr.
+Und fand, daß da&sr; so fort in einem Wirbel Kreise,
+Wa&sr; leicht und klein genung, viel Ellen an sich reisse.
+Drauf stößt e&sr; wieder weg. Seht, wie e&sr; nochmahl&sr; zieht,
+So starck, so offt, so schnell, al&sr; kaum da&sr; Auge sieht.
+Da&sr; Rohr, beraubt von Lufft, wird schwach, von Wunderwercken
+De&sr; Stossen&sr;, und de&sr; Ziehn&sr; ist schwerlich wa&sr; zu mercken.
+Electrisir ein Rohr, und halt den Finger hin,
+Ja wa&sr; dir sonst beliebt, Stein, Wasser, Holtz und Zinn,
+Den Augenblick erfolgt ein Knacken, und im dunckeln
+Muß, wa&sr; da&sr; Rohr berührt, al&sr; so viel Sterne funckeln,
+Hier ruhte <fr>Hauk&sr;bej</fr> nicht. Nahm ein gewölbte&sr; Gla&sr;,
+Jn dessen Mittelpunct ein höltzern Scheiblein saß,
+Mit Fäden um und um. Er heißt die Kugel drehen,
+Und sieht, wie steiff, wie stoltz, so leichte Fäden stehen.
+Allein sein Finger naht. Der Faden flieht und weicht,
+Noch lange, ehr die Hand de&sr; Glase&sr; Bauch erreicht.
+Er bläßt die Kugel an, und sieht fast mit Erschrecken,
+Wie seine Fäden sich, gleich den erschlagnen strecken.
+<cw>Kein</cw>
+<pb="<aq>V</aq>"/>
+Kein harter Donner Strahl, der au&sr; den Wolcken eilt,
+Der Baum und Fel&sr; zermalmt, der gantze Berge theilt,
+Kan einen festen Mast so schnell zu Boden schlagen,
+Al&sr; hier ein schwacher Hauch die Fäden. Doch zu sagen,
+Daß solcher durch da&sr; Gla&sr; und dessen Höhlen dringt,
+Die Fäden niederstürtzt, und so zum Falle zwingt.
+Da&sr; will wohl nicht bestehn. Vielmehr ist zu erkennen,
+Daß wir in diesem Fall der Kugel Wirbel trennen.</pv>
+<pv><in>D</in>er edle Britte <fr>Gray</fr> hält mit Versuchen an. <fn="<aq><i>f</i></aq>">24-26.</fn>
+Führt diese Eigenschafft an einer langen Bahn
+Au&sr; seinem Rohre fort, und ohne zu verweilen,
+Sieht er dieselbige achthundert Schritte eilen.
+Kein eintzger Cörper ist, der nicht electrisch sey.
+Holtz, Steine, Blätter, Sand, ein Huhn, Stroh, Wasser, Bley,
+So er an jenen Strick vielfältig angebunden,
+Hat, wenn er den berührt, so fort die Krafft empfunden.
+<fr>Gray</fr> wagte e&sr; zuerst, und nahm ein mäßig Kind,
+Berührt e&sr; durch sein Rohr, daß ward hierdurch geschwind
+Auch electrificirt, zog tausend Kleinigkeiten
+Erst an, drauf stieß e&sr; weg, zog nochmahl&sr; an von weiten.
+Verwegner Britte <fr>Gray,</fr> kennst du genung die Krafft
+Von der unglaublichen, und neuen Eigenschafft?
+Und darffst du dich also, Verwegner, unterwinden,
+Dein Electricität mit Menschen zu verbinden?</pv>
+<pv><in>B</in>i&sr; hieher hatte man die Wunder schon gebracht,
+Al&sr; Gallien&sr; <fr>Du Fay</fr> sich an die Arbeit macht, <fn="<aq><i>g</i></aq>">27. <aq>seqq.</aq></fn>
+<bs>A 3</bs><cw>Der</cw>
+<pb="<aq>VI</aq>"/>
+Der wahrlich sich hierdurch ein Denckmahl aufgerichtet,
+Da&sr; keine Zeit verzehrt, die doch den Stahl zernichtet.
+Er fragt, hier lacht ein Thor, ob alle&sr; in der Welt,
+Wenn man e&sr; reibt und wärmt, dadurch die Krafft erhält?
+Versucht Porphyr, Achat, all&2019; Arten Marmor-Steine,
+All&2019; Arten edele, die Kiesel, weiche, Beine,
+Holtz, harte&sr;, weiche&sr;, Stroh, Papier, Horn, dürre&sr; Kraut,
+Die Muscheln, die so schön, so prächtig aufgebaut,
+Zeug, wollen, seyden, <fr>Tuch,</fr> der Fische Schuppen, Leder,
+Pech, Schwefel, Fischbein, Hartz, Gla&sr;, aller Vögel Feder,
+Wa&sr; sich nur reiben läßt, und nicht davon erweicht,
+Hat ohne Wiederspruch da&sr; Anziehn klar gezeigt.
+So läßt ein lebend Thier auf seinem rauchen Rücken
+Wenn man e&sr; etwa&sr; streicht dasselbe deutlich blicken.
+Allein wa&sr; flüßig ist, und sich nicht reiben läßt,
+Zugleich auch ein Metall, da&sr; doch genungsam fest,
+Da&sr; reibe wie du wilst, da ist nicht&sr; zu erwecken.
+Da muß der Stoff zu tieff in seinem Urgrund stecken.
+Doch alle&sr; flüßige, (hier nehm ich überall
+Die eintzge Flamme au&sr; <fn="*">Denn daß ein brennend Licht in einem Platze steht,
+Da meiner Kugel Krafft durch alle Räumlein geht,
+De&sr;megen kan ich e&sr; noch nicht electrisch nennen.
+Wenn&sr; zieht, und stößt, und knackt, so will ich e&sr; bekennen.</fn> und iegliche&sr; Metall,
+Da&sr; durch kein <fr>Reiben</fr> nie zu electrificiren,
+Läßt durch die <fr>Mittheilung</fr> die Wirckung scharff verspühren. <fn="<aq><i>h</i></aq>">29. <aq>Lex</aq> 11.</fn></pv>
+<pv><in>B</in>erühr also wa&sr; dir in aller Welt gelüßt&2019;t
+Durch etwa&sr;, so vor sich gar leicht electrisch ist,
+<bs>So</bs>
+<pb="<aq>VII</aq>"/>
+So siehst du, wie der Zeug so schnell von diesem eilet,
+Und jenem sich davor im Augenblick ertheilet.
+Hier, Leser wundre dich, die Wesen die allein
+Durch <fr>Reiben</fr> sehr geschwind, und starck electrisch seyn,
+Sind durch die <fr>Mittheilung</fr> fast gar nicht zu beleben,
+Da schwer electrische die schönste Wirckung geben.
+Nur mercke, wenn etwa&sr; durch solche Mittheilung
+Electrisch werden soll, so ist e&sr; nicht genung,
+Daß dein geriebne&sr; Rohr mit seinem Blitz e&sr; zünde,
+E&sr; sey denn, daß man noch den Umstand mit verbinde;
+E&sr; muß auf Seyde, Pech, Gla&sr;, solchen Sachen ruhn,
+Die leicht electrisch sind, sonst magst du alle&sr; thun,
+Wa&sr; immer möglich ist, so ist e&sr; fast vergeben&sr;,
+Und electrifieirst e&sr; kaum zeit deine&sr; Leben&sr;.
+Wenn du e&sr; gegentheil&sr; auf jene Dinge stellst,
+Und dein belebte&sr; Rohr nicht ferne von ihm hältst,
+Wird e&sr; in einem Huy von seiner Krafft durchgangen,
+Wa&sr; leichte&sr; bleibt so dann behende an ihm hangen.
+Wie? daß die <fr>Mittheilung</fr> den Cörper leicht belebt,
+Der unserm <fr>Reiben</fr> doch so eisern wiederstrebt?
+Wie? daß wir den, so wir doch leicht electrisch nennen,
+Durch diese Mittheilung so schwehr erwecken können? <fn="<aq><i>i</i></aq>">29. <aq>Lex</aq> 1.</fn>
+Gewiß, wer diese&sr; nur ein wenig überlegt,
+Zur Lehre der Natur gebührend Neigung trägt,
+Der wiederspricht mir nicht, wofern ich muthig schreibe,
+Wie tausend Schwierigkeit hier stet&sr; verborgen bleibe.
+Die Wunder de&sr; Magnet&sr;, die Ebbe mit der Fluth,
+Wie in dem Saamen schon ein künfftig Thierlein ruht,
+<cw>Ob</cw>
+<pb="<aq>VIII</aq>"/>
+Ob in der ersten Frucht die andern sich verhöhlen,
+Jst schwer, doch diese&sr; Ziehn weit schwerer zu erzehlen.</pv>
+<pv><in>A</in>uch scheinet e&sr; bey nah, al&sr; käm die stärckre Krafft
+Mit von der Farbe her, bey dieser Eigenschafft. <fn="<aq><i>k</i></aq>">30-32.</fn>
+Mein unermüdeter <fr>Du Fay</fr> da&sr; zu erfahren,
+Versucht neun Enden Band, die gleicher Grösse waren.
+Schwartz, weiß, roth, goldgelb, gelb, grün, blau, und indigo,
+Da&sr; letzte violet, an Farbe, doch also,
+Daß alle neune scharff in einer Reihe hingen,
+Drauf ließ er sich sein Rohr, da&sr; sehr electrisch, bringen,
+Da&sr; hielt er schnur gerad an alle hin, gleich weit.
+Da&sr; Schwartze kam zuerst, mit einer Fertigkeit
+Die unvergleichlich war, die ihn sehr offt ergötzte.
+Da&sr; Weisse, drauf die sech&sr;, da&sr; Rothe stet&sr; da&sr; letzte.
+<fr>Du Fay</fr> fuhr weiter fort, schnitt noch neun Scheiblein ab,
+Wie sie die Musterung von <fr>Newton&sr;</fr> Farben gab.
+De&sr; <fr>Newton&sr;,</fr> al&sr; durch den der Himmel un&sr; gezeiget,
+Wie groß der Menschen Witz wenn er am höchsten steiget.
+Er legt ein Blätgen Gold auf einen gläsern Fuß,
+Deckt&sr; mit dem Scheiblein zu. Dann blitzt sein Rohr. Er muß
+Nicht ohne wundern sehn, wie da da&sr; schwartz und weisse
+Dem Donner seine&sr; Rohr&sr; gantz undurchdringlich heisse,
+Da buntgefärbte ihm sehr wenig wiederstehn.
+Ja durch da&sr; Rothe will er offt am schnellsten gehn.
+Wer wollte nicht hierdurch fast augenscheinlich schliessen,
+Daß wir die Farben mit in <fr>Obacht</fr> nehmen müssen.
+<cw>Am</cw>
+<pb="<aq>IX</aq>"/>
+Am weitesten zog dort da&sr; Rohr ein schwartze&sr; Band.
+Unstreitig ist denn da&sr; der Krafft sehr nah verwandt.
+Da&sr; Rothe kam zu letzt. Da&sr; hat denn mit dem Ziehen
+Am wenigsten zu thun. Wer will sich nun bemühen,
+Daß durch den schwartzen Ring die Wirckung dringen soll?
+Er nimmt die Krafft vor sich, zieht sich damit gantz voll.
+Da&sr; rothe Band war dort am schwersten zu erfassen.
+Da&sr; raubt nicht, hält nicht auf, wird alle&sr; durch sich lassen.</pv>
+<pv><in>W</in>ahrscheinlich gnung gesagt. Doch al&sr; <fr>Du Fay</fr> gemerckt,
+Wenn sein crystallne&sr; Rohr durch&sr; Reiben sehr gestärckt,
+So zieh e&sr; auch da&sr; Gold selbst durch die schwartzen Ringe,
+So zweifelt er, ob da&sr; wohl an den Farben hinge.
+Nahm Farben, wie er sie in <fr>Floren&sr;</fr> Tempel fand,
+Und die natürlich sind, die nicht de&sr; Künstler&sr; Hand
+Durch seinen Sud verfälscht. Die weisseste Narcisse,
+Die selbst den Schnee beschämt, der Tulpen schwartze Spiesse,
+Der Rosen schimmernd Roth, hochgelbe Lilien,
+Den blassesten Genist dort au&sr; Hi&sr;panien,
+Ein Blat, ein grüne&sr; Gra&sr;, so dem Smaragde gleichet,
+Den stoltzen Hyacinth, dem fast der Himmel weichet,
+Der blauen Veilgen Sammt, den Purpur Amaranth,
+Den allen droht sein Rohr sehr muthig, und er fand:
+Hier thut die Farbe nicht&sr;, je kleiner diese Blätter,
+Je weiter reißt sein Rohr sie an sich, wie ein Wetter.</pv>
+<pv><in>G</in>eschicktester <fr>Du Fay</fr> du bist noch nicht vergnügt,
+Weil dir die Wahrheit gar zu sehr am Hertzen liegt,
+<bs>B</bs><cw>Ver-</cw>
+<pb="<aq>X</aq>"/>
+Versuchst, o welcher Fleiß, in einem dunckeln Zimmer,
+Mit <fr>Newton&sr;</fr> Pri&sr;mate der Farben Blitz und Schimmer.
+Du Zier Britannien&sr;. Jedoch wa&sr; schreibt mein Kiel,
+Der mehr al&sr; zwanzigmahl mir auf&sr; Papier hinfiel?
+Du Zier der Menschheit selbst, kaum kan ich hier mich binden,
+Dir Opffer, oder doch den Weyrauch anzuzünden.
+Al&sr; <fr>Newton&sr;</fr> Dreyeck nun, und da&sr; ganz unverweilt,
+Den erst vermischten Strahl der Sonne rein getheilt,
+Prangt dort ein lange&sr; Roth, so allen Purpur blendet.
+Da&sr; Gelbe folgt. Kein Gold so un&sr; Potosi sendet,
+Kommt diesem Glantze bey. Kein Gra&sr; ist ie so schön,
+So lebhafft kein Smaragd, er muß beschämet stehn,
+So blitzt der Sonnen grün. Da&sr; blau von den Sapphiren,
+Womit Bi&sr;nagar prangt, muß Feur und Schein verliehren.
+Allein hier stutzt <fr>Du Fay,</fr> weil sein Oracul schweigt.
+Denn welch gefärbten Licht er auch sein Rohr gezeigt,
+So zieht e&sr; keine&sr; an. Er setzt die weissen Ringe,
+Daß dieser roth, dann gelb, grün, blaue&sr; Licht empfinge,
+Und hinter solchen hing da&sr; obberührte Band,
+Von dem kein eintzige&sr; de&sr; Rohre&sr; Hauch empfand.
+Er macht die Scheiblein warm, und in den Augenblicken
+Sieht er de&sr; Rohre&sr; Blitz die Bänder zu sich rücken.
+<fr>Du Fay</fr> versucht noch viel, und zeiget drau&sr; zuletzt,
+Da&sr; die Natur sich da zur Regul vorgesetzt:
+&q;Die Farb, al&sr; Farbe, thut nicht&sr; zu den Wunder-Sachen,
+&q;Doch etwa&sr; thut der Stoff worau&sr; wir Farben machen. <fn="<aq><i>l</i></aq>">32. <aq>Lex</aq> 111.</fn></pv>
+<cw>Mein</cw>
+<pb="<aq>XI</aq>"/>
+<pv><in>M</in>ein trefflicher <fr>Du Fay</fr> wirfft hier die Frage auf:
+Welch Art von Cörpern hemmt wohl de&sr; Electri Lauff?
+Hält Gla&sr;, Papier, Metall, Holtz, tausend solche Dinge,
+Dort über leichte&sr; Gold, ob da&sr; die Krafft durchdringe.
+Und thut mit Fleiß und Müh unwiedersprechlich dar:
+&q;Ein Cörper der vor sich selbst <fr>leicht electrisch</fr> war
+&q;Läßt diesen zarten Strohm durch seine Höhlen gehen,
+&q;Der nur durch <fr>Mittheilung</fr> wird ihn zurücke wehen, <fn="<aq><i>m</i></aq>">32-34. <aq>Lex IV.</aq></fn>
+&q;Wenn man ihn nicht vorher erwärmt, wohl gar erhitzt.
+Da sieht man wie der Zug selbst durch Metalle blitzt.
+Vermuthlich sind hierdurch die Oeffnungen erweitert,
+Jn welchen zu vorher da&sr; zarte Werck gescheitert.
+Sein wundersame&sr; Rohr jagt Funck und Wellen fort,
+So schnell al&sr; einen Pfeil, an sehr entfernten Ort.
+Ein aufgespannte&sr; Seyl von dreyzehn hundert Schritten <fn="<aq><i>n</i></aq>">25</fn>
+Zog dort am End an sich so scharff al&sr; in der Mitten.
+Jch hab e&sr; auch versucht, wie sehr schwehr diese&sr; fällt.
+Der Strick den man erwehlt, die Lage, wa&sr; ihn hält,
+Wa&sr; ihm etwa zu nah auf allen beyden Seiten,
+Da&sr; alle&sr;, alle&sr; macht un&sr; tausend Schwierigkeiten
+Doch die sind nun vorbey. Nun untersteh ich mich,
+Wenn iemand wetten will, e&sr; sey, so stell ich dich
+Auf Pech, Gla&sr;, Seyde hin, von mir zehn deutsche Meilen,
+Mein Zug soll wie ein Blitz am Bande zu dir eilen.</pv>
+<pv><in>A</in>uf meine <fr>Muse,</fr> auf. Jetzt thu durch meinen Mund
+Da&sr; unbegreifflichste von allen Wundern kund.
+<bs>B 2</bs><cw>Ver-</cw>
+<pb="<aq>XII</aq>"/>
+Verschaffe, daß mein Kiel hoch, feurig, männlich bleibe,
+Wa&sr; wunderbahr zu sehn, auch wunderbahr beschreibe.
+<fr>Du Fay</fr> electrisirt den Menschen durch sein Rohr. <fn="<aq><i>o</i></aq>">34-38.</fn>
+Wa&sr;, Muse, thun sich da vor neue Wunder vor.
+Der Mensch zieht alle&sr; an, stößt weg, und leichte Kleyen
+Wie fahren die herum in Schnecken gleichen Reyhen.
+Kommst du mit deiner Hand dem Menschen ziemlich nah,
+Und offt auf einen Zoll, so findest du allda
+Ein Blasen, einen Hauch, der laulicht anzufühlen,
+Und merckst an deiner Hand, wie kleine Wirbel spielen.
+Doch wage noch wa&sr; mehr, berühre seine Hand,
+Du zuckst, und fragst bestürtzt: Wa&sr; ist&sr; da&sr; ich empfand?
+Wa&sr; stach mich? Wa&sr; war da&sr;? ich bin ja nicht verletzet?
+So weit hat mein <fr>Du Fay</fr> die Sach in&sr; Licht gesetzet.</pv>
+<pv><in>K</in>aum daß Batavien die Wunder nur gehört,
+Wie unsre Feder hier dieselbigen gelehrt,
+So zeigt sie <fr>Musschenbröck</fr> <fn="<aq><i>p</i></aq>">1739.</fn> mit ungemeinen Fleisse,
+Nach der Jhm eigenen, so klaren, bündgen Weise.
+Der schnelle Ruff darvon kam bald darauf gar fern,
+Bi&sr; zu den kalten Nord. Der muntre <fr>Klingenstern</fr> <fn="<aq><i>q</i></aq>">1740. <aq>d. 26. Novembri&sr;. 1742. d. 3. Aprili&sr;.</aq></fn>
+Versucht e&sr; fast erstaunt. E&sr; sammlet <fr>Doppelmäyer</fr> <fn="<aq><i>r</i></aq>">1743. <aq>d. 20. Sept.</aq></fn>
+Wa&sr; man bi&sr;her gewußt vom Anziehn und vom Feuer.
+Auch selbst mein <fr>Hausen</fr> legt nach mir die Hand mit an. <fn="<aq><i>&sr;</i></aq>">1743 <aq>d. 3. Octobri&sr;.</aq></fn> <fn="**">Jn dem fünff und funffzigsten Theile der zuverläßigen Nachrichten <aq>pag.</aq> 474 fin-
+det man, daß Herr <aq>Professor</aq> Hausen die Hauk&sr;bejsche Kugel zu denen electri-
+<cw>schen</cw></fn>
+Und Halle tritt vergnügt auf diese Feuer Bahn.
+<cw>Seht</cw>
+<pb="<aq>XIII</aq>"/>
+Seht <fr>Krüger&sr;</fr> muthgen Kiel. <fn="<aq><i>t</i></aq>">1743. <aq>d. 21. Decembri&sr;.</aq></fn> Seht den erfahrnen <fr>Langen</fr> <fn="<aq><i>u</i></aq>">1744. <aq>d. 8. 15. Iunii.</aq></fn>
+Wie sie hier ebenfall&sr; mit ihren Kräntzen prangen.
+Dann stehet in Berlin mein <fr>edler Ludolff</fr> auf. <fn="<aq><i>x</i></aq>">1744. <aq>d. 23. Januarii.</aq></fn>
+Verdoppelt Müh und Schritt und steigt im Helden Lauff.
+Wie groß ist nicht <fr>Dein Ruhm?</fr> durch <fr>Dein</fr> und mein Exempel
+Baut Dantzig ebenfall&sr; sich einen Ehren-Tempel.
+Mein <fr>Ludolff</fr> gönn e&sr; mir. E&sr; weyht <fr>Dir</fr> diese&sr; Blat,
+Die Cronen, die <fr>Dein</fr> Fleiß mit mir verdienet hat.
+<fr>Du, Ludolff,</fr> oder ich wir müssen&sr; noch entdecken,
+E&sr; mag sich die Natur, so schlau sie will, verstecken.
+Jhr <fr>Helden</fr> in der Kunst, die ihr so billig lebt,
+Und niemand etwa&sr; raubt, da&sr; seine jedem gebt,
+Spart weder Zeit noch <fr>Müh,</fr> die Großmuth edler Seelen
+Entblößt, wa&sr; die Natur bemühet zu verhöhlen.</pv>
+<pv><in>A</in>uf meine Muse auf. Ermuntre dich allhier.
+Nimm Adler&sr; Flügel an. Erzehle wie sich mir
+Ein ungemeine&sr; Glück, und unverhofft ereignet.
+Allein die Glut zu sehn, die hier mein Kiel bezeichnet.
+<fr>Die Zier Germanien&sr;,</fr> so gleich sagt dir dein Sinn,
+Daß diese&sr; niemand ist al&sr; <fr>Anspach&sr; Maggräfin,</fr>
+Jn <fr>Deren Wesen</fr> zwar die <fr>Anmuth</fr> selber lieget,
+Wozu die <fr>Majestät</fr> der Könige sich füget.
+<bs>B 3</bs><cw>Jn</cw>
+<fnf>schen Versuchen nicht ehe al&sr; in einem <aq>collegio experimentali</aq> zu brauchen an-
+gefangen, welche&sr; er kurtz vor seinem Tode gehalten. Nun ist dieser <aq>anno</aq>
+1743. den 2. Mey erfolget.</fnf>
+<pb="<aq>VIX</aq>"/>
+Jn <fr>Deren</fr> Adern noch de&sr; <fr>Grossen Friedrich&sr; Blut,</fr>
+Sieh, Nord und Ludwig bebt, in vollen Kräfften ruht,
+<fr>Die Zier Germanien&sr;</fr> verändert <fr>Jhre</fr> Reise.
+Daß ich in Wittenberg <fr>Jhr</fr> solche Wunder weise.
+O ungemeine&sr; Glück. Gewiß, ein Hannibal,
+Der dort bey Cannä siegt, Blut, Untergang und Fall,
+Der stoltzen Tiber droht, kan bey erkämpfften Kräntzen
+Vor seinen Puniern nicht so voll Freude gläntzen,
+Al&sr; ich, da mir da&sr; Glück im höchsten Gipffel war.
+Weiß nicht ein iederman wie ungewöhnlich rar,
+E&sr; heut zu Tage ist, daß große König&sr; Kinder
+Nach solchen Sachen sehn? Und doch nicht&sr; desto minder
+Forscht <fr>Deine Hoheit selbst, Durchlauchtste Marg-
+<et>Gräfin,</et></fr>
+&q;Ob ich auch also sey wie ich beschrieen bin.
+Auf demnach Muse auf. Auf Palla&sr; öffne selber,
+Der schönsten Poesie verschlossenste Gewölber.
+Auf, <fr>Jhro Hoheit</fr> kommt -- Wie heiß ist nicht der Tag.
+Wer weiß, wie schwach mein Feur sich heute zeigen mag.
+Ach! e&sr; steht alle&sr; wohl so still al&sr; eine <fr>Mauer.</fr>
+Auf, <fr>Jhro Hoheit</fr> kommt. Mich rührt ein heilger Schauer.
+<fr>Du</fr> thust, <fr>Durchlauchtigste,</fr> noch kaum den ersten Tritt,
+So bringst <fr>Du</fr> Anmuth, Glück den Himmel selber mit.
+Wenn <fr>solche Fürstinnen</fr> die Wunder sehen sollen,
+Frag ich nicht&sr; nach der Lufft. Gnung, <fr>Jhro Hoheit</fr> wollen.
+Seht wie die Kugel sich einmahl in Wirbel reißt.
+Seht wie der Degen gleich die Feuer Flocken schmeißt.
+<cw>Wie</cw>
+<pb="<aq>XV</aq>"/>
+Wie lebhafft sticht der Mensch. Jch führe Glut, und Schimmer
+Jm Augenblicke fort biß in da&sr; dritte Zimmer.
+Der Spiritu&sr; entflammt. Die Fräulein welche <fr>Dir
+Durchlauchtste Marggräfin,</fr> kaum gönn ich diese&sr; Jhr,
+Stet&sr; so gar nahe ist, o ungemeine&sr; Glücke,
+Versucht&sr;. Jhr Funcken sticht, blitzt, zündt im Augenblicke.
+Die holde Fräulein wirfft, Glut, Schimmer, Knall und Strahl,
+Zieht ihre Hand zurück, und sticht doch noch einmahl.
+Sieh, <fr>Fürstin,</fr> wa&sr; mein Feur, vor Ehrfurcht vor <fr>Dich</fr> führet,
+Wie e&sr; so lebhafft ist, ja sich nicht gleich verliehret.
+Doch da&sr; ist nicht genung, daß <fr>Jhro Hoheit Sich</fr>
+Die Wunder zeigen läßt. <fr>Sie</fr> unterichtet mich.
+Trotz, Leser wer du bist. Kanst du so schöne Lehren
+Von so <fr>Durchlauchtigsten,</fr> und <fr>Schönsten Fürstin</fr> hören?
+O <fr>grosse Marggräfin,</fr> e&sr; weyht <fr>Dein Holder Mund</fr>
+Noch hohe Schulen ein, thut den Gelehrten kund,
+Wie <fr>göttlich Dein Verstand</fr> im Lehren und im Streiten,
+Du <fr>Wunder</fr> unserer und der zukünfftgen Zeiten.
+Wa&sr; <fr>Jhro Hoheit Selbst</fr> vor einen Vorschlag that;
+&q;Man dreh in einem fort dein wundersame&sr; Rad,
+&q;Electrisire da die Menschen viele Stunden,
+&q;Zu wissen, wa&sr; sie doch an ihnen selbst empfunden:
+Da&sr;, <fr>Grosse Fürstin,</fr> ist anietzt mein Augenmerck,
+Auf <fr>Deinen Winck</fr> thu ich vielleicht ein Wunderwerck.
+Auf <fr>Deinen Winck</fr> entdeck ich tausend neue Sachen.
+Die meinen Nahmen denn durch <fr>Dich</fr> unsterblich machen.
+<cw>Wie</cw>
+<pb="<aq>XVI</aq>"/>
+Wie <fr>Deine&sr; Bruder&sr;</fr> Schwerdt im Felde siegt und blitzt,
+Die Feinde stet&sr; zerknirscht, die Unterthanen schützt,
+Wie <fr>Seine Majestät ein König am Gemüthe,</fr>
+Der Länder <fr>Salomo,</fr> ein <fr>Titu&sr;</fr> an der Güte;
+Wie <fr>Dein Durchlauchtigster Gemahl</fr> ein Vater ist,
+Der Bürger Wohl besorgt, so <fr>Grosse Fürstin</fr> bist
+<fr>Du Jhnen beyden</fr> gleich. <fr>Dein Anblick</fr> lehrt un&sr; leichte,
+Wie eine Göttin sich auf unsrer Erden zeigte.
+Doch wenn ein Sterblicher an eine Gottheit denckt,
+Jn da&sr; unendliche, al&sr; in ein Meer sich senckt,
+Da&sr; unerforschlich ist, so muß er untergehen.
+Au&sr; Ehrfurcht werd ich mich da&sr; niemahl&sr; unterstehen.
+Und schliesse Andacht&sr; voll: Der Höchste laß allezeit,
+<fr>Durchlauchtste Marggräfin,</fr> nach <fr>Deiner Würdig-
+<et>keit,</et></fr>
+Nach <fr>Deiner Hoheit Dich</fr> von Seraphinen tragen,
+Und wa&sr; <fr>Dein Hertz</fr> verlangt, da&sr; komme, auf <fr>Dein Sagen.</fr></pv>
+<abb>
+<cw><b>Die</b></cw>
+<pb>
+<d1><g>Die
+<b>Electricität</b>
+nach ihrer</g>
+<b>Entdeckung und Fortgang</b>
+<g>Mit
+<b>Poetischer Feder</b>
+entworffen
+<b>Da&sr; zweyte Buch</b></g></d1>
+<pb>
+<pb>
+<ded><c><b><g>Der</g>
+Erlauchten und Hochgebohrnen Frauen
+<g>FRAUER
+De&sr; Heiligen Römischen Reich&sr;
+Vermähleten
+Freyen Reich&sr;-Gräfin</g>
+von <g>Brühl
+Gebohrnen Gräfin</g>
+von Collowrat
+<g>Meiner Gnädigsten
+Gräfin
+und
+Frau</g></b></c></ded>
+<pb>
+<pb>
+<ded><c><in>V</in>erzeih, <fr>Erlauchte Frau,</fr> daß meine
+Wenigkeit
+<fr>Dir,</fr> sondrer Ehrfurcht voll, die schlechten Blät-
+ter weyht.
+Jch hätte solche&sr; mich wohl niemahl&sr; unterwun-
+den.
+Doch die glückseeligen und mir so edlen Stunden,
+Da <fr>Dir</fr> gefiel, bey mir die Wunder anzusehn,
+Erregten meinen Kiel. Daher ist e&sr; geschehn,
+<fr>Dein Blick</fr> erweckete die Fähigkeit in mir.
+Wa&sr; also von <fr>Dir</fr> kommt, da&sr; wiedm&2019; ich bil-
+lig <fr>Dir.</fr></c></ded>
+<pb>
+<pb>
+<abb>
+<d1><b><g>Die Electricität.
+<hr>
+Da&sr; zweyte Buch.</g></b>
+<hr></d1>
+<cit><aq><g>VIRG.</g> &00C6;n. I. 1.
+<et>Nunc mea sola cano.</et></aq></cit>
+<hr>
+<pv><in>G</in>epriesener <fr>Du Fay,</fr> so schön gingst Du mir für,
+Da&sr; rühm ich öffentlich. Jch folgte gleich nach Dir.
+Die Wahrheit redt vor mich. So darf ich da&sr; wohl
+<et>setzen.</et>
+Sie sieget endlich doch. Wer wolte sie verletzen?
+Dein Angedencken soll niemahl&sr; bey mir vergehn.
+Auch werd ich deinen Ruhm, so lang ich leb, erhöhn.
+Nur alle&sr; wa&sr; Du thatst, thast Du mit hohlen Röhren,
+Die gut, wenn sie nur nicht so sehr beschwerlich wären.
+<cw>Jch</cw>
+<pb="<aq>XXIV</aq>"/>
+Jch nahm zu allererst mit viel Bequemlichkeit <fn="<aq><i>a</i></aq>">1737. <aq>autumno. pag.</aq> 54, 55.</fn>
+De&sr; <fr>Hauck&sr;bej&sr;</fr> Kugel an, wodurch in wenig Zeit,
+Wa&sr; sonst da&sr; Rohr mit Müh, nicht lang, auch schwach gezeiget,
+Unendlich stärcker wird, ja alle&sr; übersteiget.
+So bald bey mir der Mensch auf Pech und Sieglack tritt,
+Theilt meine Kugel ihm so fort die Kräffte mit.
+Man fühlt auf vier, fünff Zoll ein deutlich warme&sr; Wehen,
+Wie tausend Wirbel sich in tausend Kreysen drehen.
+Berührest du hierauf den Menschen mit der Hand,
+So fährst du schnell zurück, und fragst, wa&sr; dich gebrannt.
+Welch stechen? Welch ein Knack? Hat niemand nicht&sr; gehöret?
+Wie? ist da&sr; Hexerey? Hat mich etwa&sr; bethöret?
+Versuch e&sr; noch einmahl. Der Todt folgt nicht darnach.
+Du wagst&sr;, und ziehst zurück. E&sr; ist doch wa&sr; da&sr; stach,
+Sprichst du verwundrung&sr; voll. Auch hab ich klar vernommen,
+Da&sr; Stechen ist nicht still, e&sr; ist mit Prasseln kommen.
+Da&sr; thut nicht nur die Haut. Berühre doch sein Kleid.
+Auch dadurch sticht e&sr; dich mit vieler Hefftigkeit.
+Und in der Finsterniß, ja gar am hellem Tage,
+Sieht man, daß dieser Stich ein Feuer bey sich trage,
+Jch noch begieriger, ging auf da&sr; Arsenal.
+Nahm unsrer Garnison gleich zwantzig an der Zahl, <fn="*">Vernunfft nicht wahr du lachst, von meinen zwantzig Leuten
+Wie schwehr ein jeder wog sorgfältig anzudeuten?
+Wer nur sein Kind versucht, der zeigt e&sr; fleißig an.
+Sein Anhang lobt&sr;, und preißt den accuraten Mann.</fn> <fn="<aq><i>b</i></aq>">82.</fn>
+Electrisirte die. De&sr; Marti&sr; tapffre Söhne
+Verübeten vielleicht vorher wohl ihr Gehöhne.
+<cw>Davon</cw>
+<pb="<aq>XXV</aq>"/>
+Davon berührete der eine nur, und kaum,
+Der Kugel schnelle&sr; Rund, so lag der gantze Raum,
+Viel schneller al&sr; man glaubt, in de&sr; Electri Fesseln.
+Wen man begriff, der stach, und brennte trotz den Nesseln. <fn="<aq><i>c</i></aq>"><aq>p.</aq> 38.</fn>
+Allein nimm tausend Mann, und nimm nur wohl in Acht,
+Daß sie auf Cörpern stehn, wie ich e&sr; schon gedacht,
+So bald der erste sich fast an die Kugel steiffet,
+So sieh, wie dieser Strohm gleich über alle läuffet.
+Der letzte zieht so fort auch dicke Stricke an,
+Und sticht, daß schwache Faust e&sr; kaum ertragen kan.
+Da&sr; Knacken höret man dabey so unvermeidlich,
+Bey mir ist&sr; schon geschehn, auf achtzehn Schritte, deutlich.
+Allein die Flamme sticht nicht etwan nur einmahl.
+Laß deinen Finger drauf, so brennt e&sr; ohne Zahl,
+So, wie ein Funcken thut. E&sr; klingt auch solche&sr; Rasseln, <fn="<aq><i>d</i></aq>">84.</fn>
+Gleich so, al&sr; hörte man da&sr; Saltz im Feuer prasseln.
+Wa&sr; diese&sr; unser Heer in seine Hände nimmt,
+Da&sr; wird in Augenblick zu gleicher Krafft bestimmt,
+Und offt ist dieser Stich so hart, so unerträglich,
+Al&sr; macht er Sehn und Nerv durch Arm und Hand beweglich.</pv>
+<pv><in>A</in>uch stand wohl eh bey mir auf Pech ein grosser Tisch, <fn="<aq><i>e</i></aq>">65.</fn>
+Und auf demselbigen Confect, Obst, Braten, Fisch,
+<bs>D</bs><cw>Wein</cw>
+<pb="<aq>XXVI</aq>"/>
+Wein, Teller, Schüsseln, Saltz, Bier, Messer, Serviette,
+Und hundert Sachen mehr. Versuch e&sr;, und ich wette,
+Der Funck ist überall, nur mit dem Unterscheid.
+Der eine Funcke sticht, und wen er trifft, der schreyt.
+Ein andrer aber zischt mit einem stillen Knarren, <fn="<aq><i>f</i></aq>">61. 66.</fn>
+Und scheint, doch auf die Glut wirst du vergeben&sr; harren.
+Mensch, Wasser, Fleisch, Metall, al&sr; Cörper die vor sich
+Gar nicht electrisch sind, da&sr; alle&sr; rühret dich,
+So starck, so ungemein, e&sr; schwirret durch die Nerven,
+Al&sr; wolt e&sr; selbige au&sr; allen Gliedern werffen.
+Wa&sr; aber Sachen sind, so durch da&sr; Reiben schon
+Die Wunder-Wirckung thun, da folgt ein schwacher Ton.
+Hier meynest du: wie kan da&sr; wohl ein Feuer heissen,
+Davon die Funcken sich so klar im Wasser weisen?
+Ehr wird der Erden nicht&sr; die Sonne zu sich ziehn.
+Der Löwe Libyen&sr; vor Angor&sr; Ziegen fliehn. <fn="<aq><i>g</i></aq>"><aq><i>Tournefort</i>. voi. Tom. 11. pag. 463. edit. du Louvre.</aq></fn>
+Der längste Tag die Sonn im tieffsten Steinbock leiten.
+Ehr wird erweichte&sr; Gla&sr; den Diamant zerschneiden.
+Ehr unser Feuer dort in jenem Wasser blitzt.
+Und wenn man e&sr; berührt, so hell au&sr; Wellen sprützt,
+Daß e&sr; gar offtermahl&sr; de&sr; Glase&sr; Grund erleuchtet. <fn="<aq><i>b</i></aq>">64.</fn>
+So lange, der&sr; versucht, den Finger nicht befeuchtet.</pv>
+<cw>Doch</cw>
+<pb="<aq>XXVII</aq>"/>
+<pv><in>D</in>och wenn mein Funcken nun in helle Flammen bricht,
+Und zündet, stecket an, da leugnest du doch nicht,
+Da&sr;jenige, wodurch wir wa&sr; entflammen können,
+Sey ohne Wiederspruch recht Feuer zu benennen?
+Auf, mache dich bereit. Ein neue&sr; Wunder droht,
+Du wirst vor Warten schon, vor Furcht der Dinge roth.
+Ja alle&sr; wa&sr; wir dir bi&sr;hero vorgetragen,
+Jst Kleinigkeit, bey dem, wa&sr; wir anietzo sagen:
+Wenn Menschen und Metall scharff electrificirt,
+Und jene&sr; Finger fast den Brandewein berührt,
+So folget Funck, auf Funck, und Strahl, auf Strahl, und Blitzen,
+Die offtmahl&sr; deine Hand betäuben, ja fast ritzen.
+Und auf die letzte brennt so gar der Brandewein. <fn="<aq><i>i</i></aq>">77.</fn>
+Hier muß, trotz leugn e&sr; mir, ein wahre&sr; Feuer seyn.
+Den lösche hundertmahl. Dein Finger zündet hundert,
+Ja noch mehr mahl, ihn an. Wer&sr; sieht, der stutzt verwundert.
+So, wie die rothe Glut au&sr; schwartzen Wolcken fährt,
+Jetzt jenen Strahl durchcreutzt, jetzt recht&sr;, jetzt linck&sr; sich kehrt,
+Und tausend Flammen schießt, und Funck und Feuer regnet,
+Und schon ein neuer Blitz dem alten Strahl begegnet:
+So fährt ein Wetter hier zu deinem Finger rau&sr;.
+Vergebenst bläsest du die helle Kertze au&sr;.
+<bs>D 2</bs><cw>Du</cw>
+<pb="<aq>XXVIII</aq>"/>
+Du selbst bist Zunder gnung sie wieder anzustecken.
+Nicht nur im Alcohol kanst du die Glut erwecken.
+Nimm alle&sr; wa&sr; leicht brennt, Oel, Schwefel, Spiritu&sr;, <fn="<aq><i>k</i></aq>">70. 78.</fn>
+Pech, Hartze, Siegelwach&sr;, erwärm e&sr; hoch. E&sr; muß
+Durch diesen Funcken gleich blutrothe&sr; Feuer fangen.
+Jch, damit nicht vergnügt, bin noch viel weiter gangen:
+De&sr; Pulver&sr; donnernd Schwartz wird auf zwölff Zoll belebt,
+Daß e&sr; an dem Metall, und denen Fingern klebt.
+Doch schmeltz e&sr;. Sieh dich für. Laß deine Funcken strahlen.
+E&sr; fängt, blitzt, donnert, zündt, und knallt zu tausend mahlen. <fn="<aq><i>l</i></aq>">70. 78.</fn>
+Nur kochen kont ich nicht. Bald hätt ich mich gehärmt.
+Doch Oel von Terpentin, und andre mehr, erwärmt,
+Berühr electrisirt, wen hätt&2019; e&sr; ie geträumet,
+Daß da&sr; recht kocht, dann brennt, erst tausend Wellen schäumet. <fn="<aq><i>m</i></aq>">78.</fn>
+Du zitterst, fast auch ich. Der doch schon längst, o Lust, <fn="<aq><i>n</i></aq>">1743. <aq>autumno.</aq> 70.</fn>
+Da&sr; wundrung&sr;würdige von dieser Glut gewust.
+Ey fragst du halb erzürnt, ist denn der Mensch voll Feuer?
+So machst du un&sr; wohl gar zu Aetnä Ungeheuer.
+Daß nun da&sr; Schrecken nicht durch deine Glieder dringt,
+Und dir ein kleiner Artzt ein groß <aq>Lau&sr; Deo</aq> bringt,
+So muß ich dir ja wohl wa&sr; lieblicher&sr; erzehlen.
+Doch wenn du lüstern bist, mit Venu&sr; Flammen quälen.</pv>
+<cw>Ein</cw>
+<pb="<aq>XXIX</aq>"/>
+<pv><in>E</in>in Engel, dessen Blick sofort da&sr; Hertze raubt,
+Wenn seine Schönheit nur da&sr; blosse Sehn erlaubt,
+Und der, wofern da&sr; Glück sich nach Verdiensten acht&2019;te,
+Zum allerwenigsten noch Kronen glücklich machte.
+De&sr; Taille Venu&sr; gleicht. Wo auf den Lippen Glut,
+Und Ro&sr; und Lilie auf keuschen Wangen ruht.
+Jn dessen Augen Blau die helle Sonne blicket.
+Und wo die sammtne Hand berührt, auch gleich entzücket.
+De&sr; weisser Schwanen-Hal&sr; selbst Stoen&sr; Härte droht,
+Und wo, - - der Philosoph erstarrt, wird blaß, und roth, - -
+Der unschuld&sr;-volle Schnee der Blut-gekrönten Brüste
+Der schönsten Menschlichkeit ein ewig Prunck-Gerüste.
+Ein solch bezaubernde&sr;, anbetung&sr;würdge&sr; Kind
+Wird electrificirt, so schnell al&sr; wie ein Wind.
+Unstreitig wird hierdurch mein wunderbare&sr; Feuer,
+Viel Millionen mahl so edel, werth, und theuer.
+Berührt ein Sterblicher etwan mit seiner Hand
+Von solchem Götter-Kind auch selbst nur da&sr; Gewand,
+So brennt der Funcken gleich, und da&sr; durch alle Glieder.
+So schmertzhafft al&sr; e&sr; that, versucht er&sr; dennoch wieder,
+Berührt, halbzitternde, den Alabaster Arm.
+Von weiten fühlt er schon, hier werd ihm bang und warm.
+Und kommt er näher hin, gleich sengt die helle Flamme.
+Er findet, daß ihn die zur Sclaverey verdamme.
+<bs>D 3</bs><cw>Doch</cw>
+<pb="<aq>XXX</aq>"/>
+Doch nicht nur durch&sr; Gewand, durch den geschnürten Leib
+Wirckt dieser Funcken durch. Jch rathe, werther, bleib,
+Noch ist e&sr; Zeit, zurück. E&sr; noch einmahl zu wagen,
+Wird ohne Hülff und Rath dich in die Ketten schlagen.
+Vom stoltzen Fischbein-Rock ist hier der tieffste Reiff. <fn="<aq><i>o</i></aq>">66.</fn>
+Hast du noch so viel Hertz? so wag e&sr;. Aber greiff
+Gar sehr behutsam dran. Er sticht. Wa&sr; ist e&sr; wunder,
+Wofern du Feuer fängst? indem du wie von Zunder.
+Ein aussereintzigmahl versucht ich e&sr;, und nahm <fn="<aq><i>p</i></aq>">69.</fn>
+Der Venu&sr; einen Kuß, <fn="*">Wem diese&sr; ärgerlich, ach! der nehm einen Stein,
+Und spring in&sr; Meer und Kolck, wo die am tieffsten seyn.</fn> doch Himmel wie bekam
+Mir solcher Frevel-Muth. E&sr; schien, ein schmetternd Stechen
+Verdrehte fast den Mund. Die Zähne wolten brechen.</pv>
+<pv><in>D</in>u zweiffelst wohl vielleicht, ob meine Feder nicht
+Allhier ein wenig mehr al&sr; strenge Wahrheit spricht.
+Wenn mir nun einige nicht gerne glauben wollen,
+So macht e&sr; so, wofern die Zähne knirschen sollen.
+Der Mensch der seine Krafft von meiner Kugel nimmt,
+Der zu dem schmertzlichsten Versuche sich bestimmt,
+Darf einen Thaler nur knapp in die Zähne fassen.
+Doch in die Zähn&2019; allein. Die Lippen weggelassen.
+<cw>Ein</cw>
+<pb="<aq>XXXI</aq>"/>
+Ein andrer rühre drauf den harten Thaler an,
+Wenn jener starck genung, daß er ihn halten kan,
+So raßt ein Zitterschmertz ihm nauf in da&sr; Gehirne.
+Die Zähne beben fast. E&sr; schmettert in der Stirne.
+Hält er ihn allzuschwach, so prallt der Stoß so hart,
+Die weil er gantz gewiß ihn nicht so starck erwart&2019;t,
+Schlägt ihm den Thaler rau&sr; mit einem lauten Krachen. <fn="<aq><i>q</i></aq>">58.</fn>
+Jhm thut e&sr; grä&sr;lich weh, wenn schon die andern lachen.</pv>
+<pv><in>H</in>ier ist&sr; der Mühe werth. Nimm ein Crystallne&sr; Rohr,
+(Ein weisse&sr; geht allzeit dem dunckelgrünen vor)
+Dem auf der Antlia die Lufft recht rein zu nehmen.
+Versieh hier nicht&sr;. Sonst wird dich der Versuch beschämen.
+Wenn alle Lufft herau&sr; electrisirt ich&sr; scharff,
+Biß daß e&sr; von sich selbst Blitz, Flamm, und Funcken warff.
+Und hielt&sr; in Wirbel hin der schnell getriebnen Sphäre.
+Da&sr; war fürwahr al&sr; ob ich in den Wolcken wäre.
+E&sr; fuhr Licht, Schimmer, Feur in diesem Leeren rum,
+Wie tausend Wetter thun, ich ward erfreut, doch stumm.
+Die Strahlen schossen stet&sr; wie Schlangen durch einander.
+Krumm wie <fr>Ulysse&sr;</fr> reißt, und <fr>Pellen&sr; Alexander.</fr>
+Nicht etwan so, al&sr; wie wenn sich da&sr; Wetter kühlt.
+Vollkommen so, al&sr; wie ein starcke&sr; Nord-Licht spielt.
+<cw>Gang,</cw>
+<pb="<aq>XXXII</aq>"/>
+Gang, Wendung, Flocken, Glantz. E&sr; nur einmahl erblicken,
+Vermag kein Wort so gut, al&sr;: <fr>Nord-Licht,</fr> au&sr;zudrücken.
+Drauf nahm ich leeren Raum, die gantze Antlia
+Zur Electricität, forscht&2019; jedem nach, wa&sr; da
+Vor neue Wirckung wär. Weil alle&sr; durchgegangen,
+Soll da&sr; zu seiner Zeit im dritten Buche prangen.</pv>
+<pv><in>U</in>nd da beschreib ich auch, wie, wa&sr; nur flüßig ist,
+Jn Röhren noch einmahl, so schnell, so hefftig schießt
+Wenn e&sr; electrifirt. Und wie in <fr>Heron&sr;</fr> Ballen
+Die Tropffen nicht mehr gantz, im finstern funckelnd fallen.
+Wa&sr; Schwefel-Kugeln thun, wa&sr; Sieglack, Porcellan.
+Wie sehr die Witterung da&sr; Feuer schwächen kan. <fn="<aq><i>r</i></aq>">67.</fn>
+Wer alle&sr; diese&sr; nicht so offt al&sr; ich probiret,
+Hat solche Hinderniß auch freylich nicht verspühret.
+Wie eine&sr; Menschen Pul&sr; gar mercklich stärcker schlägt,
+Wenn diese Krafft sein Blut mit neuer Glut erregt.
+Wa&sr; da&sr; Gewicht hierdurch vor Aenderungen leyde.
+Wie Blitz und Knall die Haut offt färbe, ja zerschneide.
+Wie warm e&sr; einem ward, al&sr; dreyer Kugeln Schwung, <fn="*">Hier rechn ich nicht allein auf die Behendigkeit,
+Mit der ein kleiner Gla&sr; in der gegebnen Zeit
+Sich um sein Centrum reißt. Da&sr; grosse triumphiret.
+Komm, sieh&2019; e&sr;, zweiffelst du, hernachmahl&sr; raisonniret.</fn>
+Ja vier, den Menschen gantz in&sr; innerste durchdrung.
+<cw>Da&sr;</cw>
+<pb="<aq>XXXIII</aq>"/>
+Da&sr; alle&sr; will ich hier von weiten nur berühren,
+Sonst möchte sich die Kräh mit fremden Federn zieren.</pv>
+<pv><in>W</in>ie diese&sr; sich durchau&sr; auf&sr; Feuer hinbezieht,
+So höre wie der Mensch vom Kopff zur Scheitel glüht. <fn="<aq><i>&sr;</i></aq>">61. 79. 80.</fn>
+Du brauchest weiter nicht&sr; al&sr; einen grössern Kasten,
+Rund um voll Pech, da wir sonst nur auf kleinen rasten.
+Jn diesen tritt der Mensch, an dem die seltne Krafft
+Der Kugel eintzger Schwung im Augenblicke schafft,
+Da steh er unberührt. Wer solt e&sr; ewig meynen,
+Jn kurtzen wird da&sr; Pech zu seinen Füssen scheinen.
+Jm Anfang zeiget sich ein matte&sr;, blasse&sr; Licht,
+Wie, wenn am Horizont der Mond durch Wolcken bricht.
+Da&sr; häufft sich nach und nach, und steigt biß an die Kniee,
+Al&sr; ob ein Eisen dort in blutgen Kohlen glühe.
+Heiß ich die Kugel denn noch eine Weile drehn,
+Dem Menschen unberührt, wird sich der Schein erhöhn,
+Bi&sr; an da&sr; Hertz und Kopff. Zuletzt wird er gebildet,
+Al&sr; wär er von Metall, durch Künstler&sr; Hand vergüldet.
+Wie man die Heiligen, ja selbst die Engel mahlt,
+Wie da&sr; gemeine Volck von einem Jrrwisch prahlt,
+So steht mein Held al&sr;denn in einem Schimmer-Glantze,
+Jn einem feurigen, fast fürchterlichen Krantze.
+<bs>E</bs><cw>Und</cw>
+<pb="<aq>XXXIV</aq>"/>
+Und wenn man diesem naht, noch lange nicht berührt,
+So wird von weiten schon Hauch, Wärm, und Licht gespührt.
+Drauf fährt ein Keil herau&sr;, der schwerlich zu ertragen.
+Jch, dem er so bekannt, muß selber also klagen.
+Du siehst, daß diese&sr; nur im Dunckeln sich erzeigt.
+Daß mein Electrum hier sich selber übersteigt.
+Daß ich die Seltsamkeit zu allererst versuchet.
+Vor achzig Jahren noch wurd ich vielleicht verfluchet,
+Verwünscht, verdammt, ja gar nach unserm lustgen Recht,
+Al&sr; ein der Republic höchst schädliche&sr; Geschlecht,
+Am Pfahl geschmäucht, verbrannt. Laß mich den Himmel loben,
+Daß ich anietzo bin, da klügre Rechte toben.</pv>
+<pv><in>S</in>o hast du bi&sr;anher, gesehn, gehört, gefühlt,
+Wie starck die Wirckung sey, mit der manch Lehrer spielt.
+Die aber, komm und sieh, sich unter meinen Händen
+Fast zur Gefährlichkeit beginnet hin zu wenden.
+Nun dampfft noch der Geruch. Die Kugel wenn sie läufft,
+Hat einen Wirbel-Krei&sr; um sich herum gehäufft,
+Der sich wahrhafftig offt auf vier, fünff Schuh erstrecket,
+Al&sr; biß dahin sie mir da&sr; leichte Gold erwecket.
+Da trifft e&sr; sich nun gern daß ein subtiler Dunst
+Die Nase lebhafft rührt. Wie wenn de&sr; Scheider&sr; Kunst
+<cw>Jn</cw>
+<pb="<aq>XXXV</aq>"/>
+Jn seinem Aquafort da&sr; Silber aufgelöset,
+Und Oel de&sr; Vitriol&sr; die Theilgen von sich stösset.
+Weil aber diese&sr; doch sich nicht beständig fügt,
+Wenn Himmel oder Lufft voll Dünst und Wolcken liegt,
+So hab ich e&sr; versucht, bey ieder Zeit und Stelle
+Erfolgt fast ein Geruch von einer Schwefel-Quelle.
+So nimm demnach ein Schwerdt, (weil&sr; auch die Scheere thut, <fn="<aq><i>t</i></aq>">80. 81.</fn>
+Nimm die im Fall der Noth) da&sr; nur auf Glase ruht,
+So daß der Degen-Knopff, (und hier da&sr; eine Ende)
+Der Kugel nahe kommt, die drehe dann behende.
+Jm Augenblicke wird der Cörper Feuer speyn,
+Die Spitz im Finstern un&sr; Cometen-Fackeln dräun.
+Da bläßt e&sr; kalt herau&sr;. Man sieht, und riecht viel Zolle,
+Wie schnell da Blitz auf Blitz au&sr; dieser Spitze rolle.
+Doch nimm ein Silberwerck, nimm Schmuck und Diamant. <fn="<aq><i>u</i></aq>">87.</fn>
+Da&sr; electrificir. Denn wa&sr; ich da empfand,
+Wie lebhafft, weit da&sr; roch, ist so nicht zu erklären,
+Wie mein&2019; Erfahrungen dasselbige gewähren.</pv>
+<pv><in>W</in>er aber saget mir, wie alle&sr; da&sr; geschieht?
+Denn wer vergnüget sich, wenn er die Wunder sieht?
+Ein Edelmüthger Sinn möcht auch von diesen Dingen
+Die Ursach gerne sehn, und an da&sr; Tag&sr;-Licht bringen.
+<bs>E 2</bs><cw>Jhr</cw>
+<pb="<aq>XXXVI</aq>"/>
+<fr>Jhr Helden,</fr> die ich schon im obigen gedacht, <fn="<aq><i>x</i></aq>"><aq>vid. pag. XII, XIII.</aq></fn>
+Hier, hier zeigt Eure Kunst, und de&sr; Verstande&sr; Macht.
+Auf o Du grosser <fr>Wolff,</fr> auf wundervoller <fr>Euler,</fr>
+Der Weißheit und Vernunfft zwey Diamantne Pfeiler.
+<fr>Jhr</fr> kennet die Natur. Ja <fr>Eurer</fr> Seelen Witz
+Dringt biß zu selbiger verborgnen heilgen Sitz.
+Wollt <fr>Jhr, Jhr Helden, Euch</fr> nicht an die Arbeit wagen,
+So wird un&sr; niemand nicht die wahre Ursach sagen.</pv>
+<pv><in>D</in>a&sr; Gleichniß so ich dort von dem Geruche gab,
+Geht doch in etwa&sr; noch von strenger Wahrheit ab.
+Drum war ich sehr bemüht, wie ich&sr; beschreiben wollte,
+Daß e&sr; sein Urbild recht lebendig schildern sollte.
+Hier meine Muse auf. Erheitre deinen Blick.
+<fr>Die grosse Gräfin Brühl</fr> erzeigt mir so viel Glück,
+Die Electricität bey mir mit anzusehen.
+Ein Glück, so ungemein, und sonst noch nie geschehen.
+Verzeih, <fr>Erlauchte Frau,</fr> hier starret mir die Hand.
+Und selbst die Zunge hemmt der Ehrfurcht heilig Band.
+Denn nie hätt ich gehofft, nie hätt ich auch geglaubet,
+Daß diese Reise <fr>Dir</fr> manch edle Stunde raubet.
+Und doch beweget <fr>Dich</fr> die Curiosität,
+<fr>Du Zierde unser&sr; Hof&sr;,</fr> die Electricität
+<cw>Genau</cw>
+<pb="<aq>XXXVII</aq>"/>
+Genau mit zu besehn. Kaum hatt ich da&sr; Vermögen,
+Wa&sr; unerwartete&sr; <fr>Dir</fr> etwan darzulegen.
+So schnell, so tieff drang gleich <fr>Dein Englischer Verstand</fr>
+Jn alle Wunder ein. Ja <fr>der</fr> allein erfand
+Wie endlich der Geruch am besten zu vergleichen:
+<fr>E&sr; riecht wie Phosphoru&sr;.</fr> <fn="<aq><i>y</i></aq>">81</fn> Bestürtzet must ich schweigen.
+Wie war ich so vergnügt. Wer war wohl ie so froh.
+Ja, ja <fr>Erlauchte Frau,</fr> e&sr; ist vollkommen so.
+Und wa&sr; ich auch bißher vor Gleichniß au&sr;gesonnen,
+Sind gegen diese&sr; doch vernichtet und zerronnen.</pv>
+<pv><in>B</in>eglückter <fr>Graf von Brühl, Dein theure&sr; Eh-Ge-
+<et>mahl,</et>
+De&sr;</fr> Tugend und Verstand ohn Ende, Maa&sr;, und Zahl,
+Macht <fr>Dich</fr> erst recht beglückt, und auf der gantzen Erden
+Kan <fr>solch ein würdig Paar</fr> kaum mehr gefunden werden.
+<fr>Dein theurer Bruder</fr> ist&sr;, <fr>Der</fr> meine Wenigkeit
+Durch <fr>Seine</fr> Gegenwart entzückt, nicht nur erfreut.
+Durch <fr>Jhn</fr> erlangt ich auch <fr>Der grossen Brühlin Blicke.</fr>
+Verstatte, daß ich mich hier eyffrig vor <fr>Jhm</fr> bücke.</pv>
+<bs>E 3</bs><cw>Darf</cw>
+<pb="<aq>XXXVIII</aq>"/>
+<pv><in>D</in>arf ich mich unterstehn, <fr>Großmächtigster August,
+<et>Du Deiner Völcker Wohl, Du Dei-
+ner Länder Lust,</et></fr>
+Daß meine Andacht <fr>Dich</fr> hier höchst beglücket nennet,
+Dieweil der Höchste <fr>Dir</fr> so <fr>treue</fr> Diener gönnet.
+<fr>Glückseeligster Monarch.</fr> Der Höchste seegne
+<et><fr>Dich,</fr></et>
+Und <fr>Deine Königin,</fr> und er bemühe sich,
+Daß alle&sr;, alle&sr; <fr>Euch</fr> nach Wunsch und Willen gehe,
+<fr>Josepha</fr> und <fr>August</fr> auf lauter Rosen stehe.</pv>
+<pv><in>D</in><fr>ich, Theurer Cron-Printz</fr> seegn&2019; Er in die spätste
+<et>Zeit.</et>
+Und seiner Engel Schaar steh allezeit bereit,
+Und vor <fr>Dein Wohl</fr> besorgt. Damit sich stet&sr; da&sr; Glücke,
+Al&sr; eine Sclavin thut, gehorsamst vor <fr>Dir</fr> bücke.</pv>
+<pv><in>E</in>r seegne ewiglich <fr>der Printzen Helden-Blut.</fr>
+Und bringe, wie bereit&sr; <fr>Amalia</fr> e&sr; thut,
+<cw>Durch</cw>
+<pb="<aq>XXXIX</aq>"/>
+Durch Damen, die von <fr>Dir, o Grosser König,</fr> stammen,
+Europen&sr; Cronen all&2019; in <fr>August&sr;</fr> Hau&sr; zusammen.</pv>
+<pv><in>B</in>eglückte&sr; Sachsen-Land, welch Königreich gleicht Dir?
+Durch Deinen <fr>Friedrich</fr> gehst Du allen Ländern für.
+Wenn rund um Dich herum Krieg, Blut und Hunger wüten,
+So blüht Dein Feigen-Baum, und grünst im stoltzen Frieden.
+Nun, Leser, weiß ich e&sr;, du wunderst dich wohl nicht,
+Wenn hier mein Kiel die Schrifft auf einmahl unterbricht.
+Wer unsern <fr>Vater</fr> nennt, muß ehrerbietig schweigen.
+<fr>August</fr> zieht Hertzen an, so muß Electrum weichen.</pv>
+<abb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>

@@ -1,0 +1,3304 @@
+<pb>
+<pb>
+<pb>
+<front><c><fr>Der
+<g>aufrichtige Leipziger
+Roßarzt,</fr>
+geschrieben
+von</g>
+<fr>Bernhard Raumann,</fr>
+privilegirter Roßarzt von der Königl. Preußl.
+Universität Halle, wie auch gewesener Cur- und
+Fahnenschmidt bey den Königl. Pohln. u. Churfl.
+Sächsil. Truppen, anjetzo Rostarzt
+zu Leipzig.</c>
+<abb>
+<hr>
+<c><g>1780.</g></c></front>
+<pb>
+<hr>
+<d1><fr><g>Nachricht.</g></fr></d1>
+<p><in>D</in>aß da&sr; <g>Buch</g> sonst nirgend&sr; al&sr; bey mir
+<fr>Bernhard Naumann,</fr> wohnhaft in
+Leipzig im Brühl, im Gasthofe zum Karpfen
+genannt, im untersten Stockwerk, vorne her-
+au&sr;, zu haben. Annebst versichere, daß vor
+die Recepte, so in diesem <g>Buche</g> befindlich
+zum öftern, von vielen Cavalieren, vor ein je-
+de&sr; 5. und 10. Thlr gehabt; allein ich habe
+doch solche nicht weggegeben. Hierau&sr; folgert:
+daß ich da&sr; Buch nicht au&sr; Jnteresse, sondern
+blo&sr; meinen Nächsten mit meiner wohl erlernten
+Wissenschaft zu dienen, herau&sr;gegeben habe.</p>
+<hr>
+<cw><fr>Da&sr;</fr></cw>
+<pb>
+<hr>
+<d1><fr><g>Vorrede.</g></fr></d1>
+<p><in>D</in>er geneigte Leser wird nicht un-
+gütig nehmen, daß ich diesen
+Namen dem Buche beylege, indem
+e&sr; mit guten Rechte, verhoffe, füh-
+ren kan. Dieweil zwar ohne Nach-
+theil zu reden, viele Bücher von Roß-
+curen haußen seyn, e&sr; seyn aber vie-
+le darunter, welche in der Praxin
+wenig begreifen, sondern nur au&sr;
+andern geschrieben sind. Da man
+<bs>A 2</bs><cw>mit</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+mit Grund schließen kan, daß e&sr;
+nicht ander&sr; al&sr; unrichtig sey, in-
+dem viele mit unter seyn, die die Me-
+dicamente Groschen- und Dreyer-
+weise den Einkauf vorgeschrieben ha-
+ben. Weil man aber an manchen
+Orte vor einen Groschen mehr ein-
+kaufen kan, al&sr; man an einem an-
+dern vor vier Groschen bekömmt,
+folglich die Dosi&sr; einem Pferde nicht
+richtig kann eingegeben werden. Da
+nun so ein Pferd in gefährliche Um-
+stände dadurch kan gesetzet werden,
+indem da&sr; Pferd seinen Magen nicht
+keppen kan, und muß solche einge-
+gebene Arzenei die zu stark und ge-
+fährlich wäre, um den unrichtigen
+Einkauf willen, doch aber durch de&sr;
+Pferde&sr; Leib muß getrieben werden,
+wa&sr; einmal eingegeben ist; al&sr; halte
+ich selbige&sr; vor unrecht. Die Me-
+dicamente der Pferde müssen haupt-
+<cw>säch-</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+sächlich, Pfund- oder Lothweise ein-
+gekauft und eingegeben werden, da-
+mit ein jeder wissen kan, wie viel
+einem Pferde ist eingeben worden.</p>
+<p>Andere schreiben zwar auch Bü-
+cher, man befindet aber darin, daß die
+Dosi&sr; oder Quantität entweder durch
+Unwissenheit nicht recht eingetheilet
+seyn, wie viel ein Pferd auf seine
+Krankheit haben müsse. Ob einige
+auch den Verstand der Pferdecuren
+völlig besäsen, so scheinet e&sr; doch,
+al&sr; wenn sie au&sr; Christlicher Liebe
+und und Erbarmen ihre&sr; Nothlei-
+denden Nechsten, ihre gelernte Pra-
+xin, nicht, recht unter die Hand ge-
+ben Wolten. Andere hingegen wei-
+sen an, auf jedwede Krankheit ein
+besonder Medicament, da doch kein
+<g>Unterscheid</g> gebrauchet wird, ob
+da&sr; Pferd auch so viel werth ist, al&sr;
+die Medicamente kosten, und beste-
+<bs>A 3</bs><cw>het</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+het vielmal&sr; in Speciebu&sr;, welche
+man bi&sr; Dato noch nicht völlig kun-
+dig ist, wie viel von denen Specie&sr;
+ein jede&sr; Pferd in seinem Leibe, bey
+seiner Krankheit ohne Schaden und
+Nachtheil vertragen kan. Da doch
+die Krankheiten der Pferde, wie
+ich beschrieben habe, von 5 bi&sr; 6
+Krankheiten einerley Ansehen ha-
+ben. E&sr; kan demnach von einem
+der hierinnen nicht hinlängliche
+Wissenschaft hat, von einer solchen
+Krankheit wenig oder gar nicht&sr;
+judiciret werden. Wenn nun ein
+Medicament nur pur allein auf ei-
+ne Krankheit gerichtet ist, wird aber
+über die Krankheit falsch judiciret,
+so wird da&sr; Thier in gefährliche
+Umstände, wol auch gar um&sr; Le-
+ben gebracht; al&sr; verhoffe hiermit,
+meinen Nebenchristen gute Dien-
+ste zu thun. daß ich meine von
+<cw>24.</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+24. Jahren her gelernte Pferdecu-
+ren, die ich nicht allein von mir
+selbst erlernet, sondern auch in
+Dreßden bey den Artillerie-Roß-
+arzt, Namen&sr; Nicolau&sr; Reinlän-
+der, meine profidirte Curen, anje-
+zo aufrichtig, gerne und willig an
+die Hand gebe. Die Arcana und
+Universalia welche ich bey meinen
+24 jährigen Krieg&sr;- und Fahn-
+schmied&sr;-Diensten sehr wohl ap-
+probiret und gut befunden habe,
+will ich nunmehro zum Nutzen mei-
+ne&sr; Nächsten zeigen und aufweisen,
+absonderlich denen Fahnschmieden,
+welche noch unwissen seyn, beson-
+der&sr; die im Felde, die die Apothe-
+ken oder die Medicamente darau&sr;
+nicht allezeit haben und bekommen
+können, so aber selbige sich nach
+vorbeschriebener Methode ihren Feld-
+Kasten mit wenigen Kosten spicken
+und anrichten können. So können
+<bs>A 4</bs><cw>sie</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+sie bey allen vorfallenden Gelegen-
+heiten ihre Dienste, wa&sr; von ihm
+gefordert wird, ordentlich und rühm-
+lich verrichten, indem in diesem
+Buche kein Recept zu finden ist, da&sr;
+so wohl von innerlichen al&sr; äuser-
+lichen nicht approbiret und gut be-
+funden wäre, indem e&sr; nicht etwan
+au&sr; Büchern geschrieben, sondern
+alle&sr; au&sr; der Erfahrung erlernet.
+Jch solte zwar wa&sr; von den Com-
+plexionen der Pferde melden, e&sr;
+sind aber selbige noch nicht alle völ-
+lig einig, indem noch viele Strei-
+tigkeiten darzwischen seyn, woran
+aber nicht viel gelegen, weil die
+Pferde nach Proportion de&sr; Ein-
+kauffen&sr; im Preiße alle gut seyn,
+und ist ein Pferd ein Thier, da&sr;
+mehr auf die Liebhaber al&sr; auf die
+Farbe gesehen wird. Da al&sr;denn
+nun nicht besser ist, al&sr; e&sr; wird
+<cw>ein</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+ein Pferd eingekauft, nach den
+Umständen, wie e&sr; ein jedweder
+haben will, und haben muß. Man-
+cher sucht zwar wohl ein hitzige&sr;
+Temperament de&sr; Pferde&sr;, ein
+solcher thut sich aber vielmal&sr; sel-
+ber Schaden, wenn er e&sr; zum
+strapaziren haben muß, und kö&tm;t
+derjenige vielmal&sr; besser weg, der
+ein faule&sr;, oder sachte&sr; Pferd,
+doch zwar nach eine&sr; jeden seinen
+Umständen einkauft. Ein schöne&sr;
+Pferd ist ohne Noth zu beschrei-
+ben, immaßen selbige heut zu Ta-
+ge ein jeder Cavalier mehr al&sr; zu
+wohl kennt.</p>
+<p>Nun wird mein geneigter Le-
+ser im Werke selbst finden, wa&sr;
+bey jeden Umstand eine&sr; Pferde&sr;
+besonder&sr; zu merken ist. E&sr; ist
+<bs>A 5</bs><cw>die-</cw>
+<pb>
+<kt><b><g>Vorrede.</g></b></kt>
+diese&sr; Buch in unterschiedene Ca-
+pitel vertheilet, bey welchen alle&sr;,
+wa&sr; zu solchem gehöret, gründlich
+und deutlich abgehandelt worden.
+Jch wünsche übrigen&sr;, daß der,
+welcher mein Buch brauchet, vie-
+len Nutzen darau&sr; haben möge.</p>
+<hr>
+<cw><fr>Da&sr;</fr></cw>
+<pb>
+<hr>
+<d1><fr>Da&sr; erste Capitel.
+Wa&sr; man bey dem Einkaufe derer
+Pferde zu beobachten habe.</fr></d1>
+<p><in>E</in>&sr; soll sich niemand jemal&sr; im Stalle auf
+ein Pferd setzen, und herau&sr; reiten las-
+sen, weil darunter manche Lähmung und Schwin-
+dung sich verstecken kann. E&sr; soll auch dem
+Pferde kein Huseisen fehlen, weil vielmal&sr; da&sr;
+Eisen gutwillig abgerissen ist, gewisse Lähmun-
+gen zu verbergen; so kan man auch dadurch nicht
+inne werden, ob sich ein Pferd gerne aufsitzen
+lässet, daher soll man lieber da&sr; Pferd aufzäu-
+men und au&sr; dem Stalle herau&sr; führen lassen,
+sodann muß man vor da&sr; Pferd treten und die
+Augen wohl in Acht nehmen, daß sie nicht
+fahl oder schwartz, sondern wo möglich groß
+und braun seyn, denn fahle und kohlschwarze
+Augen, sind wo möglich zu meiden, indem die
+<cw>schwar-</cw>
+<pb="12"/>
+<kt><b>Der aufrichtige</b></kt>
+schwarzen Augen meisten&sr; mit dem schwarzen
+Staar behaftet werden, und die fahlen mit dem
+grauen Staar, auch wohl gemeiniglich ganz
+blind werden. Man giebt ferner Achtung, ob
+die Zunge nicht zerrissen ist, und einem alten
+Pferde kein Backzahn fehlet, auch daß nicht et-
+wa ein Bug mehe Fleisch al&sr; der andere habe,
+sodann siehet man von oben herunter, daß nicht
+Oberbeine so wohl an Röhren, an Flechsen, od. auf
+der Crone liegen, welche&sr; mit der Zeit eine Läh-
+mung und Schwindung verursachet; e&sr; soll auch
+ein Huf oder Fuß so groß seyn, wie der andere,
+und muß man wohl zusehen, daß nicht die
+Hornklüfte mit Stänker oder Theer verschmieret
+seyn. Die Füße sollen auch nicht zu breit, noch
+viel weniger zu schmal seyn, und der Käufer
+muß in den Flechsen wohl heruntergreifen, daß
+eine nicht stärker al&sr; die andere ist; der Fuß
+wird aufgehoben und mit beyden Händen zusam-
+mengedrückt, daß nicht etwa Steingallen in
+Füßen sitzen, besonder&sr; wenn da&sr; Pferd auf
+weichen Boden gekauft wird, und man e&sr; im
+Gehen nicht sehen kan. So diese&sr; geschehen,
+wird an die linke Seite getreten, und da&sr; Pferd
+wohl betrachtet, ob sein Odement oder Athem-
+holen schwer oder leicht ist, oder ob e&sr; haar-
+schlächtig oder herzschlächtig ist, al&sr;denn wird
+mit der Hand an de&sr; Pferde&sr; Bauch leise her-
+untergefahren, und an seinen Schlauch gegrif-
+fen, zu erfahren, ob e&sr; nicht vom Wurm, oder
+von einem falschen Schnitt lädiret ist. Jnson-
+<cw>derheit</cw>
+<pb="13"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+derheit soll ein jede&sr; <g>Pferd</g> einen tüchtigen
+Schlauch haben, nur nicht aufgebrochen. Man
+tritt hierauf hinter da&sr; Pferd, und giebt wohl
+Achtung, daß nicht eine Hüfte schwächer oder
+stärker ist, al&sr; die andere, und giebt von oben
+herunter auf de&sr; Pferde&sr; Knie Achtung, ob e&sr;
+vielleicht Spad- Leist- oder Ellenbogenansatz ha-
+be, ingl. Piebhacke oder Flußgallen, worau&sr;
+doch zuletzt der Blutspad wird. Wenn diese&sr;
+alle&sr; wohl beobachtet ist, so bleibet man hinter
+dem Pferde stehen, und lässet e&sr; beym Zaum
+im Schritt gerade au&sr;führen, damit man die
+hintersten Theile wohl beobachten kan, sodann
+lässet man e&sr; von vorne im Schritte wieder zu
+sich führen, daß man e&sr; wohl in Obacht neh-
+men könne, al&sr;denn lässet man e&sr; beym Zaume
+ein Stücke fort- und wieder entgegentraben, so kan
+sich keine Lähmung verstecken. Hierauf wird auf
+da&sr; Pferd gesessen und in einen Kreise von ferne
+herumgeritten, und observiret, ob da&sr; Pferd
+mit einem Beine so weit al&sr; mit dem andern
+au&sr;greifen kan. Annoch ist bey de&sr; Pferde&sr;
+Einkauf zu erinnern, daß man auf die vorder-
+sten Raffzähne Achtung geben muß, weil man-
+che dieselben beym Köcken wegbeissen, jedoch
+manche, die in die Krippe beissen, nicht, da-
+hero thut man am besten, wenn man eine viertel
+Stunde bey solchen Pferden stehen bleibet, so wird
+da&sr; Pferd da&sr; Köcken durch sein Windknorren im
+Leibe selbst verrathen, ob e&sr; ein Krippensetzer
+oder Windköcker ist? Auch ist zu observiren,
+<cw>wenn</cw>
+<pb="14"/>
+<kt><b>Der aufrichtige</b></kt>
+wenn man da&sr; Pferd ein wenig zurückstößet, ob
+e&sr; gern zurückgehen kan, damit e&sr; nicht etwa
+im Kopfe dumm wäre, wiewohl diese&sr; im Win-
+ter auch keine gewisse Regel ist, denn ein kolle-
+richt- oder sonnenschößige&sr; Pferd ist im Winter
+gar schwer zu erkennen: Ferner muß kein Pferd
+mit Aufliegen de&sr; Sattel&sr; gekauft werden, weil
+e&sr; vielmal&sr; gedruckt ist, welche&sr; sich darunter
+verstecken kan.</p>
+<d1><fr>Da&sr; zweyte Capitel.
+Von denen jungen Pferden und dererselben
+Kröpfen und Drüsen.</fr></d1>
+<p><in>E</in>&sr; pflegt bi&sr;weilen sehr gefährlich au&sr;zuschla-
+gen, wenn ein junge&sr; Pferd nicht recht wohl
+au&sr;drüset, oder kröpfet, darau&sr; sehr vielfältige
+Krankheiten entstehen, absonderlich, wenn man
+einem solchen drüsigten Pferde zeitlich kalt zu
+saufen giebt, besonder&sr; wenn da&sr; Pferd noch
+warm ist, oder aber in kalt Wasser geritten
+wird, und gleich darauf in Stall kömmt, oder
+auch nur warm geritten wird, und ihn der
+Schwei&sr; jähling einschlägt; sondern ein drüsen-
+de&sr; Pferd soll warm gehalten und fleißig zuge-
+deckt, auch mit laulichten Wasser, wo möglich,
+getränket werden. E&sr; soll auch nicht stark über-
+trieben oder geritten werden, indeme man haupt-
+sächlich darauf zu sehen hat, daß ein junge&sr;
+<cw>Pferd</cw>
+<pb="15"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+Pferd reine und wohl au&sr;drüset, weil so ein
+Pferd viel dauerhafter al&sr; ein andere&sr; wird.
+Wenn aber die Drüse nicht au&sr;sieget oder au&sr;-
+kränket, so bricht solche öfter&sr; zum Schlauch
+herau&sr;, oder fällt in die Beine, welche so dann
+aufbrechen, und da&sr; Ansehen de&sr; Wurm&sr; von
+sich geben, oder sie ziehet sich zu einer Raute,
+oder verändert sich auch vielmahl&sr; gar in Rotz,
+oder wenigsten&sr; in Lungensucht und Haarschlag.
+Pferde, die nicht au&sr;gedrüset haben, sind auch
+dem Verschlagen sehr unterworfen, weil ihr
+Odement nicht reine, und sie wenig Odem ha-
+ben, dadurch manche ganz zusammendorren.
+Bi&sr;weilen scheinet der Au&sr;schlag einer Raute
+ähnlich zu seyn, welche&sr; ebenfall&sr; von einer ver-
+stockten Drüse herrühret. Dergleichen drüsigte
+Pferde soll man niemal&sr; mit scharfen Medica-
+menten tractiren und angreifen z. E. mit Eßig,
+Teufel&sr;dreck, Saffran, und dergl. sondern man
+soll solche fleißig räuchern mit Baumöl und Zu-
+cker, indem man 4 Loth Zucker klar macht, und
+8 Loth Baumöl darunterrühret, al&sr;denn nimmt
+man einen Topf mit glüenden Kohlen, und
+deckt de&sr; Pferde&sr; Kopf mit einer Decke zu, gie-
+set jede&sr;mal einen Löffel voll auf einmal auf die
+Kohlen, räuchert da&sr; Pferd eine halbe Stunde
+damit, und tränket e&sr; nachmal&sr; mit laulichten
+Wasser. Da&sr; Räuchern geschiehet täglich 2mal,
+und wenn die Beulen unter dem Halse nicht bald
+reif werden wollen, so werden sie täglich einmal
+mit hinten gedachter gelben Salben geschmieret,
+<cw>bi&sr;</cw>
+<pb="16"/>
+<kt><b>Der aufrichtige</b></kt>
+bi&sr; sich da&sr; Pferd solche selber aufreibet. Jst
+aber die Drüse hartnäckigt, und will keinen
+rechten Gang gewinnen, so wird jedem Pferde
+von nachstehenden Pulver Abend&sr; und Morgen&sr;
+ein Löffel voll mit einer Gespe Hafer, worauf
+da&sr; Pulver geschüttet wird, eingegeben. Weil
+aber manche Pferde, so an Drüsen stehen, nicht
+gut fressen, und einen Eckel vor dem Pulver
+haben; al&sr; wird ihnen von hintenstehender Lat-
+werge 3 Loth mit einem Stecken eingestecket.</p>
+<p>Ein Drüßen- Freß- und Blutreinigung&sr;pul-
+ver, so auch wieder den Haarschlag und Lun-
+gensucht dienet, wird folgendergestalt bereitet:</p>
+<li><li><c><fr>Vor kostbare Pferde.</fr></c></li>
+<li><fr>Hepar Antimonii,</fr></li>
+<li><fr>Holtzwurzel,</fr></li>
+<li><fr>My rrhen,</fr></li>
+<li><fr>Rothe Entzianwurzel,</fr></li>
+<li><fr>Meerrettig,</fr></li>
+<li><fr>Alandwurzel,</fr></li>
+<li><fr>Lerchenschwamm,</fr></li>
+<li><fr>Lorbeeren,</fr></li>
+<li><fr>Haselwurzel,</fr></li>
+<li><fr>Fönum Gräcum, oder Griegisch Heu-
+saamen,</fr></li>
+<li><fr>Süßholz,</fr></li>
+<li><fr>Senf,</fr></li>
+<li><fr>Violwurzel,</fr></li>
+<li><fr>Liebestöckelwurzel,</fr></li>
+<li><fr>Saadebaum,</fr></li></li>
+<cw>jede&sr;</cw>
+<pb="17"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<li>jede&sr; 4 Loth. Diese&sr; alle&sr; zu einem Pulver
+gemacht und wie vorgeschrieben, gebraucht.</li>
+<li><li><c><fr>Ein andere&sr; Drüsepulver:</fr></c></li>
+<li><fr>Senf,</fr></li>
+<li><fr>Gelben Schwefel,</fr></li>
+<li><fr>Grauen Schwefel,</fr></li>
+<li><fr>Foenum graecum,</fr></li>
+<li><fr>Saadebaum,</fr></li>
+<li><fr>Antimonium crudum,</fr></li>
+<li><fr>Alandwurzel,</fr></li>
+<li><fr>Süßholz,</fr></li>
+<li><fr>Rothen Bolu&sr;,</fr></li>
+<li><fr>Lein Saamen,</fr></li></li>
+<li>jede&sr; 3. Loth.</li>
+<li><li><c><fr>Noch ein andere&sr; auf ein schlechr
+und wohlfeil Pferd:</fr></c></li>
+<li><fr>Gichtrübenwurzel,</fr></li>
+<li><fr>Leinsaamen,</fr></li>
+<li><fr>Foenum graecum,</fr></li>
+<li><fr>Ani&sr;,</fr></li>
+<li><fr>Fenchel,</fr></li>
+<li><fr>Werdenschwamm,</fr></li>
+<li><fr>Austerschaalen,</fr></li>
+<li><fr>Ehrenpreiß,</fr></li>
+<li><fr>Harten Ofenruß,</fr></li>
+<li><fr>Weidenasche,</fr></li></li>
+<li>jede&sr; 8. Loth.</li>
+<li><li><c><fr>Noch eine&sr;:</fr></c></li>
+<li><fr>Andimoniu m crudum,</fr></li>
+<li><fr>Gelben Schwefel,</fr></li>
+<li><fr>Lorbeeren,</fr></li>
+<li><fr>Entzianwurzel,</fr></li>
+<bs><fr>B</fr></bs><cw><fr>Ha-</fr></cw>
+<pb="18"/>
+<kt><b>Der aufrichtige</b></kt>
+<li><fr>Haselzäpfgen,</fr></li>
+<li><fr>Wacholderbeere,</fr></li></li>
+<li>jede&sr; 4. Loth. Abend&sr; und Morgen&sr; einen
+Löffel voll zu geben.</li>
+<li>Zur Präservation derer Pferde, so noch nicht
+in Drüsen seyn, die Woche ein Eßlöffel voll.</li>
+<d1><fr>Da&sr; dritte Capitel.
+Von Verschlagung, Ueberreitung oder
+auch Verfangung derer Pferde.</fr></d1>
+<p><in>E</in>in Pferd, so rein au&sr;gedrüset hat, ist dem
+Verschlagen nicht so leicht unterworfen, abson-
+derlich, wenn e&sr; weite Nasenlöcher hat und noch
+rein im Herzen, Lunge und Leber, auch rein von
+saulen und falschen Humoribu&sr;, denn bey vie-
+len liegen, Lunge und Leber in dem stinkenden
+Wasser, welche&sr; meisten&sr; noch von den verstock-
+ten Drüsen herrühret, deren Odement schon
+kurz, und sich gar leicht erhitzen und verfangen
+kann. Nun ist da&sr; Verfangen oder Verschla-
+gen sehr unterschiedlich aber niemahl&sr; ge-
+fährlicher, al&sr; wann ein solch Pferd zeitlich zum
+Saufen kommt, oder in ein Wasser geritten
+wird, da e&sr; denn da&sr; ganze Geblüte erkältet,
+und folgende&sr; erschrecket und anfänget zu stagni-
+ren, absonderlich wenn da&sr; Pferd von choleri-
+schen Temperament ist, welche&sr; hingegen den
+pflegmatischen nicht so leicht schaden kan. Ohn-
+<cw>strei-</cw>
+<pb="19"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+streitig verschlagen alle Pferde zuerst auf die in-
+nerlichen Theile, al&sr;denn wo sich die Stagna-
+tion de&sr; Geblüte&sr; am meisten zusammenleget,
+entweder nach dem Kopfe, oder Gehirne, wel-
+che&sr; sodann tumme Pferde heissen, da zugleich
+auch die Maulsperre dazu kömmt, die man, je-
+doch vergeben&sr; vor Zauberey zu halten pfleget,
+nicht minder legt sich der Krampf in die Kinn-
+laden und in da&sr; Ende de&sr; Creutzschlusse&sr;, da
+denn öfter&sr; bey vielen der Krampf oder Stagna-
+tion de&sr; Geblüte&sr; sich in alle Gelenke leget, wo
+nicht bald mit innerlicher Arzeney und Aderlas-
+sen zu Hülfe gekommen wird. Wenn e&sr; ein
+wenig überhand nimmt, will gar ein Leder vor
+die Brust nöthig seyn. Diese&sr; heisset also ver-
+schlagen. Da&sr; so genannte Verfangen aber,
+so vom Winde, oder starker Arbeit herrühret,
+fällt vielmal&sr; nur auf ein Bein, oder, welche&sr;
+am gewöhnlichsten auf beyde Vorderbeine. Man
+pflegt zwar öfter&sr; zu sagen: Diese&sr; Pferd ist
+auf die Füsse verschlagen; e&sr; ist aber vielmal&sr;
+falsch, indem e&sr; dem Pferde nicht eher in die
+Füsse fällt, bi&sr; e&sr; au&sr;gewürkt, frisch beschln-
+gen, und denn darauf stark geritten oder getrie-
+ben worden, al&sr;denn sich seine Lähmung erst zei-
+get, indeme da&sr; Füßgen sich von dem Hufe ab-
+gesondert, bey manchen ganz, bey manchen aber
+nur auf einer Seite, weil die Sohle im Füßgen
+nachgegeben hat, und da&sr; Füßgen mit einem
+geronnenen Geblüte verstocket wird da da&sr; Ge-
+blüte keine Circulation mehr hat, wodurch dem
+<bs>B 2</bs><cw>Pferde</cw>
+<pb="20"/>
+<kt><b>Der aufrichtige</b></kt>
+Pferde zuletzt die ordentlichen Nahrung&sr;säfte
+benommen werden. Wenn nun also die Sepa-
+ration und die Flechsen zusammenschrumpfen,
+wovon die stumpfen und bockbeinigten Pferde
+ihren Grund hernehmen, bey denen nach und
+nach die Füsse völlig zusammenlaufen u. schwin-
+den; so heisset diese&sr; die ordentliche Schindung
+vom verfangen, und da&sr; geronnene Geblüte,
+welche&sr; vom verfangen in die Füsse kömmt,
+wird die Erbsteingalle genennet. Jst aber da&sr;
+verschlagene völlig in die Füsse getrieben worden,
+und eine völlige Absonderung zwischen dem Füß-
+gen und dem Huf entstanden; so wird da&sr; Pferd
+vollhüfig, oder blachfüßig, und da&sr; Füßgen
+schließet völlig durch den Huf, da&sr; heißet al&sr;-
+denn: Da&sr; Leben ist bey dem Pferde herau&sr;ge-
+treten, jedoch falsch, denn e&sr; ist da&sr; Füßgen,
+welche&sr; durch den Huf tritt, und mehrentheil&sr;
+incurabel ist, absonderlich auf dem Steinpfla-
+ster in schwerer Arbeit. Heisset e&sr; gleich curi-
+ret, so ist e&sr; doch Flickwerk, und ist diese&sr; da&sr;
+einzige, daß man ihnen Theer und Franzosen-
+öl einigemahl in die Füße gieset, oder sie eine
+Zeitlang auf frischen Leime stehen lässet. E&sr;
+verfangen auch Pferde, welche&sr; in Blättern
+oder Bügen liegen bleibet, wovon starke Schwin-
+dungen in den Bügen entstehen, da zuweilen
+auch der faule Humor oder Feuchtigkeit, welche
+durch&sr; verfangen herkommt, sich zu Flu&sr;gallen
+zeiget und anleget. Solche Pferde wollen aber
+meisten&sr; durch Haarseile, Leder, oder Oelgie-
+<cw>sen</cw>
+<pb="21"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+sen operiret seyn, da die Operation also vorge-
+nommen wird:</p>
+<p>Erst wird dem Pferde, welche&sr; schwindet,
+an den Bügen eine Spanne über der Pfanne
+oder Kugel ein Loch gemacht zwischen Fell und
+Fleisch, und mit einem Finger da&sr; Fell von
+dem Fleische abgesondert und mit einem Feder-
+kiel lo&sr;geblasen, al&sr;denn nimmt man ein Haar-
+seil, so halb au&sr; Mähnhaaren und halb au&sr; dem
+Schweif eine&sr; Pferde&sr; gemacht, wozu 2 Bind-
+faden, ohngefehr eine viertel Elle länger al&sr; die
+Haare seyn, genommen werden. Der Bind fa-
+den wird mit den Haaren zusammengeflochten,
+etwa eine&sr; Finger&sr; stark und drey viertel Ellen
+lang, oben aber kommt ein Knebel davor, cil&sr;-
+denn wird eine Nadel von zachen glatten Holz
+gemacht, mit einem Loche, worein man da&sr; Heiar-
+seil ziehen kan, diese&sr; Holz muß eine&sr; mäßigen
+Finger&sr; stark und einer Ellen lang seyn. Wann
+nun da&sr; Haarseil zuvor mit Terpentinöl begos-
+sen worden, so ziehet man solche&sr; durch da&sr; Loch
+de&sr; Holze&sr; und an der Pfanne herunter bi&sr; zu
+dem andern Gelenke, wo der Bug au&sr;gehet.
+Wenn nun die Nadel bi&sr; dahin geschoben wor-
+den, wird mit der Fliete ein Loch in&sr; Fell ge-
+rissen, wo die Nadel mit dem Seil al&sr;denn kan
+durchgezogen werden, an dem andern Ende de&sr;
+Haarseil&sr; aber wird wieder ein Knebel gemacht,
+damit e&sr; da&sr; Pferd nicht au&sr;ziehen kan. Da&sr;
+Pferd aber wird Tag und Nacht in die Höhe an
+die Rauffe gebunden. Drey Tage bleibt da&sr;
+<bs>B 3</bs><cw>Haar-</cw>
+<pb="22"/>
+<kt><b>Der aufrichtige</b></kt>
+Haarseil ungezogen, al&sr;denn ziehet man e&sr; täg-
+lich 2 bi&sr; 3mal hin und her, und bleibet also 14
+Tage stecken, al&sr;denn wird e&sr; wieder herau&sr;ge-
+nommen. Jst e&sr; nun eine alte Lähmung, so ist
+auch vermuthlich eine Kernschwindung dabey,
+und muß da&sr; Pferd auf dem Fusse au&sr;geschnit-
+ten, und zwar im neuen Monden auch sehr dünne
+mit einem kru&tm;en Messer au&sr;geschabet werden,
+bi&sr; da&sr; Blut über und über in dem ganzen Fusse
+durchschwitzt. Dem Pferde wird unter da&sr; Ei-
+sen ein Stück Huthfilz geleget, da&sr; den Fuß
+völlig bedeckt. Der Einschlag wird folgender-
+gestalt zugerichtet: Man nehme</p>
+<li>8 <fr>Krebse,</fr></li>
+<li>1 <fr>gute handvoll Knoblauch,</fr></li>
+<li>1 <fr>halb Pfund Schweinefett,</fr></li>
+<li>1 <fr>handvoll Sauerteig,</fr></li>
+<li>1 <fr>Gehirne au&sr; einem Kalb&sr;- oder Rind&sr;-
+kopf, e&sr; kan auch, wer e&sr; haben kan,
+ein 4tel Pfund Haasenfett dazu genom-
+men werden.</fr></li>
+<p>Diese&sr; wird alle&sr; unter einander klar gestossen,
+und etwa&sr; davon, so viel al&sr; im Fuß gehet, in
+einem Tiegel warm gemacht, so, daß man ei-
+nen Finger darinn leiden kan, und wird dem
+Pferde zwischen der Sohle in den Fuß gesteckt
+oder geschlagen, und dieser Einschlag alle 2 Ta-
+ge wiederhohlet. Hat da&sr; Pferd gute Hufe,
+daß sich&sr; will thun lassen, so schabt man den
+Huf in 6 Tagen wieder au&sr;, und der Einschlag
+<cw>wird</cw>
+<pb="23"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+wird wie vorhergebraucht. Der letzte Einschlag
+bleibet im Fuße, so lange er bleiben kan. Da&sr;
+Pferd wird nach Verfließung 12 Tage, eine
+Stunde auf weichen Boden geritten, oder in
+leichter Arbeit eingespannet. Sind aber die
+Füsse schwach und zart, so werden selbige einen
+Monat darauf nochmal&sr; au&sr;geschnitten, wie
+schon gemeldet. Wenn aber ein Pferd auf fri-
+scher That verschlägt, so werden dem Pferde die
+Füsse über den Huf feste zugebunden, und wer-
+den ihm unten am Bauche die Spornadern ge-
+lassen, und von hintenstehender Latwerge 3 Loth
+mit einem Stecken einer Ellen lang und eine&sr;
+Finger&sr; dicke eingesteckt, der Stock muß aber
+forne nicht spitzig seyn. Damit man dem Pfer-
+de keinen Schaden thut, so wird die Zunge mit
+der linken Hand herau&sr;gezogen, und die nach-
+her erwähnte Pille mit dem Stock dem Pferde
+in den Hal&sr; gesteckt. Diese Universal- oder so
+genannte englische Pille wird also zubereitet:</p>
+<li><li><c>Man nehme</c></li>
+<li><fr>Feine Myrrhen</fr></li>
+<li><fr>Entzianwurzel,</fr></li>
+<li><fr>Runte Hohlwurzel,</fr></li>
+<li><fr>Lorbeeren</fr></li>
+<li><fr>Wachholderbeeren</fr></li>
+<li><fr>Alandwurzel</fr></li>
+<li><fr>Fenchel</fr></li>
+<li><fr>Ani&sr;</fr></li>
+<li><fr>Kümmel</fr></li>
+<li><fr>Pommeranzenschalen</fr></li></li>
+<li>von jeden 4 Loth.</li>
+<bs>B 4</bs><cw>Diese&sr;</cw>
+<pb="24"/>
+<kt><b>Der aufrichtige</b></kt>
+<p>Diese&sr; alle&sr; wird zu einen zarten Pulver
+gemacht, und darau&sr; eine Latwerge bereitet,
+worzu genommen wird:</p>
+<li><fr>Honig. 1 Pfund,</fr></li>
+<li><fr>Süßholzsaft, ein 4tel Pfund,</fr></li>
+<li><fr>Fein fein Syrop, 1 Pfund,</fr></li>
+<li><fr>Baumöl, 1 Pfund</fr></li>
+<p>Diese&sr; Pulver wird in diese Säfte gerühret und
+zu einer Masse oder Teig gekneten, wovon auf
+eine Dosin 3. Loth auf einmal einzugeben, wie
+schon vorgeschrieben ist, hierbey wird dem Pfer-
+de der Kern gestochen, und Salz in die Nasen-
+löcher geblasen, bi&sr; e&sr; anfängt zu brausen, auch
+muß man e&sr; 3. Stunden nicht fressen noch sauf-
+fen lassen. Sollte allenfall&sr; da&sr; Pferd in 6.
+Stunden sein Futter noch nicht fressen wollen,
+so wird ihn gleichfall&sr; wieder 3. Loth eingesteckt.
+Hierauf wird da&sr; Pferd eine Stunde au&sr;gerit-
+ten, und sollte e&sr; an diesen Tag noch nicht in
+gehörigen Stande, so wird ihm täglich eine
+Dosi&sr; eingesteckt. Sollte e&sr; aber eine Futter-
+verschlagung seyn, daß da&sr; Pferd ängstlich thäte,
+auflieffe, und nicht misten noch stallen könnte,
+oder aber nicht stallen, ob gleich der Mist von
+ihm gienge, so kan da de&sr; Pferde&sr; Gedärme
+36. Ellen lang sind, die Verstopfung sowohl
+in Därmen, al&sr; im Magen, seyn. Und ob-
+gleich da&sr; Pferd etwa&sr; Mist von sich stosen kan,
+so kan doch vielmal&sr; da&sr; Futter nicht von dem
+rechten Orte fort, besonder&sr; wenn da&sr; Pferd
+<cw>in</cw>
+<pb="25"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+in da&sr; Futter nicht viel gesoffen, und keine na-
+türlichen Säffte bey sich hat, oder solche durch
+überflüßige Hitze au&sr;getrocknet seyn, wie auch
+vielmal&sr; die Winde da&sr; Futter oder den Mist
+aufhalten, und der Mist auch zugleich die Win-
+de aufhält. So bekomt auch da&sr; Pferd wenn
+da&sr; Stallen verhindert wird, zuerst davon die
+Windcolic, die Harn- und Darmstrenge, worau&sr;
+zuletzt die Darmgicht entstehet. Soll nun bey
+Zeiten Hülfe geschehen, so muß solchem Pfer-
+de der Mist au&sr; dem Mastdarm genommen wer-
+den, und zwar mit der Hand, woran die Nä-
+gel, damit im au&sr;räumen kein Schade geschicht,
+wohl abgeschnitten seyn müssen. Die Hand
+und der Arm wird zuvor mit laulichten Wasser,
+Seiffe und Baumöl geschmieret. Al&sr;denn wird
+dem Pferde nachstehende&sr; Clystier appliciret,
+dazu wird genommen, laulicht Wasser, worein
+1. bi&sr; 2. Loth Seiffe geschälet wird, wozu ei-
+nige Löffel Leinöl, wie auch 2. Löffel Baumöl,
+und wenn man e&sr; haben kan, 1. Löffel voll Ca-
+millenöl, in 1. Nösel warm Wasser gequerlet,
+damit die Seiffe klar wird, kommt, diese&sr;
+wird, dem Pferde mit einem Horn in den Mast-
+darm gefüllet, da&sr; Horn muß aber forne wohl
+zugestopft seyn, damit e&sr; den Mastdarm nicht
+verletze; da&sr; Pferd wird forne tief geführet, daß
+e&sr; hinten hoch zu stehen kommt. So bald al&sr;
+da&sr; Clystier durch einen Topf durch da&sr; Horn
+in den Mastdarm hinein gefüllet worden, so
+wird gleich dem Pferde sein Schweif zwischen
+<bs>B 5</bs><cw>den</cw>
+<pb="26"/>
+<kt><b>Der aufrichtige</b></kt>
+den Beinen durchgezogen, und an einen Gurt
+an den Leib angebunden, damit e&sr; da&sr; Clystier
+nicht wieder von sich stossen kan, bi&sr; e&sr; seine
+Operation verrichtet, und seine Wirkung ge-
+than, und wird dem Pferde von der vorgeschrie-
+benen Pille alle 3. Stunden eingesteckt. E&sr;
+wird aber die Futterverschlagung nicht leicht er-
+kannt, bi&sr; mehrentheil&sr; da&sr; Pferd sehr dicke auf-
+gelauffen, und nicht mehr auf einem Beine ste-
+hen kan und erst kalte Ohren- und Nasenlöcher
+hat, wie auch fast einen kalten Schwei&sr;, daß
+beynahe der Tod nicht mehr weit ist, zumahl da
+der, so an der Krankheit Schuld ist, solche
+nicht gerne gestehet, und anzeiget, da denn da&sr;
+arme Tier, welche&sr; e&sr; nicht thun kan, sehr mi-
+serabel wird, und manchmal unschuldig crepi-
+ren muß, da doch diese Krankheit mit so weni-
+gen in Zeiten kan gehoben werden. Denn e&sr;
+ist bey einem Pferde im Anfange keine Karnk-
+heit incurabel, oder tödtlich, so bald e&sr; ihm aber
+ankomt, daß e&sr; anfänget zu scharren oder zu
+hauen, sich zu welzen, sich in die Seite siehet,
+wo nemlich sein Schmerz ist, der entweder von
+faulen stinkigten Heu, oder von stinkenden wei-
+chen Grumt, oder aber von Schrot oder Korn
+wie auch vom überflüßigem Hafer entstanden;
+so wird judiciret, da&sr; Pferd beissen die Wür-
+mer, ein anderer spricht: Da&sr; Pferd kan nicht
+stallen; der dritte: E&sr; müsse die Feibel haben,
+denn sonst wüste ich nicht, wa&sr; ich damit ge-
+macht hätte. Hierauf wird da&sr; Pferd gemei-
+<cw>niglich</cw>
+<pb="27"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+niglich durch reiten und peitschen strapaziret,
+bi&sr; die Hitze völlig überhand nimmt, wodurch
+zuletzt der Brand zur Darmgicht kommet, oder
+durch da&sr; viele welzen de&sr; Pferde&sr; die Därmer
+sich verschleiffen und verwickeln, bi&sr; dasselbe cre-
+piren muß, da sich&sr; de&tn; bey Aufmachung de&sr; Pfer-
+de&sr; ganz ander&sr; befindet, al&sr; vorgegeben werden
+ist, indem bi&sr;weilen 20 Pferde an dieser Krank-
+heit crepiren, ehe man bey einem einzigen einen
+Magenwurm antrifft, wovon de&sr; Pferde&sr; erste
+Krankheit hat sollen herkommen. Nun gestehe
+ich zwar gerne ein, daß bey Anfang der Krank-
+heit manche&sr; Pferd beym ersten Au&sr;ritt wieder
+nach Hause kommt und sein Futter ordentlich
+frisset, indem durch da&sr; reiten die Winde von
+dem Pferde gegangen seyn, und da&sr; Pferd den
+Mist von sich gestossen, auch auf dem Wege
+beym au&sr;reiten gebrauset hat, weil sich da&sr; Fut-
+ter noch nicht feste eingesetzt, und Feuchtigkeit
+genug bey sich gehabt hat, daß da&sr; Futter, von
+dem Magen unverdauet von sich gestossen wer-
+den können. Denn weil e&sr; Nässe genung ge-
+habt, hat sich die Natur helfen können, und
+ist also da&sr; Pferd wieder gesund nach Hause ge-
+kommen. De&sr;wegen aber sind e&sr; doch nicht
+Würmer gewesen. Wie denn überhaupt zu
+merken, daß e&sr; fünferley Krankheiten giebet,
+die den Würmerbeissen ähnlich sind. 1) Die
+Feibel, 2) Die Wassercolic, 3) Die Wind-
+colic, womit meisten&sr; sowohl die Winde, al&sr;
+Krippenköcker behafftet seyn, 4) Die Futter-
+<cw>ver-</cw>
+<pb="28"/>
+<kt><b>Der aufrichtige</b></kt>
+verfangung, 5) Die Strangurie, oder Harn-
+strang, da ein Pferd vielmal&sr; durch Stein-
+schmerzen nicht stallen kan. Die wenigsten
+Pferde aber werden, wie zuvor gesagt, vom
+Wurm gebissen, indem mir in meinem Leben,
+nur ein&sr; unter die Hände gekommen, welche&sr;
+von Würmern ist umgebracht worden, da auch
+so gar der Magen ist durchbissen gewesen. Bey
+allen vorhin erwähnten Arten der Krankheit aber
+kan ein jedweder nebst göttlicher Hüfle zu der
+vorgeschriebenen Latwerge seine Zuflucht neh-
+men, und dem Pferde bey Anfange der Krank-
+heit 3. Loth davon einstecken. Auch wird dem
+Pferde der Kern gestochen, und Salz in die
+Nasenlöcher geblasen, daß da&sr; Pferd brausset,
+so haben alle diese Krankheiten nicht Macht,
+überhand zu nehmen, sollte auch solche allenfall&sr;
+in 3. Stunden, wieder eingesteckt und noch ein-
+mal au&sr;geritten werden, so wird selbige&sr; bey
+Anfall dieser incurabeln Krankheit genug seyn,
+denn e&sr; ist ein völlige&sr; Arcanum, so auf alle
+Krankheiten eingerichtet. Sollte aber ein Pferd
+verschlagen haben zwischen Fell und Fleisch, da&sr;
+e&sr; einen Ansatz von einer Raute zeigte, oder
+aber allbereit&sr; in die Beine gefallen wäre und
+die Haare dabey empor stünden, und die Haa-
+re auf den Rücken angewachsen wären, auch
+seine Zunge sehr schlapp und gelb, nicht min-
+der der Odem hei&sr;, sauer und schwer an sich
+zu ziehen, de&sr;gleichen die Augen mit Wasser
+angefüllet wären, indem seine Lunge und Leber
+<cw>in</cw>
+<pb="29"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+in faulen stinkenden Wasser schwimmet, auch
+bi&sr;weilen der Schlauch mit angelausen wäre:
+so entstehen alle diese Krankheiten darau&sr;, wenn
+ein Pferd einmahl einen kalten Soff gethan hat,
+und stark überritten worden, da man denn sol-
+chen Uebel mit der erwähnten Pille, welche au&sr;
+2. Loth von der gedachten Latwerge und 2. und
+1 halb Loth feiner Aloe&sr; zusammenvermischet
+ist, begegnet werden, indem man hierau&sr; eine
+Pille macht, und frühe wenn da&sr; Pferd noch
+nüchtern ist, e&sr; demselben wie oben geschrieben,
+mit dem Stocke einstecket, da&sr; Pferd darauf
+eine Stunde au&sr;reitet, und ihm demselben Tag
+nicht&sr; zu fressen giebet. Mittag&sr; und Abend&sr;
+wird jede&sr;mahl eine Hand voll naßgemachte&sr;
+Heu mit laulichten Wasser und Mehl eingemacht,
+und getränket, da denn früh darauf da&sr; Pferd
+purgiren wird. Wann die Purganz anfänget
+zu wirken, so kann da&sr; Pfer<fr>d</fr> ordentlich gefüt-
+tert werden, und wird ihm 12. Tage nach der
+Purganz ein Leder vor die Brust zu stecken nöthig
+seyn. Da&sr; Lederstecken an und vor sich selbst
+wird also gemacht:</p>
+<p>E&sr; wird ein Stück Sohlenleder ohngefehr
+eine&sr; Gulden&sr; groß in die Runde geschnitten,
+und in die Mitten ein Loch, da&sr; Leder wird zu-
+vor mit Terpentinöl bestrichen, al&sr;denn wird
+gerade auf die Spitze der Brust ein Loch gemacht
+der Länge nach, und mit dem Finger, oder ei-
+nem Stücke Holz die Haut abgestosen herunter-
+wärt&sr; zwischen de&sr; Pferde&sr; Vorderbein, damit
+<cw>da&sr;</cw>
+<pb="30"/>
+<kt><b>Der aufrichtige</b></kt>
+da&sr; Leder und die Oele eine Kammer bekom-
+men, al&sr;denn wird mit einem Federkiel stark
+in da&sr; Loch geblasen, damit sich die Haut von
+dem Fleische absondere, die Winde werden um
+die Brust und zwischen den Beinen mit der
+Hand herumgestrichen. Wenn nun die Haut
+um die Brust wohl aufgeblasen, so wird da&sr;
+Leder nebst ungefehr 1 Loth Terpentinöl, in da&sr;
+Loch, welche&sr; vor die Brust gemachet ist, hin-
+eingegossen, al&sr;denn wird da&sr; Pferd täglich 24
+Stunden an die Rauffe hoch und fest angebun-
+den damit e&sr; sich nicht niederlegen noch mit dem
+Maule die Oele au&sr;drucken kan. Den 4ten Tag
+darauf wird da&sr; Pferd alle Tage eine Stunde
+au&sr;geführet, und wird vor die Brust von unten
+auf die Materie täglich 3mal wohl au&sr;gedruckt.
+Da&sr; Leder bleibt bey dem Pferde 12 Tage ste-
+cken, auch kan da&sr; Pferd nach 4 bi&sr; 5 Tagen
+zu leichter Arbeit im Nothfall nach dem Leder-
+stecken gebraucht werden, e&sr; muß aber, nach-
+dem da&sr; Leder herau&sr;genommen worden,
+fleisig au&sr;gedruckt werden, bi&sr; die Wun-
+de von sich selbsten wieder geheilet ist, da-
+mit da&sr; Pferd keinen Schandfleck davon behält,
+und wird al&sr;denn mit vorbesagter Latwerge 3 L.
+täglich einzugeben fortgefahren, bi&sr; da&sr; Pferd
+völlig wieder restituiret, oder gesund ist.</p>
+<p>Noch eine andere Latwerge auf eben diese
+Krankheit eingerichtet, wenn absonderlich e&sr;
+dem Pferde au&sr; der Nase gehet, oder da&sr; Pferd
+viel zähen Schleim mit au&sr; dem Halse husten
+thäte, so wird ebenfall&sr; täglich 3 Loth von dieser
+<cw>Lat-</cw>
+<pb="31"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+Latwerge mit einen Stecken eingestecket, worauf
+da&sr; Pferd allezeit 2 bi&sr; 3 Stunden fasten muß,
+und soll jederzeit wo möglich früh nüchtern ein-
+gegeben werden: Man nehme</p>
+<li><fr>Alandwurzel</fr></li>
+<li><fr>Süßholz</fr></li>
+<li><fr>Schwefelblumen</fr></li>
+<li><fr>Ani&sr;</fr></li>
+<li><fr>Fenchel</fr></li>
+<li><fr>Fönum gräcum</fr></li>
+<li><fr>Eybisch Alteewurzel</fr></li>
+<li><fr>Lorbeeren.</fr></li>
+<p>jede&sr; 4 Loth. Diese&sr; zu einen Pulver gemacht
+und mit Honig und Syrop zu einem steifen
+Teig oder Latwerge gekneten.</p>
+<p>Noch eine andere Latwerge zu allen diesen
+vorgeschriebenen Krankheiten zu gebrauchen.</p>
+<li><c>Man nehme:</c></li>
+<li><fr>Langen Pfeffer, 2 Loth</fr></li>
+<li><fr>Lorbeeren, 3 Loth</fr></li>
+<li><fr>Tenfel&sr;dreck, 3 Loth</fr></li>
+<li><fr>Venedischen Theriac, 3 Loth</fr></li>
+<li><fr>Saffran, 1 Quentgen</fr></li>
+<li><fr>Bibergeil, 2 Loth</fr></li>
+<li><fr>Venedische Seife, 2 Loth.</fr></li>
+<p>Diese&sr; alle&sr; zu einer Masse oder Latwerge ge-
+macht, und davon kann dem Pferde gleich-
+fall&sr; 3 Loth in laulichten Kofent der nicht sauer
+ist, eingegeben werden wozu von 8 Eyern da&sr;
+<cw>Weise</cw>
+<pb="32"/>
+<kt><b>Der aufrichtige</b></kt>
+Weise genommen wird, wenn da&sr; Pferd viel
+Hitze im Leibe hat. Dieser Trank ist nur zu ge-
+brauchen, wenn man die andern Latwergen
+nicht haben oder bekommen kan. Wenn aber
+da&sr; Pferd an Lunge und Leber anbrüchtig, will
+sich solcher Trank auch nicht wohl brauchen las-
+sen, ist e&sr; aber gesund im Leibe, so wird e&sr; sei-
+ne Wirkung sehr wohl verrichten. Vom Rotz,
+Wurm und Schlag der Pferde will ich nicht
+viel schreiben, weil solche meisten&sr; incurabel,
+wa&sr; aber davon noch zu curiren ist, steckt alle&sr;
+unter dem Verschlagen, und kann mit allen
+diesen vorgeschriebenen Medicamenten, al&sr; näm-
+lich durch Lederstecken, Aderlassen und Purgi-
+ren curiret werden. So allenfall&sr; ein Pferd bey
+allen vorerwähnten Krankheiten nicht stallen
+könnte, so wird ihm die Ruthe herau&sr;gezogen,
+und mit einen Hölzgen ungefehr eine&sr; guten Fin-
+ger&sr; lang, welche&sr; glatt und sauber seyn und
+forne mit seinem Werke fest bewickelt, und der
+Ort, wo da&sr; Werk umwickelt ist, feuchte ge-
+macht werden muß, in ein wenig Pfeffer und
+Salz gedunkt, und in de&sr; Pferde&sr; Schlauch-
+röhre ohngefehr eine&sr; Finger&sr;lang hineingefah-
+ren 2 bi&sr; 3mal, da al&sr;denn da&sr; Pferd mit Hül-
+fe der innerlichen Medicamenten auf&sr; längste in
+einer halben Stunde stallen wird, eine Stute
+aber stallet fast im Augenblick, wenn man auf
+vorgeschriebene Weise verfähret.</p>
+<cw><fr>Da&sr;</fr></cw>
+<pb="33"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<d1><fr>Da&sr; vierte Capitel.
+Von den kollerichten und tummen
+Pferden.</fr></d1>
+<p><in>D</in>iese&sr; Capitel gehöret zwar eigentlich, wie
+oben gedacht zum Verschlag, wenn da&sr; Pferd
+erst auf seine innerlichen Theile verschlägt, und
+nach und nach sich au&sr;theilet, bi&sr; e&sr; manchen
+auch in den Kopf kommt, wornach die Com-
+plexion de&sr; Pferde&sr; ist; ist e&sr; hitzigen, chole-
+rischen Temperament&sr;, so wird solche&sr; der Kol-
+ler oder Sonnenschuß genennet, ist e&sr; aber kalt-
+oder phlegmatisch- oder melancholischen Tempe-
+rament&sr;, so heisset da&sr; Pferd tumm, haben aber
+beyde zugleich Kopf- und Hirnschmerzen, und
+kriegen nach und nach alle beyde die Gehirnschwin-
+dung, wenn nicht bey Zeiten Rath geschaffet
+wird. Nun ist die Cur bey vielen mi&sr;lich, bey
+manchen aber noch tractabel, wenn nur nicht
+da&sr; Pferd zuvor im Herbst schon auf die inner-
+lichen Theile verschlagen oder verfangen hat,
+und also die innerlichen Theile noch nicht völlig
+angegriffen seyn, und die Jnflammation nicht
+über Hand genommen hat, da&sr; Gehirne im
+Kopf noch nicht inficiret und gelb Wasser in
+demselben ist; so wird solchen Pferden beyder-
+seit&sr; auf folgende Weise noch geholfen: E&sr; wer-
+den dem Pferde im annehmenden Monden die
+Licht- und Kollerader entzweygerissen und ihm
+der Kern gestochen, daß e&sr; am Kopfe völlig
+<bs>C</bs><cw>au&sr;-</cw>
+<pb="34"/>
+<kt><b>Der aufrichtige</b></kt>
+au&sr;blutet u. durch da&sr; Zerreisen gedachter Adern,
+da&sr; dicke unreine Geblüte völlig herau&sr; kann,
+welche&sr; ihm die Stagnation und Schmertzen
+de&sr; Kopfe&sr; verursachet, wenn diese&sr; geschehen
+wird zwischen den Ohren unter den Schuppen
+mit einem grosem Messer ein Loch geschnitten,
+und mit einem Messer zwischen den Felle und
+Kopf die Haut loß gemacht, damit eine feine
+frische Liebestöckelwurzel kann hineingestecket
+werden; die Wunde wird mit den Haaren etwa&sr;
+zugeflochten, damit da&sr; Pferd mit Drückung
+de&sr; Kopf&sr; an die Wand die Wurtzel nicht wie-
+der herau&sr;drucken kann, also wird sich in 5. bi&sr;
+6. Tagen vor den Kopf de&sr; Pferde&sr; eine Beule
+voll Materie befinden unter der Wurtzel, die
+Beule wird mit einer Fliete aufgerissen damit die
+Materie einen Abfluß kriegt, und soll die Wur-
+tzel 14. Tage darinn stecken bleiben, ehe sie wie-
+der herau&sr;genommen wird, und soll den an-
+dern Tag darauf dem Pferde vor die Brust ein
+Leder gesteckt und die Spornader unter den Bauch
+gelassen und täglich 3. Loth von der vorgeschrie-
+benen Verschlaglatwerge, wenn e&sr; möchlig und
+da&sr; Pferd dazu zu zwingen ist, eingegeben, auch
+währenden 14. Tagen mit Mistpfütze geträncket
+werden. Wenigsten&sr; wenn e&sr; die Mistpfütze
+nicht sauffen will rühret man in dem Eymer
+Wasser, denn da&sr; Pferd säufft 4. Loth Salpe-
+ter und 1 halb Pfund rothen Bolu&sr;. Durch
+diese Methode sind nebst göttlicher Hülffe viele
+kolrichte und tumme Pferde curiret worden.</p>
+<cw>Noch</cw>
+<pb="35"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<p>Noch ein gute&sr; Pulver zu eben dieser Krank-
+heit, welche&sr; nach und nach kan gebrauchet wer-
+der, und zugleich auf alle haarschlägige Pfer-
+de gerichtet ist, de&sr;gleichen auf lungensichtige.</p>
+<li><c>Man nehme</c></li>
+<li><fr>Rothen Bolu&sr;,</fr></li>
+<li><fr>Süßholz,</fr></li>
+<li><fr>Hepar Antimonii,</fr></li>
+<li><fr>Haselwurzel,</fr></li>
+<li><fr>Entzian.</fr></li>
+<li><fr>Foenum graecum,</fr></li>
+<li><fr>Schwalbenwurzel,</fr></li>
+<li><fr>Eybischwurzel,</fr></li>
+<li><fr>Salz,</fr></li>
+<li><fr>Lerchenschwamm,</fr></li>
+<li><fr>Johanni&sr;krautblumen,</fr></li>
+<li><fr>Hirschhorn,</fr></li>
+<p>Jede&sr; 1 halb Pfund, diese Stücke werden klar
+gemacht und jeden Pferde 1. Esselöffel voll in
+Futter gegeben.</p>
+<p>E&sr; sind annoch viele Krankheiten die vom
+Verschlagen herrühren zu errinnern, welche zwar
+schwer zu heben und zu curiren sind, al&sr; die
+Maulsperre, wenn dem Pferde da&sr; Maul halb
+oder ganz verschlossen wäre, und wenn man sol-
+cher binnen 24. Stunden durch Aderlässe und
+innerliche Medicamenta nicht zu Hülffe kommt,
+so ist selbige incurabel, in Zeiten aber wird dem
+Pferde Licht-Kollerader gelassen, wie auch die
+beyden Spornadern und wird demselben 3. Loth
+<bs>C 2</bs><cw>von</cw>
+<pb="36"/>
+<kt><b>Der aufrichtige</b></kt>
+von dieser vorgeschriebenen Latwerge täglich 2.
+mal eingegeben, nehmlich früh und abend&sr;,
+worauf andern Tage&sr; die Schrankadern an den
+Hinterbeinen gelassen werden, und also kan da&sr;
+Pferd mit 4maliger Eingebung der vorbeschrie-
+benen Latwerge in zweymal 24. Stunden nebst
+göttlicher <g>Hülfe</g> von seiner Krankheit wieder
+entlediget seyn. Sollte aber da&sr; Pferd mit in&sr;
+Creuz verschlagen haben, wie solche&sr; mehren-
+theil&sr; geschiehet, welche Lähmung öffter&sr; für
+eine Verrenkung angesehen wird: so wird oben
+auf da&sr; Creuz, wo der Rückgrad au&sr;gehet, und
+da&sr; Schloß anfänget mit einer Fliete wohl auf-
+gehacket und mit vorbesagter Schmiere 3. Tage
+hinter einander täglich einmal eingerieben, wo-
+durch der Callu&sr;, welcher sich zwischen da&sr;
+Schloß und den Rückgrad eingeleget hat, durch
+Blasenziehen wieder au&sr;einander getheilet wer-
+den kan.</p>
+<li><c>Man nehme</c></li>
+<li><fr>Lohröl 8. Loth,</fr></li>
+<li><fr>Euphorbium 2. Loth,</fr></li>
+<li><fr>Spanische Fliegen 1. Loth,</fr></li>
+<p>Diese&sr; wird warm unter einander gerühret, wenn
+zuvor die 2. Specie&sr; pulverisiret seyn, al&sr;denn
+mit dieser Salbe da&sr; Pferd wohl geschmieret:
+sollte aber die Lähmung sehr alt seyn, so wird
+da&sr; Creuz oben der Länge nach eine&sr; Finger&sr;
+<cw>lang</cw>
+<pb="37"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+lang aufgefchnitten, ist da&sr; Pferd fleischigt,
+auch fast eine&sr; Finger&sr; tief und täglich</p>
+<li>1. <fr>Loth Oleum Petrae,</fr></li>
+<li>1. - <fr>Wacholderoel,</fr></li>
+<li>1. - <fr>Terpentinoel,</fr></li>
+<p>zusammegemischt, und davon oben in da&sr; Creuz
+gegossen, worauf ein wenig Werk gestopffet
+wird. Diese Cur ist so wohl bey Verrenkung
+de&sr; Creutze&sr; al&sr; dem Verschlagen desselben zu
+gebrauchen, indem beyde Lähmungen sich nicht
+wohl unterscheiden lassen. E&sr; werden auch
+ebenfall&sr; die Schrankadern bey diesen beyden
+Lähmungen gelassen.</p>
+<d1><fr>Da&sr; fünfte Capitel.
+Von denen Augenkrankheiten.</fr></d1>
+<p><in>S</in>olche kommen meisten&sr; auch mit vom Ver-
+schlagen her. Wenn ein Pferd trübe Augen hat
+oder ihm sonst die Augenlieder auflaufen, ist zu
+gebrauchen nachfolgende Augensalbe:</p>
+<li><fr>Man nehme</fr></li>
+<li>1 <fr>halb Loth Canarienzucker</fr></li>
+<li>2 <fr>Löffel voll Wein</fr></li>
+<li>1 <fr>gute Messerspitze voll Honig</fr></li>
+<li>1 <fr>halbe Messerspitze Saffran.</fr></li>
+<bs>C 3</bs><cw>diese</cw>
+<pb="38"/>
+<kt><b>Der aufrichtige</b></kt>
+<p>diese Stücke in einem kleinen Töpfgen kochen
+lassen, und mit einer Feder täglich 2mal in die
+Augen gestrichen, und da&sr; Pferd angebunden,
+daß sich&sr; nicht reiben kan; sollten allenfall&sr; in 2
+Tagen die Augen nicht wieder helle und klar seyn,
+oder allbereit&sr; der Hauch im Augen gewachsen
+wäre, so wird dem Pferde auf beyden Seiten
+über den Augen die Lichtader gelassen, die Adern
+müssen aber wohl bluten, damit da&sr; dicke schwar-
+ze verbrannte Blut wohl herau&sr;gehen kann, soll-
+te aber die Trübigkeit der Augen von dem Hau-
+che herkommen, so muß selbiger geschnitten wer-
+den. E&sr; wird aber da&sr; Pferd zuvor stark ge-
+premset, und muß der, so diese&sr; verrichten will,
+die Nägel wohl verschneiden, damit de&sr; Pfer-
+de&sr; Auge durch einen Griff de&sr; Finger&sr; nicht
+verletzt werde, weil der Hauch mit dem Finger
+muß herau&sr;genommen und mit einer Nadel und
+doppelten Zwirnfaden durchstochen werden, da-
+mit der Hauch herau&sr;gezogen und zum weg-
+schneiden angefasset werden kan, al&sr;denn wird
+da&sr; Auge voll klare&sr; feine&sr; Salz gesteckt, an-
+dern Tage&sr; darauf wird e&sr; wieder mit dem vori-
+gen Wasser täglich einmahl einmahl eingestri-
+chen, bi&sr; e&sr; wieder helle und klar ist.</p>
+<p>Die andern Krankheiten der Augen sind
+mehrentheil&sr; incurabel, al&sr; nemlich die Star-
+blindheiten, wa&sr; aber vom schlagen und stossen
+ist, kann alle&sr; mit dieser Augensalbe und Ader-
+lassen curiret werden.</p>
+<p>Noch ein ander Augenwasser zu allerley
+trüben und blöden Augen:</p>
+<cw>Man</cw>
+<pb="39"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<p>Man nehme ohngefehr ein Pfund unge-
+löschten Kalk, worauf 2 Meßkannen gesot-
+ten Bornwasser gegossen wird, der Topf aber
+worinn der Kalk ist, muß groß seyn, damit da&sr;
+Wasser, wenn der Kalk anfängt zu kochen, nicht
+herau&sr;springen kan; so diese&sr; Wasser auf dem
+Kalk 24 Stunden gestanden hat, und klar ge-
+worden ist, so wird ohngefehr ein Nösel von die-
+sem Wasser sauber abgegossen, e&sr; muß aber der
+Schaum, welcher oben daraufstehet, mit ei-
+nem Löffel abgenommen werden. Da&sr; Wasser
+wird in ein rein Gla&sr; gegossen, und darzu ge-
+nommen:</p>
+<li><fr>Salmiac</fr></li>
+<li><fr>Weisen Vietriol, jede&sr; 1 Loth</fr></li>
+<li><fr>Fein blauer Vietriol oder Gallicienstein 1
+halb Loth.</fr></li>
+<p>Diese 3 Specie&sr; werden klar gemacht, und in
+da&sr; Kalkwasser gethan, wie auch 1 halb Quent-
+gen Campher, womit ein Pferd, welche&sr; Man-
+gel an Auge, absonderlich Felle auf denselben
+hat, völlig wieder curiret werden kann. E&sr;
+wird ihm nemlich täglich zweymal mit einer Fe-
+der in die Augen gestrichen, wo nicht die Sehe
+völlig verdorben ist.</p>
+<p>Nun ist noch die Flußgalle, welche vom
+Verschlagen herrühret, übrig, welche theil&sr; in
+Forderbeinen an Knien lieget, theil&sr; aber auch
+zugleich mit auf dem ersten Gelenke welche&sr; über
+den Huf stehet, und auf beyden Seiten beuligt
+<bs>A 4</bs><cw>zu</cw>
+<pb="40"/>
+<kt><b>Der aufrichtige</b></kt>
+zu sehen ist, theil&sr; groß, theil&sr; klein, abson-
+derlich an denen Hinterbeinen in Knien welche
+zuweilen al&sr; halbe Hünereier groß werden, und
+lassen sich sowohl inwendig al&sr; au&sr;wendig der
+Knie sehen. So nun solche Flußgallen hart
+werden, so werden sie gar incurabel, und verur-
+sachen nicht allein <g>Lähmung,</g> sondern auch
+Schwindung, wenn sie aber noch weich seyn oder
+gallen, werden sie zwar wohl noch mit leichter
+Mühe curiret, erfordert aber doch bey manchen
+Pferd eine ziemliche Zeit, weil sie zuweilen wie-
+derkommen, bi&sr;weilen aber von der ersten Cur
+wegbleiben. Wieder solche Flußgallen an dem
+Vorter- und Hinterbeinen gebrauche man nach-
+folgende Salbe und schmiere sie 3 bi&sr; 4 Tage
+hinter einander damit, die Salbe muß aber wohl
+eingerieben werden, so wird sie ein gelbe&sr; Was-
+ser au&sr;ziehen, dazu nehme man</p>
+<li>8 <fr>Loth Lohröl</fr></li>
+<li>1 <fr>und 1 halb Loth Euphorbium</fr></li>
+<li>1 <fr>und 1 halb Loth Spanische Fliegen.</fr></li>
+<p>beyde&sr; letztere&sr; muß sehr klar gemacht, in da&sr;
+Oehl gethan, und fleißig umgerühret, und die
+Flußgalle wie vorgedacht 4 Tage hinter einan-
+der damit wohl geschmieret werden. Den drit-
+ten Tag nach diesem letzten schmieren, werden
+sie mit ungesalzener Butter geschmieret. Soll-
+te sich allenfall&sr; 1 Monat darauf von dieser
+Feuchtigkeit oder Flußgalle wieder wa&sr; sehen
+lassen, so wird abermahl&sr; mit der Salbe, wie
+<cw>vor-</cw>
+<pb="41"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+vorgeschrieben geschmieret, da sie sich denn voll-
+end&sr; verliehren werden.</p>
+<p>Die Stollenbeulen werden ebenfall&sr; wie
+die Flußgallen mit dieser Salbe curirt, und
+zwar, wenn die Stollenbeulen um denen Bei-
+nen noch weich seyn, so werden sie mit einer Flie-
+te aufgehackt, doch nur 6 bi&sr; 8 kleine Löchergen.
+<aq>NB.</aq> Die Flußgallen aber dürfen nicht aufgeha-
+cket werden. Wenn nun die Stollbeulen auf-
+gehackt seyn, und die gelbe zähe Feuchtigkeit
+wohl au&sr;gedruckt ist, so werden sie mit dieser
+scharfen Salbe 4 Tage nach einander täglich ein-
+mahl geschmieret und wohl eingerieben, de&sr;glei-
+chen den 3ten Tag nach den scharfen Schmie-
+ren ebenfall&sr; mit ungesalzener Butter, und al&sr;-
+denn 4 Tage wieder mit der Salbe, bi&sr; sie sich
+verzogen haben. Jst aber die Stollenbeule zu
+einen harten Schwamm und groß worden, so
+kann sie nicht ander&sr; al&sr; durch einen Schnitt
+curiret werden, welche&sr; dem Pferde fast nicht
+so viel Schmerzen verursachet, al&sr; die scharfe
+Salbe. Jch wollte zwar wohl eine schärfere
+Salbe dazu setzen vor die Stollbeulen und Ober-
+beine, auch Spad, e&sr; will aber selbige&sr; sich de&sr;-
+wegen nicht wohl thun lassen, daß man bey ei-
+nem Pferd viele mercurialische Sachen gebrau-
+chen kann, indem sich die Pferde gerne lecken
+und beissen wovon ein Pferd gar crepiren kann,
+al&sr; ist der kürzeste Weg, man schneide die har-
+ten Stollenbeulen, welche zu einem Schwamm
+worden sind, auf&sr; reineste weg, und werfe auf
+<bs>C 5</bs><cw>den</cw>
+<pb="42"/>
+<kt><b>Der aufrichtige</b></kt>
+den Fleck, wo die Beule weggeschnitten ist, ei-
+ne Hand voll reine Asche, und heile den Scha-
+den mit den gebrannten grauen Steine und gel-
+ben Salbe, einen Tag um den andern muß e&sr;
+geschmieret und gewaschen werden, so wird der
+Schaden in kurzen wieder heil und mit Haut
+und Haaren wieder überzogen werden.</p>
+<p>Die Piephacken am Hinterbein werden
+ebenfall&sr; erst mit scharfer Schmiere, wie die
+Stollenbeulen geschmieret; wenn sie noch weich
+seyn, können sie auch damit vertrieben werden.
+Wenn die Piephacken aber einmahl hart und zu
+einem harten Schwamm worden sind, müssen
+sie aufgeschnitten werden wie eine Stollenbeule,
+werden auch auf solche Art geheilet mit eben die-
+sen gebrannten Steine und rother Salbe, curi-
+ret sich aber nicht so gut, denn e&sr; ist gefährli-
+cher zu schneiden, al&sr; ein Stollenschwamm.</p>
+<p>Nun wird von dem Spad, an den Hin-
+terbeinen Leist und Ellebogen gehandelt.</p>
+<p>Der Ellebogen liegt den Pferden an den
+Hinterbeinen unter dem Knie, und wird mit der
+scharfen Schmiere eben so curiret, wie die Fluß-
+gallen, und ist leichte zu curiren mit der schar-
+fen Salbe, ist aber von vielen schwer zu erken-
+nen, ob er gleich bi&sr;weilen den Pferden da&sr;
+Bein sprengelkrumm macht, daß auch da&sr; gan-
+ze Bein davon schwindet, sowohl im Huf al&sr;
+auch in der Hüffte, wenn ihm nicht geholfen
+wird, der Spad aber am Hinterbeine liegt in-
+wendig unter dem Knie, und wird zu einem
+<cw>har-</cw>
+<pb="43"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+harten Oberbeine. Mancher Spad wird groß,
+mancher aber bleibt klein. E&sr; ist auch mancher
+Spad an und vor sich nicht gefährlich, abson-
+derlich der Ochsenspad, wenn er nur nicht die
+völlige Schrankader berühret, so schadet er dem
+Pferde an seinem Reiten und Arbeiten wenig,
+oder gar nicht&sr;, und ist die Lähmung ihnen nicht
+besser al&sr; im Trabe anzusehen, so bald er aber
+die Schrankader überwächset, so kriegt da&sr;
+Pferd mehr Schmerzen und Reisen in Beinen
+worauf die Schwindung bald erfolget, wie bey
+dem Blutspad, so wohl unten am Fuß, al&sr;
+oben in der Hüffte, da al&sr;denn die Cur schon
+mißlich au&sr;siehet, sowohl bey dem Blut- al&sr;
+Ochsenspad. Wenn aber der Ochsenspad noch
+in seinem Wach&sr;thum ist, und die Schrankader
+noch nicht völlig berühret hat, auch keine
+Schwindung weder in der Hüffte noch im Fuß
+dabey ist, so wird die Cur also verrichtet:</p>
+<p>Man brennet dem Spadknochen oder
+Knorpel 3. Creuz ohngefehr 2. Messerrücken
+tief durch Haut und den Knochen, da&sr; Brenn-
+eisen soll 2. Messerrücken starck seyn, wenn e&sr;
+gebrennt ist, so wird der Spadknochen 2. bi&sr;
+3. Tage mit der gelben Salbe geschmieret, al&sr;-
+denn mit Antimonio oder Oleo Antimonii täg-
+lich einmal mit einer Feder bestrichen, welche&sr;
+3. bi&sr; 4. Tage geschehen kann, den 6ten Tag
+darauf wird e&sr; mit ein wenig ungesalzten Schwei-
+nefett geschmieret, da al&sr;denn binnen 14. Ta-
+gen die Spadbeule abfallen wird. Sollte sie
+<cw>allen-</cw>
+<pb="44"/>
+<kt><b>Der aufrichtige</b></kt>
+allenfall&sr; nicht reine abgefallen seyn, so wird sie
+mit dem Putero Antimonio noch zwey Tage hinter
+einander bestrichen, damit da&sr; knorplichte
+Wesen folgend&sr; sich separiret und abfällt, so
+muß e&sr; al&sr;denn von sich selbst heile werden.
+Sollte aber unvermuthet da&sr; Knie davon an-
+lauffen, und sich eine gelbe Feuchtigkeit al&sr;
+Gliedwasser sich zeigen, so wird solche&sr; mit der
+rothen Salbe täglich einmal geschmieret, und
+geheilet. So werden auch alle Oberbeine ge-
+brannt, und verfahren, wie bey dem Spad ist
+gemeldet worden. Will aber jemand sich da&sr;
+Brennen nicht unterstehen bey dem Spad und
+Oberbeinen, so wird mit der vorgeschriebenen
+scharffen Flußgallensalbe geschmieret und selbige
+sehr wohl eingerieben. Diese&sr; geschiehet de&sr;
+Tage&sr; einmal, welche&sr; 4. Tage continuiret,
+sodann 4. Tage hinter einander mit der gelben
+Salbe oder mit ungesalzener Butter, und wird
+so lange mit dem Schmieren gewechselt, bi&sr; sich
+die Oberbeine nach und nach verzehret haben.</p>
+<d1><fr>Da&sr; sechste Capitel.
+Von den Verrenkungen überhaupt.</fr></d1>
+<p><in>D</in>iese werden auch alle auf einerley Weise
+curiret. Wenn ein Pferd einem Bug
+verrenket hat, oder verstauchet, und diese Ver-
+renkung noch neu oder frisch ist, so soll man
+dem Pferde seinem Bug hin- und herschieben
+<cw>oder</cw>
+<pb="45"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+oder biegen, ob auch die Verrenkung merklich
+im Bug ist. E&sr; möchte zwar wohl der Fuß
+erst visitiret werden, damit die Lähmung nicht
+etwa in den Fuß ist, e&sr; soll aber auch nicht ger-
+ne von de&sr; Pferde&sr; Fuß da&sr; Eisen abgebrochen,
+vielweniger dünne au&sr;gewürkt werden, weil zu-
+weilen die Lähmung mehr von Verschlagung oder
+Verfangung herrühren möchte: Wenn also de&sr;
+Pferde&sr; Fuß dünne au&sr;gewürket würde, so
+würde da&sr; Pferd dadurch in schlechten Stand
+gesetzet: Sondern man soll dem Fußnagel wohl
+visitiren durch Einschlag eine&sr; Hammer&sr; oder
+Drückung mit denen Händen, ob die Lähmung
+vom vernageln herrühren möchte, oder da&sr; Ei-
+sen inwendig auf der Sohle oder sonst aufliegen
+möchte, wodurch eine Lähmung entstehen kann;
+so selbige&sr; sich nicht befindet, und der Huf kei-
+ne Hitze hat, so soll ein Gelenke nach dem an-
+dern wohl visitiret werden mit biegen und drehen
+der Gelenke, bi&sr; sich die Lähmung zeigen wird,
+indem diese Lähmung an den Gang de&sr; Pferde&sr;
+nicht zu erkennen ist. Wenn nun die Lähmung
+oben im Bug zu befinden, so wird de&sr; Pferde&sr;
+Bein, wenn e&sr; da&sr; linke ist, mit der linken
+Achsel wohl hinter sich gestossen, und al&sr;denn
+mit dieser Salbe geschmieret und wohl gerieben.</p>
+<li><c>Man nehme</c></li>
+<li><fr>Oleum Petrae,</fr></li>
+<li><fr>Spickoel,</fr></li>
+<li><fr>Terpentinoel,</fr></li>
+<cw><fr>Zie-</fr></cw>
+<pb="46"/>
+<kt><b>Der aufrichtige</b></kt>
+<li><fr>Ziegelsteinoel,</fr></li>
+<li><fr>Biebergeiloel,</fr></li>
+<li><fr>Camillenoel</fr></li>
+<li><fr>Johanni&sr;oel,</fr></li>
+<li><fr>Spiritu&sr; Vini,</fr></li>
+<li><fr>Lohroel,</fr></li>
+<li><fr>Dialthee,</fr></li>
+<li><fr>Klauenfett,</fr></li>
+<li><fr>Hundefett,</fr></li>
+<li><fr>Regenwürmeroel,</fr></li>
+<p>Diese&sr; alle&sr; warm unter einander gerühret, und
+einem Tag um den andern damit geschmieret,
+und eingewärmet; Jst aber die Lähmung schon
+alt, und man vermuthet Schwindung so wird
+1. Loth pulverisirte&sr; Euforbium und 1. Loth
+Spanische Fliegen noch in die Salbe gerühret.
+So aber die Lähmung noch ganz neu ist, so blei-
+ben die 2. Specie&sr; davon. Diese Salbe kann
+zwar zu allen Verrenkungen derer Pferde ge-
+brauchet werden, e&sr; soll aber vorhero der Bug,
+Hüffte und Creutz mit einer Fliete wohl aufge-
+hackt werden. So auch ein Pferd sich durch
+einen falschen Sprung mit den hintern Füssen
+sich in die fordersten Flechsen gehauen, so wird
+die angelauffene Flechse zwischen Knie und den
+Kötgen sehr wohl mit dieser Salbe geschmieret,
+und ist diese Lähmung wohl in Acht zu nehmen,
+weil sie fast die schlimmste ist, e&sr; soll auch zu
+dieser Lähmung noch ein Umschlag gekocht, und
+so oft da&sr; Pferd geschmieret, darnach der Um-
+schlag aufgelegt werden.</p>
+<cw>Man</cw>
+<pb="47"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<li><c>Man nehme</c></li>
+<li><fr>Ottermenge,</fr></li>
+<li><fr>Camillenblumen,</fr></li>
+<li><fr>Johnni&sr;krautblumen,</fr></li>
+<li><fr>Geguetschte Wacholderbeeren,</fr></li>
+<li><fr>Leinsaamen,</fr></li>
+<li><fr>Ebischwurzel, jede&sr; eine Hand voll.</fr></li>
+<p>So man aber letztere&sr; nicht haben kann
+nimmt man Pappelwurzel. Diese&sr; alle&sr; in
+Bier oder Wein gekocht, und mit einem Lap-
+pen wohl umgeschlagen. Der Umschlag, der
+abgemacht wird, soll allemahl zugleich wieder
+mit warm gemacht werden. Jst aber der Spad
+sehr alt, so muß ihm ein Haarseil gezogen, oder
+ein Leder gestecket, oder Oel eingegossen werden.
+Ein Haarseil zu ziehen, ist schon angewiesen
+worden, bey verfangenen oder verschlagenen
+Pferden. Da&sr; Oel zu giesen wird also verrich-
+tet: Man schneide den Pferde ohngefehr eine
+kleine Spanne über den Bauch durch da&sr; Fell
+ein Loch zwischen Fell und Fleisch, separirt erst
+mit dem Finger die Haut von dem Fleische lo&sr;,
+al&sr;denn wird da&sr; Fell mit einem eisernen oder
+hölzernen Spachtel, um die ganze Junctur de&sr;
+Buge&sr; lo&sr;gestossen, und mit einem Federkiel
+die Haut von dem Fleische lo&sr;geblasen, und
+zwar auf der ganzen Seite de&sr; Buge&sr;. Von un-
+ten bi&sr; oben hinau&sr; muß der Wind getrieben wer-
+den, al&sr;denn wird von folgenden vorgeschriebe-
+nen Olitäten 1 halb Loth ohngesehr darein ge-
+gossen.</p>
+<cw><fr>Zie-</fr></cw>
+<pb="48"/>
+<kt><b>Der aufrichtige</b></kt>
+<li><fr>Ziegelöhl,</fr></li>
+<li><fr>Spicköhl,</fr></li>
+<li><fr>Terpentinöhl,</fr></li>
+<li><fr>Wacholderöhl,</fr></li>
+<li><fr>Oleum Petrae, von jeden 1. halb Loth.</fr></li>
+<p>Diese Olitäten kann man sowohl zum Le-
+derstecken, al&sr; <g>Haarseilziehen</g> gebrauchen,
+wie auch zum Creutz aufmachen, und da&sr; Pferd
+im neuen Monden, so der Schade alt und ge-
+schwunden, daß die Kernschwindung vermuth-
+lich auch im Fuß wäre, dünne au&sr;gewürckt wer-
+den, wie bey dem verfangen und verschlagen
+schon gemeldet worden, mit den Einschlägen
+vor die Kernschwindung.</p>
+<p>Noch ein andere&sr; Mittel vor eine frische Ver-
+renkang oder Verstauchung.</p>
+<li><c>Nehme man</c></li>
+<li><fr>Camillenblumen.</fr></li>
+<li><fr>Foenum gräcum,</fr></li>
+<li><fr>Wacholderbeeren</fr></li>
+<li><fr>Huflattig,</fr></li>
+<li><fr>Leinsaamen,</fr></li>
+<li><fr>Ottermenge,</fr></li>
+<li><fr>Nachtschatten.</fr></li>
+<li><fr>Wegebreit,</fr></li>
+<li><fr>Käsepappeln, von jeden 1. Hand voll</fr></li>
+<p>Jst diese&sr; grüne so wird selbige&sr; klar gehackt,
+und in einen großen Topf gethan, wozu Wein
+oder Wasser genommen wird, nebst</p>
+<cw>1 <fr>Pfund</fr></cw>
+<pb="49"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<li>1. <fr>Pfund Baumöhl,</fr></li>
+<li>1. <fr>Pfund Leinöhl,</fr></li>
+<li>1. <fr>Pfund Schweinefett,</fr></li>
+<li>1. <fr>viertel Pfund Terpentin,</fr></li>
+<li>1. <fr>halb Pfund ungesaltzene Butter,</fr></li>
+<li>1. <fr>Pfund Kammfett.</fr></li>
+<p>Diese&sr; alle&sr; mit dem Kräutern nebst dem
+Wein und dem Wasser auf&sr; wenigste 2. Stun-
+den wohl kochen lassen. Wenn nun alle Feuch-
+tigkeiten wohl verkocht seyn, so wird al&sr;denn
+die Salbe abgegossen und zur Nothdurft aufge-
+hoben. So nun ein Pferd steif, oder sonst an
+einem Beine lädiret wäre, die Maladie mag
+herkommen von wa&sr; sie will, so soll dem Pfer-
+de mit dieser Salbe, da einer vielleicht nicht
+wei&sr;, in welchen Gelenke die Lähmung sitzen
+möchte, da&sr; ganze Bein von unten bi&sr; oben her-
+auf ein bi&sr; 3. mahl wohl geschmleret und einge-
+rieben werden. E&sr; heilet auch diese Salbe alle
+Fleischwunden und Geschwülste. E&sr; ist eine
+veritable Nerven- und Geäder-Salbe. So ein
+Pferd lahm wird, auf dem Fuß durch Ver-
+bellung oder Vernaglung, oder auch von Stein-
+gallen, die Materie über der Krone aufbräche,
+so wird dem Pferde da&sr; Eisen abgebrochen, der
+Fuß fein dünne au&sr;gewirkt und wohl visitiret,
+auf welchen Fleck in dem Fuß die Materie lie-
+get, damit dem Pferde sein Fuß durch viele&sr; visi-
+tiren nicht schadhafft gemacht wird, indem die
+Materie au&sr; dem Fuß nicht gerade in die Höhe
+steiget, sondern zuweilen erst auf die Krone
+<bs>D</bs><cw>herum-</cw>
+<pb="50"/>
+<kt><b>Der aufrichtige</b></kt>
+herumläufft, ehe die Materie einen Au&sr;bruch
+gewinnen kann, wenn besonder&sr; da&sr; Pferd durch
+da&sr; Vernageln lahm worden ist, daß e&sr; bi&sr;wei-
+len von einem Hufnagel in&sr; Leben gestochen
+worden, oder aber zuweilen wohl gar die Spitze
+de&sr; Nagel&sr; in da&sr; Füßgen gegangen und darin-
+nen verbrochen wäre, oder aber der Hufnagel
+sich spalten kann, daß ein Theil de&sr; Nagel&sr;
+herau&sr;gekommen die andere Helffte aber in dem
+Füßgen stecken blieben wäre, welche&sr; öffter&sr;
+böse Lähmungen verursachet, daß zuweilen da&sr;
+Füßgen von der scharffen Materie angefressen
+wird, und vom Stiche de&sr; Nagel&sr; die Mate-
+rie wie auch zugleich da&sr; Leben oben zur Krone
+herau&sr;tritt, wenn vorau&sr; unten im Fusse nicht
+völlige Oeffnung gemacht wird, daß wenn nach
+dem Stifft der Spitze de&sr; Nagel&sr;, welcher
+stecken geblieben nicht sehen kann und nicht ge-
+nugsamen Raum hat solchen herau&sr;zusuchen.
+Daher thut man am besten, man nimmt gleich
+die halbe Sohle herau&sr; damit man Platz hat,
+dieselbige, so weit sie unterkötig, zu visitiren,
+und die Materie von unten herau&sr; ihrem völligen
+Fluß haben könne. So nun die Oeffnung ge-
+schehen, und die Materie au&sr; dem Fuße au&sr;-
+gedrücket ist mit einem Höltzgen, wo forne herum
+etwa&sr; seine&sr; Werk gewickelt ist, (da&sr; Werk
+aber muß keine Schieben in sich haben, wel-
+che sehr schädlich seyn, und wenn eine Schiebe
+mit in die Wunde ko&tm;t, so wird von der rothen
+Salbe ein wenig lauwarm gemacht, und in die
+<cw>Wunde</cw>
+<pb="51"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+Wunde gegossen, und ein wenig Werk darauf
+gestopft, doch nicht zu feste, damit die oberste
+Materie die sich in die Krone gesetzt ihren Ab-
+fluß herunter haben kann,) ist nicht rathsam,
+daß man gar zubald über die Krone mit trocke-
+nen Sachen oder Ueberschlägen fähret, wenn
+gleich da&sr; Leben oben herau&sr;getreten wäre, denn
+sonst treibt man die Materie von dem Flecke weg,
+und sucht sie einen andern Au&sr;wurf, und wird
+wohl ein Loch heil, da&sr; andere bricht wieder auf,
+sondern man lege von vorbeschriebener rothen
+Salbe mit Werk auf die Krone gleichfall&sr; her-
+um, so wird die Salbe die Materie, welche
+einmal nicht wieder zurückkommt, au&sr;ziehen,
+und wieder heilen, denn e&sr; muß wohl Achtung
+gegeben werden, damit der Schaden unten nicht
+eher zugeheilet werde, al&sr; oben, damit e&sr; sei-
+nem Abfluß behält. Sollte allenfall&sr; durch
+Stich de&sr; Nagel&sr; da&sr; Füßgen einen schwarzen
+Schiefer, oder schwarzen Fleck bekommen ha-
+ben, wenn auch gleichfall&sr; da&sr; Schiefergen vom
+Nagel noch darinnen stäcke, so wird die rothe
+Salbe nicht allein solche&sr; herau&sr;ziehen, son-
+dern auch da&sr; Füßgen wieder renoviren und zu-
+heilen.</p>
+<p>E&sr; sind auch die Hüfe der Pferde noch vie-
+len Lähmungen unterworffen, wie bekannt ist,
+z. E. wenn die Steingallen anfangen zu schwä-
+ren und oben herau&sr;brechen, wie auch durch
+einen Nageltritt der Fuß sehr verletzet werden
+kann. E&sr; können aber alle diese Schäden durch
+<bs>D 2</bs><cw>gute</cw>
+<pb="52"/>
+<kt><b>Der aufrichtige</b></kt>
+gute Luftmachung der Sohlen mit dieser rothen
+Salbe bald wieder auf solche Weise, wie vor-
+beschrieben curiret werden, und will nicht alle-
+zeit gut gethan seyn, daß man zu solchen Schä-
+den in denen Hüfen viele scharfe Olitäten oder
+spirituöse Sachen zu brauchen wodurch vielmal&sr;
+fistulöse und langweilige Schäden entstehen,
+absonderlich wenn mancher da&sr; Scheidewasser
+in Gebrauch hat, welche&sr; den Schaden unten
+vertrocknet, und die Materie einen andern Au&sr;-
+bruch suchen muß, wodurch zuletzt gar da&sr; Füß-
+gen angegriffen wird, und der Huf zum Abschwä-
+ren kommt.</p>
+<p>E&sr; ist noch eine Lähmung, welche sehr
+gemein ist bey den Pferdefüßen, nehmlich die
+Hornklüfte; sie mögen seyn so wohl auf der Zehe
+de&sr; Hufe&sr; al&sr; an der Seite, so wird man be-
+finden, daß allezeit unter den Klüsten inwendig
+im Huf eine Steingalle sich wieder eingesetzt
+haben, welche den Füßen sehr schädlich und
+durch ihre Verhitzung die Füße sehr au&sr;trockne,
+damit die Hüse aufreisen müssen; al&sr; werden
+die Steingallen erst sehr wohl und dünne au&sr;-
+gegraben wie sich&sr; will thun lassen, und einige-
+mal ein paar Tropfen Puteri Antimonio hin-
+eingetröpfelt, welche&sr; die Steingallen gewiß
+verzehret, die Hornkluft aber wird mit einen
+glüenden Eisen queer über die Kluft dicht an
+einander zugebrannt von unten bi&sr; oben herau&sr;
+an die Krone, so weit die Kluft gehet, da&sr; Ei-
+sen aber darf auf dem Fleck nicht tragen, sondern
+<cw>muß</cw>
+<pb="53"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+muß einen Beygriff kriegen, und der Stollen
+wird abgehackt, oder ganz niedergeschlagen,
+al&sr;denn wird die Hornkluft mit dieser Hornsal-
+be fleisig geschmieret, wie auch der ganze Huf,
+so denn wird die Hornkluft sich nach und nach
+verlieren und herunterwachsen.</p>
+<p>E&sr; ist noch eine Lähmung bey denen Pfer-
+den absonderlich im Fuß bey den Gelenkgen,
+welche in dem Fuße auf dem Füßgen stehet, und
+meisten&sr; da&sr; Au&sr;köten genennet wird, wiewohl
+e&sr; nicht allezeit da&sr; Au&sr;köten ist, sondern viel-
+mal von der Seite vertreten ist, ist auch im
+Anfang nicht sonderlich gefährlich, wenn e&sr;
+gleich auf frischer That ordentlich wieder einge-
+richtet wird, und ist sehr wohl zu merken, weil
+diese Verrenkung oder Verstauchung, gleich zur
+Verschwellung geneigt ist. Jst e&sr; aber in 3.
+bi&sr; 4. Stunden nicht verschwollen, so hat da&sr;
+Pferd sich nicht au&sr;gekötet, oder den Fuß ver-
+treten nach der gemeinen Sage. Allein e&sr; ist
+eine andere Lähmung. Hat da&sr; Pferd aber
+au&sr;gekötet, so wird die Einrichtung also ge-
+macht, und zwar je eher je besser, nehmlich:
+man lege dem Pferd einem Knittel in die Fes-
+sel, welcher glatt und rund seyn muß, daß wenn
+dem Pferd der Fuß krumm gebogen wird, der
+Knittel die Fessel fast au&sr;füllen muß, al&sr;denn
+wird ein Strickgen um die Zehe de&sr; Fuße&sr; ge-
+macht, und mit einem andern Stückgen Holz
+in da&sr; Strickgen gefast daß man mit dem Orte
+de&sr; Holze&sr; den Knittel, welcher in der Fessel
+<bs>D 3</bs><cw>liegt,</cw>
+<pb="54"/>
+<kt><b>Der aufrichtige</b></kt>
+liegt, berühren und aufdrucken kann, damit
+da&sr; Gelenkgen, welche&sr; au&sr;getreten heisset, wie-
+der einschnappet, braucht aber selbige&sr; nicht
+viel Gewalt dazu, damit da&sr; Pferd nicht durch
+sein Einrichten mehr Schaden verursachet. Ehe
+aber diese&sr; Einrichten geschiehet, soll der Fuß
+de&sr; Pferde&sr; wohl visitiret werden. Der Fuß
+wird aufgehoben, und der Daumen in die Köte
+gesetzet, wobey man den Fuß hin und her be-
+weget, da denn da&sr; Pferd, welche&sr; solche&sr; nicht
+leiden kann kläglich thun wird, sonsten ist die
+Einrichtung falsch, und wird vielmahl&sr; mehr da-
+mit verdorben, al&sr; Nutzen geschafft:</p>
+<p><c>Eine Salbe für die au&sr;geköteten Pferde.</c></p>
+<li><c>Man nehme</c></li>
+<li><fr>Dialthee,</fr></li>
+<li><fr>Lohröl jede&sr; 4. Loth,</fr></li>
+<li><fr>Hundefett,</fr></li>
+<li><fr>Rosenöl,</fr></li>
+<li><fr>Kamillenöl,</fr></li>
+<li><fr>Regenwürmeröl,</fr></li>
+<li><fr>Popolium jede&sr; 2. Loth,</fr></li>
+<p>Diese&sr; wird laulicht zusammengemacht,
+und da&sr; Pferd einem Tag um den andern wohl
+damit geschmieret.</p>
+<cw><b>Da&sr;</b></cw>
+<pb="55"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<d1><b>Da&sr; siebende Capitel.</b>
+<fr>Von Drückungen der Pferde mit Sattel
+und Kummt.</fr></d1>
+<p><in>M</in>an kan die gelbe Salbe welche verordnet ist,
+wohl gebrauchen so ein Pferd gedruckt wäre mit
+einem Sattel auf dem Wiederroß, welche&sr; eine
+Geschwulst verursachet, sie sey groß oder klein.
+Jst die Schwulst klein, so ist da&sr; Pferd nur
+gedruckt zwischen dem Fell und Fleisch, und
+wird die Geschwulst mit der gelben Salbe früh
+wohl geschmieret, Nachmittag&sr; darauf mit den
+gebrannten Stein, welcher in Eßig oder Was-
+ser geweicht wird, gewaschen. Sollte allenfall&sr;
+die Geschwulst zum aufbrechen kommen, so wird
+sie mit einer Fliete über&sr; Creutz aufgerissen, und
+mit dem Wasser von dem gebrannten Stein au&sr;-
+gewaschen, sodann wird e&sr; gar bald leichte zu-
+heilen. So wird verfahren mit Ku&tm;t, so wohl
+al&sr; Satteldrücken an den ganzen Pferde. Jst
+aber da&sr; Pferd auf den Wiederroß gedruckt, oder
+mit dem Sattel gestoßen, sowohl oben an dem
+Buge al&sr; an den Wiederroß, welche&sr; zwischen
+dem Haarwach&sr; und Knochen mehrentheil&sr; ge-
+schiehet, und eine große Geschwulst verursachet,
+auch nicht leicht zur Materie kann gebracht wer-
+den, indem ein falscher Nervensaft oder Glied-
+wasser im Anfange von Quetschung de&sr; Haar-
+wachse&sr; und Knochen verursachet wird. Al&sr;
+<bs>D 4</bs><cw>will</cw>
+<pb="56"/>
+<kt><b>Der aufrichtige</b></kt>
+will solche&sr; vorsichtig tractiret und fleisig mit
+vorbeschriebenen Wasser und gelben Salbe ge-
+schieret, wenigsten&sr; täglich 2mal, so sich nun
+die Geschwulst etwa&sr; gesetzet hat, und allbereit&sr;
+zur Materie worden ist, auch nicht viel Hitze
+mehr hat, so muß selbige&sr; geschnitten werden,
+und zwar vorsichtig; e&sr; geschiehet dieser Schnitt
+auf die Seite, wo die meiste Materie oder Ge-
+schwulst sich zeiget. Zuerst wird queer durchge-
+schnitten, damit man mit dem Finger visitiren
+kann wo die Kammern zugehen, doch müssen
+die Fingernägel wohl abgeschnitten werden al&sr;-
+denn werden die Kammern nachgeschnitten, be-
+sonder&sr; die nach dem Hal&sr; zugehen, denn e&sr;
+geschiehet gar selten, daß so eine Kammer wie-
+der au&sr;geheilet wird, wenn sie keinen Abfluß
+hat, und ist allezeit besser, der Abfluß ist allzu-
+groß al&sr; zu wenig, und ist besser man schneidet
+da&sr; Pferd einmal recht al&sr; 2mal falsch, und
+bringet die Zeit darüber zu, denn die Adern,
+die dazu auf beyden Seiten durchgehen, schon
+angefangen zu faulen und zu schwären, wie auch
+bey vielen der Knochen und der Haarwach&sr; schon
+schwarz ist, und kein Fleisch nicht wieder an-
+nimmt, weil e&sr; nicht renoviret ist, daher thut
+man am besten man schneide da&sr; frische Fleisch,
+welche&sr; um die Kammern herum, weg, wel-
+che&sr; nur die Heilung verhindert, denn da&sr; Fleisch
+wächst so zu zeitlich ehe wieder, al&sr; der schwar-
+ze Knochen und Haarwach&sr; sich wieder gereini-
+get hat, und zur Heilung geschickt ist, wenn e&sr;
+<cw>son-</cw>
+<pb="57"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+sonderlich beym völligen Abfluß nicht geräumt
+wird, und die Materie in denen Kammern ste-
+hen bleibet. E&sr; soll aber auch da&sr; Pferd den
+ersten Tag nicht völlig reine geschnitten werden,
+indem vielmal&sr; noch eine Kammer zurückeblei-
+bet, wo noch Materie darinnen stecket, welche&sr;
+der, so die Operation oder Schnitt verrichtet,
+vor dem Bluten nicht wohl observiren kann, son-
+dern er wäscht die Wunde mit dem gebrannten
+Steinwasser wohl au&sr;, da er al&sr;denn den an-
+dern oder 3ten Tag wird besser sehen können, wo
+noch ein Quell von Materie vorhanden ist, und
+soll absonderlich nach dem Hal&sr; herauf da&sr;
+Fleisch nicht schonen, dieweil e&sr; ihm so zu ge-
+schwinde wieder über die Wunde weg wächst,
+ehe der Grund au&sr;geheilet worden.</p>
+<p>E&sr; soll auch nicht etwa mit einem dünnen
+Hölzgen visitiret werden, wie mehrentheil&sr; ge-
+bräuchlich ist, weil man durch da&sr; Visitiren de&sr;
+Hölzgen&sr;, welche&sr; zwar freylich mit Werk be-
+wickelt ist, dennoch kann in eine Ader fahren in
+Meynung, e&sr; wäre eine Kammer wo Mate-
+rie darinnen sey, aber falsch ist, weil an den
+Wiederroß 2 große <g>Adern</g> heraufgehen auf bey-
+den Seiten nach dem Halse zu, welche beynahe
+eine&sr; kleinen Finger&sr; groß seyn, und macht al-
+so da&sr; Visitiren in den Adern dem Schaden
+noch größer; sondern da&sr; Visitirholz soll eine&sr;
+Finger&sr; stark und wohl mit seinen Werk umwi-
+ckelt seyn, so nun der Knochen auf dem Wieder-
+roß schwarz sich befindet, wie auch der Haar-
+<bs>D 5</bs><cw>wach&sr;,</cw>
+<pb="58"/>
+<kt><b>Der aufrichtige</b></kt>
+wach&sr;, so wird der schwarz angefressene Haar-
+wach&sr; gar rein abgeschabet, so viel sich&sr; leiden
+will, ist e&sr; aber völlig schwarz, so wird er schwer
+wieder Fleisch annehmen. Man thut also am
+besten, man schneidet dem Haarwach&sr;, so weit
+er schwarz ist, mit herau&sr;, den er wächst wie-
+der, und schadet dem Pferde nicht&sr;, de&sr;glei-
+chen wird der Knochen, welcher schwarz ist, so
+viel möglich wohl abgeschabet. E&sr; ist zu erin-
+nern, daß bey dem Pferdeschneiden auf dem
+Wiederroße nicht rathsam ist, daß man mit ei-
+nem scharfen und dünnen Balbiermesser schneide,
+indem durch die schwarze Knochen und Haar-
+wach&sr; da&sr; Balbiermesser au&sr;springen kan, und
+da&sr; abgesprungene Schiefergen al&sr;denn in dem
+Knochen oder Haarwach&sr; wohl gar stecken blei-
+bet, welche&sr; die Heilung verhindert, e&sr; soll auch
+da&sr; Messer nicht gerne ein spitzig Federmesser
+seyn, welche&sr; durch seine Spitze auch Schaden
+verursachen kann, indem die Pferde nicht alle-
+zeit beym Schneiden stehen. Wenn der Scha-
+den geschnitten wohl gesäubert und au&sr;geputzet
+ist, so wird selbige&sr; sauber au&sr;gewaschen mit
+dem Steinwasser von den grauen Stein, ist
+aber besser, man weiche ihn in Essig ein, und
+nimmt man auf ein Loth Stein 1 Nösel Eßig,
+worein der Stein klar gerieben und zerschmolzen
+ist, und wird de&sr; Tage&sr; frühe da&sr; Pferd mit
+diesen Eßig oder Wasser gewaschen, Nachmit-
+tage darauf wird von diesem trockenen Pulver
+in den Schaden gestreuet, da sich denn derselbe
+<cw>reini-</cw>
+<pb="59"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+reinigen wird. Di&sr; ist aber da&sr; trockene Pul-
+ver:</p>
+<p><c>Man nehme</c></p>
+<p>ohngefehr 1. Pfund ungelöschten Kalck, so viel
+süße Sahne oder Milch Rahm, daß man au&sr;
+dem <g>Kalck</g> einem <g>Teig</g> machen kann,
+dieser Teig wird al&sr;denn in einer Pfanne al&sr;
+Kuchen braun gebacken, und wieder zu einem
+feinen Pulver klar gemacht welche&sr; sehr wohl
+reiniget und heilet, und wird mit dem Wasser
+und Pulver ein Tag um den andern in zechig
+verbunden. So aber der Schade anfänget her-
+au&sr;zuheilen und au&sr;zutrocknen und nicht viel
+Materie mehr sehen lässet, so braucht man nur
+allemahl einen Tag um den andern die Wunde
+au&sr;zuwaschen, und da&sr; Pulver darauf zu wer-
+fen, bi&sr; zuletzt nur den dritten Tag verbunden
+wird. Sollten aber allenfall&sr; die Adern nicht
+weit genug nach geschnitten seyn, welche&sr; noch
+faulen Schwamm verursachet, so nimmt man
+Puteri Antimonium oder Oleum Antimonii,
+thut selbige&sr; auf ein wenig reine&sr; Werk und steckt
+e&sr; nach der zu faulen angefangenen Ader zu,
+so wird e&sr; solche verknüpfen und zuheilen.</p>
+<p>Nachdem die Wiecke wieder herau&sr; ist,
+welche&sr; aber unter 24 Stunden nicht geschehen
+darf, so heilet man al&sr;denn die Kammer oder
+angefäulte Ader folgend&sr; mit der rothen Salbe
+au&sr;, welche&sr; jedoch nur von jetzt gedachten letz-
+ten Fall zu verstehen. Sonst braucht man die-
+<cw>se&sr;</cw>
+<pb="60"/>
+<kt><b>Der aufrichtige</b></kt>
+se&sr; nicht, sollte sich unvermuthet noch ein Quell-
+gen oder Schwammgen von Materie finden, so
+wird selbige&sr; mit auftütschen de&sr; Puteri Antimo-
+nii sich folgend&sr; reinigen, sollte auch gleich ein
+Schifergen oder Knöchelgen von Knochen dar-
+inne seyn, so wird e&sr; da&sr; Oleum ablösen, und
+reinigen. Ganz zuletzt wenn der Schade au&sr;-
+geheilet ist, wird der Rand desselben mit der
+gelben Salbe alle Wochen ein paarmahl ge-
+schmieret, damit Haut und Haare sich wieder
+zusammenschliessen. Hat aber da&sr; Pferd einen
+harten oder weichen Schwamm auf den Rücken
+so wird selbiger mit einer Fliete wohl gepicket,
+und mit der scharfen Flußgallensalbe einigemahl
+geschmieret und wohl eingerieben, da sich denn
+der Schwamm mit verzehren wird, wenn man
+ihn nicht schneiden will; ist er aber zu groß und
+hart, so thut man eben so gut, man schneidet
+ihn weg und tütschet da&sr; Puteri Antimonium,
+wenn da&sr; Blut weg ist, darauf 3. Tage hin-
+ter einander, damit der Rückgradknochen, worauf
+der Schwamm fest ansitzt, gereiniget wird,
+al&sr;denn heilet&sr; man zu mit dem Steinwasser
+und trockenen Pulver.</p>
+<p>E&sr; ist annoch ein Vorfall bey den Pferde-
+kuren, absonderlich bey den Füssen, so wohl
+um die Krone herum, al&sr; bi&sr;weilen an den hal-
+ben Beinen herauf, welche&sr; zwar die Maucke
+genennet wird, e&sr; ist aber an und vor sich selbst
+mehr ein Saltzfluß al&sr; Maucke, absonderlich
+an den Hinterbeinen, indem die gelbe au&sr;rin-
+nende Feuchtigkeit sehr salzig ist, und wird
+<cw>meh-</cw>
+<pb="61"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+mehrentheil&sr; von einer festgestopften Druse oder
+Ueberreitung, und wie schon von solcher Art
+Krankheiten gemeldet worden, worau&sr; zuwei-
+len die Straubfüßigkeit entstehet, welche al&sr;-
+denn ein völliger Salzfluß zu nennen ist, wenn
+absonderlich bey einer Armee die Pferde über
+Nacht bey kalten Wetter im Felde und Drecke
+stehen, zumal wenn die Nachtfröste dazu kom-
+men, und die Regimenter Abend&sr; späte in da&sr;
+Lager rücken, da die Pferde, weil sie noch warm
+seyn in&sr; Wasser geritten werden müssen, und
+die Nacht darauf frieret, da zeigen sich derglei-
+chen fliesende Maucken, welche zwar im Anfang
+nicht gefährlich seyn, wenn man die Pferde pur-
+giret, und al&sr;denn mit der gelben und rothen
+Salbe wechsel&sr;weise alle Tag einmal geschmie-
+ret, wenn nun da&sr; Pferd warm zu stehen kom-
+men kan, so lässet sich selbige&sr; ganz wohl wieder
+heilen, ist aber der Schade alt worden, und e&sr;
+sind allbereit&sr; Stückgen Fleisch herau&sr;gefaulet
+oder gefallen, so ist da&sr; rathsamste, man schnei-
+de einem Pferde die Blase, damit der Flu&sr; ei-
+nen andern Gang kriegt, und man die au&sr;ge-
+faulten Löcher zuheilen kann, sonst bricht eine&sr;
+nach den andern wieder auf. Die Operation
+de&sr; Blaseschneiden&sr; wird also verrichtet: Man
+premse zuvor da&sr; Pferd wohl, lasse al&sr;dann da&sr;
+Bein, woran e&sr; soll geschnitten werden, auf-
+heben, schneide die Warze bi&sr; auf&sr; Fell dünne
+weg, al&sr;denn der Länge nach auf den Fleck, wo
+die Warze gesessen hat, eine&sr; halben Finger&sr;
+<cw>lang</cw>
+<pb="62"/>
+<kt><b>Der aufrichtige</b></kt>
+lang durch die Haut; da sich al&sr;denn die Bla-
+se zeigen wird, die mit einem Häckgen ange-
+häckelt und etwa&sr; herau&sr;gezogen wird, damit
+sie fein sauber auf allen Seiten abgelöset, und
+endlich von der Flechse völlig abgeschnitten wer-
+den könne. Al&sr;denn wird in die Wunde ein
+bi&sr;gen frisch Erdreich gesteckt, damit die flüßige
+Feuchtigkeit zu dieser Wunde au&sr;schwären kann,
+und wenn&sr; von ihm selbst zu heilen anfängt, so
+kann der andere Schaden am Beine in kurzen
+geheilet werden.</p>
+<d1><b>Da&sr; achte Capitel.</b>
+<fr>Von innerlichen und äußerlichen Medica-
+menten auf allerley Krankheiten und
+Schäden gerichtet.</fr></d1>
+<p><in>H</in>ier folget die Zubereitung der Purgierpille.
+Man nehme zu einem starken Pferde 3 Loth Aloe&sr;
+zu einen mittel Pferde, 2 und 1 halb Loth, wo-
+zu genommen wird von der Verschlaglatwerge 2
+Loth, 1 Loth ungesalzene Butter, diese&sr; wird
+mit ein wenig Weitzenkleyen zu einer zachen Pil-
+le zusammengestossen, und wird dem Pferde mit
+einem Stecken einer guten Ellen lang, der for-
+ne nicht spitzig sondern kolbigt zugeschnitten ist
+dem Pferde in dem Hal&sr; gesteckt, auch muß
+da&sr; Pferd vor dem Einnehmen wenigsten&sr; 4
+Stunden nicht gefressen und gesoffen haben, auch
+<cw>noch</cw>
+<pb="63"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+noch 2 Stunden darauf fasten, al&sr;denn wird
+da&sr; Pferd, wenn e&sr; saufen soll, oder will, mit
+laulichten Wasser getränkt, worein ein wenig
+Kleyen oder Mehl gerühret ist, und 3 Stunden
+darauf eine Hand voll naß Heu, sonst aber den
+ganzen Tag kein Futter.</p>
+<p>Da&sr; Pferd wird eine Stunde nach Einge-
+bung der Pille au&sr;geritten, da e&sr; al&sr;denn den
+andern Tag darauf de&sr; Morgen&sr; purgiren wird
+und alle faule Feuchtigkeit mit abgeführet wer-
+den, man thut auch nicht unrecht, wenn e&sr; die
+Noth erfordert, daß man solchen Pferden wo-
+von gehandelt worden vor die Brust ein Leder
+stecke, damit sich die ganze Natur von allen
+Flüssen und Feuchtigkeiten völlig reiniget, und
+so wird auch mit denjenigen Pferden verfahren,
+von denen man zu sagen pfleget, sie haben den
+Wurm. Jch statuire aber keinen Wurm im
+Geblüte, sondern eine scharfe salzige Feuchtig-
+keit, und diesen Pferden die man den Wurm zu
+haben gläubet, die Beulen, welche sie äusser-
+lich haben, hin und wieder, oder nur an einem
+Gliede mit der rothen Salbe, wenn sie zuvor
+innerlich gereinigt und die Spornadern gelassen
+sind ganz wohl geheilet werden. So aber Lö-
+cher sich im Schlauche befinden, welche oben
+von dieser scharfen Feuchtigkeit oder verstockten
+Drüsen herrühren, werden sie auf solche Art ge-
+heilet. Sollten aber die Löchergen im Schlau-
+che zu klein seyn, daß man mit der rothen Sal-
+be nicht dazu kommen könnte, absonderlich we&tn;
+<cw>die</cw>
+<pb="64"/>
+<kt><b>Der aufrichtige</b></kt>
+die Beulgen sehr schwammigt au&sr;sehen, so wird
+ein schwach zähe Rüthgen genommen, vorne
+mit feinen Werk bewickelt und in da&sr; Oleum
+Antimonii getütschet und täglich einmahl 3 Tage
+hinter einander, damit in die Löchergen gefahren,
+da al&sr;denn die Löcher so groß werden und da&sr;
+schwammigte Wesen davon so au&sr;gebeitzet wird,
+daß man mit der rothen Salbe dazu kann, und
+so wird mit allen schwammigten Wunden ver-
+fahren, die nicht haben geheilet werden können.</p>
+<p>Noch ein Pulver wider die vorfallende
+Krankheiten, vor Pferde die offene Schäden
+haben auch die auf dem Wiederroß geschnitten
+seyn: Man nehme</p>
+<li>8. <fr>Loth rothen Bolu&sr;.</fr></li>
+<li>2. <fr>Loth Teufel&sr;dreck.</fr></li>
+<li>2. <fr>Loth Katzendreck,</fr></li>
+<li>2. <fr>Loth weißen Hundekoth,</fr></li>
+<li>4. <fr>Loth Fönum Gräcum,</fr></li>
+<li>8. <fr>Loth weisen Bolu&sr;,</fr></li>
+<li>4 <fr>Loth Schwefelblumen,</fr></li>
+<li>2. <fr>Loth Lorbeeren,</fr></li>
+<p>Solche&sr; alle&sr; klar zusammen gemacht zu
+einen Pulver, und davon einem täglich einen
+Löffel voll in eine Düte gethan und dem Pferde
+täglich eingesteckt.</p>
+<li><c><fr>Die gelbe Salbe:</fr>
+Man nehme</c></li>
+<li>1. <fr>und ein halb Pfund Eubischwurzel.</fr></li>
+<cw>1. <fr>und</fr></cw>
+<pb="65"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<li>1. <fr>und 1. Viertel Pfund Fönum Gräcum,</fr></li>
+<li>1. <fr>und 1. Viertel Pfund Leinsaamen,</fr></li>
+<li>1. <fr>Hand voll Johanni&sr;blumen,</fr></li>
+<li>1. <fr>Hand voll Camillenblumen,</fr></li>
+<p>Die&sr; gröblich klar gemacht doch nicht gar
+zu klar gestossen, al&sr;denn wird e&sr; in Wasser oder
+Wein 2. Tage geweicht, al&sr;denn wird dazu
+genommen:</p>
+<li>1. <fr>Pfund Baumoel,</fr></li>
+<li>1. <fr>Pfund Leinoel,</fr></li>
+<li>1. <fr>Pfund Schöp&sr;inselt,</fr></li>
+<li>1. <fr>Pfund ungesalzene Butter,</fr></li>
+<li>1. <fr>und 1. halb Pfund Schweinefett.</fr></li>
+<p>Diese&sr; alle&sr; wenigsten&sr; 2. Stunden wohl
+kochen lassen, bi&sr; sich die Feuchtigkeiten alle
+verkocht haben, al&sr;denn wird sie abgegossen in
+einen andern Topf und wird dazu genommen:</p>
+<li>1. <fr>und ein halb Pfund gelb Wach&sr;,</fr></li>
+<li>8 <fr>Loth Terpentin,</fr></li>
+<p>und al&sr;denn diese&sr; wieder so lange kochen lassen,
+bi&sr; da&sr; Wach&sr; in der Salbe völlig zerschmol-
+zen, und so lange gerühret, bi&sr; sie kalt ist. Will
+man sie nun grün haben, unkenntlich zu ma-
+chen, so nimmt man 1. Loth klar gestossenen
+Grünspan und 1. Pfund oder so viel man will
+von dieser Salbe und lässet e&sr; mit einander ko-
+chen. Diese&sr; wäre also die oben so offterwähnte
+vortrefliche gelbe Salbe, welche zu allen Schä-
+<bs>E</bs><cw>den</cw>
+<pb="66"/>
+<kt><b>Der aufrichtige</b></kt>
+den der Pferde so wohl Geschwülsten al&sr; offene
+Schäden und sonderlich wider die Tritte auf der
+Krone zu gebrauchen. Jn Summa e&sr; ist eine
+köstliche und berühmte Salbe nicht allein vor
+Pferde sondern auch vor Kühe und Schweine.
+Nun folget hierau&sr; die berühmte rothe Salbe
+die also zubereitet wird:</p>
+<li><c>Man nehme</c></li>
+<li>4 <fr>Loth Terpentin,</fr></li>
+<li>8 <fr>Loth Grünspan,</fr></li>
+<li>4. <fr>Loth gebrannte Alaune,</fr></li>
+<li>2. <fr>Loth blauen Victriol,</fr></li>
+<li>2 <fr>Pfund Honig,</fr></li>
+<li>1. <fr>Nösel Weineßig,</fr></li>
+<p>Diese&sr; alle&sr; wird klar gerieben oder ge-
+stossen und in den Honig und Weineßig gethan,
+der Topff muß aber wenigsten&sr; 4. Meßkannen
+groß seyn, damit e&sr; nicht überläufft, wozu e&sr;
+gar leicht geneigt ist, und muß bey einem ge-
+linden Feuer sachte und langsam kochen, denn
+wird e&sr; erst grün, hernach gelb und 1. Stunde
+darauf roth, bi&sr; e&sr; zuletzt anfängt hochbraun
+zu werden, und der Eßig sich bi&sr; auf den drit-
+ten Theil verkochet hat damit die Salbe anfän-
+get dehnend und zach zu werden, wenn man ein
+wenig auf einem Teller tröpfeln lässet. Unter
+währenden Kochen muß continuirlich gerühret
+werden.</p>
+<cw>Diese</cw>
+<pb="67"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<p>Diese Salbe reiniget und heilet, und läs-
+set kein faule&sr; Fleisch aufkommen, wehret auch
+dem Brand. Besonder&sr; ist sie gut, wenn ein
+Pferd mit einer Mistgabel hinten in die Köte
+oder sonst in ein Gelenke gestochen worden, wor-
+nach da&sr; Gliedwasser sonst bald zu lauffen pfle-
+get, heilet e&sr; solchen Schaden über die maaßen
+schön, ist auch sehr vortreflich in&sr; Feld vor ei-
+nen Fahnenschmidt mitzunehmen, heilet alle
+Hiebe, Stiche und Schußwunden, ziehet alle
+Schiefern, welche von lädirten Knochen abge-
+streifft seyn, herau&sr;, separiret auch die schwar-
+zen angebrannten Knochen loß, und heilet in
+Summa alle Schäden au&sr;. Wenn&sr; nicht zu
+hoch kommt, dienet sie auch den geschnittenen
+Pferden auf den Wiederroß zu heilen, denn sie
+trocknet und heilet alle Brüche und frische Schä-
+den au&sr;, lässet auch nicht eher zuheilen, bi&sr;
+der Schaden von innen herau&sr; geheilet ist.</p>
+<p>Nun folget der gebrannte Stein, dessen
+Gebrauch ziemlich kundig seyn wird bey der
+ganzen Armee. E&sr; wird dazu genommen:</p>
+<li><fr>Weiser Victriol,</fr></li>
+<li><fr>Blauer Victriol,</fr></li>
+<li><fr>Salmiac,</fr></li>
+<li><fr>Salpeter,</fr></li>
+<li><fr>Kupferwasser,</fr></li>
+<li><c><fr>von jeden 1. Pfund.</fr></c></li>
+<li><fr>Alaun,</fr></li>
+<li><fr>Salz,</fr></li>
+<li><c><fr>jede&sr; 2. Pfund,</fr></c></li>
+<li><fr>Grünspan 1. und ein halb Pfund,</fr></li>
+<bs>E 2</bs><cw>Die-</cw>
+<pb="68"/>
+<kt><b>Der aufrichtige</b></kt>
+<p>Diese&sr; alle&sr; wird klar unter einander ge-
+stossen, und die Helfte in einen großen Tiegel,
+worauf 1. und eine halbe Kanne Weineßig oder
+andern Eßig gegossen und mit steten Umrühren
+mit einander kochen lassen, indem e&sr; gerne über-
+läufft, und zwar so lange, bi&sr; e&sr; harte und
+dicke ist. E&sr; wird diese Masse oder Stein erst
+grün, hernach gelb, und bi&sr; er grau wird, denn
+wenn er nicht lange genung gekocht wird, so
+wird er wieder feuchte und zerschmelzt wie schon
+erinnert. E&sr; wird von diesen Stein 1. Loth
+klar gerieben, und in 1. Nösel Brandewein,
+oder Eßig, oder nur Brunnenwasser geweicht,
+womit alle Schäden und Geschwulsten können
+geheilet, und soll mit der gelben Salbe und
+diesen Wasser täglich umgewechselt werden.</p>
+<p>Annoch ist zu erinnern, daß jeder von al-
+len diesen Medicamenten oder Salben nach ei-
+ne&sr; jeden Belieben weniger oder mehr kan ge-
+macht und zugerichtet werden, nur daß die
+Dosi&sr; dabey wohl observiret, wird, damit nur
+hierinn kein Jrrthum geschiehet.</p>
+<d1><b>Da&sr; neunte Capitel.</b>
+<fr>Da&sr; Alter eine&sr; Pferde&sr; zu er-
+kennen:</fr></d1>
+<p><in>J</in>ch bin gar nicht Willen&sr; gewesen, vom
+Alter der Pferde etwa&sr; zu schreiben, weil
+selbige&sr; an sich schon landkundig ist, jedoch weil
+<cw>e&sr;</cw>
+<pb="69"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+e&sr; welche giebt, welche&tn; e&sr; unwissend ist, so
+will ich die gemeine Regel erinnern.</p>
+<p>Ein Pferd von 2. Jahren ist, da&sr; in
+seinem Vordermaul 6. Zähne unten und 6. oben
+hat, welche alle 12. wei&sr; au&sr;sehen und voll-
+kommen nach Füllart gewachsen seyn, die also
+die Füllen- oder Fohlenzähne heisen. Wenn
+nun da&sr; Pferd 2. Jahr alt gewesen und ohnge-
+fehr 18. Wochen drüber ist, und e&sr; in guten
+Futter gestanden, so werden al&sr;denn die 2. vor-
+dersten Raffzähne unten und oben gelbe Ringel-
+gen bekommen, da denn zu vermuthen, daß e&sr;
+binnen 4. Wochen die 4. Füllenzähne verlieren
+wird. Al&sr;denn werden sich binnen 6. Wochen
+4. Zähne gezeiget haben, die gelb au&sr;sehen wer-
+den und nicht wei&sr; wie die vorigen, die man
+Füllenzähne genennet, seyn auch scharf mit tie-
+fen Höhlen, dahingegen die Füllenzähne stumpf
+und glatt waren, so nun die gelben Pferdezähne
+so hoch gewachsen seyn al&sr; die ersten Füllenzäh-
+ne, so ist da&sr; Pferd 3. Jahr alt. Jn dem
+4ten Jahr verliehret e&sr; wieder 2. unten und 2.
+oben auf die nächst vorhergehende Füllenzähne,
+damit die Pferdezähne in der Mitten stehen blei-
+ben, wenn nun die neuen 4. gelben Zähne ziem-
+lich hoch seyn, al&sr; die weisen Füllenzähne, die
+noch daneben stehen, so heisset da&sr; Pferd 4.
+Jahr, al&sr;denn fangen die Hacken an zu wach-
+sen, welche spitzig und scharf sind, bey einigen
+kommen sie wohl mit 3. Jahren, differiren aber
+auf ein ganze&sr; Jahr auf und ab, nehmlich die
+4. Hackzähne.</p>
+<bs>E 3</bs><cw>E&sr;</cw>
+<pb="70"/>
+<kt><b>Der aufrichtige</b></kt>
+<p>E&sr; ist aber zu merken, da&sr; unter hundert
+Stuttepferden vielmahl&sr; nicht ein&sr; gefunden wird
+welche&sr; ordeutliche Hacken al&sr; ein Wallache
+kriegt, so sie allenfall&sr; welche bekommen, so
+seyn sie nicht al&sr; einer kleinen Erbsen groß.</p>
+<p>Bey Au&sr;gang de&sr; 5ten Jahre&sr; verlieret
+e&sr; alle 4. Eckzähne die noch Füllenzähne gehei-
+sen haben, und wei&sr; gewesen seyn, so nun vorne
+die Zähne ziemlich gerade gewachsen seyn, aber
+doch noch nicht gar gerade mit den andern gleich,
+so heist da&sr; Pferd 5. jährig, und bleiben die
+Zähne also, zumal wenn sie gelb seyn bi&sr;
+in&sr; 7te Jahr; ohne da&sr; sie die Bohne oder Kern
+vorne wegfresse, e&sr; wäre denn daß da&sr; Pferd
+in&sr; Gra&sr; gegangen, und von Natur einen wei-
+sen weichen Zahn hätte, al&sr;denn haben sich die
+vordersten 4. Raffzähne, welche zuerst Pferde-
+zähne genennet waren, schon gleich au&sr;gefressen
+und stumpf worden, da denn diese&sr; erst in&sr; 7te
+Jahr geschiehet.</p>
+<p>Mit dem 8ten Jahre werden die andern
+Zähne 2. unten 2. oben, so da&sr; Pferd hat, ne-
+ben den Eckzähnen stehen, stumpf seyn, e&sr;
+wäre denn da&sr; Pferd hätte von Natur einen
+harten und gelben Zahn, welche sonderlich
+Schilfzähne genennet werden, diese fressen sich
+nicht zu leichte weg al&sr; die weichen und weisen.
+Mit verflossenen 9. Jahren verliehret e&sr; denn
+die Eckzähne, Zahnbohnen, oder Kern. Nach
+verflossenen 10. Jahren erkennet man de&sr; Pfer-
+de&sr; Alter mehr an Hacken al&sr; an den vorder-
+<cw>sten</cw>
+<pb="71"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+sten Zähnen, e&sr; sey denn daß e&sr; eine Stutte
+wäre, die einen gelben Schilfzahn hätte, und
+in harten Futter stehe, die kann forne Bone
+behalten, bi&sr; in&sr; 12. bi&sr; 14te Jahr, nachdem
+e&sr; fällt, denn da&sr; Alter an einer Stutte ist
+schwer zu erkennen. An einen Wallachen aber
+kann man den Hacken wohl in Augenschein neh-
+men, ob er unten wo er aufstehet, sehr stark ist,
+ist er nicht sehr starck und dünne, auch scharf,
+so ist da&sr; Pferd nicht alt, ob man gleich mey-
+net, die Hacken müssen durchau&sr; spitzig und
+scharf seyn, welche&sr; aber irrig, ob der Hacken
+gleich stumpf ist, kann doch solcher von dem
+Mundgebiß oder Zaum de&sr; Pferde&sr; stumpf seyn,
+der Stamm de&sr; Hacken&sr; aber muß noch dünne
+seyn, wenn da&sr; Pferd jung seyn soll.</p>
+<d2>Den alten Pferden</d2>
+<p>Zu gefallen, will ich doch noch ein Reme-
+dium hersetzen, welche&sr; noch in keinem Buche
+zu finden, wodurch manche&sr; alte&sr; Thier vor der
+Zeit verderben muß, und andern theil&sr; man-
+chen ehrlichen Mann Dienste leisten kann.</p>
+<p>Wenn nehmlich ein Pferd, gelbe, grose,
+hohe und harte Raffzähne hätte und eben diese&sr;
+Pferd nicht sonderlich in&sr; Gra&sr; gegangen wäre,
+daß e&sr; seine harten grossen Zähne nicht hat weg-
+fressen können, sondern bey seinen harten Futter
+die Backzähne dermassen nieder gefressen, daß
+auch zuweilen Lücken zwischen denen Backzähnen
+<bs>E 4</bs><cw>blei-</cw>
+<pb="72"/>
+<kt><b>Der aufrichtige</b></kt>
+bleiben, wo zwischen man fast einen kleinen
+Finger stecken kann, soll aber doch sein gehöri-
+ge&sr; Heu oder Stroh fressen, soll auch denen an-
+dern Pferden, die Arbeit gleich thun, kann aber
+durch sein langsame&sr; Wesen den andern nicht
+gleich kommen, e&sr; schlinget zwar wohl sein har-
+te&sr; Futter zur Noth au&sr; grosen Hunger hinein,
+dieweil selbige&sr; nicht klar machen und beissen
+kann, so hilft e&sr; ihm aber nicht&sr;, sondern ge-
+het bey vielen mehrentheil&sr; ganz wieder hinweg,
+wenn e&sr; insonderheit keinen guten Magen mehr
+hat. Diesen armen Thieren nun kann man noch
+damit zu Hülfe kommen, wenn man den Pfer-
+den ein Maulgatter einsetzt, und mit einer fei-
+nen klaren Raspel dem Pferde vorne die grosen
+gelben Zähne nieder raspelt, man kann manche
+auf 1. halb viertel Zoll abraspeln, ehe die Back-
+zähe wieder zusammen treffen, daß al&sr;denn
+da&sr; Pferd sein gehörige&sr; Futter mit Appetit
+wieder fressen und zuweilen noch 3. bi&sr; 4. Jahr
+Dienste thun kann.</p>
+<p>Auch ist zu observiren, daß ein guter Pfer-
+dewärter, wenigsten&sr; aller 8 Tage seinem Pfer-
+de die Zunge wohl visitire, damit sie nicht etwa
+von dem scharfen Gebiß zu schanden gerissen ist,
+wodurch da&sr; Pferd an seinen Fressen auch viel
+verhindert wird.</p>
+<p>Wenn die Zunge zerrissen wäre, so nimmt
+man man einige Löffel voll Honig, dazu 1 Loth
+Alaun, diese&sr; mit einander kochen lassen, bi&sr;
+e&sr; braun wird, die Alaune muß aber zuerst klar
+<cw>ge-</cw>
+<pb="73"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+gemacht und die Zungenlücke täglich einmal da-
+mit geschmieret werden; so auch einem Pferde
+der Kern gebrennet würde, kann e&sr; auch mit
+dieser Salbe geheilet werden, wie auch alle
+Mundschäden. Noch ist zu erinnern, daß man
+denen jungen Pferden wohl nach den Backzähnen
+siehet, welche bi&sr;weilen hinter den Hacken vor den
+Backzähnen stehn, welche vorsichtig rau&sr;genom-
+men werden müssen, und in die Lücke, wo der
+Wolf&sr;zahn gestanden hat, wird ein wenig von
+dieser rothen Mundsalbe hineingethan, damit
+sich da&sr; Futter nicht hineingequetschet, und die
+zerrissene Zunge muß vom Futter fleißig au&sr;ge-
+räumet werden.</p>
+<p>E&sr; ist fast nicht Noth zu erinnern, daß so
+jemand ein Pferd den Perzel abschlägt, da&sr; sel-
+biger stark und feste mit Bindfaden gebunden
+werden muß, wenn er gut gebunden ist, braucht
+er nicht gebrennt zu werden, sondern darf nur
+einigemal mit der rothen Heilsalbe geschmieret
+werden.</p>
+<p>Jch sollte zwar noch etwa&sr; erinnern von
+denen raudigen Pferden, äuserlich zu waschen
+oder zu schmieren, ist aber eigentlich ohne Noth.
+E&sr; ist besser die Raude verlieret sich durch in-
+nerliche Medicamenten, al&sr; Aderlassen, Pur-
+giren, im Nothfall auch durch Lederstecken, und
+folgend&sr; durch die Verschlagmedicamenten, die
+oben vorgeschrieben seyn, von inwendig au&sr;zu-
+heilen. Jch will aber doch etwa&sr; äuserliche&sr;
+recommandiren, denn ich weiß, daß e&sr; manche
+<bs>E 5</bs><cw>nicht</cw>
+<pb="74"/>
+<kt><b>Der aufrichtige</b></kt>
+nicht ander&sr; thun, und glauben, e&sr; müssen äu-
+serliche Medicamenten dabey gebrauchet werden,
+sonst könnte man die Raute nicht heilen: Man
+nehme</p>
+<li><fr>Gute scharfe Lauge, thut daran eine gute
+Gespe Hünerkoth</fr></li>
+<li>4 <fr>Loth Grünspan</fr></li>
+<li>1 <fr>und 1halb Pfund Alaun</fr></li>
+<li><fr>Eine Hand voll Salz.</fr></li>
+<p>Diese&sr; wird erst klar gemacht, und in der Lau-
+ge mit einander gekocht, al&sr;denn wenn e&sr; sich
+gesetzt hat, wird da&sr; Wasser abgegossen, wo-
+mit al&sr;denn die Raute gewaschen wird, dreymal
+hinter einander ein Tag um den andern, so al&sr;-
+denn die Haare abgegangen wären, so schmieret
+man die Stelle mit der gelben Salbe, so wer-
+den die Haare wieder wachsen.</p>
+<d1><b><g>Anhang.</g></b>
+<fr>Von rotzigten Pferden.</fr></d1>
+<p><in>W</in>eil jederzeit viele Streitigkeiten dieser Krank-
+heit wegen entstanden, also will hierdurch meine
+Meynung eröffnen, welche ich au&sr; meiner viele
+Jahre gehabte Praxi befunden habe, nemlich
+wie ein solche&sr; Pferd völlig vor rotzig kan er-
+kannt werden. E&sr; muß täglich au&sr; der Nase
+<cw>eine</cw>
+<pb="75"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+eine röthliche und gelbe Materie fließen, die
+Rotzknoten welche zwischen denen Kienladen, lie-
+gen unbeweglich, und müssen mit de&sr; Monde&sr;-
+schein ab- und zunehmen, e&sr; seynd auch diese
+Knoten zu keiner Reifung zu bringen, indem e&sr;
+ein hart knorpelichte&sr; Wesen ist; die Augen sind
+ihnen beständig trübe und triefend; die Zunge
+ist gelb und welk, knirschen mit den Zähnen und
+kö&tn;en nicht wohl fressen; sie schnauben und sind
+schlägebäuchigt; die Haare stehen ihnen empor;
+da&sr; Fell liegt auf den Ribben fest an, der Mist
+siehet hochbraun und dinne, der Urin ist röthlich,
+zuletzt mit einer weissen Materie vermischt, we&tn;
+sie ohngefehr 24 Stunden im Stalle stehen, lau-
+fet ihnen der Schlauch und die Beine an, so ih-
+nen Ader gelassen wird siehet da&sr; Blut gelb und
+dünne, wenn da&sr; Blut einige Zeit gelaufen, sie-
+het e&sr; dicke und schwarz, auch zugleich stinkend,
+die Haare am Mehnen und Schweif stehen nicht
+feste, wenn nun solche Pferde aufgemacht wer-
+den, so befindet sich daß die Röhren die von der
+Nase in die Höhe gehen angefressen und schwarz
+seyn, inwendig befindet man in der Lunge Kno-
+tengeschwüre und mit Knorpel vermenget, groß
+u. klein, wie auch sich Geschwüre in der Leber be-
+finden, wenn da&sr; Herz auch zerschnitten wird,
+so wird man eine gelbe Gallerte oder Materie
+gewahr werden, die Herzkammer ist mit einer
+gelben und stinkenden Feuchtigkeit angefüllet,
+wie auch in der großen Ader, welche durch den
+Rückgrad gehet und ohngefehr eine&sr; Finger&sr;
+<cw>stark</cw>
+<pb="76"/>
+<kt><b>Der aufrichtige</b></kt>
+stark ist, befindet sich eine Materie, welche die
+Aehnlichkeit de&sr; Rind&sr;mark&sr; hat, bey einigen
+so die Rotzknoten nicht unter dem Halse haben,
+findet man solche mehrentheil&sr; an den Nieren,
+und wird also diese&sr; der Erbrotz genennet, wel-
+cher incurabel und ansteckend ist, und verschrei-
+be ich hier wider keine Medicamenten, wenn
+aber sich solche Kennzeichen an einem Pferde
+nicht alle befinden, so kannn keiner mit guten
+Gewissen behaupten, daß e&sr; völlig rotzig sey,
+gleichwie nun dergleichen Pferde, da&sr; den Erb-
+rotz hat incurabel ist, wie nur beschrieben wor-
+den, in keinem Stalle zu dulten, also habe auch
+diese&sr; Capitel zuletzt gelassen und von den andern
+separiret.</p>
+<p>Nun wollen zwar viele die Stockdrüse,
+Lungen- und Herzdrüse, auch mit zum Rotze zie-
+hen. E&sr; ist zwar nicht zu leugnen, daß durch
+unrechten Umgang de&sr; Pferde&sr;, nemlich durch
+kalt Saufen, Schwemmung oder Uebertreibung,
+wie auch Ueberreitung, worzu noch Verkältung
+kommt, und nicht bey Zeiten Hülfe geschiehet,
+selbige&sr; sich auch in Rotz verwandeln, absonder-
+lich wenn bey dergleichen Krankheiten saure und
+scharfe Tränke gebrauchet werden, weil selbige
+die Natur der Pferde nicht wohl vertragen kan,
+hierzu recommendire in allen diesen jetzt benann-
+ten Krankheiten, mein rothe&sr; englische&sr; Druß-
+Freß- und Blutreinigung&sr;pulver: Man nehme</p>
+<cw><fr>Ro-</fr></cw>
+<pb="77"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<li><fr>Rothe Entzianwurzel</fr></li>
+<li><fr>Myrrhen</fr></li>
+<li><fr>Lerchenschwamm</fr></li>
+<li><fr>Schwefel, gelben und grauen</fr></li>
+<li><fr>Eberwurzel</fr></li>
+<li><fr>Meisterwurzel</fr></li>
+<li><fr>Liebestöckelwurzel</fr></li>
+<li><fr>Fönum gräcum</fr></li>
+<li><fr>Wacholderbeeren</fr></li>
+<li><fr>Saadebaum</fr></li>
+<li><fr>Hepar Antimonii</fr></li>
+<li><fr>Haselwurzel</fr></li>
+<li><fr>Meerrettig</fr></li>
+<li><fr>Hohlwurzel</fr></li>
+<li><fr>Antimonium crudum</fr></li>
+<li><fr>Leinsaamen</fr></li>
+<li><fr>Senf</fr></li>
+<li><fr>Fenchel</fr></li>
+<li><fr>Ani&sr;, von jeden 8 Loth, und</fr></li>
+<li><fr>Rothen Bolu&sr;, 1 Pfund.</fr></li>
+<p>Diese Stücke werden zu Pulper gemacht, unter
+einander gemischt und den Pferden Abend&sr; und
+Morgend&sr; jede&sr;mahl einen mäsigen Eßlöffel voll
+Früh im ersten, und Abend&sr; im letzten Futter
+gegeben, e&sr; wird aber vorhero da&sr; Pulver be-
+nebst den Futter ehe e&sr; gegeben wird, ange-
+feuchtet.</p>
+<p>Ein ordinär und berühmte&sr; Freßpulver,
+vor Pferde, die nicht wohl fressen und zuneh-
+men wollen: Man nehme</p>
+<li><fr>Wacholderbeeren</fr></li>
+<li><fr>Saadebaum</fr></li>
+<li><fr>Senf</fr></li>
+<li><fr>Grauen Schwefel</fr></li>
+<cw><fr>Cal-</fr></cw>
+<pb="78"/>
+<kt><b>Der aufrichtige</b></kt>
+<li><fr>Calmu&sr;</fr></li>
+<li><fr>Harten Ofenruß</fr></li>
+<li><fr>Wermuth</fr></li>
+<li><fr>Antimonium Crudum</fr></li>
+<li><fr>Pommeranzenschalen</fr></li>
+<li><fr>Salz, jede&sr; 1halb Pfund.</fr></li>
+<p>Diese&sr; wohl pulverisiret, hernach täglich ein
+Eßlöffel voll jedem Pferde, früh im ersten Fut-
+ter, welche&sr; angefeuchtet wird, damit da&sr; Pferd
+e&sr; nicht wegblasen kan, gegeben. Hiermit wird
+1. Monat lang, jede Woche 3mal hinter einan-
+der continuiret. E&sr; treibt auch die Würmer
+von dem Pferde ab. Jst sehr bewährt und pro-
+bat erfunden worden.</p>
+<li>Nun will ich auch noch wa&sr; erinnern von dem
+Rindvieh, Schaafen und Schweinen, in
+wieferne vorgedachte Medicamente ihnen
+applicabel seyn.</li>
+<p><in>S</in>o nun eine Kuh krank würde vom Verfan-
+gen durch Wind oder überflüßigen Saufen, oder
+welche&sr; noch viel schlimmer vom überflüßigen
+Fressen, oder verfaulten moderichten Krumt,
+oder gefrornen Kraut oder Rüben, oder aber
+sonst wa&sr; giftige&sr; und unreine&sr; gefressen hätte,
+woran viele Kühe crepiren müssen, insonderheit
+an der Darmgicht, die darau&sr; entstehet, wenn
+nicht bey Zeiten Rath geschaffet wird, da&sr; Ke&tn;-
+zeichen davon ist, wenn solche Kuh zuerst mit
+<cw>allen</cw>
+<pb="79"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+allen vier Beinen zusammentritt, dicke auflauft,
+einen heisen Odem schnaubet und stöhnet, nicht
+lange liegen kann, wenn sie sich niederlegt, nicht
+gut wieder aufstehen kan, die hintern Theile und
+Creutz werden matt und kraftlo&sr;, wenn e&sr; über-
+hand nimmt, bleiben auf dem Arsch sitzen wie
+ein Hund, können nicht aufkommen, al&sr;denn
+ist&sr; die höchste Zeit, nächst göttlicher Hülfe noch
+Rath zu schaffen. Wenn nun auf solch Vieh
+wohl Achtung gegeben worden, und gesehen oder
+gefühlet, ob e&sr; misten könne oder nicht, so muß
+e&sr; so viel al&sr; möglich ist, herumgeführet werden,
+al&sr;denn wird ein wenig warm Wasser genom-
+men, worein ein Stückgen Seife geschabet
+wird, so man&sr; haben kan, wird ein wenig
+Baum- oder Leinöl dazu genommen, die Hand
+und Arm mit diesen Wasser und Sachen wohl
+geschmieret, und der Kuh in den Mastdarm ge-
+griffen, der Mist wohl au&sr;geräumet so weit
+al&sr; man ihn erlangen kan, da al&sr;denn diese&sr;
+Wasser folgend&sr; dem Vieh in den Mastdarm
+soll gegossen werden durch ein Horn, sodann ein
+wenig Pfeffer und Salz in die Geburt gestecket,
+damit sie stallet, und zum misten befördert
+wird. Al&sr;denn wird von der vorgeschriebenen
+Latwerge 3 Loth schwer oder einer starken welschen
+Nuß groß nebst so viel Butter der Kuh in den
+Hal&sr; gestecket zum Verschlingen, und wird da&sr;
+Stück Vieh so viel möglich herumgeführet, bi&sr;
+e&sr; mistet, der Leib wird unterdessen mit einem
+breiten Sacke wohl gebunden, soll allenfall&sr; sich
+<cw>in</cw>
+<pb="80"/>
+<kt><b>Der aufrichtige</b></kt>
+in 3 Stunden die Krankheit nicht legen, so wird
+noch einmal mit dieser Latwerge verfahren und
+wird dem Vieh oft laulicht Wasser mit Kleyen
+angemacht und oft Saufen vorgehalten, obgleich
+die Kuh hochträchtig wäre, so schadet doch die-
+se&sr; Medicament nicht, zur Latwerge nehme
+man</p>
+<li><fr>Myrrhen</fr></li>
+<li><fr>Aloe</fr></li>
+<li><fr>Hohlwurzel</fr></li>
+<li><fr>Entzian</fr></li>
+<li><fr>Lorbeeren</fr></li>
+<li><fr>Alandwurzel</fr></li>
+<li><fr>Wachholderbeeren</fr></li>
+<li><fr>Fenchel</fr></li>
+<li><fr>Ani&sr;</fr></li>
+<li>Von jeden 2 Loth.</li>
+<p>Diese&sr; alle&sr; wird klar zu einen Pulver ge-
+macht, wozu 1. Pfund Syrop, und 1. Pfund
+Honig genommen wird, und kan zu einer star-
+ken Masse oder Teig gemacht werden, wovon
+man 3 Loth einer Kuh eingeben kan, wie schon
+erwehnet, oder so viel al&sr; einer welschen Nuß
+groß. Einem Kalbe aber wird nur die Helfte
+gegeben, e&sr; soll aber auch nicht vergessen wer-
+den, so eine Kuh oder Ochse in 2 bi&sr; 3 Stun-
+den nicht wieder gesund wäre, so werden ihn die
+Lungenadern gelassen am Halse, wie auch die Adern
+unter der Zunge mit aufgemacht, und wird ihm
+Salz in die Nasenlöcher geblasen, damit da&sr;
+<cw>Vieh</cw>
+<pb="81"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+Vieh brausen kan, so wird al&sr;denn die Krank-
+heit sich in kurzen legen, wenn die Darmgicht
+nicht schon völlig überhand genommen, oder all-
+bereit&sr; schon gar den Brand verursachet. Jst
+jemahl&sr; eine Medicin erdacht oder wider da&sr;
+Viehsterben appliciret worden, so wird ohne
+Ruhm gemeldet, daß dieser Medicin keine nicht
+leichte beykommt. Zur Präservation bey dem
+Viehsterben stecket man jeden Stück Vieh täg-
+lich von dieser Latwerge 2 Loth ein, in währen-
+der Krankheit aber 3 Loth täglich nebst 1. Stück
+Butter, denn so ist nächst göttlicher Hülfe viel
+Vieh erhalten worden. E&sr; könnte von dieser
+Latwerge oder Teriac noch viele&sr; geschrieben wer-
+den, e&sr; wird aber seine Tugend durch seine Wir-
+kung beweisen, besonder&sr; wenn eine Kuh Blut
+milket, oder blaue Milch giebet oder sonst kein
+Gedicke hat, da&sr; ihm nehmlich die Haut auf
+dem Rücken und Ribben geklebet hat, wie vie-
+le&sr; Vieh nicht zunehmen kan, weil da&sr; verfangene
+noch bey ihm in der Herzkammer liegt, wodurch
+die andern umliegende Theile al&sr; Lunge und Leber
+angegriffen u. die faulen Feuchtigkeiten angegrif-
+fen und verbrannt worden, daß auch so gar da&sr;
+ganze Geblüte faul und stinkend wird, wo wol-
+len also die guten Nahrung&sr;säfte zur Milch her-
+kommen, wo kein gut Blut vorhanden ist, an-
+dere aber verfangen oder verschlagen mehrentheil&sr;
+in&sr; Creutz, und werden al&sr;denn die Hinterthei-
+le lahm, da heisset e&sr; al&sr;denn die Kuh ist behe-
+ret, die Meynung aber ist falsch, und kan man-
+<bs>F</bs><cw>che&sr;</cw>
+<pb="82"/>
+<kt><b>Der aufrichtige</b></kt>
+che&sr; nicht einsehen, daß da&sr; Verfangen oder
+Verschlagen bey einem Stück Vieh so lange ver-
+borgen seyn kan, bi&sr; sich&sr; au&sr;weiset, e&sr; kann
+sich aber bey vielen nicht eher zeigen, bi&sr; die in-
+nerlichen Theile, al&sr; Herz, Lunge und Leber
+durchmodert und angefaulet seyn, indem mehren-
+theil&sr; alle Verfangungen auf&sr; Herz schlagen,
+von daher erst durch die großen Adern nach dem
+Creutz geleitet wird, also ist der Hauptgrund
+und Ursache von vielen Rindviehkrankheiten
+da&sr; Verfangen, die doch der Hexerey Schuld
+gegeben werden. E&sr; soll ein jeder Hau&sr;wirth,
+der Rindvieh hat, wohl auf Präservatione&sr; be-
+dacht seyn, und soll seinem Vieh jährlich 2mal
+die Lungenader schlagen und etwa&sr; wöchentlich
+von dieser Latwerge gebrauchen lassen, damit
+solche Krankheiten nicht überhand nehmen kön-
+nen. E&sr; wird auch ein jeder befinden, daß der
+ganze Nutzen, so vom Rindvieh herkommen soll,
+sich besser finden wird.</p>
+<p>So ein Schwein krank würde, soll man
+einem starken Schwein 1. Loth, einem mittel
+Schwein aber nur 1. halb Loth von dieser vorge-
+schriebenen Latwerge eingeben und wohl einste-
+cken, die Krankheit mag Namen haben wie sie
+will. So ein Ochse, Kuh oder Schwein lahm
+würde von Verrenkung oder Verstauchung, oder
+eine offene Wunde, oder Geschwulst hätte,
+so kan solche&sr; ebenfall&sr; durch die vorgeschriebene
+gelbe Salbe, welche bey den Pferden sehr deut-
+lich beschrieben worden, wieder curiret werden.</p>
+<cw>Noch</cw>
+<pb="83"/>
+<kt><b>Leipziger Roßarzt.</b></kt>
+<p>Noch zu einer Zugabe will ich dem geneig-
+ten Leser noch zu großen Nutzen, daß ich da&sr;
+Versprechen von meiner Aufrichtigkeit erfülle,
+entdecken einen Spiritum, welcher in allen vor-
+fallenden Lähmungen und Geschwulsten, sie mö-
+gen von Flüssen, Verstauchung oder Schlangen
+herrühren, zu gebrauchen, absonderlich, wenn
+ein kostbar Pferd spadig oder verstaucht, daß
+man nicht gern mit scharfen Sachen oder Schmie-
+ren, vielweniger mit Haarseilen oder Lederste-
+cken beschandflecken will, so wird dieser Spiri-
+tu&sr; seinen Effect mit dem größten Nutzen selbst
+beweisen:</p>
+<p>Man nehme 2 Kannen starken Brande-
+wein, darein wird gethan 1 halb Pfund gequetsch-
+te Wachholderbeeren, wie auch eine gute Hand
+voll Camillenblumen, und eine Hand voll Jo-
+hanni&sr;blumen, eine Hand voll Ottermenge, wo-
+zu 2 Loth Campher genommen wird, diese&sr; al-
+le&sr; klar geschnitten, den Campher zuvor wohl
+gerieben, und in dem Brandewein gethan, al&sr;-
+denn ungefehr 8 bi&sr; 9 Tage entweder an die
+Sonne, oder auf den Ofen gesetzt, da er al&sr;-
+denn bey vorfallender Gelegenheit im Nothfall
+kan gebrauchet werden.</p>
+<p>Eine köstliche Hornsalbe, welche zu aller-
+ley Hornschäden wie auch Hornklüfte, spröde
+und mürbe Hüfe, auch vor die Pferde, welche
+Kernschwindung haben, werden hiermit fleißig,
+geschmieret: Man nehme</p>
+<bs><fr>F</fr> 2</bs><cw><fr>Gelb</fr></cw>
+<pb="84"/>
+<kt><b>Der aufrichtige</b></kt>
+<li><fr>Gelb Wach&sr;</fr></li>
+<li><fr>Terpentin</fr></li>
+<li><fr>Leinöl</fr></li>
+<li><fr>Baumöl</fr></li>
+<li><fr>Fischthran</fr></li>
+<li><fr>Bockinselt, oder Schöp&sr;inselt</fr></li>
+<li><fr>Klauenfett, und</fr></li>
+<li><fr>schwarz Schiffpech.</fr></li>
+<p>Diese&sr; alle&sr; zusammengekocht, eine&sr; soviel al&sr;
+da&sr; andere, und die Hüfe al&sr;denn damit ge-
+schmieret. Jst sehr probat.</p>
+<p>Gleichwie von mir mit größter Aufrichtig-
+keit, diese durch lange Erfahrung probat erfun-
+dene Operatione&sr; und Medicamenta vorgetra-
+gen und angepriesen werden; also bin erbötig
+vor jedem erfordernden Fall&sr;, Red und Antwort
+zu geben, durch die Anatomie de&sr; Pferde&sr; den
+Grund anzugeben, auch jedermann auf sein
+Verlangen die beschriebene Operatione&sr; und Cur
+in Natura zu zeigen und Anweisung zu geben.
+Sollte auch jemand die vorgeschriebene Medica-
+menta selbst zu machen, keine Gelegenheit und
+Lust haben, so bin erbötig @n solche gegen bil-
+ligmäsige Bezahlung, weil ich einen ziemlichen
+Vorrath davon besitze, zu überlassen, oder aber
+die Zubereitung derselben auf Verlangen selbst
+in Person anweisen. Der Gerechte erbarmet
+sich seine&sr; Viehe&sr; und der Ungerechte lässet&sr; ver-
+derben. Uebrigen&sr; wünsche hiermit von Gott
+dem geneigten Leser viel Gnade und Segen bi&sr;
+an da&sr; Ende.</p>
+<hr>
+<pb>
+<d1><b><g>Verzeichniß</g>
+dererjenigen Sachen, so in die-
+sem Buche befindlich.</b></d1>
+<d2><b>Da&sr; erste Capitel.</b></d2>
+<li><in>W</in>a&sr; bey dem Einkaufe derer Pferde zu be-
+obachten _ _ 1</li>
+<d2><b>Da&sr; andere Capitel.</b></d2>
+<li>Von denen jungen Pferden, und dererselben
+Kröpfen und Drüsen _ _ 6</li>
+<li>Ein Drüse-Freß- und Blutreinigung&sr;pulver, so
+wider den Haarschlag u. Lungensucht dienet _ _ 10</li>
+<li>Ein ander&sr; dergleichen _ _ 11</li>
+<li>Noch ein ander&sr; auf ein schlecht und wohlfeil
+Pferd _ _ 11</li>
+<li>Noch eine&sr;, von welchen Morgen&sr; und
+Abend&sr; und zwar frühe im ersten und
+Abend&sr; im letzten Futter ein Eßlöffel voll ge-
+geben wird _ _ 12</li>
+<d1><b>Da&sr; dritte Capitel.</b></d1>
+<li>Von Verschlagung, Ueberreitung, oder auch
+Verfangung derer Pferde _ _ 13</li>
+<li>Anweisung einem Pferd ein Haarseil zu ziehen _ _ 18</li>
+<li>Ein Einschlag vor die Kernschwindung _ _ 20</li>
+<li>Die Englische oder so genannte Verschlagpille
+auf alle Krankheiten eingerichtet _ _ 22</li>
+<li>Vom Clistir eine&sr; Pferde&sr; _ _ 25</li>
+<li>Eine köstliche Purgierpille vor ein Pferd _ _ 32</li>
+<bs>F 3</bs><cw>Ein</cw>
+<pb>
+<li>Ein Leder zu stecken auf der Brust _ _ 33</li>
+<li>Eine Latwerge auf alle Krankheiten gerichtet,
+absonderlich wenn e&sr; dem Pferde au&sr; der Na-
+se gehet, und wird eigentlich die Englische
+Jagdpille genannt _ _ 35</li>
+<li>Eine andere Verschlagpille _ _ 37</li>
+<li>So ein Pferd nicht stallen kan _ _ 38</li>
+<d2><b>Da&sr; vierte Capitel.</b></d2>
+<li>Von denen kollerichten und tummen Pferden _ _ 39</li>
+<li>Wie einem kollerichten und tummen Pferde un-
+ter dem Schuppen der Kopf aufgemachet und
+mit Licht- und Collerader verfahren wird _ _ 41</li>
+<li>Ein Pulver vor die tummen Pferde _ _ 43</li>
+<li>Von Pferden, so die Maulsperre haben und wie
+mit solchen zu verfahren _ _ 44</li>
+<li>Einen im Creutz verstauchten oder verschlage-
+nem Pferde da&sr; Creutz aufzuschneiden _ _ 45</li>
+<d2><b>Da&sr; fünfte Capitel.</b></d2>
+<li>Von denen Augenkrankheiten _ _ 47</li>
+<li>Augensalbe _ _ 47</li>
+<li>Einem Pferde den Hauck zu schneiden _ _ 48</li>
+<li>Ein Augenwasser _ _ 50</li>
+<li>Eine Salbe vor Oberbeine, Flußgallen, Stol-
+lenbeulen, Leiste, Ellenbogen und Piephake,
+auch so der Spad noch weich, zu gebrau-
+chen _ _ 52</li>
+<li>Von Brennung de&sr; Spad&sr;, der schon hart ist _ _ 58</li>
+<d2><b>Da&sr; sechste Capitel.</b></d2>
+<li>Von den Verrenkungen überhaupt _ _ 60</li>
+<li>Eine Salbe zu allen Verrenkungen und Ver-
+stauchungen _ _ 62</li>
+<cw>Ein</cw>
+<pb>
+<li>Ein Umschlag vor alle Geschwulsten, Verstau-
+chung und Verrenkung zu gebrauchen _ _ 64</li>
+<li>Vom Aufmachen und Oelgiessen, bey Schwin-
+dung der Pferde _ _ 65</li>
+<li>Die Oele darzu _ _ 66</li>
+<li>Eine gelinde Salbe zu allen Verrenkungen _ _ 67</li>
+<li>Von vernagelten und erbellten Pferden _ _ 69</li>
+<li>Pferde, welche von Steingallen lahm _ _ 74</li>
+<li>Von Hornklüften _ _ 74</li>
+<li>Von Au&sr;köten _ _ 75</li>
+<li>Eine Salbe vor die au&sr;geköteten Pferde _ _ 77</li>
+<d2><b>Da&sr; siebende Capitel.</b></d2>
+<li>Von Drückungen der Pferde mit Sattel und
+Kummt _ _ 78</li>
+<li>Anweisung wie ein Pferd soll geschnitten werden
+auf den Wiederroß _ _ 80</li>
+<li>Wie da&sr; Messer soll seyn, womit ein Pferd
+auf den Wiederroß soll geschnitten werden _ _ 84</li>
+<li>Der grüne und graue Stein zu den gedruckten
+und sonst schadhaften Pferden _ _ 85</li>
+<li>Ein trocken Pulver darzu _ _ 85</li>
+<li>Von der Maucke oder Fluße, von welchem zu-
+weilen Salzflüße entstehen _ _ 89</li>
+<li>Einem Pferde die Blase zu schneiden bey denen
+flüßigen, Beinen _ _ 91</li>
+<d2><b>Da&sr; achte Capitel.</b></d2>
+<li>Von innerlichen und äuserlichen Medicamenten
+auf allerley Krankheiten und Schäden ge-
+richtet _ _ 92</li>
+<li>Ein Pferd zu purgiren _ _ 92</li>
+<li>Von den so genannten Wurm oder scharfen sal-
+zigen Feuchtigkeiten _ _ 94</li>
+<bs>F 4</bs><cw>Ein</cw>
+<pb>
+<li>Ein innerliche&sr; Pulver darzu _ _ 95</li>
+<li>Die gelbe Salbe, vor allerley Geschwulst, offe-
+ne Schäden und Verrenkungen _ _ 96</li>
+<li>Die berühmte rothe Salbe, zu allerley Huf-
+schäden, Hornklüfte, wie auch zu offenen Schä-
+den, weil sie insonderheit kühlet, reiniget und
+heilet, zu gebrauchen _ _ 98</li>
+<li>Zubereitung de&sr; gebrannten Steine&sr; _ _ 101</li>
+<d2><b>Da&sr; neunte Capitel.</b></d2>
+<li>Da&sr; Alter eine&sr; Pferde&sr; zu erkennen _ _ 103</li>
+<li>Einem alten Pferde da&sr; Maul au&sr;zuputzen _ _ 108</li>
+<li>So einem Pferde die Zunge zerrissen _ _ 111</li>
+<li>Einem Pferde den Scheif abzuschlagen _ _ 112</li>
+<li>Ein Wasser vor rautige Pferde _ _ 113</li>
+<d2><b><g>Anhang.</g></b></d2>
+<li>Von rotzigen Pferden _ _ 114</li>
+<li>Da&sr; berühmte rothe Englische Pulver, vor
+magere, haarschlägtige, stocktrüsigte, und
+Hustende Pferde, auch vor die mit Wür-
+mern geplaget seyn _ _ 118</li>
+<li>Ein berühmte&sr; Freßpulver, vor Pferde, die
+sehr mager und da&sr; Futter nicht verdauen
+können _ _ 119</li>
+<li>Von denen Krankheiten de&sr; Rindviehe&sr; über-
+haupt _ _ 120</li>
+<li>Eine berühmte und köstliche Latwerge vor Rind-
+vieh und Schweine _ _ 123</li>
+<li>Ein köstlicher Spiritu&sr; vor allerley Lähmungen
+und Schwindungen _ _ 129</li>
+<li>Eine köstliche Hornfalbe _ _ 130</li>
+<hr>
+<cw><fr>Beschrei-</fr></cw>
+<pb>
+<d1><b>Beschreibung</b>
+der
+<b>wohlapprobirten u. weit berühmten
+Roß- und Vieh-
+<g>Medicamenten,</g></b>
+welche bey dem
+<b>Privilegirten Roßarzte,
+<g>Bernhard Naumannen,</g></b>
+gewesenen Cur- und Fahnenschmidt bey denen
+Königl. Pohln. und Churfürstl. Sächsischen
+Truppen anjetzo wohnhaft in Leipzig, auf der
+Hällischen Gasse in meinem Hause, un-
+ten im Gewölbe zu haben sind
+<abb></d1>
+<hr>
+<p><c><b>Leipzig, 1780.</b></c></p>
+<pb="90"/>
+<kt><hr></kt>
+<d2><b>1.
+Ordentliche Beschreibung de&sr;
+weitberühmten und wohl approbir-
+ten rothen Leipziger Drüse-Kropf-
+Freß- und Blutreinigung&sr;-
+Viehpulver.</b></d2>
+<p><in>S</in>o ein Pferd kropfet, drüßet haarschlech-
+tig, mager, vom Wurm aufgebissen,
+räutigt, herz- oder steindrüßigt, lungensüchtig,
+mit dicken aufgebrochnen Beinen, oder Schlau-
+chen, wie auch sonst allerley Beulen an da&sr;
+Pferd rum, welche&sr; verstockte Drüßen genennet
+werden, und kommen meisten&sr; von Uebertrei-
+bung, wozu ein kalter Soff die mereste Schuld
+mit ist: diese benannten Krankheiten bestehen
+meisten&sr; au&sr; Uebertreibung, Verhitzung, wor-
+auf Verkältung erfolget ist, wovon hauptsäch-
+lich die inerlichen Theile mit verdorben seyn, die
+natürlichen Säfte versauert, und angefaulet seyn,
+weil viel auch mit Schuld ist, daß die ordentlichen
+Aderlässe unterlassen ist, absonderlich bey jetzi-
+gen Jahren, von vielen tumpfigten Futter die
+Säfte auch sehr verdorben sind: E&sr; kann nächst
+göttlicher Hülfe mit diesen Pulver die sämmt-
+lich angezeigten Krankheiten, wenn da&sr; Pferd
+nicht völlig auf da&sr; äußerste inficiret ist, und
+die Herzkammer mit faulen Wasser angefüllet
+ist, noch wieder gehoben werden, wann früh und
+Abend&sr; jeden Pferd jede&sr;mal ein Eßlöffel voll
+<cw>in</cw>
+<pb="@6"/>
+<kt><hr></kt>
+in Futter gegeben wird; früh in ersten, Abend&sr;
+in letzten, e&sr; treibet auch die Würmer au&sr; dem
+Leibe, und kann jedem Pferde 1 Pf. hinterein-
+ander wie vorbeschrieben, verbraucht werden,
+wobey zu erinnern, daß acht Tage wieder au&sr;-
+gesetzt werden, al&sr;denn nach Nothdurft wieder-
+holet, wie vorbeschrieben, jeden Pferde täglich
+2 Eßlöffel voll früh und Abend&sr; gegeben; zur
+Präservation kann Monat&sr; drey Tage hinterein-
+ander früh u. Abend&sr; jede&sr;mahl ein guter Eßlöf-
+fel voll gegeben werden, absonderlich welche auf
+Straßen bey unreinen Krippen oder unreine in
+Eymern wo rotzige oder lungenrautige Pferde
+gefressen, oder gesoffen, wodurch vielmal&sr; groß
+Unglück durch Anstecken entstehet, kann nächst
+göttlicher Hülfe wie vorbeschrieben, gebraucht,
+noch verhütet werden, erhält auch die Pferde
+frisch, gesund glatt und fett, können auch alle
+andere vorbeschriebene Krankheiten hierdurch
+noch verhütet werden.</p>
+<p>Jt. So eine Kuh die Milch verlohren, oder
+rothe oder blaue Milch gebe, oder durch Ver-
+fangen mager, lungensüchtig, so wird jeder Kuh
+von diesem Pulver die Woche 3mal jede&sr; Tage&sr;
+ein guter Eßlöffel voll in Siede oder Kley zu
+fressen gegeben, erhält da&sr; Vieh nicht allein vor
+ansteckenden Seuchen oder Krankheiten, sondern
+hält auch da&sr; Vieh glatt und gesund; bey den
+Seuchen aber wird denen kranken Vieh täglich
+ein guter Eßlöffel voll in Siede und Futter ge-
+geben oder eingegossen, denen gesunden aber die
+<cw>Woche</cw>
+<pb="92"/>
+<kt><hr></kt>
+Woche 3mal, jede&sr;mal ein Eßlöffel voll zur
+Präservation um die Seuche zu verhüten, mit
+in&sr; Futter gegeben, verhütet auch die sogenann-
+ten Franzosen bey dem Vieh, und ist durch die-
+se&sr; Pulver und den vorbeschribenen Theriac bey
+dem Viehsterben umzechig gebraucht worden, noch
+viel Vieh erhalten worden. Zween Schweinen
+aber wird nur wöchentlich ein guter Löffel voll
+vor ansteckenden Seuchen gegeben, welche auch
+auf Mast stehen, damit sie besser mästen und
+zunehmen, und keine Beulen untern Halse, wie
+auch Finnen bekommen.</p>
+<d2><b>2.
+Beschreibung diese&sr; wohl appro-</b>
+<fr>birten und zwar bey vielen tausend
+Pferden, Rind- und Schweine-
+vieh-Theriac&sr;.</fr></d2>
+<p><in>S</in>o ein Pferd krank wäre von Verfangung,
+so wohl Ueberreitung in Wind und Fut-
+terverschlagung wie auch vor allerhand Cholica
+von Winde, Wasser, oder Futterüberfressung &rr;c.</p>
+<p>Jtem. So ein Pferd von Würmern, Fei-
+beln, oder kalten Saufen, oder wa&sr; unreine&sr;
+oder giftige&sr; gefressen, krank, oder sonst nur
+aufstützig wäre &rr;c.</p>
+<p>Jtem. So ein Pferd von Trüsen Kropf mein
+roth Pulver nicht fressen möchte, oder konnte &rr;c.</p>
+<p>Jtem. So ein Pferd Blut stalle, oder in
+Grieß, oder Steinwehen in blaßen nicht stallen
+könnte, so wird auf allen diesen benannten Krank-
+<cw>hei-</cw>
+<pb="93"/>
+<kt><hr></kt>
+heiten, wenn die Krankheit heftig ist, ein Eß-
+löffel voll in warmen Bier oder Kofend von
+diesem Theriac eingerühret, und eingegossen, u.
+ihm Salz in die Nase geblasen, bi&sr; e&sr; brauset,
+worauf ein wenig geritten oder gefüttert, und
+wohl Achtung darauf gegeben, damit sich da&sr;
+Pferd nicht auf den Rücken überwälzen noch über-
+schlagen thut, damit sich von aufgelaufnen Wind-
+därmen und Futterdärmer sich in den Leibe mit
+einander nicht verschleifen, welche&sr; tödtlich ist:
+Sollte allenfall&sr; in einer guten Stunde die Krank-
+heit nicht nachlassen, so wird ihm die Sporader
+am Bauche gelassen, und wird ihn der Kern im
+Maule gestochen, und Salz in die Nase gebla-
+sen, und wird bey einmal Eingießung bey diesen
+Krankheiten genung seyn, nach Nothdurft aber
+in 24 Stunden noch einmal eingegeben, sollte
+aber da&sr; Pferd von Darmgicht, von Futter oder
+Winde oder kalten Soff herrühren und sehr auf-
+gelaufen seyn, so soll man die Hand mit Seife,
+Baumöl, oder Butter vorher schmieren, und
+soll ihm der Mist au&sr; dem Mastdarm gezogen
+werden, absonderlich den Futter- oder Windke-
+ckern welche&sr; meisten&sr; mit diesen Krankheiten
+behaftet. <aq>NB.</aq> welche Pferde aber nur halbe kalte
+Ohren haben, eine welke Zunge, etwa&sr; mit dem
+Leibe ziehn, die dürfen nur 2 Messerspitzen voll
+von diesen Theriac auf Brod geschmieret, den
+Pferden einstecken. Eine alte verschlagene Krank-
+heit im Leibe wird alle 24 Stunden wie vorbe-
+schrieben eingegossen.</p>
+<cw>Ein</cw>
+<pb="94"/>
+<kt><hr></kt>
+<p>Ein dumm Pferd, welche&sr; mit dem Leibe zieht,
+nicht gern zurückgehet, eine welke Zunge hat,
+wobey viel Hitze im Rachen den giebt man all
+im andern Tag und zwar 3mal hintereinander
+einen Löffel voll oder 3 Loth in süßen Bier, wor-
+zu 6. 8. bi&sr; 12. frische Eyer eingequerlt werden,
+wie auch wenn man&sr; haben kann 1 Loth Salpe-
+ter in den Trank klar gemacht, wobey ihm die
+Spornadern gelassen werden, dabey zu erinnern,
+so der Mond alt wird, die Licht- und Colleradern
+gelassen werden, und den 6ten Kern gestochen,
+die Breynader unter der Zunge wird quer durch-
+stochen, so nun de&sr; Pferde&sr; Gehirn noch nicht
+inficiret, oder gelb Wasser in Gehirn liegen hätte,
+wie auch Lunge und Leber noch nicht völlig an-
+brüchig wäre, und im faulen Wasser schwimme,
+so werden nächst göttlicher Hülfe auf solche Art
+dumme Pferde noch wieder curiret, mit denen
+Collrichten wird eben so verfahren.</p>
+<p><aq>NB.</aq> So mancher mit den Pillen einzustecken
+besser umgehen kann al&sr; eingießen, der nimmt
+Mehl oder Kley und formiret eine Kugel drau&sr;
+wie ein klein Hühner Ey groß, und wird dem
+Pferde mit einem Stocke einer Elle lang und
+eine&sr; Finger&sr; oder Daume&sr; dicke eingestecket,
+die Krankheit habe Nahmen wie sie will.</p>
+<p>Jt. So eine Kuh krank würde von tumpig-
+ten Grumt oder erfrohrnen Kraut oder sich ver-
+fangen, oder wa&sr; unreine&sr; gefressen.</p>
+<p>Jtem. So eine Kuh Blut melket, oder blaue
+Milch gebe, oder keine Milch mit Nutzen oder
+<cw>Sahne</cw>
+<pb="95"/>
+<kt><hr></kt>
+Sahne gebe, der allbereit&sr; schon zusammenge-
+dorret, daß ihr die Haut auf den Rücken auf-
+klebte, so wird jeden Stück Vieh sowohl Och&sr;
+al&sr; Kuh von diesem berühmten Theriac ein klei-
+ner Eßlöffel voll, oder 2 gute Messerspitzen voll
+auf Brod geschmieret, und in Hal&sr; gestecket.
+<aq>NB.</aq> Zu erinnern, daß denen zusammengedorr-
+ten Rindvieh muß am Halse Ader gelassen wer-
+den, damit die Lungen und Leber&sr; welche mei-
+sten&sr; anbrüchig seyn, Luft bekommen, und wird
+alle 24 Stunden eingesteckt so lange e&sr; die Noth
+erfordert.</p>
+<p>Jt. So ein Schwein sich verfangen hätte,
+oder den Magen durch allzuhitzige&sr; Saufen, oder
+gar von Finnen sehr dürre und zusammengedor-
+ret wäre.</p>
+<p>Jtem. Auch vor alle ansteckende Krankhei-
+ten, so wird jedem Schwein, sobald e&sr; die Oh-
+ren hängt, oder mit den Zähnen knirscht, von
+diesen Theriac eine Messerspitze voll auf
+Brod geschmieret und eingesteckt, alle 24 Stun-
+den so lang e&sr; die Noth erfordert.</p>
+<p>Jt. So ein Hund oder Katze wa&sr; unrechte&sr;
+bekommen hätte, durch Krahnaugen, oder
+sonst wa&sr; giftige&sr; so wird ihnen eine mäßige
+Messerspitze voll von diesen Theriac, nachdem
+da&sr; Thier groß oder klein ist, eingesteckt oder
+eingegossen.</p>
+<p><aq>NB.</aq> So ein Mensch, und zwar ein Fuhr-
+mann, oder Bauer&sr;mann in Abweseuheit einer
+Apothecke oder Medicu&sr; durch einen kalern
+Trunk, oder durch unrechter Speisen,</p>
+<cw>Jt.</cw>
+<pb="96"/>
+<kt><hr></kt>
+<p>Jt. Jn stinkenden Nebeln oder auf dem Erd-
+boden gelegen, und sich erkältet hätte, worau&sr;
+vielmal&sr; gefährliche Krankheiten entstehen, so-
+wohl Fieber, Reißen der Glieder, wie auch starke
+Kopfschmerzen und sonst Ueblichkeiten, der neh-
+me von diesen Theriac sowohl curative al&sr; prä-
+servative eine mäßige Messerspitze voll nach Ge-
+legenheit, worauf er wird schwitzen, und 2 Stun-
+den nüchtern sich gehalten, probatum in allen
+Stücken und kann einen jeden versichern, daß
+dieser Theriac sowohl hohe al&sr; niedrige nächst
+göttlicher Hülfe in ihren Wirthschaften sehr viel
+Dienst thun wird, und habe mehr meinen noth-
+leidenden Nächsten zum Besten al&sr; mir zum Nu-
+tzen diese&sr; Arcanum übergeben und recomman-
+diret, und bitte hiebey keinen Anstoß zu nehmen,
+weil dieser Theriac nicht um so einen theuren
+Preiß gehalten wird, seine Probe aber wird sich
+selbst loben, und wird keinen Theriac in seiner
+Güte wa&sr; vorau&sr; geben, e&sr; kostet da&sr; viertel
+Pf. 4 Gr. und da&sr; ganze Pf. 16 Gr.</p>
+<p>Bitte hiermit alle Liebhaber der Pferde, daß
+sie dahin sehen, damit keine Krankheit überhand
+nimmt, denn in der Zeit ist der beste Rath, damit
+man nach diesen nicht öfter&sr; al&sr; einmal einzuge-
+ben braucht.</p>
+<p><aq>NB.</aq> E&sr; hat ohne Ruhm zu melden, dieser
+Theriac wie auch mein rothe&sr; Pulver bey Ster-
+bung de&sr; Viehe&sr; und zwar in den Städtchen
+Röthe, sowohl bey den Herren Geistlichen al&sr;
+honetten Bürgern, viele Dienste geleistet, und
+<cw>ist</cw>
+<pb="97"/>
+<kt><hr></kt>
+ist noch mit göttlicher Hülfe dadurch noch viele&sr;
+Vieh erhalten worden; wenn den gesunden alle
+Tage von dem Pulver ein Löffel voll, denen
+kranken aber täglich 2 Loth, oder einen mäsigen
+Löffel voll, von den Theriac verwechselt, ist ein-
+gegeben worden.</p>
+<p>4. Jt. Eine köstliche Schwindsalbe, vor al-
+lerley Lähmungen sowohl in Bauch- al&sr; Hüfft-
+schwindungen wird einen Tag um andern damit ge-
+schmiert u. wohl eingerieben, 3mal hinter einander.</p>
+<p>5. Jt. Eine schwarzbraune Hornsalbe, vor
+allerhand mörbe, spröde und au&sr;gedrocknete
+Hüffe feucht und wachsend zu machen, wöchent-
+lich 2mal damit geschmieret.</p>
+<p>6. Jt. Die rothe Salbe zu allerley Horn-
+klüften, Steingallen, Tritte auf die Krone,
+oder Verbellungen, auch sonst allerley Schäden
+von Hüffen oder anderwärt&sr; &rr;c. kühlet, reiniget
+und heilet.</p>
+<p>7. Jt. Eine gelbe Salbe vor allerley Ver-
+stauchung, Geschwulst, wird mit dem Blau-
+wasser umzechig einen Tag um andern gebraucht.</p>
+<p>8. Jt. Da&sr; Blauwasser zu allerley Ge-
+schwulsten und offenen Schäden, wird täglich
+einmal damit gewaschen.</p>
+<p>9. Jt. Eine schwarze Rautensalbe vor aller-
+ley au&sr;geschlagene oder rautige Pferde werden
+alle einen Tag um andern damit geschmieret,
+und wohl eingerieben, wenn ihnen da&sr; Pulver
+ist i&tn;erlich einige Tage gegeben worden, und die
+Lungadern gelassen, wird erst geschmieret.</p>
+<bs>G</bs><cw>10.</cw>
+<pb="98"/>
+<kt><hr></kt>
+<p>10. Jt. Der gebrannte Stein zu allerhand
+gedruckten Pferden und Geschwulsten, wird 1.
+Loth in ein Nößel Eßig oder Wasser aufgelöset,
+und alle Tage einmahl damit gewaschen.</p>
+<p>Und sind diese obgeschriebene Medicamente
+nicht alleine in meinen 25 jährigen Krieg&sr;- und
+Fahnenschmidt&sr;diensten wohl approbiret worden,
+sondern wa&sr; ich auch in meiner Lehre bey den
+Königl. Roßarzt Nicolau&sr; Reinländern erfah-
+ren habe, welche&sr; auch meine Roßbücher, wel-
+che der aufrichtige Leipziger Roßarzt betittelt ist,
+von allen diesen Medicamenten, Nachricht er-
+theilen, auch alle Operatione&sr;, wa&sr; bey den
+Pferdecuren noch bedürftig ist. <aq>NB.</aq> Wie einen
+dummen Pferde sollte der Kopf unter den Schup-
+pen aufgemacht werden, die Ader entzweygeris-
+sen &rr;c. <aq>NB.</aq> Wie einem Pferde der Haugk ge-
+schnitten, ein Leder zu stecken, ein Haarseil zu
+ziehen, wie ein Ueberbein oder Spad zu bren-
+nen, eine Stollenbeule zu schneiden, ein Pferd
+auf den Wiederroß reine zu schneiden; wie auch
+ein Pferd auf dem Creutz aufzumachen, wie
+auch alle gehörige Medicamente die darzu be-
+dürftig sind, darinnen zu finden seyn, wie auch
+Leist und Ellenbogen zu curiren seyn, auch noch
+alle sämmtliche Pferdecuren darinnen zu finden
+seyn: Wünsche allen Liebhabern der Pferde viel
+Nutzen zu schaffen, und wird da&sr; Werk seinen
+Meister loben, denn der Gerechte erbarmet sich
+seine&sr; Viehe&sr;.</p>
+<cw><aq>Nota.</aq></cw>
+<pb="99"/>
+<kt><hr></kt>
+<p><aq>Nota.</aq> 1. Noch zu erinnern den Liebhabern der
+Pferde, nicht allein au&sr; meiner vielfältigen Er-
+fahrung, sondern au&sr; meiner Christenpflicht,
+daß man nicht gleich mit sauren Tränken abson-
+derlich wo Pfesser darunter ist, begegnen soll,
+weil die Tränke nehmlich die anbrüchigen Pfer-
+de wo die Lungen von Geschwüren angegriffen
+sind, gleich angreift, und aufblasend macht,
+daran sie schnell ersticken und crepiren, absonder-
+lich wenn sie schon gelb Wasser in der Herzkam-
+mer haben, wie auch ein Euterstock im Herze.</p>
+<p>2. So ein Pferd oder ander Vieh au&sr; Krank-
+heit nicht fressen, damit man da&sr; Pulver nicht
+appliciren könne, weil sich&sr; nicht so gut eingie-
+sen läßt, so recommandire hiermit, daß man
+da&sr; Pulver so viel einen jeden beliebt, von mei-
+nen Pulver zu nehmen, und Schiebken oder
+Hollundersaft. Jt. Wacholdersaft, oder Ho-
+nig, oder Syrup, wa&sr; von diesen zu haben ist,
+mit dem Pulver zu vermengen, zu einen Teig
+oder Latwerge worau&sr; Pillen oder Kugeln kön-
+nen gemacht werden, wie eine große welsche Nuß
+groß, und den kranken Vieh sowohl Pferde al&sr;
+Rindvieh einen Tag um andern eingesteckt, da-
+mit man weiß, wa&sr; ein jede&sr; Vieh bekommen
+hat, absonderlich bey den Viehsterben, weil die-
+se&sr; die ordentliche Giftkugeln seyn, den gesunden
+bey den Viehsterben die Woche zweymal jeden
+Stück Vieh eine eingesteckt zur Präservation,
+da&sr; kleine Rindvieh bekommt eine halbe welsche
+Nuß groß. <aq>NB.</aq> Von Aderlassen, bey den jun-
+<bs>G 2</bs><cw>gen</cw>
+<pb="100"/>
+<kt><hr></kt>
+gen Pferden vor den ordentlichen Kropf so der
+Hal&sr; einmal verschwollen ist, wird nicht Ader
+gelassen, denen Herz, Stock, Lungendrüsig-
+keit, item herzschlechtigen, würmigen, mit an-
+gelaufenen Slauch oder Beinen wird alle 4 Wo-
+chen hinter einander in ersten Monat die Lung-
+adern den andern Monat darauf die Sporadern
+gelassen, und halte ich viel davon, daß man ei-
+nen Pferde jährig 2mal Ader lasse, Frühjahr u.
+Herbst, wobey einem jeden Pferde 1. Pfund von
+meinem rothen Pulver vor und nach Aderlasse
+kan verfüttert werden, worauf ich befunden, wo
+selbige&sr; geschehen ist, daß sich diese Pferde ge-
+sund und fett gehalten haben, auf alte und ver-
+stockte Drüsen aber können umzechig wie vorbe-
+schrieben wie auch Lungensüchtige oder Haar-
+schlechtige zu 5 bi&sr; 6 Pf. nach und nach auf ein
+Pferd verfüttert werden, weil man sie haupt-
+sächlich nicht mit scharfen Tränken angreifen kan,
+und fast allezeit mehr Schaden al&sr; Nutzen ver-
+ursachet hat, und mit Pulver mehr au&sr;gericht
+al&sr; mit Tränken, wo die Continuation wie vor-
+beschrieben erfolgt ist.</p>
+<p>3. Beym Rindviehsterben nun habe ich an-
+gemerkt, bey den Viehsterben in Röthe daß da&sr;
+harte trockne Futter nicht wohl gut gethan hat,
+absonderlich denen, welche die Seuche schon
+au&sr;gestanden hatten, schnell eine Verstopfung
+kriegten, und aufliefen und noch crepirten, son-
+dern meine&sr; Erachten&sr; auch befunden habe, daß
+die weitzene Kleyen nebst diesen vorbeschriebenen
+<cw>Me-</cw>
+<pb="101"/>
+<kt><hr></kt>
+Medicamenten vermischt, sehr gut gethan, wel-
+che&sr; allzeit besser gewesen, wenn die Fütterung
+in feuchte und dünne al&sr; die trockene, welche
+gleich Verstopfungen, und den Brand verur-
+sachte. De&sr;gleichen habe auch hierbey wahrge-
+nommen, daß da&sr; Waschen bey dem au&sr;geschla-
+genem Vieh höchst schädlich sey, welche&sr; also
+ein jeder zu vermeiden hat, auch bey angelaufe-
+nen Füßen nicht&sr; brauchen, sondern der Natur
+ihren Lauf lasse, wenn man nicht Gefahr haben
+will, daß durch dergleichen Gebrauch die Krank-
+heit wieder in den Leib getrieben werde.</p>
+<p>4. Vor die Schaafe wird auf 4 Schaafen ei-
+nen Löffel voll in Salz zu lecken gegeben, wenig-
+sten&sr; Monat&sr; einmal, welche nemlich die Wol-
+le verlieren, oder schäbigt, pockigt, oder sonst
+anbrüchig seyn, da&sr; Geblüte zu reinigen. Jt.
+Auch vor alle ansteckende Seuche der Schaafe.</p>
+<li>1) <fr>Da&sr; weitberühmte rothe leipziger Roßn Vieh-
+pulver, da&sr; Pf. 4 Gr. vor 1. Thlr. 7. Pfund.</fr></li>
+<li>2) <fr>der berühmte Theriac, da&sr; Pf. 16. Groschen.</fr></li>
+<li>3) <fr>eine sichere Purgierpille, da&sr; Stück 6. Gr.</fr></li>
+<li>4) <fr>eine Schwindsalbe, die Büchse 6. 8. bi&sr; 12. Gr.</fr></li>
+<li>5) <fr>eine schwarzbraune Hornsalbe, da&sr; Pf. 8. Gr.</fr></li>
+<li>6) <fr>eine rothe Salbe, da&sr; Pf. 16. Gr.</fr></li>
+<li>7) <fr>eine gelbe Sal@e, da&sr; Pf. 16. Gr.</fr></li>
+<li>8) <fr>ein blau Wasser, die Kanne 8. Gr.</fr></li>
+<li>9) <fr>ein gebrannter grüner Stein, da&sr; Pf. 12. Gr.</fr></li>
+<li>10) <fr>die ordinäre Englische Pille, 1 Stück 4. Gr.
+7. Stück vor 1. Thaler.</fr></li>
+<li><fr>Da&sr; Eremplar von meinen Roßbüchern, der auf-
+richtige Roßarzt berittelt, kostet 12. Gr.</fr></li>
+<bs>O 3</bs><cw><fr>Be-</fr></cw>
+<pb>
+<d2><b>Beschreibung der Univer-</b>
+<fr>salroßpillen,</fr></d2> <arg><fr>welche bey dem privilegirten
+Roßarzte, wie auch gewesenen Cur- und
+Fahnenschmidt bey denen Königl. Pohln u.
+Churfürstl. Sächs. Truppen, Bernhardt
+Naumann, anjetzo wohnhaft in Leipzig,
+auf der Hällischen Gasse, in seinem Hause,
+unten im Gewölbe, verfertiget werden,
+und zwar da&sr; Stück vor 4. Groschen.
+Wer aber vor 1. Rthl. mit einander nimmt,
+bekommt 7. vor 1. Rthlr. womit schon
+<c>nächst göttl. Hülfe mit Grund der
+Wahrheit viel tausend Pferde
+curiret sind</c></fr></arg>
+<p><in>S</in>o ein Pferd verschläget, vom Wind, Was-
+ser oder Futter, item überritten, übertrieben,
+nicht stallen, nicht misten, auch verstopft von
+Faibeln wäre, item so Wind- und Wassercoli-
+ca, oder ihm die Würmer bissen, so aber da&sr;
+Pferd aufliefe von Darmgicht, oder Krippenke-
+cker wäre, so wird jedem Pferde von diesen ei-
+ne Pille. so 6. Loth wiegt, auf einen Stecken
+einer Ellen lang, eine&sr; Finger&sr; dicke und nicht
+spitzig sey, die Zunge wird dem Pferde mit der
+linken Hand herau&sr;genommen, al&sr;de&bn; die Pille
+mit dem Stocke in Hal&sr; geschoben, und Achtung
+gegeben, damit e&sr; die Pille recht einschluckt,
+al&sr;denn ein wenig geritten oder geführet, und in
+zweyen Stunden nicht&sr; zu saufen oder zu fressen
+gegeben; <aq>NB.</aq> Sollte da&sr; Pferd aber sehr auf-
+laufen, u. die Darmgicht schon im Leibe haben,
+und sehr krank seyn, so wird die Hand zuvor mit
+<cw>Seife</cw>
+<pb>
+Seife oder Jnschlicht geschmieret, und wird ihm
+der Mist au&sr; dem Mastdarm genommen, und
+ihm Scheife oder Jnschlicht in den Mastdarm
+gesteckt, und wird ihm der Kern am Gaum ge-
+stochen, und ihm Salz in die Nasenlöcher ge-
+blasen, damit da&sr; Pferd braußt, im Nothfall
+kann man ihm die Sporadern mit schlagen las-
+sen, und wohl Acht haben, damit sich da&sr; Pferd
+nicht auf dem Rücken umporzelt, oder über-
+schlägt, weil sich dadurch leicht die Därmer ver-
+schleifen, und wird eine Pille zu diesen ober-
+wähnten Krankheiten nächst göttlicher Hülfe zu-
+länglich seyn, wenn&sr; gleich geschehen kann, daß
+vorräthig Pillen bey der Hand seyn, denn e&sr; ist
+keine Krankheit der Pferde incurabel, wenn nicht
+Netz, Magen oder Darm entzwey ist, und be-
+hält die Pille Jahr und Tag seine Würkung,
+weil sie balsamisch und laxirend ist; in alten
+Krankheiten aber, wo da&sr; Pferd halbe kalte
+Ohren hat, kalte Nasenlöcher welke Zunge,
+schnaubet, ziehet den Bauch nebst dem Schlauch
+in die Höhe, knirscht mit denen Zähnen, und
+kann nicht wohl fressen, oder ihn die Haut auf
+den Ribben fest anlieget, ihm im Leibe poltert,
+und die Haare empor stehen, solchen Pferden
+wird alle Wochen eine Pille eingesteckt, it. denen
+herz- stock- oder steindrüsigten Pferden, lungen-
+sichtigen, haarschlechtigen, dickbeinigten, und
+aufgebrochnen stinkigten Maucke oder Schlauch,
+it. rautigen, wurmigten Pferden wird aller 14
+Tagen eine Pille eingesteckt, zwischen innen aber
+mit meinen Pulver Früh und Abend&sr; wie be-
+schrieben ist gebraucht, wer aber seine Pferde
+<cw>prä-</cw>
+<pb>
+präserdiret im Frühjahre und Herbsizeit mit ei-
+ner solchen Pille oder wenigsten&sr; jährlich 4 Pfund
+von meinen rothen Leipziger Dru&sr;-Freß- und
+Blutreinigung&sr;pulver in 12 Tagen 1. Pfund oder
+wenigsten&sr; Monat&sr; 3 Tage hinter einander früh
+und abend&sr; einen guten Eßlöffel voll, wie in an-
+dern Zetteln schon angewiesen ist, verfüttert und
+mit Gelegenheit kan gebraucht werden, der hat
+sich vor allen obgenannten Krankheiten nicht&sr;
+leicht zu befürchten, weil viele von meinen Kun-
+den selbst eingestehen, daß sich ihre Pferde glatt,
+fett und gesund halten, wenn nicht schon Lung u.
+Leber inficiret ist, und schon in faulen Wasser
+schimmt, absonderlich wenn in solche Pferde mit
+scharfen sauren Tränken neingestürmet wird, da
+die meiste Mode ist, daß just ein jeder Schmidt
+de&sr; Pferde&sr; Arzt seyn müßte, da selbige&sr; doch
+unmöglich seyn kan, weil ein Pferd einen ver-
+nünftigen und verständigen Arzt haben will: al&sr;
+verordne und recommandire hiermit meine viel
+tausendmal approbirte Pillen jeden Liebhaber der
+Pferde im Nothfall bey sich zu führen, weil in
+Zeiten der Rath am besten ist, und kan sowohl
+da&sr; Pulver, al&sr; die Pille curative al&sr; präsertive
+in allen Strapatzen sicher und mit Nutzen ge-
+braucht werden, weil beyde&sr; herzstärkend ist, so-
+wohl Pulver al&sr; Pille, und wird jeder im Pu-
+tzen de&sr; Pferde&sr; befinden, daß da&sr; Pferd wird
+mehr Staub geben, weil er Pulver füttert, al&sr;
+wie zur andern Zeit, weil beyde&sr; da&sr; Geblüt
+reiniget, und kann auch manche&sr; Thier seinem
+Herrn noch lange Dienste leisten, wird aber durch
+den Unverstand vielmahl&sr; schändlich über den
+Haufen geworfen.</p>
+<hr>
+<pb>
+<pb>

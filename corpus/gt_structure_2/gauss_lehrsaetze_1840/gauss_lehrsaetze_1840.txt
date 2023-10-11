@@ -1,0 +1,1673 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<front><b>Allgemeine Lehrsätze</b>
+<g>in Beziehung</g>
+auf die
+im verkehrten Verhältnisse des Quadrats
+der Entfernung wirkenden
+<b>Anziehungs- und Abstossungs-Kräfte</b>
+von
+<b><g>Carl Friedrich Gauss</g></b>
+<hr>
+<g><b>Leipzig,</b>
+in der Weidmannsehen Buchhandlung.
+1840</g>.</front>
+<pb>
+<pb>
+<hr>
+<d1>1.</d1>
+<p><in>D</in>ie Natur bietet uns mancherlei Erscheinungen dar, welche
+wir durch die Annahme von Kräften erklären, die von den
+kleinsten Theilen der Substanzen auf einander ausgeübt werden,
+und den Quadraten der gegenseitigen Entfernungen umgekehrt
+proportional sind.</p>
+<p>Vor allen gehört hieher die allgemeine Gravitation. Ver-
+möge derselben übt jedes ponderable Molecül <i>&03BC;</i> auf ein ande-
+res <i>&03BC;</i>' eine bewegende Kraft aus, welche, wenn man die Ent-
+fernung = <i>r</i> setzt, durch <formel> ausgedrückt wird, und eine An-
+näherung in der Richtung der verbindenden geraden Linie her-
+vorzubringen strebt.</p>
+<p>Wenn man zur Erklärung der magnetischen Erscheinungen
+zwei magnetische Flüssigkeiten annimmt, wovon die eine als
+positive Größe, die andere als negative betrachtet wird, so
+üben zwei derartige Elemente <i>&03BC;, &03BC;</i>' gleichfalls eine bewegende
+Kraft auf einander aus, welche durch <formel> gemessen wird, und
+in der verbindenden geraden Linie wirkt, aber als Abstoßung,
+wenn <i>&03BC;, &03BC;</i>' gleichartig, als Anziehung, wenn sie ungleichar-
+tig sind.</p>
+<p>Ganz ähnliches gilt von der gegenseitigen Wirkung der
+Theile der elektrischen Flüssigkeiten auf einander.</p>
+<p>Das linearische Element d<i>s</i> eines galvanischen Stroms übt
+auf ein Element des magnetischen Fluidums <i>&03BC;</i> (wenn wir letz-
+<bs>1</bs>
+<pb="2"/>
+teres zulassen) ebenfalls eine bewegende Kraft aus, die dem
+Quadrate der Entfernung <i>r</i> umgekehrt proportional ist: aber
+hier tritt zugleich der ganz abweichende Umstand ein, daß die
+Richtung der Kraft nicht in der verbindenden geraden Linie,
+sondern senkrecht gegen die durch <i>&03BC;</i> und die Richtung von d<i>s</i>
+gelegte Ebene ist, und daß außerdem die Stärke der Kraft
+nicht von der Entfernung allein, sondern zugleich von dem
+Winkel abhängt, welchen <i>r</i> mit der Richtung von d<i>s</i> macht.
+Nennt man diesen Winkel <i>&03B8;</i>, so ist <formel> das Maaß der
+bewegenden Kraft, welche d<i>s</i> auf <i>&03BC;</i> ausübt, und eben so groß
+ist die von <i>&03BC;</i> auf das Stromelement d<i>s</i> oder dessen pondera-
+beln Träger ausgeübte Kraft, deren Richtung der erstern ent-
+gegengesetzt parallel ist.</p>
+<p>Wenn man mit Ampère annimmt, daß zwei Elemente von
+galvanischen Strömen d<i>s</i>, d<i>s</i>' in der sie verbindenden geraden
+Linie anziehend oder abstoßend auf einander wirken, so nö-
+thigen uns die Erscheinungen, diese Kraft gleichfalls dem Qua-
+drate der Entfernung umgekehrt proportional zu setzen, zu-
+gleich aber erfordern jene eine etwas verwickeltere Abhängig-
+keit von der Richtung der Stromelemente.</p>
+<p>Wir werden uns in dieser Abhandlung auf die drei ersten
+Fälle oder auf solche Kräfte einschränken, die sich in der Rich-
+tung der geraden Linie zwischen dem Elemente, welches wirkt,
+und demjenigen, auf welches gewirkt wird, äußern, und
+schlechthin dem Quadrate der Entfernung umgekehrt propor-
+tional sind, obwohl mehrere Lehrsätze mit geringer Verände-
+rung auch bei den andern Fällen ihre Anwendung finden, de-
+ren ausführliche Entwickelung einer andern Abhandlung vor-
+behalten bleiben muß.</p>
+<d1>2.</d1>
+<p>Wir bezeichnen mit <i>a, b, c</i> die rechtwinkligen Coordina-
+ten eines materiellen Punktes, von welchem aus eine absto-
+ßende oder anziehende Kraft wirkt; die beschleunigende Kraft
+selbst in einem unbestimmten Punkte <i>O</i>, dessen Coordinaten
+<i>x, y, z</i> sind, mit
+<c><formel></c>
+<pb="3"/>
+wo als# <i>&03BC;</i> für den ersten Fall des vorhergehenden Artikels
+die im #rstern Punkte befindliche ponderable Materie, im zwei-
+ten und dritten das Quantum magnetischen oder elektrischen
+Fluiduns ausdrückt. Wird diese Kraft parallel mit den drei
+Coordinatenaxen zerlegt, so entstehen daraus die Componenten
+<et><formel></et>
+wo <i>&03B5;</i> = + 1 oder = &2014; 1 sein soll, jenachdem die Kraft an-
+ziehend oder abstoßend wirkt, was sich nach der Beschaffen-
+heit des Wirkenden und des die Wirkung Empfangenden von
+selbst entscheidet. Diese Componenten stellen sich dar als die
+partiellen Differentialquotienten
+<c><formel></c>
+Wirken also auf denselben Punkt <i>O</i> mehrere Agentien <i>&03BC;</i><up>0</up>, <i>&03BC;',
+&03BC;''</i> u. s. f. aus den Entfernungen <i>r</i><up>0</up>, <i>r', r''</i> u. s. f., und setzt man
+<et><formel></et>
+so werden die Componenten der ganzen in <i>O</i> wirkenden Kraft
+durch
+<c><formel></c>
+dargestellt.</p>
+<p>Wenn die Agentien nicht aus discreten Punkten wirken,
+sondern eine Linie, eine Fläche oder einen körperlichen Raum
+stetig erfüllen, so tritt an die Stelle der Summation <i>&03A3;</i> eine
+einfache, doppelte oder dreifache Integration. Der letzte Fall
+ist an sich allein der Fall der Natur: allein da man oft dafür,
+unter gewissen Einschränkungen, fingirte in Punkte concen-
+trirte, oder auf Linien oder Flächen stetig vertheilte Agentien
+substituiren kann, so werden wir jene Fälle mit in unsre Un-
+tersuchung ziehen, wobei es unanstößig sein wird, von <g>Mas-
+sen</g>, die auf eine Fläche oder Linie vertheilt, oder in einen
+Punkt concentrirt sind, zu reden, insofern der Ausdruck
+Masse hier nichts weiter bedeutet, als dasjenige, wovon An-
+ziehungs- oder Abstoßungs-Kräfte ausgehend gedacht werden.</p>
+<bs>1*</bs>
+<pb="4"/>
+<d1>3.</d1>
+<p>Indem wir also, für jeden Punkt im Raume, mit <i>x, y, z</i>
+dessen rechtwinklige Coordinaten, und mit <i>V</i> das Aggregat al-
+ler wirkenden Massentheilchen, jedes mit seiner Entfernung
+von jenem Punkte dividirt, bezeichnen, wobei nach den jedes-
+maligen Bedingungen der Untersuchung negative Massentheil-
+chen entweder ausgeschlossen oder als zulässig betrachtet wer-
+den mögen, wird <i>V</i> eine Function von <i>x, y, z</i>, und die Er-
+forschung der Eigenthümlichkeiten dieser Function der Schlüs-
+sel zur Theorie der Anziehungs- oder Abstoßungskräfte selbst
+sein. Zur bequemern Handhabung der dazu dienenden Unter-
+suchungen werden wir uns erlauben, dieses <i>V</i> mit einer be-
+sondern Benennung zu belegen, und diese Größe das <i>Potential</i>
+der Massen, worauf sie sich bezieht, nennen. Für unsre ge-
+genwärtige Untersuchung reicht diese beschränktere Begriffsbe-
+stimmung hin: im weitern Sinn könnte man sowohl für Be-
+trachtung anderer Anziehungsgesetze, als im umgekehrten Ver-
+hältniß des Quadrates der Entfernung, als auch für den vier-
+ten im Art. 1 erwähnten Fall, unter Potential die Function
+von <i>x, y, z</i> verstehen, deren partielle Differentialquotienten
+die Componenten der erzeugten Kraft vorstellen.</p>
+<p>Bezeichnen wir die ganze in dem Punkte <i>x, y, z</i> Statt
+findende Kraft mit <i>p</i>, und die Winkel, welche ihre Richtung
+mit den drei Coordinatenaxen macht, mit <i>&03B1;, &03D0;, &03B3;</i>, so sind die
+drei Componenten
+<et><formel></et>
+und
+<et><formel></et></p>
+<d1>4.</d1>
+<p>Ist d<i>s</i> das Element einer beliebigen geraden oder krum-
+men Linie, so sind <formel> die Cosinus der Winkel, wel-
+che jenes Element mit den Coordinatenaxen macht; bezeichnet
+also <i>&03B8;</i> den Winkel zwischen der Richtung des Elements und
+<pb="5"/>
+der Richtung, welche die resultirende Kraft daselbst hat, so ist
+<et><formel></et>
+Die auf die Richtung von d<i>s</i> projicirte Kraft wird folglich
+<et><formel></et>.</p>
+<p>Legen wir durch alle Punkte, in welchen das Potential <i>V</i>
+einen constanten Werth hat, eine Fläche, so wird solche all-
+gemein zu reden die Theile des Raums wo <i>V</i> kleiner ist, von
+denen scheiden, wo <i>V</i> größer ist als jener Werth. Liegt die
+Linie <i>s</i> in dieser Fläche, oder tangirt sie wenigstens dieselbe
+mit dem Element d<i>s</i>, so ist <formel>. Falls also nicht an die-
+sem Platze die Bestandtheile der ganzen Kraft einander destrui-
+ren, oder <i>p</i> = <i>o</i> wird, in welchem Falle von einer Richtung
+der Kraft nicht mehr die Rede sein kann, muß nothwendig
+cos <i>&03B8;</i> = <i>o</i> sein, woraus wir schließen, daß die Richtung der resul-
+tirenden Kraft in jedem Punkte einer solchen Fläche gegen
+diese selbst normal ist, und zwar nach derjenigen Seite des
+Raumes zu, wo die größern Werthe von <i>V</i> angrenzen, wenn
+<i>&03B5;</i> = + 1 ist; nach der entgegengesetzten, wenn <i>&03B5;</i> = &2014; 1 ist.
+Wir nennen eine solche Fläche eine <i>Gleichgewichtsfläche</i>. Da
+durch jeden Punkt eine solche Fläche gelegt werden kann,
+so wird die Linie <i>s</i>, falls sie nicht ganz in Einer Gleichge-
+wichtsfläche liegt, in jedem ihrer Punkte eine andere treffen.
+Durchschneidet <i>s</i> alle Gleichgewichtsflächen unter rechten Win-
+keln, so stellt eine Tangente an jener Linie überall die Rich-
+tung der Kraft, und <formel> ihre Stärke dar.</p>
+<p>Das Integral <i>&222B; p</i> cos <i>&03B8;</i> . d<i>s</i>, durch ein beliebiges Stück der
+Linie <i>s</i> ausgedehnt, wird offenbar = <i>&03B5;</i> (<i>V</i>' &2014; <i>V</i><up>0</up>), wenn <i>V</i><up>0</up>, <i>V</i>'
+die Werthe des Potentials für den Anfangs- und Endpunkt
+bedeuten. Ist also <i>s</i> eine geschlossene Linie, so wird jenes In-
+tegral, durch die ganze Linie erstreckt, = <i>o</i> werden.</p>
+<d1>5.</d1>
+<p>Es ist von selbst klar, daß das Potential in jedem Punkte
+<pb="6"/>
+des Raumes, der <i>außerhalb</i> aller anziehenden oder abstoßenden
+Theilchen liegt, einen assignabeln Werth erhalten muß; das-
+selbe gilt aber auch von dessen Differentialquotienten, sowohl
+erster als höherer Ordnung, da diese in jener Voraussetzung
+gleichfalls die Form von Summen assignabler Theile oder von
+Integralen solcher Differentiale annehmen, in denen die Coef-
+ficienten durchaus assignable Werthe haben. So wird
+<et><formel></et>
+Die bekannte Gleichung
+<et><formel></et>
+gilt also für alle Punkte des Raumes, die außerhalb der wir-
+kenden Massen liegen.</p>
+<d1>6.</d1>
+<p>Unter den verschiedenen Fällen, wo der Werth des Po-
+tentials <i>V</i> oder seiner Differentialquotienten für einen nicht
+außerhalb der wirkenden Massen liegenden Punkt in Frage
+kommt, wollen wir zuerst den Fall der Natur betrachten, wo
+die Massen einen bestimmten körperlichen Raum mit gleichför-
+miger oder ungleichförmiger, aber überall endlicher Dichtig-
+keit ausfüllen.</p>
+<p>Es sei <i>t</i> der ganze Raum, welcher Masse enthält; d<i>t</i> ein
+unendlich kleines Element desselben, welchem die Coordinaten
+<i>a, b, c</i> und das Massenelement <i>k</i>d<i>t</i> entsprechen; ferner sei <i>V</i>
+<pb="7"/>
+das Potential in dem Punkte <i>O</i>, dessen Coordinaten <i>x, y, z</i>,
+also die Entfernung von jenem Element
+<et><formel></et>
+Es wird folglich
+<et><formel></et>
+durch den ganzen Raum <i>t</i> ausgedehnt, was eine dreifache In-
+tegration implicirt. Man sieht leicht, daß eine wahre Integra-
+tion stattnehmig ist, auch wenn <i>O</i> innerhalb des Raumes sich
+befindet, obgleich dann <formel> für die unendlich nahe bei <i>O</i> lie-
+genden Elemente unendlich groß wird. Denn wenn man an-
+statt <i>a, b, c</i> Polarcoordinaten einführt, indem man
+<et><i>a</i> = <i>x</i> + <i>r</i> cos <i>u, b</i> = <i>y</i> + <i>r</i> sin <i>u</i> cos <i>&03BB;, c</i> = <i>z</i> + <i>r</i> sin <i>u</i> sin <i>&03BB;</i></et>
+setzt, so wird d<i>t</i> = <i>r r</i> sin <i>u</i> . d <i>u</i> . d <i>&03BB;</i> . d <i>r</i>, mithin
+<et><i>V</i> = <i>&222B;&222B;&222B; kr</i> sin <i>u</i> . d <i>u</i> . d <i>&03BB;</i> . d <i>r</i></et>
+wo die Integration in Beziehung auf <i>r</i> von <i>r</i> = <i>o</i> bis zu dem
+an der Grenze von <i>t</i> Statt findendenden Werthe, von <i>&03BB;</i> = <i>o</i> bis
+<i>&03BB;</i> = 2<i>n</i>, und von <i>u</i> = <i>o</i> bis <i>u</i> = <i>n</i> ausgedehnt werden muß.
+Es wird also nothwendig <i>V</i> einen bestimmten endlichen Werth
+erhalten.</p>
+<p>Man sieht ferner leicht ein, daß man auch hier
+<et><formel></et>
+setzen darf. Die Befugniß dazu beruhet darauf, daß auch
+dieser Ausdruck, welcher unter Anwendung von Polarcoordi-
+naten in
+<et><formel></et>
+übergeht, einer wahren Integration fähig ist, also <i>X</i> einen be-
+stimmten endlichen Werth erhält, der sich nach der Stetigkeit
+ändert, weil alle in unendlicher Nähe bei <i>O</i> liegenden Ele-
+mente nur einen unendlich kleinen Beitrag dazu geben. Aus
+ähnlichen Gründen darf man auch
+<c><formel></c>
+<pb="8"/>
+setzen, und diese Größen erhalten daher, eben so wie <i>V</i>, in-
+nerhalb <i>t</i> bestimmte nach der Stetigkeit sich ändernde Werthe.
+Dasselbe wird auch noch auf der Grenze von <i>t</i> gelten.</p>
+<d1>7.</d1>
+<p>Was nun aber die Differentialquotienten höherer Ordnun-
+gen betrifft, so muß für Punkte innerhalb <i>t</i> ein anderes Ver-
+fahren eintreten, da es z. B. nicht verstattet ist, <formel> in
+<et><formel></et>
+umzuformen, indem dieser Ausdruck genau betrachtet nur ein
+Zeichen ohne bestimmte klare Bedeutung sein würde. Denn
+in der That, da sich innerhalb jedes auch noch so kleinen
+Theils von <i>t</i>, welcher den Punkt einschließt, Theile nachwei-
+sen lassen, über welche ausgedehnt dieses Integral jeden vor-
+gegebenen Werth, er sei positiv oder negativ, überschreitet, so
+fehlt hier die wesentliche Bedingung, unter welcher allein dem
+ganzen Integrale eine klare Bedeutung beigelegt werden kann,
+nemlich die Anwendbarkeit der Exhaustionsmethode.</p>
+<d1>8.</d1>
+<p>Ehe wir diese Untersuchung in ihrer Allgemeinheit vor-
+nehmen, wird es zur Fixirung der Vorstellungen nützlich sein,
+einen sehr einfachen speciellen Fall zu betrachten.</p>
+<p>Es sei <i>t</i> eine Kugel, deren Halbmesser = <i>R</i> ist, und de-
+ren Mittelpunkt mit dem Anfangspunkte der Coordinaten zu-
+sammenfällt: die Dichtigkeit der die Kugel erfüllenden Masse sei
+constant = <i>k</i>, und den Abstand des Punktes <i>O</i> vom Mittelpunkte
+bezeichnen wir mit <formel>. Bekanntlich hat das
+Potential zwei verschiedene Ausdrücke, je nachdem <i>O</i> innerhalb
+der Kugel, oder außerhalb liegt. Im erstern Fall ist nemlich
+<et><formel></et>
+im zweiten hingegen
+<pb="9"/>
+<c><formel></c>
+Auf der Oberfläche der Kugel geben beide Ausdrücke einerlei
+Werth 4/3<i>&03C0;kRR</i>, und das Potential ändert sich daher im gan-
+zen Raume nach der Stetigkeit.</p>
+<p>Für die Differentialquotienten erhalten wir, im innern Raume
+<c><formel></c>
+im äussern Raume hingegen
+<c><formel></c></p>
+<p>Auch hier geben auf der Oberfläche die letztern Formeln
+dieselben Werthe wie die erstern, daher auch <i>X, Y, Z</i> im gan-
+zen Raume nach der Stetigkeit sich ändern.</p>
+<p>Anders verhält es sich aber mit den Differentialquotienten
+dieser Grössen. Im innern Raume haben wir
+<et><formel></et>
+im äußern Raume hingegen
+<c><formel></c></p>
+<p>Auf der Oberfläche fallen diese Werthe nicht mit jenen
+zusammen, sondern sind beziehungsweise
+<pb="10"/>
+<c><formel></c>
+größer. Es ändern sich daher jene Differentialquotienten, nach
+der Stetigkeit zwar im ganzen innern und im ganzen äußern
+Raume, aber sprungsweise beim Übergange aus dem einen in
+den andern, und in der Scheidungsfläche selbst muß man ihnen
+doppelte Werthe beilegen, je nachdem d<i>x</i>, d<i>y</i>, d<i>z</i> als positiv
+oder als negativ betrachtet werden.</p>
+<p>Ähnliches findet bei den sechs übrigen Differentialquotienten
+<c><formel></c>
+Statt, die im Innern der Kugel sämmtlich = 0 werden, und
+beim Durchgange durch die Kugelfläche sprungsweise die Än-
+derungen
+<et><formel></et>
+erleiden.</p>
+<p>Das Aggregat <formel>
+wird im Innern der Kugel = &2014; 4<i>&03C0;k</i>, im äußern Raume
+= 0. Auf der Oberfläche selbst verliert es aber seine einfache
+Bedeutung: präcis zu reden, kann man nur sagen, daß es ein
+Aggregat von drei Theilen ist, deren jeder zwei verschiedene
+Werthe hat, und so giebt es eigentlich acht Combinationen,
+unter denen eine mit dem auf der innern Seite, eine andere
+mit dem auf der äußern Seite geltenden Werthe übereinstimmt,
+während die sechs übrigen ohne alle Bedeutung bleiben. Der
+Analyse, durch welche einige Geometer auf der Oberfläche der
+Kugel den Werth &2014; 2<i>&03C0;k</i>, oder den Mittelwerth zwischen den
+innen und außen geltenden, herausgebracht haben, kann ich,
+insofern der Begriff von Differentialquotienten in seiner mathe-
+matischen Reinheit aufgefaßt wird, eine Zulässigkeit nicht ein-
+räumen.</p>
+<d1>9.</d1>
+<p>Das im vorhergehenden Beispiel gefundene Resultat ist nur
+ein einzelner Fall des allgemeinen Theorems, nach welchem,
+wenn der Punkt <i>O</i> sich im Innern der wirkenden Masse be-
+<pb="11"/>
+findet, der Werth von <formel> äqual wird dem
+Producte aus &2014; 4<i>&03C0;</i> in die in <i>O</i> Statt findende Dichtigkeit.
+Die befriedigendste Art, diesen wichtigen Lehrsatz zu begrün-
+den, scheint folgende zu sein.</p>
+<p>Wir nehmen an, daß die Dichtigkeit <i>k</i> sich innerhalb <i>t</i>
+nirgends sprungsweise ändere, oder daß sie eine mit <i>f</i> (<i>a, b, c</i>)
+zu bezeichnende Function von <i>a, b, c</i> sei, deren Werth sich
+innerhalb <i>t</i> überall nach der Stetigkeit ändert, außerhalb <i>t</i> hin-
+gegen = 0 wird.</p>
+<p>Es sei <i>t</i>' der Raum, in welchen <i>t</i> übergeht, wenn die erste
+Coordinate jedes Punktes der Grenzfläche um die Grösse <i>e</i> ver-
+mindert, oder was dasselbe ist, wenn die Grenzfläche parallel
+mit der ersten Coordinatenaxe um <i>e</i> rückwärts bewegt wird;
+es bestehe <i>t</i> aus den Räumen <i>t</i><up>0</up> und <i>&03B8;, t</i>' aus <i>t</i><up>0</up> und <i>&03B8;</i>',
+so daß <i>t</i><up>0</up> der ganze Raum ist, welcher <i>t</i> und <i>t</i>' gemeinschaft-
+lich bleibt. Wir betrachten die drei Integrale
+<et><formel> (1)</et>
+<et><formel> (2)</et>
+<et><formel> (3)</et>
+wo das Integral (1) über den ganzen Raum <i>t</i> ausgedehnt der
+Werth von <formel> oder <i>X</i> in dem Punkte <i>O</i> sein wird. Das In-
+tegral (2) gleichfalls über ganz <i>t</i> ausgedehnt wird der Werth
+von <formel> in demjenigen Punkte sein, dessen Coordinaten <i>x</i> + <i>e, y, z</i>
+sind, welchen Werth wir mit <i>X</i> + <i>&03BE;</i> bezeichnen wollen. Of-
+fenbar ist mit diesem Integrale ganz identisch das Integral (3)
+über den ganzen Raum <i>t</i>' ausgedehnt. Ist also</p>
+<li>das Integral (1), ausgedehnt über <i>t</i><up>0</up> _ _ <i>l</i></li>
+<li><et>über <i>&03B8;</i> _ _ <i>&03BB;</i></et></li>
+<li>das Integral (3) ausgedehnt über <i>t</i><up>0</up> _ _ <i>l</i>'</li>
+<li><et>über <i>&03B8;</i>' _ _ <i>&03BB;</i>'</et></li>
+<p>so wird <i>X</i> = <i>l</i> + <i>&03BB;, X</i> + <i>&03BE;</i> = <i>l</i>' + <i>&03BB;</i>'.</p>
+<pb="12"/>
+<p>Setzen wir <i>f</i> (<i>a</i> + <i>e, b, c</i>) &2014; <i>f</i> (<i>a, b, c</i>) = <i>&0394;k</i>, so ist das In-
+tegral
+<et><formel> (4)</et>
+über <i>t</i><up>0</up> ausgedehnt, <formel>.</p>
+<p>Die bisherigen Resultate gelten allgemein für jede Lage
+von <i>O</i>: bei der weitern Entwicklung soll der Fall, wo <i>O</i> in
+der Oberfläche selbst liegt, ausgeschlossen sein, oder angenom-
+men werden, daß <i>O</i> in meßbarer Entfernung von der Ober-
+fläche, innerhalb oder außerhalb <i>t</i> liege.</p>
+<p>Lassen wir nun <i>e</i> unendlich klein werden, so sind die
+Räume <i>&03B8;, &03B8;</i>' zwei unendlich schmale an der Oberfläche von <i>t</i>
+anliegende Raumschichten; zerlegen wir diese Oberfläche in
+Elemente d<i>s</i>, und bezeichnen mit <i>&03B1;</i> den Winkel, welchen eine
+in d<i>s</i> nach außen errichtete Normale mit der ersten Coordina-
+tenaxe macht, so wird <i>&03B1;</i> offenbar spitz sein überall, wo die
+Oberfläche von <i>t</i> an <i>&03B8;</i> grenzt, stumpf hingegen da, wo sie an
+<i>&03B8;</i>' grenzt. Die Elemente von <i>&03B8;</i> werden also ausgedrückt wer-
+den durch <i>e</i> cos <i>&03B1;</i> d<i>s</i>, die Elemente von <i>&03B8;</i>' hingegen durch
+&2014; <i>e</i> cos <i>&03B1;</i> d<i>s</i>, woraus man leicht schließt, daß <formel> übergeht
+in das Integral
+<et><formel></et>
+oder was dasselbe ist, in dieses
+<c><formel></c>
+durch die ganze Oberfläche ausgedehnt, wo unter <i>k</i> die an dem
+Elemente d<i>s</i> Statt findende Dichtigkeit zu verstehen ist.</p>
+<p>Unter Voraussetzung eines unendlich kleinen Werthes von
+<i>e</i> wird ferner <formel> übergehen in den Werth des partiellen Dif-
+ferentialquotienten <formel> oder <formel>, und der Werth des In-
+tegrals (4) oder <formel> in das Integral
+<pb="13"/>
+<et><formel></et>
+durch den ganzen Raum <i>t</i> ausgedehnt.</p>
+<p>Endlich ist, für ein unendlich kleines <formel>
+oder <formel>, nichts anderes, als der Werth des partiellen Differen-
+tialquotienten <formel> oder <formel>. Wir haben folglich das einfache
+Resultat
+<c><formel></c>
+wo die erste Integration über den ganzen Raum <i>t</i>, die zweite
+über die ganze Oberfläche desselben auszudehnen ist.</p>
+<p>Dieses Resultat ist gültig, wie nahe auch <i>O</i> der Oberfläche
+auf der innern oder äußern Seite liegen mag, nur nicht in der
+Oberfläche selbst, wo vielmehr <formel> zwei verschiedene Werthe
+haben wird. Das erste Integral ändert sich zwar beim Durch-
+gange durch die Oberfläche nach der Stetigkeit, hingegen än-
+dert sich <formel> nach einem weiter unten zu
+beweisenden Theorem beim Übergange von einem innern der
+Oberfläche unendlich nahen Punkte nach einem äußern um
+die endliche Grösse 4<i>&03C0;k</i> cos <i>&03B1;</i>, wo <i>k</i> und <i>&03B1;</i> sich auf die Durch-
+gangsstelle beziehen, und eben so groß wird der Unterschied
+der beiden daselbst Statt findenden Werthe von <formel> sein.</p>
+<d1>10.</d1>
+<p>Auf ähnliche Weise wird, wenn <i>&03D0;</i> und <i>&03B3;</i> in Beziehung
+auf die zweite und dritte Coordinatenaxe dieselbe Bedeutung
+haben, wie <i>&03B1;</i> in Beziehung auf die erste, und für die Lage
+von <i>O</i> dieselbe Beschränkung gilt, wie vorhin,
+<pb="14"/>
+<et><formel></et></p>
+<p>Erwägen wir nun, daß
+<et><formel></et>
+nichts anderes ist, als der Werth des Differentialquotienten
+<formel>, insofern in dieser Differentiation nur die Länge von <i>r</i> als
+veränderlich, die Richtung aber als constant betrachtet wird;
+ferner, daß
+<et><formel></et>
+wird, wenn <i>&03C8;</i> den Winkel bezeichnet, welchen die nach au-
+ßen gerichtete Normale in d<i>s</i> mit der verlängerten geraden Li-
+nie <i>r</i> macht, so erhellet, daß, wenn das Integral
+<et><formel></et>
+über den ganzen Raum <i>t</i> erstreckt mit <i>M</i>, das Integral
+<et><formel></et>
+durch die ganze Oberfläche von <i>t</i> ausgedehnt mit <i>N</i> bezeich-
+net wird,
+<et><formel></et>
+sein wird.</p>
+<p>Um die erstere Integration auszuführen, beschreiben wir
+um den Mittelpunkt <i>O</i> mit dem Halbmesser 1 eine Kugelfläche,
+und zerlegen dieselbe in Elemente d<i>&03C3;</i>. Die von <i>O</i> durch alle
+Punkte der Peripherie von d<i>&03C3;</i> geführten und unbestimmt ver-
+längerten geraden Linien bilden eine Kegelfläche (im weitern
+Sinne des Worts), wodurch aus dem ganzen <i>t</i> ein Raum (nach
+Umständen aus mehrern getrennten Stücken bestehend) ausge-
+<pb="15"/>
+schieden wird, und wovon <i>r r d &03C3;</i> . d<i>r</i> ein unbestimmtes Element
+ist. Derjenige Theil von <i>M</i>, welcher sich auf diesen Raum
+bezieht, wird folglich durch <formel>. d<i>r</i> ausgedrückt werden,
+wenn diese Integration durch alle in <i>t</i> fallenden Theile einer
+durch <i>O</i> und einen Punkt von d<i>&03C3;</i> gehenden soweit als nöthig
+verlängerte gerade Linie <i>r</i> erstreckt wird. Nehmen wir nun
+an, diese gerade Linie schneide die Oberfläche von <i>t</i> der Reihe
+nach in <i>O', O'', O''', O</i><up>IV</up> u. s. f.; bezeichnen mit <i>r', r'', r''', r</i><up>IV</up>
+u. s. f. die Werthe von <i>r</i> in diesen Punkten; mit d<i>s</i>', d<i>s</i>'', d<i>s</i>''',
+d<i>s</i><up>IV</up> u. s. f. die entsprechenden durch den Elementarkegel aus
+der Oberfläche von <i>t</i> ausgeschiedenen Elemente; mit <i>k', k'', k''',
+k</i><up>IV</up> u. s. f. die Werthe von <i>k</i>, und mit <i>&03C8;', &03C8;'', &03C8;''', &03C8;</i><up>IV</up> u. s. f.
+die Werthe von <i>&03C8;</i> an diesen Elementen: so übersieht man
+leicht, daß</p>
+<p>I. für den Fall, wo <i>O</i> innerhalb <i>t</i> liegt, die Anzahl jener
+Punkte ungerade, und die Integration <formel> von <i>r</i> = 0
+bis <i>r</i> = <i>r</i>', dann von <i>r</i> = <i>r</i>'' bis <i>r</i> = <i>r</i>''' u. s. f. auszuführen
+sein wird, woraus also, wenn die Dichtigkeit in <i>O</i> mit <i>k</i><up>0</up> be-
+zeichnet wird, hervorgeht
+<et><formel></et></p>
+<p>Da die Winkel <i>&03C8;', &03C8;'', &03C8;''', &03C8;</i><up>IV</up> u. s. f. offenbar abwech-
+selnd spitz und stumpf sind, so wird
+<et><formel></et>
+u. s. f. und folglich
+<c><formel></c>
+indem die Summation auf alle d<i>s</i> ausgedehnt wird, welche dem
+<pb="16"/>
+Element d<i>&03C3;</i> entsprechen. Durch Integration über sämmtliche
+d<i>&03C3;</i> erhält man also
+<et><formel></et>
+wo das Integral über die ganze Oberfläche erstreckt werden
+muß, oder <i>M</i> = 4<i>&03C0;k</i><up>0</up> + <i>N</i>. Es wird folglich
+<et><formel></et>.</p>
+<p>II. Für den Fall, wo <i>O</i> außerhalb <i>t</i> liegt, hat man nur
+diejenigen d<i>&03C3;</i> in Betracht zu ziehen, für welche die durch <i>O</i>
+und einen Punkt von d<i>&03C3;</i> gelegte gerade Linie den Raum <i>t</i> wirk-
+lich trifft; die Anzahl der Punkte <i>O', O'', O'''</i> u. s. f. wird hier
+immer gerade sein, und die Winkel <i>&03C8;', &03C8;'', &03C8;'''</i> u. s. f. abwech-
+selnd stumpf und spitz, also d<i>s</i>' . cos <i>&03C8;</i>' = &2014; <i>r'r'</i>d<i>&03C3;</i>, d<i>s</i>'' . cos <i>&03C8;</i>''
+= + <i>r''r''</i> d<i>&03C3;</i>, d<i>s</i>''' cos <i>&03C8;</i>''' = &2014; <i>r'''r'''</i>d<i>&03C3;</i> u. s. f. Da nun hier
+die Integration <formel>, dann von
+<i>r</i> = <i>r</i>''' bis <i>r</i> = <i>r</i><up>IV</up> u. s. f. ausgeführt werden muß, so ergibt
+sich
+<et><formel></et>
+und nach der zweiten Integration durch alle in Betracht kom-
+menden d<i>&03C3;</i>,
+<c><formel></c>
+folglich, wie ohnehin bekannt ist,
+<c><formel></c>.</p>
+<d1>11.</d1>
+<p>Obgleich in unsrer Beweisführung angenommen ist, daß
+die Dichtigkeit sich in dem <i>ganzen</i> Raum <i>t</i> nach der Stetigkeit
+ändere, so ist doch zur Gültigkeit unsers Resultats diese Be-
+dingung nicht nothwendig, sondern es wird bloß erfordert,
+<pb="17"/>
+daß in dem Punkte <i>O</i> die Dichtigkeit nach allen Seiten zu
+nach der Stetigkeit sich ändere, oder daß <i>O</i> innerhalb eines wenn
+auch noch so kleinen dieser Bedingung Genüge leistenden Rau-
+mes liege. Setzen wir nemlich das Potential der in <i>diesem</i>
+Raume enthaltenen Masse = <i>V</i>', das Potential der übrigen au-
+ßerhalb desselben befindlichen Massen = <i>V</i>'', so wird das ganze
+Potential <i>V</i> = <i>V</i>' + <i>V</i>'', und da nach dem vorhergehenden
+Artikel
+<et><formel></et>
+ist, so wird
+<et><formel></et>
+Fehlt hingegen diese Bedingung in dem Punkte <i>O</i>, und liegt
+also dieser in der Scheidungsfläche zwischen zweien solchen
+Räumen, in welchen, jeden für sich genommen die Dichtigkeit
+nach der Stetigkeit, aber beim Übergange aus dem einen in den
+andern sprungsweise sich ändert, so haben daselbst, allgemein
+zu reden, <formel> jedes zwei verschiedene Werthe, und
+von dem Aggregate jener Größen gilt dasselbe, was am Schlusse
+des 8 Artikels erinnert ist.</p>
+<d1>12.</d1>
+<p>Wir ziehen, wie schon oben bemerkt ist, auch den idea-
+len Fall mit in den Kreis unsrer Untersuchungen, wo An-
+ziehungs- oder Abstoßungskräfte von den Theilen einer <i>Fläche</i>
+ausgehend angenommen werden, und erlauben uns dabei die
+Einkleidung, daß eine wirkende Masse in der Fläche vertheilt
+sei. Unter Dichtigkeit in irgend einem Punkte der Fläche
+verstehen wir in diesem Falle den Quotienten, wenn die in
+einem Elemente der Fläche, welchem der Punkt angehört, ent-
+haltene Masse mit diesem Element dividirt wird. Diese Dich-
+tigkeit kann gleichförmig (in allen Punkten dieselbe) oder un-
+gleichförmig sein, und im letztern Falle entweder in der gan-
+zen Fläche sich nach der Stetigkeit ändern (d. i. so, daß sie
+<bs>2</bs>
+<pb="18"/>
+in je zwei einander unendlich nahen Punkten auch nur un-
+endlich wenig verschieden ist) oder es kann die ganze Fläche
+in zwei oder mehrere Stücke zerfallen, in deren jedem eine
+stetige Änderung Statt findet, während beim Übergange aus
+einem in das andere die Änderung sprungsweise geschieht.
+Übrigens kann auch eine solche Vertheilung gedacht werden,
+wo unbeschadet der Endlichkeit der ganzen Masse, die Dich-
+tigkeit in einzelnen Punkten oder Linien unendlich groß wird.
+Der Fläche selbst, insofern sie nicht eine Ebene ist, wird all-
+gemein zu reden eine stetige Krümmung beigelegt werden, ohne
+darum eine Unterbrechung in einzelnen Punkten (Ecken) oder
+Linien (Kanten) auszuschließen.</p>
+<p>Dieses vorausgesetzt erhält das Potential auch in jedem
+Punkte der Fläche selbst, wo nur die Dichtigkeit nicht unend-
+lich groß ist, einen bestimmten endlichen Werth, von welchem
+der Werth in einem zweiten Punkt, der, in der Fläche oder
+außerhalb, jenem unendlich nahe liegt, nur unendlich wenig
+verschieden sein kann <fn="*)">Von der Endlichkeit des Integrals, welches das Potential ausdrückt,
+überzeugt man sich leicht, indem man die Zerlegung der Fläche in
+Elemente auf ähnliche Weise ausführt, wie im 15 Artikel geschehen
+wird; und zugleich wird daraus ersichtlich, daß die den beiden in
+Rede stehenden Punkten unendlich nahen Theile der Fläche zu dem
+ganzen Integral nur unendlich wenig beitragen, woraus sich das oben
+gesagte leicht beweisen läßt.</fn>, oder mit anderen Worten, in jeder
+Linie, möge sie in der Fläche selbst liegen, oder dieselbe kreu-
+zen, ändert sich das Potential nach der Stetigkeit.</p>
+<d1>13.</d1>
+<p>Bezeichnet man mit <i>k</i> die Dichtigkeit in dem Flächenele-
+ment d<i>s</i>; mit <i>a, b, c</i> die Coordinaten eines demselben angehö-
+renden Punkts; mit <i>r</i> dessen Entfernung von einem Punkte <i>O</i>,
+dessen Coordinaten <i>x, y, z</i> sind, und mit <i>V</i> das Potential der
+in der Fläche enthaltenen Masse in dem Punkte <i>O</i>, so ist <i>V</i>
+= <formel>, durch die ganze Fläche ausgedehnt, endlich mit
+<i>X, Y, Z</i> die eben so verstandenen Integrale
+<pb="19"/>
+<et><formel></et>
+so sind zwar <i>X, Y, Z</i> ganz gleichbedeutend mit <formel>,
+so lange <i>O</i> außerhalb der Fläche liegt, aber genau zu reden
+gilt dieß nicht mehr, wenn <i>O</i> ein Punkt der Fläche selbst ist,
+und die Ungleichheit gestaltet sich verschieden je nach der Be-
+schaffenheit des Winkels, welchen die Normale auf die Fläche
+mit der betreffenden Coordinatenaxe macht. Es ist offenbar
+hinreichend, hier nur das Verhalten in Beziehung auf die erste
+Coordinatenaxe anzugeben.</p>
+<p>I. Ist jener Winkel = 0, so hat in <i>O</i> das Integral <i>X</i> ei-
+nen bestimmten Werth, <formel> hingegen hat zwei verschiedene
+Werthe, je nachdem man d<i>x</i> als positiv oder als negativ be-
+trachtet.</p>
+<p>II. Ist der Winkel ein rechter, so läßt der Ausdruck für
+<i>X</i> eine wahre Integration nicht zu (indem dann eine ähnliche
+Bemerkung gilt, wie im 7 Artikel), während <formel> nur Einen be-
+stimmten Werth hat.</p>
+<p>III. Ist der Winkel spitz, so verhält es sich mit <i>X</i> eben
+so wie im zweiten, und mit <formel> eben so wie im ersten Falle.</p>
+<p>Noch besondre Modificationen treten ein, wenn in <i>O</i> eine
+Unterbrechung der Stetigkeit entweder in Beziehung auf die
+Dichtigkeit oder die Krümmung Statt findet. Für unsern Haupt-
+zweck ist jedoch nicht nothwendig, solche Ausnahmsfälle, die
+nur in einzelnen Linien oder Punkten eintreten können, aus-
+führlich abzuhandeln, und wir werden daher bei der nähern
+Erörterung des Gegenstandes annehmen, daß in dem fraglichen
+Punkte eine bestimmte endliche Dichtigkeit, und eine bestimmte
+Berührungsebene Statt findet.</p>
+<d1>14.</d1>
+<p>Ehe wir die Untersuchung in ihrer Allgemeinheit vor-
+nehmen, wird es nützlich sein, einen einfachen besondern Fall
+zu betrachten. Es sei die Fläche das Stück <i>A</i> einer Kugel-
+<bs>2*</bs>
+<pb="20"/>
+fläche, und die Dichtigkeit darin gleichförmig oder <i>k</i> constant.
+Es sind also <i>V, X</i> die Werthe der Integrale
+<c><formel></c>
+durch <i>A</i> ausgedehnt; bezeichnen wir mit <i>V', X'</i> dieselben In-
+tegrale, wenn sie durch den übrigen Theil der Kugelfläche <i>B</i>,
+und mit <i>V</i><up>0</up>, <i>X</i><up>0</up>, wenn sie durch die ganze Kugelfläche er-
+streckt werden, so wird <i>V</i> = <i>V</i><up>0</up> &2014; <i>V', X</i> = <i>X</i><up>0</up> &2014; <i>X</i>'.
+Wir wollen noch den Halbmesser der Kugel mit <i>R</i> bezeichnen,
+den Anfangspunkt der Coordinaten in den Mittelpunkt der
+Kugel legen, und &221A; (<i>xx</i> + <i>yy</i> + <i>zz</i>) oder den Abstand des
+Punktes <i>O</i> vom Mittelpunkte der Kugel = <i>&03C1;</i> setzen.</p>
+<p>Es ist nun bekannt, daß <i>V</i><up>0</up> = 4<i>&03C0;kR</i> wird, wenn <i>O</i> in-
+nerhalb der Kugel, hingegen <formel>, wenn <i>O</i> außer-
+halb liegt; in der Kugelfläche selbst fallen beide Werthe zu-
+sammen. Der Differentialquotient <formel> wird daher innerhalb
+der Kugel = 0, außerhalb <formel>; auf der Ku-
+gelfläche selbst aber werden beide Werthe zugleich gelten, je
+nach dem Zeichen von d<i>x</i>: gleich sind diese beiden Werthe
+nur dann, wenn <i>x</i> = 0 ist, was dem Falle II des vorherge-
+henden Artikels entspricht.</p>
+<p>Der Ausdruck für <i>X</i><up>0</up>, innerhalb und außerhalb der Ku-
+gel mit <formel> gleichbedeutend, wird auf der Oberfläche ein lee-
+res Zeichen, insofern eine wahre Integration unstatthaft ist,
+den einzigen Fall ausgenommen, wenn für die unendlich nahe
+liegenden Elemente der Fläche <i>a</i> &2014; <i>x</i> ein unendlich kleines
+von einer höhern Ordnung wird als <i>r</i>, nemlich wenn <i>y</i> = 0,
+<i>z</i> = 0, <i>x</i> = &00B1; <i>R</i>, für welchen Fall die Integration <i>X</i><up>0</up> =
+= 2<i>&03C0;k</i> gibt, also mit keinem der Werthe von <formel> überein-
+stimmend, sondern vielmehr mit dem Mittel von beiden: offen-
+bar gehört übrigens dieser Fall zu I im vorhergehenden Artikel.</p>
+<p>Erwägt man nun, daß wenn <i>O</i> ein auf der Oberfläche
+<pb="21"/>
+der Kugel innerhalb <i>A</i> liegender Punkt ist, <i>X</i>' und <formel>
+gleichbedeutend sind und bestimmte nach der Stetigkeit sich
+ändernde Werthe haben, so erhellet, daß das gegenseitige Ver-
+halten zwischen <i>X</i><up>0</up> &2014; <i>X</i>' und <formel>, d. i. zwischen
+<i>X</i> und <formel> ganz dasselbe ist, wie zwischen <i>X</i><up>0</up> und <formel>,
+woraus also die im vorhergehenden Artikel aufgestellten Sätze
+von selbst folgen.</p>
+<d1>15.</d1>
+<p>Für die allgemeinere Untersuchung ist es vortheilhaft, den
+Anfangspunkt der Coordinaten in einen in der Fläche selbst lie-
+genden Punkt <i>P</i> zu setzen, und die erste Coordinatenaxe senk-
+recht gegen die Berührungsebene in <i>P</i> zu legen. Bezeich-
+nen wir mit <i>&03C8;</i> den Winkel zwischen der Normale auf das
+unbestimmte Flächenelement d<i>s</i> und der ersten Coordinatenaxe,
+so ist cos <i>&03C8;</i> . d<i>s</i> die Projection von d<i>s</i> auf die Ebene der <i>b</i> und
+<i>c</i>; und setzen wir &221A; (<i>bb</i> + <i>cc</i>) = <i>&03C1;, b</i> = <i>&03C1;</i> cos <i>&03B8;, c</i> = <i>&03C1;</i> sin <i>&03B8;</i>,
+so wird <i>&03C1;</i> d<i>&03C1;</i> . d <i>&03B8;</i> ein unbestimmtes Element dieser Ebene vor-
+stellen, und das entsprechende Flächenelement d<i>s</i> <formel>
+sein; das darin enthaltene Massenelement wird also = <i>h &03C1;</i> d <i>&03C1;</i> . d <i>&03B8;</i>
+sein, wenn wir zur Abkürzung <i>h</i> für <formel> schreiben.</p>
+<p>Wir wollen nun untersuchen, inwiefern der Werth von
+<i>X</i> sich sprungsweise ändert, indem der Punkt <i>O</i> in der ersten
+Coordinatenaxe von der einen Seite der Fläche auf die andere,
+oder <i>x</i> aus einem negativen Werthe in einen positiven über-
+geht. Für diese Frage ist es offenbar einerlei, ob wir die
+ganze Fläche in Betracht ziehen, oder nur einen beliebig klei-
+nen, den Punkt <i>P</i> einschließenden Theil, da der Beitrag des
+übrigen Theils der Fläche zu dem Werthe von <i>X</i> sich nach
+der Stetigkeit ändert. Es ist daher erlaubt, <i>&03C1;</i> nur von 0 bis
+zu einem beliebig kleinen Grenzwerthe <i>&03C1;</i>' auszudehnen, und
+vorauszusetzen, daß in der so begrenzten Fläche <i>h</i> und <formel> sich
+<pb="22"/>
+überall nach der Stetigkeit ändern. Setzen wir, für jeden be-
+stimmten Werth von <i>&03B8;</i>, den Werth des Integrals <formel>,
+von <i>&03C1;</i> = 0 bis <i>&03C1;</i> = <i>&03C1;</i>' ausgedehnt, = <i>Q</i>, so wird <i>X</i> = <i>&222B;Q</i>d<i>&03B8;</i>,
+wo die Integration von <i>&03B8;</i> = 0, bis <i>&03B8;</i> = 2<i>&03C0;</i> zu erstrecken ist.</p>
+<p>Es kommt nun darauf an, die Werthe von <i>X</i> für <i>x</i> = 0,
+für ein unendliches kleines positives <i>x</i>, und für ein unendlich
+kleines negatives (die beiden andern Coordinaten <i>y, z</i> allemahl
+= 0 angenommen) unter einander zu vergleichen; wir bezeich-
+nen diese drei Werthe von <i>X</i> mit <i>X</i><up>0</up>, <i>X', X''</i>, und die ent-
+sprechenden Werthe von <i>Q</i> mit <i>Q</i><up>0</up>, <i>Q', Q''</i>.</p>
+<p>Da <i>r</i> = &221A; ((<i>a</i> &2014; <i>x</i>)<up>2</up> + <i>&03C1;&03C1;</i>), so erhält man, indem man
+<i>&03B8;</i> als constant betrachtet,
+<formel>
+und folglich <i>Q</i> =
+<formel>.
+wo die beiden Integrationen von <i>&03C1;</i> = 0 bis <i>&03C1;</i> = <i>&03C1;</i>' auszudeh-
+nen, und die Werthe von <i>h, a, r</i> für <i>&03C1;</i> = <i>&03C1;</i>' mit <i>h', a', r'</i>
+bezeichnet sind. Als Constante hat man den Werth von
+<formel> für <i>&03C1;</i> = 0 anzunehmen, welcher wenn man die
+Dichtigkeit in <i>P</i> mit <i>k</i><up>0</up> bezeichnet, = &2014; <i>k</i><up>0</up> wird für ein po-
+sitives <i>x</i>, und = + <i>k</i><up>0</up> für ein negatives, indem für <i>&03C1;</i> = 0
+offenbar <i>a</i> = 0, <i>&03C8;</i> = 0, <i>h</i> = <i>k</i><up>0</up>, <i>x</i> = &00B1; <i>r</i> wird. Für den
+Fall <i>x</i> = 0 hingegen hat man als Constante den Grenzwerth
+von <formel> bei unendlich abnehmendem <i>&03C1;</i> anzunehmen, welcher
+= 0 ist, weil <i>a</i> ein Unendlichkleines von einer höhern Ord-
+nung wird als <i>r</i>.</p>
+<p>Der Werth des Integrals <formel>. d<i>&03C1;</i> bleibt bis auf
+einen unendlich kleinen Unterschied derselbe, man möge <i>x</i> = 0,
+oder unendlich klein = &00B1; <i>&03B5;</i> setzen. Zerlegt man nemlich
+jenes Integral in
+<pb="23"/>
+<et><formel></et>
+so ist klar, daß das Behauptete für den ersten Theil gilt,
+wenn <i>&03B4;</i> unendlich klein, und für den zweiten, wenn <formel> unend-
+lich groß ist, also für das Ganze, wenn <i>&03B4;</i> ein Unendlichkleines
+von einer niedrigern Ordnung als <i>&03B5;</i>.</p>
+<p>Ein ähnlicher Schluß gilt auch in Beziehung auf das In-
+tegral <formel>, wenn die Punkte der Fläche, welche
+dem bestimmten Werthe von <i>&03B8;</i> entsprechen, eine Curve bilden,
+die in <i>P</i> eine meßbare Krümmung hat, so daß <formel> in dem hier
+betrachteten Raume einen endlichen nach der Stetigkeit sich
+ändernden Werth erhält. Bezeichnet man nemlich diesen Werth
+mit <i>A</i>, so wird
+<et><formel></et>
+mithin zerlegt sich jenes Integral in folgende zwei
+<et><formel></et>
+bei welchen beiden die Gültigkeit obiger Schlußweise von
+selbst klar ist.</p>
+<p>Endlich sind auch offenbar die Werthe von <formel> für
+alle drei Werthe von <i>x</i> bis auf unendlich kleine Unterschiede
+gleich.</p>
+<p>Hieraus folgt also, dass <i>Q</i>' + <i>k</i><up>0</up>, <i>Q</i><up>0</up>, <i>Q''</i> &2014; <i>k</i><up>0</up> bis auf
+unendlich kleine Unterschiede gleich sind, und dasselbe wird
+demnach auch von <i>&222B;</i> (<i>Q</i>' + <i>k</i><up>0</up>)d<i>&03B8;, &222B;Q</i><up>0</up>d<i>&03B8;, &222B;</i> (<i>Q</i>'' &2014; <i>k</i><up>0</up>) d<i>&03B8;</i>
+gelten, oder von den Grössen <i>X</i>' + 2<i>&03C0;k</i><up>0</up>, <i>X</i><up>0</up>, <i>X</i>'' &2014; 2<i>&03C0;k</i><up>0</up>.</p>
+<p>Man kann diesen wichtigen Satz auch so ausdrücken: der
+Grenzwerth von <i>X</i>, bei unendlich abnehmendem positiven <i>x</i> ist
+<i>X</i><up>0</up> &2014; 2<i>&03C0;k</i><up>0</up>, bei unendlich abnehmenden negativen <i>x</i> hingegen
+<i>X</i><up>0</up> + 2<i>&03C0;k</i><up>0</up>, oder <i>X</i> ändert sich zweimahl sprungsweise um
+&2014; 2<i>&03C0;k</i><up>0</up>, indem <i>x</i> aus einem negativen Werthe in einen po-
+sitiven übergeht, das erstemahl, indem <i>x</i> den Werth 0 erreicht,
+und das zweitemahl, indem es ihn überschreitet.</p>
+<pb="24"/>
+<d1>16.</d1>
+<p>In der Beweisführung des vorhergehenden Artikels ist
+zwar vorausgesetzt, dass die Schnitte der Fläche mit den durch
+die erste Coordinatenaxe gelegten Ebenen in <i>P</i> eine meßbare
+Krümmung haben: allein unser Resultat bleibt auch noch gül-
+tig, wenn die Krümmung in <i>P</i> unendlich groß ist, einen ein-
+zigen Fall ausgenommen. Daß <formel> für ein unendlich kleines
+<i>&03C1;</i> selbst unendlich klein werden müsse, bringt schon die Vor-
+aussetzung des Vorhandenseins einer bestimmten Berührungs-
+ebene an der Fläche in <i>P</i> mit sich; allein von einerlei Ord-
+nung sind beide Größen nur dann, wenn ein endlicher Krüm-
+mungshalbmesser Statt findet; bei einem unendlich kleinen
+Krümmungshalbmesser hingegen wird <formel> von einer niedrigern
+Ordnung sein als <i>&03C1;</i>. Wir werden nun zeigen, daß unsre Re-
+sultate auch im letztern Falle ihre Gültigkeit behalten, wenn
+nur die Ordnungen beider Größen <i>vergleichbar</i> sind.</p>
+<p>Nehmen wir also an, <formel> sei von derselben Ordnung wie
+<i>&03C1;<up>&03BC;</up></i>, wo <i>&03BC;</i> einen endlichen positiven Exponenten bedeutet, also
+<formel> eine endliche in dem in Rede stehenden Raume nach
+der Stetigkeit sich ändernde Größe, die wir mit <i>B</i> bezeichnen
+wollen. Es zerfällt also das Integral <formel> in die
+beiden folgenden
+<et><formel></et>
+Auf das zweite Integral lassen sich die Schlüsse des vorher-
+gehenden Artikels unmittelbar anwenden, auf das erste hinge-
+gen nach einer leichten Umformung. Setzt man nemlich <formel>
+oder <i>&03C1;</i> = <i>&03C3;<up>m</up></i>, so wird jenes Integral
+<c><formel></c>
+<pb="25"/>
+Auch dieses Integral hat nun offenbar so lange nur einen un-
+endlich kleinen Werth, als die Integration nur von 0 bis zu
+einem unendlich kleinen Werthe von <i>&03C3;</i> ausgedehnt wird; für
+jeden endlichen Werth von <i>&03C3;</i> hingegen erhält der Coefficient
+von d<i>&03C3;</i> bis auf einen unendlich kleinen Unterschied einerlei
+Werth, man möge <i>x</i> = 0 oder unendlich klein annehmen.
+Dies gilt also auch von dem ganzen Integral, wenn es von
+<i>&03C3;</i> = 0 bis <formel> ausgedehnt wird.</p>
+<p>Nur in einen einzigen Falle verlieren unsre Schlüsse ihre
+Gültigkeit, wenn nemlich <formel> mit keiner Potenz von <i>&03C1;</i> mehr
+zu einerlei Ordnung gehört, wie z. B. wenn <formel> von derselben
+Ordnung wäre, wie <formel>. In diesem Falle würde <i>Q</i> bei
+unendlicher Annäherung des Punktes <i>O</i> zur Fläche über alle
+Grenzen wachsen, und dasselbe würde auch für <i>X</i> gelten, wenn
+ein solches Verhalten nicht bloß für einen oder einige Werthe
+von <i>&03B8;</i>, sondern für alle Statt fände. Es ist jedoch unnöthig,
+dieß hier weiter zu entwickeln, da wir diesen singulären Fall
+von unsrer Untersuchung ohne Nachtheil ganz ausschließen
+können.</p>
+<d1>17.</d1>
+<p>Wir wollen nun unter denselben Voraussetzungen und
+Bezeichnungen wie im 15 Artikel, die Größe <i>Y</i> betrachten,
+wovon <formel> ein unbestimmtes Element ist. Da
+<et><formel>, und folglich</et>
+<et><formel></et>
+insofern <i>c</i> als constant betrachtet wird, so gibt die erste Inte-
+gration in diesem Sinne,
+<et><formel></et>
+<pb="26"/>
+wo die Integrationen sich vom kleinsten zum größten Werthe
+von <i>b,</i> für jeden bestimmten Werth von <i>c</i> erstrecken, und mit
+<i>h*, r*, h**, r**</i> die jenen Grenzwerthen entsprechenden Werthe
+von <i>h</i> und <i>r</i> bezeichnet sind. Schreiben wir zur Abkürzung
+<et><formel></et>
+so wird
+<c><formel></c>
+wo die Integration in Beziehung auf <i>c</i> vom kleinsten Werthe,
+welchen diese Coordinate in der Fläche hat, bis zum größten
+ausgedehnt werden muß. In dem doppelten Integrale stellt
+d <i>b</i> . d <i>c</i> die Projection eines unbestimmten Elements der Fläche
+auf die Ebene der <i>b, c</i> vor, und es kann mithin auch <i>&03C1;</i> d <i>&03C1;</i> . d <i>&03B8;</i>
+dafür geschrieben werden: sonach wird
+<c><formel></c>
+wo in dem Doppelintegral von <i>&03C1;</i> = <i>o</i> bis <i>&03C1;</i> = <i>&03C1;'</i> und von
+<i>&03B8; = o</i> bis <i>&03B8;</i> = 2 <i>&03C0;</i> integrirt werden muß. Durch ähnliche
+Schlüsse, wie im 15. Artikel, erkennt man nun leicht, daß
+dieser Ausdruck bis auf unendlich kleine Unterschiede gleiche
+Werthe erhält, man möge <i>x = o</i> oder unendlich klein anneh-
+men, oder mit andern Worten, der Werth von <i>Y</i> hat bei po-
+sitiven und bei negativen unendlich abnehmenden Werthen
+von <i>x</i> eine und dieselbe Grenze, und diese Grenze ist nichts
+anderes, als der Werth obiger Formel, wenn man darin <i>x = o</i>
+setzt. Wir wollen nach der Analogie diesen Werth mit <i>Y</i><up>0</up>
+bezeichnen, wobei jedoch bemerkt werden muß, daß man
+nicht sagen darf, es sei dieß <k>der</k> Werth von <formel> für
+<i>x = o</i> (insofern dieser Ausdruck für <i>x = o</i> eine wahre Inte-
+gration nicht zuläßt), sondern nur, es sei <k>ein</k> Werth jenes In-
+tegrals, nemlich derjenige, welcher hervorgeht, wenn man in
+der oben befolgten Ordnung integrirt.</p>
+<p>Übrigens bedarf dieses Resultat (auf ähnliche Weise wie
+oben Art. 16) einer Einschränkung in dem singulären Falle,
+wo in dem Punkte <i>P</i> unendlich kleine Krümmungshalbmesser
+Statt finden, imgleichen, wenn in diesem Punkte <formel> unendlich
+<pb="27"/>
+groß wird: für unsern Zweck ist es jedoch unnöthig, solche
+Ausnahmsfälle, die nur in einzelnen Punkten oder Linien vor-
+kommen können (also nicht in Theilen der Fläche, sondern nur
+an der Grenze von Theilen) besonders zu betrachten.</p>
+<p>Endlich ist von selbst klar, daß es sich mit der Größe <i>Z</i>
+oder dem Integrale <formel> ganz eben so verhält, wie mit
+<i>Y,</i> nemlich daß dieses Integral, wenn der Punkt <i>O</i> sich in
+der ersten Coordinatenaxe dem Punkte <i>P</i> unendlich nähert, einer-
+lei Grenzwerth <i>Z</i><up>0</up> hat, die Annäherung mag auf der positiven
+oder auf der negativen Seite Statt finden, und daß dieser
+Grenzwerth zugleich der Werth von <formel> für
+<i>x = o</i> ist, insofern man zuerst nach <i>c</i> integrirt.</p>
+<d1>18.</d1>
+<p>Erwägen wir nun, daß die Größen <formel> in
+allen Punkten des Raums, die nicht in der Fläche selbst lie-
+gen, unbedingt einerlei sind mit <i>X, Y, Z,</i> und daß <i>V</i> sich
+überall nach der Stetigkeit ändert, so läßt sich aus den in
+dem vorhergehenden Artikel gefundenen Resultaten leicht fol-
+gern, daß in unendlich kleiner Entfernung von <i>P,</i> oder für
+unendlich kleine Werthe von <i>x, y, z,</i> der Werth von <i>V</i> bis
+auf unendlich kleine Größen höherer Ordnung genau, ausge-
+drückt wird durch
+<c><formel></c>
+wenn <i>x</i> positiv ist, oder durch
+<c><formel></c>
+wenn <i>x</i> negativ ist, wo mit <i>V</i><up>0</up> der Werth von <i>V</i> in dem
+Punkte <i>P</i> selbst, oder für <i>x = o, y = o, z = o</i> bezeichnet ist.
+Betrachten wir also die Werthe von <i>V</i> in einer durch <i>P</i> ge-
+legten geraden Linie, die mit den drei Coordinaxen die Win-
+kel <i>A, B, C</i> macht, bezeichnen mit <i>t</i> ein unbestimmtes Stück
+dieser Linie und mit <i>t</i><up>0</up> den Werth von <i>t</i> in dem Punkte <i>P,</i>
+so wird, wenn <i>t &2014; t</i><up>0</up> unendlich klein ist, bis auf ein Unend-
+lichkleines höherer Ordnung genau
+<formel>
+<pb="28"/>
+das obere Zeichen für positive, das untere für negative Werthe
+von (<i>t &2014; t</i><up>0</up>) cos <i>A</i> geltend, oder es hat <formel> in dem Punkte <i>P</i>
+für ein spitzes <i>A</i> zwei verschiedene Werthe, nemlich
+<et><i>X</i><up>0</up> cos <i>A + Y</i><up>0</up> cos <i>B + Z</i><up>0</up> cos <i>C</i> &2014; 2 <i>&03C0; k</i><up>0</up> cos <i>A</i> und
+<i>X</i><up>0</up> cos <i>A + Y</i><up>0</up> cos <i>B + Z</i><up>0</up> cos <i>C</i> + 2 <i>&03C0; k</i><up>0</up> cos <i>A</i></et>
+je nachdem d <i>t</i> als positiv oder als negativ betrachtet wird.
+Für den Fall, wo <i>A</i> ein rechter Winkel ist, also die gerade
+Linie die Fläche nur berührt, fallen beide Ausdrücke zusam-
+men, und es wird
+<c><formel></c></p>
+<hr>
+<p>Die bisher vorgetragenen Sätze sind zwar ihrem wesent-
+lichen Inhalte nach nicht neu, durften aber des Zusammen-
+hanges wegen als nothwendige Vorbereitungen zu den nachfol-
+genden Untersuchungen nicht übergangen werden, in welchen
+eine Reihe neuer Lehrsätze entwickelt werden wird.</p>
+<d1>19.</d1>
+<p>Es sei <i>V</i> das Potential eines Systems von Massen <i>M', M'',
+M''' &2026;,</i> die sich in dem Punkte <i>P', P'', P'''</i> &2026; befinden;
+<i>v</i> das Potential eines zweiten Systems von Massen <i>m', m'', m'''</i> &2026;,
+die in den Punkten <i>p', p'', p'''</i> &2026; angenommen werden: ferner
+seien <i>V', V'', V'''</i> &2026; die Werthe von <i>V</i> in den letztern
+Punkten, und <i>v', v'', v'''</i> &2026; die Werthe von <i>v</i> in den Punkten,
+<i>P', P'', P'''</i> &2026; Man hat dann die Gleichung
+<i>M' v' + M'' v'' + M''' v'''</i> + u.s.f. = <i>m' V' + m'' V'' + m''' V'''</i> + u.s.f.
+die auch durch <i>&03A3;Mv = &03A3;mV</i> ausgedrückt wird, wenn unbestimmt
+<i>M</i> jede Masse des ersten, <i>m</i> jede Masse des zweiten Systems
+vorstellt. In der That ist sowohl <i>&03A3;Mv</i> als <i>&03A3;mV</i> nichts an-
+deres, als das Aggregat aller Combinationen <formel>, wenn <i>&03C1;</i> die
+gegenseitige Entfernung der Punkte bezeichnet, in welchen sich
+die betreffenden Massen <i>M, m</i> befinden.</p>
+<p>Befinden sich die Massen des einen Systems, oder beider,
+<pb="29"/>
+nicht in discreten Punkten, sondern auf Linien, Flächen oder
+körperliche Räume nach der Stetigkeit vertheilt, so behält obige
+Gleichung ihre Gültigkeit, wenn man anstatt der Summe das
+entprechende Integral substituirt.</p>
+<p>Ist also z. B. das zweite Massensystem in einer Fläche so
+vertheilt, daß auf das Flächenelement d <i>s</i> die Masse <i>k</i> d <i>s</i> kommt,
+so wird <i>&03A3; M v = &222B; k V</i> d <i>s,</i> oder wenn ähnliches auch von dem
+ersten System gilt, so daß das Flächenelement d <i>S</i> die Masse
+<i>K</i> d <i>S</i> enthält, wird <i>&222B; K v</i> d <i>S = &222B; k V</i> d <i>s.</i> Es ist von Wichtigkeit,
+in Beziehung auf letztern Fall zu bemerken, daß diese Glei-
+chung noch gültig bleibt, wenn beide Flächen coincidiren; der
+Kürze wegen wollen wir aber die Art, wie diese Erweiterung
+des Satzes strenge gerechtfertigt werden kann, hier jetzt nur
+nach ihren Hauptmomenten andeuten. Es ist nemlich nicht
+schwer nachzuweisen, daß diese beiden Integrale, insofern sie
+sich auf Eine und dieselbe Fläche beziehen, die Grenzwerthe
+von denen sind, die sich auf zwei getrennte Flächen beziehen,
+indem man die Entfernung derselben von einander unendlich
+abnehmen läßt, zu welchem Zweck man nur diese beiden
+Flächen gleich und parallel anzunehmen braucht. Unmittelbar
+einleuchtend ist zwar diese Beweisart nur in sofern, als die
+vorgegebene Fläche so beschaffen ist, daß die Normalen in al-
+len ihren Punkten mit Einer geraden Linie spitze Winkel
+machen. Eine Fläche, wo diese Bedingung fehlt (wie allemahl,
+wenn von einer geschlossenen Fläche die Rede ist), wird zu-
+vor in zwei oder mehrere Theile zu zerlegen sein, die einzeln
+jener Bedingung Genüge leisten, wodurch es leicht wird, die-
+sen Fall auf den vorigen zurückzuführen.</p>
+<d1>20.</d1>
+<p>Wenden wir das Theorem des vorhergehenden Artikels auf
+den Fall an, wo das zweite Massensystem mit gleichförmiger
+Dichtigkeit <i>k</i> = 1 auf eine Kugelfläche vertheilt ist, deren
+Halbmesser = <i>R,</i> so ist das daraus entspringende Potential <i>v</i>
+im Innern der Kugel constant = 4 <i>&03C0; R</i>; in jedem Punkte au-
+ßerhalb der Kugel, dessen Entfernung vom Mittelpunkte = <i>r,</i>
+wird <i>v</i> = <formel>, oder eben so groß, wie im Mittelpunkte das
+<pb="30"/>
+Potential von einer in jenem Punkte angenommenen Masse 4 <i>&03C0; R R</i>;
+auf der Oberfläche der Kugel fallen beide Werthe von <i>v</i> zusammen.
+Befindet sich also das erste Massensystem ganz im Innern der
+Kugel, so wird <i>&03A3; M v</i> äqual dem Producte der Gesammtmasse
+dieses Systems in 4 <i>&03C0; R</i>; ist aber jenes Massensystem ganz au-
+ßerhalb der Kugel, so wird <i>&03A3; M v</i> äqual dem Producte des
+Potentials dieser Masse im Mittelpunkte der Kugel in 4 <i>&03C0; R R</i>;
+ist endlich das erste Massensystem auf der Oberfläche der Ku-
+gel nach der Stetigkeit vertheilt, so sind für <i>&222B; K v</i> d <i>S</i> beide
+Ausdrücke gleichgültig. Es folgt hieraus der</p>
+<p><i>LEHRSATZ.</i> Bedeutet <i>V</i> das Potential einer wie immer ver-
+theilten Masse in dem Elemente einer mit dem Halbmesser <i>R</i>
+beschriebene Kugelfläche d <i>s,</i> so wird, durch die ganze Kugel-
+fläche integrirt,
+<c><i>&222B; V</i> d <i>s</i> = 4 <i>&03C0;</i> (<i>R M</i><up>0</up> + <i>R R V</i><up>0</up>)</c>
+wenn man mit <i>M</i><up>0</up> die ganze im Innern der Kugel befindliche
+Masse, mit <i>V</i><up>0</up> das Potential der außerhalb befindlichen Masse
+im Mittelpunkt der Kugel bezeichnet, und dabei die Massen,
+die etwa auf der Oberfläche der Kugel stetig vertheilt sein
+mögen, nach Belieben den äußern oder innern Massen zuordnet.</p>
+<d1>21.</d1>
+<p><i>LEHRSATZ.</i> Das Potential <i>V</i> von Massen, die sämmtlich
+außerhalb eines zusammenhängenden Raumes liegen, kann nicht
+in einem Theile dieses Raumes einen constanten Werth und
+zugleich in einem andern Theile desselben einen verschiedenen
+Werth haben.</p>
+<p><g>Beweis</g>. Nehmen wir an, es sei in jedem Punkte des
+Raums <i>A</i> das Potential constant = <i>a,</i> und in jedem Punkte
+eines andern an <i>A</i> grenzenden keine Masse enthaltenden Raumes
+<i>B</i> (algebraisch) größer als <i>a.</i> Man construire eine Kugel, wo-
+von ein Theil in <i>B,</i> der übrige Theil aber nebst dem Mittel-
+punkte in <i>A</i> enthalten ist, welche Construction allemahl mög-
+lich sein wird. Ist nun <i>R</i> der Halbmesser dieser Kugel, und
+d <i>s</i> ein unbestimmtes Element ihrer Oberfläche, so ist nach
+dem Lehrsatze des vorigen Artikels <i>&222B; V</i> d <i>s</i> = 4 <i>&03C0; R R a,</i> und
+<i>&222B;</i>(<i>V &2014; a</i>) d <i>s = o,</i> was unmöglich ist, da für den Theil der
+Oberfläche, welcher in <i>A</i> liegt, <i>V &2014; a = o,</i> und für den übri-
+<pb="31"/>
+gen Theil der Voraussetzung zu Folge nicht = <i>o,</i> sondern
+positiv ist.</p>
+<p>Auf ganz ähnliche Weise erhellet die Unmöglichkeit, daß
+in allen Punkten eines an <i>A</i> grenzenden Raumes <i>V</i> kleiner
+sei, als <i>a.</i></p>
+<p>Offenbar müßte aber wenigstens einer dieser beiden Fälle
+Statt finden, wenn unser Theorem falsch wäre.</p>
+<p>Dieser Lehrsatz enthält folgende zwei Sätze:</p>
+<p>I. Wenn der die Massen enthaltende Raum schalenförmig
+einen massenleeren Raum umschließt, und das Potential in
+einem Theile dieses Raumes einen constanten Werth hat, so gilt
+dieser für alle Punkte des ganzen eingeschlossenen Raumes.</p>
+<p>II. Wenn das Potential der in einen endlichen Raum
+eingeschlossenen Massen in irgend einem Theile des äußern
+Raumes einen constanten Werth hat, so gilt dieser für den
+ganzen unendlichen äußern Raum.</p>
+<p>Zugleich erhellet leicht, daß in diesem zweiten Fall der
+constante Werth des Potentials kein anderer als 0 sein kann.
+Denn wenn man mit <i>M</i> das Aggregat aller Massen falls sie
+sämmtlich einerlei Zeichen haben, oder im entgegengesetzten
+Fall das Aggregat der positiven oder der negativen Massen
+allein, je nachdem jene oder diese überwiegen, bezeichnet, so
+ist das Potential in einem Punkte, dessen Entfernung von dem
+nächsten Massenelemente = <i>r</i> ist, jedenfalls absolut genommen
+kleiner als <formel>, welcher Bruch offenbar im äußern Raume
+kleiner als jede angebliche Größe werden kann.</p>
+<d1>22.</d1>
+<p><i>LEHRSATZ.</i> Ist d <i>s</i> das Element einer einen zusammen-
+hängenden endlichen Raum begrenzenden Fläche, <i>P</i> die Kraft
+welche irgendwie vertheilte Massen in d <i>s</i> in der auf die Fläche
+normalen Richtung ausüben, wobei eine nach innen oder nach
+außen gerichtete Kraft als positiv betrachtet wird, je nachdem
+anziehende oder abstoßende Massen als positiv gelten: so wird
+das Integral <i>&222B; P</i> d <i>s</i> über die ganze Fläche ausgedehnt = 4 <i>&03C0; M</i>
++ 2 <i>&03C0; M',</i> wenn <i>M</i> das Aggregat der im Innern des Raumes
+befindlichen, <i>M'</i> das der auf der Oberfläche nach der Stetigkeit
+vertheilten bedeuten.</p>
+<pb="32"/>
+<p><g>Beweis</g>. Bezeichnet man mit <i>U</i> d <i>&03BC;</i> denjenigen Theil von
+<i>P,</i> welcher von dem Massenelemente d <i>&03BC;</i> herrührt, mit <i>r</i> die
+Entfernung des Elements d <i>&03BC;</i> von d <i>s</i>, und mit <i>u</i> den Winkel,
+welchen in d <i>s</i> die nach Innen gerichtete Normale mit <i>r</i> macht,
+so ist <i>U</i> = <formel>. Es ist aber in Beziehung auf jedes bestimmte
+d <i>&03BC;,</i> vermöge eines in der <i>Theoria Attractionis corporum sphaeroi-
+dicorum ellipticorum</i> Art. 6 bewiesenen Lehrsatzes <formel>. d <i>s
+= o,</i> 2 <i>&03C0;</i> oder 4 <i>&03C0;,</i> jenachdem d <i>&03BC;</i> außerhalb des durch
+die Fläche begrenzten Raumes, in der Fläche selbst, oder in-
+nerhalb jenes Raumes liegt. Da nun <i>&222B; P</i> d <i>s</i> dem Gesammtbe-
+trage aller d <i>&03BC; . &222B; U</i> d <i>s</i> gleichkommt, so ergibt sich hieraus un-
+ser Theorem von selbst.</p>
+<p>In Beziehung auf den hier benutzten Hülfssatz muß noch
+bemerkt werden, daß derselbe, in der Gestalt wie er a. a. O.
+ausgesprochen ist, für einen speciellen Fall einer Modification
+bedarf. Es bedeutet nemlich <i>r</i> die Entfernung eines <i>gegebenen
+Punktes</i> von dem Elemente d <i>s</i>, und für den Fall, wo dieser
+Punkt in der Fläche selbst liegt, ist die Formel <formel>. d <i>s</i>
+= 2 <i>&03C0;</i> nur insofern richtig, als die Stetigkeit der Krümmung
+der Fläche in dem Punkte nicht verletzt wird. Eine solche
+Verletzung findet aber Statt, wenn der Punkt in einer Kante
+oder Ecke liegt, und dann muß anstatt 2 <i>&03C0;</i> der Inhalt derje-
+nigen Figur gesetzt werden, welche durch die sämmtlichen
+von da ausgehenden die Fläche tangirenden geraden Linien aus
+einer um den Punkt als Mittelpunkt mit dem Halbmesser 1 be-
+schriebenen Kugelfläche ausgeschieden wird. Da jedoch solche
+Ausnahmsfälle nur Linien oder Punkte, also nicht <i>Theile</i> der Flä-
+che, sondern nur Scheidungsgrenzen zwischen Theilen betreffen,
+so hat dieß offenbar auf die von dem Hülfssatze hier gemachte
+Anwendung gar keinen Einfluß.</p>
+<d1>23.</d1>
+<p>Wir legen durch jeden Punkt der Fläche eine Normale,
+und bezeichnen mit <i>p</i> die Entfernung eines unbestimmten Punktes
+derselben von dem in die Fläche selbst gesetzten Anfangspunkte,
+<pb="33"/>
+auf der innern Seite der Fläche als positiv betrachtet. Das
+Potential der Massen <i>V</i> kann als Function von <i>p</i> und zweien
+andern veränderlichen Größen betrachtet werden, die auf ir-
+gendwelche Art die einzelnen Punkte der Fläche von einander
+unterscheiden, und eben so verhält es sich mit dem partiellen
+Differentialquotienten <formel>, dessen Werth hier aber nur für die
+in die Fläche selbst fallenden Punkte, oder für <i>p</i> = 0 in Be-
+tracht gezogen werden soll. Da dieser mit <i>P</i> völlig gleichbe-
+deutend ist, wenn Massen sich nur in dem innern Raume, oder
+in dem äußern, oder in beiden befinden, keine Masse aber auf
+die Fläche selbst vertheilt ist, so hat man in diesem Falle
+<c><formel>.</c></p>
+<p>In dem Falle hingegen, wo die ganze Masse bloss auf der
+Fläche selbst vertheilt ist, so daß das Element d <i>s</i> die Masse
+<i>k</i> d <i>s</i> erthält, bleiben <formel> und <i>P</i> nicht mehr gleichbedeutend;
+letztere Größe stellt hier offenbar in Beziehung auf <i>p</i> dasselbe
+vor, was <i>X</i><up>0</up> in Beziehung auf <i>x</i> im 15. Artikel; <formel> hingegen
+hat zwei verschiedene Werthe, nemlich <i>P</i> &2014; 2 <i>&03C0; k</i> und <i>P</i> + 2 <i>&03C0; k,</i>
+jenachdem d <i>p</i> als positiv oder als negativ betrachtet wird. Da
+nun <i>&222B; k</i> d <i>s</i> offenbar der ganzen auf die Fläche vertheilten Masse
+<i>M'</i> gleich, und gemäß dem Lehrsatze des vorhergehenden Ar-
+tikels <i>&222B; P</i> d <i>s</i> = 2 <i>&03C0; M'</i> wird, so hat man
+<et><formel></et>
+jenachdem für <formel> der auf der innern, oder auf der äußern
+Seite der Fläche geltende Werth überall verstanden wird, und
+es verhält sich also mit dem Integrale <formel> · d <i>s</i> im erstern
+Falle genau eben so, als wenn die Masse <i>M'</i> zum äußern
+Raume, im zweiten, als ob sie zum innern Raume gehörte.</p>
+<p>Es gilt daher, bei irgendwie vertheilten Massen, die Glei-
+chung <formel> · d <i>s</i> = 4 <i>&03C0; M</i> allgemein, in dem Sinne daß <i>M</i>
+<bs>3</bs>
+<pb="34"/>
+die im innern Raume enthaltene Masse bedeutet, wohlverstan-
+den, daß, wenn auch auf der Oberfläche selbst stetig vertheilte
+Massen sich befinden, diese den innern zugerechnet, oder da-
+von ausgeschlossen werden müssen, jenachdem man für <formel>
+den auf die Außenseite oder auf die Innenseite sich beziehen-
+den Werth gewählt hat.</p>
+<p>Sind demnach im Innern des Raumes gar keine Massen
+enthalten, so ist, wenn jedenfalls unter <formel> der auf die In-
+nenseite sich beziehende Werth verstanden wird, <formel> · d <i>s</i> = 0.</p>
+<d1>24.</d1>
+<p>Unter denselben Voraussetzungen, wie am Schluß des
+vorhergehenden Artikels, und indem wir den in Rede stehen-
+den Raum mit <i>T,</i> und die in dem Elemente desselben d<i>T</i> durch
+die außerhalb des Raumes oder auch nach der Stetigkeit in
+der Oberfläche vertheilten Massen entspringende ganze Kraft
+mit <i>q</i> bezeichnen, haben wir folgenden wichtigen</p>
+<p><i>LEHRSATZ.</i> Es ist
+<c><formel></c>
+wenn das erste Integral über die ganze Fläche, das zweite
+durch den ganzen Raum <i>T</i> ausgedehnt wird.</p>
+<p><g>Beweis</g>. Indem wir rechtwinklige Coordinaten <i>x, y, z</i>
+einführen, betrachten wir zuvörderst eine der Axe der <i>x</i> pa-
+rallele den Raum <i>T</i> schneidende gerade Linie, wo also <i>y, z</i>
+constante Werthe haben. Aus der identischen Gleichung
+<c><formel></c>
+folgt, daß das Integral
+<c><formel></c>
+durch dasjenige Stück jener geraden Linie ausgedehnt, welches
+innerhalb <i>T</i> fällt, der Differenz der beiden Werthe von <i>V</i> <formel>
+<pb="35"/>
+am Anfangs- und Endpunkte gleich wird, insofern die gerade
+Linie die Grenzfläche nur zweimahl schneidet, oder allgemein
+= <i>&03A3; &03B5; V</i> <formel>, indem für <i>V</i> <formel> die einzelnen Werthe in den
+verschiedenen Durchschnittspunkten gesetzt werden, und <i>&03B5;</i> in den
+ungeraden Durchschnittspunkten (dem ersten, dritten u.s.f.) = &2014; 1,
+in den geraden = + 1. Betrachten wir ferner längs dieser geraden
+Linie den prismatischen Raum, wovon das Rechteck d<i>y</i> . d<i>z</i> ein
+Querschnitt, also d <i>x</i> . d<i>y</i> . d<i>z</i> ein Element ist, so wird das Integral
+<c><formel></c>
+ausgedehnt durch denjenigen Theil von <i>T,</i> welcher in jenen
+prismatischen Raum fällt, = <i>&03A3; &03B5; V</i> <formel> · d<i>y</i> . d<i>z.</i> Dieses Prisma
+scheidet aus der Grenzfläche zwei, oder allgemein eine gerade
+Anzahl von Stücken aus, und wenn jedes derselben mit d <i>s</i>
+bezeichnet wird, mit <i>&03BE;</i> hingegen der Winkel zwischen der Axe
+der <i>x</i> und der nach innen gerichteten Normale auf d <i>s</i>, so ist
+d<i>y</i> . d<i>z</i> = &00B1; cos <i>&03BE;</i> . d <i>s</i>, das obere Zeichen für die ungeraden,
+das untere für die geraden Durchschnittspunkte genommen.
+Es wird folglich das obige Integral
+<c><formel></c>
+wo die Summation sich auf sämmtliche betreffende Flächen-
+elemente bezieht. Wird nun der ganze Raum <i>T</i> in lauter
+solche prismatische Elemente zerlegt, so werden auch die sämmt-
+lichen correspondirenden Theile der Fläche diese ganz er-
+schöpfen, und mithin
+<formel>
+sein, indem die erste Integration durch den ganzen Raum <i>T,</i>
+die zweite über die ganze Fläche erstreckt wird. Offenbar ist
+nun cos <i>&03BE;</i> gleich dem partiellen Differentialquotienten <formel>, in-
+dem <i>p</i> die im Art. 23 festgelegte Bedeutung hat, und <i>x</i> als
+Function von <i>p</i> und zwei andern veränderlichen die einzelnen
+Punkte der Fläche von einander unterscheidenden Größen be-
+trachtet werden kann, folglich
+<bs>2*</bs>
+<pb="36"/>
+<formel>
+Es ist übrigens von selbst klar, daß in dem Falle, wo die
+Fläche selbst Massen enthält, und also <formel> zwei verschiedene
+Werthe hat, hier immer der auf den innern Raum sich bezie-
+hende zu verstehen ist.</p>
+<p>Durch ganz ähnliche Schlüsse findet man
+<formel></p>
+<p>Addirt man nun diese drei Gleichungen zusammen, und
+erwägt, daß im Raume <i>T</i>
+<et><formel></et>
+und an der Grenzfläche
+<et><formel></et>
+so erhält man <formel>, welches unser
+Lehrsatz selbst ist, der unter Zuziehung des letzten Satzes
+des vorhergehenden Artikels noch allgemeiner sich so aus-
+drücken läßt
+<c><formel></c>
+wenn <i>A</i> eine beliebige constante Größe bedeutet.</p>
+<d1>25.</d1>
+<p><i>LEHRSATZ.</i> Wenn unter denselben Voraussetzungen,
+wie im vorhergehenden Artikel, das Potential <i>V</i> in allen
+Punkten der Grenzfläche des Raumes <i>T</i> einerlei Werth hat,
+so gilt dieser Werth auch für sämmtliche Punkte des Raumes
+<pb="37"/>
+selbst, und es findet in dem ganzen Raume eine vollständige
+Destruction der Kräfte Statt.</p>
+<p><g>Beweis</g>. Wenn in dem erweiterten Lehrsatze des vor-
+hergehenden Artikels für <i>A</i> der constante Grenzwerth des Po-
+tentials angenommen wird, so erhellet, daß <i>&222B; q q</i> d <i>T</i> = 0 wird,
+also nothwendig <i>q</i> = 0 in jedem Punkte des Raumes <i>T,</i> mithin
+auch <formel> = 0, <formel> = 0, <formel> = 0, und folglich <i>V</i> im gan-
+zen Raume <i>T</i> constant.</p>
+<d1>26.</d1>
+<p><i>LEHRSATZ.</i> Wenn von Massen, welche sich bloß inner-
+halb des endlichen Raumes <i>T,</i> oder auch, ganz oder theil-
+weise nach der Stetigkeit vertheilt auf dessen Oberfläche <i>S</i> be-
+finden, das Potential in allen Punkten von <i>S</i> einen constanten
+Werth = <i>A</i> hat, so wird das Potential in jedem Punkte <i>O</i>
+des äußern unendlichen Raumes <i>T'</i>
+erstlich, wenn <i>A</i> = 0 ist, gleichfalls = 0,
+zweitens, wenn <i>A</i> nicht = 0 ist, kleiner als <i>A</i> und mit dem-
+selben Zeichen wie <i>A</i> behaftet sein.</p>
+<p><g>Beweis</g>. I. Zuvörderst soll bewiesen werden, daß das
+Potential in <i>O</i> keinen außerhalb der Grenzen 0 und <i>A</i> fallen-
+den Werth haben kann. Nehmen wir an, es finde in <i>O</i> ein
+solcher Werth <i>B</i> für das Potential Statt, und bezeichnen mit <i>C</i>
+eine beliebige zugleich zwischen <i>B</i> und 0 und zwischen <i>B</i> und
+<i>A</i> fallende Größe. Indem man von <i>O</i> nach allen Richtun-
+gen gerade Linien ausgehen läßt, wird es auf jeder derselben
+einen Punkt <i>O'</i> geben, in welchem das Potential = <i>C</i> wird,
+und zwar so, daß die ganze Linie <i>O O'</i> dem Raume <i>T'</i> ange-
+hört. Dieß folgt unmittelbar aus der Stetigkeit der Änderung
+des Potentials, welches, wenn die gerade Linie hinlänglich
+fortgesetzt wird, entweder von <i>B</i> in <i>A</i> übergeht, oder unend-
+lich abnimmt, jenachdem die gerade Linie die Fläche <i>S</i> trifft,
+oder nicht (vergl. die Bemerkung am Schlusse des 21. Arti-
+kels). Der Inbegriff aller Punkte <i>O'</i> bildet dann eine geschlos-
+sene Fläche, und da das Potential in derselben constant = <i>C</i>
+ist, so muß es nach dem Lehrsatze des vorhergehenden Arti-
+kels denselben Werth in allen Punkten des von dieser Fläche
+<pb="38"/>
+eingeschlossenen Raumes haben, da es doch in <i>O</i> den von <i>C</i>
+verschiedenen Werth <i>B</i> hat. Die Voraussetzung führt also
+nothwendig auf einen Widerspruch.</p>
+<p>Für den Fall <i>A</i> = 0 ist hiedurch unser Lehrsatz vollstän-
+dig bewiesen; für den zweiten Fall, wo <i>A</i> nicht = 0 ist, so-
+weit, daß erhellet, das Potential könne in keinem Punkte von
+<i>T'</i> größer als <i>A,</i> oder mit entgegengesetztem Zeichen behaftet sein.</p>
+<p>II. Um für den zweiten Fall unsern Beweis vollständig
+zu machen, beschreiben wir um <i>O</i> als Mittelpunkt mit einem
+Halbmesser <i>R,</i> der kleiner ist als die kleinste Entfernung des
+Punkts <i>O</i> von <i>S,</i> eine Kugelfläche, zerlegen sie in Elemente
+d <i>s,</i> und bezeichnen das Potential in jedem Elemente mit <i>V</i>;
+das Potential in <i>O</i> soll wieder mit <i>B</i> bezeichnet werden. Nach
+dem Lehrsatze des 20. Artikels wird dann das über die ganze
+Kugelfläche ausgedehnte Integral
+<c><i>&222B; V</i> d <i>s</i> = 4 <i>&03C0; R R B,</i> und folglich <i>&222B;</i> (<i>V &2014; B</i>) d <i>s</i> = 0.</c>
+Diese Gleichheit kann aber nur bestehen, wenn <i>V</i> entweder
+in allen Punkten der Kugelfläche constant = <i>B,</i> oder wenn <i>V</i>
+in verschiedenen Theilen der Kugelfläche in entgegengesetztem
+Sinne von <i>B</i> verschieden ist. In der ersten Voraussetzung
+würde nach Art. 25 das Potential im ganzen innern Raume der
+Kugel und daher nach Art. 21 im ganzen unendlichen Raume
+<i>T'</i> constant, und zwar = 0 sein müssen, im Widerspruche
+mit der Voraussetzung, daß es an der Grenze dieses Raumes,
+auf der Fläche <i>S,</i> von 0 verschieden ist, und der Unmöglichkeit,
+daß es sich von da ab sprungsweise ändere. Die zweite Vor-
+aussetzung hingegen würde mit dem unter I. bewiesenen im
+Widerspruch stehen, wenn <i>B</i> entweder = 0 oder = <i>A</i> wäre.
+Es muß daher nothwendig <i>B zwischen</i> 0 und <i>A</i> fallen.</p>
+<d1>27.</d1>
+<p><i>LEHRSATZ.</i> In dem Lehrsatze des vorhergehenden Arti-
+kels kann der erste Fall, oder der Werth 0 des constanten
+Potentials <i>A,</i> nur dann Statt finden, wenn die Summe aller
+Massen selbst = 0 ist, und der zweite nur dann, wenn diese
+Summe nicht = 0 ist.</p>
+<p><g>Beweis</g>. Es sei d <i>s</i> das Element der Oberfläche irgend
+einer den Raum <i>T</i> einschließenden Kugel, <i>R</i> ihr Halbmesser,
+<pb="39"/>
+<i>M</i> die Summe aller Massen und <i>V</i> deren Potential in d <i>s.</i> Da
+nach dem Lehrsatze des 20. Artikels das Integral <i>&222B; V</i> d <i>s</i> = 4<i>&03C0; RM</i>
+wird, im ersten Falle oder für <i>A</i> = 0 aber nach dem vorher-
+gehenden Lehrsatze das Potential <i>V</i> in allen Punkten der Ku-
+gelfläche = 0 wird, im zweiten hingegen kleiner als <i>A</i> und
+mit demselben Zeichen behaftet, so wird im ersten Fall 4<i>&03C0; R M</i>
+= 0, also <i>M</i> = 0, im zweiten hingegen 4 <i>&03C0; R M</i> und also auch
+<i>M</i> mit demselben Zeichen behaftet sein müssen wie <i>A.</i> Zu-
+gleich erhellet, daß in diesem zweiten Falle 4 <i>&03C0; R M</i> kleiner
+sein wird, als <i>&222B; A</i> d <i>s</i> oder 4 <i>&03C0; R R A,</i> mithin <i>M</i> kleiner als <i>R A,</i>
+oder <i>A</i> größer als <formel>.</p>
+<p>Der zweite Theil dieses Lehrsatzes, in Verbindung mit
+dem Lehrsatze des vorhergehenden Artikels kann offenbar
+auch auf folgende Art ausgesprochen werden:</p>
+<p>Wenn von Massen, die in einem von einer geschlossenen
+Fläche begrenzten Raume enthalten, oder auch theilweise in
+der Fläche selbst stetig vertheilt sind, die algebraische Summe
+= 0 ist, und ihr Potential in allen Punkten der Fläche einen
+constanten Werth hat, so wird dieser Werth nothwendig selbst
+= 0 sein, zugleich für den ganzen unendlichen äußern Raum
+gelten, und folglich in diesem ganzen äußern Raume die Wir-
+kung der Kräfte aus jenen Massen sich vollständig destruiren.</p>
+<d1>28.</d1>
+<p>Man wird sich leicht überzeugen, daß sämmtliche Schlüsse
+der beiden vorhergehendem Artikel ihre Gültigkeit behalten,
+wenn <i>S</i> eine nicht geschlossene Fläche ist, und die Massen
+bloß in derselben enthalten sind. Hier fällt der Raum <i>T</i> ganz
+weg; alle Punkte, die nicht in der Fläche selbst liegen, ge-
+hören dem unendlichen äußern Raume an, und wenn das Po-
+tential in der Fläche überall den constanten von 0 verschiede-
+nen Werth <i>A</i> hat, wird es außerhalb derselben überall einen
+kleinern Werth haben, der dasselbe Zeichen hat.</p>
+<p>Das auf den ersten Fall, <i>A</i> = 0, bezügliche bleibt zwar
+auch hier wahr, aber inhaltleer, da in diesem Fall das Po-
+tential <i>V</i> in allen Punkten des Raumes = 0 wird, mithin auch
+<pb="40"/>
+überall <formel> = 0, wenn <i>t</i> irgend eine gerade Linie bedeutet,
+woraus man leicht nach Art. 18 schließt, daß die Dichtigkeit
+in der Fläche überall = 0 sein muß, also die Fläche gar keine
+Massen enthalten kann.</p>
+<p>Diese letztere Bemerkung gilt übrigens allgemein, wenn
+die Massen bloß in der Fläche selbst enthalten sein sollen,
+auch wenn sie eine geschlossene ist, da offenbar nach dem
+Lehrsatz des 25. Artikels der Werth des Potentials in diesem
+Fall auch in dem ganzen innern Raume = 0 sein wird.</p>
+<d1>29.</d1>
+<p>Ehe wir zu den folgenden Untersuchungen fortschreiten,
+in denen Massen, nach der Stetigkeit in eine Fläche vertheilt,
+eine Hauptrolle spielen, muß eine wesentliche bei der Verthei-
+lung Statt findende Verschiedenheit hervorgehoben werden,
+indem nemlich entweder nur Massen von einerlei Zeichen (die
+wir der Kürze wegen immer als positiv betrachten werden)
+zugelassen werden, oder auch Massen von entgegengesetzten
+Zeichen. Ist eine Masse <i>M</i> auf einer Fläche so vertheilt, daß
+auf jedes Element der Fläche d <i>s</i> die Masse <i>m</i> d <i>s</i> kommt, wo
+also nach unserm bisherigen Gebrauche <i>m</i> die Dichtigkeit ge-
+nannt, und <i>&222B; m</i> d <i>s</i> über die ganze Fläche ausgedehnt = <i>M</i>
+wird, so nennen wir dies eine <i>gleichartige</i> Vertheilung, wenn
+<i>m</i> überall positiv, oder wenigstens nirgends negativ ist; wenn
+hingegen in einigen Stellen <i>m</i> positiv, in andern negativ ist, so
+soll die Vertheilung eine <i>ungleichartige</i> Vertheilung heißen, wobei
+also <i>M</i> nur die algebraische Summe der Massentheile, oder der
+absolute Unterschied der positiven und der negativen Massen
+ist. Ein ganz specieller Fall ungleichartiger Vertheilung ist
+der, wo <i>M</i> = 0 wird, und wo es freilich anstößig scheinen
+mag, sich des Ausdrucks, die Masse 0 sei über die Fläche
+vertheilt, noch zu bedienen.</p>
+<d1>30.</d1>
+<p>Es ist von selbst klar, daß, wie auch immer eine Masse
+<i>M</i> über eine Fläche <i>gleichartig</i> vertheilt sein möge, das daraus
+<pb="41"/>
+entspringende überall positive Potential <i>V</i> in jedem Punkte
+der Fläche größer sein wird, als <formel>, wenn <i>r</i> die größte Ent-
+fernung zweier Punkte der Fläche von einander bedeutet:
+diesen Werth selbst könnte das Potential nur in einem End-
+punkte der Linie <i>r</i> haben, wenn die ganze Masse in dem an-
+dern Endpunkte concentrirt wäre, ein Fall, der hier gar nicht
+in Frage kommt, indem nur von stetiger Vertheilung die Rede
+sein soll, wo jedem Elemente der Fläche d <i>s</i> nur eine unend-
+lich kleine Masse <i>m</i> d <i>s</i> entspricht. Das Integral <i>&222B; V m</i> d <i>s</i> über
+die ganze Fläche ausgedehnt, ist also jedenfalls größer als
+<formel> <i>m</i> d <i>s</i> oder <formel>, und so muß es nothwendig eine gleich-
+artige Vertheilungsart geben, für welche jenes Integral einen
+Minimumwerth hat. Es mag nun hier im Voraus als eines der
+Ziele der folgenden Unsersuchungen bezeichnet werden, zu be-
+weisen, daß bei einer solchen Vertheilung, wo <i>&222B; V m</i> d <i>s</i> sei-
+nen Minimumwerth erhält, das Potential <i>V</i> in jedem Punkte
+der Fläche einerlei Werth haben wird, daß dabei keine Theile
+der Fläche leer bleiben können, und daß es nur eine einzige
+solche Vertheilung gibt. Der Kürze wegen wollen wir aber
+die Untersuchung schon von Anfang an in einer weiter um-
+fassenden Gestalt ausführen.</p>
+<d1>31.</d1>
+<p>Es bedeute <i>U</i> eine Größe, die in jedem Punkte der Fläche
+einen bestimmten endlichen nach der Stetigkeit sich ändernden
+Werth hat. Es wird dann das Integral
+<c><formel></c>
+über die ganze Fläche ausgedehnt, zwar nach Verschiedenheit
+der gleichartigen Vertheilung der Masse <i>M,</i> sehr ungleiche
+Werthe haben können; allein offenbar muß für Eine solche
+Vertheilungsart ein Minimumwerth dieses Integrals Statt finden.
+Es soll nun ein Beweis gegeben werden für den</p>
+<p><i>LEHRSATZ,</i> daß bei solcher Vertheilungsart</p>
+<p>1. die Differenz <i>V &2014; U = W</i> überall in der Fläch<i>e,</i> wo
+sie wirklich mit Theilen von <i>M</i> belegt ist, einen constanten
+Werth haben wird;</p>
+<pb="42"/>
+<p>2. daß, falls Theile der Fläche dabei unbelegt bleiben,
+<i>W</i> in denselben größer sein muß, oder wenigstens nicht klei-
+ner sein kann, als jener constante Werth.</p>
+<p>I. Zuvörderst soll bewiesen werden, dass wenn anstatt
+einer Vertheilungsweise eine andere unendlich wenig davon
+verschiedene angenommen wird, indem <i>m + &03BC;</i> an die Stelle
+von <i>m</i> gesetzt wird, die daraus entspringende Variation von <i>&03A9;</i>
+durch 2 <i>&222B; W &03BC;</i> d <i>s</i> ausgedrückt werden wird.</p>
+<p>In der That ist, wenn wir die Variationen von <i>&03A9;</i> und <i>V</i>
+mit <i>&03B4;&03A9;</i> und <i>&03B4;V</i> bezeichnen,
+<c><formel></c>
+Allein zugleich ist <formel>, wie leicht aus dem
+Lehrsatze des 19 Artikels erhellet, indem <i>&03B4;V</i> nichts anders ist,
+als das Potential derjenigen Massenvertheilung, wobei <i>&03BC;</i> die
+Dichtigkeit in jedem Flächenelemente vorstellt, und also was
+hier <i>V, m, &03B4;V, &03BC;</i> ist, dort für <i>V, K, v, k</i> angenommen werden
+kann, so wie d <i>s</i> zugleich für d <i>S</i> und d <i>s.</i> Es wird folglich
+<c><formel>.</c></p>
+<p>II. Offenbar sind die Variationen <i>&03BC;</i> allgemein an die Be-
+dingung geknüpft, daß <i>&222B; &03BC;</i> d <i>s</i> = 0 werden muß; für die ge-
+genwärtige Untersuchung aber auch noch an die zweite, daß
+<i>&03BC;</i> in den unbelegten Theilen der Fläche, wenn solche vorhan-
+den sind, nicht negativ sein darf, weil sonst die Vertheilung
+aufhören würde, eine gleichartige zu sein.</p>
+<p>III. Nehmen wir nun an, daß bei einer bestimmten Ver-
+theilung von <i>M</i> ungleiche Werthe der Größe <i>W</i> in den ver-
+schiedenen Theilen der Fläche Statt finden. Es sei <i>A</i> eine
+Größe, die zwischen den ungleichen Werthen von <i>W</i> liegt;
+<i>P</i> das Stück der Fläche, wo die Werthe von <i>W</i> größer, <i>Q</i>
+dasjenige, wo sie kleiner sind, als <i>A</i>; es seien ferner <i>p, q</i> gleich
+große Stücke der Fläche, jenes zu <i>P,</i> dieses zu <i>Q</i> gehörig.
+Dies vorausgesetzt, legen wir der Variation von <i>m</i> überall in
+<i>p</i> den constanten negativen Werth <i>&03BC; = &2014; &03BD;,</i> in <i>q</i> hingegen
+überall den positiven <i>&03BC; = &03BD;,</i> und in allen übrigen Theilen
+der Fläche den Werth 0 bei. Offenbar wird hiedurch der er-
+sten Bedingung in II Genüge geleistet; die zweite hingegen
+wird noch erfordern, daß <i>p</i> keine unbelegte Theile enthalte,
+<pb="43"/>
+was immer bewirkt werden kann, wenn nur nicht das ganze
+Stück <i>P</i> unbelegt ist.</p>
+<p>Der Erfolg hievon wird aber sein, daß <i>&03B4; &03A9;</i> einen negati-
+ven Werth erhält, wie man leicht sieht, wenn man diese Va-
+riation in die Form 2<i>&222B;</i>(<i>W &2014; A</i>) <i>&03BC;</i> d <i>s</i> setzt.</p>
+<p>Es erhellet hieraus, daß wenn bei einer gegebenen Ver-
+theilung entweder in dem belegten Stücke der Fläche un-
+gleiche Werthe von <i>W</i> vorkommen, oder wenn, bei Statt fin-
+dender Gleichheit der Werthe in dem belegten Stücke, kleinere
+in dem nichtbelegten Theile angetroffen werden, durch eine
+abgeänderte Vertheilung eine Verminderung von <i>&03A9;</i> erreicht
+werden kann, und daß folglich bei dem Minimumwerthe noth-
+wendig die in obigem Lehrsatze ausgesprochenen Bedingungen
+erfüllt sein müssen.</p>
+<d1>32.</d1>
+<p>Wenn wir jetzt für unsern speciellern Fall (Art. 30), wo
+<i>U</i> = 0 ist, also <i>W</i> das bloße Potential der auf die Fläche
+vertheilten Masse, und <i>&03A9;</i> das Integral <i>&222B; V m</i> d <i>s</i> bedeutet, mit
+dem Lehrsatze des vorhergehenden Artikels den im 28 Artikel
+angeführten verbinden, so folgt von selbst, daß bei dem Mini-
+mumwerth von <i>&222B; V m</i> d <i>s</i> die Fläche gar keine unbelegte Theile
+haben kann; denn sonst würde, auch wenn die ganze Fläche
+eine geschlossene ist, der belegte Theil eine ungeschlossene und
+hinsichtlich derselben der unbelegte Theil als dem äußern
+Raume angehörig zu betrachten sein, mithin darin nach Art. 28 das
+Potential einen kleinern Werth haben müssen als in der beleg-
+ten Fläche, während der Lehrsatz des vorhergehenden Artikels
+einen kleinern Werth ausschließt.</p>
+<p>Es ist also erwiesen, daß es eine gleichartige Vertheilung
+einer gegebenen Masse über die ganze Fläche gibt, wobei kein
+Theil leer bleibt, und woraus ein in allen Punkten der Fläche
+gleiches Potential hervorgeht. Was zum vollständigen Beweise
+des im 30 Artikel aufgestellten Lehrsatzes jetzt noch fehlt,
+nemlich, die Nachweisung, daß es nur Eine dies leistende Ver-
+theilungsart geben kann, wird weiter unten als Theil eines all-
+gemeineren Lehrsatzes erscheinen.</p>
+<p>Daß, wenn der Minimumwerth für <i>&222B; V m</i> d <i>s</i> Statt finden
+<pb="44"/>
+soll, kein Theil der Fläche unbelegt bleiben darf, kann offen-
+bar auch so ausgedrückt werden: Bei jeder Vertheilung, wobei
+ein endliches Stück der Fläche leer bleibt, erhält das Integral
+<i>&222B; V m</i> d <i>s</i> einen Werth, der den Minimumwerth um eine endliche
+Differenz übertrifft.</p>
+<d1>33.</d1>
+<p>Der eigentliche Hauptnerv der im 31 Artikel entwickelten
+Beweisführung beruhet auf der Evidenz, mit welcher die Exi-
+stenz eines Minimumwerths für <i>&03A9;</i> unmittelbar erkannt wird,
+solange man sich auf die gleichartigen Vertheilungen einer ge-
+gebenen Masse beschränkt. Fände eine gleiche Evidenz auch
+ohne diese Beschränkung Statt, so würden die dortigen Schlüsse
+ohne weiteres zu dem Resultate führen, <i>daß es allemahl, wenn
+nicht eine gleichartige, doch eine ungleichartige Vertheilung der gege-
+benen Masse gibt, für welche W = V &2014; U in allen Punkten der
+Fläche einen constanten Werth erhält,</i> indem dann die zweite Be-
+dingung (Art. 31. II) wegfällt. Allein da jene Evidenz verlo-
+ren geht, sobald wir die Beschränkung auf gleichartige Verthei-
+lungen fallen lassen, so sind wir genöthigt, den strengen Be-
+weis jenes wichtigsten Satzes unserer ganzen Untersuchung auf
+einem etwas künstlichern Wege zu suchen. Der folgende
+scheint am einfachsten zum Ziele zu führen.</p>
+<p>Wir betrachten zunächst drei verschiedene Massenverthei-
+lungen, bei welchen wir anstatt der unbestimmten Zeichen für
+Dichtigkeit <i>m</i> und Potential <i>V</i> folgende besondere gebrauchen:</p>
+<li>I. <i>m = m</i><up>0</up>, <i>V = V</i><up>0</up></li>
+<li>II. <i>m = m', V = V'</i></li>
+<li>III. <i>m = &03BC;, V = v</i></li>
+<p>Die Vertheilung I ist diejenige gleichartige der positiven Masse
+<i>M,</i> für welche <i>&222B; V m</i> d <i>s</i> seinen Minimumwerth erhält.</p>
+<p>II ist die gleichartige Vertheilung derselben Masse <i>M,</i> für
+welche <i>&222B;</i>(<i>V</i> &2014; 2<i>&03B5; U</i>) <i>m</i> d <i>s</i> seinen Minimumwerth erhält, wo <i>&03B5;</i> ei-
+nen beliebigen constanten Coefficienten bedeutet.</p>
+<p>III hängt so von I und II ab, daß <i>&03BC;</i> = <formel>, und
+ist also eine ungleichartige Vertheilung, in welcher die Ge-
+sammtmasse = 0 wird.</p>
+<pb="45"/>
+<p>Es ist nun nach dem im 31 Artikel bewiesenen constant
+<i>V</i><up>0</up> in der ganzen Fläche; <i>V' &2014; &03B5; U</i> in der Fläche, so weit
+sie bei der zweiten Vertheilung belegt ist, und daher in dem-
+selben Stücke der Fläche auch <i>v &2014; U,</i> weil <i>v</i> = <formel>.</p>
+<p>Ob in der zweiten Vertheilung die ganze Fläche belegt
+ist, oder ob ein größeres oder kleineres Stück unbelegt bleibt,
+wird von dem Coefficienten <i>&03B5;</i> abhangen. Da die zweite Ver-
+theilung in die erste übergeht, wenn <i>&03B5;</i> = 0 wird, so wird all-
+gemein zu reden das für einen bestimmten Werth von <i>&03B5;</i> unbe-
+legt gebliebene Stück der Fläche sich verengern, wenn <i>&03B5;</i> ab-
+nimmt, und sich schon ganz füllen, ehe <i>&03B5;</i> den Werth 0 er-
+reicht hat. In singulären Fällen aber kann es sich auch so
+verhalten, daß immer ein Stück unbelegt bleibt, so lange <i>&03B5;</i> von
+0 verschieden ist und nicht das entgegengesetzte Zeichen an-
+nimmt. Für unsern Zweck ist es zureichend, <i>&03B5;</i> unendlich klein
+anzunehmen, wo sich leicht nachweisen läßt, daß jedenfalls
+kein endliches Flächenstück unbelegt bleiben kann. Denn im
+entgegengesetzten Falle würde nach der Schlußbemerkung des
+Art. 32 das Integral <i>&222B; V' m'</i> d <i>s</i> um einen endlichen Unterschied
+größer sein müssen als <i>&222B; V</i><up>0</up> <i>m</i><up>0</up> d <i>s</i>: wird dieser Unterschied mit
+<i>e</i> bezeichnet, so ist der Unterschied der beiden Integrale
+<i>&222B;</i>(<i>V'</i> &2014; 2<i>&03B5;U</i>) <i>m'</i> d <i>s</i> &2014; <i>&222B;</i>(<i>V</i><up>0</up> &2014; 2<i>&03B5;U</i>) <i>m</i><up>0</up> d <i>s = e</i> &2014; 2<i>&03B5;&222B;U</i>(<i>m' &2014; m</i><up>0</up>) d <i>s</i>
+welcher für ein unendlichkleines <i>&03B5;</i> einen positiven Werth be-
+hält, im Widerspruch mit der Voraussetzung, daß <i>&222B;</i>(<i>V</i> &2014; 2<i>&03B5;U</i>)<i>m</i> d <i>s</i>
+in der zweiten Vertheilung seinen Minimumwerth hat.</p>
+<p>Man schließt hieraus, daß wenn man in der dritteu Ver-
+theilung für <i>&03BC;</i> den Grenzwerth von <formel>, bei unendli-
+cher Abnahme von <i>&03B5;,</i> annimmt, <i>v &2014; U</i> in der ganzen Fläche
+einen constanten Werth hat.</p>
+<p>Bilden wir nun eine vierte Vertheilung, wobei <i>m = m</i><up>0</up> + <i>&03BC;</i>
+gesetzt wird, die ganze Masse also = <i>M</i> bleibt, so wird das
+daraus entspringende Potential = <i>V</i><up>0</up> + <i>v</i> sein, mithin in
+der ganzen Fläche die Größe <i>U</i> um die constante Differenz
+<i>V</i><up>0</up> + <i>v &2014; U</i> übertreffen, wodurch also der oben ausgesprochene
+Lehrsatz erwiesen ist.</p>
+<pb="46"/>
+<d1>34.</d1>
+<p>Es bleibt noch übrig, zu beweisen, daß nur Eine Ver-
+theilungsart einer gegebenen Masse <i>M</i> möglich ist, bei welcher
+<i>V &2014; U</i> in der ganzen Fläche constant ist. In der That, gäbe
+es zwei verschiedene dieß leistende Vertheilungsarten, so würde,
+wenn man <i>m</i> und <i>V</i> in der ersten mit <i>m', V',</i> in der zweiten
+mit <i>m'', V''</i> bezeichnet, von einer dritten Massenvertheilung,
+in welcher <i>m = m' &2014; m''</i> angenommen wird, das Potential
+= <i>V' &2014; V''</i> und folglich constant sein, und die Gesammt-
+masse = 0. Das constante Potential müßte daher nach Art.
+27 nothwendig = 0 sein, und folglich nach Art. 28 auch
+<i>m' &2014; m''</i> = 0, oder die beiden Vertheilungen identisch.</p>
+<p>Endlich muss noch erwähnt werden, daß es immer eine
+Massenvertheilung gibt, wobei die Differenz <i>V &2014; U</i> einen <i>ge-
+gebenen</i> constanten Werth erhält. Bedeutet nemlich <i>&03B1;</i> einen
+beliebigen constanten Coefficienten, so wird indem wir die Be-
+zeichnungen für die erste und dritte Vertheilung im vorherge-
+henden Artikel beibehalten, das Potential derjenigen Verthei-
+lung, wobei <i>m = &03B1; m</i><up>0</up> + <i>&03BC;</i> angenommen wird, = <i>&03B1;V</i><up>0</up> + <i>v</i>
+sein, und dem constanten Unterschiede <i>&03B1;V</i><up>0</up> + <i>v &2014; U</i> durch
+gehörige Bestimmung des Coefficienten <i>&03B1;</i> jeder beliebige Werth
+ertheilt werden können. Die Gesammtmasse dieser Vertheilung
+ist dann aber nicht mehr willkührlich, sondern = <i>&03B1; M.</i> Übri-
+gens erhellet auf dieselbe Art wie vorhin, daß auch diese Ver-
+theilungsbedingung nur auf eine einzige Art erfüllt werden kann.</p>
+<d1>35.</d1>
+<p>Die wirkliche Bestimmung der Vertheilung der Masse auf
+einer gegebenen Fläche für jede vorgeschriebene Form von <i>U</i>
+übersteigt in den meisten Fällen die Kräfte der Analyse in ih-
+rem gegenwärtigen Zustande. Der einfachste Fall, wo sie in
+unsrer Gewalt ist, ist der einer ganzen Kugelfläche; wir wollen
+jedoch sofort den allgemeinern behandeln, wo die Fläche von
+der Kugelfläche sehr wenig abweicht, und Größen von höhe-
+rer Ordnung, als die Abweichung selbst, vernachlässigt werden
+dürfen.</p>
+<p>Es sei <i>R</i> der Halbmesser der Kugel, <i>r</i> die Entfernung je-
+<pb="47"/>
+des Punktes im Raume von ihrem Mittelpunkte, <i>u</i> der Winkel
+zwischen <i>r</i> und einer festen geraden Linie, <i>&03BB;</i> der Winkel zwi-
+schen der durch diese gerade Linie und <i>r</i> gelegten Ebene und
+einer festen Ebene. Der Abstand eines unbestimmten Punktes
+in der gegebenen geschlossenen Fläche vom Mittelpunkte der
+Kugel sei = <i>R</i>(1 + <i>&03B3; z</i>), wo <i>&03B3;</i> ein constanter sehr kleiner
+Factor ist, dessen höhere Potenzen vernachlässigt werden, <i>z</i>
+hingegen eben so wie <i>U</i> Functionen von <i>u</i> und <i>&03BB;.</i></p>
+<p>Das Potential <i>V</i> der auf die Kugelfläche vertheilten Masse
+wird in jedem Punkte des äußern Raumes durch eine nach
+Potenzen von <i>r</i> fallende Reihe ausgedrückt werden, welcher
+wir die Form geben
+<c><formel></c>
+in jedem Punkte des innern Raumes hingegen durch die stei-
+gende Reihe
+<c><formel></c>
+Die Coefficienten <i>A</i><up>0</up>, <i>A', A''</i> u. s. f. sind Functionen von <i>u</i> und
+<i>&03BB;,</i> welche bekannten partiellen Differentialgleichungen Genüge
+leisten (S. Resultate 1838 S. 22.), und eben so <i>B</i><up>0</up>, <i>B', B''</i>
+u. s. f. Auf der vorgegebenen Fläche soll nun das Potential
+einer gegebenen Function von <i>u</i> und <i>&03BB;</i> gleich werden, nemlich
+<i>V = U,</i> also
+<c><formel></c>
+Nehmen wir also an, daß (1 + <i>&03B3; z</i>)<up>&frac12;</up> <i>U</i> in eine Reihe
+<c><i>P</i><up>0</up> + <i>P' + P'' + P'''</i> + u. s. w.</c>
+entwickelt sei, dergestalt, daß die einzelnen Glieder <i>P</i><up>0</up>, <i>P',
+P'', P'''</i> u. s. f. gleichfalls den gedachten Differentialgleichungen
+Genüge leisten, und erwägen, daß die beiden obigen Reihen
+für das Potential bis zur Fläche selbst gültig bleiben müssen,
+so erhellet, daß
+<c><formel></c>
+sein wird. Wir schließen hieraus, daß, wenn man Größen
+<pb="48"/>
+der Ordnung <i>&03B3;</i> vernachlässigt, <i>P</i><up>0</up> + <i>P' + P''</i> + u. s. f.
+= <i>A</i><up>0</up> + <i>A' + A''</i> + u. s. f. und also (da eine Function von
+<i>u, &03BB;</i> nur auf Eine Art in eine Reihe entwickelt werden kann,
+deren Glieder den erwähnten Differentialgleichungen Genüge
+leisten) <i>P</i><up>0</up> = <i>A</i><up>0</up>, <i>P' = A', P'' = A''</i> u. s. f. Eben so wird,
+Größen der Ordnung <i>&03B3;</i> vernachlässigt, <i>P</i><up>0</up> = <i>B</i><up>0</up>, <i>P' = B',
+P'' = B''</i> u. s. f.</p>
+<p>Setzt man also (I)
+<c><formel></c>
+u. s. f.
+wo offenbar auch <i>a</i><up>0</up>, <i>a', a'', a'''</i> u. s. f., imgleichen <i>b</i><up>0</up>, <i>b', b'',
+b'''</i> u. s. f. den erwähnten Differentialgleichungen Genüge lei-
+sten werden, und substituirt diese Werthe in den obigen Glei-
+chungen, indem man dabei Größen von der Ordnung <i>&03B3;&03B3;</i> vernach-
+lässigt, so wird, nachdem mit <i>&03B3;</i> dividirt ist, bis auf Fehler von
+der Ordnung <i>&03B3;</i> genau
+<formel>
+Es ist also bis auf Fehler der Ordnung <i>&03B3;</i> genau,
+<c><formel></c>
+und folglich, bis auf Fehler der Ordnung <i>&03B3; &03B3;</i> genau, (II)
+<c><formel></c></p>
+<p>Der Differentialquotient <formel> hat in der Fläche selbst zwei
+verschiedene Werthe, und der auf ein negatives d <i>r</i> oder auf
+die innere Seite sich beziehende übertrifft den auf der äußern
+Seite geltenden um 4 <i>&03C0; m</i> cos <i>&03B8;,</i> wenn <i>m</i> die Dichtigkeit an der
+Durchschnittsstelle und <i>&03B8;</i> den Winkel zwischen <i>r</i> und der
+Normale bezeichnet (Art. 13, wo <i>t, A, k</i><up>0</up> dasselbe bedeuten
+was hier <i>r, &03B8;, m</i> sind). Man findet diese beiden Werthe,
+wenn man die beiden im innern und äußern Raume geltenden
+Ausdrücke für <i>V</i> nach <i>r</i> differentiirt, und dann <i>r = R</i> (1 + <i>&03B3; z</i>)
+setzt. Es ist also der erste =
+<pb="49"/>
+<et><formel></et>
+und der zweite
+<formel></p>
+<p>Wir haben also, wenn wir die Differenz mit <i>R</i> (1 + <i>&03B3; z</i>)<up>3/2</up>
+multipliciren, 4 <i>&03C0; m R</i> cos <i>&03B8;</i> . (1 + <i>&03B3; z</i>)<up>3/2</up> =
+<formel>
+Substituiren wir hierin statt <i>A</i><up>0</up>, <i>A'</i> u. s. f. die Werthe aus
+I, und statt <i>B</i><up>0</up>, <i>B'</i> u. s. w. die Werthe aus II, und lassen weg,
+was von der Ordnung <i>&03B3; &03B3;</i> ist, so erhalten wir
+<formel>
+folglich, da die beiden letzten Reihen bis auf Größen der Ord-
+nung <i>&03B3; &03B3;</i> einander destruiren,
+<formel>
+womit die Aufgabe gelöset ist. Anstatt (1 + <i>&03B3; z</i>)<up>&2014; 3/2</up> kann man
+auch schreiben 1 &2014; 3/2 <i>&03B3; z,</i> und den Divisor cos <i>&03B8;</i> weglassen, in-
+sofern, wenigstens allgemein zu reden, <i>&03B8;</i> von der Ordnung <i>&03B3;,</i>
+und also cos <i>&03B8;</i> von 1 nur um eine Größe der Ordnung <i>&03B3; &03B3;</i>
+verschieden ist.</p>
+<p>Für den Fall einer Kugel, wo <i>&03B3;</i> = 0, hat man in aller
+Schärfe
+<c><formel></c>
+indem <i>P</i><up>0</up> + <i>P' + P'' + P'''</i> + u. s. f. die Entwicklung
+von <i>U</i> selbst vorstellt.</p>
+<d1>36.</d1>
+<p>Die Größe <i>U</i> ist in den bisherigen Untersuchungen unbe-
+stimmt gelassen: die Anwendung derselben auf den Fall, wo
+für <i>U</i> das Potential eines gegebenen Massensystems angenom-
+men wird, bahnt uns nun den Weg zu folgendem wichtigen</p>
+<bs>4</bs>
+<pb="50"/>
+<p><i>LEHRSATZ.</i> Anstatt einer beliebigen gegebenen Massen-
+vertheilung <i>D,</i> welche entweder bloß auf den innern von einer
+geschlossenen Fläche <i>S</i> begrenzten Raum beschränkt ist, oder
+bloß auf den äußern Raum, lässt sich eine Massenvertheilung
+<i>E</i> bloß auf der Fläche selbst substituiren, mit dem Erfolge,
+daß die Wirkung von <i>E</i> der Wirkung von <i>D</i> gleich wird, in
+allen Punkten des äußern Raumes für den ersten Fall, oder
+in allen Punkten des innern Raumes für den zweiten.</p>
+<p>Es wird dazu nur erfordert, daß, indem das Potential von
+<i>D</i> in jedem Punkte von <i>S</i> mit <i>U,</i> das Potential von <i>E</i> hinge-
+gen mit <i>V</i> bezeichnet wird, in der ganzen Fläche für den er-
+sten Fall <i>V &2014; U</i> = 0, für den zweiten aber nur constant
+werde. Es wird nemlich &2014; <i>U</i> das Potential einer Vertheilung
+<i>D'</i> sein, die der <i>D</i> entgegengesetzt ist (so daß an die Stelle
+jedes Massentheils ein entgegengesetztes tritt), also <i>V &2014; U</i> das
+Potential der zugleich bestehenden Vertheilungen <i>D'</i> und <i>E</i>;
+die Wirkungen daraus werden sich folglich im ersten Fall im
+ganzen äußern Raume, im zweiten im ganzen innern destrui-
+ren (Artt. 27 und 25), oder die Wirkungen von <i>D</i> und <i>E</i> wer-
+den in den betreffenden Räumen gleich sein. Übrigens wird
+die ganze Masse in <i>E</i> für den ersten Fall der Masse in <i>D</i>
+gleich sein, im zweiten aber willkürlich bleiben.</p>
+<p>Der Lehrsatz, welcher in der <i>Intensitas vis magneticae</i> S. 10
+angekündigt, und auch in der <i>Allgemeinen Theorie des Erd-
+magnetismus</i> an verschiedenen Stellen angeführt ist, erscheint
+jetzt als ein specieller Fall des hier bewiesenen.</p>
+<d1>37.</d1>
+<p>Obgleich, wie schon im 35 Artikel bemerkt ist, die wirk-
+liche vollständige Ausmittelung der Vertheilung <i>E</i> in den mei-
+sten Fällen unüberwindliche Schwierigkeiten darbietet, so gibt
+es doch einen, wo sie mit großer Leichtigkeit geschehen kann,
+und der hier noch besonders angeführt zu werden verdient.
+Dies ist nemlich der, wo <i>U</i> constant, also <i>S</i> eine Gleichge-
+wichtsfläche für das gegebene Massensystem <i>D</i> ist. Man sieht
+leicht, daß hier nur von dem Falle die Rede zu sein braucht,
+wo <i>D</i> im innern Raume angenommen wird, und nicht die Ge-
+sammtmasse = 0 ist, da sonst gar keine Wirkung da sein
+<pb="51"/>
+würde, die durch eine Massenvertheilung auf <i>S</i> erzetzt zu wer-
+den brauchte.</p>
+<p>Es sei <i>O</i> ein Punkt der Fläche <i>S,</i> und <i>r</i> eine gerade Linie,
+welche die Fläche daselbst unter rechten Winkeln schneidet,
+und in der Richtung von Innen nach Außen als wachsend be-
+trachtet wird; es sei ferner &2014; <i>C</i> der Werth des Differential-
+quotienten <formel> in <i>O,</i> und <i>m</i> die Dichtigkeit, welche bei der
+Massenvertheilung <i>E</i> in <i>O</i> Statt hat. Der Differentialquotient
+<formel> wird in <i>O</i> zwei verschiedne Werthe haben; der auf die
+äußere Seite sich beziehende wird, weil in der Fläche und im
+ganzen äußern Raume <i>V = U</i> ist, dem Differentialquotienten
+<formel> gleich, also = &2014; <i>C</i> sein; der auf die innere Seite sich be-
+ziehende hingegen = 0, weil <i>V</i> in der Fläche und im ganzen
+innern Raume constant ist. Da nun aber der zweite Werth
+um 4 <i>&03C0; m</i> größer ist als der erste, so haben wir 4 <i>&03C0; m = C</i>
+oder <i>m</i> = <formel>. Offenbar ist <i>C</i> nichts anderes, als die aus der
+Massenvertheilung <i>D</i> entspringende Kraft, und hat mit der Ge-
+sammtmasse einerlei Zeichen.</p>
+<hr>
+<pb>
+<pb>

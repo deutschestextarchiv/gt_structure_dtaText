@@ -1,0 +1,1556 @@
+<cb>
+<pb="19"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<d1><b><aq>II.</aq> Bauwissenschaftliche Mittheilungen.</b></d1>
+<d2><b><aq>A.</aq> Original-Beiträge.</b></d2>
+<cb>
+<d3><b>Beitrag zur Theorie der Yolz- und Eisen-Constructionen;</b>
+vom Professor Mohr am Polytechnicum zu Stuttgart.
+(Mit Zeichnungen auf den Blättern 397 bi&sr; 400.)</d3>
+<hr>
+<p>Herr Professor <g>Culmann</g> hat in seiner &201E;Graphischen
+Statik&201C; die Aufgabe sich gestellt, die einer geometrischen Be-
+handlung zugänglichen Aufgaben au&sr; dem Gebiete de&sr; Inge-
+nieurfach&sr; mit Hülfe der neueren Geometrie zu lösen. Die
+interessanten und für die Praxi&sr; brauchbaren Resultate, welche
+jene&sr; Werk enthält, würden &2014; wie wir überzeugt sind &2014;
+bereit&sr; allgemeiner Eingang gefunden haben, wenn nicht der ge-
+lehrte Apparat der neueren Geometrie viele Ingenieure von dem
+Studium diese&sr; Gegenstande&sr; abgeschreckt hätte. Wir glauben,
+daß in manchen und gerade in den für die Praxi&sr; wichtigsten
+Fällen die Hülf&sr;mittel der älteren Geometrie au&sr;gereicht haben
+würden, und gedenken diese Ansicht bei späteren Gelegenheiten
+durch weitere Beispiele zu begründen. In der nachfolgenden
+Au&sr;arbeitung haben wir versucht, die Theorie der elastischen
+Linie auf graphischem Wege zu behandeln, eine Aufgabe, deren
+Lösung bi&sr; jetzt selbst mit Anwendung der neueren Geometrie
+nicht gelungen ist.</p>
+<p>Herr <g>Culmann</g> bemerkt hierüber Folgende&sr;: &201E;Die Be-
+stimmung der auf einen continuirlichen Balken einwirkenden
+Auflagerdrücke durch die Biegung, deren Gesetze in der Theorie
+der elastischen Linie ihren Au&sr;druck finden, entgeht gänzlich
+der graphischen Statik; wenigsten&sr; so weit wir derselben bi&sr;
+heute mächtig sind. E&sr; wird gewöhnlich von dem Grundsatz
+au&sr;gegangen, daß die Krümmung&sr;halbmesser de&sr; gebogenen
+Balken&sr; in jedem Querschnitt dem Moment der außerhalb
+de&sr;selben wirkenden Kräfte umgekehrt proportional seien. Nun
+sind aber diese Biegungen so unendlich klein und die Krüm-
+mung&sr;halbmesser so unendlich groß, daß jede Construction
+derselben unmöglich ist und unmöglich sein wird, bi&sr; un&sr; die
+Geometrie einfache Verhältnisse zwischen den entsprechenden
+Krümmung&sr;halbmessern projectivischer Figuren liefert, die be-
+züglich de&sr; unendlich fernen Punkte&sr; in der Verticallinie al&sr;
+Projection&sr;centrum und bezüglich der geraden Achse de&sr; unge-
+<cb>
+<pb="20"/>
+bogenen Balken&sr; al&sr; Spurlinie perspectivisch liegen: denn
+dann könnten wir die Einbiegungen de&sr; Balken&sr; so lange
+projectivisch verzerren, bi&sr; die Krümmung&sr;halbmesser meßbar
+würden. Da wir jedoch heute noch nicht im Stande sind,
+die&sr; zu thun, <g>so müssen wir zur Rechnung greifen</g>.&201C;</p>
+<p>Die hier erwähnte Schwierigkeit wird sofort beseitigt,
+wenn man für die graphische Lösung der Aufgabe dieselbe
+Vereinfachung sich erlaubt, welche für die analytische Behand-
+lung derselben au&sr; ähnlichen Gründen nothwendig und daher
+ganz allgemein gebräuchlich ist, wenn man nämlich vorau&sr;setzt,
+daß anstatt de&sr; genauen Werthe&sr; de&sr; Krümmung&sr;halbmesser&sr;
+<formel>
+der Annäherung&sr;werth
+<formel>
+in Rechnung gebracht werden darf. &2014; Zur Erklärung diene
+die folgende Betrachtung:</p>
+<p>In Fig. 1) Blatt 397 stellt <aq>A B C</aq> ein vollkommen bieg-
+same&sr; Seil dar, dessen Horizontalzug gleich <aq>H</aq> sei und dessen
+Belastung von beliebigen, continuirlich aufeinander folgenden
+Verticalkräften gebildet werde; die variable Größe dieser Ver-
+ticalkräfte <aq>pro</aq> Längeneinheit der horizontalen Abscissenachse
+möge mit <aq>k</aq> bezeichnet werden. Der Anfang&sr;punkt der Coor-
+dinaten ist in den tiefsten Punkt de&sr; Seil&sr; gelegt und au&sr;
+demselben ein Stück <aq>B D</aq> (Fig. 2 Blatt 397) herau&sr;geschnitten,
+welche&sr; von dem Anfang&sr;punkte der Coordinaten <aq>B</aq> und von
+einem beliebigen Punkte <aq>D</aq> begrenzt wird. An den Schnitt-
+stellen <aq>B</aq> und <aq>D</aq> sind die beiden Seilspannungen <aq>H</aq> und <aq>S</aq>
+al&sr; Außenkräfte anzubringen, um da&sr; Gleichgewicht der auf
+da&sr; Seilstück <aq>B D</aq> einwirkenden Kräfte herzustellen. Bezeichnet
+man die horizontale Seitenkraft der Seilspannung <aq>S</aq> mit <aq>H<do>1</do></aq>
+und die verticale Seitenkraft mit <aq>V</aq>, so erfordert da&sr; Gleich-
+gewicht, daß
+<cb>
+<pb="21"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+1) <formel>
+und
+2) <formel>
+ist; außerdem geht au&sr; der Fig. 2) Blatt 397 hervor, daß
+3) <formel>
+sein muß.</p>
+<p>Durch Differentiiren folgt hierau&sr;
+<formel>
+oder
+4) <formel></p>
+<p>Wenn man die oben bezeichnete Vereinfachung de&sr; Au&sr;-
+druck&sr; für den Krümmung&sr;halbmesser einführt, so erhält die
+Grundgleichung der elastischen Linie bekanntlich folgende Form:
+5) <formel>
+worin <aq>E</aq> den Elasticität&sr;modul de&sr; Material&sr;, <aq>M</aq> da&sr; Biegung&sr;-
+moment der Außenkräfte und <aq>T</aq> da&sr; Trägheit&sr;moment de&sr;
+Trägerquerschnitt&sr; bezeichnet. Au&sr; der Vergleichung der beiden
+Au&sr;drücke 4) und 5) geht hervor, <g>daß die elastische Linie
+eine Seilcurve ist, daß der Horizontalzug diese&sr;
+Seil&sr; durch die constante Größe <aq>E</aq> und die Verti-
+calbelastung <aq>pro</aq> Längeneinheit der Horizontal-
+projection durch die variable Größe <formel> dargestellt
+wird</g> <fn="*)">Anschaulicher wird diese Beziehung, wenn man beide Seiten
+der Gleichung 5) mit dem Quadrat der Längeneinheit, also etwa mit
+1 &25A1; Meter multiplicirt; al&sr;dann wird <aq>E</aq>. 1 &25A1; Meter eine wirkliche Kraft
+und <formel>. 1 &25A1; Meter eine wirkliche Belastung <aq>pro</aq> Längeneinheit.</fn>.</p>
+<p>Diese einfache Beziehung gewährt nicht allein die Mög-
+lichkeit, fast alle hierher gehörenden Aufgaben auf geometrischem
+Wege zu lösen, sondern sie vereinfacht in manchen Fällen auch
+den Weg der Rechnung in beachten&sr;werther Weise.</p>
+<p>Um bei den nachfolgenden Anwendungen durch Neben-
+betrachtungen nicht aufgehalten zu werden, stellen wir die
+hauptsächlichsten Eigenschaften de&sr; mit Verticalkräften belaste-
+ten Seilpolygon&sr; hier zusammen und numeriren dieselben der
+leichteren Bezeichnung wegen fortlaufend mit den Gleichungen.</p>
+<p>Ein Seil (Fig. 3 Blatt 397), welche&sr; in einzelnen Punkten
+mit Verticalkräften <aq>P<do>1</do>, P<do>2</do>, P<do>3</do></aq> ...... belastet ist, bildet ein
+Polygon von folgenden Eigenschaften:</p>
+<p>6) Jede Belastung, z. B. <aq>P<do>3</do></aq>, bildet mit den Seilspan-
+<cb>
+<pb="22"/>
+nungen <aq>S<do>3</do></aq> und <aq>S<do>4</do></aq> der zwei benachbarten Polygonseiten ein
+Parallelogramm der Kräfte oder, wa&sr; da&sr;selbe ist, diese drei
+Kräfte, nach Größe und Richtung aneinander getragen, bilden
+ein Dreieck.</p>
+<p>7) Die horizontalen Seitenkräfte aller Seilspannungen
+<aq>S<do>1</do>, S<do>2</do>, S<do>3</do></aq> ..... sind gleich groß (Gleichung 1).</p>
+<p>8) Setzt man die Dreiecke (vergl. 6), welche von den
+Belastungen und den Seilspannungen der zwei anliegenden
+Polygonseiten gebildet werden, an einander, so entsteht die
+Figur 4), welche man al&sr; Hülf&sr;figur für die Construction de&sr;
+Seilpolygon&sr; benutzen kann. Man erhält sonach Größe und
+Richtung der Seilspannungen, wenn man die Belastungen <aq>P<do>1</do>,
+P<do>2</do>, P<do>3</do></aq>, ..... in der Reihenfolge ihrer Abscissen auf eine
+Verticallinie <aq>A A</aq> (Fig. 4) trägt und die Theilpunkte mit
+einem Punkte <aq>C</aq> verbindet, dessen Horizontalabstand von der
+Verticallinie <aq>A A</aq> gleich dem Horizontalzug <aq>H</aq> de&sr; Seil&sr; ist.
+Die Lage de&sr; Punkte&sr; <aq>C</aq> auf der Verticallinie <aq>B B</aq> kann
+beliebig angenommen werden; ist jedoch die Richtung <g>einer</g>
+Seilspannung gegeben, so ist damit auch die Lage de&sr; Punkte&sr;
+<aq>C</aq> bestimmt. Da&sr; Seilpolygon entsteht also, indem man die
+Polygonseiten (Fig. 3) zu den gleich bezifferten Richtungen
+der Seilspannungen in der Hülf&sr;figur 4) parallel zieht.</p>
+<p>9) Je zwei Polygonseiten z. B. <aq>S<do>1</do></aq> und <aq>S<do>6</do></aq> (Fig. 3)
+schneiden die Mittelkraft <aq>R</aq> der zwischen ihnen liegenden Be-
+lastungen <aq>P<do>1</do>, P<do>2</do>, P<do>3</do>, P<do>4</do></aq> und <aq>P<do>5</do></aq> in einem und demselben
+Punkte <aq>D</aq>, weil die drei Kräfte <aq>S<do>1</do>, R</aq> und <aq>S<do>6</do></aq> einander da&sr;
+Gleichgewicht halten.</p>
+<p>10) Construirt man (Fig. 5 und 6 Blatt 397) ein Seil-
+polygon au&sr; den zwei Auflagerdrücken <aq>Q<do>1</do></aq> und <aq>Q<do>2</do></aq> und den
+Belastungen <aq>P<do>1</do>, P<do>2</do>, P<do>3</do></aq> und <aq>P<do>4</do></aq> eine&sr; in zwei Punkten frei
+unterstützten Träger&sr;, so liegen die beiden äußersten Polygon-
+seiten <aq>S<do>1</do></aq> und <aq>S<do>7</do></aq> in einer geraden Linie. Denn da die Kräfte
+<aq>Q<do>1</do>, Q<do>2</do>, P<do>1</do>, P<do>2</do>, P<do>3</do></aq> und <aq>P<do>4</do></aq> im Gleichgewicht sich befinden,
+und außer diesen Kräften nur noch die beiden Spannungen
+<aq>S<do>1</do></aq> und <aq>S<do>7</do></aq> von Außen auf da&sr; Seil einwirken, so müssen
+auch diese zwei Kräfte einander da&sr; Gleichgewicht halten, d. h.
+sie müssen in derselben geraden Linie wirken, gleich groß und
+entgegengesetzt gerichtet sein.</p>
+<p>11) Da&sr; Product <aq>H·y</aq> au&sr; dem Horizontalzug <aq>H</aq> und
+der verticalen Ordinate <aq>y</aq> de&sr; Seilpolygon&sr; (Fig. 6 und 7
+Blatt 397), bezogen auf die gerade Verbindung&sr;linie <aq>S<do>1</do> S<do>7</do></aq> der
+beiden äußersten Polygonseiten, ist gleich dem Biegung&sr;moment,
+welche&sr; auf den in Fig. 5) dargestellten Träger in dem Ver-
+ticalschnitt <aq>C D</aq> einwirkt, denn nach den Bezeichnungen der
+Fig. 5 und 7) Blatt 397 ist diese&sr; Biegung&sr;moment
+12) <formel></p>
+<p>Auf da&sr; im Gleichgewicht befindliche Seilstück (Fig. 7)
+wirken die Verticalkräfte <aq>Q<do>1</do>, P<do>1</do>, P<do>2</do>, P<do>3</do></aq> und die beiden
+Seilspannungen <aq>S<do>1</do></aq> und <aq>S<do>5</do></aq> von Außen ein. Die Summe
+<bs>2*</bs>
+<cb>
+<pb="23"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+der Momente dieser Kräfte, bezogen auf irgend einen Punkt,
+also auch auf den Punkt <aq>C</aq>, ist gleich Null und wenn man
+die Seilspannung <aq>S<do>5</do></aq> in dem Punkte. <aq>D</aq> nach horizontaler und
+verticaler Richtung zerlegt, so ist jene Momentensumme
+13) <formel>
+folglich
+14) <formel></p>
+<p>Au&sr; dieser Beziehung ergiebt sich, wa&sr; freilich schon
+au&sr; der Form der Gleichung 4) hervorgeht, daß, wenn man
+zwei Seilpolygone für dieselben Verticalkräfte aber mit zwei
+verschiedenen Horizontalzügen <aq>H<do>1</do></aq> und <aq>H<do>2</do></aq> construirt, die
+correspondirenden Verticalordinaten dieser zwei Polygone, be-
+zogen auf irgend eine Polygonseite, umgekehrt zu einander
+sich verhalten wie die beiden Horizontalzüge. Diese Eigen-
+schaft ermöglicht die Anwendung der graphischen Methode auf
+die Theorie der elastischen Linie. Der Horizontalzug <aq>E</aq> der
+von der elastischen Linie gebildeten Seilcurve ist in fast allen
+Fällen der Praxi&sr; so außerordentlich groß im Verhältniß zu
+den Belastungen <formel>, daß die Ordinaten der Curve verschwin-
+dend klein au&sr;fallen würden, wenn man (vergl. Fig. 4) die
+Belastungen und den Horizontalzug in <g>demselben</g> Maaß-
+stabe auftragen wollte. Vermöge jener Eigenschaft der Seil-
+polygone und Seilcurven kann man aber den Horizontalzug
+und die Belastungen nach <g>zwei verschiedenen</g> Maaßstäben
+auftragen und braucht al&sr;dann nur die auf eine Tangente oder
+Sehne bezogenen verticalen Ordinaten der Curve in dem Ver-
+hältniß jener zwei Maaßstäbe zu verjüngen, um die wirklichen
+Ordinatenwerthe zu erhalten. Wenn e&sr; sich darum handelt,
+die Größen von Durchbiegungen au&sr; der Zeichnung zu ent-
+nehmen, so ist e&sr; in der Regel am zweckmäßigsten, da&sr; Ver-
+hältniß de&sr; Maaßstabe&sr; de&sr; Horizontalzug&sr; <aq>E</aq> zu dem Maaß-
+stab der Belastungen <formel> genau so groß zu wählen, wie da&sr;
+Verhältniß der Abscissen in der Zeichnung zu den wirklichen
+Abscissenlängen, wenn also z. B. die Abscissen in dem Maaß-
+stabe 1:300 gezeichnet werden, die Belastungen <formel> in einem
+dreihundert Mal größeren Maaßstab aufzutragen, al&sr; den Hori-
+zontalzug <aq>E</aq>. Da in Folge dessen die Ordinaten de&sr; Seil-
+polygon&sr; im Verhältniß zu den Abscissen dreihundertfach ver-
+größert erscheinen, so erhält man in der Zeichnung die Durch-
+biegungen <g>in natürlicher Größe</g>.</p>
+<p>15) Construirt man mit demselben Horizontalzug <aq>H</aq>
+ein Seilpolygon (Fig. 8) für die Belastungen <aq>P<do>1</do>, P<do>2</do>, P<do>3</do></aq>
+nebst den zugehörigen Auflagerdrücken <aq>Q<do>1</do></aq> und <aq>Q<do>2</do></aq>, ein zweite&sr;
+Seilpolygon (Fig. 9) unter sonst gleichen Umständen mit
+Hinzunahme einer vierten Belastung <aq>P<do>4</do></aq> und ein dritte&sr; Poly-
+gon (Fig. 10) nur für die Belastung <aq>P<do>4</do></aq> und bezeichnet man
+<cb>
+<pb="24"/>
+die Verticalordinaten dieser drei Polygone in Bezug auf die
+Verbindung&sr;linien der Auflager mit <aq>y<do>1</do>, y<do>2</do></aq> und <aq>y<do>3</do></aq>, so ist
+für jede Abscisse
+<formel>
+Denn da&sr; von der Ordinate <aq>y<do>2</do></aq> gemessene Biegung&sr;moment
+der vier Belastungen <aq>P<do>1</do>, P<do>2</do>, P<do>3</do>, P<do>4</do></aq> ist gleich der Summe
+der beiden Biegung&sr;momente, welche von <aq>P<do>1</do>, P<do>2</do>, P<do>3</do></aq> und von
+<aq>P<do>4</do></aq> erzeugt, und durch <aq>y<do>1</do></aq> und <aq>y<do>3</do></aq> dargestellt werden. Hierau&sr;
+folgt, daß die Zunabme der Durchbiegung eine&sr; belasteten
+Träger&sr; in Folge einer neu hinzukommenden Belastung in
+irgend einem Punkte gleich ist derjenigen Durchbiegung, welche
+der gewicht&sr;lose Träger allein unter Einwirkung jener Be-
+lastung in dem betrachteten Punkte annehmen würde.</p>
+<p>16) Fig. 11) Blatt 397 sei die Darstellung der Belastung
+eine&sr; Seil&sr; in der Art, daß die Belastung <aq>pro</aq> Längeneinheit
+der horizontalen Abscissenachse in jedem Punkte durch die
+Ordinate der Curve <aq>A<do>1</do> A<do>2</do> A<do>3</do> A<do>4</do></aq> gemessen wird. Die
+Fläche <aq>A<do>1</do> A<do>2</do> A<do>3</do> A<do>4</do></aq>, welche die Belastung&sr;fläche genannt
+wird, ist durch Ordinaten <aq>A<do>2</do> A<do>2</do>, A<do>3</do> A<do>3</do></aq> in beliebige Theile
+zerlegt, und in den Schwerpunkten dieser Flächentheile sind
+Verticalkräfte <aq>P<do>1</do>, P<do>2</do>, P<do>3</do></aq> angebracht, deren Größen dem Inhalt
+der betreffenden Flächen entsprechen. Construirt man nun au&sr;
+dem Horizontalzug <aq>H</aq> und jenen Einzelkräften ein Seil-
+polygon <aq>a<do>1</do> a<do>2</do> a<do>3</do> a<do>4</do></aq> (Fig. 12), so berührt diese&sr; Polygon
+die Seilcurve, welche der in Fig. 11) dargestellten Belastung
+entspricht, in den Verticalen der Theilpunkte <aq>A<do>1</do>, A<do>2</do>, A<do>3</do></aq> und
+<aq>A<do>4</do></aq>. Denn in diesen Punkten stimmen sowohl die Momenten-
+gleichungen, wie auch die verticalen Seitenkräfte der Seil-
+spannungen für da&sr; Seilpolygon und für die Seilcurve mit
+einander überein. Durch entsprechende Theilung der Be-
+lastung&sr;fläche kann man sonach eine beliebig große Anzahl
+von Punkten der Seilcurve festlegen. Bezeichnet man mit
+<aq>Q<do>1</do></aq> und <aq>Q<do>2</do></aq> die Drücke der Belastung&sr;fläche auf die beiden
+Auflager <aq>A<do>1</do></aq> und <aq>A<do>4</do></aq> und theilt man die Belastung&sr;fläche durch
+die Ordinate <aq>C D</aq> so, daß
+<formel>
+und
+<formel>
+wird, so liegt die größte Ordinate <aq>c d</aq> der Seilcurve in der
+Verticalen der Ordinate <aq>C D</aq>, weil die Seilcurve in dem
+Punkte <aq>d</aq> zur Verbindung&sr;linie <aq>a<do>1</do> a<do>4</do></aq> der beiden Auflager
+parallel gerichtet ist.</p>
+<p>17) Um die elastische Linie für einen Balken von ver-
+änderlichem Querschnitt zu construiren, kann man die graphi-
+sche Darstellung der Größe <formel> au&sr;führen, diese Belastung&sr;-
+fläche durch Ordinaten zerlegen, die Flächentheile durch Einzel-
+kräfte ersetzen und au&sr; diesen ein Seilpolygon mit dem con-
+stanten Horizontalzug <aq>E</aq> darstellen. In den meisten Fällen
+gelangt man jedoch einfacher zu Ziele, wenn man in der
+<cb>
+<pb="25"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+Hülf&sr;figur, welche die Neigungen der Polygonseiten gegen-
+einander ergiebt, die variable Größe <aq>E·T</aq> al&sr; Horizontal-
+zug aufträgt und die graphische Darstellung von <aq>M</aq> al&sr;
+Belastung&sr;fläche der Seilcurve ansieht. Daß diese&sr; Verfahren
+zu demselben Resultate führen muß, folgt unmittelbar au&sr;
+Gleichung 5), der man auch folgende Form
+<formel>
+geben kann, so daß im Vergleich mit dem Au&sr;druck 4) die
+Größe <aq>E·T</aq> al&sr; Horizontalzug auftritt. Noch deutlicher
+geht die&sr; au&sr; den zum nachfolgenden Beispiel 3) gegebenen
+Erläuterungen hervor.</p>
+<p>18) Da&sr; Seilpolygon kann angewandt werden, um den
+Werth algebraischer Au&sr;drücke von der Form einer Momen-
+tensumme
+<formel>
+auf graphischem Wege zu bestimmen. Construirt man nämlich
+ein Seilpolygon au&sr; den Verticalkräften <aq>A<do>1</do>, A<do>2</do>, A<do>3</do></aq> .....
+welche in den Abscissen <aq>a<do>1</do>, a<do>2</do>, a<do>3</do></aq> auf da&sr; Seil einwirken,
+so ist der Abschnitt <aq>y</aq> der letzten Polygonseite auf der Ordi-
+natenachse da&sr; Maaß jener Summe; denn die Momentenglei-
+chung de&sr; Seilpolygon&sr; Fig. 13 Blatt 397 in Bezug auf den
+Anfang&sr;punkt <aq>O</aq> der Coordinaten lautet
+<formel>
+Um da&sr; Product <aq>H·y</aq> leicht bilden zu können, wird in sol-
+chen Fällen für den Werth von <aq>H</aq> selbstverständlich eine runde
+Zahl angenommen.</p>
+<p>19) Legt man durch drei benachbarte Polygonseiten
+(Fig. 14 Blatt 397) eine gerade Linie <aq>A B</aq> so, daß
+<formel>
+wird, so findet die Beziehung statt
+20) <formel>
+denn nach 18) ist
+<formel>
+daher
+<formel></p>
+<d4><b>Berechnung und graphische Bestimmung der Durchbiegungen
+belasteter Träger.</b></d4>
+<p>Bei Bestimmung von Durchbiegungen kommt e&sr; in der
+Regel nur darauf an, die Abscisse und die Ordinate der
+<g>größten</g> Einsenkung zwischen zwei Stützpunkten zu ermitteln,
+während im Uebrigen die Form der Biegung&sr;curve für den
+Zweck der Aufgabe nicht von Interesse ist. Die bezeichnete
+Aufgabe wird gelöst, indem man (vgl. 16) die Ordinate auf-
+sucht, welche die Belastung&sr;fläche der elastischen Linie in zwei
+<cb>
+<pb="26"/>
+den Auflagerdrücken gleiche Theile zerlegt. Diese Ordinate
+schneidet die elastische Linie in dem Punkte der größten Durch-
+biegung, dessen Tangente also zur Verbindung&sr;linie der beiden
+Stützpunkte parallel gerichtet ist. Drückt man nun da&sr;
+Gleichgewicht eine&sr; Theil&sr; der elastischen Linie link&sr; oder
+recht&sr; von jenem Punkt durch die Momentengleichung für den
+Stützpunkt au&sr;, so ist die gesuchte Durchbiegung in dieser
+Gleichung die einzige Unbekannte. Nur wenn wegen unregel-
+mäßiger Form der Belastung&sr;fläche die oben angedeutete Er-
+mittelung der Abscisse der größten Durchbiegung zu umständ-
+lich wird, ist e&sr; vorzuziehen, da&sr; unter <formel> 17 beschriebene
+graphische Verfahren zur Anwendung zu bringen.</p>
+<p><g>Beispiel</g> 1. <b>Durchbiegung eine&sr; Balken&sr; von constantem Quer-
+schnitt, welcher mit</b> <aq>p pro</aq> <b>Längeneinheit gleichmäßig belastet
+und in seinen Endpunkten frei unterstützt ist.</b></p>
+<p>Die von <formel> beschriebene Belastung&sr;fläche wird durch
+eine Parabel <aq>A B C</aq> (Fig. 15 Blatt 397) dargestellt, deren
+Scheitelordinate über der Balkenmitte
+<formel>
+ist. Wegen der zur Mitte symmetrischen Form der Belastung&sr;-
+fläche findet in diesem Punkte die größte Durchbiegung statt.
+Auf die eine Hälfte <aq>F J</aq> (Fig. 16 Blatt 397) der elastischen Linie
+wirken also folgende drei Kräfte:</p>
+<p>1) in dem Punkte <aq>J</aq> die horizontal gerichtete Seilspannung
+<aq>E</aq> gleich dem Elasticität&sr;modul,</p>
+<p>2) in dem Stützpunkt <aq>F</aq> die Seilspannung <aq>S</aq> und</p>
+<p>3) die Belastung gleich der Fläche
+<formel></p>
+<p>Der horizontale Abstand de&sr; Schwerpunkt&sr; <aq>K</aq> dieser
+Fläche von dem Auflager <aq>F</aq> beträgt 5/16 <aq>l</aq>. Die Momenten-
+gleichung in Bezug auf den Punkt <aq>F</aq> ergiebt also:
+<formel>
+oder <formel></p>
+<p><g>Beispiel</g> 2. <b>Durchbiegung eine&sr; Balken&sr; von constantem Quer-
+schnitt, welcher in seinen Endpunkten frei unterstützt und in der
+Entfernung <aq>a</aq> von der Mitte mit dem Gewicht # belastet ist.</b></p>
+<p>Die Belastung&sr;fläche bildet in diesem Falle ein Dreieck
+<aq>A B C</aq> (Fig. 17 Blatt 397), dessen Höhe über dem belasteten
+Punkt <aq>D</aq>
+<formel>
+ist. Der Druck der Belastung&sr;fläche auf den Stückpunkt <aq>A</aq>
+ergiebt sich au&sr; der Momentengleichung in Bezug auf den
+Punkt <aq>C</aq>
+<formel></p>
+<cb>
+<pb="27"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+<p>Die Belastung&sr;fläche zwischen dem Auflager <aq>A</aq> und einer
+Ordinate <aq>F G</aq> in der Entfernung
+<formel>
+ist
+<formel></p>
+<p>Diese Fläche ist gleich dem obigen Werthe von <aq>V</aq>, wenn
+<formel>
+ist. Die Momentengleichung de&sr; Theil&sr; <aq>M J</aq> (Fig. 18 Bl. 397)
+der elastischen Linie in Bezug auf den Punkt <aq>M</aq> lautet demnach
+<formel>
+oder, wenn man vorstehenden Werth von <aq>b</aq> einsetzt,
+<formel></p>
+<p>Ist der Balken in der <g>Mitte</g> seiner Länge belastet, so
+wird
+<formel>
+und
+<formel></p>
+<p><g>Beispiel</g> 3. <b>Construction der Biegung&sr;curve für eine Oeffnung
+eine&sr; continuirlichen Brückenträger&sr; von variablem Querschnitt.</b></p>
+<p>Fig. 19 Blatt 397 giebt die Darstellung der al&sr; bekannt
+vorau&sr;gesetzten Biegung&sr;momente in dem Maaßstabe:
+für die Abscissen 1<up>mm</up> = 0,4<up>m</up>,
+für die Ordinaten 1<up>mm</up> = 25 Meter-Tonnen.</p>
+<p>Die Linie <aq>J J</aq> ist die Darstellung der Trägheit&sr;momente.
+Die von der Ordinate <aq>M</aq> beschriebene Belastung&sr;fläche ist
+durch Ordinaten in neun Theile so eingetheilt, daß da&sr; Träg-
+heit&sr;moment und da&sr; Vorzeichen von <aq>M</aq> auf der Erstreckung
+eine&sr; jeden Theil&sr; sich nicht ändert. Die Flächentheile 4, 5, 6
+haben da&sr; positive, die übrigen Theile 1, 2, 3, 7, 8, 9 da&sr;
+negative Vorzeichen. Die eingezeichneten Schwerpunkte dieser
+Flächentheile wurden ermittelt, indem man nach Augenmaaß
+die Flächen in Dreiecke und Paralleltrapeze von annähernd
+gleicher Schwerpunkt&sr;lage verwandelte. Die berechneten Flä-
+cheninhalte ergaben die Größe der in den Schwerpunkten an-
+zubringenden Einzelkräfte (vgl. 16 und 17). Dieselben sind
+in der Hülf&sr;figur 20 Bl. 397 auf der Verticalen <aq>E F</aq> in der
+Reihenfolge ihrer Ziffern an einander getragen und zwar die
+positiven Werthe in der Richtung von Oben nach Unten und
+die negativen in der entgegengesetzten Richtung. Die Richtung
+der Seilspannung <aq>S<do>1</do></aq> wurde willkürlich angenommen. Die
+Seilspannung <aq>S<do>2</do></aq> schneidet <aq>S<do>1</do></aq> in dem Punkte <aq>N<do>1</do></aq>, dessen
+Abscisse in Bezug auf <aq>F</aq> al&sr; Nullpunkt gleich <aq>E·T<do>1</do></aq> ist;
+ebenso ist die Abscisse de&sr; Schnittpunkte&sr; <aq>N<do>2</do></aq> der Seilspan-
+nungen <aq>S<do>2</do></aq> und <aq>S<do>3</do></aq> gleich <aq>E·T<do>2</do></aq> u. s. f. Hiedurch ergaben
+<cb>
+<pb="28"/>
+sich die Richtungen der Seilspannungen, mit denen parallel
+die gleichbezifferten Seiten de&sr; Seilpolygon&sr; (Fig. 22 Bl. 397)
+aufgetragen wurden. Diese&sr; Polygon berührt die elastische
+Linie in den Ordinaten zwischen den Theilen 1, 2, 3 .....
+der Belastung&sr;fläche (vergl. 16). Da die Richtung der Seil-
+spannung <aq>S<do>1</do></aq> willkürlich angenommen wurde, so liegen die
+beiden Punkte <aq>C</aq> und <aq>D</aq>, in welchen da&sr; Seilpolygon die
+Auflagerordinaten schneidet, nicht auf derselben Horizontalen.
+Dieser Umstand hat (vergl. 11) keinen Einfluß auf die Größe
+der Polygonordinaten in Bezug auf die Linie <aq>C D</aq>. Will
+man jedoch die elastische Linie für die <g>horizontale</g> Stützen-
+lage aufzeichnen, so muß man die Figur so verschieben,
+daß die Polygonordinaten in Bezug auf die Verbindung&sr;linie
+der Auflager dieselbe Größe erhalten wie in Figur 22.</p>
+<p>In Figur 20) sind die Werthe der Belastung&sr;flächen in
+dem Maaßstabe von 1<up>mm</up> = 200 Quadratmeter Tonnen und
+die Werthe von <aq>E·T</aq> in dem Maaßstabe von 1<up>mm</up> = 80000
+Quadratmeter-Tonnen, also in dem Verhältniß von 1 : 400
+kleiner al&sr; die Belastungen aufgetragen. Da der Maaßstab
+der Abscissen
+1 : 400
+ist, so sind die Polygonordinaten in Fig. 22) <g>in natürlicher
+Größe</g> dargestellt.</p>
+<p>In Fig. 21) sind von einem Punkt <aq>L</aq>, dessen Horizontal-
+Abstand von <aq>G K</aq> gleich <aq>E</aq> ist, Parallellinien zu den Seil-
+spannungen in Fig. 20) gezogen. Vergleicht man die Abschnitte
+<aq>F<do>1</do>, F<do>2</do>, F<do>3</do></aq>, ...... dieser Linien auf der Verticalen <aq>G K</aq>
+mit den Längen <aq>P<do>1</do>, P<do>2</do>, P<do>3</do></aq> ..... in Fig. 20, so folgt
+au&sr; der Aehnlichkeit der betreffenden Dreiecke, daß
+<formel>
+............
+............
+ist. Hätte man also zunächst die von <formel> dargestellte Bela-
+stung&sr;fläche und darau&sr; mit dem constanten Horizontalzug
+<aq>E</aq> da&sr; Seilpolygon construirt, so würde man genau zu dem
+in Fig. 22) dargestellten Resultat gelangt sein. Die Con-
+struction mit Hülfe der Fig. 20) ist jedoch offenbar einfacher.</p>
+<d4><b>Ableitung der Hauptgleichung zur Berechnung continuirlicher
+Träger von constantem Querschnitt.</b></d4>
+<p>Bezeichnungen:</p>
+<p>Die Stützpunkte und Oeffnungen werden in der Reihen-
+folge von link&sr; nach recht&sr; mit den Ziffern 1, 2, 3 ....
+bezeichnet. Dem entsprechend bezeichnet
+<cb>
+<pb="29"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+<aq>y<do>n</do></aq> die Ordinate der <aq>n</aq><up>ten</up> Stütze,
+<aq>l<do>n</do></aq> die Weite der <aq>n</aq><up>ten</up> Oeffnung,
+<aq>p<do>n</do></aq> die Belastung <aq>pro</aq> Längeneinheit der <aq>n</aq><up>ten</up> Oeffnung,
+M<aq><do>n</do></aq> da&sr; Moment <formel>,
+<aq>M<do>n</do></aq> da&sr; Biegung&sr;moment über der <aq>n</aq><up>ten</up> Stütze,
+<aq>V<do>n</do></aq> die Belastung&sr;fläche <formel>,
+<aq>U<do>n</do></aq> die Belastung&sr;fläche <formel>,
+<aq>W<do>n</do></aq> die Belastung&sr;fläche <formel>.</p>
+<p>Da <aq>T</aq> constant ist, so kann <aq>E·T</aq> al&sr; constanter Hori-
+zontalzug und die graphische Darstellung von <aq>M</aq> al&sr; Be-
+lastung&sr;fläche der elastischen Linie angesehen werden. Wenn
+die Belastung de&sr; Träger&sr; über die Länge jeder einzelnen
+Oeffnung gleichmäßig vertheilt ist, so hat die graphische Dar-
+stellung von <aq>M</aq> z. B. für die <aq>n</aq><up>te</up> Oeffnung die in Fig. 23
+Blatt 397 angedeutete bekannte Form. Die Parabelordinaten
+oberhalb der Abscissenachse haben da&sr; positive, diejenigen
+unterhalb der Achse da&sr; negative Vorzeichen und die Bela-
+stungen der Seilcurve haben dem entsprechend die eingezeich-
+neten Richtungen. Die Belastung&sr;fläche Fig. 23) kann in
+die beiden Flächen Fig. 24) der positiven und Fig. 25) der
+negativen Belastungen zerlegt werden; für jede Abscisse ist
+die Ordinatensumme der Fig. 24) und 25) gleich der Ordi-
+nate der Fig. 23); die Mittelkraft der in Fig. 24) darge-
+stellten positiven Belastungen ist gleich der Parabelfläche <aq>C D E</aq>,
+deren Scheitelordinate
+<formel>
+und deren Flächeninhalt also
+21) <formel>
+ist. Die Ordinate de&sr; Schwerpunkt&sr; der Parabelfläche hal-
+birt die Weite der Oeffnung. Die Fläche der negativen Be-
+lastungen <aq>G H J K</aq> Fig. 25) läßt sich in die beiden Dreiecke
+<aq>G K J</aq> und <aq>G H J</aq> zerlegen, deren Schwerpunkt&sr;ordinaten um
+&frac13; <aq>l<do>n</do></aq> von den Stützpunkten abstehen und deren Flächeninhalte
+22) <formel>
+und
+23) <formel>
+sind. Diese Zerlegung der Belastung&sr;fläche in die Kräfte
+<aq>U, V</aq> und <aq>W</aq> ist zulässig, weil da&sr; au&sr; diesen Kräften con-
+struirte Seilpolygon die elastische Linie in den Stützpunkten
+berührt (vergl. 16) und weil in der folgenden Entwickelung
+nur die Richtungen und Ordinaten der elastischen Linie in
+den Stützpunkten in Betracht kommen.</p>
+<p>Ist Fig. 26 Blatt 397 da&sr; von den Belastungen <aq>U<do>n</do> V<do>n</do></aq>
+und <aq>W<do>n</do></aq> gebildete Seilpolygon, so ergiebt sich mit Bezug auf
+<cb>
+<pb="30"/>
+die eingeschriebenen Bezeichnungen al&sr; Momentengleichung für
+den Punkt <aq>A</aq>:
+24) <formel></p>
+<p>Bildet man ebenso da&sr; Seilpolygon für die <aq>n</aq> + 1 ste
+Oeffnung (Fig. 27 Blatt 397), so lautet die Momentengleichung
+für den Punkt <aq>C</aq>
+25) <formel></p>
+<p>Verbindet man diese beiden Gleichungen, indem man
+<aq>tg</aq> &03B1; darau&sr; entfernt, und setzt man al&sr;dann die Werthe von
+<aq>U, V, W</aq> nach den Gleichungen 21) 22) 23) ein, so erhält
+man
+26) <formel></p>
+<p>Dieselbe Gleichung ist auf einem andern Wege im
+Bd. <aq>VI.</aq> Seite 328 dieser Zeitschrift abgeleitet.</p>
+<d4><b>Allgemeine Beziehung zwischen den Belastung&sr;flächen der
+elastischen Linie zweier Nachbaröffnungen eine&sr; continuirlichen
+Träger&sr; von constautem oder variablem Querschnitt.</b></d4>
+<p>Fig. 28) und 29) Blatt 397 seien die elastischen Linien für
+die <aq>n</aq><up>te</up> und <aq>n</aq> + 1<up>ste</up> Oeffnung eine&sr; beliebigen continuirlichen
+Träger&sr;. <aq>E</aq> ist der constante Horizontalzug, <formel> die vari-
+able Belastung der Seilcurve. Die Momentengleichungen für
+die Punkte <aq>A</aq> und <aq>C</aq> ergeben
+<formel>
+Durch Entfernung von <aq>tg</aq> &03B1; erhält man hierau&sr;
+27) <formel>
+Wenn man die von <formel> gebildete Belastung&sr;fläche in den
+Auflagern jeder einzelnen Oeffnung frei unterstützt, so ist
+<formel>
+<cb>
+<pb="31"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+der Auflagerdruck der Belastung&sr;fläche der <aq>n</aq><up>ten</up> Oeffnung auf
+die <aq>n</aq> + 1<up>ste</up> Stütze; ebenso ist
+<formel>
+der Auflagerdruck der Belastung&sr;fläche der <aq>n</aq> + 1<up>sten</up> Oeffnung
+auf die <aq>n</aq> + 1<up>ste</up> Stütze; und endlich ist
+<formel>
+der Auflagerdruck de&sr; unbelasteten Seil&sr; vom Horizontalzug
+<aq>E</aq> auf die <aq>n</aq> + 1<up>ste</up> Stütze, wenn da&sr;selbe durch die drei Auf-
+lagerpunkte <aq>A, B, C</aq> geführt wird. Denn nach 18) ist jener
+Druck gleich (s. Fig. 30 Blatt 397)
+<formel>
+und ferner ist
+<formel></p>
+<p><g>Al&sr; allgemeine Beziehung ergiebt sich hierau&sr;,
+daß der Auflagerdruck de&sr; Seil&sr; und der Bela-
+stung&sr;flächen zweier Nachbaröffnungen auf den
+zwischen diesen Oeffnungen liegenden Stützpunkt
+gleich Null ist</g>.</p>
+<p>In einer andern Form haben wir diesen Satz bereit&sr; im
+Bd. <aq>VIII</aq>. S. 253 dieser Zeitschrift entwickelt. Nachdem die
+Beziehung zwischen der Seilcurve und der elastischen Linie der
+Betrachtung zu Grunde gelegt wurde, hätte e&sr; eine&sr; beson-
+deren Beweise&sr; kaum bedurft, denn da die elastische Linie
+über den Stützpunkten eine continuirliche Form hat, und da
+Einzelkräfte Knickpunkte im Seil erzeugen, so kann die ent-
+sprechende Seilcurve auf jene Punkte keine Drücke au&sr;üben.</p>
+<d4><b>Graphische Bestimmung der unbekannten Biegung&sr;momente
+über den Stützpunkten eine&sr; continuirlichen Träger&sr; von
+constantem Querschnitt, wenn die Belastungen de&sr; Träger&sr;
+und die Höhenlage der Stützpunkte gegeben sind.</b></d4>
+<p>Wenn die Belastungen gegeben sind, so ist damit die
+Größe <aq>V</aq> und die Lage de&sr; Schwerpunkt&sr; der positiven Be-
+lastung&sr;fläche für jede Oeffnung bekannt. In der Fig. 31
+Blatt 398 ist angenommen, daß die einzelnen Oeffnungen gleich-
+mäßig belastet seien, und daß daher die Ordinaten der Kräfte
+<aq>V</aq> die Oeffnungen halbiren; die folgende Construction ändert
+sich jedoch durchau&sr; nicht, wenn die Belastung der einzelnen
+Oeffnungen ungleichmäßig ist und etwa au&sr; concentrirten
+Einzelkräften besteht; in diesem Falle würden durch besondere
+Zeichnungen die Inhalte und Schwerpunkte der positiven Be-
+lastung&sr;flächen zu bestimmen sein.</p>
+<p>In Fig. 31) sei <aq>B<do>1</do> C<do>2</do> C<do>3</do> C<do>4</do> B<do>5</do></aq> da&sr; Seilpolygon, wel-
+<cb>
+<pb="32"/>
+che&sr; bei einer gegebenen Belastung eine&sr; continuirlichen Trä-
+ger&sr; über vier Oeffnungen von den vier Kräften <aq>V<do>1</do>, V<do>2</do>, V<do>3</do>, V<do>4</do></aq>
+und dem constanten Horizontalzug <aq>E·T</aq> gebildet wird. <aq>B<do>2</do>,
+B<do>3</do>, B<do>4</do></aq> seien die gegebenen Lagen der Mittelstützen, wobei
+man zu beachten hat, daß der Maaßstab der Ordinaten zum
+Maaßstab der Abscissen sich verhalten muß wie der Maaßstab
+von <aq>V</aq> zu dem von <aq>E·T</aq>. Die negativen Ordinaten de&sr;
+von den unbekannten Belastungen <aq>U</aq> und <aq>W</aq> gebildeten Seil-
+polygon&sr; müssen in Bezug auf die Stützpunkte <aq>B<do>2</do>, B<do>3</do>, B<do>4</do></aq>
+genau so groß sein, wie die positiven Ordinaten de&sr; erstge-
+nannten Polygon&sr;, denn die Ordinatensumme beider Polygone
+ist in den Stützpunkten gleich Null (vergl. 15). Indem
+man also
+<formel>
+aufträgt, erhält man drei Punkte de&sr; unbekannten Seilpolygon&sr;.
+Diese Bedingung in Verbindung mit den Beziehungen
+<formel>
+genügt zur graphischen Bestimmung der sech&sr; unbekannten
+Belastungen <aq>U</aq> und <aq>W</aq>.</p>
+<p>Die in Fig. 34 Blatt 398 dargestellten drei ersten Seiten
+de&sr; unbekannten Seilpolygon&sr; haben folgende Bedingungen
+zu erfüllen:</p>
+<p>1) Die Polygonseite <aq>B<do>1</do> W<do>1</do></aq> geht durch den festen Punkt
+<aq>B<do>1</do></aq> und die Seite <aq>W<do>1</do> U<do>2</do></aq> durch den festen Punkt <aq>D<do>2</do></aq>.</p>
+<p>2) Die beiden Polygonseiten <aq>B<do>1</do> W<do>1</do></aq> und <aq>U<do>2</do> W<do>2</do></aq> schnei-
+den sich auf der festen Ordinate, in welcher die Mittelkraft <aq>R</aq>
+der beiden Belastungen <aq>W<do>1</do></aq> und <aq>U<do>2</do></aq> wirkt (vgl. 9). Da
+<formel>
+ist, so ist der horizontale Abstand zwischen <aq>W<do>1</do></aq> und <aq>R</aq> gleich
+&frac13; <aq>l<do>2</do></aq> und der Abstand zwischen <aq>R</aq> und <aq>U<do>2</do></aq> gleich &frac13; <aq>l<do>1</do></aq>.</p>
+<p>3) Die feste Linie <aq>B<do>1</do> D<do>2</do></aq> schneidet die Polygonseite <aq>U<do>2</do>
+W<do>2</do></aq> in dem festen Punkte <aq>E<do>2</do></aq>. Denn wenn man in dem
+Punkte <aq>B<do>1</do></aq> eine Belastung gleich + &frac13; <aq>W<do>1</do></aq> anbringt und
+da&sr; Seilpolygon über <aq>B<do>1</do></aq> hinau&sr; fortsetzt, so geht die neue
+Polygonseite <aq>S<do>1</do></aq> durch den Punkt <aq>D<do>2</do></aq>, weil die Mittelkraft
+der zwei Belastungen
+<formel>
+in der Ordinate de&sr; Punkte&sr; <aq>D<do>2</do></aq> wirkt (vergl. 9). Da nun
+da&sr; Verhältniß der drei Belastungen
+<formel>
+ein constante&sr; ist, so hat die Mittelkraft <aq>Z</aq> dieser drei Be-
+lastungen eine feste, nur von dem Verhältniß der Oeffnung&sr;-
+<cb>
+<pb="33"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+weiten <aq>l<do>1</do></aq> und <aq>l<do>2</do></aq> abhängige Lage. Diese feste Ordinate schnei-
+det daher die Linie <aq>B<do>1</do> D<do>2</do></aq> in einem festen Punkte <aq>E<do>2</do></aq>. Man
+findet diesen Punkt <aq>E<do>2</do></aq> (Fig. 34), indem man für <aq>B<do>1</do> W<do>1</do></aq>
+zunächst eine <g>beliebige</g> Lage annimmt. Dadurch ist al&sr;-
+dann die Lage der beiden Linien <aq>W<do>1</do> U<do>2</do></aq> und <aq>H<do>2</do> U<do>2</do></aq> und
+sonach auch der Schnittpunkt <aq>E<do>2</do></aq> in der Linie <aq>B<do>1</do> D<do>2</do></aq> be-
+stimmt. Au&sr; dieser einfachen statischen Betrachtung ergiebt
+sich sonach der Bewei&sr; für folgenden rein geometrischen Satz:</p>
+<p>Drei gerade Linien <aq>B<do>1</do> W<do>1</do>, W<do>1</do> U<do>2</do></aq> und <aq>H<do>2</do> U<do>2</do></aq> bewe-
+gen sich so, daß ihre Schnittpunkte <aq>W<do>1</do>, H<do>2</do></aq> und <aq>U<do>2</do></aq> drei
+Parallellinien beschreiben. Wenn hiebei zwei der Linien z. B.
+<aq>B<do>1</do> W<do>1</do></aq> und <aq>W<do>1</do> U<do>2</do></aq> um zwei feste Punkte <aq>B<do>1</do></aq> und <aq>D<do>2</do></aq> sich
+drehen, so dreht sich auch die dritte Linie <aq>H<do>2</do> U<do>2</do></aq> um einen
+festen Punkt <aq>E<do>2</do></aq>. Die drei festen Punkte <aq>B<do>1</do>, D<do>2</do></aq> und <aq>E<do>2</do></aq>
+liegen in einer geraden Linie.</p>
+<p>Da die Lage der Punkte <aq>B<do>1</do></aq> und <aq>D<do>2</do></aq> und der Kräfte
+<aq>W<do>1</do></aq> und <aq>U<do>2</do></aq>, da ferner da&sr; Verhältniß dieser beiden Kräfte
+zu einander beliebig gewählt werden kann, wodurch die Lage
+der dritten Parallellinie <aq>R</aq> nach Belieben festgelegt wird, so
+ist der obige statische Bewei&sr; allgemein gültig und nicht
+etwa von den dort vorkommenden Zahlenverhältnissen ab-
+hängig.</p>
+<p>Die Abscisse der Kraft <aq>Z</aq> oder de&sr; Punkte&sr; <aq>E<do>2</do></aq> ist nur
+abhängig von den Abscissen der Kräfte &frac13; <aq>W<do>1</do>, W<do>1</do></aq> und <aq>U<do>2</do></aq>,
+dagegen unabhängig von den Ordinaten der Punkte <aq>B<do>1</do></aq> und
+<aq>D<do>2</do></aq>. Die Abscisse de&sr; Punkte&sr; <aq>E<do>2</do></aq> findet man also durch die
+in der Hülf&sr;figur 32) angegebene Construction. Die Abscissen
+der Punkte <aq>A<do>1</do>, G<do>1</do>, A<do>2</do>, H<do>2</do>, K<do>2</do></aq> in Fig. 32) stimmen überein
+mit den Abscissen der Punkte <aq>B<do>1</do>, W<do>1</do>, D<do>2</do>, H<do>2</do>, U<do>2</do></aq> in Fig. 31)
+und 34); daher ergiebt der Punkt <aq>N<do>2</do></aq> die Abscisse de&sr; Punk-
+te&sr; <aq>E<do>2</do></aq>.</p>
+<p>Von den drei Seiten <aq>U<do>2</do> W<do>2</do>, W<do>2</do> U<do>3</do></aq> und <aq>U<do>3</do> W<do>3</do></aq>
+(Fig. 31) ist nunmehr Folgende&sr; bekannt:</p>
+<p>1) Die Seite <aq>U<do>2</do> W<do>2</do></aq> geht durch den festen Punkt <aq>E<do>2</do></aq>
+und die Seite <aq>W<do>2</do> U<do>3</do></aq> durch den festen Punkt <aq>D<do>3</do></aq>.</p>
+<p>2) Die drei Schnittpunkte der genannten drei Linien
+liegen in den Ordinaten der Kräfte <aq>W<do>2</do>, U<do>3</do></aq> und der durch
+da&sr; Verhältniß
+<formel>
+festgelegten Mittelkraft von <aq>W<do>2</do></aq> und <aq>U<do>3</do></aq>. Durch diese Be-
+dingungen ist der feste Punkt <aq>E<do>3</do></aq> in der Seite <aq>U<do>3</do> W<do>3</do></aq> be-
+stimmt. Die Abscisse de&sr; Punkte&sr; <aq>E<do>3</do></aq> ergiebt sich au&sr; der
+Hülf&sr;figur 32) und die Ordinate durch die Linie <aq>E<do>2</do> D<do>3</do></aq> in
+Fig. 31).</p>
+<p>In derselben Weise wird der Punkt <aq>E<do>4</do></aq> in der Polygon-
+seite <aq>B<do>5</do> U<do>4</do></aq> festgelegt, und damit ist die Aufgabe gelöst:
+denn durch <aq>B<do>5</do> E<do>4</do></aq> ist der Punkt <aq>U<do>4</do></aq>
+&201E; <aq>U<do>4</do> D<do>4</do> &201E; &201E; &201E; W<do>3</do></aq>
+&201E; <aq>W<do>3</do> E<do>3</do> &201E; &201E; &201E; U<do>3</do></aq>
+<cb>
+<pb="34"/>
+durch <aq>U<do>3</do> D<do>3</do></aq> ist der Punkt <aq>W<do>2</do></aq>
+&201E; <aq>W<do>2</do> E<do>2</do> &201E; &201E; &201E; U<do>2</do></aq>
+&201E; <aq>U<do>2</do> D<do>2</do> &201E; &201E; &201E; W<do>1</do></aq>
+festgelegt.</p>
+<p>Die Größen von <aq>U</aq> und <aq>W</aq> und damit die Größen der
+Biegung&sr;momente über den Mittelstützen ergeben sich au&sr;
+Fig. 35), in welcher die Strahlen mit den gleich benannten
+Polygonseiten (Fig. 31) parallel laufen. Die Maaßstäbe für
+den Horizontalzug <aq>E·T</aq> und für die Belastungen <aq>W</aq> und
+<aq>U</aq> müssen in dieser Figur natürlich dieselben sein, wie in der
+Hülf&sr;figur, nach welcher da&sr; Seilpolygon der positiven Be-
+lastungen <aq>V</aq> construirt wurde. Letztere Hülf&sr;figur ist hier
+fortgelassen, weil sie für die übrigen Operationen nicht weiter
+benutzt wurde.</p>
+<p>In der oben beschriebenen Construction pflanzen die Zeich-
+nung&sr;fehler sich fort, und e&sr; ist daher nothwendig, eine Controle
+für die Richtigkeit der Zeichnung sich zu verschaffen. Diese
+Controle gewinnt man dadurch, daß man von der Endstütze
+<aq>B<do>5</do></aq> nach link&sr; fortschreitend eine zweite Reihe von Fixpunkten
+<aq>F<do>3</do>, F<do>2</do>, F<do>1</do></aq> in ganz derselben Weise bestimmt, wie die Punkte
+<aq>E<do>2</do>, E<do>3</do>, E<do>4</do></aq> von <aq>B<do>1</do></aq> au&sr; festgelegt wurden. Die zu diesem
+Zweck au&sr;geführte Hülf&sr;figur 33) Blatt 398 wird demnach einer
+weiteren Erklärung wohl nicht bedürfen. Durch die Punkte
+<aq>E, F</aq> sind sonach die Polygonseiten <aq>B<do>1</do> W<do>1</do>, U<do>2</do> W<do>2</do>, U<do>3</do> W<do>3</do></aq>
+und <aq>U<do>4</do> B<do>5</do></aq> festgelegt und die Controle für die Richtigkeit
+der Zeichnung besteht darin, daß die Punkte (Fig. 31)
+<aq>W<do>1</do> D<do>2</do> U<do>2</do>
+W<do>2</do> D<do>3</do> U<do>3</do>
+W<do>3</do> D<do>4</do> U<do>4</do></aq>
+in geraden Linien liegen müssen.</p>
+<d4><b>Lage der Fixpunkte <aq>N</aq> und <aq>O</aq></b> (Fig. 32 und 33). <b>gegen die
+benachbarten Stützpunkte.</b></d4>
+<p>Eine merkwürdige Eigenschaft der Fixpunkte <aq>N</aq> und <aq>O</aq>
+erkennt man, wenn man den Fall untersucht, in welchem die
+sämmtlichen Stützpunkte in einer Horizontalen liegen, <g>eine</g>
+Oeffnung in beliebiger Weise belastet ist, dagegen alle übrigen
+Oeffnungen keine Belastungen tragen. In Fig. 36 (Blatt 398)
+ist beispiel&sr;weise angenommen, daß nur die erste der vier
+Oeffnungen belastet sei. Da&sr; Seilpolygon der Kräfte <aq>V</aq> bil-
+det daher ein Dreieck <aq>B<do>1</do> V<do>1</do> B<do>5</do></aq> und die Punkte <aq>D<do>2</do>, D<do>3</do></aq> und
+<aq>D<do>4</do></aq> liegen in Folge dessen in einer geraden Linie. Die Weiten
+der einzelnen Oeffnungen sind dieselben, wie in Fig. 31, und
+die Abscissen der Punkte <aq>F</aq> konnten demnach au&sr; der letzteren
+entnommen werden. Au&sr; Fig. 31) geht unmittelbar hervor,
+daß wenn die Punkte <aq>D<do>4</do>, D<do>3</do>, D<do>2</do></aq> in einer geraden Linie
+liegen, die Punkte <aq>F<do>3</do>, F<do>2</do>, F<do>1</do></aq> in derselben geraden Linie lie-
+gen müssen. Da&sr; Seilpolygon der unbekannten Kräfte <aq>U</aq>
+und <aq>W</aq> nimmt daher die in Fig. 36) dargestellte einfache
+Form an. Man erkennt au&sr; dieser Form ohne Weitere&sr;,
+<bs>3</bs>
+<cb>
+<pb="35"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+daß auf jede der unbelasteten Mittelöffnungen die Beziehung
+Anwendung findet, welche durch Fig. 14) und Gleichung 20)
+au&sr;gedrückt ist. Man findet nämlich:
+<formel>
+oder, wenn man die Werthe von <aq>U</aq> und <aq>W</aq> einsetzt,
+28) <formel>
+d. h. die Biegung&sr;momente über zwei auf einander folgenden
+Stützpunkten de&sr; unbelasteten Trägertheil&sr; verhalten sich zu
+einander wie die beiden Theile, in welche der feste Punkt <aq>O</aq>
+die Länge der zwischenliegenden Oeffnung eintheilt. Diese&sr;
+Verhältniß ist constant und ganz unabhängig von der Größe
+der Biegung&sr;momente oder der hier in Frage kommenden
+Belastungen.</p>
+<p>Die graphische Darstellung der Biegung&sr;momente für
+die drei unbelasteten Oeffnungen hat sonach die in Fig. 37)
+dargestellte Form, und man erkennt darau&sr;, <g>daß die Fix-
+punkte <aq>O</aq> die Wendepunkte der Biegung&sr;curve
+der unbelasteten Oeffnungen sind, sobald nur
+link&sr; von der unbelasteten Trägerlänge Belastun-
+gen angebracht sind</g>.</p>
+<p>Ebenso überzeugt man sich, daß <g>die Punkte</g> <aq>N</aq>, Fig. 32)
+<g>jene Bedeutung für die unbelasteten Oeffnungen
+haben, wenn nur recht&sr; von denselben Belastun-
+gen auf den Träger einwirken</g>.</p>
+<p>Da diese Beziehung in manchen Fällen mit Nutzen an-
+gewandt werden kann, so ist e&sr; von Interesse, die Lage der
+Punkte <aq>N</aq> und <aq>O</aq> gegen die Nachbarstützen auch durch Rech-
+nung zu bestimmen. Zu dem Zweck bezeichnen wir in Fig. 38)
+mit
+<aq>a<do>n</do></aq> die Länge <aq>B<do>n</do> N<do>n</do></aq>
+<aq>b<do>n</do></aq> die Länge <aq>O<do>n</do> B<do>n+1</do></aq>
+<aq>m<do>n</do></aq> da&sr; Verhältniß <formel>
+<aq>r<do>n</do></aq> da&sr; Verhältniß <formel>
+<aq>s<do>n</do></aq> da&sr; Verhältniß <formel></p>
+<p>Der Druck, welchen die Belastung&sr;fläche der <aq>n</aq><up>ten</up> Oeffnung
+auf die <aq>n</aq> + 1<up>ste</up> Stütze au&sr;übt, ist nach Fig. 38) Blatt 397
+<formel>
+und der Druck der Belastung&sr;fläche der <aq>n</aq> + 1<up>sten</up> Oeffnung
+auf die <aq>n</aq> + 1<up>ste</up> Stütze
+<formel>
+<cb>
+<pb="36"/>
+Da die Stützen in einer Horizontalen liegen, so muß die
+Summe jener zwei Auflagerdrücke gleich Null sein (Gl. 27),
+folglich
+<formel>
+oder
+<formel></p>
+<p>Wirken nur <g>recht&sr; von der</g> <aq>n</aq> + 2<up>ten</up> <g>Stütze</g> Bela-
+stungen auf den Träger, so ist
+<formel>
+und <formel>
+daher
+29) <formel>
+Wirken dagegen nur <g>link&sr; von der</g> <aq>n</aq><up>ten</up> <g>Stütze</g> Belastun-
+gen auf den Träger, so ist
+<formel>
+und <formel>
+daher
+30) <formel></p>
+<p>Sind beispiel&sr;weise sämmtliche Oeffnungen gleich groß,
+so wird, da <aq>M<do>1</do></aq> und folglich auch <aq>r<do>1</do> = O</aq> ist
+<formel>
+u. s. f.
+Der Grenzwerth <aq>r</aq> diese&sr; Kettenbruch&sr; ist nach Gleichung 29)
+<formel>
+oder <formel></p>
+<p>Sind die Oeffnung&sr;weiten zur Mitte de&sr; Träger&sr; sym-
+metrisch, so sind selbstverständlich die symmetrisch belegenen
+Werthe von <aq>r</aq> und <aq>s</aq> gleich groß.</p>
+<d4><b>Graphische Bestimmung der Zahlenfactoren in den Glei-
+chungen für die Biegung&sr;momente über den Stützpunkten.</b></d4>
+<p>Die in Fig. 31&2014;35) gelöste Aufgabe kommt verhält-
+nißmäßig selten vor, denn in der Regel ist nicht nur <g>ein
+bestimmter Belastung&sr;fall</g>, sondern e&sr; sind <g>alle mög-
+lichen Belastung&sr;fälle</g> zu berücksichtigen. Ebenso ist &2014;
+wenn überhaupt verschiedene Höhen der Stützpunkte in Frage
+kommen &2014; gewöhnlich nicht eine bestimmte Höhenlage gege-
+ben, sondern man will den Einfluß der relativen Höhe einer
+jeden einzelnen Stütze ermitteln. Zur Vereinfachung der Aufgabe
+<cb>
+<pb="37"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+nimmt man in der Regel an, daß die einzelnen Oeffnungen
+gleichmäßig belastet seien. Bei der Auflösung der Aufgabe
+durch Rechnung führt man also allgemeine Werthe für die
+Belastungen der einzelnen Oeffnungen und für die Ordinaten
+der Stützpunkte ein und bestimmt mit Hülfe von Gleichungen
+von der Form der Gl. 26) die unbekannten Biegung&sr;momente
+über den Stützen. Diese Arbeit hat keine Schwierigkeit,
+jedoch werden die Zahlenrechnungen ziemlich zeitraubend, so-
+bald die Anzahl der Oeffnungen eine größere ist und die in
+Rechnung zu stellenden Maaße und Verhältnisse keine abge-
+rundeten Zahlenwerthe haben.</p>
+<p>In solchen Fällen führt da&sr; im Folgenden beschriebene
+graphische Verfahren einfacher und rascher zum Ziele.</p>
+<p>E&sr; seien z. B. die Gleichungen für einen Träger von
+constantem Querschnitt über vier Oeffnungen von 52, 65,
+65 und 52 Meter Weite aufzustellen.</p>
+<p>Die Fig. 39 Blatt 398, in welcher die Längen in 1/1000
+der natürlichen Größe dargestellt sind, ergiebt die Lage der
+Fixpunkte <aq>N</aq>, und da die Stützen zur Mitte der Trägerlänge
+symmetrisch stehen, so ist damit auch die Lage der Fixpunkte
+<aq>O</aq> gegeben. In Fig. 40 Blatt 398 ist angenommen, daß nur
+die erste Oeffnung und zwar gleichmäßig belastet sei. Die
+positive Belastung&sr;fläche der ersten Oeffnung ist also da&sr;
+Parabelsegment <aq>B<do>1</do> C B<do>2</do></aq>, für dessen Scheitelhöhe da&sr; belie-
+bige runde Maaß
+<aq>A C</aq> = 20 Millimeter
+angenommen wurde. Für die Construction de&sr; Linienzuge&sr;
+<aq>B<do>1</do> F R S B<do>5</do></aq>, welcher die negative Belastung&sr;fläche <aq>B<do>1</do> F B<do>2</do></aq>
+der ersten Oeffnung und die Belastung&sr;flächen der drei übrigen
+Oeffnungen darstellt, ist nur die Länge <aq>B<do>2</do> F</aq> zu bestimmen,
+denn im Uebrigen wird derselbe durch die Fixpunkte <aq>O<do>2</do></aq> und
+<aq>O<do>3</do></aq> festgelegt. Die Continuität der elastischen Linie erfordert,
+daß der Druck auf die zweite Stütze, welcher von den Bela-
+stung&sr;flächen der ersten und zweiten Oeffnung, also von
+<formel>
+au&sr;geübt wird, gleich Null sei. Zugleich muß nach der Be-
+deutung der Fixpunkte <aq>O</aq> (vergl. die Ableitung der Gleichun-
+gen 28) der Druck, welcher von den Belastung&sr;flächen
+<formel>
+oder von
+<formel>
+auf die zweite Stütze au&sr;geübt wird, gleich Null sein. Au&sr;
+der Vergleichung dieser Au&sr;drücke ergiebt sich, daß da&sr; Pa-
+rabelsegment <aq>B<do>1</do> C B<do>2</do></aq> und da&sr; Dreieck <aq>B<do>1</do> D B<do>2</do></aq> gleich große
+Drücke auf dte zweite Stütze au&sr;üben müssen, oder daß
+<formel>
+folglich
+31) <formel>
+sein muß. Man braucht sonach nur die Linie <aq>B<do>2</do> C</aq> und die
+<cb>
+<pb="38"/>
+Ordinate de&sr; Fixpunkte&sr; <aq>O<do>1</do></aq> zu ziehen, um den Punkt <aq>E</aq> und
+damit den Linienzug <aq>B<do>1</do> F R S B<do>5</do></aq> festzulegen.</p>
+<p>Nach der Fig. 40) ist
+<formel>
+folglich
+<formel></p>
+<p>Fig. 41 Blatt 398 zeigt die analoge Construction für den
+Fall, daß nur die zweite Oeffnung belastet ist. Die Schluß-
+folgerung ist hier genau dieselbe, wie im ersten Falle und
+e&sr; ergiebt sich, daß
+32) <formel>
+sein muß. Dadurch sind die Punkte <aq>K</aq> und <aq>L</aq> und mit
+diesen der Linienzug <aq>B<do>1</do> M P Q B<do>5</do></aq> bestimmt. Nach der
+Zeichnung ist
+<formel>
+demnach
+<formel></p>
+<p>Für die Belastung der folgenden Oeffnungen braucht die
+Zeichnung nicht au&sr;geführt zu werden, denn wegen der sym-
+metrischen Stützenstellung folgt au&sr; den vorstehenden Beziehun-
+gen, daß
+<formel>
+und ferner
+<formel>
+sein muß. Bei gleichzeitiger Belastung sämmtlicher vier Oeff-
+nungen ist daher
+<formel></p>
+<p>Die durch Rechnung bestimmten genaueren Zahlenwerthe
+sind folgende:
+<formel></p>
+<bs>3*</bs>
+<cb>
+<pb="39"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+<p>Der mit Rücksicht auf da&sr; Format dieser Zeitschrift ge-
+wählte kleine Maaßstab der Zeichnungen gewährt also bereit&sr;
+einen für praktische Zwecke vollkommen genügenden Genauig-
+keit&sr;grad, den man übrigen&sr; durch Vergrößerung de&sr; Maaß-
+stabe&sr; nach Belieben erhöhen kann.</p>
+<p><g>Beziehungen zwischen den Größen</g> <aq>M<do>n</do>, M<do>n+1</do></aq>,
+M<aq><do>n</do></aq>, <aq>s<do>n</do></aq> und <aq>r<do>n</do></aq>, <g>wenn nur die <aq>n</aq><up>te</up> Oeffnung belastet ist</g>.</p>
+<p>Figur 41 Blatt 398 bezieht sich auf den Fall, in welchem
+nur die zweite Oeffnung de&sr; dort in Frage stehenden con-
+tinuirlichen Träger&sr; von einer Belastung gleichmäßig bedeckt
+ist, während alle übrigen Oeffnungen unbelastet bleiben. Au&sr;
+dieser Figur ergeben sich für jenen Fall unmittelbar folgende
+Bedingungen:
+und
+<formel></p>
+<p>Gleichlautende Beziehungen gelten unter analogen Vor-
+au&sr;setzungen für jede andere Oeffnung; daher ist auch
+<formel>
+hierau&sr; folgt
+33) <formel>
+34) <formel>
+und
+35) <formel></p>
+<d4><b>Graphische Bestimmung de&sr; Einflusse&sr; der relativen Höhen-
+lage der Stützpunkte.</b></d4>
+<p>Figur 42 bi&sr; 47 Blatt 398 und 400 beziehen sich auf
+denselben Träger wie die vorhergehenden Figuren 39 bi&sr; 41;
+au&sr; diesen ist die Lage der Fixpunkte <aq>N</aq> und <aq>O</aq> entnommen.</p>
+<p>In Fig. 42 bi&sr; 44 Blatt 398 sind die Biegung&sr;momente
+ermittelt, welche durch eine Senkung der zweiten Stütze unter
+da&sr; gleiche Niveau der übrigen Stützen erzeugt werden. In
+Fig. 42) ist angenommen, daß die Senkung der zweiten Stütze
+28,0 Meter betrage; diese&sr; Maaß ist ganz beliebig gewählt,
+da die Zeichnungen anfänglich zur Ermittelung von Zahlen-
+factoren nicht bestimmt waren. Die nachfolgenden einfachen
+Zahlenrechnungen wären übrigen&sr; noch um Einige&sr; erleichtert,
+wenn man statt 28,0 Meter al&sr; Senkung da&sr; Maaß
+<formel>
+angenommen hätte. Daß eine so bedeutende Höhenverände-
+rung der Stützen in Wirklichkeit nicht au&sr;führbar ist, beein-
+<cb>
+<pb="40"/>
+trächtigt, wie sich später zeigen wird, die Richtigkeit der Re-
+sultate nicht. &2014; Da&sr; Seilpolygon der unbekannten Kräfte <aq>U</aq>
+und <aq>W</aq> wird genau in derselben Weise construirt, wie in
+Fig. 31. Der Linienzug <aq>B<do>1</do> B<do>2</do> E<do>2</do> B<do>3</do> E<do>3</do> B<do>4</do> E<do>4</do></aq> ergiebt die
+Lage der Fixpunkte <aq>E</aq> und die in Fig. 31 mit <aq>F<do>2</do></aq> und <aq>F<do>3</do></aq>
+bezeichneten Fixpunkte fallen in Fig. 42 mit <aq>O<do>2</do></aq> und <aq>O<do>3</do></aq> zu-
+sammen, weil die Ordinaten de&sr; Seilpolygon&sr; über den
+Stützen <aq>B<do>3</do>, B<do>4</do>, B<do>5</do></aq> gleich Null sind. Die Polygonseite <aq>U<do>2</do> W<do>2</do></aq>
+fällt also mit der Geraden <aq>E<do>2</do> O<do>2</do></aq> und die Seite <aq>U<do>3</do> W<do>3</do></aq>
+mit der Geraden <aq>E<do>3</do> O<do>3</do></aq> zusammen, und dadurch sind alle
+übrigen Polygonseiten festgelegt. Au&sr; der Neigung der Seil-
+polygonseiten gegen einander findet man in bekannter Weise
+durch Fig. 44) die Größe der Belastungen <aq>U</aq> und <aq>W</aq>.</p>
+<p>Der Schnittpunkt <aq>H</aq> der Polygenseite <aq>U<do>2</do> W<do>2</do></aq> mit der
+Geraden <aq>B<do>2</do> B<do>3</do></aq> bewegt sich auf der festen Ordinate <aq>R<do>2</do> H</aq>,
+wenn die Senkung der Stütze <aq>B<do>2</do></aq> ab- oder zunimmt d. h.
+wenn der Punkt <aq>B<do>2</do></aq> auf der Ordinate <aq>B<do>2</do> G</aq> sich bewegt, denn
+die Linie <aq>B<do>1</do> B<do>2</do></aq> dreht sich um den festen Punkt <aq>B<do>1</do></aq>
+&201E; <aq>B<do>2</do> B<do>3</do> &201E; &201E; &201E; &201E; &201E; &201E; B<do>3</do></aq>
+&201E; <aq>E<do>2</do> O<do>2</do> &201E; &201E; &201E; &201E; &201E; &201E; O<do>2</do></aq></p>
+<p>Da jene drei Punkte in einer Geraden liegen, und da
+die Schnittpunkte der Geraden <aq>B<do>1</do> B<do>2</do></aq> mit <aq>B<do>3</do> B<do>2</do></aq> und <aq>B<do>1</do> B<do>2</do></aq>
+mit <aq>E<do>2</do> O<do>2</do></aq> in festen Ordinaten liegen, so beschreibt auch der
+dritte Schnittpunkt <aq>H</aq> eine Ordinate; der Punkt <aq>R<do>2</do></aq> ist sonach
+ein Fixpunkt, dessen Lage nur von dem Verhältniß der Oeff-
+nung&sr;weiten abhängig ist <fn="*)">Offenbar ist <aq>R<do>2</do></aq> der Wendepunkt derjenigen Biegung&sr;curve, welche
+erzeugt wird, wenn man den Träger in den Punkten <aq>B<do>1</do> B<do>3</do> B<do>4</do> B<do>5</do></aq>
+horizontal unterstützt und in dem Punkte <aq>B<do>2</do></aq> belastet.</fn>. Au&sr; der Anwendung der durch
+Gleichung 20) au&sr;gedrückten Beziehung auf Fig. 42) folgt,
+daß
+und
+<formel>
+ist. Die graphische Darstellung der Biegung&sr;momente de&sr;
+unbelasteten Träger&sr; hat demnach die in Fig. 43) dargestellte
+Form und wegen der festen Lage der Punkte <aq>R<do>2</do></aq> und <aq>O<do>3</do></aq> ist
+da&sr; Verhältniß
+<formel>
+constant und unabhängig von der Größe der Ordinate <aq>B<do>2</do> G</aq>.
+E&sr; geht ferner au&sr; Fig. 42) hervor, daß die Ordinaten <aq>N E</aq>
+proportional mit <aq>B<do>2</do> G</aq> sich verändern, und weil die Belastung
+<aq>U<do>4</do></aq> und daher auch da&sr; Biegung&sr;moment <aq>M<do>4</do></aq> der Ordinate
+<aq>N<do>4</do> E<do>4</do></aq> proportional ist, so verändern sich sämmtliche in
+Fig. 43) dargestellten Biegung&sr;momente in demselben Verhält-
+niß wie die Ordinate <aq>B<do>2</do> G</aq> der zweiten Stütze.</p>
+<p>Nach Fig. 44) ist
+<aq>E·T</aq> = 30 Millimeter
+<cb>
+<pb="41"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+<formel>
+Nennt man nun <aq>y<do>2</do></aq> die variable Ordinate der Stütze <aq>B<do>2</do></aq> in
+Bezug auf die Horizontale der übrigen Auflager und beachtet
+man, daß obige Zahlenwerthe für eine Ordinate
+<formel>
+gelten, so ist
+<formel></p>
+<p>Die Figuren 45 bi&sr; 47) Blatt 400 enthalten dieselbe
+Construction für den Fall, daß die dritte Stütze nicht in der
+Horizontalen der übrigen Auflager liegt. Die Ordinate <aq>B<do>3</do> J</aq>
+ist in Fig. 45) willkürlich angenommen zu
+<formel>
+und au&sr; Fig. 47) ergiebt sich,
+<formel>
+demnach ist
+<formel>
+und der Symmetrie wegen
+<formel></p>
+<p>Die übrigen Zahlenwerthe ergeben sich au&sr; dem Gesetz
+der Symmetrie, so daß, wenn alle drei Mittelstützen nicht im
+Niveau der beiden Endstützen liegen, die Biegung&sr;momente
+folgende Werthe annehmen:
+<formel></p>
+<d4><b>Lösung der vorhergehenden Aufgabe durch Rechnung.</b></d4>
+<p>Wenn man da&sr; unbelastete, mit <aq>E·T</aq> in horizontaler
+Richtung angespannte Seil durch die Stützpunkte in Fig. 42
+führt, so ist der Druck auf die Stütze <aq>B<do>2</do></aq> gleich
+<formel>
+ferner der Druck auf die Stütze <aq>B<do>3</do></aq> gleich
+<formel>
+und derjenige auf die Stütze <aq>B<do>4</do></aq> gleich Null. Der Auflager-
+<cb>
+<pb="42"/>
+druck de&sr; Seil&sr; und der in Fig. 43) dargestellten Belastung&sr;-
+flächen muß nach Gleichung 27) für jede Mittelstütze gleich
+Null sein, daher
+<formel></p>
+<p>Nachdem die Werthe von <aq>l</aq> in obige Gleichungen einge-
+setzt sind, ergeben dieselben
+<formel></p>
+<p>Für eine Senkung der dritten Stütze unter da&sr; Niveau
+der übrigen Stützpunkte erhalten die Stützendrücke de&sr; Seil&sr;
+und der Belastung&sr;flächen der Biegung&sr;momente folgende
+Werthe (vergl. Fig. 45 und 46)
+<formel>
+hierau&sr; folgt:
+<formel></p>
+<p>Der kleine Maaßstab der Zeichnungen gewährt also auch
+in diesem Falle einen vollkommen genügenden Genauigkeit&sr;-
+grad.</p>
+<d4><b>Graphische Bestimmung der Biegung&sr;momente und abschee-
+renden Verticalkräfte, welche von einer concentrirten Ein-
+zellast erzeugt werden.</b></d4>
+<p>Bekanntlich ergiebt die Annahme, daß die Belastung
+einer jeden Oeffnung eine&sr; continuirlichen Träger&sr; über deren
+Länge gleichmäßig vertheilt sei, nur für einzelne Punkte die
+Maxima der möglichen Biegung&sr;momente und abscheerenden
+Verticalkräfte und e&sr; ist daber von Interesse, zu untersuchen,
+durch welche Lagen der Belastung in jedem beliebigen Punkte
+de&sr; Träger&sr; jene Maxima erzeugt werden. Alle hierauf be-
+züglichen Fragen lassen sich beantworten, wenn man im Stande
+ist, die Biegung&sr;momente und abscheerenden Verticalkräfte
+graphisch darzustellen, welche hervorgerufen werden, wenn nur
+ein beliebiger Punkt de&sr; im Uebrigen unbelasteten Träger&sr;
+belastet ist; denn au&sr; Einzellasten läßt sich jede andere Be-
+lastung zusammensetzen. Wir setzen vorau&sr;, daß sämmtliche
+<cb>
+<pb="43"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+Stützen in einer Horizontalen liegen, und daß nur der Punkt
+<aq>A</aq> (Fig. 48 Blatt 400) in der <aq>n</aq><up>ten</up> Oeffnung, dessen Entfer-
+nung von der <aq>n</aq><up>ten</up> Stütze gleich <aq>x</aq> ist, mit einem Gewicht <aq>P</aq>
+belastet sei. Die Belastung&sr;fläche der elastischen Linie hat die
+Form <aq>W B<do>n</do> U C V B<do>n+1</do> Z</aq>. Bekannt ist die Ordinate
+<formel>
+unbekannt die Lage der Geraden <aq>W Z</aq>. Diese Lage ergiebt
+sich durch eine ganz ähnliche Beziehung wie jene, welche an-
+gewandt wurde, um die in Fig. 40) dargestellte Aufgabe zu
+lösen. Zu dem Zweck wird vorau&sr;gesetzt, daß die Lage der
+Fixpunkte <aq>N<do>n</do></aq> und <aq>O<do>n</do></aq> durch eine Hülf&sr;construction nach Art
+der Fig. 32) und 33) bestimmt und für die vorliegende Auf-
+gabe sonach gegeben sei. Entfernt man die Belastung <aq>P</aq> und
+bringt man dafür recht&sr; von der Stütze <aq>B<do>n+1</do></aq> also z. B. in
+der <aq>n</aq> + 2<up>ten</up> Oeffnung eine so große Belastung an, daß da&sr;
+Biegung&sr;moment <aq>M<do>n</do></aq> dieselbe Größe erhält, wie in Fig. 48,
+so werden auch alle übrigen Biegung&sr;momente link&sr; von der
+Stütze <aq>B<do>n</do></aq> dieselbe Größe behalten, wie in dem von Fig. 48
+dargestellten Belastung&sr;falle. Dagegen werden die Biegung&sr;-
+momente in der <aq>n</aq><up>ten</up> Oeffnung durch die Flächen
+<formel>
+dargestellt, weil der Wendepunkt der Biegung&sr;curve in dem
+Punkte <aq>N<do>n</do></aq> liegt, wenn nur recht&sr; von <aq>B<do>n+1</do></aq> Belastungen auf
+den Träger einwirken. In beiden Belastung&sr;fällen erfordert
+die Continuität der mit der elastischen Linie übereinstimmenden
+Seilcurve, daß der Auflagerdruck der Belastung&sr;fläche der
+<aq>n</aq>&2014;1<up>sten</up> und <aq>n</aq><up>ten</up> Oeffnung auf die <aq>n</aq><up>te</up> Stütze gleich Null sei,
+oder, da die Belastung&sr;fläche der <aq>n</aq>&2014;1<up>sten</up> Oeffnung in beiden
+Fällen dieselbe ist, daß die Drücke auf die <aq>n</aq><up>te</up> Stütze, welche
+von der Belastung&sr;fläche
+<formel>
+und von der Fläche
+<formel>
+au&sr;geübt werden, einander gleich seien. Hierau&sr; folgt, daß
+die Momente der beiden Dreiecke
+<formel>
+in Bezug auf die Achse <aq>M B<do>n+1</do></aq> gleich groß sein müssen.
+Der Schwerpunkt de&sr; Dreieck&sr; <aq>B<do>n</do> C B<do>n+1</do></aq> ist der Punkt <aq>S</aq>
+und der Schwerpunkt de&sr; Dreieck&sr; <aq>B<do>n</do> M B<do>n+1</do></aq> liegt in der
+Ordinate de&sr; Punkte&sr; <aq>E, &frac13; l<do>n</do></aq> von dem Auflager <aq>B<do>n+1</do></aq>
+entfernt. E&sr; ist demnach
+<formel>
+oder
+<formel></p>
+<p>Der Linienzug <aq>C H K M</aq> ergiebt sonach die Lage de&sr;
+Punkte&sr; <aq>M</aq>, wodurch ein Punkt <aq>R</aq> der unbekannten Geraden
+<aq>W Z</aq> bestimmt ist. Den zweiten Punkt <aq>T</aq> erhält man durch
+eine analoge Construction, indem man den Druck der Bela-
+<cb>
+<pb="44"/>
+stung&sr;flächen auf die Stütze <aq>B<do>n+1</do></aq> in Betracht zieht. Man
+findet, daß der Linienzug <aq>C G J L</aq> den Punkt <aq>L</aq> und die
+Gerade <aq>L B<do>n+1</do></aq> den zweiten unbekannten Punkt <aq>T</aq> ergiebt.</p>
+<p>Die <g>abscheerende Verticalkraft</g> ist gleich der ersten
+Abgeleiteten
+<formel>
+derjenigen Function, welche die Beziehung zwischen dem Bie-
+gung&sr;moment <aq>M</aq> und der horizontalen Abscisse <aq>x</aq> au&sr;drückt.
+Au&sr; Fig. 48) ersieht man, daß der constante Werth von <formel>
+auf der Strecke <aq>A B<do>n</do></aq> zu demjenigen auf der Strecke <aq>A B<do>n+1</do></aq>
+sich verhält wie
+<formel></p>
+<p>Trägt man also in Fig. 49) die Belastung <aq>P</aq> de&sr; Punkte&sr;
+<aq>A</aq> nach irgend einem Maaßstabe gleich den Längen <aq>P = U D
+= C V</aq> auf, so ist <aq>B<do>n</do> H F A E G B<do>n+1</do></aq> die graphische Dar-
+stellung der abscheerenden Kräfte.</p>
+<p>Die Fig. 50 Blatt 399 enthält die Construction der Fig. 48
+für sieben Punkte, welche die Länge <aq>l<do>n</do></aq> der Oeffnung in sech&sr;
+gleiche Theile eintheilen. Die Buchstaben haben in beiden Fi-
+guren gleiche Bedeutung, nur ist in Fig. 50) jedem Buchstaben
+die Ziffer angefügt, welche dem belasteten Punkt <aq>A</aq> entspricht.
+Zur Vereinfachung der Construction ist in Fig. 50) angenom-
+men, daß die von den Ordinaten <aq>A C</aq> gemessenen positiven
+Momente sämmtlich gleich groß seien. Die Wendepunkte <aq>U</aq>
+und <aq>V</aq> beschreiben unter dieser Annahme die punktirten Hy-
+perbeln und die Linie <aq>W Z</aq> dreht sich um den festen Punkt
+<aq>P</aq>. Nimmt man dagegen an, daß ein constante&sr; Gewicht <aq>P</aq>
+über die Oeffnung sich bewegt, so ist da&sr; von der Ordinate
+<aq>A C</aq> gemessene positive Moment gleich
+<formel>
+wenn <aq>x</aq> die horizontale Entfernung der Belastung <aq>P</aq> von der
+Stütze <aq>B<do>n</do></aq> bezeichnet. Der Punkt <aq>C</aq> beschreibt al&sr;dann die
+in Fig. 51) punktirte Parabel. Die Abscissen der Wende-
+punkte <aq>U</aq> und <aq>V</aq> bleiben dieselben wie in Fig. 50) und dadurch
+ist die Lage der Linien <aq>W Z</aq> in Fig. 51) bestimmt. Eine
+bessere Uebersicht über die Biegung&sr;momente erhält man, wenn
+man nach Fig. 51) die Beziehungen, welche zwischen den Bie-
+gung&sr;momenten in den Punkten <aq>A<do>0</do>, A<do>1</do>, A<do>2</do></aq> ...... und
+der Abscisse <aq>x</aq> der Belastung <aq>P</aq> stattfinden, in einer besonderen
+Figur (Fig. 52) graphisch darstellt. Die Ordinate der Curve
+<aq>B<do>n</do> 2 2 B<do>n+1</do></aq> ergiebt also z. B. da&sr; Biegung&sr;moment im Punkte
+<aq>A<do>2</do></aq>, wenn die Belastung <aq>P</aq> in der da&sr; Biegung&sr;moment dar-
+stellenden Ordinate wirkt. Die Ordinaten dieser Curve in
+den Theilpunkten 1, 2, 3, 4, 5 müssen offenbar gleich den
+fünf in Fig. 51) auf der Ordinate <aq>A<do>2</do> C<do>2</do></aq> dargestellten Bie-
+gung&sr;momenten aufgetragen werden.</p>
+<cb>
+<pb="45"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+<p>Von besonderem Interesse sind die Curven <aq>B<do>n</do> O O·B<do>n+1</do></aq>
+und <aq>B<do>n</do> 6 6 ..... B<do>n+1</do></aq>, welche die beiden Biegung&sr;-
+momente <aq>M<do>n</do></aq> und <aq>M<do>n+1</do></aq> graphisch darstellen, weil diese Cur-
+ven au&sr;reichen, um für jede Lage der Last <aq>P</aq> die Darstellung
+der Biegung&sr;momente au&sr;zuführen. In Fig. 48) ist
+<formel></p>
+<p>Au&sr; den letzten zwei Gleichungen folgt
+36) <formel>
+37) <formel>.
+Hierau&sr; ergiebt sich für jene zwei Curven folgende einfache
+Construction. In Fig. 66) Blatt 400 ist die Ordinate der punk-
+tirten Parabel <aq>B<do>n</do> C B<do>n+1</do></aq> gleich
+<formel>
+und
+<formel>.
+Die Parabelordinaten sind in horizontaler Richtung auf die
+Linie <aq>E G</aq> projicirt, und durch die Fußpunkte der projiciren-
+den Linien sind Strahlen nach dem Punkte <aq>J</aq> gezogen. Die
+Schnittpunkte dieser Strahlen mit den entsprechenden Parabel-
+ordinaten sind Punkte der Curven für <aq>M<do>n</do></aq>.</p>
+<p>In ganz ähnlicher Weise ergiebt sich nach Fig. 67) die
+Curve für <aq>M<do>n+1</do></aq>, indem man die Ordinaten der Parabel
+<aq>B<do>n</do> D B<do>n+1</do></aq> gleich
+<formel>
+aufträgt.</p>
+<p>Da&sr; Maximum von <aq>M<do>n</do></aq> tritt ein, wenn
+38) <formel>
+und da&sr;jenige von <aq>M<do>n+1</do></aq>, wenn
+39) <formel>
+ist; in diesen beiden Punkten erzeugt also eine Einzellast da&sr;
+größtmögliche Biegung&sr;moment über der <aq>n</aq><up>ten</up> und <aq>n</aq>+1<up>sten</up>
+Stütze. Jene Werthe von <aq>x</aq> lassen sich leichter auf graphi-
+schem Wege al&sr; durch Rechnung bestimmen.</p>
+<cb>
+<pb="46"/>
+<p>In Fig. 68) ist
+<formel>
+<aq>D</aq> und <aq>E</aq> sind, wie man sich leicht überzeugt, die beiden ge-
+suchten Punkte.</p>
+<p>Al&sr; eine merkwürdige Beziehung ist noch zu erwähnen,
+daß die in Rede stehenden beiden Curven die Biegung&sr;curven
+der <aq>n</aq><up>ten</up> Oeffnung für die beiden Fälle sind, in welchen nur
+link&sr; oder nur recht&sr; von der <aq>n</aq><up>ten</up> Oeffnung Belastungen auf
+den Träger einwirken. Man überzeugt sich hiervon, wenn
+man die zweiten Abgeleiteten der Gleichungen 36) und 37) bil-
+det und diese mit den Gleichungen der Biegung&sr;momente für
+jene Belastung&sr;fälle vergleicht. Die zweite Abgeleitete der
+Gleichung 36) ist
+<formel>
+und die Gleichung der Biegung&sr;momente der unbelasteten <aq>n</aq><up>ten</up>
+Oeffnung
+<formel></p>
+<p>Wenn der Träger nur link&sr; von der <aq>n</aq><up>ten</up> Oeffnung be-
+lastet ist, so ist
+und daher
+<formel></p>
+<p>Bezeichnet man die Ordinate der Curve <aq>B<do>n</do> O O .. B<do>n+1</do></aq>
+mit <aq>y</aq>, so ist also
+<formel>
+d. h. jene Curve ist die Biegung&sr;curve für den oben bezeich-
+neten Belastung&sr;fall. Ebenso findet man, daß die Curve
+<aq>B<do>n</do> 6 6 B<do>n+1</do></aq> die Biegung&sr;curve darstellt, wenn der Träger
+nur recht&sr; von der <aq>n</aq><up>ten</up> Oeffnung belastet ist.</p>
+<p>Au&sr; den Fig. 50&2014;52 ist ohne Weitere&sr; zu ersehen:</p>
+<p>1) die Wendepunkte <aq>U</aq> und <aq>V</aq> der von einer Einzellast
+erzeugten Biegung&sr;curve liegen nie zwischen den beiden
+Fixpunkten <aq>N<do>n</do></aq> und <aq>O<do>n</do></aq>, sondern immer zwischen diesen
+Punkten und den Stützpunkten;</p>
+<p>2) jede Belastung der <aq>n</aq><up>ten</up> Oeffnung erzeugt daher in
+jedem Punkt der Strecke <aq>N<do>n</do> O<do>n</do></aq> ein positive&sr; Biegung&sr;-
+moment und die ganze Länge der Oeffnung muß von
+der größtmöglichen Belastung bedeckt sein, um in diesen
+Punkten da&sr; Maximalbiegung&sr;moment hervorzurufen;</p>
+<p>3) in den Punkten der beiden Strecken <aq>B<do>n</do> N<do>n</do></aq> und <aq>O<do>n</do> B<do>n+1</do></aq>
+kommen positive und negative Biegung&sr;momente vor.
+Man findet mit Hülfe der Curven <aq>U</aq> und <aq>V</aq> (Fig. 50)
+<cb>
+<pb="47"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+leicht die Lage derjenigen Belastung, welche in einem
+beliebigen Punkte jener zwei Strecken ein Biegung&sr;mo-
+ment gleich Null hervorruft. Die Lage dieser Belastung
+theilt die Oeffnung in zwei Strecken, deren Belastun-
+gen entgegengesetzte Biegung&sr;momente in dem betrach-
+teten Punkt erzeugen. Beispiel&sr;weise ist die Ordinate
+von <aq>C<do>2</do></aq> die Belastung&sr;scheide für den Punkt <aq>A<do>5</do></aq>, denn
+auf der Ordinate von <aq>A<do>5</do></aq> liegt &2014; zufällig &2014; der Wende-
+punkt <aq>V<do>2</do></aq>, und man ersieht au&sr; der in Fig. 52) mit der
+Ziffer 5 bezeichneten Curve, daß alle Belastungen link&sr;
+von <aq>C<do>2</do></aq> negative und alle Belastungen recht&sr; von diesem
+Punkte positive Biegung&sr;momente in dem Punkte <aq>A<do>5</do></aq>
+erzeugen.</p>
+<p>4) Jeder Punkt <aq>A</aq> der Linie <aq>B<do>n</do> B<do>n+1</do></aq> theilt die Oeffnung
+<aq>l<do>n</do></aq> in zwei Strecken, deren Belastungen abscheerende
+Kräfte von entgegengesetzten Richtungen in dem Punkt <aq>A</aq>
+erzeugen. Die Maxima der abscheerenden Kräfte werden
+also hervorgerufen, wenn <g>eine</g> jener beiden Strecken
+von der größtmöglichen Last bedeckt ist.</p>
+<p>5) Die Fig. 52) giebt da&sr; Mittel, um die Maxima der
+positiven und negativen Biegung&sr;momente, welche von
+einer Belastung <aq>p pro</aq> Längeneinheit erzeugt werden
+können, zu bestimmen, denn diese Maxima sind offen-
+bar proportional den Flächen, welche zwischen den Cur-
+ven der Fig. 52) und der Abscissenachse liegen; z. B.
+ist da&sr; positive Maximalmoment in dem Punkte <aq>A<do>1</do></aq> pro-
+portional der positiven Fläche &2014; oberhalb der Abscissen-
+achse &2014; zwischen der Curve 1 1 &2026; und der Achse
+<aq>B<do>n</do> B<do>n+1</do></aq> und da&sr; negative Maximalmoment jene&sr;
+Punkte&sr; ist proportional der Fläche unterhalb der Achse.
+Jene Flächen in Fig. 52 sind mit dem Planimeter ge-
+messen und ihre Werthe al&sr; Ordinaten in Fig. 53) zu
+einer graphischen Darstellung zusammengestellt. Da die
+Maximalmomente zwischen <aq>N<do>n</do></aq> und <aq>O<do>n</do></aq> bei voller Be-
+lastung der ganzen Länge <aq>l<do>n</do></aq> eintreten, so ist der Cur-
+venzweig <aq>J D<do>3</do> K</aq> eine Parabel, und zwar ein Theil
+der Curve <aq>E<do>0</do> D<do>3</do> E<do>6</do></aq>, welche die Biegung&sr;momente bei
+voller Belastung der Oeffnung graphisch darstellt <fn="*)">Macht man (Fig. 53) <aq>G H = 4/3 H D<do>3</do></aq>, so erzeugt die Bela-
+stung&sr;fläche <aq>E<do>0</do> G E<do>6</do></aq> dieselben Auflagerdrücke, wie die Parabelfläche
+<aq>E<do>0</do> D<do>3</do> E<do>6</do></aq>; die Wendepunkte der Biegung&sr;curve, welche der Belastung&sr;-
+fläche <aq>E<do>0</do> G E<do>6</do></aq> entsprechen, müssen in den Verticalen der Wendepunkte
+<aq>U<do>3</do></aq> und <aq>V<do>3</do></aq> in Fig. 50 und 51 liegen. Ferner folgt au&sr; den Betrach-
+tungen, welche den Figuren 40 und 41 zu Grunde liegen, daß die
+Geraden <aq>E<do>0</do> D<do>3</do></aq> und <aq>E<do>6</do> D<do>3</do></aq> in Fig. 53) durch die Fixpunkte <aq>N<do>n</do></aq> und <aq>O<do>n</do></aq>
+gehen müssen. Diese Bedingungen sind al&sr; Controle für die Richtig-
+keit der Zeichnung benutzt.</fn>.</p>
+<p>Die Curvenzweige <aq>B<do>n</do> D<do>1</do> J</aq> und <aq>K D<do>5</do> B<do>n+1</do></aq> ergeben
+die positiven Maximalmomente für den übrigen Theil der
+Oeffnung. Diese Curven tangiren die Abscissenachse und die
+Parabel <aq>E<do>0</do> D<do>3</do> E<do>6</do></aq> und können ohne erheblichen Fehler al&sr;
+Parabeln gezeichnet werden, deren verticale Achsen durch die
+<cb>
+<pb="48"/>
+Stützpunkte gehen. Die Ordinaten der Curve <aq>E<do>0</do> E<do>1</do> N<do>n</do></aq> und
+<aq>O<do>n</do> E<do>5</do> E<do>6</do></aq> ergeben die negativen Maximalmomente. Diese
+Curven tangiren ebenfall&sr; die Abscissenachse und die Parabel
+<aq>E<do>0</do> D<do>3</do> E<do>6</do></aq> und können al&sr; Parabeln gezeichnet werden, deren
+verticale Achsen durch die Fixpunkte <aq>N<do>n</do></aq> und <aq>O<do>n</do></aq> gehen.</p>
+<p>In Fig. 54) sind nach Anleitung der Fig. 49) die ab-
+scheerenden Kräfte construirt, welche innerhalb der <aq>n</aq><up>ten</up> Oeff-
+nung erzeugt werden, wenn eine Einzellast von der Größe
+<aq>A<do>0</do> D<do>0</do></aq> in einem der sieben Theilpunkte der <aq>n</aq><up>ten</up> Oeffnung
+de&sr; im Uebrigen unbelasteten Träger&sr; angebracht wird. Die
+Curve <aq>D<do>0</do> A<do>6</do></aq> theilt die von den Ordinaten <aq>A D</aq> dargestellten
+Belastungen in die beiden Theile <aq>A F</aq> und <aq>D F</aq>, welche die ab-
+scheerenden Kräfte link&sr; und recht&sr; von dem belasteten Punkte
+darstellen. Beachtet man, daß die Curve <aq>D<do>0</do> A<do>6</do></aq> für einen nicht
+continuirlichen, an seinen Enden frei unterstützten Träger in die
+<g>gerade Linie</g> <aq>D<do>0</do> A<do>6</do></aq> übergeht, so erkennt man au&sr; Fig. 54)
+leicht den Einfluß der Continuität in Bezug auf die Bildung
+der abscheerenden Kräfte. Mit Hülfe dieser Figur lassen sich
+ferner die Maxima der von einer continuirlichen Belastung
+erzeugten abscheerenden Kräfte bestimmen. Diese Maxima treten
+ein, wenn <g>eine</g> der beiden Strecken zwischen dem betrachteten
+Punkte und den zwei Nachbarstützen von der Last bedeckt ist.
+Wird die Belastung <aq>pro</aq> Längeneinheit durch die Ordinate
+<aq>A<do>0</do> D<do>0</do></aq> dargestellt, so sind, wenn z. B. die Maxima der ab-
+scheerenden Kräfte für den Punkt <aq>A<do>2</do></aq> bestimmt werden sollen,
+<aq>A<do>0</do> D<do>0</do> D<do>2</do> A<do>2</do></aq> und <aq>A<do>2</do> D<do>2</do> A<do>6</do> D<do>6</do></aq> die in Frage kommenden
+Belastung&sr;flächen, und die abscheerende Verticalkraft wird im
+ersten Falle von der Fläche + <aq>D<do>0</do> D<do>2</do> F<do>2</do></aq> und im zweiten
+Belastung&sr;falle von der Fläche &2014; <aq>A<do>2</do> F<do>2</do> A<do>6</do></aq> dargestellt.
+Zwischen diesen beiden Grenzen variirt die von der beweg-
+lichen Belastung der <aq>n</aq><up>ten</up> Oeffnung in dem Punkte <aq>A<do>2</do></aq> er-
+zeugte abscheerende Verticalkraft. In Fig. 55) wird die
+erstere Fläche durch die Ordinate <aq>A<do>2</do> G<do>2</do></aq> und die Fläche
+<aq>A<do>2</do> F<do>2</do> A<do>6</do></aq> durch die Ordinate <aq>A<do>2</do> H<do>2</do></aq> dargestellt. Indem auch
+für die übrigen Theilpunkte die entsprechenden Flächen berech-
+net und al&sr; Ordinaten aufgetragen wurden, entstanden die
+Curven <aq>A<do>0</do> G<do>6</do></aq> und <aq>H<do>0</do> A<do>6</do></aq>. Zur Vervollständigung der Dar-
+stellung wurden die beiden geraden Linien <aq>A<do>0</do> J<do>6</do></aq> und <aq>K<do>0</do> A<do>6</do></aq>
+aufgetragen, deren Ordinaten die Größen der Belastungen
+darstellen, von welchen jene abscheerenden Kräfte erzeugt wer-
+den. Wenn also der Anfang&sr;punkt der mobilen Belastung
+von <aq>A<do>0</do></aq> nach <aq>A<do>6</do></aq> sich bewegt, so wächst die Belastung der
+Oeffnung wie die Ordinate der geraden Linie <aq>A<do>0</do> J<do>6</do></aq>, und die
+abscheerende Verticalkraft im Anfang&sr;punkt der Last wie die
+Ordinate der Curve <aq>A<do>0</do> G<do>6</do></aq>; die Gerade <aq>A<do>6</do> K<do>0</do></aq> und die
+Curve <aq>A<do>6</do> H<do>0</do></aq> geben dieselbe Darstellung für den Fall, daß
+der Anfang&sr;punkt der Last von <aq>A<do>6</do></aq> nach <aq>A<do>0</do></aq> sich bewegt. In
+der Regel wird e&sr; genügen, die beiden abscheerenden Kräfte
+über den Stützen
+<formel>
+<cb>
+<pb="49"/>
+<kt><g>Mohr</g>, Beitrag zur Theorie der Holz- und Eisen-Constructionen.</kt>
+<cb>
+zu bestimmen und die Curven <aq>A<do>0</do> G<do>6</do></aq> und <aq>H<do>0</do> A<do>6</do></aq> al&sr; Para-
+beln zu zeichnen, von denen sie wenig abweichen. Legt man
+in Fig. 53) Tangenten an die Punkte <aq>E<do>0</do></aq> und <aq>E<do>6</do></aq> der Para-
+bel <aq>E<do>0</do> D<do>3</do> E<do>6</do></aq>, so sind die Werthe von <formel> für diese Tan-
+genten gleich den oben mit <aq>V<do>n</do></aq> und <aq>V<do>n+1</do></aq> bezeichneten ab-
+scheerenden Kräften. Jene Tangenten schneiden in Fig. 53)
+die Ordinate <aq>H G</aq> in einem Punkte, welcher um
+<formel>
+von dem Punkte <aq>H</aq> absteht. Daher ist
+<formel>
+und
+<formel>
+oder, wenn man die Werthe von <aq>M<do>n</do></aq> und <aq>M<do>n+1</do></aq> au&sr; Glei-
+chung 33 und 34 einsetzt:
+40) <formel>
+41) <formel>.</p>
+<p>Für einen frei unterstützten Träger sind bekanntlich die
+Curven <aq>A<do>0</do> G<do>6</do></aq> und <aq>H<do>0</do> A<do>6</do></aq> Parabeln und die Werthe
+<formel></p>
+<p>Die Bestimmung der größten Biegung&sr;momente und ab-
+scheerenden Verticalkräfte, welche in irgend einem Punkte der
+<aq>n</aq><up>ten</up> Oeffnung von Belastungen der <g>übrigen</g> Oeffnungen
+erzeugt werden, hat keine Schwierigkeit, denn e&sr; geht au&sr; dem
+Vorhergehenden hervor, daß e&sr; erforderlich ist, jede der ande-
+ren Oeffnungen entweder ganz oder gar nicht zu belasten, um
+in einem Punkte der <aq>n</aq><up>ten</up> Oeffnung da&sr; Maximum de&sr; Bie-
+gung&sr;moment&sr; oder der abscheerenden Verticalkraft hervorzu-
+rufen. Nach Anleitung der folgenden Tabelle lassen sich leicht
+diejenigen Belastung&sr;fälle formiren, welche in einem Punkte
+der <aq>n</aq><up>ten</up> Oeffnung die beiden Grenzwerthe de&sr; Biegung&sr;mo-
+ment&sr; und der abscheerenden Verticalkraft erzeugen.</p>
+<tab>
+<cb>
+<pb="50"/>
+<tab>
+<d4><b>Graphische Bestimmung der Biegung&sr;momente für einen
+continuirlichen Träger von variablem Querschnitt.</b></d4>
+<p>Für einen Träger von constantem Querschnitt ist die
+Lage der Kräfte <aq>U, V, W</aq> und da&sr; Verhältniß <aq>U<do>n</do> : V<do>n</do> : W<do>n</do>
+= 3 M<do>n</do></aq> : 4 M<aq><do>n</do> : 3 M<do>n+1</do></aq> von vornherein bekannt. Ist da-
+gegen der Querschnitt de&sr; Träger&sr; nicht constant, so müssen
+die Lage und die relative Größe jener Kräfte bestimmt
+werden, bevor da&sr; Polygon der elastischen Linie construirt
+werden kann; alle übrigen Operationen bleiben dieselben wie
+für einen Träger von constantem Querschnitt. E&sr; wird daher
+genügen, die au&sr;zuführenden Constructionen an einem Beispiel
+zu erklären.</p>
+<p>Die Figuren 56 bi&sr; 64 Blatt 400 beziehen sich auf einen
+Träger über zwei Oeffnungen von 64 Meter Weite. Der
+Längenmaaßstab ist 1 : 1000 und Fig. 56) enthält unter der
+Linie <aq>B<do>1</do> B<do>2</do></aq> die Darstellung der Trägheit&sr;momente de&sr; Trä-
+gerquerschnitt&sr; für die erste Oeffnung in dem Maaßstabe:
+1 Centimeter = 1 Meter<up>4</up>. In Fig. 58) ist mit Hülfe der
+Fig. 57) (vergl. Fig. 20 und 22) da&sr; Seilpolygon vom Hori-
+zontalzug <aq>E</aq> construirt, dessen Belastung von <formel> (Fi-
+gur 56) gebildet wird. Der Schnittpunkt <aq>E</aq> der beiden äußer-
+sten Polygonseiten ergiebt den Angriff&sr;punkt der Kraft <aq>V<do>1</do></aq>.
+In derselben Weise ergeben die Fig. 59 &2014; 61) die Lage der
+Kraft <aq>W<do>1</do></aq>. Da wegen der symmetrischen Form de&sr; Träger&sr;
+die Kräfte <aq>W<do>1</do></aq> und <aq>U<do>2</do></aq> gleich groß sind und zur Mittelstütze
+symmetrisch liegen, so geht ihre Mittelkraft durch die Mittel-
+stütze.</p>
+<p>Au&sr; Fig. 62), in welche die Lagen von <aq>W<do>1</do></aq> und <aq>U<do>2</do></aq>
+nach Fig. 61) eingetragen sind, findet man demnach die Lage
+de&sr; Fixpunkte&sr; <aq>N<do>2</do></aq>.</p>
+<p>In Fig. 63 ist angenommen, daß nur die erste Oeffnung
+gleichmäßig belastet sei, und zwar ist da&sr; Seilpolygon <aq>B<do>1</do> C B<do>3</do></aq>
+so aufgetragen, daß <aq>V<do>1</do></aq> und daher auch M<do>1</do> dieselben Größen
+erhalten, wie in den Fig. 56 und 58. Da bei horizontaler
+Stützenlage da&sr; Seilpolygon <aq>B<do>1</do> F G B<do>3</do></aq> der Kräfte <aq>W<do>1</do></aq> und
+<aq>U<do>2</do></aq> <fn="*)">Den Kräften <aq>W<do>1</do></aq> und <aq>U<do>2</do></aq> ist zur Vereinfachung der Zeichnung
+die Richtung von Oben nach Unten gegeben.</fn> über der Mittelstütze eine ebenso große Ordinate <aq>B<do>2</do> D</aq>
+<bs>4</bs>
+<cb>
+<pb="51"/>
+<kt><g>Quanz</g>, Beschreibung de&sr; eisernen Oberbaue&sr; der Chausseebrücke über die Ise zu Gifhorn etc.</kt>
+<cb>
+haben muß, wie da&sr; Seilpolygon <aq>B<do>1</do> C B<do>3</do></aq>, so findet man
+mit Hülfe de&sr; Fixpunkte&sr; <aq>E<do>2</do></aq> die Lage der Polygonseite
+<aq>B<do>3</do> G</aq> und darnach die beiden andern Seiten <aq>F G</aq> und <aq>B<do>1</do> F</aq>.
+Die Seite <aq>F G</aq> muß horizontal gerichtet sein, weil die beiden
+Kräfte <aq>W<do>1</do></aq> und <aq>U<do>2</do></aq> gleich groß sind; daher wäre in diesem
+Falle die Construction der Fixpunkte <aq>N<do>2</do></aq> und <aq>E<do>2</do></aq> gar nicht
+erforderlich gewesen; sie dient jedoch zur Controle der Zeich-
+nung. In Fig. 63) wird die Größe der Kräfte <aq>W<do>1</do></aq> und <aq>U<do>2</do></aq>
+durch die Länge <aq>H L</aq> dargestellt. Da nach Fig. 59 und 61)
+<aq>P L = W<do>1</do> = U<do>2</do> = 47,3</aq> Millimeter
+wird, wenn
+<aq>B<do>2</do> J = M<do>2</do></aq> = 25 Millimeter
+ist, so ist in Fig. 63)
+<aq>P L</aq> = 47,3 Millimeter
+<aq>P M</aq> = 25 &201E;
+aufgetragen. Darau&sr; ergiebt sich die Größe von <aq>M<do>2</do></aq>, welche
+der Kraft
+<aq>U<do>2</do> = H L</aq>
+entspricht:
+<aq>M<do>2</do> = K H</aq> = 9,6 Millimeter.</p>
+<p>In Fig. 64) sind die Biegung&sr;momente für den in
+Fig. 63) behandelten Belastung&sr;fall dargestellt. M<do>1</do> ist, wie
+in Fig. 56), gleich 18,8 Millimeter; <aq>M<do>2</do></aq>, wie in Fig. 63),
+gleich 9,6 Millimeter aufgetragen. E&sr; ist demnach, wenn
+nur die erste Oeffnung belastet ist,
+<formel>
+Wenn dagegen beide Oeffnungen belastet sind, so ist der
+Symmetrie wegen
+<formel></p>
+<d4><b>Lage der Fixpunkte <aq>N</aq> und 0 für continuirliche Träger von
+variablem Querschnitt.</b></d4>
+<p>E&sr; könnte &2014; ohne besondere Untersuchung &2014; fraglich
+erscheinen, ob die Fixpunkte <aq>N</aq> und <aq>O</aq> für Träger von vari-
+ablem Querschnitt dieselben Eigenschaften besitzen, welche im
+Vorhergehenden für Träger von constantem Querschnitt nach-
+gewiesen sind. Man überzeugt sich jedoch leicht, daß unter
+den oben näher bezeichneten Umständen auch bei variablem
+Querschnitt die Wendepunkte der Biegung&sr;curve mit den Fix-
+punkten <aq>N</aq> oder <aq>O</aq> zusammenfallen. Wenn z. B. nur link&sr;
+von der <aq>n</aq><up>ten</up> Oeffnung Belastungen auf den Träger einwirken,
+so ist mit Bezug auf Fig. 65), welche da&sr; Seilpolygon der
+Kräfte <aq>U<do>n</do></aq> und <aq>W<do>n</do></aq> darstellt,
+<formel>
+daher ebenso wie für einen Träger von constantem Quer-
+schnitt:
+<formel></p>
+<cb>
+<pb="52"/>
+<d3><b>Beschreibung de&sr; eisernen Oberbane&sr; der Chausseebrücke
+über die Ise zu Gishorn und der daselbst mit verschie-
+denen Steinplatten angestellten Zerdrückung&sr;-Versuche;</b>
+vom Wegbau-Conducteur <b>Quantz</b> zu Lüneburg.</d3>
+<hr>
+<d4><b>Einleitung.</b></d4>
+<p>Die in der Lüneburg-Braunschweiger Chaussee vor dem
+Celler Thore der Stadt Gifhorn belegene Brücke über die
+Ise wurde im Jahre 1864 mit einem eisernen Oberbau ver-
+sehen, dessen Fahrbahn au&sr; Steinplatten mit einer Theer-
+Concretdecke besteht und vielleicht in einigen Theilen etwa&sr;
+Neue&sr; auf dem Gebiete de&sr; Brückenbaue&sr; enthält, we&sr;halb
+im Nachfolgenden eine kurze Mittheilung über die gewählte
+Construction gegeben werden soll.</p>
+<p>Die hierbei vorkommenden Maße und Gewichte sind, wo
+e&sr; nicht ander&sr; besonder&sr; bemerkt ist, die hannoverschen.</p>
+<p>Die bi&sr;herige, vor etwa 50 Jahren erbauete alte Brücke
+hatte zwei massive, auf Pfahlrosten gegründete Ufervorsetzung&sr;-
+Mauern mit schrägen Flügeln au&sr; Bruchsteinmauerwerk mit
+einer Verblendung von 6 Zoll dicken Velpker Sandsteinplatten,
+welche durch eben solche Binderplatten und eiserne Anker mit
+dem hintern Mauerwerke verbunden sind.</p>
+<p>Dieselben haben sich nach näherer Untersuchung in einem
+völlig befriedigenden Zustande erhalten, so daß man e&sr; für
+unbedenklich halten durfte, solche bei der beabsichtigten Er-
+neuerung de&sr; Oberbaue&sr; beizubehalten.</p>
+<p>Der alte Oberbau bestand au&sr; starken, runden, tannenen
+Balken, deren Tragfähigkeit noch durch eine leichte Spreng-
+werk&sr;-Construction vermehrt wurde, und einem eichenen Boh-
+lenbelage mit Klotzplaster.</p>
+<p>Bei der Bearbeitung de&sr; neuen Project&sr; ging man von
+der Ansicht au&sr;, daß e&sr; in Rücksicht auf die große Vergäng-
+lichkeit de&sr; Holze&sr; bei freistehenden Bauten und die in Folge
+häufiger Erneuerungen und Reparaturen der Holztheile (be-
+sonder&sr; der Fahrbahnbohlen bei Chausseebrücken) eintretenden
+Störungen de&sr; in der Nähe der Stadt Gifhorn nicht uner-
+heblichen öffentlichen Verkehr&sr; zweckmäßig und wünschen&sr;werth
+sei, jegliche&sr; Holzwerk in der zu wählenden Construction zu
+vermeiden.</p>
+<p>Die geringe Ueberhöhung der anschließenden Straßen-
+strecken über den höchsten Wasserstand der Ise bedingte ferner,
+die Fahrbahn der Brücke so tief al&sr; möglich zu legen.</p>
+<p>Au&sr; diesen Gründen entschied man sich dafür, die Brücken-
+öffnung mittelst eine&sr; eisernen, au&sr; zwei Hauptläng&sr;trägern,
+kleineren auf den untern Gurtungen der Läng&sr;träger ruhenden
+Querträgern und zwischen diesen eingespannten, noch kleineren
+Zwischenläng&sr;trägern bestehenden Oberbaue&sr; zu überspannen
+und die einzelnen, von diesem Trägersysteme gebildeten und
+verbleibenden Oeffnungen oder Fache mit Steinplatten von
+entsprechender Größe und Stärke zu schließen.</p>
+<pb>
+<aq>Band XIV.</aq>
+<kt><aq>Zeit&sr;chrift de&sr; Archit.-u. Jngenieur-Verein&sr;.</aq></kt>
+<abb>
+<aq>Blatt</aq> 397.
+<pb>
+<aq>Band XIV.</aq>
+<kt><aq>Zeit&sr;chrift de&sr; Archit.-u. Jngenieur-Verein&sr;.</aq></kt>
+<abb>
+<ab><aq>Hof-Steindr. d. Gebr. Jänecke.</aq></ab>
+<aq>Blatt</aq> 398.
+<pb>
+<aq>Band XIV.</aq>
+<kt><aq>Zeit&sr;chrift de&sr; Archit.-u. Jngenieur-Verein&sr;.</aq></kt>
+<abb>
+<aq>Blatt</aq> 399.
+<pb>
+<ab><aq>Hof-Steindr. d. Gebr. Jänecke.</aq></ab>
+<abb>
+<pb>
+<aq>Band XIV.</aq>
+<kt><aq>Zeit&sr;chrift de&sr; Archit.-u. Jngenieur-Verein&sr;.</aq></kt>
+<abb>
+<ab><aq>Hof-Steindr. d. Gebr. Jänecke.</aq></ab>
+<aq>Blatt</aq> 400.

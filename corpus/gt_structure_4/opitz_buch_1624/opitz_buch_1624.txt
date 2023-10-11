@@ -1,0 +1,2401 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<front><aq><b><g>MAR TINI
+OPITII</g></b></aq>
+Buch von der Deutschen
+Poeterey.
+<in>J</in>n welchem alle jhre eigen-
+schafft vnd zuegehör gründt-
+lich erzehlet/ vnd mit exem-
+peln außgeführet wird.
+<hr>
+Gedruckt in der Fürstlichen
+Stadt Brieg/ bey Augustino
+Gründern.
+Jn Verlegung David Müller&sr; Buch-
+händler&sr; in Breßlaw. 1624.</front>
+<pb>
+<hr>
+<cit><aq><b>Horatiu&sr; ad Pisone&sr;:</b>
+Descripta&sr; servare vice&sr;, operumq&0301;ue colore&sr;,
+Cur ego, si nequeo, ignoroq&0301;ue, Poëta salutor?
+Cur nescire, puden&sr; pravè, quam discere malo?</aq></cit>
+<hr>
+<p><c><k>Ex
+Bibliotheca
+Acad. Georgi&00E6;
+August&00E6;</k></c></p>
+<cw>Denen</cw>
+<pb>
+<ded><c><fr><in>D</in>enen <in>E</in>hrenvesten/
+<in>M</in>olweisen/ <in>W</in>olbenambten vnd
+Wolgelehrten HErren Bürgermeistern</fr>
+vnd Rath&sr;verwandten der Stadt Buntz-
+law/ seinen günstigen Herren vnd
+beförderern.</c></ded>
+<p><in>E</in>Hrenveste/ Wolweise/ Wolbe-
+nambte vnd Wolgelehrte insonder&sr;
+günstige HErren/</p>
+<p>Wa&sr; bißanhero von einem vnnd
+dem andern/ auch vornemen Leuten/ zum offteren
+an mich ist begehret worden/ da&sr; ich nemlich von
+vnserer Deutschen Poeterey/ derselben art vnd zue-
+gehör/ etwa&sr; richtige&sr; auffsetzen möchte/ habe ich
+vorwichene tage zue wercke gebracht. Zwar erstlich/
+solchem ehrlichen begehren wie billich zue verheng&te;:
+nachmal&sr; aber/ die jenigen vor derer augen diese
+vorneme wissenschafft ein grewel ist zue wiederlegen/
+vnd die/ so sie al&sr; ein leichte ding vor handen zue ne-
+men vnbedacht sich vnterstehen/ ab zue halten/ die
+gelehrten aber vnd von natur hierzue geartete ge-
+müter auff zue wecken/ mir/ der ich dißfal&sr; bey wei-
+tem nicht genung bin/ die hand zue bitten/ vnd den
+weg so ich allbereit vmb etwa&sr; eröffnet vollendt&sr; zu
+bähnen. Weitleufftiger vnd eigentlicher zue schrei
+<bs>A ji</bs><cw>ben</cw>
+<pb>
+ben hat mich nicht allein die enge der zeit/ sondern
+auch sonsten allerley vngelegenheit verhindert/ die
+mir von denen zuegefüget wird/ welche/ wann e&sr;
+bey jhnen stünde/ wünschen wolten/ da&sr; auch da&sr;
+gedächtniß der Poeterey vnnd aller gutten Künste
+vertilget vnd außgerottet würde. Ob mich nun
+woldergleichen vnbilliche Wiederwertigkeit/ die ich
+ohne meinen verdienst tragen muß/ offtermal&sr; kaum
+nicht zwinget wie Nero zue sagen; <aq>Vellem nescire
+litera&sr;:</aq> jedoch habeich/ in erwegung derer Vrsach&te;
+die mir etwa&sr; beßer&sr; rahten/ vnd da&sr; die Zahl vie-
+ler grossen Männer die mir huldt sein die wenigen
+abgünstigen weit hinwieget/ zwar ietzund in diesem
+geringen wesen den willen mit meinem schlechten
+studieren etwa&sr; zue fruchten erweisen wollen: vnnd
+wil auch nachmal&sr; besten fleiße&sr; mich bemühen/ an
+größeren vnd mehr wichtigen sachen (denn ich gar
+wol weiß/ da&sr; e&sr; mit der Poeterey alleine nicht auß
+gerichtet sey/ vnd weder offentlichen noch Privat-
+ämptern mit versen könne vorgestanden werden)
+durch beystandt Göttlicher hülffe alle mein heil zue
+versuchen. Jndeßen/ Großgünstige HErren/ wol-
+len sie/ zum pfande meiner künfftigen vorsorge wie
+mein geliebte&sr; Vaterlandt vnnd sie meiner je mehr
+vnd mehr ruhm vnd ehre haben mögen/ diese&sr; buch
+auff/ vnd annemen/ vnd beynebenst geneiget erwe-
+g&te; da&sr; ich auch darumb jhnen sol che&sr; billich vor an-
+dern zueschreiben sollen/ damit ich nicht/ wann ich
+<cw>sie</cw>
+<pb>
+sie in diesen vnd andern meinen schrifften lenger mit
+stilleschweigen vbergienge/ von denen die meinen
+künfftigen vorsatz nicht wissen für vndanckbar mö-
+ge gescholten werden. Welchen laster&sr; ich nicht al-
+leine anderwert&sr; frey vnd ledig bin/ sondern auch
+dißfal&sr; kühnlich fagen darff/ da&sr; ich solche große lie-
+be zue meinem Vaterlande trage/ dergleichen zwar
+von allen erfordert/ aber bey wenigen erfunden
+wird. Jch muß nur bekennen/ da&sr; ich nicht vnlengst
+auß weit abgelegenen orten/ da e&sr; mir an ehre/ föde-
+rung/ freundschafft vnd alle dem wa&sr; ich bedürffend
+nicht gemangelt hette/ mich mehrentheil&sr; darumb
+zuerücke gemacht/ vnnd meinen zuestandt in vnge-
+wißheit gesetzet/ da&sr; ich da&sr; verlangen/ daheime
+vnd bey den meinigen die zeit zue verschliessen/ nicht
+lenger ertragen können. Welche&sr; ich sonsten kaum
+so rundt herauß sagen wolte/ auß furchte/ da&sr; e&sr;
+mir von andern für eine zärtligkeit vnd weichmuth
+möchte außgeleget werden/ wenn mir nicht wißend/
+da&sr; Vlyße&sr; so sehr auff sein Jthaca zue geeilet/ al&sr;
+Agamemnon auff sein <aq>Mycène</aq>/ vnd der grosse mann
+hertzlich gewünschet/ auch nur ein räuchlein so dar-
+auß auffgienge von fernen zue schawen. Der Va-
+ter der Musen Alfonsu&sr; in Sicilien/ al&sr; ihm einer
+erzehlete wie Rom so gewaltig/ Venedig so groß/
+Florentz so reich/ Meilandt so Volckreich were/ gab
+er jhm diese&sr; gar gerne zue/ aber/ hub er darneben
+an/ ich wil niergendt&sr; lieber sein al&sr; zue <aq>Carioncilla:</aq>
+<bs>A iij</bs><cw>welche&sr;</cw>
+<pb>
+welche&sr; ein flecken war/ darinnen der löbliche vnnd
+tugendhaffte König gebohren vnd auffgewachsen.
+Kan mir also niemand zue rechte vbel deuten/ da&sr;
+ich mein Buntzlaw/ ohne ruhm zue sagen/ die erzie-
+herinn vieler stattlichen berühmbten leute/ welche
+ich bey anderer gelegenheit schon wil zue erzehlen
+wissen/ al&sr; ein Kind seine Mutter ehre/ vnd beste&sr;
+vermögen&sr; hand zue wercke lege/ wie nicht alleine
+ich durch da&sr; Vaterland/ sondern auch da&sr; Vater-
+land durch mich bekandter werde. Nebenst dieser
+gemeinen vrsache hiesiger meiner zueschreibung ha-
+be ich nicht weniger in acht zue nemen/ die grosse
+gunst vnd freundschafft/ mit welcher ein ietweder
+von den Herren mir bey aller vorgehenden gelegen-
+heit zum offtersten begegnet: ja da&sr; sie auch mir ent-
+weder mit Blutfreundschafft oder verwandtniß bey
+gethan sind/ oder/ worunter ich Herren Sänfftle-
+ben verstehe/ mich zue alle dem wa&sr; ich weiß vnnd
+kan/ wie wenig e&sr; auch ist angewiesen vnd geleitet
+haben. Werden also die HErren/ in betrachtung
+obgemeldeter vrsachen/ in guttem verstehen/ da&sr;
+ich Jhren namen hiesigen geringfügigen buche/
+da&sr; doch hoffentlich an seinem orte wird ersprößlich
+sein/ vorsetzen/ vnd dadurch/ weil anietzo nicht&sr;
+ander&sr; in meinem vermögen gewesen/ nur etzlicher
+maßen mein danckbare&sr; gemüte vnd gutten vorsatz
+<cw>erweisen</cw>
+<pb>
+erweisen wollen. Befehle sie hiermit in den schutz
+<c>de&sr; Höchsten/ mich aber in jhre behar-
+liche gunst vnd liebe; der ich gleich-
+fall&sr; jederzeit bin</c></p>
+<clos>E. E. W.
+<et>Dienstwilligster
+Martin Opitz.</et></clos>
+<hr>
+<pb>
+<pt><aq><b><k><c>ad</c>
+Dn. MARTINUM OPITIUM</k></b>
+Poësin Germanicam &00E6;dentem,
+Parodia ex Carm. 11. Lib. 11. Horat.
+<i>Nullu&sr; argento color est, &amp;c.</i></aq></pt>
+<pv><aq>INgenI nullu&sr; decor est, inepti&sr;
+Illit&00E6; charti&sr; inimic&00E6; vene
+<i>Martie Opiti,</i> nisi patri&00E6; apto&sr;
+<et>Vernet in usu&sr;.</et></aq></pv>
+<pv><aq>Vivet extento venerand9 &00E6;vo
+<i>Heinsiu&sr;</i> plectri genitor Batavi:
+Illum aget prorâ metuente sisti
+<et>Gloria ad Indo&sr;.</et></aq></pv>
+<pv><aq>Altiu&sr; scande&sr; patriâ canendo
+Barbyto, qvàm si Latium perit&00E6;
+Attic&00E6; junga&sr;, Syri&00E6;q&0301;; Peithu&sr;
+<et>Noveri&sr; artem.</et></aq></pv>
+<pv><aq>Carmini&sr; mul to&sr; cacoêthe&sr; urit,
+Nec scit expelli; nisi mille vulgo
+Finxerit versu&sr; peregrina jactan&sr;
+<et>Gutture verba.</et></aq></pv>
+<pv><aq>Conditam Almani&sr; numeri&sr; Poêsin,
+Exter&00E6; distan&sr;, solio polorum
+Inseret Ph&0153;b9, populumq&0301;; verni&sr;
+<et>Instruet uti</et></aq></pv>
+<pv><aq>Vocibu&sr;, laudem, &amp; sine nube nomen
+Deferen&sr; illi, viridemq; laurum,
+Teuton&00E6; ingentei&sr; repolit loqvel&00E6;
+<et>Qvi&sr;qvi&sr; acervo&sr;.</et></aq></pv>
+<clos><et><aq>Augustinu&sr; I&sr;kra Siles:</aq></et></clos>
+<pb>
+<d1><aq>MARTINI OPITII</aq>
+Buch von der Deutschen Poeterey.
+Da&sr; 1. Capitel.
+Vorrede.</d1>
+<p><in>W</in>Jewol ich mir von der Deutschen Poeterey/
+auff ersuchung vornemer Leute/ vnd dann zue beßerer
+fortpflantzung vnserer sprachen/ etwa&sr; auff zue setzen
+vorgenommen; bin ich doch solcher gedancken keine&sr; wege&sr;/
+da&sr; ich vermeine/ man könne iemanden durch gewisse regeln
+vnd gesetze zu einem Poeten machen. E&sr; ist auch die Poeterey
+eher getrieben worden/ al&sr; man je von derselben art/ ampte
+vnd zuegehör/ geschrieben: vnd haben die Gelehrten/ wa&sr; sie
+in den Poeten (welcher schrifften auß einem Göttlichen antrie-
+be vnd von natur herkommen/ wie Plato hin vnd wieder hier-
+von redet) auffgemereket/ nachmal&sr; durch richtige verfassungen
+zuesammen geschlossen/ vnd au&sr; vieler tugenden eine kunst ge-
+macht. Bey den Griechen hat e&sr; Aristotele&sr; vornemlich ge-
+than; bey den Lateinern Horatiu&sr;; vnd zue vnserer Voreltern
+zeiten Vida vnnd Scaliger so außführlich/ da&sr; weiter etwa&sr;
+darbey zue thun vergeben&sr; ist. Derentwegen ich nur etwa&sr;/ so
+ich in gemeine von aller Poeterey zue erinnern von nöthen zue
+sein erachte/ hiervor setzen wil/ nachmal&sr; da&sr; wa&sr; vnsere
+deutsche Sprache vornemlich angehet/ etwa&sr; vmbstendtlicher
+für augen stellen.</p>
+<d1><b>Da&sr; <aq>II.</aq> Capitel.</b>
+Worzue die Poeterey/ vnd wann sie
+erfunden worden.</d1>
+<p><in>D</in>Je Poeterey ist anfange&sr; nicht&sr; ander&sr; ge-
+wesen al&sr; eine verborgene Theologie/ vnd vnterricht
+von Göttlichen sachen. Dann weil die erste vnd rawe
+<bs>B</bs><cw>Welt</cw>
+<pb>
+Welt gröber vnd vngeschlachter war/ al&sr; da&sr; sie hette die leh-
+ren von weißheit vnd himmlischen dingen recht fassen vnd ver-
+stehen können/ so haben weise Männer/ wa&sr; sie zue erbawung
+der Gotte&sr;furcht/ gutter sitten vnd wandel&sr; erfunden/ in rei-
+me vnd fabein/ welche sonderlich der gemeine pöfel zue hören
+geneiget ist/ verstecken vnd verbergen mussen. Denn da&sr; man
+jederzeit bey allen Volckern vor gewiß geglaubet habe/ e&sr; sey
+ein einiger vnd ewiger GOtt/ von dem alle dinge erschaffen
+worden vnd erhalten werden/ haben andere/ die ich hier nicht
+mag außschreiben/ genungsam erwiesen. Weil aber GOtt
+ein vnbegreiffliche&sr; wesen vnnd vber menschtiche vernunfft ist/
+haben sie vorgegeben/ die schönen Cörper vber vn&sr;/ Sonne/
+Monde vnd Sternen/ item allerley gutte Geister de&sr; Himmel&sr;
+wehren Gotte&sr; Söhne vnnd Mitgesellen/ welche wir Men-
+schen vieler grossen wolthaten halber billich ehren solten. Sol-
+che&sr; inhalt&sr; werden vieleichte die Bücher de&sr; Zoroaster&sr;/ den
+Man für einen der eltesten Lehrer der göttlichen vnd menschli-
+chen wissenschafft helt/ gewesen sein/ welcher/ wie Hermip-
+pu&sr; bey dem Pliniu&sr; im ersten Capitel de&sr; 30. Buche&sr; bezeu-
+get/ zwantzig mal hundert tausendt Verß von der Philosophie
+hinterlassen hat. Jtem wa&sr; Linu&sr;/ wie Diogene&sr; Laertiu&sr; er-
+wehnet/ von erschaffung der Welt/ dem lauffe der Sonnen
+vnd de&sr; Monden/ vnd von erzeugung der Früchte vorgegeben
+hat. Dessen wercke&sr; anfang soll gewesen sein:</p>
+<cit>#
+<fr>E&sr; war die zeit da erstlich in gemein
+Hier alle ding, erschaffen worden sein.</fr></cit>
+<p>Neben diesem haben Eumolpu&sr;/ Museu&sr;/ Orpheu&sr;/ Ho-
+meru&sr;/ Hesiodu&sr; vnnd andere/ al&sr; die ersten Väter der Weiß-
+heit/ wie sie Plato nennet/ vnd aller gutten ordnung/ die bäw-
+<cw>rischen</cw>
+<pb>
+rischen vnd fast viehischen Menschen zue einem höfflichern vnd
+bessern leben angewiesen. Dann inn dem sie so viel herrliche
+Sprüche erzehleten/ vnd die worte in gewisse reimen vnd maß
+verbunden/ so da&sr; sie weder zue weit außschritten/ noch zue we-
+nig in sich hatten/ sondern wie eine gleiche Wage im reden hiel-
+ten/ vnd viel sachen vorbrachten/ welche einen schein sonder-
+licher propheceiungen vnd geheimnisse von sich gaben/ vermei-
+neten die einfältigen leute/ e&sr; müste etwa&sr; göttliche&sr; in jhnen
+stecken/ vnd liessen sich durch die anmutigkeit der schönen getich-
+te zue aller tugend vnnd guttem wandel anführen. Hat also
+Strabo vrsache/ den Eratosihene&sr; lügen zue heissen/ welcher/
+wie viel vnwissende leute heutige&sr; tagen auch thun/ gemeinet/ e&sr;
+begehre kein Poete durch vnterrichtung/ sondern alle bloß durch
+ergetzung sich angeneine zue machen <fr>Hergegen</fr>/ spricht er
+Strabo im ersten Buche/ <fr>haben die alten gesagt/ die
+Poeterey sey die erste Philosophie/ eine erzieherinn
+de&sr; leben&sr; von jugend auff/ welche die art der sitten/
+der bewegungen de&sr; gemüte&sr; vnd alle&sr; thun&sr; vnd
+lassen&sr; lehre. Ja die vnsrigen</fr> (er verstehet die Stoischen)
+<fr>haben darvor gehalten/ da&sr; ein weiser alleine ein
+Poete sey. Vnd dieser vrsachen wegen werden in
+den Griechischen städten die Knaben zueföderst in
+der Poesie vnterwiesen: nicht nur vmb der blossen
+erlüstigung willen/ sondern damit sie die sittsamkeit
+erlernen.</fr> Jngleichem stimmet auch Strabo mit dem Lactan-
+tiu&sr; vnd andern in diesem ein/ e&sr; seyen die Poeten viel älter
+al&sr; die Philosophen/ vnd für weise leute gehalten worden/ ehe
+man von dem namen der Weißheit gewust hat: vnnd hetten
+nachmal&sr; Cadinu&sr;/ Pherecyde&sr;/ vnd Hecat<aq>é</aq>u&sr; der Poeten leh-
+re zwar sonsten behalten/ aber die abmessung der wörter vnd
+<bs>B ij</bs><cw>verse</cw>
+<pb>
+Verse auffgelöset: biß die folgenden nach vnd nach etwa&sr; dar-
+von enzogen/ vnd die rednerische weise/ gleichsam al&sr; von ei-
+nem hohen Stande/ in die gemeine art vnd forme herab gefüh-
+ret haben. Solche&sr; können wir auch au&sr; dem abnehmen/ da&sr;
+je älter ein Scribent ist/ je näher er den Poeten zue kommen
+scheinet. Wie denn Casaubonu&sr; saget/ da&sr; so offte er de&sr; Hero-
+dotu&sr; seine Historien lese/ e&sr; jhn bedüncke/ al&sr; wehre e&sr; Home-
+ru&sr; selber.</p>
+<d1><b>Da&sr; <aq>III.</aq> Capitel.</b>
+Von etlichen sachen die den Poeten vorgeworffen
+werden; vnd derselben entschuldigung.</d1>
+<p><in>A</in>Vß oberzehlten sachen ist zue sehen/ wie gar
+vnverstendig die jenigen handeln/ welche au&sr; der Poete-
+rey nicht weiß ich wa&sr; für ein geringe&sr; wesen machen/
+vnd wo nicht gar verwerffen/ doch nicht sonderlich achten; auch
+wol vorgeben/ man wisse einen Poeten in offentlichen ämptern
+wenig oder nicht&sr; zue gebrauchen; weil er sich in dieser angene-
+men thorheit vnd ruhigen wollust so verteuffe/ da&sr; er die andern
+künste vnd wissenschafften/ von welchen man rechten nutz vnd
+ehren schöpffen kan/ gemeiniglich hindan setze. Ja wenn sie ei-
+nen gar verächtlich halten wollen/ so nennen sie ihn einen Poe-
+ten: wie dann <aq>Erasmo Roterodamo</aq> von groben leuten ge-
+schahe. Welcher aber zur antwort gab: Er schätzte sich dessen
+lobe&sr; viel zue vnwürdig; denn auch nur ein mittelmässiger Poe-
+te höher zue halten sey al&sr; zehen <aq>Philosophastri.</aq> Sie wissen
+ferner viel von jhren lügen/ ärgerlichen schrifften vnd leben zue
+sagen/ vnd vermeinen/ e&sr; sey keiner ein gutter Poete/ er musse
+dann zu gleich ein böser Mensch sein. Welche&sr; allerseit&sr; vnge-
+gründete&sr; vrtheil ich kaum einer antwort würdig achte; vnnd
+jhnen alleine für da&sr; erste zue bedeneken gebe/ wer Solon/ Py-
+thagora&sr;/ Socrate&sr;/ Cicero vnd andere gewesen/ die sich doch
+<cw>de&sr;</cw>
+<pb>
+de&sr; Poetennamen&sr; nie geschämet haben. Jch köndte auch son-
+sten viel vortreffliche leute erzehlen/ die anff diese kunst (wo ich
+sie eine kunst nennen soll) jhren höchsten fleiß gewendet haben/
+vnd dennoch dem gemeinen nutze mit vnsterblichem lobe vorge-
+gangen sind. So ist auch ferner nicht&sr; närrischer/ al&sr; wann
+sie meinen/ die Poeterey bestehe bloß in ihr selber; die doch alle
+andere künste vnd wissenschafften in sich helt. Apuleiu&sr; nen-
+net den Homeru&sr; einen viel wissenden vnnd aller dinge erfahre-
+nen Menschen; Tertullianu&sr; von der Seele: einen Vater der
+freyen künste. Plato/ welcher im Tragedien schreiben so weit
+kommen/ da&sr; er auch andern kampff anbitten dörffen/ hat ver-
+mischet/ wie Proclu&sr; von jhm saget/ #
+#, die Pythagorische vnnd Socratische ei-
+genschafft/ hat die Geometrie vom Theodoru&sr; Cyreneu&sr;/ die
+wissenschafft de&sr; Gestirne&sr; von den Egyptischen Priestern er-
+lernet/ vnd ist aller dinge kündig gewesen. So hat man vnsere
+Musen zue mahlen pflegen/ al&sr; sie mitt zuesammen gehenckten
+hünden in einem reyen tantzten/ jhnen auch den namen #/
+gleichsam al&sr; #/ gegeben/ da&sr; gemeine bandt vnd ver-
+wandschafft aller künste hierdurch an zue deuten. Wann auch
+die verse nur blosse worte sindt/ (wiewol da&sr; so wenig möglich
+ist/ al&sr; da&sr; der Cörper ohne die Seele bestehen könne) wa&sr; ist e&sr;
+denn da&sr; Eratosthene&sr; ein getichte von beschreibung der Welt/
+so Hermu&sr; geheissen/ da&sr; Parmenide&sr; vnnd Empedoele&sr; von
+natur der dinge/ da&sr; Seruiliu&sr; vnd Heliodoru&sr;/ derer Gale-
+nu&sr; erwehnet/ von der ärtzney geschrieben haben? Oder/ wer
+kan leugnen/ da&sr; nicht Virgiliu&sr; ein gutter Acker&sr;man/ Lucre-
+tiu&sr; ein vornemer naturkündiger/ Mareiliu&sr; ein Astronomu&sr;/
+Lucanu&sr; ein Historienschreiber/ Oppianu&sr; ein Jägermeister/
+vnd einer vnd der andere der Philosophie obristen sein/ da sie
+doch nicht&sr; al&sr; Poeten sein. E&sr; sey denn da&sr; wir glauben wol-
+len/ Theocritu&sr; habe Schaffe getrieben/ vnd Hesiodu&sr; sey hin-
+<bs>B iij</bs><cw>ter</cw>
+<pb>
+ter dem Pfluge gegangen. Doch muß ich gleichwol bekennen/
+da&sr; auch an verachtung der Poeterey die jenigen nicht wenig
+schuldt tragen/ welche ohn allen danck Poeten sein wollen/ vnd
+noch eine&sr; theil&sr; zum vberfluß/ ebener massen wie Juliu&sr; Cesar
+seine kahle glitze/ sie jhre vnwissenheit vnter dem Lorbeerkrantze
+verdecken. Gewißlich wenn ich nachdencke/ wa&sr; von der zeit
+an/ seit die Griechische vnd Römische sprachen wieder sind her-
+vor gesucht worden/ vor hauffen Poeten sind herauß kommen/
+muß ich mich verwundern/ wie sonderlich wir Deutschen so lan-
+ge gedult können tragen/ vnd da&sr; edele Papir mit jhren vnge
+reimten reimen beflecken. Die worte vnd Syllaben in gewis-
+se gesetze zue dringen/ vnd verse zue schreiben/ ist da&sr; allerwenig-
+sie wa&sr; in einem Poeten zue suchen ist. Er muß #,
+von sinnreichen einfällen vnd erfindungen sein/ muß ein grosse&sr;
+vnverzagte&sr; gemüte haben/ muß hohe sachen bey sich erdencken
+können/ soll ander&sr; seine rede eine art kriegen/ vnd von der er-
+den empor steigen. Ferner so schaden auch dem gueten nahmen
+der Poeten nicht wenig die jenigen/ welche mit jhrem vngestü-
+men ersuchen auff alle&sr; wa&sr; sie thun v&tn; vorhaben verse fodern.
+E&sr; wird kein buch/ keine hochzeit/ kein begräbnüß ohn vn&sr; ge-
+macht; vnd gleichsam al&sr; niemand köndte alleine sterben/ ge-
+hen vnsere gedichte zuegleich mit jhnen vnter. Mann wil vn&sr;
+auff allen Schüsseln vnd kannen haben/ wir stehen an wänden
+vnd steinen/ vnd wann einer ein Hauß ich weiß nicht wie an sich
+gebracht hat/ so sollen wir e&sr; mit vnsern Versen wieder redlich
+machen. Dieser begehret ein Lied auff eine&sr; andern Weib/ je-
+nem hat von de&sr; nachbaren Magdt getrewmet/ einen andern
+hat die vermeinte Bulschafft ein mal freundtlich angelacht/ o-
+der/ wie dieser Leute gebrauch ist/ viel mehr außgelacht; ja deß
+närrischen ansuchen&sr; ist kein ende. Mussen wir also entweder
+durch abschlagen ihre feindschafft erwarten/ oder durch will-
+fahren den würden der Poesie einen mercklichen abbruch thun.
+<cw>Denn</cw>
+<pb>
+Denn ein Poete kan nicht schreiben wenn er wil/ sondern wenn
+er kan/ vnd jhn die regung de&sr; Geiste&sr; welchen Ovidiu&sr; vnnd
+andere vom Himmel her zue kommen rermeinen/ treibet. Die-
+se vnbesonnene Leute aber lassen vn&sr; weder die rechte zeit noch
+gelegenheit: wie sich denn Politianu&sr; in einer epistel hefftig dar-
+über beschwäret/ vnd Ronsardt/ wie Muretu&sr; meldet/ hat
+pflegen zue sagen/ er empfinde nicht so grosse lust wann er seine
+eigene Liebe beschriebe/ al&sr; er grossen verdruß einpfinde/ wann
+er anderer jhre liebe beschreiben muste Wiewol etliche/ ge-
+meiniglich aber die schlimmesten/ sich selber hierzue antragen/
+vnd den leuten jhre träwme fast einzwingen. Diese meinet son-
+derlich Aristokele&sr;/ <aq>Eth. ad Nic. lib. 9. c.</aq> 7. da er saget/ da&sr;
+sie ihre getichte vber die maße lieb haben/ vnd so hertzlich gegen
+jhnen geneiget sein: wie die eltern gegen den kindern. Vnd <aq>Ci-
+cero 5. Tu&sr; c.</aq> spricht auch fast auff diesen schlag: <aq>In hoc cnim
+genere nescio quo pacto magi&sr; quam in alii&sr; fuum cuique
+pulchrum est. adhuc neminem cognoui Poetam, &amp; mihi
+fuit cum Aquinio a micitia, qui sibi non optimu&sr; videre-
+tur.</aq> Da&sr; ferner die Poeten mit der warheit nicht allzeit vber-
+einstimmen/ ist zum theil oben deßenthalben Vrsache erzehlet
+worden/ vnd soll man auch wissen/ da&sr; die gantze Poeterey im
+nachäffen der Natur bestehe/ vnd die dinge nicht so sehr beschrei-
+be wie sie sein/ al&sr; wie sie etwan sein köndten oder solten. E&sr;
+sehen aber die menschen nicht alleine die sachen gerne/ welche
+an sich selber eine ergetzung haben; al&sr; schöne Wiesen/ Berge/
+Felde/ flüße/ ziehrlich Weibe&sr;volck vnd dergleichen: sondern
+sie hören auch die dinge mit lust erzehlen/ welche sie doch zue se-
+hen nicht begehren; al&sr; wie Hercule&sr; seine Kinder ermordet/
+wie Dido sich selber entleibet/ wie die Städte in den brand ge-
+steckt werden/ wie die pest gantze Länder durchwütet/ vnd wa&sr;
+sonsten mehr bey den Pocten zue finden ist. Dienet also diese&sr;
+alle&sr; zue vberredung vnd vnterricht auch ergetzung der Leute;
+<cw>welche&sr;</cw>
+<pb>
+welche&sr; der Poeterey vornemster zwetk ist. Die nahmen der
+Heidnischen Götter betreffendt/ derer sich die stattlichsten
+Christlichen Poeten ohne verletzung jhrer religion jederzeit ge-
+brauchet haben/ angesehen da&sr; hierunter gemeiniglich die All-
+macht Gotte&sr;/ welcher die ersten menschen nach den sonderlich-
+en wirckungen seiner vnbegreifflichen Maiestet vnterschiedene
+namen gegeben/ al&sr; da&sr; sie/ wie Marimu&sr; Tyriu&sr; meldet/
+durch Minerven die vorsichtigkeit/ durch den Apollo die Son-
+ne/ durch den Neptunu&sr; die Lufft welche die Erde vnnd Mee&rr;
+durchstreichet; zuezeiten aber vorneme Leute/ die wie Cicero im
+andern buche von den Gesetzen saget/ vmb jhre&sr; vordienste&sr;
+willen in den Himmel ber uffen sein/ zue zeiten wa&sr; ander&sr; an-
+gedeutet wird/ ist allbereit hin vnd wieder so viel bericht darvon
+geschehen/ da&sr; e&sr; weiterer außführung hoffentlich nicht wird
+von nöthen sein. Wa&sr; auch der Poeten Leben angehet/ (da-
+mit ich mich nicht zue lange auffhalte) ist e&sr; nicht ohn/ da&sr;
+freylich etliche von ihnen etwa&sr; auß der art schlagen/ vnd den&te;/
+die in anderer Leute mängeln falcken/ in jhren eigenen Maul-
+wörffe sein/ anlaß geben jhnen vbel nach zue reden. Die Vr-
+sache kan wol zum theile sein/ da&sr; jhre Poetische gemüter vn-
+terweilen etwa&sr; sicherer vnd freyer sein/ al&sr; e&sr; eine vnd andere
+zeit leidet/ vnd nach de&sr; volcke&sr; Vrtheil nicht viel fragen.
+Zum theile thut auch der wein etwa&sr;; sonderlich bey denen/
+welchen Horatiu&sr; besser gefellt da er schreibet:</p>
+<cit><aq>Prisco si credi&sr;, M&00E6;cena&sr; docte, Cratino,
+Nulla valere diu, nec viuere carmina possunt,
+Qu&00E6; scribuntur aqu&00E6; potoribu&sr;.</aq>
+Mecena&sr;/ wilt du mir vnd dem Cratinu&sr; gleuben/
+Der der da wasser trinckt kan kein guet carmen
+<et>schreiben;</et></cit>
+<p>Al&sr;&007C; Pindaru&sr;/ der strack&sr; im anfange seiner büchersaget:
+<cw>#</cw>
+<pb>
+#, <fr>Da&sr; Wasser ist da&sr; beste da&sr; man
+findt.</fr> Mit welchem e&sr; Alceu&sr;/ Aristophane&sr;/ Alcman/
+Enniu&sr; vnd andere nicht gehalten hetten; auch Eschilu&sr; nicht/
+dem Sophocle&sr; vorgeworffen/ der wein hette seine Tragedien
+gemacht/ nicht er. Vnd zum theile thut auch zue dem etwa&sr;
+nachleßigen wandel mancher Poeten nicht wenig die gemein-
+schafft etlicher alten/ die jhre reine sprache mit garstigen epicu-
+rischen schrifften besudelt/ vnd sich an jhrer eigenen schande er-
+lustiget haben. Mit denen wir aber vmbgehen mußen wie die
+bienen/ welche ihr honig auß den gesunden blumen saugen/
+vnd die gifftigen Kräuter stehen lassen. Doch wie ehrliche/
+auffrichtige/ keusche gemüter (welche von den auch keuschen
+Musen erfodert werden) derer die jhre geschickligkeit mit vblen
+sitten vertunckeln nicht entgelten können/ so sind auch nicht alle
+Poeten die von Liebe&sr;sachen schreiben zue meiden; denn viel
+vnter jhnen so züchtig reden/ da&sr; sie ein jegliche&sr; ehrbare&sr; fraw-
+enzimmer vngeschewet lesen möchte. Man kan jhnen auch
+deßentwegen wol jhre einbildungen lassen/ vnd ein wenig vber-
+sehen/ weil die liebe gleichsam der wetzstein ist an dem sie jhren
+subtilen Verstand scherffen/ vnd niemal&sr; mehr sinnreiche ge-
+dancken vnd einfälle haben/ al&sr; wann sie von jhrer Buhlschaff-
+ten Himlischen schöne/ jugend/ freundligkeit/ haß vnnd gunst
+reden. Wie dann hiervon der Frantzösischen Pocten Adler
+Peter Ronsardt ein artige&sr; Sonnet geschrieben/ welche&sr; ich
+nebenst meiner vbersetzung (wiewol dieselbe dem terte nicht ge-
+nawe zuesaget) hierbey an zue ziehen nicht vnterlassen kan:</p>
+<cit><poem><aq>Ah belle liberté, qui me seruoi&sr; d, escorte,
+Quand le pied me portoit où libre ic vouloi&sr;!
+Ah! que ie te regrette! hela&sr;, combien de foi&sr;
+Ay-ic rompu le ioug, que maulgré moy ie porte!
+Pui&sr; ie l, ay rattaché, estant nay de la sorte,</aq>
+<bs>C</bs><cw><aq>Que</aq></cw>
+<pb>
+<aq>Que &sr;an&sr; aimer ie sui&sr; &amp; du plomb &amp; du boi&sr;,
+Quand ie sui&sr; amourcux i&2019; ay l&2019; e&sr;prit &amp; la voi&sr;,
+L&2019; inuention meilleure, &amp; la Mu&sr;e plu&sr; forte.
+Il me faut donc aimer pour auoir bon e&sr;prit,
+A fin de conceuoir de&sr; enfan&sr; par e&sr;crit,
+Pro longeant ma memoire aux de&sr;pen&sr; de ma
+<et>(vie.</et>
+Ie ne veux m, enquerir &sr;&2019; on &sr;ent a pre&sr; la mort:
+Ie le croy: ic perdroy d&2019; escrire toute enuie:
+Le bon nom qui nou&sr; suit est nostre reconfort.</aq>
+Du güldne Freyheit du/ mein wünschen vnd be-
+<et>(gehren/</et>
+Wie wol doch were mir/ im fall ich jederzeit
+Mein selber möchte sein/ vnd were gantz befreyt
+Der liebe die noch nie sich wollen von mir kehren/
+Wiewol ich offte mich bedachtbin zue erweren.
+Doch lieb ich gleichwol nicht/ so bin ich wie ein
+<et>(scheit/</et>
+Ein stock vnd rawe&sr; bley. die freye dienstbarkeit/
+Die sichere gefahr/ da&sr; tröstliche beschweren
+Ermuntert meinen geist/ da&sr; er sich höher schwingt
+Al&sr; wo der pöfel kreucht/ vnd durch die wolcken
+<et>(dringt/</et>
+Geflügelt mitt vernunfft/ v&tn; mutig&te; gedancken/
+Dru&tm; geh, e&sr; wie e&sr; wil/ v&tn; muß ich schon darvon/
+So vberschreit ich doch de&sr; leben&sr; enge schranck&te;:
+Der name der mir folgt ist meiner sorgen lohn.</poem></cit>
+<cw>Welchen</cw>
+<pb>
+<p>Welchen namen wenn die Pceten nicht zue gewarten hetten/
+würden viel derselben durch die boßheit der Leute/ die sie mehr
+auß neide alß billicher vrsache verfolgen/ von jhrem leblichen
+vorsatze zuerücke gehalten vnd abgeschreckt werden. E&sr; wirt
+aber bey jhnen nicht stehen/ vnd ich bin der tröstlichen hoffnung/
+e&sr; werde nicht alleine die Lateinische Poesie/ welcher seit der
+vertriebenen langwierigen barbarey viel große männer auff
+geholffen/ vngeacht dieser trübseligen zeiten vnd höchster ver-
+achtung gelehrter Leute/ bey jhrem werth erhalten werden;
+sondern auch die Deutsche/ zue welcher ich nach meinem armen
+vermögen allbereit die fahne auffgesteckt/ von stattlichen ge-
+mütern allso außgevbet werden/ da&sr; vnser Vaterland Franck-
+reich vnd Jtalien wenig wird bevor dörffen geben.</p>
+<d1>Da&sr; <aq>IIII.</aq> Capitel.
+Von der Deutschen Poeterey.</d1>
+<p><in>V</in>On dieser Deutschen Poeterey nun zue reden/
+sollen wir nicht vermeinen/ da&sr; vnser Land vnter so ei-
+ner rawen vnd vngeschlachten Lufft liege/ da&sr; e&sr; nicht
+eben der gleichen zue der Poesie tüchtige <aq>ingenia</aq> könne tragen/
+al&sr; jergendt ein anderer ort vnter der Sonnen. Wein vnnd
+früchte pfleget man zue Loben von dem orte da sie herkommen
+sein; nicht die gemüter der menschen. Der weise Anacharsi&sr;
+ist in den Scitischen wüsten gebohren worden. Die Vornem-
+sten Griechen sind in Egypten/ Jndien vnd Franckreich gerei-
+set/ die weißheit zue erlernen. Vnd/ vber diß da&sr; wir so viel
+Vorneme Poeten/ so heutige&sr; tage&sr; bey vn&sr; erzogen worden/
+vnter augen können stellen/ erwehnet Tacitu&sr; von den Deut-
+schen in dem buche da&sr; er von jhnen geschrieben/ da&sr; ob wol
+weder Mann noch Weib vnter jhnen zue seiner zeit den freyen
+künsten ob zue liegen pflegeten/ faßeten sie doch alle&sr; wa&sr; sie im
+<bs>C ij</bs><cw>gedächt-</cw>
+<pb>
+gedächtniß behalten wolten in gewisse reimen v&tn; getichte. Wie
+er denn in einem andern orte saget/ da&sr; sie viel von de&sr; Armi-
+niu&sr; seinen thaten zue fingen pflegeten. Welche&sr; sie vieleichte
+den Frantzosen nachgethan haben/ <fr>bey denen/</fr> wie Strabo
+im fünfften buche anzeiget/ <fr>Dreyerley Leute waren/ die
+man in sonderlichen ehren hielt:</fr> <aq>Bardi, Vate&sr;</aq> <fr>vnnd
+Druiden. Die Barden sungen Lobgetichte vnnd
+waren Poeten; Die</fr> <aq>Vate&sr;</aq> <fr>opfferten vnd betrachte-
+ten die Natur aller dinge; Die Druiden pflegten
+vber die Natürliche Wissenschafft auch von gueten
+sitten zue vnterrichten.</fr> Welche&sr; auch Marcellinu&sr; im
+fünfften buche bekrefftiget: <fr>Die Barden/</fr> saget er/ <fr>haben
+berümbter männer ritterliche thaten mit heroischen
+Versen beschrieben/ vnd mit füßen melodien zue der
+leyer gesungen.</fr> Vnd <aq>Lucanu&sr;</aq> im erstenjbuche de&sr; bürger-
+lichen Kriege&sr;:</p>
+<cit><aq>Vo&sr; quoq&0301;ue qui forte&sr; anima&sr; belloq&0301;ue peremp-
+Laudibu&sr; in longum vate&sr; demittiti&sr; &00E6;uum, (ta&sr;
+Plurima securi fudisti&sr; carmina Bardi.</aq></cit>
+<p>Da&sr; ich der meinung bin/ die Deutschen haben eben diese&sr;
+im gebrauche gehabt/ bestetiget mich/ vber da&sr; wa&sr; Tacitu&sr;
+meldet/ auch der alten Cimbrer oder Dänen ebenmäßiger ge-
+brauch/ die von jhren Helden schöne vnd geistreiche Lieder er-
+eichtet haben/ deren nicht wenig von alten jahren her in Denne-
+marck noch verhanden sind/ vnd von vielen gesungen werden.
+So ist auch Hiarne&sr; bey jhnen einig vnnd alleine deßentwegen
+zum Königreiche kommen/ weil er dem vorigen Könige zue
+ehren ein solch grabgetichte gemacht/ da&sr; vor allen andern den
+preiß behalten.</p>
+<cw>Vnd</cw>
+<pb>
+<p>Vnd vber diß/ sind doch eine&sr; vngenannten Freyherren&sr;
+von Wengen/ Juncker Winßbecken&sr;/ Reinmar&sr; vou Zwe-
+ter/ der ein Pfältzischer vom Adel vnd bey Keyser Friedrichen
+dem ersten vnd Heinrichen dem sechsten auffgewartet hatt/
+Marner&sr; auch eine&sr; Edelmanne&sr;/ Meister Sigeherren&sr;/ vnd
+anderer sachen noch verhanden/ die manchen stattliehen Latei-
+nischen Poeten an erfindung vnd ziehr der reden beschämen.
+Jch wil nur auß dem Walter von der Vogelweide/ Keyser
+Philipse&sr; geheimen rahte/ den Goldast anzeucht/ einen einigen
+ort setzen; darauß leichtlich wird zue sehen sein/ wie hoch sich
+selbige vorneme Männer/ vngeachtet jhrer adelichen ankunfft
+vnd stande&sr;/ der Poeterey angemaßet:</p>
+<cit><poem><fr>Nun sende vn&sr; Vater vnd Suhn den rechten Geist
+<et>heraben/</et>
+Da&sr; wir mit deiner süssen füchte ein dürre&sr; hertze
+<et>erlaben.</et>
+Vnk&rr;istenlichen dingen ist al al dui kristenheit so vol/
+Swa kristentum ze siechhu&sr; lit da tut man jhm
+<et>nicht wol.</et>
+Jhn dürstet sehre
+Nach der lehre
+Al&sr; er von Rome wa&sr; gewon/
+Der jhn da schancte
+Vnd jhn da trancte
+Al&sr;</fr> <aq>é</aq> <fr>da wurde er varende von.
+Swa&sr; im da leide&sr; je gewar
+Da&sr; kam von Symoni&sr; gar.
+Vnd ist er da so fründebar
+Da&sr; er engetar</fr>
+<bs>C iij</bs><cw>Nicht</cw>
+<pb>
+<fr>Nicht sin schaden genügen.
+Kristentum vnd Kristenheit
+Der disü zwei zusamne saeit
+Gelih lanc/ gelih breit/
+Lieb vnd leit
+Der wolte auch da&sr; wir trügen
+Jn kriste Kristenliche&sr; leben
+Sit er vn&sr; vf eine gegeben
+So suln wir vn&sr; nicht scheiden/ &rr;c.</fr></poem></cit>
+<p>Da&sr; nun von langer zeit her dergleichen zue vben in ver-
+gessen gestellt ist worden/ ist leichtlicher zue beklagen/ al&sr; die
+vrsache hiervon zue geben. Wiewol auch bey den Jtalienern
+erst Petrarcha die Poeterey in seiner Muttersprache getrieben
+hat/ vnnd nicht sehr vnlengst Ronsardu&sr;; von deme gesaget
+wird/ da&sr; er/ damit er sein Frantzösische&sr; desto besser außwür-
+gen köndte/ mit der Griechen schrifften gantzer zwölff jahr sich
+vberworffen hate; al&sr; von welchen die Poeterey jhre meiste
+Kunst/ art vnd liebligkeit bekommen. Vnd muß ich nur bey
+hiesiger gelegenheit ohne schew diese&sr; errinnern/ da&sr; ich e&sr; für
+eine verlorene arbeit halte/ un fall sich jemand an vnsere deut-
+sche Pceterey machen wolte/ der/ nebenst dem da&sr; er ein Poete
+von natur sein muß/ in den griechischen v&tn; Lateinischen büchern
+nicht wol durchtrieben ist/ vnd von jhnen den rechten grieff er-
+lernet hat; da&sr; auch alle die lehren/ welche sonsten zue der Poe-
+sie erfodert werden/ vnd ich jetzund kürtzlich berühren wil/ bey
+jhm nicht&sr; verfangen können.</p>
+<d1><b>Da&sr; <aq>V.</aq> Capitel.</b></d1>
+<cw><b>Von</b></cw>
+<pb>
+<d1><b>Von der zuegehör der Deutschen Poesie/
+vnd erstlich von der invention oder erfindung/</b>
+vnd Disposition oder abtheilung der dinge von
+denen wir schreiben wollen.</d1>
+<p><in>J</in>Eil die Poesie/ wie auch die Rednerkunst/
+in dinge vnd worte abgetheilet wird; al&sr; wollen wir
+erstlich von erfindung vnd eintheilung der dinge/ nach-
+mal&sr; von der zuebereitung vnd ziehr der worte/ vnnd endtlich
+vom maße der sylben/ Verse/ reimen/ vnnd vnterschiedener
+art der <aq>carminum</aq> vnd getichte reden.</p>
+<p>Die erfindung der dinge ist nicht&sr; ander&sr; al&sr; eine sinnreiche
+faßung aller sachen die wir vn&sr; einbilden können/ der Himlisch-
+en vnd jrrdischen/ die Leben haben vnd nicht haben/ welche ein
+Poete jhm zue beschreiben vnd herfür zue bringen vornimpt:
+darvon in seiner Jdea Scaliger außfürlich berichtet. An dieser
+erfindung henget sirack&sr; die abtheilung/ welche bestehet in einer
+füglichen vnd artigen ordnung der erfundenen sachen. Hier
+mußen wir vn&sr; besinnen/ in wa&sr; für einem <aq>genere carmini&sr;</aq>
+vnd art der getichte (weil ein jegliche&sr; seine besondere zuegehör
+hat) wir zue schreiben willen&sr; sein.</p>
+<p>Ein Heroisch getichte (da&sr; gemeiniglich weitleufftig ist/
+vnd von hohem wesen redet) soll man strack&sr; von seinem inn-
+halte vnd der Proposition anheben; wie Virgiliu&sr; in den büch-
+ern vom Ackerbawe thut:</p>
+<cit><aq>Quid faciat l&00E6;ta&sr; segete&sr;, quo sidere terram
+Vertere, M&00E6;cena&sr;, vlmi&sr;que adiungere vite&sr;
+Conueniat; qu&00E6; cura boum, qui cultu&sr; habendo
+Sit pecori, atque apibu&sr; quanta experientia parci&sr;,
+Hinc canere incipiam.</aq></cit>
+<p>Vnd ich (wiewol ich mich schäme/ da&sr; ich in mangel ande-
+<cw>rer</cw>
+<pb>
+rer deueschen exempel mich meiner eigenen gebrauchen soll/ weil
+mir meine wenigkeit vnd vnvermögen wol bewust ist) in dem
+ersten buche der noch vnaußgemachten Trostgetichte in Wie-
+derwertigkeit de&sr; Kriege&sr;:</p>
+<cit><poem><fr>De&sr; schweren Kriege&sr; last den Deutschland jetzt
+<et>empfindet/</et>
+Vnd da&sr; Gott nicht vmbsonst so hefftig angezündet
+Den eifer seiner macht/ auch wo in solcher pein
+Trost her zue holen ist/ soll mein getichte sein.</fr></poem></cit>
+<p>Nachmal&sr; haben die heiden jhre Götter angeruffen/ da&sr; sie
+jhnen zue vollbringung de&sr; wercke&sr; beystehen wollen: denen wir
+Christen nicht allein folgen/ sondern auch an frömigkeit billich
+sollen vberlegen sein. Virgiliu&sr; spricht weiter an gedacht&te; orte:</p>
+<cit><aq>Vo&sr;, o clarißima mundi
+Lumina, labentem c&0153;lo qu&00E6; duciti&sr; annum,
+Liber, &amp; alma Cere&sr;, &amp;c.</aq></cit>
+<p>Vnd ich:</p>
+<poem><fr>Diß hab ich mir anjetzt zue schreiben fürgeno&tm;en.
+Jch bitte wollest mir geneigt zue hülffe kommen
+Du höchster trost der welt/ du zueversicht in not/
+Du Geist von GOtt gesandt/ ia selber wahrer
+<et>GOtt.</et>
+Gieb meiner Zungen doch mit deiner glut zue bren-
+<et>nen/</et>
+Regiere meine faust/ vnd laß mich glücklich rennen
+Durch diese wüste bahn/ durch diese&sr; newe feldt/
+Darauff noch keiner hat für mir den fuß gestelt.</fr></poem>
+<p>Wiewol etliche auch strack&sr; zue erste die anruffung setzen.
+Al&sr; Lucretiu&sr;:</p>
+<cw><aq>Aenea-</aq></cw>
+<pb>
+<cit><aq>Aeneadum genetrix, hominum diuumq&0301;ue volup-
+Alma Venu&sr;, &amp;c. <et>(ta&sr;,</et></aq></cit>
+<p>Vnd Wilhelm von Sallust in seiner andern woche:</p>
+<poem><cit><aq>Grand Dieu, qui de ce Tout m&2019; a&sr; fait voir la nais-
+<et>(sance,</et>
+Descouure son berceau, monstre-moy son enfance.
+Pourmeine mon esprit par le&sr; fleuri&sr; destour&sr;
+De&sr; verger&sr; doux-flairan&sr;, où serpentoit le cour&sr;
+De quatre viue&sr; eaux: conte-moy quelle offence
+Bannit de&sr; deux Eden&sr; Adam, &amp; sa semence.</aq></cit>
+<fr>Gott/ der du mich der welt geburt hast sehen lassen/
+Laß mich nun jhre wieg vnd kindheit jetzt auch
+fassen/
+Vnd meinen Geist vnd sinn sich in dem kreiß&2019; ergehn
+Der gärte vol geruch&sr;/ hier wo vier flüsse schön&2019;
+Hinrauschen mitten durch: erzehl vmb wa&sr; für
+<et>sachen</et>
+Sich Adam vnd sein sam&2019;auß Eden muste machen.</fr></poem>
+<p>Doch ist/ wie hier zue sehen/ in der anruffung allzeit die
+proposition zuegleich begrieffen. Auff diese&sr; folget gemeinig-
+lich die dedication; wie Virgiliu&sr; seine <aq>Georgica</aq> dem Keiser
+Augustu&sr; zuegeschrieben. Jtem die vrsache/ warumb man
+eben diese&sr; werck vor sich genommen: wie im dritten buche vom
+Ackerbawe zue sehen:</p>
+<p><aq>Cetera, qu&00E6; vacua&sr; tenuissent carmina mente&sr;,
+Omnia jam vulgata;</aq> vnd wie folget. Dem ich in den
+Trostgetichten auch habe nachkommen wollen:</p>
+<cit><poem><fr>Da&sr; ander ist bekandt. wer hat doch nicht ge-
+<et>schrieben</et></fr>
+<bs>D</bs><cw><fr>Von</fr></cw>
+<pb>
+<fr>Von Venu&sr; eitelkeit/ vnd von dem schnöden lieben/
+Der blinden jugendt lust? wer hat noch nie ge-
+<et>hört</et>
+Wie der Poeten volck die grossen Herren chrt/
+Erhebt sie an die lufft/ vnd weiß herauß zue streich&te;
+Wa&sr; besser schweigen&sr; werth/ lest seine Feder reich&te;
+Wo Menschen tapfferkeit noch niemal&sr; hin ge-
+<et>langt/</et>
+Macht also da&sr; die welt mit blossen lügen prangt?
+Wer hat zue vor auch nicht von riesen hören sagen/
+Die Waldt vnd Berg zuegleich auff einen orth ge-
+<et>tragen/</et>
+Zue stürtzen Jupitern mit aller seiner macht/
+Vnnd wa&sr; de&sr; wesen&sr; mehr? nun ich bin auch
+<et>bedacht</et>
+Zue sehen ob ich mich kan auß dem staube schwing&te;/
+Vnd von der dicken schar de&sr; armen volcke&sr; dringen
+So an der erden klebt. ich bin begierde voll
+Zue schreiben wie man sich im creutz&2019; auch fre-
+<et>wen soll/</et>
+Sein Meister seiner selbst. ich wil die neun Göt-
+<et>tinnen/</et>
+Die nie auff vnser deutsch noch haben reden könn&te;/
+Sampt jhrem Helicon mit dieser meiner handt
+Versetzen allhieher in vnser Vaterlandt.
+Vieleichte werden noch die bahn so ich gebrochen/
+Geschicktere dann ich nach mir zue bessern suchen/</fr>
+<cw>Wann</cw>
+<pb>
+<fr>Wann dieser harte krieg wird werden hingelcgt/
+Vnd die gewündschte rhue zue Land vnd Meer
+<et>gehegt.</et></fr></poem></cit>
+<p>Da&sr; getichte vnd die erzehlung selber belangend/ nimpt sie
+e&sr; nicht so genawe wie die Historien/ die sich an die zeit vnd alle
+vmbstende nothwendig binden mußen/ vnnd wiederholet auch
+nicht/ wie Horatiu&sr; erwehnet/ den Troianischen krieg von der
+Helenen vnd jhrer brüder geburt an: lest viel außen wa&sr; sich
+nicht hin schicken wil/ vnd setzct viel da&sr; zwar hingehöret/ aber
+newe vnd vnverhoffet ist/ vntermenget allerley fabeln/ histori-
+en/ Kriege&sr;künste/ schlachten/ rahtschläge/ sturm/ wetter/
+vnd wa&sr; sonsten zue erweckung der verwunderung in den gemü-
+tern von nöthen ist; alle&sr; mit solcher ordnung/ al&sr; wann sich
+eine&sr; auff da&sr; andere selber allso gebe/ vnnd vngesucht in da&sr;
+buch keme. Gleichwol aber soll man sich in dieser freyheit zue
+tichten vorsehen/ da&sr; man nicht der zeiten vergeße/ vnd in jh-
+rer warheit irre. Wiewol e&sr; Virgiliu&sr;/ da er vorgegeben/
+Enea&sr; vnd Dido hetten zue einer zeit gelebet/ da doch Dido
+hundert jahr zuevor gewesen/ dem Keyser vnd Römischen vol-
+cke/ durch welche&sr; die stadt Carthago bezwungen worden/ zue
+liebe gethan/ damitt er gleichsam von den bösen flüchen der Di-
+do einen anfang der feindschafft zwischen diesen zweyen mächti-
+gen völckern machte. Ob aber bey vn&sr; Deutschen so bald je-
+mand kommen möchte/ der sich eine&sr; volkommenen Heroisch&te;
+wercke&sr; vnterstehen werde/ stehe ich sehr im zweifel/ vnnd bin
+nur der gedanck&te;/ e&sr; sey leichtlicher zue wündsch&te; al&sr; zue hoffen.</p>
+<p>Die Tragedie ist an der maiestet dem Heroischen getichte ge-
+meße/ ohne da&sr; sie selten leidet/ da&sr; man geringen stande&sr; per-
+sonen vnd schlechte sachen einführe: weil sie nur von Königlich-
+em willen/ Todtschlägen/ verzweiffelungen/ Kinder- vnd Vä-
+termörden/ brande/ blutschanden/ kriege vnd auffruhr/ kla-
+<bs>D ij</bs><cw>gen/</cw>
+<pb>
+gen/ heulen/ seuffzen vnd dergleichen handelt. Von derer zu-
+gehör schreibet vornemlich Aristotele&sr;/ vnd etwa&sr; weitleuffti-
+ger Daniel Heinsiu&sr;; die man lesen kan.</p>
+<p>Die Comedie bestehet in schlechtem wesen vnnd personen:
+redet von hochzeiten/ gastgeboten/ spielen/ betrug vnd schalck-
+heit der knechte/ ruhmrätigen Landt&sr;knechten/ buhlersachen/
+leichtfertigkeit der jugend/ geitze de&sr; alter&sr;/ kupplerey vnd sol-
+chen sachen/ die täglich vnter gemeinen Leuten vorlauffen Ha-
+ben derowegen die/ welche heutige&sr; tage&sr; Comedien geschrie-
+ben/ weit geirret/ die Keyser vnd Potentaten eingeführet weil
+solche&sr; den regeln der Comedien schnurstrack&sr; zuewieder laufft.</p>
+<p>Zue einer Satyra gehören zwey dinge: die lehre von gueten
+sitten vnd ehrbaren wandel/ vnd höffliche reden vndschertzwor-
+te. Jhr vornemste&sr; aber vnd gleichsam al&sr; die seele ist/ die har-
+te verweisung der laster vnd anmahnung zue der tugend: welch-
+e&sr; zue vollbringen sie mit allerley stachligen vnd spitzfindigen re-
+den/ wie mit scharffen pfeilen/ vmb sich scheußt. Vnd haben
+alle Satyrische scribenten zum gebrauche/ da&sr; sie vngeschewet
+sich vor feinde aller laster angeben/ vnd jhrer besten freunde ja
+jhrer selbst auch nicht verschonen/ damit sie nur andere bestech&te;
+mögen: wie e&sr; denn alle drey Horatiu&sr;/ Juuenali&sr; vnnd Per-
+siu&sr; meisterlich an den tag gegeben.</p>
+<p>Da&sr; Epigramma setze ich darumb zue der Satyra/ weil die
+Satyra ein lang Epigramma/ vnd da&sr; Epigramma eine kurt-
+ze Satyra ist: denn die kurtze ist seine eigenschafft/ vnd die spitz-
+findigkeit gleichsam seine seele v&tn; gestallt; die sonderlich an dem
+ende erscheinet/ da&sr; allezeit ander&sr; al&sr; wir verhoffet hetten ge-
+fallen soll: in welchem auch die spitzfindigkeit vornemlich beste-
+het. Wiewol aber da&sr; Epigramma aller sachen vnnd wörter
+fähig ist/ soll e&sr; doch lieber in Venerischem wesen/ vberschriff-
+ten der begräbniße vnd gebäwe/ Lobe vornemer Männer vnd
+Frawen/ kurtzweiligen schertzreden vnnd anderem/ e&sr; sey wa&sr;
+<cw>e&sr;</cw>
+<pb>
+e&sr; wolle/ bestehen/ al&sr; in spöttlicher hönerey vnd auffruck an-
+derer leute laster vnd gebrechen. Denn e&sr; ist eine anzeigung ei-
+ne&sr; vnverschämten sicheren gemüte&sr;/ einen jetwedern/ wie vn-
+vernünfftige thiere thun/ ohne vnterscheidt anlauffen.</p>
+<p>Die Eclogen oder Hirtenlieder reden von schaffen/ geißen/
+seewerck/ erndten/ erdgewächsen/ fischereyen vnnd anderem
+feldwesen; vnd pflegen alle&sr; worvon sie reden/ al&sr; von Liebe/
+heyrathen/ absterben/ buhlschafften/ festtagen vnnd sonsten
+auff jhre bäwrische vnd einfältige art vor zue bringen.</p>
+<p>Jn den Elegien hatt man erstlich nur trawrige sachen/ nach-
+mal&sr; auch buhlergeschäffte/ klagen der verliebten/ wündschung
+de&sr; tode&sr;/ brieffe/ verlangen nach den abwesenden/ erzehlung
+seine&sr; eigenen Leben&sr; vnnd dergleichen geschrieben; wie dann
+die meister derselben/ Ouidiu&sr;/ Propertiu&sr;/ Tibullu&sr;/ San-
+nazar/ Secundu&sr;/ Lotichiu&sr; vnd andere außweisen.</p>
+<p>Da&sr; ich der Echo oder de&sr; Wiederruffe&sr; zue ende der wör-
+ter gedencke/ thue ich erstlich dem Dousa zue ehren/ welcher
+mit etlichen solchen getichten gemacht hat/ da&sr; wir etwa&sr; dar-
+von halten; wiewol da&sr; so Secnndu&sr; geschrieben (wie alle an-
+dere seine sachen) auch sehr artlich ist: darnach aber/ weil ich
+sehe/ da&sr; sie bey den Frantzosen gleichfall&sr; im gebrauche sein;
+bey denen man sich ersehen kan. So sind jhrer auch zwey in
+meinen deutschen <aq>Poemati&sr;</aq>/ die vnlengst zue Straßburg auß
+gegangen/ zue finden. Welchen buche&sr; halben/ da&sr; zum theil
+vor etlichen jahren von mir selber&2019;/ zum theil in meinem abwe-
+sen von andern vngeordnet vnd vnvbersehen zuesammen gele-
+sen ist worden/ ich alle die bitte denen e&sr; zue gesichte kommen ist/
+sie wollen die vielfältigen mängel vnd irrungen so darinnen sich
+befinden/ beyde&sr; meiner jugend/ (angesehen da&sr; viel darunter
+ist/ welche&sr; ich/ da ich noch fast ein knabe gewesen/ geschrieben
+habe) vnnd dann denen zuerechnen/ die auß keiner bösen mei-
+nung meinen gueten namen dadurch zue erweitern bedacht ge-
+<bs>D iij</bs><cw>wesen</cw>
+<pb>
+wesen sein. Jch verheiße hiermitt/ eheste&sr; alle da&sr; jenige/ wa&sr;
+ich von dergleichen sachen bey handen habe/ in gewiße bücher
+ab zue theilen/ vnd zue rettung meine&sr; gerüchte&sr;/ welche&sr; we-
+gen voriger vbereileten edition sich mercklich verletzt befindet/
+durch offentlichen druck jederman gemeine zue machen.</p>
+<p>Hymni oder Lobgesänge waren vorzeiten/ die sie jhren Göt-
+tern vor dem altare zue singen pflagen/ vnd wir vnserem GOtt
+singen sollen. Dergleichen ist der lobgesang den Heinsiu&sr; vn-
+serem erlöser/ vnd der den ich auff die Christnacht geschrieben
+habe. Wiewol sie auch zuezeiten wa&sr; ander&sr; loben; wie bey
+dem Ronsard ist der Hymnu&sr; der Gerechtigkeit/ Der Geister/
+de&sr; Himmel&sr;/ der Sternen/ der Philosophie/ der vier Jah-
+re&sr;zeiten/ de&sr; Golde&sr;/ &rr;c.</p>
+<p>Sylven oder wälder sind nicht allein nur solche <aq>carmina</aq>/
+die auß geschwinder anregung vnnd hitze ohne arbeit von der
+hand weg gemacht werden/ von denen Quintilianu&sr; im dritten
+Capitel de&sr; zehenden buche&sr; saget: <aq>Diuersum est huic corum
+vitium, qui primùm discurrere per materiam stylo quàm
+velocis&sr;imo volunt, &amp; sequente&sr; calorem atque impe-
+tum ex tempore scribunt: Hoc syluam vocant;</aq> vnd wie
+an den schönen <aq>sylui&sr;</aq> die <aq>Statiu&sr;</aq> geschrieben zue sehen ist/ wel-
+che er in der Epistel für dem ersten buche nennet <aq>libello&sr; qui su-
+bito calore &amp; quadam festinandi voluptate ipsi fluxerant:</aq>
+sondern/ wie jhr name selber anzeiget/ der vom gleichniß eine&sr;
+Walde&sr;/ in dem vieler art vnd sorten Bäwme zue finden sindt/
+genommen ist/ sie begreiffen auch allerley geistliche vnnd welt-
+liche getichte/ al&sr; da sind Hochzeit- vnd Geburtlieder/ Glück-
+wündtschungen nach außgestandener kranckheit/ item auff reis&te;/
+oder auff die zuerückkunfft von denselben/ vnd dergleichen.</p>
+<p>Die Lyrica oder getichte die man zur Music sonderlich ge-
+brauchen kan/ erfodern zueföderst ein freye&sr; lustige&sr; gemüte/
+vnd wollen mit schönen sprüchen vnnd lehren häuffig geziehret
+<cw>sein:</cw>
+<pb>
+sein: wieder der andern Carminum gebrauch/ da man sonderli-
+che masse wegen der sententze halten muß; damit nicht der gan-
+tze Cörper vnserer rede nur lauter augen zue haben scheine/ weil
+er auch der andern glieder nicht entberen kan. Jhren inhalt be-
+treffendt/ saget Horatiu&sr;:</p>
+<cit><aq>Musa dedit fidibu&sr; diuo&sr;, puero&sr;que deorum,
+Et pugilem victorem, &amp; equum certamine,
+<et>primum,</et>
+Et iuuenum cura&sr;, &amp; libera vina referre.</aq></cit>
+<p>Er wil so viel zue verstehen geben/ da&sr; sie alle&sr; wa&sr; in ein
+kurtz getichte kan gebracht werden beschreiben können; buhle-
+rey/ täntze/ banckte/ schöne Menscher/ Gärte/ Weinberge/ lob
+der mässigkeit/ nichtigkeit de&sr; tode&sr;/ &rr;c. Sonderlich aber ver-
+mahnung zue der fröligkeit: welchen inhalt&sr; ich meiner Oden
+eine/ zue beschliessung diese&sr; Cavitel&sr;/ setzen wil:</p>
+<pt><c><fr>Ode.</fr></c></pt>
+<poem><fr>Jch empfinde fast ein grawen
+Da&sr; ich/ Plato/ für vnd für
+Bm gesessen vber dir;
+E&sr; ist zeit hienauß zue schawen/
+Vnd sich bey den frischen quellen
+Jn dem grünen zue ergehn/
+Wo die schönen Blumen stehn/
+Vnd die Fischer netze stellen.</fr></poem>
+<poem><fr>Worzue dienet da&sr; studieren/
+Al&sr; zue lauter vngemach?
+Vnter dessen laufft die Bach
+Vnser&sr; leben&sr; da&sr; wir führen/
+Ehe wir e&sr; innen werden/</fr>
+<cw><fr>Auff</fr></cw>
+<pb>
+<fr>Auff jhr letzte&sr; ende hin;
+Dann kömpt (ohne geist vnd sinn)
+Diese&sr; alle&sr; in die erden.</fr></poem>
+<poem><fr>Hola/ Junger/ geh&2019; vnd frage
+Wo der beste trunck mag sein;
+Nim den Krug/ vnd fülle Wein.
+Alle&sr; trawren leidt vnd klage/
+Wie wir Menschen täglich haben
+Eh&2019; vn&sr; Clotho fortgerafft
+Wil ich in den süssen safft
+Den die traube giebt vergraben.</fr></poem>
+<poem><fr>Kauffe gleichfal&sr; auch melonen/
+Vnd vergiß de&sr; Zucker&sr; nicht;
+Schawe nur da&sr; nicht&sr; gebricht.
+Jener mag der heller schonen/
+Der bey seinem Gold vnd Schätzen
+Tolle sich zue krencken pflegt
+Vnd nicht saat zue bette legt;
+Jch wil weil ich kan mich letzen.</fr></poem>
+<poem><fr>Bitte meine guete Brüder
+Auff die music vnd ein glaß
+Nicht&sr; schickt/ dünckt mich/ nicht sich baß
+Al&sr; guet tranck vnd guete Lieder.
+Laß ich gleich nicht viel zue erben/
+Ey so hab&2019; ich edlen Wein;
+Wil mit andern lustig sein/
+Muß ich gleich alleine sterben.</fr></poem>
+<cw>Da&sr;</cw>
+<pb>
+<d1><b>Da&sr; <aq>VI.</aq> Capitel.
+Von der zuebereitung vnd ziehr
+der worte.</b></d1>
+<p><in>N</in>Ach dem wir von den dingen gehandelt ha-
+ben/ folgen jetzund die worte; wie e&sr; der natur auch ge-
+meße ist. Denn e&sr; muß ein Mensch jhm erstlich etwa&sr;
+in seinem gemüte fassen/ hernach da&sr; wa&sr; er gefast hat außreden.
+Die worte bestehen in dreyerley; inn der elegantz oder ziehrlig-
+keit/ in der <aq>composition</aq> oder zuesammensetzung/ vnd in der
+dignitet vnd ansehen.</p>
+<p>Die ziehrligkeit erfodert da&sr; die worte reine vnd deutlich sein.
+Damit wir aber reine reden mögen/ sollen wir vn&sr; befleissen de-
+me welche&sr; wir Hochdeutsch nennen besten vermögen&sr; nach zue
+kommen/ vnd nicht derer örter sprache/ wo fallsch geredet wird/
+in vnsere schrifften vermischen: al&sr; da sind/ <fr>e&sr; geschach/</fr> für/
+<fr>e&sr; geschahe/ er sach/ für/ er sahe; sie han/</fr> für <fr>sie haben</fr>
+vnd andere&sr; mehr: welche&sr; dem reine auch bißweilen außhelf-
+fen sol; al&sr;:</p>
+<poem>Der darff nicht sorgen für den spot/
+Der einenschaden krieget hot.</poem>
+<p>So stehet e&sr; auch zum hefftigsten vnsauber/ wenn allerley
+Lateinische/ Frantzösische/ Spanische vnnd Welsche wörter in
+den tert vnserer rede geflickt werden; al&sr; wenn ich wolte sagen:</p>
+<poem>Nemt an die <aq>courtoisie,</aq> vnd die <aq>deuotion,</aq>
+Die euch ein <aq>cheualier, madonna/</aq> thut erzeigen;
+Ein handvol von <aq>fauor petirt</aq> er nur zue lohn/
+Vnd bleibet ewer Knecht vnd <aq>seruiteur</aq> gantz eig&te;.</poem>
+<p>Wie seltzam diese&sr; nun klinget/ so ist nicht&sr; desto weniger die
+thorheit innerhalb kurtzen Jharen so eingeriessen/ da&sr; ein jeder/
+<bs>E</bs><cw>der</cw>
+<pb>
+der nur drey oder vier außländische wörter/ die er zum offtern
+nicht verstehet/ erwuscht hat/ bey aller gelegenheit sich bemühet
+dieselben herauß zue werffen/ Da doch die Lateiner eine solche
+abschew ver dergleichen getragen/ da&sr; in jhren versen auch fast
+kein griechisch wort gesunden wird/ da&sr; zwar gantz griechisch
+ist. Dann Juuenali&sr; setzet inn einem orte #, eben
+dieselben auß zue lachen/ die sich in jhren buhlereyen mit griech-
+ischen wörtern behelffen: in dem andern orte aber thut er e&sr; da-
+rumb/ da&sr; er die schändliche sünde/ daran Christen auch nicht
+gedencken sollen/ lateinisch auß zuesprechen abschew treget: wie-
+wol er sonsten kein blat für da&sr; maul nimpt. Wa&sr; aber die <aq>no-
+mina propria</aq> oder eigentlichen namen der Götter/ Männer
+vnd Weiber vnd dergleichen betrifft/ dürffen wir nach art der La
+teiner vnd Griechen jhre casu&sr; nicht in acht nemen/ sondern
+sollen sie so viel möglich auff vnsere endung bringen. Al&sr;/ ich
+mag künlich nach der Deutschen gebrauche sagen:</p>
+<p><fr>Der schnelle plitz/ de&sr; Jupiter&sr; geschoß/</fr>
+vnd nicht/ de&sr; Joui&sr;. Jtem/ der Venu&sr; pfeile/ nicht
+veneri&sr;. Wie e&sr; denn auch die Römer mit den griechischen
+wörtern machen. Die Frantzosen gleichfal&sr;. Bartaß in seinem
+Buche/ dem er den titel die Herrligkeit gegeben:</p>
+<p><aq>Vngrand Gymnosophiste, vn Druyde, vn Brach-
+man.</aq></p>
+<p>Jtem die Hollender. Al&sr; Heinsiu&sr;:</p>
+<p><c><fr>van daer i&sr; zij gegaen</fr></c></p>
+<p><fr>By Theti&sr; haer vrindin/ en sprack Neptunu&sr; aen.</fr></p>
+<p>Doch können wir anfange&sr;/ weil e&sr; in vieler ohren noch et-
+wa&sr; harte lautet/ etliche lateinische endungen noch gebrauchen/
+biß wir in die gewonheit kommen sind. Al&sr; wenn ich der Erin-
+nen/ die Stobeu&sr; anzeucht/ verß geben wolte.</p>
+<cit>#</cit>
+<p>mag ich wol setzen:</p>
+<cw>O Rom/</cw>
+<pb>
+<p><fr>O Rom/ de&sr; Marti&sr; kind/ sey sehr gegrüßt von
+mir</fr> den im fall ich spreche/ <fr>O Rom/ du kind de&sr; Mar&sr;/</fr>
+möchte e&sr; vielen zue anfange seltzam vorkommen.</p>
+<p>Die <aq>diphthongi</aq> oder deppeltlautenden Buchstaben/ weil
+sie bey vn&sr; nicht vblich/ dürffen nur mit demselblautenden buch-
+staben geschrieben werden/ dessen thon sie haben; al&sr;
+<fr>En<aq>é</aq>a&sr;/ Eschylu&sr;/ Mecena&sr; &rr;c.</fr></p>
+<p>Newe wörter/ welche&sr; gemeiniglich <aq>epitheta,</aq> derer wir
+bald gedencken werden/ vnd von andern wörtern zuesammen ge-
+setzt sindt/ zue erdencken/ ist Poeten nicht allein erlaubet/ sondern
+macht auch den getichten/ wenn e&sr; mässig geschiehet/ eine son-
+derliche anmutigkeit. Al&sr; wenn ich die nacht oder die Music ei-
+ne arbeittrösterinn/ eine kummerwenderinn/ die Bellona mit
+einem dreyfachen worte krieg&sr;-blut-dürstig/ vnd so fertan nen-
+ne. Jtem den Nortwind einen wolckentreiber/ einen felssen stür-
+mer vnd meerauffreitzer: wie jhn Ronsardt (denn die Frantzo-
+sen echst den Griechen hierinnen meister sindt) im 202. Son-
+net seine&sr; andern buche&sr; der Buhlersachen heisset:</p>
+<cit><aq>Fier A quilon horreur de la Scythie,
+Lechasse-nue, &amp; l&2019;esbransle-rocher,
+L irrite-mer.</aq></cit>
+<p>Welche&sr; auß dem <aq>Ouidio</aq> genommen ist.</p>
+<cit><aq>Apta mihi vi&sr; est, hac tristia nubila pello,
+Hacfreta concutio, nodosaque robora verto.</aq></cit>
+<p>Solche&sr; stehet auch an seinem orte bey den Lateinern nicht
+vbel; al&sr; da Catullu&sr; saget in seinem vberauß schönen getichte
+vom Aty&sr;:</p>
+<p><aq>Vbi cerua syluicultrix, vbi aper ncmoriuagu&sr;</aq> Vnd Pr-
+bliu&sr; Syru&sr; von dem storche:</p>
+<cit><aq>Pietaticultrix, gracilipe&sr;, crotalistria,
+Aui&sr; exulhiemi&sr;.</aq></cit>
+<cw>Jn</cw>
+<pb>
+<p>Jn welchen erfindungen Joseph Scaliger zue vnserer zeit
+meine&sr; bedüncken&sr; alle andere/ auch die alten selber/ vbertroff&te;.</p>
+<p>Darbey aber vn&sr; Deutschen diß zue mereken ist/ da&sr; da&sr;
+<aq>nomen verbale,</aq> al&sr; treiber/ stürmer/ auffreitzer/ &rr;c. allzeit/
+wie bey den Lateinern/ muß hinten gefetzt werden; wieder der
+Frantzos&te; geb&rr;auch/ derer sprache e&sr; nicht ander&sr; mit sich bringt.
+So Heinsin&sr; in dem Lobgetichte de&sr; Weingotte&sr;/ welche&sr; er
+auch zum theil von dem Ronsardt entlehnet:</p>
+<cit><poem><fr>Nacht-loope&rr;/ Heupe-soon/ Hooch-sch&rr;eeiuve&rr;-Groo
+te-springer/
+Goet-geuer/ Minne-vrient/ Hooft-breker/ Lecu-
+wen-dwinger/
+Hert-vanger/ Herßen-dief/ Tong-binder/ Schud-
+de-bol/
+Geest-roerder/ Waggel-voet/ Staet-kruijßer/ Al-
+tiject-vol.</fr></poem></cit>
+<p>Vnd nach meiner vordolmetschung:</p>
+<poem><fr>Nacht-leuffer/ Hüffte-sohn/ Hoch-schreyer/ Lüfften-
+springer/
+Guet-geber/ Liebe&sr;freundt/ Haupt-brecher-Löwen-
+zwinger/
+Hertz-fänger/ Hertzen-dieb/ Mund-binder/ Sin-
+nen-toll/
+Geist-rhürer/ wackel-fuß/ Stadt-kreischer/ All-
+zeit-voll.</fr></poem>
+<p>Wie denn auch sonsten die <aq>epitheta</aq> bey vn&sr; gar ein vbel
+außsehen haben/ wenn sie hinter jhr <aq>substantiuum</aq> gesetzet
+werden/ al&sr;: <fr>Da&sr; mündlein roht/ der Weltkreiß
+rund/ die hände fein;</fr> für; <fr>da&sr; rothe mündlein/ der</fr>
+<cw>runde</cw>
+<pb>
+<fr>runde Weltkreiß/ die feinen hände/ &rr;c.</fr> wiewol bey vn-
+sern reimenmachern nicht&sr; gemeiner ist.</p>
+<p>So bringen auch die Frantzosen newe <aq>Verba</aq> herfür/ wel-
+che/ wenn sie mit bescheidenheit gesetzet werden/ nicht vnartig
+sind. Al&sr; Ronsardt brauthet in einer Elegie an die Caßandra/
+da&sr; wort <aq>Petrarqui&sr;er,</aq> da&sr; ist/ wie Petrartha buhlerische re-
+den brauchen:</p>
+<cit><aq>Apprendre l&2019;art de bien Petrarqui&sr;er.</aq></cit>
+<p>Vnd ich habe e&sr; jhm mit einem anderen worte nachgethan/
+da ich die Leyer anrede:</p>
+<poem><fr>Jetzt solt du billich mehr al&sr; wol/
+O meine lust/ Pindarisiren.</fr></poem>
+<p>Jch darff aber darumb nicht bald auß dem Frantzösischen sa-
+gen: <aq>approchiren, marchiren;</aq> oder auß dem Lateine: <aq>dubi-
+tiren, seruiren; gaudiren,</aq> wie zwar die zne thun pflegen/ die
+eher jhre Muttersprache verterben/ al&sr; da&sr; sie nicht wollen se-
+hen laßen/ da&sr; sie auch wa&sr; frembde&sr; gelernet haben.</p>
+<p>Wie nun wegen reinligkeit der reden frembde wörter vnnd
+dergleichen mußen vermieden werden; so muß man auch der
+deutligkeit halben sich für alle dem hüten/ wa&sr; vnsere worte tun-
+ckel vnd vnverstendtlich macht. Al&sr; wann ich sagen wollte:
+<fr>Da&sr; weib da&sr; thier ergrieff.</fr> Hier were zue zweiffeln/
+ob da&sr; weib vom thiere/ oder da&sr; thier vom weibe were ergrief-
+fen worden: welche&sr; die Griechen eine # nennen.</p>
+<p>Der # da etwa&sr; vbrige&sr; gesaget wird/ verstellet
+auch die rede zue weilen nicht wenig. Al&sr; wann ich spreche:
+<fr>Ein schwartze&sr; Kind da&sr; nicht war weiß;</fr>
+weil e&sr; sich wol ohne diß verstehet So wie Pansa sagete: Da&sr;
+Kind were von der Mutter zehen monat im leibe getragen wor-
+den: fragete Cicero: ob andere weiber die kin der im rocke trüg&te;.
+Doch hilfft bißweilen da&sr; wa&sr; vbrig hinzue gesetzet wird auch zu
+<bs>E iij</bs><cw>auff</cw>
+<pb>
+auffmutzung der rede. So saget Virgiliu&sr;:</p>
+<cit><aq>Vocemque hi&sr; auribu&sr; hausi.</aq></cit>
+<p><fr>Mit meinen ohren hab ich e&sr; vernommen;</fr>
+zue mehrer bestetigung deßen da&sr; er erzehlet.</p>
+<p>Die # oder verkehrung der worte stehet bey vn&sr;
+sehr garstig/ al&sr;: <fr>Den sieg die Venu&sr; kriegt;</fr> für <fr>Die
+Venu&sr; kriegt den sieg.</fr> Jtem: <fr>Sich selig dieser schätz-
+en mag;</fr> für: <fr>Dieser mag sich selig schätzen.</fr> Vnnd se
+offte dergleichen gefunden wird/ ist e&sr; eine gewiße anzeigung/
+da&sr; die worte in den verß gezwungen vnd gedrungen sein.</p>
+<p>Auff die außlesung der worte/ sagen wir nun billich auch von
+jhrer zuesammensetzung; wie wir nemlich die buchstaben/ sylla-
+ben vnd wörter aneinander fügen sollen.</p>
+<p>Weil ein buchstabe einen andern klang von sich giebet al&sr; der
+andere/ soll man sehen/ da&sr; man diese zum offteren gebrauche/
+die sich zue der sache welche wir für vn&sr; haben am besten schick&te;.
+Al&sr; wie Virgiliu&sr; von dem berge Etna redet/ brauchet er alle&sr;
+harte vnd gleichsam knallende buchstaben:</p>
+<cit><aq>Vidimu&sr; vndantem rupti&sr; fornacibu&sr; Aetnam
+Flammarumq&0301;ue globo&sr;, liquefactaque voluere
+<et>(saxa</et></aq></cit>
+<poem>wie Etna/ wenn er strewet
+Die fla&tm;en in die lufft/ v&tn; siedend, hartz außspeyet/
+Vnd durch den holen schlund bald schwartze wolck&te;
+<et>(bläßt/</et>
+Bald gantze klüfften stein vnd kugeln fliegen lest.</poem>
+<p>Heinsiu&sr; saget:</p>
+<cit><poem><fr>Gelyck al&sr; Etna schiet vyt haere diepe kolcken
+Een grondeloose zee van vlammen in de wolcken.</fr></poem></cit>
+<p>So/ weil da&sr; L vnd R fließende buchstaben sein kan ich wir
+<cw>sie</cw>
+<pb>
+sie in beschreibung der bäche vnd wäßer wol nütze machen/ al&sr;:
+<fr>Der klare brunnen quilt mitt lieblichem gerausche &rr;c.</fr></p>
+<p>Wie nun bißweilen eine solche zuesammenstoßung der buch-
+staben recht vnd guet ist; soll man sie doch sonsien mitt einander
+so wißen zue vermengen/ da&sr; nicht die rede dadurch garzue raw
+oder zue unde werde. Eben diese&sr; ist e&sr; auch/ wann eine syllabe
+oder wort zue offte wiederholet wird, al&sr; <fr>Die die dir diese
+dinge sagen.</fr></p>
+<p>Jtem/ E&sr; siehet nicht wol auß/ wenn ein Verß in lauter
+eynsylbigen wörtern bestehet. Deßen exempel Ronsard giebet:</p>
+<cit><aq>le vy le liel si beau, si pur et net.</aq></cit>
+<p>Wiewol wir deutschen/ wegen der menge der einsylbigen
+wörter die wir haben/ e&sr; zuezeiten kaum vermeiden können.</p>
+<p>Hergegen sollen die verß/ sonderlich die Masculini (wie wir
+sie im folgenden Capitel nennen werden) sich nicht mit viel syl-
+bigen wörtern enden.</p>
+<poem><fr>Jch wil euch williglich mit vnterthänigkeit
+Zue dienste sein/ Hertzlieb/ bey der gelegenheit.</fr></poem>
+<p>Dann die verß gar zue grob vnd harte dadurch gemacht
+werden.</p>
+<p>Da&sr; ansehen vnd die dignitet der Poetischen rede anlangt/
+bestehet dieselbe in den <aq>tropi&sr;</aq> vnnd <aq>fchematibu&sr;,</aq> wenn wir
+nemblich ein wort von seiner eigentlichen bedeutung auff einan-
+dere ziehen. Dieser figuren abtheilung/ eigenschafft vnd zuege-
+hör allhier zue beschreiben/ achte ich darumb vnvonnöthen/ weil
+wir im deutschen hiervon mehr nicht al&sr; wa&sr; die Lateiner zue
+mercken haben/ vnd also genungsamen vnterricht hiervon ne-
+ben den exempeln au&sr; Scaliger&sr; vnnd anderer gelehrten leute
+büchern nemen können. Dessen wil ich nur erinnern/ da&sr; für
+allen dingen nötig sey/ höchste mögligkeit zue versuchen/ wie
+man die <aq>epitheta;</aq> an denen bißher bey vn&sr; grosser mangel ge-
+<cw>wesen/</cw>
+<pb>
+wesen/ sonderlich von den Griechen vnd Lateinischen abstehen/
+vnd vn&sr; zue nutze machen mögen: Dann sie den Poetischen sa-
+chen einen solchen glantz geben/ da&sr; Stesichoru&sr; für den anmu-
+tigsten Poeten ist gehalten worden/ weil er desselbigen zum füg-
+lichsten sich gebraucht hat</p>
+<p>Sie mussen aber so gemachtwerden/ da&sr; sie entweder die
+dinge von denen wir reden von andern vnterscheiden; al&sr; da der
+Poet spricht: <aq>nigra hirundo,</aq> <fr>die schwartze Schwalbe/</fr>
+oder sie vermehren/ al&sr;: <aq>frigida bello Dextera,</aq> <fr>eine handt
+die im kriege nicht viel außrichtet.</fr></p>
+<p>Sie mussen auch warhafftig sein/ vnd etwa&sr; nicht ander&sr;
+beschreiben al&sr; e&sr; ist Zum erempel: <aq>florida Hybla;</aq> weil viel
+Blumen darauff wachsen sollen: <aq>Parna&sr;ia lauru&sr;, &00E6;stuosa
+Calabria,</aq> vnd dergleichen Strabo rhümet den Homeru&sr;/ da&sr;
+er die eigenschafft eine&sr;/ etwedern dinge&sr; sehr genaw in acht ge-
+nommen/ vnd jhm vnfehiber sein gehörige&sr; <aq>epitheton</aq> allzeit
+gegeben habe. Die Poeten/ denen mehr freyheit al&sr; den Ora-
+toren eingeräumet ist/ können auch wol den schnee weiß/ vnnd
+den wein feuchte nennen: wie Aristotele&sr; im dritten buche der
+Rhetoric/ vnnd Quintilianu&sr; im sechsten Capitel de&sr; achten
+buche&sr; saget. Wiewol Virgiliu&sr; nicht ohne vrsache setzet:</p>
+<cit><aq>c&00E6;duntque securibu&sr; humida vina;</aq></cit>
+<p>Denn in dem er spricht/ da&sr; man in den Mitternä@eischen
+Ländern den gefrorenen Wein/ der doch von natur sonst naß
+ist/ mit äxten zuehawen muß/ macht er da&sr; man desto mehr der
+vngewöhnlichen kälte nachdenckt.</p>
+<p>Letzlich haben wir in vnserer sprache diese&sr; auch zue mercken/
+da&sr; wir nicht vier oder fünff <aq>epitheta</aq> zu einem worte setzen/
+wie die Jtaliener thun/ die wol sagen dürffen:</p>
+<poem><aq>Alma, bella, angelica, et fortunata donna;</aq>
+<fr>Du schöne&sr;/ weisse&sr;/ englische&sr;/ glückhaffte&sr;/ ed-
+le&sr; bildt;</fr>
+<cw><fr>Denn</fr></cw>
+<pb>
+Denn solche&sr; bloß zue außfüllung de&sr; verse&sr; dienet.</poem>
+<p>Diese&sr; sey nun von der allgemeinen zuegehör der Poetischen re-
+de: weil aber die dinge von denen wir schreiben vnter schieden
+sind/ al&sr; gehöret sich auch zue einem jeglichen ein eigener vnnd
+von den andern vnterschiedener Character oder merckzeichen
+der worte. Denn wie ein anderer habit einem könige/ ein an-
+derer einer priuatperson gebühret/ vnd ein Kriege&sr;man so/ ein
+Bawer ander&sr;/ ein Kauffmann wieder ander&sr; hergehen soll:
+so muß man auch nicht von allen dingen auff einerley weise re-
+den; sondern zue niedrigen sachen schlechte/ zue hohen ansehli-
+che/ zue mittelmässigen auch mässige vnd weder zue grosse noch
+zue gemeine worte brauchen.</p>
+<p>Jn den niedrigen Poetischen sachen werden schlechte vnnd
+gemeine leute eingeführet; wie in Comedien vnd Hirtengespre-
+chen Darumb tichtet man jhnen auch einfaltige vnnd schlechte
+reden an/ die jhnen gemässe sein: So Tityru&sr; bey dem Poe-
+ten/ wenn er seine&sr; Gotte&sr; erwehnet/ redet er nicht von seinem
+plitze vnd donner/ sondern</p>
+<cit><aq>Ille mea&sr;,</aq> <fr>sagter/</fr> <aq>errare boue&sr;, vt cerni&sr;, &amp; ips&tu;
+Ludere qu&00E6; vellem calamo permisit agresti.</aq></cit>
+<poem><fr>Du siehst/ er leßt mein Vieh herumb gehn oh-
+<et>ne ziehl/</et>
+V&tn; mich auff meiner flöt&2019; auch spielen wa&sr; ich wil</fr></poem>
+<p>Wie Theocritu&sr; sonsten inn dem paß wol jederman vberle-
+gen/ so weiß ich doch nicht wie sein Aite&sr; mir sonderlich beha-
+get: inmassen ich denn auch halte/ da&sr; Heinsiu&sr; gleichfal&sr; gros-
+sen gefallen daran treget/ der diese&sr; Jdyllion Lateinisch vnnd
+Hollendisch gegeben. Weil ich jhm aber im deutschen nachge-
+folget/ vnd den niedrigen Character/ von dem wir jetzo reden/
+nicht besser vorzuestellen weiß/ wil ich meine übersetzung hierne-
+ben fügen.</p>
+<bs>F</bs><cw><aq>Theo-</aq></cw>
+<pb>
+<pt><aq>Theocriti Aite&sr;.</aq></pt>
+<poem><fr>Bist du gekommen dann/ nach dem ich nun gewacht
+Nach dir/ mein liebste&sr; Kind/ den dritten tag vnnd
+<et>Nacht?</et>
+Du bist gekommen/ ja. doch wer nicht kan noch mag.
+Sein lieb sehn wann er wil/ wird alt auff einen tag.
+So viel der Früling wird dem Winter vorgesetzt/
+Vor wilden pflaumen vn&sr; ein Apffel auch ergetzt/
+Da&sr; Schaff mit dicker woll ein Lamb beschämen
+<et>kan/</et>
+Die Jungfraw füsser ist al&sr; die den dritten Man
+Vereit hat fort geschickt; so viel al&sr; besser springt
+Ein rehbock al&sr; ein Kalb/ vnd wann sie lieblich singt
+Die leichte Nachtigall den Vogeln abgewint/
+So ist dein beysein nur da&sr; liebste da&sr; man findt.
+Jch habe mich gesetzt bey diesen Buchbawm hin/
+Gleich wie ein Wander&sr;man thut im fürüber ziehn/
+Jn dem die Sonne sticht. ach/ da&sr; die liebe doch
+Vn&sr; wolte beyderseit&sr; auch fügen an jhr ioch/
+An jhr gewündtschte&sr; Joch/ vnd da&sr; die nach vn&sr;
+<et>sein</et>
+Von vn&sr; mit stettem rhum erzehlten vberein:
+E&sr; ist ein liebe&sr; par gewesen vor der zeit/
+Da&sr; eine freyte selbst/ da&sr; ander ward gefreyt:
+Sie liebten beyde gleich. ward nicht da&sr; volck ergetzt
+Wie liebe wiederumb mit liebe ward ersetzt!
+Ach Jupiter/ vnd jhr/ jhr Götter/ gebt mir zue/</fr>
+<cw><fr>Wann</fr></cw>
+<pb>
+<fr>Wann ich nach langer zeit schon lieg in meiner rhue/
+Da&sr; ich erfahren mag/ da&sr; dem der mich jtzt liebt
+Vnd meiner trewen gunst ein jeder zeugniß giebt;
+Doch mehr da&sr; junge volck. nun diß muß nur er-
+<et>gehn/</et>
+Jhr Götte&rr;/ wie jhr wolt. e&sr; pflegt bey euch zue stehn
+Doch lob&2019; ich dich zwar hoch/ so hoff ich de&tn;och nicht
+Da&sr; jrrgend jemand ist der etwa&sr; ander&sr; spricht.
+Dann ob dein grimm mir schon offt&2019; etwa&sr; vbel&sr;
+<et>thut</et>
+So machst du e&sr; hernach doch doppelt wieder gut
+O volck von Megara/ jhr schiffer weit bekandt/
+Jch wündsche da&sr; jhr wol bewohnt da&sr; reiche landt
+Vnd vfer bey Athen/ weil jhr so höchlich liebt
+Dioclem der sich auch im lichen sehr geübt:
+Weil allzeit vmb sein grab sehr viel liebhaber stehn/
+Die lernen einig nur mit küssen vmb recht gehn/
+Vnd streiten gleich darumb/ vnd wer dann Mundt
+<et>an mundt</et>
+Am aller besten legt/ dem wird der krantz vergunt/
+Den er nach hause dann zue seiner Mutter bringt.
+Ach/ ach/ wie glücklich ist dem e&sr; so wolgelingt
+Da&sr; er mag richter sein. wie offte rufft er wol
+Da&sr; Ganymede&sr; jhm den Mund so machen sol
+Al&sr; einen Stein durch den der goldschmiedt vrtheil
+<et>spricht</et>
+Ob auch gewiß da&sr; Goldt recht gut sey oder nicht.</fr></poem>
+<bs>F ij</bs><cw>Herge-</cw>
+<pb>
+<p>Hergegen in wichtigen sachen/ da von Göttern/ Helden/ Kö-
+nigen/ Fürsten/ Städten vnd dergleichen gehandelt wird/ muß
+man ansehliche/ volle vnd hefftige reden vorbringen/ vnd ein
+ding nicht nur bloß nennen/ sondern mit prächtigen hohen wor-
+ten vmbschreiben. Virgiliu&sr; sagt nicht: <aq>die</aq> oder <aq>luce sequen-
+ti;</aq> sondern:</p>
+<cit><aq>vbi primo&sr; crastinu&sr; ortu&sr;
+Extulerit Titan, radiisq&0301;ue retexerit orbem.</aq></cit>
+<poem><fr>Wann Titan morgen wird sein helle&sr; liecht auff-
+stecken/
+V&tn; durch der stralen glantz die grosse welt entdeck&te;.</fr></poem>
+<p>Die mittele oder gleiche art zue reden ist/ welche zwar mit ih-
+rer ziehr vber die niedrige steiget/ vnd dennoch zue der hohen an
+pracht vnd grossen worten noch nicht gelanget Jn dieser gestalt
+hat Catullu&sr; seine Argonautica geschrieben; welche wegen jh-
+rer vnvergleichlichen schönheit allen der Poesie liebhabern be-
+kandt sein/ oder ja sein sollen. Bißhiehcr auch diese&sr;: nun ist
+noch vbrig da&sr; wir von den reimen vnd vnterschiedenen art der
+getichte reden.</p>
+<d1>Da&sr; <aq>VII.</aq> Capitel.
+Von den reimen/ jhren wörtern vnd
+arten der getichte.</d1>
+<p><in>E</in>Jn reim ist eine vber einstimmung de&sr; laute&sr;
+der syllaben vnd wörter zue ende zweyer oder mehrer ver-
+se/ welche wir nach der art die wir vn&sr; fürgeschrieben ha-
+ben zuesammen setzen. Damit aber die syllben vnd worte in die
+reimen recht gebracht werden/ sind nachfolgende lehren in acht
+zue nemen:</p>
+<p>Erstlich/ weil offte ein Buchstabe eine&sr; doppelten laute&sr; ist/
+soll man sehen/ da&sr; er in schliessung der reimen nicht vermenget
+<cw>werd.</cw>
+<pb>
+werde. Zum exempel: Da&sr; ein dem worte <fr>ehren</fr> wird wie ein
+griechisch #/ in dem worte <fr>nehren</fr> wie ein # außgesprochen:
+kan ich also mit diesen zweyen keinen reim schliessen. Jtem/
+wenn ich de&sr; Herren von Pybrac <aq>Epigramma</aq> wolte geben:</p>
+<cit><aq>Adore assi&sr;, commele Grec ordonne,
+Dieu en courant ne veut estre honoré,
+D&2019;vn ferme coeur il veut estre adoré,
+Mai&sr;ce coeur là il faut qu&2019;il nou&sr; le donne.</aq></cit>
+<poem><fr>Zum beten setze dich/ wie jener Grieche lehret/
+Denn GOtt wil auff der flucht nicht angeruf-
+fen sein:
+Er heischet vnd begehrt ein starcke&sr; hertz allein;
+Da&sr; hat man aber nicht/ wann er e&sr; nicht be-
+scheret.</fr></poem>
+<p>Hier/ weil da&sr; e im <fr>lehret</fr> wie #/ da&sr; im <fr>bescheret wie #
+gelesen wird/ kan ich vor bescheret</fr> da&sr; wort <fr>verehret</fr> setzen.
+So schicken sich auch nicht zusammen <fr>entgegen</fr> vnd <fr>pflegen;
+verkehren</fr> vnd <fr>hören</fr>: weil da&sr; # von vnn&sr; al&sr; ein #/ vnnd
+mitlere sylbe im <fr>verkehren</fr> wie mit einem # gelesen wirdt. So
+kan ich auch ist vnd <fr>bist</fr> wegen de&sr; vngleichen laute&sr; gegen ei-
+nander nicht stellen.</p>
+<p>Da&sr; e/ wann e&sr; vor einem andern selblautenden Buchsta-
+ben zue ende de&sr; worte&sr; vorher gehet/ e&sr; sey in wasserley versen
+e&sr; wolte/ wird nicht geschrieben vnd außgesprochen/ sondern an
+seine statt ein solche&sr; zeichen darfür gesetzt. Zum exempel wil ich
+nachfolgende&sr; Sonnet setzen/ weil diese außenlaßung zue sech&sr;
+malen darinnen wiederholet wird:</p>
+<pv><fr>Jch muß bekennen nur/ &007C;woltausendt wündtschen
+<et>mir/</et></fr></pv>
+<bs>F iij</bs><cw>Vnd</cw>
+<pb>
+<pv><fr>Vnd tausendt noch darzue/ ich möchte die doch
+meiden
+Die mein, ergetzung ist/ mein trost/ mein weh
+vnd leiden
+Doch macht mein starcke&sr; hertz/ vnd jhre gros-
+se ziehr/</fr></pv>
+<pv><fr>An welcher ich sie selbst dir/ Vonu&sr; setze für/
+Da&sr; ich/ so lang ein Hirsch wird lieben püsch&2019;v&tn;
+<et>Heiden/</et>
+So lange sich dein Sohn mit threnen wird be-
+<et>weiden/</et>
+Wil ohne wancken stehn/ vnd halten vber jhr.</fr></pv>
+<pv><fr>Kein menschlich weib hat nicht solch gehn/ solch
+stehn/ solch lachen/
+Solch reden/ solche tracht/ solch schlaffen vnnd
+solch wachen:
+Kein Waldt/ kein Heller fluß/ kein hoher Berg/
+kein Grundt</fr></pv>
+<pv><fr>Beherbrigt eine Nymf an welcher solche gaben/
+Zue schawen mögen sein; die so schön haar kan
+haben/
+Solch augen al&sr; ein stern/ so einen roten mund.</fr></pv>
+<p>Hiervon werden außgeschlossen/ wie auch Ernst Schwabe
+in seinem Büchlein erinnert/ die eigenen namen/ al&sr;: <fr>Hele-
+ne/ Euphrosine;</fr> darnach alle einsylbige wörter/ al&sr;:
+<fr>Schnee/ See/ wie/ die/ &rr;c.</fr></p>
+<p>Zue ende der reimen/ wann ein Vocali&sr; den folgenden
+<cw>verß</cw>
+<pb>
+verß anhebet/ kan man da&sr; e sehen lassen oder weg thun. Ste-
+hen bleibt e&sr;.</p>
+<poem><fr>wie rufft er vor dem ende
+Vn&sr; seinen Kindern zue.</fr></poem>
+<p>Weg gethan aber wird e&sr;:</p>
+<poem><fr>Jhr hölen voller moß/ jhr auffgeritzten stein
+Jhr felber/ &rr;c.</fr></poem>
+<p>Wann auff da&sr; e ein Consonan&sr; oder mitlautender Buch-
+stabe folget/ soll e&sr; nicht aussen gelassen werden: ob schon nie-
+mandt bißher nicht gewesen ist/ der in diesem nicht verstossen.
+Jch kan nicht recht sagen:</p>
+<poem><fr>Die wäll der starcken Stadt vnnd auch jhr tieffe
+Graben;</fr></poem>
+<p>Weil e&sr; <fr>die Wälle</fr> vnd <fr>jhre Graben</fr> sein soll. Auch nicht
+wie Melißu&sr;:</p>
+<poem><fr>Rot rößlein wolt ich brechen/</fr></poem>
+<p>für/ <fr>Rote rößlein.</fr></p>
+<p>Gleichfal&sr; nicht:</p>
+<poem><fr>Nemt an mein schlechte reime/</fr></poem>
+<p>für: <fr>Meine.</fr></p>
+<p>E&sr; soll auch da&sr; e zueweilen nicht auß der mitten der wörter
+gezogen werden; weil durch die zuesammenziehung der sylben
+die verse wiederwertig vnd vnangeneme zue lesen sein. Al&sr;/
+wann ich schriebe:</p>
+<poem><fr>Mein Lieb/ wann du mich drücktst an deinen liebl-
+<et>chen Mundt/</et>
+So thet&sr; meinm hertzen wol vnd würde frisch vnd
+<et>gsundt.</et></fr></poem>
+<p>Welchem die reime nicht besser al&sr; so von statten gehen/
+<cw>mag/</cw>
+<pb>
+mag e&sr; künlich bleiben lassen: Denn er nur die vnschnldigen
+wörter/ den Leser vnd sich selbst darzue martert vnnd quelet.
+Wiewol e&sr; nicht so gemeinet ist/ da&sr; man da&sr; e niemal&sr; aussen-
+lassen möge: Weil e&sr; in Cancelleyen (welche die rechten leh-
+rerinn der reinen sprache sind) vnd sonsten vblich/ auch im auß-
+reden nicht verhinderlich ist. Vnnd kan ich wol sagen/ <fr>vom</fr>
+für <fr>von dem/ zum</fr> für <fr>zue dem/</fr> vnd dergleichen. So ist e&sr;
+auch mit den <aq>verbi&sr;.</aq> Al&sr;.</p>
+<poem><fr>Die Erde trinckt für sich/ die Bäwme trincken
+erden/
+Vom Meere pflegt die lufft auch zue getruncken
+werden/
+Die Sonne trinckt da&sr; Meer/ der Monde trinckt
+die Sonnen;
+Wolt dann/ jhr freunde/ mir da&sr; trincken nicht
+vergonnen?</fr></poem>
+<p>Hier/ ob gleich die wörter <fr>trincket/ pfleget/ wollet/</fr>
+inn eine sylbe gezogen sind/ geschiehet jhnen doch keine ge-
+walt. Hiesige verß aber sindt in Griechischen bey dem Ana-
+creon:</p>
+<cit>#</cit>
+<p>Welche oden ich sonst auch in ein <aq>distichion</aq> gebracht; weil
+ich zue den lateinischen Ancareonten weder lust nochglück habe.</p>
+<cw><aq>Terra</aq></cw>
+<pb>
+<cit><aq>Terra bibit, terram plant&00E6;, aura&sr; &00E6;quor, amici,
+&00C6;quor Sol, Solem Luna; nec ipse bibam?</aq></cit>
+<p>Stehet da&sr; h zue anfange eine&sr; worte&sr;/ so kan da&sr; e wol ge-
+duldet werden; al&sr;:</p>
+<poem><fr>Vnd wa&sr; hilfft e&sr; da&sr; mein spiel
+Alle die e&sr; hören loben/
+Du hergegen/ o mein licht?
+Die ich lobe/ hörste&sr; nicht.</fr></poem>
+<p>Oder auch aussen bieiben; al&sr;:</p>
+<poem><fr>Wa&sr; kan die künstlich hand?</fr></poem>
+<p>Ferner soll auch da&sr; e denen wörtern zue welchen e&sr; nicht ge-
+höret vnangehencket bleiben; al&sr; in <aq>casu nominatiuo:</aq></p>
+<poem><fr>Der Venu&sr; Sohne.</fr> Jtem/ wie Melißu&sr; sagt:
+<fr>Ein wolerfahrner helde.</fr></poem>
+<p>Vnd:</p>
+<poem><fr>Dir scheint der Morgensterne;</fr>
+Weil e&sr; <fr>Sohn/ Held/ Stern heisset.</fr></poem>
+<p>Vber diß/ die letzte sylbe in den männlichen/ vnd letzten zwe
+inn den weiblichen reimen (wie wir sie bald abtheilen werden)
+sollen nicht an allen Buchstaben gleiche sein; al&sr;/ in einem weib-
+lichen reime:</p>
+<poem><fr>Wir sollen frembdlingen garbillich ehr&2019; erzeigen/
+Vnd so viel möglich ist/ ein willig hertze zeigen.</fr></poem>
+<p><in>E</in>&sr; ist falsch; weil die letzten zwo sylben gantz eine&sr; sindt:
+kan aber so recht gemacht werden:</p>
+<poem><fr>Wir sollen frembdlingen gar billich ehr&2019; erzeigen/
+Vnd/ wann e&sr; müglich ist/ die Sonn auch selbst
+zueneigen.</fr></poem>
+<p>Wiewol e&sr; die Frantzosen so genaw nicht nemen. Dann in
+<bs>G</bs><cw>nach-</cw>
+<pb>
+nachfolgender Echo/ welche vom tantze redet/ alle verß gleiche
+fallen:</p>
+<cit><poem><aq>Qui requiert fort &amp; mesure &amp; cadance? Dance.
+Qui faict souuent aux nopce&sr; residence? Dance.
+Qui faict encor fille&sr; en abondance? Dance.
+Qui faict sauter fol&sr; paroutrecuidance? Dance.
+Qui est le grand ennemy de prudence? Dance.
+Qui met aux fron&sr; corne&sr; pour euidence? Dance.
+Qui faict le&sr; bien&sr; tomber en decadence? Dance.</aq></cit></poem>
+<p>Gleichfal&sr; begehet man einen fehler/ wann in dem <aq>rythmo
+f&0153; minino</aq> die letzte sylbe de&sr; einen verse&sr; ein t/ de&sr; andern ein
+d hat, weil t harte vnd d gelinde außgesprochen wird. Al&sr; im 23
+Psalme:</p>
+<poem><fr>Auff einer grüneu Awen er mich weidet/
+Zum schönen frischen wasser er mich leitet.</fr></poem>
+<p>So auch/ wann da&sr; eine u einselblautender/ da&sr; andere ein
+doppeltlaudender Buchstabe ist/ vnd fast wie ein i außgespro-
+chen wird Al&sr; im 42. Psalme:</p>
+<poem><fr>Bey jhm wird heil gefunden/
+Jsraci er von sünden.</fr></poem>
+<p>Dann in dem worte <fr>fünden</fr> ist da&sr; u ein <aq>diphthongu&sr;.</aq></p>
+<p>Vnd letzlich wird der reim auch falsch/ wann in dem einen
+verse da&sr; letzte wort einen doppelten <aq>consonanrem;</aq> vnnd da&sr;
+in dem andern einen einfachen hat; al&sr;: wann der eine verß sich
+auff da&sr; wort <fr>harren;</fr> da&sr; andere auff da&sr; wort <fr>verwahren/</fr>
+oder der eine auff <fr>rasen/</fr> der andereauff <fr>gleicher massen</fr>
+endete Denn e&sr; eine andere gelegenheit mit der Frantzösischen
+sprache hatt/ da zwar zweene <aq>consonante&sr;</aq> geschrieben/ aber
+gemeiniglich nur einer außgesprochen wird.</p>
+<cw>Da&sr;</cw>
+<pb>
+<p>Da&sr; wir nun weiter fortfahren/ so ist erstlich ein jeglicher
+verß/ wie sie die Frantzosen auch abtheilen/ (denn der Jtalie-
+ner zarte reimen alleine auf die weibliche endung außgehen) ent-
+weder ein <aq>f&0153;mininu&sr;,</aq> welcher zue ende abschiessig ist/ vnd den
+accent in der letzten sylben ohne eine hat/ Al&sr;:</p>
+<poem><fr>Er hat rund vmb sich her da&sr; wasser außgespreitet/
+Den köstlichen pallast de&sr; Himmel&sr; zue bereitet;</fr></poem>
+<p>Oder <aq>masculinu&sr;,</aq> da&sr; ist/ männlicher verß/ da der then
+auff der letzten sylben in die höhe steiget; al&sr;:</p>
+<poem><fr>Den donner/ reiff vnd schnee/ der wolcken blaw-
+<et>e&sr; zelt/</et>
+Ost/ Norden/ Sud vnd West in seinen dienst
+<et>bestelt.</et></fr></poem>
+<p>Nachmal&sr; ist auch ein jeder verß entweder ein <aq>iambicu&sr;</aq> o-
+der <aq>trochaicu&sr;;</aq> nicht zwar da&sr; wir auff art der griechen vnnd
+lateiner eine gewisse grösse der sylben können inn acht nemen;
+sondern da&sr; wir au&sr; den <aq>accenten</aq> vnnd dem thone erkennen/
+welche sylbe hoch vnnd welche niedrig gesetzt soll werden. Ein
+Jambu&sr; ist dieser:</p>
+<poem><fr>Erhalt vn&sr; Herr bey deinem wort.</fr></poem>
+<p>Der folgende ein Troeheu&sr;:</p>
+<poem><fr>Mitten wir im leben sind.</fr></poem>
+<p>Dann in dem ersten verse die erste sylbe niedrig/ die andere
+hoch/ die dritte niedrig/ die vierde hoch/ vnd so fortan/ in dem
+anderen verse die erste sylbe hoch/ die andere ntedrig/ die dritte
+hoch/ &rr;c. außgesprochen werden. Wiewol nun meine&sr; wissen&sr;
+noch niemand/ ich auch vor derzeit selber nicht/ diese&sr; genawe
+in acht genommen/ scheinet e&sr; doch so hoch von nöthen zue sein/
+al&sr; hoch von nöthen ist/ da&sr; die Lateiner noch den <aq>quantirati-
+bu&sr;</aq> oder grössen der sylben jhre verse richten v&tn; reguliren. De&tn;
+e&sr; gar einen übelen klang hat:</p>
+<bs>G ij</bs><cw>Venu&sr;</cw>
+<pb>
+<p><fr>Venu&sr; die hat Juno nicht vermocht zue obsie-
+gen;</fr> weil <fr>Venu&sr;</fr> vnd <fr>Juno</fr> Jambische/ <fr>vermocht</fr> ein
+Trochéisch wort sein sell: <fr>obsiegen</fr> aber/ weil die erste sylbe
+hoch/ die andern zwo niedrig sein/ hat eben den thon welchen
+bey den lateinern der <aq>dactylu&sr;</aq> hat/ der sich zueweilen (denn er
+gleichwol auch kan geduldet werden/ wenn er mit vnterscheide
+gesatzt wird) in vnsere sprache/ wann man dem gesetze der reimen
+keine gewalt thun wil/ so wenig zwingen leßt/ al&sr; <aq>castita&sr;, pul-
+chtitudo</aq> vnd dergleiehen in die lateinischen vnd <aq>hexametro&sr;</aq>
+vnnd <aq>pentametro&sr;</aq> zue bringen sind. Wiewol die Frantzosen
+vnd andere/ in den eigentlichen namen sonderlich/ die accente so
+genawe nicht in acht nemen wie ich dann auch auff art de&sr; Ron-
+sardt&sr; in einer Ode geschrieben:</p>
+<poem><fr>Bin ich mehr al&sr; Anacreon/
+Al&sr; Stesich<aq>ó</aq>r vnd Simon<aq>í</aq>de&sr;/
+Al&sr; Antim<aq>á</aq>chu&sr; vnd Bion/
+Al&sr; Ph<aq>í</aq>let oder Bacchyl<aq>í</aq>de&sr;?</fr></poem>
+<p>Doch/ wie ich diese&sr; nur lust halben gethan/ so bin ich der ge-
+dancken/ man solle den lateinischen accenten so viel möglich
+nachkommen.</p>
+<p>Vnter den Jambischen versen sind die zue föderste zue se-
+tzen/ welche man Alexandrinische/ von jhrem ersten erfinder/ der
+ein Jtaliener soll gewesen sein/ zue nennen pfleget/ vnd werden
+an statt der Griechen vnd Römer heroischen verse gebraucht:
+Ob gleich Ronsardt die <aq>Ver&sr; commun&sr;</aq> der gemeinen verse/
+von denen wir strack&sr; sagen werden/ hierzue tüchtiger zue sein
+vermeinet; weil die Alexandrinischen wegen jhrer weitleufftig-
+keit der vngebundenen vnnd freyen rede zue sehr ähnlich sindt/
+wann sie nicht jhren mann finden/ der sie mit lebendigen farben
+herauß zue streichen weiß. Weil aber diese&sr; einem Poeten zue-
+stehet/ v&tn; die vber welcher vermögen e&sr; ist nicht gezwungen sind
+<cw>sich</cw>
+<pb>
+sich darmit zue ärgern/ vnsere sprache auch ohne diß in solche
+enge der wörter wie die Frantzösische nicht kan gebracht wer-
+den/ mussen vnd können wir sie an statt der heroischen verse gar
+wol behalten: inmassen dann auch die Niederländer zue thun
+pflegen.</p>
+<p>Der weibliche verß hat dreyzehen/ der männliche zwölff syl-
+ben; wie der <aq>ia mbu&sr; trimcter.</aq> E&sr; muß aber allezeit die sechste
+sylbe eine <aq>c&00E6;sur</aq> oder abschritt haben/ vnd <aq>masculin&00E6; rermi-
+nationi&sr;,</aq> da&sr; ist/ entweder ein einsylbig wort sein/ oder den <aq>ac-
+cent</aq> in der letzten sylben haben; wie auch ein vornemer Mann/
+der de&sr; Herren von Barta&sr; Wochen in vnsere sprache vbersetzt
+hat/ erinnert Zum exempel sey dieje&sr;:</p>
+<poem><fr>Dich hette Jupiter/ nicht Pari&sr;/ jhm erkohren/
+Vnd würd auch jetzt ein Schwan wann dich kein
+schwan gebohren/
+Du heissest Helena/ vnd bist auch so geziehrt/
+Vnd werest du nicht keusch/ du würdest auch
+entführt.</fr></poem>
+<p>Hier sind die ersten zweene verß weibliche/ die andern zweene
+männliche: Denn mann dem weiblichen in diesem <aq>genere car-
+mini&sr;</aq> gemeiniglich die oberstelle leßt; wiewol auch etliche von
+den männlichen anfangen.</p>
+<p>Bey dieser gelegenheit ist zue erinnern/ da&sr; die <aq>c&00E6;sur</aq> der
+sechsten syllben/ sich weder mit dem ende jhre&sr; eigenen verse&sr;/
+noch de&sr; vorgehenden oder nachfolgenden reimen soll; oder kürtz-
+lich; e&sr; sol kein reim gemacht we&rr;d&te;/ al&sr; da wo er hin gehöret: al&sr;:</p>
+<poem><fr>Ein guet gewissen fragt nach bösen mäulern nicht/
+Weil seiner tugend liecht so klar hereiner bricht
+Al&sr; wie Aurora selbst/ &rr;c.</fr></poem>
+<p>Dann solche&sr; stehet eben so vbel al&sr; die reimen der lateini-
+<bs>G iij</bs><cw>schen</cw>
+<pb>
+schen verse; deren exempel zwar bey den gutten Autoren wenig
+zue finden/ der Mönche bücher aber vor etzlich hundert Jahren
+alle voll sindt gewesen.</p>
+<p>So ist e&sr; auch nicht von nöthen/ da&sr; der <aq>periodu&sr;</aq> oder sen-
+tentz allzeit mit dem verse oder der <aq>strophe</aq> sich ende: ja e&sr; stehet
+zierlich/ wa&tn; er zum wenigsten biß zue de&sr; anderu/ dritten/ vierd-
+ten verse&sr;/ auch de&sr; ersten in der folgenden strophe <aq>c&00E6;súr</aq> behal-
+ten wird. Zumexempel:</p>
+<poem><fr>1. ncin nein/ wie bleich ich bin/
+Nicht vom studiren nur/ so bleibt doch wie vorhin
+Mein vorsatz vnbcwegt; 2. ich wil mein glücke tragen
+So lang&2019; ich kan vnd mag; wil setzen auff den wag&te;
+Der grawen ewigkeit durch meiner Leyer kunst
+Die braune Flauia: 3. an stat der Musen gunst
+Jst jhrer augen glut: 4. da&sr; sternenliechte fewer
+Kömpt/ wie der schöne Nort den Schieffen/ mir zue
+<et>stewer.</et></fr></poem>
+<p>Jtem:</p>
+<poem><fr>1. Ja wir gedencken vn&sr; wie meister fast zue werden
+De&sr; grossen Jupiter&sr;/ vnd donnern auff der erden
+Durch de&sr; Geschütze&sr; plitz; 2. die Berge zittern
+<et>auch/</et>
+Die wolcken werden schwartz von vnser&sr; Pul-
+<et>ver&sr; rauch/</et>
+Vnd lauffen schneller fort. 3. verhaw&2019; vn&sr; zue dem
+<et>strande</et>
+De&sr; meere&sr; weg vnd steg/ wir segeln auch zue lande/
+Vnd schiffen ohne see. 4. veriag vn&sr; au&sr; der welt/</fr>
+<cw>Wir</cw>
+<pb>
+<fr>Wir haben eine new/ in welcher Gold vnd Gelde
+Nicht minder häuffig ist. 5. wilt du vnn&sr; gifft bey-
+<et>bringen/</et>
+Die Porcellane wird vn&sr; in der hand zuespringen/
+Vnd sagen wa&sr; du thust. 6. wie schlecht die Bü-
+<et>gel sein/</et>
+So setzen wir vn&sr; doch mit jhnen fester ein/
+Vnd lassen vnn&sr; so bald nicht auß dem sattel heben.
+7. E&sr; pflegt die Sonnenvhr vn&sr; vnterricht zue geb&te;
+Vmb welche zeit e&sr; sey. 8. Der köstliche Magnet
+Zeigt wo da&sr; schwache Schiff auch bey der nacht
+<et>hingeht/</et>
+Vmbringt mit wind vnnd flut. 9. wir kennen hier
+<et>von fernen</et>
+Durch eine&sr; glase&sr; liecht den Monden vnnd die
+<et>Sternen/</et>
+Al&sr; stünden wir darbey/ vnd sind zur kriege&sr; zeit
+Vor einem einfall auch viel mehr al&sr; sonst befreit.</fr></poem>
+<p>Die reimen deren werbliche verß eilff sylben/ vnd die männ-
+lichen zehen haben/ ne&tn;en die Frantzosen <aq>ver&sr; commun&sr;</aq> oder
+gemeine verle/ weil sie bey jhnen sehr im brauche sind. Wie a-
+ber die Alexandrinischen verse auff der sechsten sylben/ so haben
+diese auff der vierdten jhren abschrit Al&sr;:</p>
+<poem><fr>Jm fall du wilt Wa&sr; Göttlich ist erlangen.
+Solaß den leib in dem du bist gefangen/
+Auff/ auff/ mein Geist/ vnd du mein gantzer sinn/
+Wirff alle&sr; da&sr; wa&sr; welt ist von dir hin</fr></poem>
+<p>Weil die Sonnet vnnd <aq>Quatrain&sr;</aq> oder vierversichten <aq>cpi-</aq>
+<cw><aq>gram-</aq></cw>
+<pb>
+<aq>grammata</aq> fast allezeit mit Alexandrinischen oder gemeinen
+versen geschrieben werden/ (denn sich die andern fast darzue
+nicht schicken) al&sr; wil ich derselben gleich hier erwehnen.</p>
+<p>Wann her da&sr; Sonnet bey den Frantzosen seinen namen
+habe/ wie e&sr; denn auch die Jtaliener so nennen/ weiß ich ander&sr;
+nicht&sr; zue sagen/ al&sr; dieweil <aq>Sonner</aq> klingen oder wiederschal-
+len/ vnd <aq>sonnette</aq> eine klingel oder schelle heist/ diß getichte viel-
+leicht von wegen seiner hin vnd wieder geschrenckten reime/ die
+fast einen andern laut al&sr; die gemeinen von sich geben/ also sey
+getauffet worden. Vnd bestetigen mich in dieser meinung etz-
+liche Holländer/ die dergleichen <aq>carmina</aq> auff jhre sprache kline-
+getichte heissen: welche&sr; wort auch bey vnn&sr; kan auffgebracht
+werden; wiewol e&sr; mir nicht gefallen wil.</p>
+<p>Ein jeglich Sonnet aber hat viertzehen verse/ vnd gehen der
+erste/ vierdte/ fünffte vnd achte auff eine endung de&sr; reimen&sr;
+auß; der andere/ dritte/ sechste vnd siebende auch auff eine. E&sr;
+gilt aber gleiche/ ob die ersten viergenandten weibliche termi-
+nation haben/ vnd die andern viere männliche: oder hergegen.
+Die letzten sech&sr; verse aber mögen sich zwar schrencken wie sie
+wollen; doch ist am bräuchlichsten/ da&sr; der neunde vnd zehende
+einen reim machen/ der eilffte vnd viertzehende auch einen/ vnd
+der zwölffte vnd dreyzehende wieder einen. Zum exempel mag
+diese&sr; sein/ welche&sr; ich heute im spatzieren gehen/ durch gegebe-
+nen anlaß/ ertichtet.</p>
+<pt><c><fr>Sonnet.</fr></c></pt>
+<pv><fr>Du schöne Tyndari&sr;/ wer findet deine&sr; gleichen/
+Vnd wolt er hin vnd her da&sr; gantze landt durch-
+ziehn?
+Dein augen trutzen wol den edelsten Rubin/
+Vnd für den Lippen muß ein Türckiß auch ver-
+bleichen/</fr></pv>
+<cw>Die</cw>
+<pb>
+<pv><fr>Die zeene kan kein goldt an hoher farb erreichen/
+Der Mund ist himmelront/ der halß sticht Att-
+<et>stein hin.</et>
+Wo ich mein vrtheil nur zue fellen würdig bin/
+Alecto wird dir selbst de&sr; haare&sr; halber weichen/</fr></pv>
+<pv><fr>Der Venu&sr; ehemann geht so gerade nicht/
+Vnd auch der Venu&sr; sohn hat kein solch scharff
+<et>gesicht;</et>
+Ju summa du bezwingst die Götter vnnd Göt-
+<et>tinnen.</et></fr></pv>
+<pv><fr>Weil man dan denen auch die vn&sr; gleich nicht sindt
+<et>wol/</et>
+Geht e&sr; schon sawer ein/ doch gutte&sr; gönnen soll/
+So wündtsch ich da&sr; mein feind dich möge lieb
+gewinnen.</fr></pv>
+<p>Oder/ im fall diese&sr; jemanden angenemer sein möchte, Wel-
+che&sr; zum theil von dem Ronsardt entlehnet ist:</p>
+<poem><fr>Jhr/ Himmel/ lufft vnnd wind/ jhr hügel voll
+von schatten/
+Jhr hainen/ jhr gepüsch/ vnd du/ du edler Wein/
+Jhr frischen brunnen/ jhr/ so reich am wasser sein/
+Jhr wüsten die jhr stet&sr; mußt an der So&tn;en brat&te;/
+Jhr durch den weissen taw bereifften schönen
+<et>saaten/</et>
+Jhr hölen voller moß/ jhr auffgeritzten stein/
+Jhr felder welche ziehrt der zarten blumen schein/
+Jhr felsen wo die reim am besten mir gerhaten/</fr>
+<bs>H</bs><cw>Weil</cw>
+<pb>
+<fr>Weil ich ja Flavien/ da&sr; ich noch nie thun kö&tn;&te;/
+Muß geben guete nacht/ vnd gleichwol mundt vnnd
+<et>sinnen</et>
+Sich fürchten allezeit/ vnd weichen hintersich/
+So bitt&2019; ich Himmel/ Lufft/ Wind/ Hügel/ hai-
+<et>nen/ Wälder/</et>
+Wein/ brunnen/ wüsteney/ saat/ hölen/ steine/ felder/
+Vnd felsen sagt e&sr; jhr/ sagt/ sagt e&sr; jhr vor mich.</fr></poem>
+<p>Jtem diß/ von gemeinen versen.</p>
+<poem><fr>Au weh! ich bin in tausendt tausendt schmertzen/
+Vnd tausendt noch! die seufftzer sind vmbsonst
+Herauff geholt/ kein anschlag/ list noch kunst
+Verfängt bey jhr wie wann im kühlen Mertzen
+Der Schuee zuegeht durch krafft der Himmel&sr;
+<et>kertzen/</et>
+Vnd netzt da&sr; feldt; so feuchtet meine brunst
+Der zehren bach/ die noch die minste gunst
+Nicht außgebracht: mein augen sind dem hertzen
+Ein schädlich gifft: da&sr; dencken an mein liechc
+Macht da&sr; ich irr&2019; vnd weiß mich selber nicht/
+Macht da&sr; ich bin gleich einem blossen scheine/
+Da&sr; kein gelenck vnd gliedtmaß weder krafft
+Noch stercke hat/ die adern keinen safft
+Noch blut nicht mehr/ kein marck nicht die gebeine.</fr></poem>
+<p>Vnd letzlich eine&sr;/ in welchem die letzten sech&sr; verse einer
+vmb den andern geschrencket ist:</p>
+<poem><fr>Jch machte diese verß in meiner Pierinnen</fr>
+<cw>Begrün-</cw>
+<pb>
+<fr>Begrünten wüsteney/ wie Deutschland embsig war
+Sein mörder selbst zuesein/ da herdt vnd auch altar
+Jn asche ward gelegt durch trawrige&sr; beginnen
+Der blutigen begiehr/ da gantzer völcker sinnen
+Vnd tichten ward verkehrt/ da aller laster schar/
+Mord/ vnzucht/ schwelgerey vnd triegen gantz vnd
+<et>gar</et>
+Den platz/ der alten ehr vnd tugendt hiclten innen.
+Damit die böse zeitnun würde hingebracht/
+Hab&2019; ich sie wollen hier an leichte reine wenden.
+Mar&sr; thut&2019;&sr; der liebe nach da&sr; er der threnen lacht:
+Mein krieg ist loben&sr; werth/ vnd seiner ist zue
+<et>schenden:</et>
+De&tn; meiner wi&rr;d gestilt du&rr;ch zweyer leute schlacht/
+Den andern können auch viel tausendt noch nicht
+<et>enden.</et></fr></poem>
+<p><aq>Quatrain&sr;</aq> oder <aq>quatrini,</aq> wie auß dem namen zue sehen/
+sind wierverßichte getichte oder <aq>epigrammata;</aq> derer hat der
+Herr von Pybrac hundert vnd sech&sr; vnd zwantzig im Frantzö-
+sischen geschrieben; von welchen ich nur diese&sr; setzen wil:</p>
+<cit><poem><aq>En bonne part ce qu&2019; on dit tu doi&sr; prendre,
+Et l&2019; im parfaict du prochain supporter
+C&2019;ouurir sa faute, etne la rapporter:
+Prompt à louër, et tardif à reprendre.</aq></poem></cit>
+<p><fr>Wa&sr; man dir sagt solt du zum besten wenden/
+Vnd wie du kanst de&sr; nechsten seine schuldt
+Beseite thun/ vnd tragen mit gedult:
+Zum loben schnell&2019;/ vnd langsam sein zum schenden.</fr></p>
+<bs>H ij</bs><cw>Hier</cw>
+<pb>
+<p>Hier reimen sich der erste vnd letzte verß so weiblich sind zue-
+sammen/ vnd die mitleren zwey männlichen &007C;deßgleichen zue-
+sammen. Wiewol man auch einen vmb den andern schrencken
+mag/ oder lauter männliche oder weiblich setzen:</p>
+<p>Al&sr;:</p>
+<pt><c><fr>An meine Venu&sr;.</fr></c></pt>
+<poem><fr>Du sagst/ e&sr; sey der Spiegel voller list/
+Vnd zeige dich dir schöner al&sr; du bist:
+Komm/ wilt du sehn da&sr; er nicht lügen kan/
+Vnd schawe dich mit meinen augen an.</fr></poem>
+<p>Welch <aq>e pigram ma</aq> im lateinischen bey dem <aq>Grudio,</aq> son-
+sten einem bösen Poeten/ wiewol er eine&sr; gueten Poeten&sr; bru-
+der ist/ gefunden wird.</p>
+<p>Die andern verse mag ein jeder mit sieben/ acht/ fünff/ sech&sr;/
+auch vier vnd drey sylben/ vnd entweder die männlichen oder
+die weiblichen lenger machen nach seinem gefallen.</p>
+<p>Die reimen der ersten strophe sind auch zue schrencken auff
+vielerley art/ die folgenden strophen aber mussen wegen der
+Music/ die sich zue diesen <aq>generibu&sr; carminum</aq> am besten schi-
+cken/ auff die erste sehen. Ein exempel einer Trocheisehen Ode
+oder Liede&sr; ist in dem fünfften Capitel zue finden. Wir ich der-
+halben einen Jambischen gesang hieher sehreiben.</p>
+<pt><c><fr>Ode.</fr></c></pt>
+<poem><fr>Derselbe welcher diese nacht
+Erst hat sein leben hingebracht/
+Jst eben auch wie die gestorben
+Die lengst zueuor verbliechen sein/
+Vnd derer leichnam vnd gebein
+Vor vielen Jharen sind vertorben.
+Der Mensch stirbt zeitlich oder spat/</fr></poem>
+<cw>So</cw>
+<pb>
+<poem><fr>So baldt er nur gesegnet hat
+So wird er in den Sandt versencket/
+Vnd legt sich zue der langen rhue.
+Wenn Ohr vnd Auge schon ist zue/
+Wer ist der an die Welt gedencket?
+Die Seele doch allein vnd bloß/
+Fleugt wann sie wird de&sr; Cörper&sr; loß/
+Zum Himmel/ da sie her gerhüret.
+Wa&sr; diesen schnöden leib betrifft/
+Wird nicht&sr; an jhm al&sr; stanck vnd gifft/
+Wie schön er vormal&sr; war/ gespüret.
+E&sr; ist in jhm kein geist mehr nicht/
+Da&sr; fleisch felt weg/ die haut verbricht/
+Ein jeglich haar da&sr; muß verstieben;
+Vnd/ wa&sr; ich achte mehr zue sein/
+Die jenige kömpt keinem ein/
+Die er für allem pflag zue lieben.
+Der todt begehrt nicht&sr; vmb vnd an:
+Drumb/ weil ich jetzt noch wündtschen kan/
+So wil ich mir nur einig wehlen
+Gesunden leib vnd rechten sinn:
+Hernachmal&sr;/ wann ich kalt schon bin/
+Da wil ich Gott den rest befehlen.
+Homeru&sr;/ Sappho/ Pindaru&sr;/
+Anacreon/ Hesiodu&sr;/
+Vnd andere sind ohne sorgen/</fr>
+<bs>H iij</bs><cw>Man</cw>
+<pb>
+<fr>Man red&2019; jetzt auff sie wa&sr; man wil:
+So/ sagt man nun gleich von mir viel/
+Wer weiß geschieht e&sr; vber morgen.
+Wo dient da&sr; wündtschen aber zue/
+Al&sr; da&sr; ein Mensch ohn alle rhue
+Sich tag vnd nacht nur selbst verzehret?
+Wer wündtschet kränckt sich jeder zeit/
+Wer todt ist/ ist ohn alle&sr; leidt.
+O wol dem/ der nicht&sr; mehr begehret.</fr></poem>
+<p>Zue zeiten werden aber beyde&sr; Jambische vnd Trocheische ver-
+se durch einander gemenget. Auch kan man Alexandrinische o-
+der gemeine vor vnd vnter die kieinen setzen. Al&sr;:</p>
+<poem><fr>Jhr schwartzen augen/ jhr/ vnd du/ auch schwartze&sr;&2019;
+Haar/
+Der frischen Flavia/ die vor mein hertze war/
+Auff die ichpflag zue richten/
+Mehr al&sr; ein weiser soll/
+Mein schreiben/ thun vnd tichten/
+Gehabt euch jetzundt wol.
+Nicht gerne sprech ich so/ ruff&2019; auch zue zeugen an
+Dich/ Venu&sr;/ vnnd dein kindt/ da&sr; ich gewiß hieran
+Die minste schuldt nicht trage:
+Ja alle&sr; kummer&sr; voll
+Mich stündlich kränck&2019; vnd plage
+Da&sr; ich sie lassen soll/ &rr;c.</fr></poem>
+<p>Die Saphischen gesänge belangendt/ bin ich de&sr; Ronsardt&sr;
+meinung/ da&sr; sie/ in vnseren sprachen sonderlich/ nimmermehr
+können angeneme sein/ wann sie nchit mit lebendigen stimmen
+<cw>vnd</cw>
+<pb>
+vnd in musicalische inftrumente eingesungen werden/ welche
+da&sr; leben vnd die Scele der Poeterey sind. Dann ohne zweif-
+fel/ wann Sappho hat diese verse gantz verzucket/ mit vneige-
+ftochtenen fliegenden haaren vnnd lieblichem anblicke der ver-
+buhleten augen/ in jhre Cither/ oder wa&sr; e&sr; gewesen ist/ gesun-
+gen/ hat sie jhnen mehr anmutigkeit gegeben/ al&sr; alle trompeten
+vnd paucken den mannhafftigen vnnd kühnen versen/ die jhr
+Landt&sr;mann Alcéu&sr;/ al&sr; er ein Kriege&sr;oberster gewesen/ er-
+tichtet hat. Zum exempel gleichwol wil ich zwey Strophen de&sr;
+Ronsardt&sr; herschreiben: Dann ich dergleichen me vor mich ge-
+nommen.</p>
+<cit><poem><aq>Belle dont le&sr; yeux doucement m&2019;ont tué,
+Par vn doux regard qu&2019;au c&0153;ur il&sr; m, ont rué,
+Et m&2019;ont en vn roc insensible mué
+En mon poil grison:
+Que i&2019; estoi&sr; heureux en ma reune saison
+Auant qu&2019;auoir beu l&2019;amoureuse poison!
+Bien loin de sou&sr;pir&sr;, de pleur&sr; et de prison
+Libre ie vivoy, &amp;c.</aq></poem></cit>
+<p>Eine ander solche Ode hebet er also an:</p>
+<cit><poem><aq>Mon âge et mon sang ne sont plu&sr; en vigeur:
+Le&sr; ardent&sr; penser&sr; ne m&2019; eschauffent le c&0153;ur,
+Plu&sr; mon chef grison ne se veut enfermer
+Solu&sr; le ioug d&2019; aimer, &amp;c.</aq></poem></cit>
+<p>Jn den Pindarischen Oden/ im fall e&sr; jemanden sich daran
+zue machen geliebet/ ist die # frey/ vnd mag ich so viel verse
+vnd reimen darzue nemen al&sr; ich wil/ sie auch nach meinem ge-
+sall&te; eintheil&te; v&tn; schrencken: # aber muß auff die #
+sehen/ vnd keine andere ordnung der reimen machen: # ist
+wieder vngebunden. Wan wir dann mehr strophen tichten wol-
+<cw>ten/</cw>
+<pb>
+ten/ mussen wir den ersten in allem nachfolgen: wiewol die Ge-
+lehrten; vnd denen Pindaru&sr; bekandt ist/ e&sr; ohne diß wissen/ vnd
+die anderndie e&sr; au&sr; jhm nicht wissen/ werden e&sr; auß diesem be-
+richte schwerlich wissen lernen. Jch vor meine person/ bin new-
+lich vorwitzig gewesen/ vnd habe mich vnterwinden dürffen auff
+Bernhardt Wilhelm Nüßler&sr;/ meine&sr; gelehrtesten freunde&sr;/
+vnd statlichen Poeten&sr;/ e&sr; sey in vnserer oder lateinischer spra-
+che/ hochzeit eine dergleichen Oden vnd eine andere auff abster-
+ben eine&sr; vornemen vom adel zue schreiben; mit welchen ich/ ob
+sie schon auff der eile weg gemacht sindt/ diese&sr; Capittl beschlis-
+sen wil.</p>
+<pt><c>#</c></pt>
+<pv><fr>Du güldne Leyer/ meine ziehr
+Vnd frewde/ die Apollo mir
+Gegeben hat von hand zue handt/
+Zwar erstlich da&sr; mein Vaterlandt
+Den völckern gleiche möge werden
+Die jhre sprachen dieser zeit
+Durch schöne verse weit vnd breit
+Berhümbt gemacht auff aller erden:
+(Jtalien/ ich meine dich/
+Vnd Franckreich/ dem auch Thebe sich/
+Wie hoch sie fleuget/ kaum mag gleichen/
+Dem Flaccu&sr; willig ist zue weichen.)
+Vnd dann/ da&sr; derer heller schein
+Die gantz nach rhum vnd ehren streben/
+Bey denen welche nach vn&sr; leben/
+Auch möge klar vnd prächtig sein:</fr></pv>
+<pt><c>#</c></pt>
+<cw>Du</cw>
+<pb>
+<pv><fr>Du güldne Leyer/ nun ist zeit
+Zue suchen alle ziehrligkeit
+Die ein Poete wissen soll:
+Jetzt solt du billich mehr al&sr; wol/
+O meine lust/ Pindarisiren;
+Dein bester freund der leben mag/
+Der Musen rhum/ hebt diesen tag
+Ein newe&sr; leben an zue führen:
+Sein gantze&sr; wündtschen wird erfült;
+Ein bildt/ ein ausserwehlte&sr; bildt
+Ersättigt alle&sr; sein begehren:
+Die lieder/ die gelehrten zehren/
+Darmit er vormal&sr; war gewohnt/
+Weit ausser dem gemeinen hauffen/
+Nicht einen schlechten weg zue lauffen/
+Die werden reichlich jetzt belohnt</fr></pv>
+<pt><c>#</c></pt>
+<pv><fr>Krieget nicht gar recht vnd eben
+Solchen danck ein hoher Geist/
+Welcher einig sich befleist
+Bey dem Himmel selbst zue schweben/
+Jst auff lob vnd rhum bedacht
+Wenn die schöne Sonn&2019; erwacht/
+Vnd der tag dem schatten weichet
+Wie gar hoch der name reichet
+Welchen giebt der künste liecht/
+Denen die nach tugendt trachten/</fr>
+<bs>J</bs><cw>Jst</cw>
+<pb>
+<fr>Jst e&sr; minder doch zue achten/
+Wann der liebe lohn gebricht.</fr></pv>
+<pt><c>#</c></pt>
+<pv><fr>Die Lieb&2019; hat erstlich Gott gerührt
+Da&sr; er der dinge grund vollführt;
+Sie ist e&sr; die den baw der welt
+Vor allem brechen frey behelt;
+Sie pflegt die sternen zue bewegen/
+Da&sr; sie den elementen nicht
+Versagen jhrer schönheit liecht;
+Da&sr; fewer pflegt die lufft zue regen
+Durch hitz auff jhren angetrieb/
+Die lufft hat dann da&sr; wasser lieb/
+Da&sr; wasser da&sr; bewegt die erden;
+Vnd wiederumb/ die wässer werden
+Gesogen von der erden klufft/
+Da&sr; wasser zeucht die lufft zuesammen/
+Da&sr; fewer wird mit seinen flammen
+Verzogen in die kühle lufft.</fr></pv>
+<pt><c>#</c></pt>
+<pv><fr>Da&sr; hier vnd dorte Berg vnd Waldt
+Mit grünen Bäwmen mannigfalt
+Sehr lustig vberschattet steht/
+Da&sr; so manch heilsam kraut auffgcht/
+Da&sr; Wiesen/ Felder/ Büsch&2019; vnd Awen
+Mit zarten blumen sein geziehrt/
+Da&sr; Saate newe&sr; korn gebiehrt/
+Da&sr; so viel wildpret ist zue schawen/</fr></pv>
+<cw>Da&sr;</cw>
+<pb>
+<pv><fr>Da&sr; wann der Lentz da&sr; Jhar verjüngt
+Ein jeder Vogel frölich singt/
+Vnd leßt sich nicht gern vber stimmen/
+Da&sr; so viel Fisch&2019; im Meere schwimmen/
+Ja da&sr; wir Menschen selber sein/
+Vnd vn&sr; da&sr; blutige beginnen
+Der waffen nicht hat tilgen können/
+Da&sr; thut die liebe nur aliein.</fr></pv>
+<pt><c>#</c></pt>
+<pv><fr>Liebe nun wer nur zue lieben
+Rechten fug vnd mittel hat;
+E&sr; ist keine solche that
+Die verbotten ist zue vben/
+Wann du nur bestrickt nicht bist
+Von der wollust hinterlist/
+Die mit jhrem falschen scheine
+Jung vnd nicht jung in gemeine
+Leitet an verkehrten wahn/
+Außer diesen eiteln sachen/
+Die den klügsten wahnloß machen/
+Liebe wer da lieben kan.</fr></pv>
+<pt><c>#</c></pt>
+<pv><fr>Du/ Bernhardt Wilhelm/ den zuevor
+Der drey mal dreyen Schwestern chor
+Mit alle dem wa&sr; er gehabt
+Gantz ohne masse hat begabt/
+Wir stietzt von Venu&sr; auch verehret</fr>
+<bs>J ij</bs><cw>Mit</cw>
+<pb>
+<fr>Mit einer ohne welcher gunst
+Du hassen kanst verstand vnd kunst/
+Vnd wa&sr; zur wissenschafft gehöret;
+Jn derer augen freundtligkeit/
+Jm munde die verschwiegenheit/
+Zucht in den höfflichen geberden/
+Jm gange demut funden werden;
+Die der natur bekandte macht
+An tugendt/ witz vnd andern gaben
+Fast vber jhr geschlecht&2019; erhaben/
+Vnd al&sr; jhr Meisterück&2019; erdacht.</fr></pv>
+<pt><c>#</c></pt>
+<pv><fr>Nicht&sr; besser&sr; wündsch&2019; ich selber mir:
+Du wirst hinfort mit grosser ziehr/
+Durch deine hochgelehrte handt/
+Die ohne diß weit ist bekandt/
+Dein eigne frewde können schreiben:
+Du wirst besitzen alle&sr; gut
+Wa&sr; Hermu&sr; auß der gelben flut
+An seinen reichen strandt soll treiben;
+Wa&sr; der verbrandte Mohr besitzt
+Wo stet&sr; die rote Sonne hitzt/
+Wa&sr; Spanien von edlen dingen
+Pflegt auß der newen welt zue bringen.
+Getrewe hertzen bleiben rein
+Von kummer schätz vnd Goldt zue kriegen/
+Jhr meiste&sr; hoffen vnd genügen
+Jst lieben/ vnd geliebet sein.</fr></pv>
+<pb>
+<pt><c>#</c></pt>
+<pv><fr>O jhr seligen zwey liebe/
+Venu&sr; schickt jhr abendt liecht/
+Vnd errinnert da&sr; man nicht
+Jhre frewde mehr verschiebe.
+Bräutlein leget euch zue rhue;
+Jupiter&sr; Fraw saget zue
+Auß den sawersüssen nöthen
+Einen artigen Poeten.
+Wa&sr; da&sr; liebe Kindelein
+Wirdt mit halbem munde machen/
+Wa&sr; e&sr; kürmeln wird vnd lachen
+Werden lauter versesein.
+Trawerliedt vber da&sr; absterben Herren Adam&sr;</fr></pv>
+<p>von Bibran/ auff Profen vnd Damßdorff.</p>
+<pt><c><aq>Ex Italico summi viri Abrahami Bibrani,
+Adami fratri&sr;,
+quamui&sr; pauliò liberiù&sr;, tran&sr;latum.
+<g>STRO.</g> I.</aq></c></pt>
+<pv><in>O</in> Die selig&2019; edle Seele/
+Die sich in die wahre rhue
+Nach dem hohen Himmel zue
+Auß de&sr; Leibe&sr; finstern höle
+Frewdig hat hienauff gemacht;
+Da sie dann/ wie bey der nacht
+Vor den andern kleinen Sternen
+Phebe selber/ gläntzt von fernen/
+Da sich Gott jhr vmb vnd an
+Zeigt zue sehn vnd zue geniessen/
+<bs>J iij</bs><cw>Da</cw>
+<pb>
+Da sie mit nicht-menschen-füssen
+Da&sr; gestirne tretten kan.</pv>
+<pt><c><aq><g>ANTISTRO.</g> I.</aq></c></pt>
+<pv><fr>Wie die vlmen durch die reben
+Mehr al&sr; sonsten lieblich sein;
+Wie der Lorbeerbawm den schein
+Seinen wäldern pflegt zue geben/
+Also war auch deine ziehr.
+Palla&sr; weinet für vnd für/
+Cere&sr; voll von weh vnd zehren
+Leget jhren krantz von ähren
+Vnd die sichel hinter sich:
+Profen/ deine lust vnd frewde
+Lieget gantz vertiefft im leide/
+Vnd gedencket nur an dich.</fr></pv>
+<pt><c><aq><g>EPOD.</g> I.</aq></c></pt>
+<pv><fr>Da&sr; auch betrübte graß beklagt dich bey den brunnen/
+Für da&sr; reiche korn
+Wächset tresp vnd dorn;
+E&sr; trawret selbst da&sr; große radt der Sonnen/
+Vnd hüllet vmb sich her der wolcken schwartze&sr; kleidt;
+Tranck vnd eßen
+Wird vergeßen
+Von aller herd vnd vieh ohn vnterscheidt.</fr></pv>
+<pt><c><aq><g>STRO.</g> I.</aq></c></pt>
+<pv><fr>Berg vnd thäler hört man ruffen
+Bibran/ Bibran/ tag vnd nacht;
+Aber nein/ de&sr; tode&sr; macht
+Lest sie gantz vergeben&sr; hoffen.
+Wird der klee zue winter&sr;zeit
+Durch da&sr; eiß gleich abgemeyt/.
+Sehen wir jhn doch im Lentzen</fr>
+<cw>Nach-</cw>
+<pb>
+<fr>Nachmal&sr; auff den awen gläntzen:
+Täglich fellt die Sonn&2019; in&2019;&sr; meer/
+Scheinet aber morgen wieder:
+Legt ein mensch ein mal sich nieder
+Er kömpt nimmer zue vn&sr; her.</fr></pv>
+<pt><c><aq><g>ANTISTRO.</g> II.</aq></c></pt>
+<pv><fr>Wil derwegen vn&sr; gebühren
+Wie e&sr; möglich nur mag sein
+Sein begräbniß vnd gebein
+Allenthalben außzueziehren
+Mit dem frembden tulipan
+Tausendtschön vnd maioran/
+Mit violen vnd narcißen/
+Vnd den blumen bey den flüssen
+Die vom Mertzen sind genannt.
+Sonderlich soll jhm sein leben
+Auff da&sr; newe wiedergeben
+Der Poeten weise handt.</fr></pv>
+<pt><c><aq><g>EPOD.</g> II.</aq></c></pt>
+<pv><fr>Jhr keuschen Lorbeersträuch&2019;/ an denen gäntzlich lieget/
+Da&sr; ein mensch der schon
+Muß allhier darvon
+Doch in der grub&2019; ein ewige&sr; lob krieget/
+Schawt da&sr; jhr für den todt dem edlen cörper hier
+Gleichfall&sr; rahtet/
+Vnd vmbschatet
+Mit grüner lust sein asche für vnd für.</fr></pv>
+<d1>Da&sr; <aq>VIII.</aq> Capitel.
+Beschluß diese&sr; buche&sr;.</d1>
+<cw>So</cw>
+<pb>
+<p><in>S</in>O viel ist e&sr;/ wa&sr; ich von vnserer Poesie auff-
+setzen wollen. Wiewol ich keinen zweiffel trage/ e&sr; sey
+noch allerseit&sr; eine&sr; vnd da&sr; andere zue erinnern/ wel-
+che&sr; nicht weniger notwendig seyn mag/ al&sr; etwa&sr; von denen
+sachen/ derer ich erwehne. E&sr; kan auch wol sein/ da&sr; mir in
+dem eilen (denn ich vor fünff tagen/ wie meine freunde wissen/
+die feder erst angesetzt habe) diß vnd jene&sr; mag einkommen sein/
+da&sr; entweder gar außengelassen/ oder ja im minsten verbeßert
+sollte werden. Jch hoffe aber/ e&sr; wird mir der guethertzige Le-
+ser/ in betrachtung der kurtzen zeit so ich hierbey verschloßen/ et-
+wa&sr; vbersehen/ vnd bedencken/ Rom sey nicht auff einen tag
+gebawet worden. Wa&sr; noch vbrig ist/ wil ich entweder inkünff-
+tig selbst gründtlicher verführen/ oder denen lassen/ die mir an
+liebe gegen vnsere sprache gleiche/ vnd an geschickligkeit vberle-
+gen sein. Von denselben zue lernen bin ich so begierig/ al&sr; ich
+willig gewesen bin/ andere/ die auch diese&sr; nicht gewust haben/
+zue vnterrichten. Welche meine geringschätzige arbeit bey stat-
+lichen auffgeweckten gemütern/ wo nicht mehr/ doch so viel
+verfangen wird/ da&sr; sie gleichsam al&sr; durch einen sporen hier-
+mit auffgemuntert/ vnserer Muttersprache die hand bietten/
+vnd jhrer Poesie den glantz/ welchen sie lengest hette kriegen sol-
+len/ geben werden. Welche&sr; aber al&sr;denn vollkömlich gesche-
+hen kan/ wenn zue dem wa&sr; hiebevor in diesem buche erzehlet ist
+worden/ die vornemlich jhren fleiß werden anlegen/ welche von
+natur selber hterzue geartet sein/ vnnd von sich sagen können
+wa&sr; Ovidiu&sr;:</p>
+<cit><aq>Est Deu&sr; in nobi&sr;, agitante calescimu&sr; illo.</aq></cit>
+<poem><fr>E&sr; ist ein Geist in vn&sr;/ v&tn; wa&sr; von vn&sr; geschrieben/
+Gedacht wird vnd gesagt/ da&sr; wird durch jhn ge-
+trieben.</fr></poem>
+<p>Wo diese natürliche regung ist/ welche Plato einen Göttli-
+<cw>then</cw>
+<pb>
+then furor nennet/ zum vnterscheide de&sr; aberwitze&sr; oder blödig-
+keit/ dürffen weder erfindung noch worte gesucht werden; vnnd
+wie alle&sr; mit luft vnd anmutigkeit geschrieben wird/ so wird e&sr;
+auch nachmal&sr; von jederman mit dergleichen lust vnd anmutig-
+keit gelesen. An den andern wollen wir zwar den willen vnd die
+demühung loben/ der nachkommenen gunst aber können wir jh-
+nen nicht verheißen.</p>
+<p>Wiewol wir die vbung vnd den fleiß nicht verwerffen: daß
+im fall dieselbigen mit der natur vereintget werden/ muß etwa&sr;
+folgen da&sr; böse mäuler leichtlicher tadeln kö&tn;en al&sr; nachmach&te;.</p>
+<p>Eine guete art der vbung aber ist/ da&sr; wir vn&sr; zueweilen auß
+den Griechischen vnd Lateinischen Poeten etwa&sr; zue vbersetzen
+vornemen: dadurch denn die eigenschafft vnd glantz der wörter/
+die menge der siguren/ vnd da&sr; vermögen auch dergleichen zue
+erfinden zue wege gebracht wird. Auff diese weise sind die Rö-
+mer mit den Griechen/ vnd die newen seribenten mit den alten
+verfahren: so da&sr; sich Virgiliu&sr; selber nieht geschämet/ gantze
+plätze auß andern zue entlehnen; wie sonderlich Macrobiu&sr; im
+fünfften vnd sechsten buche beweiset. Wir sollen vn&sr; auch an
+vnserem eigenen fleiße nicht genügen laßen, sondern/ weil viel
+augen mehr sehen al&sr; eine&sr;/ vber die sachen welche wir an da&sr;
+liecht zue bringen vermeinen/ berühmbter männer vrtheil erge-
+hen laßen. Welche&sr; inngleichen die Römer so wol verstanden/
+vnd in acht genommen/ da&sr; sie nicht leichtlich etwa&sr; offentlich
+anßkommen laßen/ da&sr; nicht zuevor von einem vnd dem andern
+geschätzet vnd durchgezogen worden. Ja/ wie man keinen rin-
+ger oder fechter in offentlichen schawplatze auffführete/ er muß-
+te vorher seinen namen geben/ vnd eine probe thun welche&sr; sie
+# vnnd #. einschreiben vnnd appro-
+biren hiessen: so gaben auch die/ welche in der zahl der Poeten
+wolten gerechnet werden/ jhre getichte anderen Poeten zue vber-
+sehen/ vnd erkündigten sich darüber jhrer meinung: diese&sr; war
+<bs>K</bs><cw>jhre</cw>
+<pb>
+jhre # vnnd #; wie <aq>Cafaubonu&sr;</aq> vber den <aq>Pet-
+sium</aq> erinnert/ vnd auß einer alten Jnseription zur sehen ist:</p>
+<cit><aq>HIC CVM. ESSET. ANNOR VM.
+XIII. ROMAE. CERTAMINE.
+IOVIS. CAPITOLINI LVSTRO.
+SEXTO. CLARITATE. INGENI.
+CORONATVS. EST. INTER.
+POETAS. LATINOS. OMNIBVS.
+SENTENTIIS. IVDICVM.</aq></cit>
+<p>Pliniu&sr; der Jüngere/ welcher vber alle seine süchen gelehr-
+ter freunde guet achten erfodert/ saget in der 17 Epistel de&sr; 7.
+Buche&sr;/ da&sr; jhn diese gewohnheit gar nicht rewe. Denn er be-
+dächte/ welch ein grosse&sr; e&sr; sey/ durch der lente hände gehen/
+vnd könne jhm nicht einbilden/ da&sr; man dasselbe nicht solle mit
+vielen vnd zum offtern vbersehen/ wa&sr; man begehret/ da&sr; e&sr; al-
+len vnd immer gefallen solle. Welche&sr; denn der grösseste lohn
+ist/ den die Poeten zue gewarten haben; da&sr; sie nemlich inn kö-
+niglichen vnnd fürstlichen Zimmern platz finden/ von grossen
+vnd verständigen Männern getragen/ von schönen leuten (denn
+sie auch de&sr; Frawenzimmer zue lesen vnd offte in goldt zue bin-
+den pfleget) geliebet/ in die bibliothecken einverleibet/ offentlich
+verkauffet vnd von jederman gerhümet werden. Hierzue kömpt
+die hoffnung vieler künfftigen zeiten/ in welchen sie fort für fort
+grünen/ vnd ein ewige&sr; gedächtniß in den hertzen der nachkom-
+menen verlassen. Diese glückseligkeit erwecket bey auffrichtigen
+gemüttern solche wollust/ da&sr; Demosthene&sr; sagete/ e&sr; sey jhm
+nicht&sr; angenemer&sr;/ al&sr; wenn auch nur zwey weiblein welche
+wasser trügen (wie zue Athen bräuchlich war) einer den andern
+einbliesse: Da&sr; ist Demosthene&sr;. Welcher ob er zwar al&sr; der
+vornemeste redener in hohen ehren gehalten worden/ ist doch der
+rhum nicht geringer denn Homeru&sr; erlanget. Vnd wie der Au-
+tor de&sr; gespreche&sr; von den Oratoren saget/ de&sr; <aq>Euripidi&sr;</aq>
+<cw>oder</cw>
+<pb>
+oder <aq>Sophocli&sr;</aq> berhümbter nameist so weit erschol-
+len al&sr; de&sr; Lysi<aq>&00E6;</aq> oder Hyperidi&sr;; vnd viel begehren
+weniger den rhum de&sr; <aq>Ciceroni&sr;</aq> alß <aq>Virgilii.</aq> E&sr; ist
+auch kein buch de&sr; <aq>Asinii</aq> oder <aq>Messall&00E6;</aq> so beschrie-
+en/ al&sr; de&sr; <aq>Ouidii Medea,</aq> oder <aq>Varii</aq> sein Thyeste&sr;.
+Vnd/ redet er weiter/ ich schewe mich nicht den zuestand
+der Poeten vnd jhr glückhaffte&sr; wesen mit dem vn-
+ruhigen vnd sorglichen leben der Redner zue verglei-
+chen. Ob zwar diese durch streitsachen vnnd gefahr
+zue dem Bürgermeister ampte sind erhoben worden;
+so wil ich doch lieber <aq>Virgilii</aq> sichere vnnd geheime
+einsamkeit/ in welcher e&sr; jhm weder an gnade bey
+dem Keyser Augusto/ noch an kundschafft bey dem
+Römischen volcke gemangelt hat.</p>
+<p>Nebenst dieser hoheit de&sr; gueten namen&sr;/ ist auch die vnver-
+gleichliche ergetzung/ welche wir bey vn&sr; selbst empfinden/ wenn
+wir der Poeterey halben so viel bücher vnnd schrifften durchsu-
+chen: wenn wir die meinungen der weisen erfündigen/ vnser
+gemüte wieder die zuefälle diese&sr; leben&sr; außhärten/ vnd alle
+künste vnnd wissenschafften durchwandern? So war ich diese&sr;
+für meine grösseste frewde vnd lust auff der Welt halte/ so war
+wündsche ich/ da&sr; die die in ansehung jhre&sr; reichthumb&sr; vnnd
+vermeineter vberflüssigkeit aller notdurfft jhren stand weit vber
+den vnserigen erheben/ die genüge vnd rhue/ welche wir schöpf-
+fen auß dem geheimen gespreche vnd gemeinschafft der grossen
+hohen Seelen/ die von so viel hundert ja tausendt Jharen her
+mit vn&sr; reden/ empfinden solten; ich weiß/ sie würden beken-
+nen/ da&sr; e&sr; weit besser sey/ viel wissen vnd wenig besitzen/ al&sr;
+alle&sr; besetzen vnd nicht&sr; wissen Vber dieser vnglaublichen er-
+getzung haben jhrer viel hunger vnd durst erlitten/ jhr gantze
+<cw>vermö-</cw>
+<pb>
+vermögen auffgesetzt/ vnd fast jhrer selbst vergessen. Zoroaster/
+welcher/ wie oben erwehnet/ alle seine gedancken Poetisch auff-
+gesetzt/ soll zwantzig Jhar in höchster einsamkeit zuegebracht
+haben/ damit er in erforschung der dinge nicht geirret würde.
+Vnd da alle andere wollüstenvu&sr; vnter den händen zuegehen/
+auch offtermal&sr; nicht&sr; von sich vbrig lassen al&sr; blosse rewe vnd
+eckel; so begleitet vn&sr; diese vnsere durch alle staffeln de&sr; alter&sr;/
+ist eine ziehr im wolstande/ vnd in wiederwertigkeit ein sicherer
+hafen. Derentwegen wolle vn&sr; ja nicmandt verargen/ da&sr; wir
+die zeit/ welche viel durch Fressereyen/ Bretspiel/ vnnütze ge-
+schwätze/ verleumbdung ehrlicher leute/ vnd sonde&rr;lich die lustige
+vberrechnung de&sr; vermögen&sr; hinbringen/ mit anmutigkeit vn-
+ser&sr; studieren&sr;/ vnd denen sachen verschliessen/ welche die armen
+offte haben/ vnd die reichen nicht erkauffen können. Wir fol-
+gen dem/ an welche&sr; vn&sr; Gott vnd die natur leitet/ vnd auß die-
+ser zueversicht hoffen wir/ e&sr; we&rr;de vn&sr; an vornemer leute gunst
+vnd liebe/ welche wir/ nebenst dem gemüte vnserem Vaterlan-
+de zue dienen/ einig hierdurch suchen/ nicht mangeln. Den ver-
+ächtern aber dieser göttlichen wissenschafft/ damit sie nicht gantz
+leer außgehen/ wollen wir inn den Tragedien so wir künfftig
+<c>schreiben möchten die Personen derer geben/ welche in dem
+Chore nach erzehlung trawriger sachen weinen vnd
+heulen mussen: da sie sich denn vber jhren vn-
+verstand vnd grobheit nach der len-
+ge beklagen mögen.</c></p>
+<hr>
+<pb>
+<back><sal><c><fr>An den Leser.</fr></c></sal>
+<p><c><in>G</in>ünstiger <in>L</in>eser/ weil ich
+bey verfertigung de&sr; Büchlein&sr; nicht
+gewesen/ ist e&sr;/ sonderlich wa&sr; die Griechi-
+schen wörter betrifft/ etwa&sr; falsch gesetzet wor-
+den; dessen ich euch hiermit errin-
+nern wollen.</c></p>
+<li><aq>Lit, A. fac. 3. inimice ven&00E6;.</aq></li>
+<li><aq>B. f.</aq> 2. #</li>
+<li># <aq>f.</aq> 3. heutige&sr; tage&sr;. <aq>f. 5. # i-
+bid. Maniliu&sr;.</aq></li>
+<li><aq>C. f. 1. # ib.</aq> genawe. <aq>ib. d&2019; escorte. f,</aq> 6.
+habe.</li>
+<li><aq>D. f.</aq> 4. die kürtze.</li>
+<li><aq>E. f. 2. #. f.</aq> 3. nechst. <aq>ib. L&2019; irrite-mer.
+f. 7. le vy le ciel. ib.</aq> auff eine andere. <aq>f.</aq> 8. ab-
+stehlen. <aq>ib.</aq> machen möge.</li>
+<li><aq>F. f.</aq> 7. stehen lassen. <aq>f. 8. #. ib.
+#. ib. distichon. ib. anacreonten.</aq></li>
+<li><aq>G. f.</aq> 3. da&sr; die Lateiner nach. <aq>f.</aq> 4. Lateinischen
+<aq>hexametro&sr;. ib. ver&sr; commun&sr;</aq> oder <aq>f.</aq> 7. jhren ab-
+schnitt.</li>
+<li><aq>H. f.</aq> 1. der mundt ist Himmelweit. <aq>ib.</aq> Jn summa.</li>
+<li><aq>I. f. 6. STRO. ll.</aq></li>
+<li><aq>K. f.</aq> 1. #.</li>
+<p>Da&sr; vbrige/ dessen ich vieleichte nicht gewahr
+worden; wollet jhr vnbeschweret selber zu rechte
+bringen.</p>
+<bs>L</bs><cw>Hier-</cw>
+<pb>
+<p>Hierneben habe ich auch nicht sollen
+vnverwehnet lassen/ da&sr; mir vnlengst
+eine&sr; gelehrten manne&sr; in der frembde
+schreiben zuekommen/ welcher der mei-
+nung ist/ wa&tn; wir die eigentlichen nam&te;
+der Götter vnd anderer sachen/ al&sr; Ju-
+piter/ Orpheu&sr;/ Phebu&sr;/ Diana vnnd
+dergleichen in vnsere sprache brächten/
+würde sie nicht von allen verstand&te; wer-
+den/ vnd solte man sich dieselben Deutsch
+zue geben befleissen. Wie aber solche&sr;
+vnmöglich ist/ vnd gleichwol von dieser
+art namen ein grosse&sr; theil der Poeterey
+bestehet/ also wissen wir/ da&sr; e&sr; eben die
+gelegenheit mit den Lateinern zum ersten
+gehabt/ welche diese wörter mehrenthei-
+le&sr; von den Griechen vnd sonsten emp-
+fangen/ vnd sie jhnen/ wie hernachmal&sr;
+auch in der Jtalienischen/ Frantzösischen/
+Spanischen vnd andern sprachen gesche-
+<cw>hen</cw>
+<pb>
+hen/ durch stetten gebrauch so gemei-
+ne gemacht haben/ da&sr; sie sie nicht
+weniger al&sr; jhre eigene wörter verstan-
+den. Jndeßen aber köndte e&sr; wol nicht
+schaden/ da&sr; ein liebhaber vnserer schö-
+nen Muttersprache jhm so viel zeit neme/
+vnd in derselben ein sonderlich <aq>Dictiona-
+rium</aq> oder Namenbuch der Völcker/ Leute/
+Götter/ Länder/ örter/ städte/ flüße/ por-
+ten/ gebirge/ vnd sonsten auß den geistli-
+chen vnd weltlichen scribenten zuesa&tm;en
+trüge. Wie diese&sr; nun bloß an einer be-
+mühung gelegen/ weil <aq>Caroli Stephani</aq> vnd
+anderer bücher nur dörfften auffgesucht
+vnd vmbgesetzt werden; also würde jhm
+ein solcher doch sehr guete&sr; Lob v&tn; rhum/
+<c>welchem die edelsten gemüter nach-
+trachten/ bey männiglich zu we-
+ge bringen. Gott befohlen.</c></p>
+<hr></back>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>

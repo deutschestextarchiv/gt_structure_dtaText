@@ -1,0 +1,1225 @@
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<abb>
+<pb>
+<front><g><b>Lieder</b>
+für
+<b>Kinder.</b></g>
+<abb>
+<hr>
+<g>Leipzig,</g>
+bey M. G. Weidmann&sr; Erben und Reich.
+<g>1767.</g></front>
+<pb>
+<pb="1"/>
+<kt><hr></kt>
+<pt>Zuschrift
+<b>an ein paar Kinder.</b></pt>
+<pv><in>J</in>hr fodert hüpfend eine Gabe
+Mir, kleinen Schmeichler, ab?
+Hier habt Jhr alle&sr;, wa&sr; ich habe,
+Und mir die Muse gab.</pv>
+<pv><in>D</in>ie Muse &2014; doch ich hör Euch fragen,
+Welch Wunderding dieß ist?
+Jch will e&sr; im Vertraun Euch sagen:
+So bald ich Euch geküßt.</pv>
+<pv><in>E</in>&sr; ist die väterliche Liebe,
+Der jede Liebe weicht,
+Und der bey mir nicht&sr;, al&sr; die Liebe
+Für Eure Mutter gleicht.</pv>
+<pv><in>L</in>aßt sie Euch diese Lehren geben,
+Durch Harmonie versüßt:
+Weit kräftiger lehrt Euch ihr Leben,
+Da&sr; lauter Wohllaut ist.</pv>
+<hr>
+<bs>A</bs><cw>Der</cw>
+<pb="2"/>
+<kt><hr></kt>
+<pt><b>Der junge Baum.</b></pt>
+<pv><in>D</in>a&sr; liebe kleine Bäumchen hier,
+Da&sr; einst gepflanzet ward mit mir,
+Trägt schon so jung und zart
+Die Früchte von der besten Art.</pv>
+<pv><in>E</in>&sr; lohnt de&sr; Gärtner&sr; froher Hand,
+Den Fleiß, den er darauf verwandt:
+Wa&sr; wird, ihn zu erfreun,
+E&sr; nicht erst einst erwachsen seyn!</pv>
+<pv><in>O</in> bin ich nicht dem Bäumchen gleich?
+Zwar itzt nur noch an Hoffnung reich.
+Doch will ich nicht nur blühn,
+Rein, einst von goldnen Früchten glühn.</pv>
+<hr>
+<cw>Lob</cw>
+<pb="3"/>
+<kt><hr></kt>
+<pt><b>Lob der Unschuld.</b></pt>
+<pv><in>D</in>u, der Unschuld süße Ruh,
+O wie lieblich schmeichelst du
+Unsern Seelen!
+Eitle Wollust fleucht vor dir,
+Und doch lässest du e&sr; mir
+Nicht an Wollust fehlen.</pv>
+<pv><in>D</in>u streust Rosen und Je&sr;min
+Auf die sichern Pfade hin,
+Die ich gehe.
+Jch bin ganz Zufriedenheit,
+Wenn ich dich voll Heiterkeit
+Auf mich lächeln sehe.</pv>
+<pv><in>O</in>hne Kummer, ohne Reu,
+Führst du sie vor mir vorbey
+Meine Tage.
+Meine Müh machst du mir leicht,
+Und in meine Spiele schleicht
+Sich nicht späte Klage.</pv>
+<bs>A 2</bs><cw>Laß</cw>
+<pb="4"/>
+<kt><hr></kt>
+<pv><in>L</in>aß mein Herz sich deiner freun,
+Dich noch, werd ich älter seyn,
+Freundinn nennen.
+Jn dem Unglück tröste mich,
+Und nie laß mich ohne dich
+Eine Freude kennen.</pv>
+<hr>
+<cw>Da&sr;</cw>
+<pb="5"/>
+<kt><hr></kt>
+<pt><b>Da&sr; Veilchen.</b></pt>
+<pv><in>W</in>arum, geliebte&sr; Veilchen, blühst
+Du so entfernt im Thal?
+Versteckst dich unter Blättern, fliehst
+Der stolzern Blumen Zahl?</pv>
+<pv><in>U</in>nd doch voll Liebreiz duftest du,
+So bald man dich nur pflückt,
+Un&sr; süßre Wohlgerüche zu,
+Al&sr; manche, die sich schmückt.</pv>
+<pv><in>D</in>u bist der Demuth Ebenbild,
+Die in der Stille wohnt,
+Und den, der ihr Verdienst enthüllt,
+Mit frommen Dank belohnt.</pv>
+<hr>
+<bs>A 3</bs><cw>Schön-</cw>
+<pb="6"/>
+<kt><hr></kt>
+<pt><b>Schönheit und Stolz.</b></pt>
+<pt>Philli&sr;.</pt>
+<pv><in>D</in>u lobest Chloen? nennst sie schön?
+O sieh doch mir erst in&sr; Gesicht!
+Wie ich, da&sr; mußt du mir gestehn,
+So schön ist Chloe nicht.</pv>
+<pt>Damon.</pt>
+<pv><in>J</in>a, Philli&sr;, daß du schöner bist,
+Gesteh ich dir gar gerne zu:
+Doch ist sie nicht so schön, so ist
+Sie nicht so stolz, al&sr; du.</pv>
+<hr>
+<cw>Der</cw>
+<pb="7"/>
+<kt><hr></kt>
+<pt><b><g>Der May.</g></b></pt>
+<pv><in>E</in>&sr; lächelt auf&sr; neu
+Der fröhliche May
+Jn buntem festlichen Kleide.
+Von Höhen und Thal
+Tönt überall
+Die süße Stimme der Freude.</pv>
+<pv><in>J</in>n Wiesen und Flur
+Giebt un&sr; die Natur
+Die schönsten Blumen zu pflücken.
+Drum will ich zum Tanz
+Mit einem Kranz
+Die blonden Haare mir schmücken.</pv>
+<pv><in>D</in>och sollt ich nicht den,
+Der alle&sr; so schön
+Erschuf, erst brünstig erheben?
+Durch Jubelgesang
+Prei&sr; ihn mein Dank,
+Doch mehr: mein künftige&sr; Leben!</pv>
+<hr>
+<bs>A 4</bs><cw>Der</cw>
+<pb="8"/>
+<kt><hr></kt>
+<pt><b><g>Der Tod.</g></b></pt>
+<pv><in>E</in>&sr; sterben Greise,
+Und sind nicht weise,
+Und wenn man sie nunmehr begräbt,
+Wird sie kein Edler klagen;
+Denn man weiß nicht&sr; zu sagen,
+Al&sr; daß sie lang genug gelebt.</pv>
+<pv><in>S</in>ollt ich nicht streben
+Also zu leben,
+Daß, wenn man mich auch jung begräbt,
+Die Frommen bey mir klagen,
+Und zu einander sagen:
+O hätt er länger doch gelebt!</pv>
+<hr>
+<cw>Der</cw>
+<pb="9"/>
+<kt><hr></kt>
+<pt><b><g>Der Apfel.</g></b></pt>
+<pv><in>A</in>l&sr; jüngst Hän&sr;chen in dem Gra&sr;
+Sich ein Blumensträu&sr;chen la&sr;,
+Fand er, welch Vergnügen!
+Einen Apfel liegen.</pv>
+<pv><in>H</in>än&sr;chen hüpfte froh daher;
+&201E;Ey wie wunderschön ist er!&201E;
+Sprach er; meinem Magen
+Soll er wohl behagen.</pv>
+<pv><in>V</in>oll Begierde biß er zu &2014;
+Hän&sr;chen, o wa&sr; sprudelst du?
+Will dem kleinen Gecken
+Nicht der Apfel schmecken?</pv>
+<pv><in>O</in> sprach er: &201E;der Wurm ist drinn,&201E;
+Und warf ihn entrüstet hin:
+&201E;Eine schöne Lügen
+Laß ich mich betrügen!&201E;</pv>
+<hr>
+<bs>A 5</bs><cw>Die</cw>
+<pb="10"/>
+<kt><hr></kt>
+<pt><b>Die Freyheit.</b></pt>
+<pv><in>W</in>arum, du kleine Nachtigall,
+Hör ich nicht deiner Stimme Schall
+Mehr der Natur zu Ehren?
+Du sangst in Sträuchen ja zuvor
+So wunderschön, daß aller Vögel Chor
+Schwieg, wenn du sangst, um dich zu
+<et>hören.</et></pv>
+<pv><in>J</in>m goldnen Bauer sitzest du;
+Jch trage dir die Speise zu
+Schon mit dem frühsten Morgen.
+Kein Sturm und Regen schadet dir;
+Doch du singst nicht, und sitzest traurig
+<et>hier,</et>
+Al&sr; hättest du recht schwere Sorgen.</pv>
+<pv><in>W</in>ie, sollt e&sr; dich vielleicht gereun,
+Bey mir hier eingesperrt zu seyn?
+Da flieg in Freyheit wieder!
+O ja, du singst, schon hör ich dich
+Vom nächsten Baum, und du belohnest
+<et>mich</et>
+Dafür durch deine besten Lieder!</pv>
+<hr>
+<cw>Die</cw>
+<pb="11"/>
+<kt><hr></kt>
+<pt><b>Die wahre Größe.</b></pt>
+<pv><in>D</in>er Krieger dürstet nach Ehre
+Jn eisernem Feld,
+Und glaubt, er bau ihr Altäre,
+Wenn mancher edle Held
+Von seinem Schwerdtstreich fällt.</pv>
+<pv><in>U</in>nd wenn er Länder verwüstet
+Und Städte verbrannt,
+Und sich auf Leichen gebrüstet
+Mit Blut bespritzter Hand;
+Wird er oft <fr>Groß</fr> genannt.</pv>
+<pv><in>D</in>och wer sich selber bestreitet,
+Die Tugend verehrt,
+Um sich da&sr; Glücke verbreitet,
+Und durch sein Beyspiel lehrt,
+Jst nur de&sr; Ramen&sr; werth.</pv>
+<hr>
+<cw>Da&sr;</cw>
+<pb="12"/>
+<kt><hr></kt>
+<pt><b>Da&sr; Kartenhäu&sr;chen.</b></pt>
+<pv><in>L</in>acht nur, guten Leute, lacht,
+Daß mein Hau&sr;, da&sr; ich gemacht,
+Eine leichte Luft zerstört.
+Jst dieß lachen&sr; werth?</pv>
+<pv><in>O</in>! ihr baut auch oft in Wind!
+Sagt, wa&sr; eure Schlösser sind,
+Die ihr euch so hoch erbaut,
+Und mit Stolz beschaut?</pv>
+<pv><in>W</in>erden sie noch morgen stehn?
+Ja &2014; vielleicht &2014; wir wollen sehn.
+Stört nicht oft ein Augenblick
+Unser ganze&sr; Glück?</pv>
+<hr>
+<cw>Der</cw>
+<pb="13"/>
+<kt><hr></kt>
+<pt><b>Der wahre Reichthum.</b></pt>
+<pv><in>W</in>arum durchirrt nach Gut und Geld
+Der Mensch die fernsten Meere,
+Al&sr; ob für ihn nicht eine Welt
+Schon groß genug wäre?
+Doch, wenn er, wa&sr; er wünscht, besitzt,
+So stirbt er, ohne daß er&sr; nützt.</pv>
+<pv><in>D</in>ieß können nicht die Güter seyn,
+Die man sich soll erwerben.
+Ein Weiser sammlet Schätze ein,
+Die nie mit ihm sterben.
+Die Tugend ist&sr;; nach dieser Zeit
+Folgt sie ihm in die Ewigkeit.</pv>
+<hr>
+<cw>Der</cw>
+<pb="14"/>
+<kt><hr></kt>
+<pt><b>Der Fisch an der Angel.</b></pt>
+<pv><in>D</in>a&sr; kleine Fischgen spielet hier
+Jn silbernem Bach,
+Und hängt, voll lüsterner Begier,
+Bloß seinen Freuden nach.</pv>
+<pv><in>E</in>&sr; merket nicht die blutge List,
+Den freundlichen Feind,
+Der desto mehr zu fürchten ist,
+Je gütiger er scheint.</pv>
+<pv><in>D</in>ie Ruthe mit der Angel spielt
+Schon über ihn hin,
+Und voller Neubegierde schielt
+E&sr; bloß nach dem Gewinn.</pv>
+<pv><in>E</in>&sr; naht sich schon &2014; itzt schnappt e&sr; zu!
+Wa&sr; hast du gethan?
+Du blutest, arme&sr; Thierchen du,
+O bissest du nicht an! &2014;</pv>
+<pv><in>M</in>ich reiße nie, wa&sr; mir gefällt,
+Unprüfend dahin!
+Dein Beyspiel lehre mich die Welt
+Und ihre Reizung fliehn!</pv>
+<hr>
+<cw>Die</cw>
+<pb="15"/>
+<kt><hr></kt>
+<pt><b>Die Seifenblase.</b></pt>
+<pv><in>W</in>ie spielt die schöne Blase nicht
+So bunt am goldnen Sonnenlicht?
+Allein, ein Hauch! weg ist die Pracht,
+Und ihrer wird nicht mehr gedacht.</pv>
+<pv><in>J</in>hr ist ein junge&sr; Herrchen gleich,
+Stolz auf sein Kleid, vom Golde reich,
+Selbst aber an Verdiensten leer:
+Man nehm e&sr; ihm, so bleibt nicht&sr; mehr.</pv>
+<hr>
+<cw>Die</cw>
+<pb="16"/>
+<kt><hr></kt>
+<pt><b>Die kleinen Leute.</b></pt>
+<pv><in>J</in>n Lilliput, ich glaub e&sr; kaum,
+Doch Swift erzählt&sr;, sind Leute
+So groß, al&sr; ungefähr mein Daum:
+Man denk erst in der Weite!
+Da müssen sie gewiß so klein,
+Al&sr; bey un&sr; eine Mücke seyn.</pv>
+<pv><in>O</in> wär ich dort, wie groß wär ich!
+Man nennte mich den Riesen,
+Und mit den Fingern würd auf mich,
+Wo man mich säh, gewiesen!
+Dort, sprächen sie, dort gehet er!
+Und vor mir gieng da&sr; Schrecken her.</pv>
+<pv><in>D</in>och wenn ich nun nicht klüger wär,
+Al&sr; itzt; sie aber wären
+Gesitteter, verständiger,
+Wie! würden sie mich ehren?
+Jch glaube kaum. Sie würden schreyn:
+Groß an Gestalt, am Geiste klein!</pv>
+<hr>
+<cw>Die</cw>
+<pb="17"/>
+<kt><hr></kt>
+<pt><b><g>Die Mücke.</g></b></pt>
+<pv><in>D</in>e&sr; Lichte&sr; Glanz in dunkler Nacht
+Reizt einer Mücke Unbedacht:
+Sie spielt und nimmt nicht die Gefahr,
+Die ihr da&sr; Leben kostet, wahr.</pv>
+<pv><in>O</in> ladet mich der goldne Schein
+Der Wollust diese&sr; Leben&sr; ein:
+So denke stet&sr; mein Herz daran,
+Wie leicht ihr Reiz verderben kann!</pv>
+<hr>
+<bs>B</bs><cw>Der</cw>
+<pb="18"/>
+<kt><hr></kt>
+<pt><b><g>Der Vorsatz.</g></b></pt>
+<pv><in>W</in>eil ich jung bin, soll mein Fleiß
+Eifrig sich bestreben,
+Daß ich mög einst, al&sr; ein Grei&sr;,
+Recht zufrieden leben.</pv>
+<pv><in>Z</in>war will ich mich jugendlich
+Meiner Tage freuen;
+Doch nie also, daß e&sr; mich
+Darf im Alter reuen.</pv>
+<hr>
+<cw>Die</cw>
+<pb="19"/>
+<kt><hr></kt>
+<pt><b><g>Die Sonne.</g></b></pt>
+<pv><in>G</in>egrüßet seyst du, edle&sr; Licht,
+O Sonne, die mein Angesicht
+Auf&sr; neu jetzund erhellet!
+Wie groß ist der, der dich gemacht,
+Und deine Majestät und Pracht
+An&sr; Firmament gestellet!</pv>
+<pv><in>A</in>u&sr; deinem Feuermeere fließt
+Die Wärm in alle&sr;, wa&sr; da ist,
+Jhm Kraft und Glanz zu geben.
+Der Eichbaum und da&sr; kleinste Gra&sr;
+Empfängt von dir in gleichem Maa&sr;
+Flor, Wach&sr;thum, Reife, Leben.</pv>
+<pv><in>D</in>u bist de&sr; frommen Weisen Bild,
+Der stet&sr;, mit Menschenlieb erfüllt,
+Vertheilt, wa&sr; er besitzet.
+Den Blöden leuchtet sein Verstand,
+Jndem die immer offne Hand
+Wohlthätig andern nützet.</pv>
+<hr>
+<bs>B 2</bs><cw>Die</cw>
+<pb="20"/>
+<kt><hr></kt>
+<pt><b>Die Kleiderpracht.</b></pt>
+<pv><in>T</in>ulipanen prangen schön
+Jn den Farben, die sie schmücken;
+Doch man läßt sie traurig stehn,
+Da sie sonst durch nicht&sr; entzücken.</pv>
+<pv><in>A</in>ller Kleider Herrlichkeit
+Mag sich auch ein Geck verschaffen;
+Man verkennt im bunten Kleid
+Doch nicht den geputzten Affen.</pv>
+<hr>
+<cw>Der</cw>
+<pb="21"/>
+<kt><hr></kt>
+<pt><b>Der Sperling und da&sr; Tur-
+teltäubchen.</b></pt>
+<pt>Der Sperling.</pt>
+<pv><in>J</in>ch armer Schelm! wie geht e&sr; mir!
+Du bist geliebt: ich bin verachtet!
+Wa&sr; denkt der Mensch wohl, daß er dir
+Weit <fr>minder nach dem</fr> Leben trachret?
+Bin ich, gesteh e&sr; mir nur zu,
+Nicht zehnmal listiger, al&sr; du?</pv>
+<pt>Da&sr; Turteltäubchen.</pt>
+<pv><in>D</in>a&sr; macht, daß du ein Räuber bist;
+Jch nehme bloß, wa&sr; er mir schenket,
+Und habe noch durch Trug und List
+Jhn nie an seinem Gut gekränket.
+Wa&sr; hilft&sr;, wenn man Verstand besitzt,
+Und nicht zu guten Thaten nützt!</pv>
+<hr>
+<bs>B 3</bs><cw>Da&sr;</cw>
+<pb="22"/>
+<kt><hr></kt>
+<pt><b><g>Da&sr; Clavier.</g></b></pt>
+<pv><in>S</in>üßertönende&sr; Clavier,
+Welche Freuden schaffst du mir!
+Jn der Einsamkeit gebricht
+Mir e&sr; an Ergötzen nicht;
+Du bist, wa&sr; ich selber will,
+Bald Erweckung und bald Spiel.</pv>
+<pv><in>S</in>cherz ich, so ertönet mir
+Ein scherzhafte&sr; Lied von dir;
+Will ich aber traurig seyn,
+Klagend stimmst du mit mir ein;
+Heb ich fromme Lieder an,
+Wie erhaben klingst du dann!</pv>
+<pv><in>N</in>iemal&sr; öffne meine Brust
+Sich der Lockung falscher Lust!
+Meine Freuden müssen rein,
+So wie deine Saiten seyn,
+Und mein ganze&sr; Leben nie
+Ohne süße Harmonie.</pv>
+<hr>
+<cw>Die</cw>
+<pb="23"/>
+<kt><hr></kt>
+<pt><b>Die Freundschaft.</b></pt>
+<pv><in>D</in>er Freund, der mir den Spiegel zeiget,
+Den kleinsten Flecken nicht ver-
+<et>schweiget,</et>
+Mich freundlich warnt, mich ernstlich
+<et>schilt,</et>
+Wenn ich nicht meine Pflicht erfüllt:
+Da&sr; ist ein Freund,
+So wenig er e&sr; scheint!</pv>
+<pv><in>D</in>och der, der mich stet&sr; schmeichelnd
+<et>preiset,</et>
+Mir alle&sr; lobt, nie wa&sr; verweiset;
+Zu Fehlern mir die Hände beut,
+Und mir vergiebt, eh ich bereut:
+Da&sr; ist ein Feind,
+So freundlich er auch scheint!</pv>
+<hr>
+<bs>B 4</bs><cw>An</cw>
+<pb="24"/>
+<kt><hr></kt>
+<pt><b>An den Schlaf.</b></pt>
+<pv><in>K</in>omm, süßer Schlaf, erquicke mich!
+Mein müde&sr; Auge sehnet sich
+Der Ruhe zu genießen,
+Komm, sanft e&sr; zuzuschließen!</pv>
+<pv><in>W</in>ie aber, Freund, o schlössest du
+Von nun an e&sr; auf ewig zu,
+Und diese Augenlieder
+Sähn nie den Morgen wieder?</pv>
+<pv><in>S</in>o wei&sr; ich, daß ein schönre&sr; Licht
+Einst meinen Schlummer unterbricht,
+Und einen Tag mir gönnet,
+Der keinen Abend kennet.</pv>
+<hr>
+<cw>Die</cw>
+<pb="25"/>
+<kt><hr></kt>
+<pt><b><g>Die Zeit.</g></b></pt>
+<pv><in>S</in>o wie ein Tropfen in dem Bach,
+Folgt in der Zeit
+Ein Augenblick dem andern nach
+Jn&sr; Meer der Ewigkeit.</pv>
+<pv><in>D</in>er jetzt noch gegenwärtig war,
+(Schon jetzt nicht mehr!)
+Entflieht für mich auf immerdar
+Ohn alle Wiederkehr.</pv>
+<pv><in>W</in>ie muß mir jeder Augenblick
+Unschätzbar seyn!
+Leg ich ihn ungenützt zurück,
+So bring ich nie ihn ein.</pv>
+<pv><in>W</in>ie viel verscherzt ich schon, wie viel!
+Sie sind dahin!
+Weg Tändeley und Puppenspiel,
+Da ich kein Kind mehr bin.</pv>
+<hr>
+<bs>B 5</bs><cw>Die</cw>
+<pb="26"/>
+<kt><hr></kt>
+<pt><b><g>Die Furcht.</g></b></pt>
+<pv><in>H</in>ier in diesen dunkeln Sträuchen
+Will ich, ganz allein,
+Meine Grillen mir verscheuchen,
+Mich de&sr; Frühling&sr; freun.</pv>
+<pv><in>P</in>hilomele soll mich lehren
+Wa&sr; sie singen kann;
+Und ich stimm auch ihr zu Ehren
+Wohl ein Liedgen an! &2014;</pv>
+<pv><in>D</in>och wa&sr; hör ich sich bewegen?
+Ah! wa&sr; rauschet dort? &2014;
+Schrecklich rauscht e&sr; mir entgegen, &2014;
+Wär ich dießmal fort! &2014;</pv>
+<pv><in>O</in>! ich zittre! ich vergehe,
+Weh mir Armen! Weh!
+Jetzund kommt e&sr; &2014; ja, ich sehe &2014;
+Ach! &2014; ein kleine&sr; Reh.</pv>
+<hr>
+<cw>Die</cw>
+<pb="27"/>
+<kt><hr></kt>
+<pt><b>Die Dohle und die Nachtigall.</b></pt>
+<pt><g>Dohle.</g></pt>
+<pv><in>K</in>leiner Schreyhal&sr; sage mir,
+Ey, wie kömmt&sr;, daß Menschen dir
+So viel Beyfall gern gewähren?
+Gleichwohl schweigt oft dein Gesang:
+Jch! ich schwatze Tage lang,
+Und mich wünscht kein Mensch zu hören!</pv>
+<pt><g>Nachtigall.</g></pt>
+<pv><in>K</in>ömmt e&sr; denn auf&sr; Schwatzen an?
+Dem, der niemal&sr; schweigen kann,
+Wird kein Kluger Lob gewähren.
+Du sprichst ohne Unterlaß,
+Jmmer einerley, und wa&sr;?
+Nicht&sr;. Da&sr; wünscht man auch zu hören!</pv>
+<hr>
+<cw>Der</cw>
+<pb="28"/>
+<kt><hr></kt>
+<pt><b><g>Der Neid.</g></b></pt>
+<pv><in>M</in>an lobt den kleinen Fritzen sehr,
+Er sey gehorsam und bescheiden,
+Verständig, fleißig, lerne mehr,
+Al&sr; ich? ihn sollt ich wohl beneiden.</pv>
+<pv><in>A</in>llein wa&sr; hilft mein Neid mir nun?
+Wird er dann weniger erhoben?
+Weit besser, e&sr; ihm vorzuthun!
+So muß man mich noch weit mehr loben.</pv>
+<hr>
+<cw>Der</cw>
+<pb="29"/>
+<kt><hr></kt>
+<pt><b>Der arme Mann.</b>
+<g>Bruder und Schwester.</g></pt>
+<pt><b>Schwester.</b></pt>
+<pv><in>B</in>ruder! sieh den armen Mann
+Doch nicht in der Näh so an!
+Wie verhungert! wie zerrissen!
+Nein, mich schaudert hinzugehn! &2014;
+Aber du? &2014; so möcht ich wissen,
+Wa&sr; du willst an ihm ersehn!</pv>
+<pt><b>Bruder.</b></pt>
+<pv><in>L</in>aß mich immer näher gehn,
+Und sein ganze&sr; Elend sehn!
+Man lernt nie sein Glück erkennen,
+Wenn man nicht da&sr; Elend kennt,
+Noch für den voll Dank entbrennen,
+Der un&sr; diese&sr; Glück gegönnt.</pv>
+<hr>
+<cw>Eitle</cw>
+<pb="30"/>
+<kt><hr></kt>
+<pt><b><g>Eitle Schönheit.</g></b>
+Der Knabe vor dem Spiegel.</pt>
+<pt><b>Der Bruder.</b></pt>
+<pv><in>O</in>! ich bin doch ein schöner Knabe!
+Da&sr; ist gewiß!
+Der Spiegel, den ich vor mir habe
+Verräth mir dieß!
+Wie sanft ist mein Gesicht! wie rund!
+Die blauen Augen schmachten!
+Und dieser kleine rothe Mund
+Jst auch nicht zu verachten.</pv>
+<pv><in>S</in>o bald ich freundlich lächle, prangen
+Die Zähn, al&sr; Elfenbein,
+Auf Ro&sr; und Lilien vollen Wangen
+Drückt sich ein Grübchen ein,
+Und ach! da&sr; güldne Haar: so soll
+Ein paar der schönsten Götterknaben,
+(Sie hießen Bacchu&sr; und Apoll)
+E&sr; einst getragen haben.</pv>
+<cw><fr>Die</fr></cw>
+<pb="31"/>
+<kt><hr></kt>
+<pt><b>Die Schwester.</b></pt>
+<pv><in>M</in>ein lieber Bruder, vor dem Jahre
+War ich, wie du, so schön!
+Wa&sr; hatt ich da für schwarze Haare?
+Du hast sie noch gesehn.
+Da lobte jede&sr; dieß Gesicht
+Bewundernd um die Wette,
+Und schwur, e&sr; sey kein Mädchen nicht
+So schön, al&sr; Henriette.</pv>
+<pv><in>A</in>llein die Schönheit ist vergangen.
+Da kam der Blattern Wuth,
+Zerriß mir diese glatten Wangen,
+Löscht au&sr; der Augen Gluth:
+Doch glaube nicht, daß mich&sr; verdrüßt.
+Nein, e&sr; hat mich gelehret,
+Daß da&sr; nur wahre Schönheit ist,
+Wa&sr; keine Zeit zerstöret.</pv>
+<hr>
+<cw>Der</cw>
+<pb="32"/>
+<kt><hr></kt>
+<pt><b><g>Der Greiß.</g></b></pt>
+<pv><in>D</in>ort fiel ein armer alter Greiß!
+Sein Haupt war wie ein Silber
+<et>weiß,</et>
+Und ihm versagt sein zitternd Knie,
+Und ach &2014; die bösen Knaben die,
+Wie lachten sie!</pv>
+<pv><in>M</in>ich dauert dieser gute Mann!
+Wer eine&sr; Alten spotten kann,
+Jst der wohl werth, ietzt jung zu seyn?
+Jst der wohl werth, einst alt zu seyn?
+Wahrhaftig, nein!</pv>
+<hr>
+<cw>Der</cw>
+<pb="33"/>
+<kt><hr></kt>
+<pt><b><g>Der Fleiß.</g></b></pt>
+<pv><in>S</in>üßer, angenehmer Fleiß!
+O wie herrlich ist der Preiß,
+Den er jedem Jüngling beut,
+Der ihm seine Kräfte weiht.</pv>
+<pv><in>W</in>enn die Langenweile gähnt
+Und sich krank nach Possen sehnt,
+Hüpft in froher Thätigkeit
+Die ihm nie zu lange Zeit.</pv>
+<pv><in>J</in>a, auf seidnen Schwingen fliehn
+Seine Stunden vor ihm hin:
+Den verlohrnen Augenblick,
+Nicht&sr; sonst, wünscht er sich zurück.</pv>
+<pv><in>E</in>r ist stark, gesund und frisch,
+Arbeit würzet ihm den Tisch,
+Und kein kranker Ekel schleicht
+Sich zu seiner Mahlzeit leicht.</pv>
+<pv><in>W</in>enn er winkt, drückt ihm die Ruh
+Seine Augen willig zu:
+Nie hat ihn ein Traum geweckt,
+Der im Schlummer ihn geschreckt.</pv>
+<bs>C</bs><cw>Er</cw>
+<pb="43"/>
+<kt><hr></kt>
+<pv><in>E</in>r begegnet allemal
+Früh dem ersten Sonnenstral,
+Wenn er, munterm Fleiß geneigt,
+Von den Bergen nieder steigt.</pv>
+<pv><in>J</in>n der Jahre reifern Lauf
+Suchen Ehr und Würd ihn auf:
+Glück und Seegen warten sein,
+Um sein Alter zu erfreun.</pv>
+<pv><in>A</in>ller Orten trifft er dann
+Früchte seiner Arbeit an,
+Keinen Augenblick der Zeit,
+Die er nun umsonst bereut.</pv>
+<pv><in>A</in>uch im Alter, auch al&sr; Greiß
+Jst er munter und voll Fleiß,
+Und ihn trägt kein falscher Stab
+An sein ruhig&sr;, späte&sr; Grab.</pv>
+<hr>
+<cw>Die</cw>
+<pb="35"/>
+<kt><hr></kt>
+<pt><b><g>Die Eule.</g></b></pt>
+<pv><in>D</in>ie Eule scheut da&sr; Sonnenlicht
+Und kriecht in finstre Höhlen.
+Warum? weil ihre Werke nicht
+Den Menschen sich empfehlen.</pv>
+<pv><in>M</in>ich übereile keine That,
+Die ich einst muß bereuen!
+Denn wer ein gut Gewissen hat,
+Braucht nie den Tag zu scheuen.</pv>
+<hr>
+<bs>C 2</bs><cw>Da&sr;</cw>
+<pb="36"/>
+<kt><hr></kt>
+<pt><b>Da&sr; äußerliche Ansehn.</b></pt>
+<pv><in>U</in>nter schön gewach&sr;nen Bäumen
+Stand ein niedrer krummer Baum:
+Sie in ihrer Hoheit Träumen,
+Gönnten ihm da&sr; Leben kaum:
+O kömmt nur der Zimmermann,
+Sprachen sie, so muß du dran!</pv>
+<pv><in>D</in>och schon kömmt er angestiegen, &2014;
+Wie? wa&sr; fällt dem Thoren ein?
+Sie bemerkt er mit Vergnügen,
+Sollt&sr; auf sie gemünzet seyn?
+Himmel! alle haut er um,
+Dieser bleibt, denn er war krumm.</pv>
+<hr>
+<pv><in>O</in> man trotze nicht auf Erden
+Auf Gestalt und äußre Pracht:
+Da&sr; kann oft zum Fall un&sr; werden,
+Wa&sr; un&sr; stolz und eitel macht.
+Wer nicht sehr in&sr; Auge fällt,
+Den beneidet nicht die Welt.</pv>
+<hr>
+<cw>Klage-</cw>
+<pb="37"/>
+<kt><hr></kt>
+<pt><b>Klagelied eine&sr; Knaben</b>
+auf ein junge&sr; Mädchen.</pt>
+<pv><in>D</in>ieß bange Klaggetöne
+Gilt da&sr; Amalien?
+Wie hab ich nicht die Schöne
+Vor kurzem noch gesehn?
+O ja, mit ihren Schwestern
+Gieng sie noch ehegestern,
+Zum frohen Tanz
+Jn einem Blumenkranz.</pv>
+<pv><in>W</in>ie die Orangenblüte,
+So glänzt ihr Angesicht,
+Und selbst die Rose glühte
+Darunter schöner nicht:
+Am Abend von dem Tage,
+War ihre letzte Klage,
+Daß ganz und gar
+Jhr Kranz entblättert war.</pv>
+<bs>C 3</bs><cw>Wer</cw>
+<pb="38"/>
+<kt><hr></kt>
+<pv><in>W</in>er hätt ihr sollen sagen,
+Daß wir in nächster Nacht
+Sie würden so beklagen,
+Wie sie de&sr; Kranze&sr; Pracht.
+Die Blume &2014; unter allen
+Die schönste ist gefallen &2014;
+Sie fällt herab,
+So früh verwelkt, in&sr; Grab!</pv>
+<pv><in>W</in>o seyd ihr süßen Rosen,
+Wo seyd ihr hingeflohn?
+Statt euch noch lieb zu kosen,
+Eilt man behend davon.
+Wie schlecht schmückt sie die Seide
+Von ihrem Sterbekleide,
+Und dieß ist doch
+An ihr da&sr; schönste noch.</pv>
+<cw>Bald</cw>
+<pb="39"/>
+<kt><hr></kt>
+<pv><in>B</in>ald wird man den Gebeinen
+Den letzten Dienst verleihn,
+Um sie nicht weiter weinen
+Und sie vergessen seyn!
+Jch will ihr Blumen streuen,
+So oft sie sich verneuen &2014;
+Doch wer sagt mir,
+Wie lange bin ich hier!</pv>
+<hr>
+<bs>C 4</bs><cw>Da&sr;</cw>
+<pb="40"/>
+<kt><hr></kt>
+<pt><b><g>Da&sr; Geschenk.</g></b>
+Der Bruder an die Schwester.</pt>
+<pv><in>S</in>ieh! kann ein Apfel schöner seyn?
+Ja Schwester, eine Augenweide!
+Wie muß nicht sein Geschmack erfreun,
+Macht schon sein Anblick solche Freude.</pv>
+<pv><in>S</in>ein lieblicher Geruch, wie hold!
+Jn gelben roth durchstreiften Schaalen,
+Glänzt ein Rubin gefaßt in Gold:
+Kein Maler kann den Apfel malen.</pv>
+<pv><in>D</in>u möchtest ihn? ich geb ihn dir,
+Ja, hätt ich auch noch schönre Sachen!
+Schön ist e&sr;, glücklich seyn: Doch mir
+Jst e&sr; weit schöner, glücklich machen.</pv>
+<hr>
+<cw>Der</cw>
+<pb="41"/>
+<kt><hr></kt>
+<pt><b>Der Vorwitz da&sr; Künftige
+zu wissen.</b></pt>
+<pv><in>G</in>ütig hüllt in Finsternissen
+Gott die Zukunft ein:
+Deutlich sie vorau&sr; zu wissen
+Würde Strafe seyn.</pv>
+<pv><in>S</in>äh ich Glück auf meinem Wege;
+Würd ich stolz mich blähn,
+Und leichtsinnig oder träge
+Meinen Zweck versehn.</pv>
+<pv><in>S</in>äh ich Unglück; würd ich zittern:
+Und die künftge Zeit
+Würde mir da&sr; Glück verbittern,
+Da&sr; mich ietzt erfreut.</pv>
+<pv><in>W</in>a&sr; ich habe, will ich nützen,
+Fernen Gram nicht scheun:
+Und soll ich ein Glück besitzen,
+Meine&sr; Glück&sr; mich freun.</pv>
+<hr>
+<bs>C 5</bs><cw>Unüber-</cw>
+<pb="42"/>
+<kt><hr></kt>
+<pt><b>Unüberlegter Wunsch.</b>
+Der Mann und der Knabe.</pt>
+<pt><b>Der Knabe.</b></pt>
+<pv><in>D</in>ieß braune Pferd &2014; welch schöne&sr;
+<et>Thier!</et>
+O lieber Mann, erlaubet mir
+Ein wenig drauf herum zu traben,
+Wa&sr; wollt ich nicht für Freude haben!</pv>
+<pt><b>Der Mann.</b></pt>
+<pv><in>P</in>rüf deine Kräfte dich zuvor,
+Eh du wa&sr; wünschest, kleiner Thor!
+Weist du ein Pferd auch zu regieren,
+Um nicht dein Leben zu verlieren?</pv>
+<hr>
+<cw>Der</cw>
+<pb="43"/>
+<kt><hr></kt>
+<pt><b><g>Der Seiltänzer.</g></b></pt>
+<pv><in>J</in>ch hab ihn gesehen,
+Den künstlichen Mann,
+Auf einem Seile gehen,
+So gut ich&sr; auf der Ebne kann.</pv>
+<pv><in>J</in>ch muß e&sr; wohl sagen,
+Da&sr; fordert viel Müh:
+Doch möcht ich etwa&sr; fragen:
+Die seltne Kunst &2014; wa&sr; nützet sie?</pv>
+<hr>
+<cw>Da&sr;</cw>
+<pb="44"/>
+<kt><hr></kt>
+<pt><b><g>Da&sr; Lamm.</g></b></pt>
+<pv><in>W</in>ie nah, du arme&sr; Lämmgen, du,
+Wie nahe gehst du mir!
+Noch spielst du sorglo&sr; und in Ruh,
+Und ach! wa&sr; drohet dir!</pv>
+<pv><in>D</in>en, der dir ietzt da&sr; Futter giebt,
+Hältst du für einen Freund? &2014;
+Dich liebt er, weil er sich nur liebt
+Und ist dein ärgster Feind!</pv>
+<pv><in>D</in>ie rothe Schleife, welche sich
+Jetzt um dein Häl&sr;chen schlingt,
+Ach! ist da&sr; Band, woran man dich
+Zum Tode morgen bringt.</pv>
+<pv><in>U</in>nd diese Hand &2014; mit sanftem Muth
+Wird sie von dir geküßt?
+O! wüßtest du, daß morgen Blut,
+Dein Blut von dieser fließt!</pv>
+<pv><in>W</in>ohl dir! genieß in Glück und Ruh
+Der kurzen Leben&sr;frist:
+Wa&sr; hülf e&sr; dir: ach wüßtest du,
+Wa&sr; dir beschieden ist!</pv>
+<hr>
+<cw>Da&sr;</cw>
+<pb="45"/>
+<kt><hr></kt>
+<pt><b>Da&sr; größte Glück.</b></pt>
+<pv><in>V</in>on dem Glücke alle Gaben,
+Reichthum, Ehr und Schätze haben,
+Dieß ist zwar, ich muß gestehn,
+Wünschen&sr;werth und wunderschön.</pv>
+<pv><in>D</in>och da&sr; größte Glück auf Erden,
+Da&sr; un&sr; kann zu Theile werden,
+Jst de&sr; Glück&sr;, deß wir un&sr; freun,
+Ja, de&sr; größten würdig seyn.</pv>
+<hr>
+<cw>Ein</cw>
+<pb="46"/>
+<kt><hr></kt>
+<pt><b>Ein kleine&sr; Unrecht.</b></pt>
+<pv><in>M</in>einen Vetter Christian
+Wagt&sr; ein Bienchen einst zu stechen:
+Zornig sprach der kleine Mann,
+Wart, nur wart, ich will mich rächen!</pv>
+<pv><in>P</in>lötzlich brach mit kühner Hand,
+Er vom nächsten Busche Reiser,
+Schlug, und warf mit unter Sand
+An der armen Bienen Häuser.</pv>
+<pv><in>D</in>och der kleinen Vögel Heer
+Ließ die Schmach nicht ungerochen,
+Alle&sr; fiel ihn an, und er
+Wurde jämmerlich zerstochen.</pv>
+<pv>&201E;<in>D</in>ieß war, rief er, deine Schuld,
+&q;Wird mein Jnformator sagen:
+&q;Lerne künftig in Geduld
+&q;Ein geringe&sr; Unrecht tragen!&201E;</pv>
+<hr>
+<cw>Der</cw>
+<pb="47"/>
+<kt><hr></kt>
+<pt><b>Der Schneemann.</b></pt>
+<pv><in>D</in>er schöne Schneemann &2014; ey wie
+<et>groß,</et>
+Ein riesenmäßiger Coloß!
+Doch ach! die liebe Sonne scheint,
+Und er zerrinnt, eh man&sr; gemeint.</pv>
+<pv><in>J</in>hm gleicht ein eitler leerer Kopf,
+Von weitem glänzt der arme Tropf,
+Doch der Verstand beleucht ihn nur,
+So schmilzt die schimmernde Figur.</pv>
+<hr>
+<cw>Der</cw>
+<pb="48"/>
+<kt><hr></kt>
+<pt><b><g>Der Mond.</g></b></pt>
+<pv><in>W</in>ie süß und freundlich lacht
+De&sr; Monden stille Pracht,
+Den ich von jener Höh
+Herüber steigen seh.</pv>
+<pv><in>J</in>ch sehe glänzend ihn
+Auf jenen Bäumen glühn,
+So wie der Phönix ruht
+Jn seinem Rest voll Gluth.</pv>
+<pv><in>A</in>llein sein silbern Bild
+Jst ruhig, lieblich, mild,
+Er lächelt jedem Ruh
+Und süße Stille zu.</pv>
+<pv><in>D</in>ie Wei&sr;heit gleichet ihm,
+Nie wild und ungestüm,
+Die jedem, der sie liebt,
+Auch gleiche Sanftmuth giebt.</pv>
+<cw>Sein</cw>
+<pb="49"/>
+<kt><hr></kt>
+<pv><in>S</in>ein liebreich Angesicht
+Färbt sich vom Sonnenlicht,
+Warum denn? ohne dieß
+Bedeckt e&sr; Finsterniß.</pv>
+<pv><in>S</in>o muß der Tugend Schein
+Der Wei&sr;heit Glanz verleihn &2014;
+Dich, Wei&sr;heit, such auch ich,
+Doch, Tugend, bloß durch dich!</pv>
+<hr>
+<bs>D</bs><cw>An</cw>
+<pb="50"/>
+<kt><hr></kt>
+<pt><b><g>An die Lerchen.</g></b></pt>
+<pv><in>H</in>immel, ach! ist da&sr; der Dank?
+Kann der reizende Gesang,
+Den, wenn sich der Lenz verjüngt,
+Jhr der frohen Erde bringt,
+Euch für diese Wuth nicht bürgen,
+Daß die Menschen Euch erwürgen?</pv>
+<pv><in>A</in>rme kleine Lerchen, ach!
+Jch, ich fühle Eure Schmach:
+Fiel e&sr; mir auch zehnmal ein,
+Nie will ich so grausam seyn &2014;
+Doch, bald hätt ich e&sr; vergessen,
+Daß wir heute Lerchen essen.</pv>
+<hr>
+<cw>Der</cw>
+<pb="51"/>
+<kt><hr></kt>
+<pt><b><g>Der Gehorsam.</g></b></pt>
+<pv><in>M</in>ein Hundchen ist ein gute&sr; Thier,
+So bald ich rufe, folgt er mir,
+Doch kömmt er nicht, wenn ich&sr; ihm sage,
+So ist er werth, daß ich ihn schlage.</pv>
+<pv><in>B</in>estrafet mich mein Vater nun,
+Will ich nicht seinen Willen thun,
+Darf ich e&sr; denn so übel nehmen? &2014;
+Mich würde ja mein Hund beschämen.</pv>
+<hr>
+<bs>D 2</bs><cw>Der</cw>
+<pb="52"/>
+<kt><hr></kt>
+<pt><b>Der thörichte Wunsch.</b></pt>
+<pv><in>O</in> daß ich nicht ein Vogel bin,
+So schnell und federleicht,
+Der über Berg und Thäler hin
+Jn Augenblicken streicht.</pv>
+<pv><in>D</in>ann flöh ich über Land und See,
+Durchreiste jeden Ort,
+Wär bald im Thal, bald in der Höh,
+Bald hier, bald wieder dort.</pv>
+<pv><in>D</in>ann sucht ich stet&sr; den Ort mir au&sr;,
+Wo Lenz und Sommer blühn,
+Und baute mir mein flüchtig Hau&sr;
+An schönsten Oertern hin.</pv>
+<pv><in>B</in>ald schwäng ich mit der Lerche Schall
+Jn Lüften mich empor:
+Bald schlüg ich, wie die Nachtigall,
+Au&sr; dunkeln Sträuchen vor.</pv>
+<cw>Bald</cw>
+<pb="53"/>
+<kt><hr></kt>
+<pv><in>B</in>ald flög ich, wie ein Adler fliegt &2014;
+Doch &2014; welch ein Schuß geschah?
+O weh! ein armer Vogel liegt
+Jn seinem Blute da.</pv>
+<pv><in>W</in>ohl mir! daß nicht mein Wunsch
+<et>gelang,</et>
+Wie sollt e&sr; mich gereun!
+Wie groß ist, Gott, Gott sey e&sr; Dank!
+Da&sr; Glück ein Mensch zu seyn!</pv>
+<hr>
+<bs>D 3</bs><cw>Der</cw>
+<pb="54"/>
+<kt><hr></kt>
+<pt><b><g>Der Schatten.</g></b></pt>
+<pv><in>D</in>a läuft mein Schatten vor mir hin:
+O seht doch! seht! wie groß ich bin!
+Mich wagt man Klein zu nennen? &2014;
+Doch ach! weg war ich! seh ich&sr; nicht,
+Ein Wölkchen deckt der Sonne Licht?
+So kann man sich verkennen!</pv>
+<pv><in>D</in>er Herr dort, der sich vornehm
+<et>bläht,</et>
+Lacht: doch wer weiß, wie&sr; ihm ergeht,
+So groß wir ihn ietzt nennen.
+E&sr; nehme nur ein neidisch Glück
+Den güldnen Sonnenschein zurück:
+So wird man ihn nicht kennen!</pv>
+<hr>
+<cw>Die</cw>
+<pb="55"/>
+<kt><hr></kt>
+<pt><b><g>Die Bienen.</g></b></pt>
+<pv><in>T</in>ragt nur in die Zellen ein,
+Kleine Honigsammlerinnen:
+Jetzt bey warmen Sonnenschein
+Sucht Jhr Schätze zu gewinnen:
+Müßiggänger haßt man hier;
+Fleiß und Arbeit sind Euch Freude,
+Und da&sr; Beste sammelt Jhr
+Auf der blumenvollen Weide.</pv>
+<pv><in>W</in>enn dann einst der rauhe Nord
+Ueber jene Hügel streichet
+Und der Flora Kinder dort,
+Von der bunten Flur verscheuchet;
+Dann sitzt Jhr in Sicherheit:
+Voll sind Eure Vorrath&sr;kammern,
+Und Euch lehrt die Dürftigkeit
+Nicht vor andern Thüren jammern.</pv>
+<bs>D 4</bs><cw>Doch</cw>
+<pb="56"/>
+<kt><hr></kt>
+<pv><in>D</in>och Jhr sorgt nicht nur für Euch:
+Nein, bey Eurem süßen Fleiße
+Seyd Jhr auch für andre reich,
+Dankbegierig, milde, weise:
+Jhr verzinnßt da&sr; kleine Hau&sr;
+Reichlich dem, der e&sr; erbauet,
+Und der leiht mit Wucher au&sr;,
+Der Euch in der Theurung trauet.</pv>
+<pv><in>E</in>uer blühende&sr; Geschlecht
+Möge jährlich sich vermehren,
+Und da&sr; weise Bürgerrecht
+Nie ein falscher Fremdling stören!
+Blumen will ich pflanzen, hier
+Jede&sr; Blümchen&sr; sorgsam schonen,
+Und Jhr sollet mich dafür
+Einst mit Honigseim belohnen.</pv>
+<hr>
+<cw>Die</cw>
+<pb="57"/>
+<kt><hr></kt>
+<pt><b>Die Liebling&sr; Leidenschaft.</b></pt>
+<pt>Schwester.</pt>
+<pv><in>D</in>u kleiner Trommelschläger Du,
+Wenn hörst Du einmal auf zu
+<et>schwärmen?</et>
+So sitze doch einmal in Ruh!
+Kein Ende hat da&sr; Stunden lange Lärmen.</pv>
+<pt>Bruder.</pt>
+<pv><in>D</in>u kleine Puppentändlerinn,
+Du hast auch wohl zu reden Ehre:
+Du bringst die Zeit mit Puppen hin,
+Al&sr; ob dieß nicht so gut al&sr; Trommeln
+<et>wäre.</et></pv>
+<pt>Schwester.</pt>
+<pv><in>S</in>ich zu vergnügen ist auch Pflicht;
+Doch werd ich damit niemand plagen,
+Für mich schickt sich da&sr; Trommeln nicht:
+Doch Puppenspiel; da&sr; mußt du selber
+<et>sagen.</et></pv>
+<bs>D 5</bs><cw>Bru-</cw>
+<pb="58"/>
+<kt><hr></kt>
+<pt>Bruder.</pt>
+<pv><in>J</in>ch sag, ein&sr; ist da&sr; andre werth,
+Du bist so klug, al&sr; ich mir scheine;
+Ein jede&sr; liebt sein Steckenpferd:
+Die Pupp ist dein&sr;, die Trommel ist da&sr;
+<et>meine.</et></pv>
+<hr>
+<cw>Der</cw>
+<pb="59"/>
+<kt><hr></kt>
+<pt><b>Der Schmetterling.</b></pt>
+<pv><in>O</in> seht den bunten Schmetterling,
+Welch glänzend allerliebste&sr; Ding!
+Wie ist ihm doch geschehen!
+Al&sr; ich ihn kürzlich noch gesehen,
+War e&sr; ein kriechend garstge&sr; Thier,
+Nur Ekel macht e&sr; mir.</pv>
+<pv><in>D</in>ieß soll mir eine Lehre seyn,
+Nie auf den äußerlichen Schein
+Blo&sr; mein Vertraun zu setzen.
+Der, den wir ietzt verächtlich schätzen,
+Vielleicht wird da&sr; ein größrer Mann,
+Al&sr; ich nie werden kann.</pv>
+<hr>
+<cw>Der</cw>
+<pb="60"/>
+<kt><hr></kt>
+<pt><b><g>Der Kräusel.</g></b></pt>
+<pv><in>M</in>ein Kräusel hüpfet froh umher,
+Wenn ich ihn fleißig treibe,
+Doch ganz unthätig lieget er,
+Wenn ich in Ruhe bleibe.</pv>
+<pv><in>W</in>er stet&sr; dem Glück im Schooße
+<et>ruht,</et>
+Wird oft zur Tugend träge:
+Doch er wird thätig, weise, gut,
+Fühlt er de&sr; Unglück&sr; Schläge.</pv>
+<hr>
+<cw>Der</cw>
+<pb="61"/>
+<kt><hr></kt>
+<pt><b><g>Der Morgen.</g></b></pt>
+<pv><in>W</in>illkommen schöner Morgen!
+Wie groß ist deine Pracht!
+Sie bliebe mir verborgen,
+Wär ich nicht früh erwacht:
+Lust, Wunder und Entzücken
+Begegnen meinen Blicken,
+Wohin ich immer seh,
+Jm Thal und auf der Höh.</pv>
+<pv><in>E</in>&sr; glühn der Berge Spitzen
+Von güldnem Sonnenstrahl;
+Von Diamanten blitzen
+Die Pflänzgen überall.
+Jn Luft und auf der Weide
+Ertönt da&sr; Lied der Freude,
+Und weckt in süßem Schall
+Den dankbarn Wiederhall.</pv>
+<bs>E</bs><cw>Jhr</cw>
+<pb="62"/>
+<kt><hr></kt>
+<pv><in>J</in>hr wißt nicht, reiche Prasser,
+Wa&sr; ihr für Glück verschlaft?
+Seyd eure eignen Hasser,
+Und durch euch selbst bestraft!
+Verschlaft die schönsten Stunden,
+Nie sey von euch empfunden,
+Wa&sr; diese schöne Welt
+Für Wunder in sich hält.</pv>
+<pv><in>J</in>ch will e&sr; aber fühlen. &2014;
+Jndem die Weste mir
+Jn Locken lieblich spielen,
+Sitz und betracht ich hier.
+Gott! ist mein irrdisch Leben
+Mit so viel Glück umgeben,
+Wa&sr; wird der Wohnplatz seyn,
+Der un&sr; dort soll erfreun!</pv>
+<hr>
+<cw>Da&sr;</cw>
+<pb="63"/>
+<kt><hr></kt>
+<pt><b><g>Da&sr; Vogelnest.</g></b></pt>
+<pv><in>D</in>a hab ich e&sr;, da&sr; Hänfling&sr;nest!
+Nun ist mir&sr; endlich doch gelungen:
+Da&sr; ganze Nest und mit vier Jungen: &2014;
+Ja sträubt Euch nur, ich halt Euch fest.</pv>
+<pv><in>D</in>och wie barmt nicht der Aeltern
+<et>Paar!</et>
+Soll oder soll ich sie nicht nehmen?
+Nein, nein, deß müßt ich mich ja schämen,
+Jch handelte, wie ein Barbar.</pv>
+<pv><in>W</in>ie oft hat mich nicht ihr Gesang,
+Lag ich im Grase dort gestrecket,
+Zu Harmonie und Lust erwecket,
+Und dieß wär nun der ganze Dank?</pv>
+<pv><in>J</in>ch riß ihr arme&sr; Häu&sr;chen ab,
+Da&sr; sie nach Gastrecht mir vertrauet,
+Von Moo&sr; und Stroh sich selbst erbauet,
+Zu dem ich nicht ein Hälmchen gab.</pv>
+<bs>E 2</bs><cw>Wenn</cw>
+<pb="64"/>
+<kt><hr></kt>
+<pv><in>W</in>enn eine räuberische Hand
+Mich meinen Aeltern nun entrissen?
+Wa&sr; würden da für Thränen fließen,
+Wie jammervoll wär unser Stand!</pv>
+<pv><in>N</in>ein, liebe Sänger, bleibt in Ruh,
+Hier habt Jhr Eure Kinder wieder:
+Vervielfacht singt Jhr Eure Lieder,
+Mir dann auf&sr; nächste Frühjahr zu.</pv>
+<hr>
+<cw>Ermah-</cw>
+<pb="65"/>
+<kt><hr></kt>
+<pt><b>Ermahnung an zwey
+Kinder.</b></pt>
+<pv><in>S</in>üße&sr; Mädchen, holder Knabe!
+Spielt nur, spielt in meinem Schooß!
+Wenn ich Euch in Armen habe,
+Bin ich wie ein König groß.
+Euer Stammeln, Euer Lallen,
+Jst für mich Beredsamkeit:
+Euer Wunsch, mir zu gefallen,
+Wollust und Zufriedenhelt.</pv>
+<pv><in>W</in>enn mich Eure Händchen streicheln,
+Sanft mir Euer Auge lacht:
+O so hab ich auf da&sr; Schmeicheln
+Einer ganzen Welt nicht Acht.
+Gern misch ich in Eure Spiele
+Mich mit froher Nachsicht ein.
+O de&sr; Glück&sr;! daß ich dann fühle
+Wieder einmal Kind zu seyn.</pv>
+<bs>E 3</bs><cw>Ja,</cw>
+<pb="66"/>
+<kt><hr></kt>
+<pv><in>J</in>a, geliebte, zarte Beyde,
+Tausendmal umarm ich Euch!
+Jmmerdar sey Eure Freude
+Eurer jetzgen Freude, gleich.
+Unschuld wohn in Euern Herzen,
+Keine Bo&sr;heit komm in sie!
+Jhr könnt singen, tanzen, scherzen,
+Nur verscherzt die Tugend nie!</pv>
+<hr>
+<abb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
+<pb>
