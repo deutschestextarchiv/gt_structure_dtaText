@@ -58,7 +58,7 @@ Tab 1: Concordance between data repositories text and segmentation
 
 | Format           | Kommentar | 
 | --------         | --------  | 
-| txt              | vom Dienstleister kommenden Daten, Transkriptionen (UTF8, Ansi-Format)                        | 
+| txt              | vom Dienstleister gelieferte Daten, Transkriptionen (UTF8, Ansi-Format)                        | 
 | txt.xml          | TEI-DTABf-Endversion                                                                          | 
 
 
