@@ -22,7 +22,7 @@ Für die Nutzung von Ground Truth (GT) ist der Bestand, der im Double Keying-Ver
 * Der Schwerpunkt der DTA-Richtlinen bildete die vorlagentreue Wiedergabe des analogen Textes in digitaler Form mit Übernahme aller vorhandener Druckfehler. Eine Normalisierung wurde nicht vorgenommen.
 * Neben der Transkription wurde eine manuelle sematische Segmentierung vorgenommen. Die Segmentierung diente jedoch der manuellen und nicht der automatischen Text-Struktur-Erfassung.
 
-![image](https://github.com/tboenig/gt_structure_dtaText/assets/26142921/d9b8edde-1fd9-4823-8a40-23bc9ea968d1)<br/>
+![image](https://github.com/tboenig/gt_structure_dtaText/assets/26142921/cbe87861-cea2-4585-9169-eabc36bad2bf)<br/>
 Fig 1: Complex representation of the DTA data workflow
 
 ## Segmentierungdaten
