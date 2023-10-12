@@ -67,5 +67,4 @@ Tab 1: Concordance between data repositories text and segmentation
     * Dokumentation der Konvertierungsrichtline DTA: https://tboenig.github.io/ConversionDTABf/html/taskbook/konvertierung.html
 
 ## Ground Truth
-- OCR-D GT-Guidelines
--   https://tboenig.github.io/gt-guidelines/html/trans/index.html
+- [OCR-D GT-Guidelines](https://tboenig.github.io/gt-guidelines/html/trans/index.html)
