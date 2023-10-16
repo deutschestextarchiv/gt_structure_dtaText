@@ -63,7 +63,7 @@ Tab 1: Concordance between data repositories text and segmentation
 
 
 * Dokumentation: Erfassungs- und Konvertierungsrichtline DTA
-    * [Arbeitsanweisung zur manuellen Erfassung von Texten im DTAsimple-Format für das Deutsche Textarchiv](https://kaskade.dwds.de/~matthias/DTA4doc/docu_transcription/Arbeitsanweisung_Texterfassung_20190710.pdf)
+    * [Arbeitsanweisung zur manuellen Erfassung von Texten im DTAsimple-Format für das Deutsche Textarchiv](https://github.com/tboenig/gt_structure_dtaText/blob/main/docu/Arbeitsanweisung_Texterfassung_20190710.pdf)
     * [Dokumentation der Konvertierungsrichtline DTA](https://tboenig.github.io/ConversionDTABf/html/taskbook/konvertierung.html)
 
 ## Ground Truth
