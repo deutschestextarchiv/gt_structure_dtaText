@@ -17,7 +17,7 @@ Zur Datenerfassung nutzte das DTA folgende Methoden:
 Für die Nutzung von Ground Truth (GT) ist der Bestand, der im Double Keying-Verfahren erstellten Daten, am interessantesten.
 * Diese Daten betreffen den größten Teil des DTA-Bestandes.
 * Mit OCR wurden vor allem nur Titel des 19. und Mitte des 18. Jahrhunderts erfasst. Für dieses Schrifttum exitieren gute und stabile OCR-Modelle sowie sind die OCR-Engines im Umgang mit diesen Dokumenten optimiert. Aus diesem Grund ist der Bedarf nach GT für diese Dokumente nicht schwerpunktmäßig zu betrachten. Die Dokumente die aus dem Zeitraum Ende 17. Jh. und des 16. Jh. stammen, wurden ausschließlich mit dem Double-Keying-Verfahren erfasst.
-* Das Double-Keying-Verfahren wurde von nicht Muttersprachlern vorgenommen und ist sehr genau. Die Genauigkeit kann mit 99,99 % angesetzt werden.
+* Das Double-Keying-Verfahren wurde von nicht Muttersprachlern vorgenommen und ist sehr genau. Die Genauigkeit kann mit 99,99 %[^1] angesetzt werden.
 * Die Erfassung im Double-Keying-Verfahren erfolgte nach den DTA-Richtlinien.
 * Der Schwerpunkt der DTA-Richtlinen bildete die vorlagentreue Wiedergabe des analogen Textes in digitaler Form mit Übernahme aller vorhandener Druckfehler. Eine Normalisierung wurde nicht vorgenommen.
 * Neben der Transkription wurde eine manuelle sematische Segmentierung vorgenommen. Die Segmentierung diente jedoch der manuellen und nicht der automatischen Text-Struktur-Erfassung.
@@ -68,3 +68,6 @@ Tab 1: Concordance between data repositories text and segmentation
 
 ## Ground Truth
 - [OCR-D GT-Guidelines](https://tboenig.github.io/gt-guidelines/html/trans/index.html)
+
+## Footnotes
+[^1]: Susanne Haaf, Frank Wiegand, Alexander Geyken: Measuring the Correctness of Double-Keying: Error Classification and Quality Control in a Large Corpus of TEI-Annotated Historical Text. In: Journal of the Text Encoding Initiative (jTEI) 4, 2013. [doi](https://doi.org/10.4000/jtei.739)
