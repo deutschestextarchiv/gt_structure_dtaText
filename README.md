@@ -22,7 +22,7 @@ Für die Nutzung von Ground Truth (GT) ist der Bestand, der im Double Keying-Ver
 * Der Schwerpunkt der DTA-Richtlinen bildete die vorlagentreue Wiedergabe des analogen Textes in digitaler Form mit Übernahme aller vorhandener Druckfehler. Eine Normalisierung wurde nicht vorgenommen.
 * Neben der Transkription wurde eine manuelle sematische Segmentierung vorgenommen. Die Segmentierung diente jedoch der manuellen und nicht der automatischen Text-Struktur-Erfassung.
 
-![image](https://github.com/tboenig/gt_structure_dtaText/assets/26142921/cbe87861-cea2-4585-9169-eabc36bad2bf)<br/>
+![image](https://github.com/deutschestextarchiv/gt_structure_dtaText/assets/26142921/cbe87861-cea2-4585-9169-eabc36bad2bf)<br/>
 Fig 1: Complex representation of the DTA data workflow
 
 ## Segmentierungdaten
@@ -36,21 +36,21 @@ Tab 1: Concordance between data repositories text and segmentation
 
 |Text-Corpus       | Segmentation-Corpus|
 | --------         | --------           | 
-|[gt_structure_1](https://github.com/tboenig/gt_structure_dtaText/tree/main/corpus/gt_structure_1)    | https://tboenig.github.io/gt_structure_1_1/|
-|                  |https://tboenig.github.io/gt_structure_1_2/|
-|                  |https://tboenig.github.io/gt_structure_1_3/|
-|                  |https://tboenig.github.io/gt_structure_1_4/|
-|[gt_structure_2](https://github.com/tboenig/gt_structure_dtaText/tree/main/corpus/gt_structure_2)    |https://tboenig.github.io/gt_structure_2_1/|
-|                  |https://tboenig.github.io/gt_structure_2_2/|
-|                  |https://tboenig.github.io/gt_structure_2_3/|
+|[gt_structure_1](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_1)    | https://tboenig.github.io/gt_structure_1_1/|
+|                  |https://ocr-d.github.io/gt_structure_1_2/|
+|                  |https://ocr-d.github.io/gt_structure_1_3/|
+|                  |https://ocr-d.github.io/gt_structure_1_4/|
+|[gt_structure_2](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_2)    |https://tboenig.github.io/gt_structure_2_1/|
+|                  |https://ocr-d.github.io/gt_structure_2_2/|
+|                  |https://ocr-d.github.io/gt_structure_2_3/|
 |                  |https://tboenig.github.io/gt_structure_2_4/|
-|[gt_structure_3](https://github.com/tboenig/gt_structure_dtaText/tree/main/corpus/gt_structure_3)    |https://tboenig.github.io/gt_structure_3_1/|
-|                  |https://tboenig.github.io/gt_structure_3_2/|
-|                  |https://tboenig.github.io/gt_structure_3_3/|
-|[gt_structure_4](https://github.com/tboenig/gt_structure_dtaText/tree/main/corpus/gt_structure_4)    |https://tboenig.github.io/gt_structure_4_1/|
-|                  |https://tboenig.github.io/gt_structure_4_2/|
+|[gt_structure_3](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_3)    |https://tboenig.github.io/gt_structure_3_1/|
+|                  |https://ocr-d.github.io/gt_structure_3_2/|
+|                  |https://ocr-d.github.io/gt_structure_3_3/|
+|[gt_structure_4](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_4)    |https://tboenig.github.io/gt_structure_4_1/|
+|                  |https://ocr-d.github.io/gt_structure_4_2/|
 |                  |https://tboenig.github.io/gt_structure_4_3/|
-|[gt_structure_5](https://github.com/tboenig/gt_structure_dtaText/tree/main/corpus/gt_structure_5)    |https://tboenig.github.io/gt_structure_5_1/|
+|[gt_structure_5](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_5)    |https://tboenig.github.io/gt_structure_5_1/|
 |                  |https://tboenig.github.io/gt_structure_5_2/|
 |                  |https://tboenig.github.io/gt_structure_5_3/|
 
