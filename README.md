@@ -29,8 +29,8 @@ Fig 1: Complex representation of the DTA data workflow
 - Dokumentation: Konkordanz zu Zonen und Regionen im DTA Zot-Format sowie DTABf (TEI) 
   -  Siehe https://tboenig.github.io/gt-guidelines/html/trans/structur_gtpageformat.html
 
-- DTA-Repositorium Segmentierungsdaten im PAGE-Format
-  -  https://github.com/tboenig/gt_structure_all  
+- OCR-D Repositorium Segmentierungsdaten im PAGE-Format
+  -  https://github.com/ocr-d/gt_structure_all  
 
 Tab 1: Concordance between data repositories text and segmentation
 
