@@ -36,18 +36,18 @@ Tab 1: Concordance between data repositories text and segmentation
 
 |Text-Corpus       | Segmentation-Corpus|
 | --------         | --------           | 
-|[gt_structure_1](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_1)    | https://tboenig.github.io/gt_structure_1_1/|
+|[gt_structure_1](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_1)    | https://ocr-d.github.io/gt_structure_1_1/|
 |                  |https://ocr-d.github.io/gt_structure_1_2/|
 |                  |https://ocr-d.github.io/gt_structure_1_3/|
 |                  |https://ocr-d.github.io/gt_structure_1_4/|
-|[gt_structure_2](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_2)    |https://tboenig.github.io/gt_structure_2_1/|
+|[gt_structure_2](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_2)    |https://ocr-d.github.io/gt_structure_2_1/|
 |                  |https://ocr-d.github.io/gt_structure_2_2/|
 |                  |https://ocr-d.github.io/gt_structure_2_3/|
 |                  |https://tboenig.github.io/gt_structure_2_4/|
-|[gt_structure_3](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_3)    |https://tboenig.github.io/gt_structure_3_1/|
+|[gt_structure_3](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_3)    |https://ocr-d.github.io/gt_structure_3_1/|
 |                  |https://ocr-d.github.io/gt_structure_3_2/|
 |                  |https://ocr-d.github.io/gt_structure_3_3/|
-|[gt_structure_4](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_4)    |https://tboenig.github.io/gt_structure_4_1/|
+|[gt_structure_4](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_4)    |https://ocr-d.github.io/gt_structure_4_1/|
 |                  |https://ocr-d.github.io/gt_structure_4_2/|
 |                  |https://tboenig.github.io/gt_structure_4_3/|
 |[gt_structure_5](https://github.com/deutschestextarchiv/gt_structure_dtaText/tree/main/corpus/gt_structure_5)    |https://tboenig.github.io/gt_structure_5_1/|
