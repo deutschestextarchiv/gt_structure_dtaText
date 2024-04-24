@@ -26,7 +26,7 @@ Für die Nutzung von Ground Truth (GT) ist der Bestand, der im Double Keying-Ver
 Fig 1: Complex representation of the DTA data workflow
 
 ## Segmentierungdaten
-- Dokumentation: Konkordanz zu Zonen und Regionen im DTA Zot-Format sowie DTABf (TEI) 
+- Dokumentation: Konkordanz zu Zonen und Regionen im DTABf (TEI) sowie DTA Zot-Format 
   -  Siehe https://tboenig.github.io/gt-guidelines/html/trans/structur_gtpageformat.html
 
 - OCR-D Repositorium Segmentierungsdaten im PAGE-Format
